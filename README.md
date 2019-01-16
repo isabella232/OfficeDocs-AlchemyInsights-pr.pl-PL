@@ -1,0 +1,2 @@
+## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft Open Source Kodeksu postępowania
+Ten projekt przyjęła [Microsoft Open Source Kodeksu postępowania](https://opensource.microsoft.com/codeofconduct/). Aby uzyskać więcej informacji zobacz [Kod prowadzenia FAQ](https://opensource.microsoft.com/codeofconduct/faq/) lub skontaktuj się z [opencode@microsoft.com](mailto:opencode@microsoft.com) jakiekolwiek dodatkowe pytania lub komentarze.
