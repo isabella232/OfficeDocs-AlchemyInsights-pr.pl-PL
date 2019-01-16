@@ -1,0 +1,33 @@
+---
+title: Otrzymasz kopię Twoim miesięcznym zestawieniu rozliczeniowym w wiadomości e-mail
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: mnirkhe
+ms.date: 1/9/2019
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
+ms.openlocfilehash: f3cf1efa9c8e342a11b7cc0859347769d330fe46
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: pl-PL
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28303943"
+---
+Jeśli chcesz, możesz otrzymywać kopie zestawień rozliczeniowych jako załącznik wiadomości e-mail. Jeśli wybierzesz tę opcję, pamiętaj o następujących kwestiach:
+  
+- Wiadomość e-mail zostanie wysłana zarówno na podstawowy, jak i alternatywny adres e-mail, do każdej osoby wymienionej jako adresat powiadomień.
+    
+- Będziesz otrzymywać dwa osobne wiadomości e-mail: taki, który informuje, że rachunek jest gotowy, z instrukcjami, aby zalogować się do Centrum administracyjnego, aby go wyświetlić, a drugi wiadomość e-mail, która zawiera wyciągu jako załącznik.
+    
+Aby otrzymać Twoim miesięcznym zestawieniu rozliczeniowym w wiadomości e-mail:
+  
+1. Centrum administracyjnego, przejdź na stronę [powiadomienia rozliczeniowe](https://go.microsoft.com/fwlink/p/?linkid=853212) lub wybierz **płatności** \> **powiadomienia rozliczeniowe**.
+    
+    Jeśli korzystasz z usługi Office 365 Germany, przejdź do strony [Powiadomienia o rozliczeniach](https://go.microsoft.com/fwlink/p/?linkid=853213). 
+    
+2. Pod **Czy chcesz otrzymywać wyciągu jako załącznik wiadomości e-mail?**, ustaw przełącznik na **On**. Możesz zrezygnować z otrzymywania e-maile zestawienie rozliczeniowe w każdej chwili przez przełączenie przełącznika **off**.
+    
+
