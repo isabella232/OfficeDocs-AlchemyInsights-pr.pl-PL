@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: pl-PL
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383405"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 1/11/2019 | [Usuwanie użytkowników](/AlchemyInsights/deleting-users) | Zmodyfikowano |
 | 1/11/2019 | [Wdrażanie bezszwowe rejestracji jednokrotnej](/AlchemyInsights/deploy-seamless-single-sign-on) | Zmodyfikowano |
 | 1/11/2019 | [Wyłącz dostęp do Yammer](/AlchemyInsights/disable-access-to-yammer) | Zmodyfikowano |
+
+
+## <a name="week-of-january-14-2019"></a>Tydzień 14 stycznia 2019 r.
+
+
+| Opublikowano: |Tytuł tematu | Zmiana |
+|------|------------|--------|
+| 1/14/2019 | Symbol zastępczy alchemy | usunięte |
+| 1/14/2019 | Dodaj domenę alchemy | usunięte |
+| 1/14/2019 | [Strona główna spostrzeżenia alchemy](/AlchemyInsights/index) | Zmodyfikowano |
+| 1/17/2019 | [tak samo jak najlepiej nazwa_pliku [reguła #-opis]](/AlchemyInsights/1-alchemy-insight-template) | dodane |
