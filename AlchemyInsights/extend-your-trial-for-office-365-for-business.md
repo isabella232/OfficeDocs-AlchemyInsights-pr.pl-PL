@@ -1,5 +1,5 @@
 ---
-title: Rozszerzyć wersję próbną pakietu Office 365 dla firm
+title: Przedłużanie okresu próbnego usługi Office 365 dla firm
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
 ms.openlocfilehash: c325ca115037831d220d9dd5a7b092ab74aee593
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28303846"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29482604"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Rozszerzyć wersję próbną pakietu Office 365 dla firm
+# <a name="extend-your-trial-for-office-365-for-business"></a>Przedłużanie okresu próbnego usługi Office 365 dla firm
 
 Jeśli subskrypcji wersji próbnej jest w ciągu 15 dni upływającego i badania klinicznego nie został przedłużony przed, można rozszerzyć na kolejny okres 30-dniowej wersji próbnej. Możesz wykonać tylko ten jeden raz.
   
