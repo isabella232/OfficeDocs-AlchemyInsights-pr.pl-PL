@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
 ms.openlocfilehash: b3c72033dfcc093dd0c2837d2866c6a78d64449c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28304370"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29482487"
 ---
-# <a name="restore-a-deleted-site-collection"></a><span data-ttu-id="64247-102">Przywracanie usuniętego zbioru witryn</span><span class="sxs-lookup"><span data-stu-id="64247-102">Restore a deleted site collection</span></span>
+# <a name="restore-a-deleted-site-collection"></a><span data-ttu-id="9195a-102">Przywracanie usuniętego zbioru witryn</span><span class="sxs-lookup"><span data-stu-id="9195a-102">Restore a deleted site collection</span></span>
 
-<span data-ttu-id="64247-p101">Gdy administrator usunie zbiór witryn klasyczny, jest umieszczony w zbiorze witryn Kosza, gdzie jest przechowywany 93 dni, zanim zostanie trwale usunięty. Aby przywrócić zbiór witryn:</span><span class="sxs-lookup"><span data-stu-id="64247-p101">When an admin deletes a classic site collection, it's placed in the site collection Recycle Bin, where it's kept for 93 days before it's permanently deleted. To restore the site collection:</span></span>
+<span data-ttu-id="9195a-p101">Gdy administrator usunie zbiór witryn klasyczny, jest umieszczony w zbiorze witryn Kosza, gdzie jest przechowywany 93 dni, zanim zostanie trwale usunięty. Aby przywrócić zbiór witryn:</span><span class="sxs-lookup"><span data-stu-id="9195a-p101">When an admin deletes a classic site collection, it's placed in the site collection Recycle Bin, where it's kept for 93 days before it's permanently deleted. To restore the site collection:</span></span>
   
-1. <span data-ttu-id="64247-105">W Centrum administracyjnego programu SharePoint klasycznych na wstążce kliknij przycisk **Kosz** .</span><span class="sxs-lookup"><span data-stu-id="64247-105">In the classic SharePoint admin center, click **Recycle Bin** on the ribbon.</span></span> 
+1. <span data-ttu-id="9195a-105">W Centrum administracyjnego programu SharePoint klasycznych na wstążce kliknij przycisk **Kosz** .</span><span class="sxs-lookup"><span data-stu-id="9195a-105">In the classic SharePoint admin center, click **Recycle Bin** on the ribbon.</span></span> 
     
-2. <span data-ttu-id="64247-106">Zaznacz pole wyboru obok tego zbioru witryn, które chcesz przywrócić.</span><span class="sxs-lookup"><span data-stu-id="64247-106">Select the check box next to the site collection you want to restore.</span></span>
+2. <span data-ttu-id="9195a-106">Zaznacz pole wyboru obok tego zbioru witryn, które chcesz przywrócić.</span><span class="sxs-lookup"><span data-stu-id="9195a-106">Select the check box next to the site collection you want to restore.</span></span>
     
-3. <span data-ttu-id="64247-107">Kliknij **Przywracanie elementów usuniętych**.</span><span class="sxs-lookup"><span data-stu-id="64247-107">Click **Restore Deleted Items**.</span></span>
+3. <span data-ttu-id="9195a-107">Kliknij **Przywracanie elementów usuniętych**.</span><span class="sxs-lookup"><span data-stu-id="9195a-107">Click **Restore Deleted Items**.</span></span>
     
-<span data-ttu-id="64247-p102">Aby przywrócić witrynę usuniętych komunikacji, można użyć podglądu nowe Centrum administratora programu SharePoint. W przeciwnym wypadku należy użyć środowiska PowerShell. Aby przywrócić witryny, która należy do grupy usługi Office 365, należy przywrócić grupy w Centrum administracyjnego programu Exchange. Grupy można przywrócić w ciągu 30 dni od zostaną usunięte.</span><span class="sxs-lookup"><span data-stu-id="64247-p102">To restore a deleted communication site, you can use the new SharePoint admin center preview. Otherwise, you need to use PowerShell. To restore a site that belongs to an Office 365 group, you need to restore the group in the Exchange admin center. Groups can be restored for 30 days after they're deleted.</span></span>
+<span data-ttu-id="9195a-p102">Aby przywrócić witrynę usuniętych komunikacji, można użyć podglądu nowe Centrum administratora programu SharePoint. W przeciwnym wypadku należy użyć środowiska PowerShell. Aby przywrócić witryny, która należy do grupy usługi Office 365, należy przywrócić grupy w Centrum administracyjnego programu Exchange. Grupy można przywrócić w ciągu 30 dni od zostaną usunięte.</span><span class="sxs-lookup"><span data-stu-id="9195a-p102">To restore a deleted communication site, you can use the new SharePoint admin center preview. Otherwise, you need to use PowerShell. To restore a site that belongs to an Office 365 group, you need to restore the group in the Exchange admin center. Groups can be restored for 30 days after they're deleted.</span></span>
   
 

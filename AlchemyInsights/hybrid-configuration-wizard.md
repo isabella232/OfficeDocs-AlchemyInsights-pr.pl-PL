@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
 ms.openlocfilehash: 9b8dc5780cdf1ef83f352ebafe0b0045c117cc44
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28304536"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29482446"
 ---
-# <a name="hybrid-configuration-wizard"></a><span data-ttu-id="ae61c-102">Kreator konfiguracji hybrydowy</span><span class="sxs-lookup"><span data-stu-id="ae61c-102">Hybrid Configuration wizard</span></span>
+# <a name="hybrid-configuration-wizard"></a><span data-ttu-id="f1c76-102">Kreator konfiguracji hybrydowy</span><span class="sxs-lookup"><span data-stu-id="f1c76-102">Hybrid Configuration wizard</span></span>
 
-<span data-ttu-id="ae61c-p101">Kreator konfiguracji hybrydowy jest aplikacja, która pomoże Ci skonfigurować nowe wdrożenie hybrydowe między lokalnej organizacji programu Exchange i Office 365. Jeśli masz już skonfigurować wdrożenie hybrydowe, kreator pomoże Ci zaktualizuj ustawienia wdrażania hybrydowy. Aby uzyskać więcej informacji Sprawdź:</span><span class="sxs-lookup"><span data-stu-id="ae61c-p101">The Hybrid Configuration wizard is an app that helps you set up a new hybrid deployment between your on-premises Exchange organization and Office 365. If you already have a hybrid deployment set up, the wizard helps you update your hybrid deployment settings. For more information, check out:</span></span>
+<span data-ttu-id="f1c76-p101">Kreator konfiguracji hybrydowy jest aplikacja, która pomoże Ci skonfigurować nowe wdrożenie hybrydowe między lokalnej organizacji programu Exchange i Office 365. Jeśli masz już skonfigurować wdrożenie hybrydowe, kreator pomoże Ci zaktualizuj ustawienia wdrażania hybrydowy. Aby uzyskać więcej informacji Sprawdź:</span><span class="sxs-lookup"><span data-stu-id="f1c76-p101">The Hybrid Configuration wizard is an app that helps you set up a new hybrid deployment between your on-premises Exchange organization and Office 365. If you already have a hybrid deployment set up, the wizard helps you update your hybrid deployment settings. For more information, check out:</span></span>
   
-- [<span data-ttu-id="ae61c-106">Uruchom Kreatora konfiguracji hybrydowy</span><span class="sxs-lookup"><span data-stu-id="ae61c-106">Run Hybrid Configuration wizard</span></span>](https://technet.microsoft.com/en-us/library/mt595788%28v=exchg.150%29.aspx)
+- [<span data-ttu-id="f1c76-106">Uruchom Kreatora konfiguracji hybrydowy</span><span class="sxs-lookup"><span data-stu-id="f1c76-106">Run Hybrid Configuration wizard</span></span>](https://technet.microsoft.com/en-us/library/mt595788%28v=exchg.150%29.aspx)
     
-- [<span data-ttu-id="ae61c-107">Kreator konfiguracji hybrydowy</span><span class="sxs-lookup"><span data-stu-id="ae61c-107">Hybrid Configuration wizard</span></span>](https://technet.microsoft.com/en-us/library/hh529921%28v=exchg.150%29.aspx)
+- [<span data-ttu-id="f1c76-107">Kreator konfiguracji hybrydowy</span><span class="sxs-lookup"><span data-stu-id="f1c76-107">Hybrid Configuration wizard</span></span>](https://technet.microsoft.com/en-us/library/hh529921%28v=exchg.150%29.aspx)
     
-- [<span data-ttu-id="ae61c-108">NZP Kreatora konfiguracji hybrydowy</span><span class="sxs-lookup"><span data-stu-id="ae61c-108">Hybrid Configuration wizard FAQs</span></span>](https://technet.microsoft.com/en-us/library/mt488940%28v=exchg.150%29.aspx)
+- [<span data-ttu-id="f1c76-108">NZP Kreatora konfiguracji hybrydowy</span><span class="sxs-lookup"><span data-stu-id="f1c76-108">Hybrid Configuration wizard FAQs</span></span>](https://technet.microsoft.com/en-us/library/mt488940%28v=exchg.150%29.aspx)
     
 
