@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a2952e2b-bcb4-471b-8ab1-dce8aff76d70
 ms.openlocfilehash: f29255f880bed9c707b87b41f58a5ffc44f04293
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28304195"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29483207"
 ---
-# <a name="how-to-install-office-on-an-iphone"></a><span data-ttu-id="941db-102">Jak zainstalować pakiet Office na iPhone</span><span class="sxs-lookup"><span data-stu-id="941db-102">How to install Office on an iPhone</span></span>
+# <a name="how-to-install-office-on-an-iphone"></a><span data-ttu-id="6103f-102">Jak zainstalować pakiet Office na iPhone</span><span class="sxs-lookup"><span data-stu-id="6103f-102">How to install Office on an iPhone</span></span>
 
-- <span data-ttu-id="941db-103">Upewnij się, że użytkownik ma konta służbowego skojarzonego z [uprawniająca subskrypcja usługi Office 365](https://support.office.com/article/9ef8b63a-05fd-4f9c-bac5-29da046833ea).</span><span class="sxs-lookup"><span data-stu-id="941db-103">Ensure your user has a work or school account associated with [a qualifying Office 365 subscription](https://support.office.com/article/9ef8b63a-05fd-4f9c-bac5-29da046833ea).</span></span>
+- <span data-ttu-id="6103f-103">Upewnij się, że użytkownik ma konta służbowego skojarzonego z [uprawniająca subskrypcja usługi Office 365](https://support.office.com/article/9ef8b63a-05fd-4f9c-bac5-29da046833ea).</span><span class="sxs-lookup"><span data-stu-id="6103f-103">Ensure your user has a work or school account associated with [a qualifying Office 365 subscription](https://support.office.com/article/9ef8b63a-05fd-4f9c-bac5-29da046833ea).</span></span>
     
-- <span data-ttu-id="941db-104">Mieć użytkownika [Wybierz łącze pobierania](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628) z urządzenia mobilnego, Word, Excel, PowerPoint i OneNote.</span><span class="sxs-lookup"><span data-stu-id="941db-104">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span> 
+- <span data-ttu-id="6103f-104">Mieć użytkownika [Wybierz łącze pobierania](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628) z urządzenia mobilnego, Word, Excel, PowerPoint i OneNote.</span><span class="sxs-lookup"><span data-stu-id="6103f-104">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span> 
     
-- <span data-ttu-id="941db-105">Mają użytkownika Uruchom aplikację, wybierz przycisk **Zaloguj** i wprowadzanie ich pracy lub szkoły poświadczenia.</span><span class="sxs-lookup"><span data-stu-id="941db-105">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span> 
+- <span data-ttu-id="6103f-105">Mają użytkownika Uruchom aplikację, wybierz przycisk **Zaloguj** i wprowadzanie ich pracy lub szkoły poświadczenia.</span><span class="sxs-lookup"><span data-stu-id="6103f-105">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span> 
     
 
