@@ -1,5 +1,5 @@
 ---
-title: Włączanie archiwum skrzynki pocztowej
+title: Włączanie archiwalnej skrzynki pocztowej
 ms.author: markjjo
 author: markjjo
 ms.date: 8/2/2018
@@ -9,13 +9,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
 ms.openlocfilehash: 1e883894d97e6aff5de740d91a80aba25846953a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28304350"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29482669"
 ---
-# <a name="enable-an-archive-mailbox"></a>Włączanie archiwum skrzynki pocztowej
+# <a name="enable-an-archive-mailbox"></a>Włączanie archiwalnej skrzynki pocztowej
 
 Archiwum skrzynek pocztowych w usłudze Office 365 (zwane również *Archiwum Online* ) zapewniają użytkownikom miejsca na dodatkowe pocztę e-mail. Użytkowników można przenosić lub kopiować elementy do archiwum skrzynki pocztowej, a administratorzy mogą tworzyć zasad archiwizacji, która automatycznie przenosi elementy do archiwum skrzynki pocztowe. 
   
