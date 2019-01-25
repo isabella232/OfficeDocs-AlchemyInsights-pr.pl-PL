@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: 59f1aefaeec3d655b2388b00e7d58a8c2338504b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28303957"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29483270"
 ---
 # <a name="conditional-access-with-intune"></a>Warunkowy dostęp z Windows Intune
 
@@ -25,7 +25,7 @@ Przy użyciu **Dostępu warunkowego** w usłudze Intune wymaga 3 kroki:
     
 - Zapewnienie zarówno **Zasady dostępu warunkowego** , jak i **Zasady zgodności** są kierowane do żądanej grupy użytkowników. To może być konieczne utworzenie określonych grup użytkowników w usłudze Active Directory Azure. 
     
-Dowiedz się więcej:
+Przeczytaj więcej
   
 - [Warunkowy dostęp do najlepszych praktyk](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/best-practices)
     

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ad290ba4-169e-4866-9c78-2763319e9ed0
 ms.openlocfilehash: 1c98fcf991bc1e8648d23178b169bc6aba67784a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28304367"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29482936"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Włączanie zewnętrznego lub wyłączyć udostępnianie dla programu SharePoint
 
@@ -25,7 +25,7 @@ ms.locfileid: "28304367"
 2. Włączyć lub wyłączyć ustawienie, lub wybierz opcję udostępniania, jeśli jest włączona.
     
 > [!NOTE]
-> Wyłączenie udostępniania programu SharePoint spowoduje jego wyłączenie dla OneDrive. Aby Zezwól na udostępnianie w dowolnej witrynie, ustawienia organizacji musi być na. > Aby Zezwól na udostępnianie dla OneDrive lub pojedynczych witryn programu SharePoint, należy wyłączyć go na poziomie organizacji dla programu SharePoint. Użytkownik może następnie wyłączyć tę funkcję dla określonych zbiorów witryn. Aby zarządzać ustawienia udostępniania zewnętrznych dla komunikacji witryn i witryn, które należą do grup usługi Office 365, należy użyć nowego Centrum administracyjnego programu SharePoint (Podgląd) lub programu PowerShell. Aby uzyskać więcej informacji o zarządzaniu ustawieniami udostępniania zewnętrznych zobacz [Włączanie i wyłączanie udostępniania zewnętrznych](https://go.microsoft.com/fwlink/?linkid=866426). 
+> Wyłączenie udostępniania programu SharePoint spowoduje jego wyłączenie dla OneDrive. Aby Zezwól na udostępnianie w dowolnej witrynie, ustawienia organizacji musi być na. > do Zezwól na udostępnianie dla OneDrive lub pojedynczych witryn programu SharePoint, musisz włączyć ją na poziomie organizacji dla programu SharePoint. Użytkownik może następnie wyłączyć tę funkcję dla określonych zbiorów witryn. Aby zarządzać ustawienia udostępniania zewnętrznych dla komunikacji witryn i witryn, które należą do grup usługi Office 365, należy użyć nowego Centrum administracyjnego programu SharePoint (Podgląd) lub programu PowerShell. Aby uzyskać więcej informacji o zarządzaniu ustawieniami udostępniania zewnętrznych zobacz [Włączanie i wyłączanie udostępniania zewnętrznych](https://go.microsoft.com/fwlink/?linkid=866426). 
   
 [Więcej informacji na temat udostępniania zewnętrznych w programie SharePoint](https://go.microsoft.com/fwlink/?linkid=734908)
   

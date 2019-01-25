@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
 ms.openlocfilehash: 5def8c3d396c1324112bfc9288ad18755142c14d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28304738"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29497988"
 ---
 # <a name="allow-users-to-send-email-as-a-distribution-group"></a>Zezwól użytkownikom na wysyłanie wiadomości e-mail jako grupę dystrybucyjną
 
 Aby użytkownicy mogli wysyłać wiadomości, które wydają się pochodzić z istniejącej grupy dystrybucji, wykonaj następujące kroki:
   
-1. W [Centrum administracyjnego programu Exchange](https://outlook.office365.com/ecp/), przejdź do **adresatów** \> **grup**.
+1. W Centrum administracyjnym programu Exchange przejdź do pozycji [Adresaci](https://outlook.office365.com/ecp/) **** \>.
     
 2. Wybierz grupę dystrybucji, którą chcesz zmodyfikować, a następnie kliknij przycisk **Edytuj**.
     

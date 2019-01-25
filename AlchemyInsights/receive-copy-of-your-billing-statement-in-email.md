@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
 ms.openlocfilehash: f3cf1efa9c8e342a11b7cc0859347769d330fe46
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28303943"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29483127"
 ---
 Jeśli chcesz, możesz otrzymywać kopie zestawień rozliczeniowych jako załącznik wiadomości e-mail. Jeśli wybierzesz tę opcję, pamiętaj o następujących kwestiach:
   
@@ -22,9 +22,9 @@ Jeśli chcesz, możesz otrzymywać kopie zestawień rozliczeniowych jako załąc
     
 - Będziesz otrzymywać dwa osobne wiadomości e-mail: taki, który informuje, że rachunek jest gotowy, z instrukcjami, aby zalogować się do Centrum administracyjnego, aby go wyświetlić, a drugi wiadomość e-mail, która zawiera wyciągu jako załącznik.
     
-Aby otrzymać Twoim miesięcznym zestawieniu rozliczeniowym w wiadomości e-mail:
+Aby otrzymać zestawienie rozliczeniowe w wiadomości e-mail
   
-1. Centrum administracyjnego, przejdź na stronę [powiadomienia rozliczeniowe](https://go.microsoft.com/fwlink/p/?linkid=853212) lub wybierz **płatności** \> **powiadomienia rozliczeniowe**.
+1. W Centrum administracyjnym przejdź do strony [Powiadomienia o rozliczeniach](https://go.microsoft.com/fwlink/p/?linkid=853212) lub wybierz pozycję **Rozliczenia** \> **Powiadomienia o rozliczeniach**.
     
     Jeśli korzystasz z usługi Office 365 Germany, przejdź do strony [Powiadomienia o rozliczeniach](https://go.microsoft.com/fwlink/p/?linkid=853213). 
     
