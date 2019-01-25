@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.assetid: 21dfcf5e-223c-4379-b832-ea35afe81cd7
 description: Twój artykuł rozpoczynać się bardzo krótkie wprowadzenie (1 zdanie). Postawić się w miejscu czytelnika - dlaczego są one w tym miejscu? Co należy zrobić?
 ms.openlocfilehash: 8271e53144341ad68665588b2ec53f0763669aef
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28304948"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29482835"
 ---
 Twój artykuł rozpoczynać się bardzo krótkie wprowadzenie (1 zdanie). Postawić się w miejscu czytelnika - dlaczego są one w tym miejscu? Co należy zrobić? 
   

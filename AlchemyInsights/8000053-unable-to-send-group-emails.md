@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
 ms.openlocfilehash: d5ffe2695c7a81380126e6ee58eae8fcbcb72832
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28304399"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29482794"
 ---
 # <a name="unable-to-send-group-emails"></a>Nie można wysłać wiadomości e-mail z grupy
 
@@ -26,7 +26,7 @@ Jeśli nie jest możliwe wysłanie wiadomości e-mail do listy kontaktów lub gr
     
 2. Jeśli nadal występują problemy z redagowanie wiadomości e-mail do grupy, przejdź [osób](https://outlook.live.com/people/), Wybieranie listy kontaktów lub grupy, a następnie wybierz **Wyślij pocztą e-mail**.
     
- **Uwagi:**
+ **Uwagi**
   
 1. Upewnij się, nie mają wyskakujące okienka zablokowane: wysyłanie wiadomości e-mail ze strony listy kontaktów otwiera nowe okno.
     

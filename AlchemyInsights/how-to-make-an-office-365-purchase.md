@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
 ms.openlocfilehash: 6a6fa89baabb5f952e90c3eed1017c7cbad5ffa0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28304959"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29483166"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Jak dokonać zakupu usługi Office 365
 
@@ -36,6 +36,6 @@ W Centrum administracyjnego mogą dokonywać zakupów w usłudze Office 365. Prz
   
 - [Przypisywanie licencji użytkownikom w usłudze Office 365 dla firm](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [Anulowanie usługi Office 365 dla firm](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Anulowanie subskrypcji usługi Office 365 dla firm](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
 

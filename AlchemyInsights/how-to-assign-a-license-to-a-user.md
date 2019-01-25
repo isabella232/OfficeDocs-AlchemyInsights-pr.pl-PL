@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
 ms.openlocfilehash: 61adcd2ba21a98793d072d3fad2d9d2e68fa3c20
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28304755"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29483363"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Jak przypisać jedną licencję do użytkownika
 
 Użytkownik musi mieć licencję na dostęp do usług. Poniżej przedstawiono kroki, aby dodać, zmienić lub usunąć licencji od użytkownika.
   
-1. W Centrum administracyjnym przejdź na stronę [Aktywnych użytkowników](https://go.microsoft.com/fwlink/p/?linkid=834822) lub wybierz **użytkowników** \> **aktywnych użytkowników**.
+1. W centrum administracyjnym przejdź do strony [Aktywni użytkownicy](https://go.microsoft.com/fwlink/p/?linkid=834822) lub wybierz pozycję **Użytkownicy** \> **Aktywni użytkownicy**.
     
 2. Zaznacz pole obok nazwy użytkownika, któremu chcesz przypisać, zmienić lub usunąć licencji.
     
