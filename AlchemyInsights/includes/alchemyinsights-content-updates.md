@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
-ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454440"
----
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -14,7 +6,7 @@ ms.locfileid: "29454440"
 ## <a name="week-of-january-07-2019"></a>Tydzień 07 stycznia 2019 r.
 
 
-| Opublikowano: |Tytuł tematu | Zmień. |
+| Opublikowano: |Tytuł tematu | Zmiana |
 |------|------------|--------|
 | 1/7/2019 | [Zmiana hasła](/AlchemyInsights/change-your-password-in-outlook.com) | dodane |
 | 1/7/2019 | [Zmiana uprawnień w skrzynce pocztowej](/AlchemyInsights/changing-permissions-on-a-mailbox) | dodane |
@@ -218,7 +210,7 @@ ms.locfileid: "29454440"
 | 1/10/2019 | [Dodać lub usunąć alias e-mail użytkownika](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | dodane |
 | 1/10/2019 | [Dodawanie miejsc do przedpłaconej subskrypcji](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | dodane |
 | 1/10/2019 | [Dodawanie miejsc do przedpłaconej subskrypcji](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | dodane |
-| 1/10/2019 | Dodawanie użytkowników do usługi Office 365 | dodane |
+| 1/10/2019 | [Dodawanie użytkowników do usługi Office 365](/AlchemyInsights/add-users-to-office-365) | dodane |
 | 1/10/2019 | [Dodawanie użytkowników zewnętrznych do grupy dystrybucyjnej?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | dodane |
 | 1/10/2019 | [Dodawanie użytkowników zewnętrznych](/AlchemyInsights/adding-external-users) | dodane |
 | 1/10/2019 | [ADFS federacyjnej Wygasający certyfikat](/AlchemyInsights/adfs-federation-certificate-expiring) | dodane |
@@ -272,7 +264,7 @@ ms.locfileid: "29454440"
 | 1/10/2019 | [Zmień nazwę domeny w dokumentacji Online programu SharePoint](/AlchemyInsights/change-domain-name-in-sharepoint-online) | dodane |
 | 1/10/2019 | [Zmień częstotliwość płatności](/AlchemyInsights/change-how-often-you-pay) | dodane |
 | 1/10/2019 | [Zmień urząd MDM](/AlchemyInsights/change-mdm-authority) | dodane |
-| 1/10/2019 | Change nameservers | dodane |
+| 1/10/2019 | [Zmienianie serwerów nazw](/AlchemyInsights/change-nameservers) | dodane |
 | 1/10/2019 | [Zmiana OneDrive dla firmy przydziału miejsca do magazynowania](/AlchemyInsights/change-onedrive-for-business-storage-quota) | dodane |
 | 1/10/2019 | [Zmień metodę płatności](/AlchemyInsights/change-payment-method) | dodane |
 | 1/10/2019 | [Zmień uprawnienia dla listy programu SharePoint lub biblioteki](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | dodane |
@@ -515,7 +507,7 @@ ms.locfileid: "29454440"
 | 1/11/2019 | [Dodać lub usunąć alias e-mail użytkownika](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | Zmodyfikowano |
 | 1/11/2019 | [Dodawanie miejsc do przedpłaconej subskrypcji](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | Zmodyfikowano |
 | 1/11/2019 | [Dodawanie miejsc do przedpłaconej subskrypcji](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | Zmodyfikowano |
-| 1/11/2019 | Dodawanie użytkowników do usługi Office 365 | Zmodyfikowano |
+| 1/11/2019 | [Dodawanie użytkowników do usługi Office 365](/AlchemyInsights/add-users-to-office-365) | Zmodyfikowano |
 | 1/11/2019 | [Dodawanie użytkowników zewnętrznych do grupy dystrybucyjnej?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | Zmodyfikowano |
 | 1/11/2019 | [Dodawanie użytkowników zewnętrznych](/AlchemyInsights/adding-external-users) | Zmodyfikowano |
 | 1/11/2019 | [ADFS federacyjnej Wygasający certyfikat](/AlchemyInsights/adfs-federation-certificate-expiring) | Zmodyfikowano |
@@ -569,7 +561,7 @@ ms.locfileid: "29454440"
 | 1/11/2019 | [Zmień nazwę domeny w dokumentacji Online programu SharePoint](/AlchemyInsights/change-domain-name-in-sharepoint-online) | Zmodyfikowano |
 | 1/11/2019 | [Zmień częstotliwość płatności](/AlchemyInsights/change-how-often-you-pay) | Zmodyfikowano |
 | 1/11/2019 | [Zmień urząd MDM](/AlchemyInsights/change-mdm-authority) | Zmodyfikowano |
-| 1/11/2019 | Change nameservers | Zmodyfikowano |
+| 1/11/2019 | [Zmienianie serwerów nazw](/AlchemyInsights/change-nameservers) | Zmodyfikowano |
 | 1/11/2019 | [Zmiana OneDrive dla firmy przydziału miejsca do magazynowania](/AlchemyInsights/change-onedrive-for-business-storage-quota) | Zmodyfikowano |
 | 1/11/2019 | [Zmień metodę płatności](/AlchemyInsights/change-payment-method) | Zmodyfikowano |
 | 1/11/2019 | [Zmień uprawnienia dla listy programu SharePoint lub biblioteki](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | Zmodyfikowano |
@@ -637,9 +629,25 @@ ms.locfileid: "29454440"
 ## <a name="week-of-january-14-2019"></a>Tydzień 14 stycznia 2019 r.
 
 
-| Opublikowano: |Tytuł tematu | Zmień. |
+| Opublikowano: |Tytuł tematu | Zmiana |
 |------|------------|--------|
 | 1/14/2019 | Symbol zastępczy alchemy | usunięte |
 | 1/14/2019 | Dodaj domenę alchemy | usunięte |
 | 1/14/2019 | [Strona główna spostrzeżenia alchemy](/AlchemyInsights/index) | Zmodyfikowano |
 | 1/17/2019 | [tak samo jak najlepiej nazwa_pliku [reguła #-opis]](/AlchemyInsights/1-alchemy-insight-template) | dodane |
+
+
+## <a name="week-of-january-21-2019"></a>Tydzień 21 stycznia 2019 r.
+
+
+| Opublikowano: |Tytuł tematu | Zmiana |
+|------|------------|--------|
+| 1/22/2019 | [Ochrona antyspamowa 1047 550 5.7.708 usługa jest niedostępna. Odmowa dostępu, ruch nie jest akceptowane z tego adresu IP](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | Zmodyfikowano |
+| 1/22/2019 | [Ochrona antyspamowa 4.5.3 1049 jest zbyt wielu adresatów (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | Zmodyfikowano |
+| 1/22/2019 | [Serwer ochrony przed wirusami 4.7.500 1050 jest zajęty. Spróbuj ponownie później z [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | Zmodyfikowano |
+| 1/22/2019 | [Ochrona antyspamowa 1051 4.7.500, których odmowa dostępu, spróbuj ponownie później](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | Zmodyfikowano |
+| 1/22/2019 | [Przekazywania poczty e-mail za pośrednictwem usługi Office 365](/AlchemyInsights/relay-email-through-office-365) | Zmodyfikowano |
+| 1/24/2019 | [Tworzenie formantu grup](/AlchemyInsights/control-creation-of-groups) | Zmodyfikowano |
+| 1/24/2019 | [Problemy z programu Outlook z programem Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | dodane |
+| 1/24/2019 | [Przywracanie grupy usługi Office 365 przy użyciu centrum administracyjnego programu Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | zmieniono jego nazwę |
+| 1/24/2019 | [Rozwiązywanie problemów z Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | zmieniono jego nazwę |
