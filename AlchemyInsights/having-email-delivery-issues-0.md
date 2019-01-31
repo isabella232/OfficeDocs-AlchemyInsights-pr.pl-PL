@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 51fea2ad-81d4-4b65-9d24-e2f953aa814a
-ms.openlocfilehash: 4a6dd85e60f62fb1bf4d0c29b1fac5ea8480be62
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 7d97ae69372047e924af6653230fa62f2393dd48
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29482519"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659385"
 ---
 # <a name="having-email-delivery-issues"></a>Masz problemy z dostarczaniem wiadomości e-mail?
 
@@ -21,7 +21,7 @@ Wykryliśmy, że użytkownicy nie mogą odbierać wiadomości e-mail wysyłanych
   
 {HealthCheckString}
   
-Rekordy NS, MX lub ustawienia domeny (DNS) nie są poprawnie skonfigurowane do dostarczania poczty e-mail w usłudze Office 365. Aby uzyskać szczegółowe instrukcje może dotyczyć [rekordy DNS aktualizacji w usłudze Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) . 
+Rekordy NS, MX lub ustawienia domeny (DNS) nie są poprawnie skonfigurowane do dostarczania poczty e-mail w usłudze Office 365. Aby uzyskać szczegółowe instrukcje może dotyczyć [rekordy DNS aktualizacji w usłudze Office 365](https://support.office.com/article/https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) . 
   
 Aby to naprawić, przejdź do strony [domen](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/Domains) w Centrum Office 365 Admin, a pomożemy Ci z nim. 
   

@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: c71fce8621057093d23891c26f7b0285fdc8b9ed
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 589820c945fb20f00431655f9f53196e740bb38f
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29482908"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655821"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Rozwiązywanie problemów z synchronizacją haseł
 
@@ -57,6 +57,6 @@ Zadania dotyczące rozwiązywania problemów, wykonuje następujące kontrole:
     
   - Sprawdza, czy konta Usługi domenowe w usłudze Active Directory (AD DS), używane przez łącznik usługi Active Directory na lokalnym ma poprawną nazwę użytkownika, hasło i uprawnienia wymagane dla synchronizacji haseł.
     
-Aby uzyskać pomoc, rozwiązywanie problemów z synchronizacji haseł zobacz [Rozwiązywanie problemów z synchronizacji haseł z Azure AD Connect synchronizacją](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
+Aby uzyskać pomoc, rozwiązywanie problemów z synchronizacji haseł zobacz [Rozwiązywanie problemów z synchronizacji haseł z Azure AD Connect synchronizacją](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
   
 

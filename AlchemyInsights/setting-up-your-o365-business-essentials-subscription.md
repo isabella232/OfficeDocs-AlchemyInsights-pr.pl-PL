@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: f637accfbcf9e3f77ab75dd89bb618e4eb5c4cf0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 0fa0168722c6c75aa68bbad7fefdde7ca924be85
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483284"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662409"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Konfigurowanie subskrypcji O365 Business Essentials
 
@@ -23,24 +23,24 @@ Tworzenie kont usługi Office 365 i dodawania domeny
     
 - Przejdź do [Centrum administracyjnego usługi Office 365](https://login.partner.microsoftonline.cn/).
     
-- Aby uruchomić kreatora, wybierz polecenie **Przejdź do instalacji**. Aby dowiedzieć się więcej, zobacz [Dodawanie użytkowników i domeny do usługi Office 365](https://support.office.com/en-US/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+- Aby uruchomić kreatora, wybierz polecenie **Przejdź do instalacji**. Aby dowiedzieć się więcej, zobacz [Dodawanie użytkowników i domeny do usługi Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
     
 Import wiadomości e-mail
   
-- Przenieść do istniejącej wiadomości e-mail i kontaktów z innymi systemami poczty e-mail do skrzynki pocztowej usługi Office 365 tak aby był widoczny w jednym miejscu. Dla opcji migracji, [Migracja wiadomości e-mail i kontaktów do usługi Office 365](https://support.office.com/en-US/Article/Migrate-email-and-contacts-to-Office-365-a3e3bddb-582e-4133-8670-e61b9f58627e).
+- Przenieść do istniejącej wiadomości e-mail i kontaktów z innymi systemami poczty e-mail do skrzynki pocztowej usługi Office 365 tak aby był widoczny w jednym miejscu. Dla opcji migracji, [Migracja wiadomości e-mail i kontaktów do usługi Office 365](https://support.office.com/Article/Migrate-email-and-contacts-to-Office-365-a3e3bddb-582e-4133-8670-e61b9f58627e).
     
 - Łączenie kont e-mail
     
-  - Oprócz zarządzania adres e-mail usługi Office 365 w programie Outlook, inne konta e-mail do programu Outlook, można połączyć także, takich jak konta Gmail i Yahoo. Dzięki temu można zarządzać wszystkie wiadomości e-mail w jednym miejscu. Można podłączyć maksymalnie 5 konta e-mail do programu Outlook. Więcej szczegółów znajdziesz [Połącz konta e-mail w programie Outlook w sieci web (Office 365)](https://support.office.com/en-US/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - Oprócz zarządzania adres e-mail usługi Office 365 w programie Outlook, inne konta e-mail do programu Outlook, można połączyć także, takich jak konta Gmail i Yahoo. Dzięki temu można zarządzać wszystkie wiadomości e-mail w jednym miejscu. Można podłączyć maksymalnie 5 konta e-mail do programu Outlook. Więcej szczegółów znajdziesz [Połącz konta e-mail w programie Outlook w sieci web (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
     
 Zainstaluj usługę Skype dla firm
   
-- Wszystkich członków zespołu można [pobrać i zainstalować program Skype dla firmy](https://support.office.com/en-US/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) na wszystkie komputery PC, Mac, tabletki i telefony. Następnie będzie można zobaczyć stan online współpracowników, zacznij rozmowy z innych aplikacji pakietu Office i hosta wideo spotkania z udziałem do 250 osób. 
+- Wszystkich członków zespołu można [pobrać i zainstalować program Skype dla firmy](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) na wszystkie komputery PC, Mac, tabletki i telefony. Następnie będzie można zobaczyć stan online współpracowników, zacznij rozmowy z innych aplikacji pakietu Office i hosta wideo spotkania z udziałem do 250 osób. 
     
 Przechowywanie plików w trybie online
   
 - Aby dowiedzieć się, jakich lokalizacjach przechowywania są najlepsze dla Twojej firmy, zobacz [przechowywania plików w usłudze Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Każdy ma miejsce przechowywania chmury **OneDrive** automatycznie podczas tworzenia konta w usłudze Office 365 dla nich. OneDrive umożliwia dostęp do plików między komputerami, telefonami i tabletki. 
     
-W [tym artykule](https://support.office.com/en-US/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials)znajdują się szczegółowe informacje na temat konfiguracji.
+W [tym artykule](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials)znajdują się szczegółowe informacje na temat konfiguracji.
   
 

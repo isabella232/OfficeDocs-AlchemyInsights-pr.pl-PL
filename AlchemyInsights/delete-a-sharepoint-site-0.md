@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 1aebfdf0e330fa12b481dad9cfaea9cbac39604a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baf55ea91d12e274140f2e56160d6c73336ac707
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483174"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646393"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Usuwanie witryny, które należą do grupy usługi Office 365:
 
@@ -30,7 +30,7 @@ Gdy użytkownicy utworzyć nowej witryny zespołu SharePoint domowego (lub utwor
     
 Uwaga: Podczas usuwania grupy może występować opóźnienie przed usunięciem witryny z programu SharePoint.
   
-## <a name="delete-communication-sites-or-classic-sites"></a>Usuwanie witryny komunikacyjne lub klasyczny witryn:
+**Usuwanie witryny komunikacyjne lub klasyczny witryn:**
 
 1. Przejdź do witryny.
   
@@ -38,7 +38,7 @@ Uwaga: Podczas usuwania grupy może występować opóźnienie przed usunięciem 
   
 3. Kliknij opcję **Ustawienia witryny**. W obszarze **Informacji o witrynie** lub **Akcje witryny**kliknij przycisk **Usuń tę witrynę**, a następnie kliknij przycisk **Usuń**.
   
-## <a name="delete-a-sharepoint-site-collection"></a>Usuń zbiór witryn programu SharePoint:
+**Usuń zbiór witryn programu SharePoint:**
 
 Aby usunąć zbiór witryn klasyczne:
   
@@ -46,7 +46,7 @@ Aby usunąć zbiór witryn klasyczne:
     
 2. Na karcie zbiorów witryn, zaznacz **usunąć.**
     
-## <a name="deleted-a-site-by-accident"></a>Usunięte witryny przez przypadek?
+**Usunięte witryny przez przypadek?**
 
 Zobacz [Przywracanie usuniętych zaufany](https://go.microsoft.com/fwlink/?linkid=867660).
   

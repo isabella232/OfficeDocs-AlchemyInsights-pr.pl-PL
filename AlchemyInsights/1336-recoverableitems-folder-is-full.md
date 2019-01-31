@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: ee96abfa179c36ebaf43dbd327d4608b849395d3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b8b3e5389778b3aff0fbe2f6506ba2b2fc3abc7e
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29482894"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655677"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Przechowalni jest pełny
 
@@ -36,7 +36,7 @@ Skrzynki pocztowe, które nie są zablokowane, Administratorzy można użyć `Se
     
 - [Skrzynka pocztowa wyszukiwania](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
     
-Administratorzy dla skrzynek pocztowych, które zostały wstrzymane, trzeba usunąć ładowni, zanim będą mogli elementy usunięte z folderu elementów do odzyskania. Aby uzyskać więcej informacji zobacz [Usuwanie elementów w przechowalni, przytrzymaj folder chmurowych skrzynek pocztowych na](https://docs.microsoft.com/en-us/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Administratorzy dla skrzynek pocztowych, które zostały wstrzymane, trzeba usunąć ładowni, zanim będą mogli elementy usunięte z folderu elementów do odzyskania. Aby uzyskać więcej informacji zobacz [Usuwanie elementów w przechowalni, przytrzymaj folder chmurowych skrzynek pocztowych na](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
   
 Aby zapobiec przechowalni staje się pełne, Administratorzy mogą zwiększyć limit magazynowania odzyskiwalnych elementów folderu dla skrzynek pocztowych na przytrzymaj i ustawianie zasad przechowywania skrzynki pocztowej, która przenosi elementy z folderu odzyskane elementy do archiwum użytkownika Skrzynka pocztowa. Zobacz [zwiększyć odzyskane elementy przydziału dla skrzynek pocztowych na przytrzymaj](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
   

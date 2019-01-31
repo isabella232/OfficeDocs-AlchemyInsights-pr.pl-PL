@@ -2,29 +2,25 @@
 title: Tworzenie witryny programu SharePoint
 ms.author: kirks
 author: Techwriter40
-ms.date: 1/3/2019
+ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 00f3e971a4dda8b0f5feee1ad2f08101192a2816
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 92bb7b5f0a684936db52f6be9e00c8dff3378bb5
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29482910"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657513"
 ---
 # <a name="create-a-sharepoint-site"></a>Tworzenie witryny programu SharePoint
 
-Aby zarządzać witrynami w Centrum administracyjnego programu SharePoint, przejdź do Centrum administracyjnego programu SharePoint bieżącego, kliknij przycisk "Spróbuj teraz" w prawym górnym rogu, a następnie wybierz miejsc aktywnych. Aby uzyskać informacji na temat Centrum administracyjnego programu SharePoint, zobacz [Wprowadzenie do Centrum administracyjnego programu SharePoint.](https://docs.microsoft.com/en-us/sharepoint/get-started-new-admin-center)
+Zobacz [Zarządzanie witrynami w Centrum administracyjnego programu SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation ) dla opcji tworzenia witryny. Wybierz, aby utworzyć [witrynę zespołu](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (co spowoduje utworzenie grupy usługi Office 365) lub [Witryna komunikacyjna](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). Aby utworzyć [witrynę klasyczny](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)lub nowej witryny zespołu, który nie zawiera grupę w usłudze Office 365, kliknij **inne opcje**. 
   
-1. Kliknij pozycję Create (Utwórz) 
-    
-2. Wybierz, aby utworzyć witrynę zespołu (co spowoduje utworzenie grupy usługi Office 365) lub witryną komunikacyjną. Aby utworzyć witrynę klasyczny lub nowej witryny zespołu, który nie zawiera grupę w usłudze Office 365, kliknij **inne opcje**. Aby uzyskać informacje o nowych szablonów witryn zobacz [Utwórz witrynę zespołu w dokumentacji Online programu SharePoint](https://support.office.com/en-us/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) i [Utwórz witrynę komunikacji w dokumentacji Online programu SharePoint](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb).
-  
- **Uwaga:** Nie można utworzyć nowej witryny z tego samego adresu URL istniejącej witryny. Jeśli usunięte z witryny i chcą ponownie użyć adresu URL, jest możliwe, jest nadal obecny w witrynie o adresie URL chcesz użyć **usunięte witryn.** Kliknij łącze **witryny, usunięte**, podświetl pozycję witryny, aby trwale usunąć i kliknij przycisk **Usuń** . 
-  
- **Uwaga:** Aby zarządzać, kto może tworzyć witryny, zobacz [Manage tworzenia witryn w dokumentacji Online programu SharePoint](https://docs.microsoft.com/en-us/sharepoint/manage-site-creation).
-    
-
+Wskazówki:
+- *Nie można utworzyć witryny z tego samego adresu URL istniejącej witryny. Jeśli usunięte z witryny i chcą ponownie użyć adresu URL, jest możliwe, usunięte strony nadal istnieje w obszarze **witryny elementów usuniętych**. Aby zarządzać usunięte witryn, zobacz [Usuwanie witryny](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Aby całkowicie usunąć witryny przy użyciu programu Powershell, zobacz przykład polecenia cmdlet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .*
+- *Niektórym użytkownikom nie można utworzyć lokację. Zobacz [Tworzenie witryny Zarządzanie w dokumentacji Online programu SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation).*
+- *Jest możliwe, witryna zostanie wyświetlone zatrzymany na **Tworzenie** dłużej, niż oczekiwano. Jeśli więcej niż 24 godziny minęło po raz pierwszy zobaczył ten problem, należy zalogować się do pomocy technicznej. W wielu przypadkach już pracujemy nad rozwiązaniem. Podaj co najmniej 24 godziny, aby ukończyć rozwiązania.*

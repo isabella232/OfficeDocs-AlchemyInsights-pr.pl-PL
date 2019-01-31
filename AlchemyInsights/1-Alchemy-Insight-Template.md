@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 9e2a369f4b1bf87da8b12224b5f6e8b1138db9dd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
+ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454224"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662940"
 ---
 # <a name="required-customer-facing-h1-h2-doesnt-work"></a>Wymagany klient przeciwległych H1, H2 nie działa
 Przykładowy tekst Zablokuj - wykonaj następujące instrukcje:
 
-1. Pliki w folderze **AlchemyInsights** powinny mieć identyfikator reguły i nazwa reguły z [portalu partnerów Alchemia](https://alchemyportal.azurewebsites.net) w grzywa.
+1. Pliki w folderze **AlchemyInsights** powinny mieć identyfikator reguły i nazwa reguły z [portalu partnerów Alchemia](https://alchemyportal.azurewebsites.net) w nazwie pliku.
     1. ex. ***976-How-to-enable-litigation-hold***
 1. Użyj metadanych w górnej części tego pliku jako szablonu. Nic innego nie jest wymagane.
 1. W [portalu partnerów Alchemy](https://alchemyportal.azurewebsites.net), przejdź do sekcji **Tytuł wgląd klienta:** i wykorzystania, że jako początkowy punkt H1 tytuł za wgląd. 
@@ -34,3 +34,8 @@ Przykładowy tekst Zablokuj - wykonaj następujące instrukcje:
     1. Łącza zawsze powinna być **"łącza do sieci web" / zewnętrzne** OR **deep łącza do elementów interfejsu użytkownika**, nie wewnętrzne powiązania.
 
 I jest to naprawdę już nieco zbyt długo. Najlepszym rozwiązaniem jest około 400 znaków---
+
+Zawartość jest gotowy, należy przeciągnąć ją do gałęzi na żywo. Następnie przejdź do [portalu partnerów Alchemy](https://alchemyportal.azurewebsites.net) i wprowadź nazwę pliku w polu adres url. Upewnij się, Insight przeglądowi i opublikowane mówi "tak", a następnie kliknij regułę aktualizacji. (To będą wyglądały w nowej wersji portalu - zwolnienie wkrótce.)
+
+![pole adresu URL](media/for-content-team.PNG)
+

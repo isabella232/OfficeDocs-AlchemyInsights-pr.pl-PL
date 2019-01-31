@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 2dc6690da30e44aa5c4a37d227274d2e4457e4b4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: cfcab462b38e25896353e844e881008ccfc1ad35
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483365"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662229"
 ---
 # <a name="connected-accounts-are-no-longer-supported"></a>Połączonych kont nie są już obsługiwane
 
-Firma Microsoft usunęła możliwość dodawania nowych kont do programu Outlook w sieci web przy użyciu funkcji połączonych kont na 15 września 2018 i przestaną być synchronizowane z istniejącymi kontami w 30 października 2018, którzy byli połączeni przed 15 września 2018. W 15 listopada opcja połączonych kont ( **Ustawienia** \> **korespondencji** \> **kont**) zostaną usunięte z programu Outlook w sieci web. Aby uzyskać więcej informacji, zobacz [Połączono konta nie jest już obsługiwany w programie Outlook w sieci web ( Office 365 dla kont firmowych)](https://support.office.com/en-us/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
+Firma Microsoft usunęła możliwość dodawania nowych kont do programu Outlook w sieci web przy użyciu funkcji połączonych kont na 15 września 2018 i przestaną być synchronizowane z istniejącymi kontami w 30 października 2018, którzy byli połączeni przed 15 września 2018. W 15 listopada opcja połączonych kont ( **Ustawienia** \> **korespondencji** \> **kont**) zostaną usunięte z programu Outlook w sieci web. Aby uzyskać więcej informacji, zobacz [Połączono konta nie jest już obsługiwany w programie Outlook w sieci web ( Office 365 dla kont firmowych)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
   
 Aby zobaczyć wiadomości e-mail z innych kont: nadal można przesyłać dalej wiadomości e-mail z tych kont do programu Outlook w sieci web. Aby uzyskać więcej informacji zobacz:
   

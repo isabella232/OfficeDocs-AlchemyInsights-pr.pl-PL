@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 4f05d1e94e7b44ccf2034c2d01e4e4c9216e94bd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 99ce258f5d3b18db1df3cad492f24ca75a23e93a
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483428"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660897"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Przełącznik planuje zwiększenie rozmiaru skrzynki pocztowej
 
-Jeśli rozmiar skrzynki pocztowej wynosi 50 GB, można zwiększyć rozmiar skrzynki pocztowej do 100 GB, przełączając się do [Programu Office 365 Enterprise E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software) lub [Office 365 Enterprise E5](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software). Poniżej przedstawiono kroki, aby przełączyć się do innego planu usługi Office 365:
+Jeśli rozmiar skrzynki pocztowej wynosi 50 GB, można zwiększyć rozmiar skrzynki pocztowej do 100 GB, przełączając się do [Programu Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) lub [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Poniżej przedstawiono kroki, aby przełączyć się do innego planu usługi Office 365:
   
 1. Centrum administracyjnego usługi Office 365, przejdź do strony [subskrypcji](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz **płatności** \> **subskrypcji**.
     

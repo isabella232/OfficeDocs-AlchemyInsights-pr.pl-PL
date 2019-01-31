@@ -3,27 +3,29 @@ title: Jak zainstalować pakiet Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/15/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
-ms.openlocfilehash: 35479ea33d6a235faf1e28fbc6568a6990f4e676
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 89dd1d74026dbd3bf78a315b87a4ef7bd17cf144
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29482462"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29645656"
 ---
 # <a name="how-to-install-office"></a>Jak zainstalować pakiet Office
+
 
 Aby zainstalować aplikacje klienta pakietu Office, upewnij się, że masz subskrypcję business Office 365 Business Premium, Office 365 Business lub Office 365 Education.
   
 > [!NOTE]
-> [Office dla użytkowników domowych i biznesowych 2016](https://products.office.com/home-and-business) jest produktu [Office dla użytkowników domowych](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA.aspx) i nie stanowią części subskrypcji business. 
+> [Office dla użytkowników domowych i biznesowych 2016](https://products.office.com/home-and-business) jest produktu [Office dla użytkowników domowych](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) i nie stanowią części subskrypcji business. 
   
-- Utworzenie kont użytkowników i dodawania domeny. Upewnij się, że użytkownik ma [przypisany licencji](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA.aspx).
+- Utworzenie kont użytkowników i dodawania domeny. Upewnij się, że użytkownik ma [przypisany licencji](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).
     
 - Mieć każdy użytkownik:
     
@@ -35,6 +37,6 @@ Aby zainstalować aplikacje klienta pakietu Office, upewnij się, że masz subsk
     
 4. Wybierz pozycję **Zainstaluj**.
     
-Aby uzyskać szczegółowe kroki i rozwiązania problemów, zobacz: [Konfigurowanie usługi Office 365 dla firm](https://support.office.com/Article/6a3a29a0-e616-4713-99d1-15eda62d04fa?wt.mc_id=Alchemy_ClientDIA).
-  
+    Szczegółowe kroki i rozwiązania problemów podczas instalowania pakietu Office, zobacz: [pobrać i zainstalować lub ponownie zainstalować pakiet Office na komputerze PC lub Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).
+    
 

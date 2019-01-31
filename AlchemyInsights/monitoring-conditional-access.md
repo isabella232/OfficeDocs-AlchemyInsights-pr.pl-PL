@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 06307b57475e8828e6d4e5e01625d5100576f12b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f4153f8a87a138d548c133142b0d48a319bd4b71
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29482443"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656577"
 ---
 # <a name="monitoring-conditional-access"></a>Monitorowanie dostępu warunkowego
 
@@ -35,6 +35,6 @@ Użytkownicy kierowana do dostępu warunkowego otrzymają wiadomość e-mail z p
     
 4. Aby skierować pewną politykę na kogoś, należy dodać je do listy **dołączania** . W celu zapewnienia, że osoba zostanie pominięty, z zasady, należy dodać je do listy **wykluczeń** . 
     
-Przeczytaj więcej: [jak urządzeń dostępu warunkowego monitora](https://docs.microsoft.com/en-us/intune/conditional-access-exchange-monitor)
+Przeczytaj więcej: [jak urządzeń dostępu warunkowego monitora](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 

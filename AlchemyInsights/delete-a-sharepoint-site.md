@@ -2,51 +2,30 @@
 title: Usuwanie witryny programu SharePoint
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483329"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660026"
 ---
 # <a name="delete-a-sharepoint-site"></a>Usuwanie witryny programu SharePoint
-
- **Usuwanie witryny, które należą do grupy usługi Office 365:**
+ **Usuwanie witryn z Centrum administracyjnego programu SharePoint**
   
-Gdy użytkownicy utworzyć nowej witryny zespołu SharePoint domowego (lub utworzyć nową witrynę zespołu z podglądu nowe centrum Administrator programu SharePoint), jest tworzona automatycznie odpowiedniej grupy usługi Office 365. Witryny zespołów połączone grupy 365 pakietu Office są również tworzone podczas tworzenia grupę w usłudze Office 365 lub zespół w Teams firmy Microsoft. Aby usunąć witrynę programu SharePoint, który należy do grupy usługi Office 365, należy usunąć samej grupy usługi Office 365. 
+Aby usunąć aktywną witrynę, przejdź do Centrum administracyjnego programu SharePoint bieżącego, kliknij przycisk "Spróbuj teraz" w prawym górnym rogu. Wybierz **miejsc aktywnych**, wybierz witrynę i wybierz polecenie **Usuń**. Do [widoku i przywróć usunięte witryny w Centrum administracyjnego programu SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)wybierz **usunąć witryny**. Aby uzyskać więcej informacji zobacz [Zarządzanie witrynami w Centrum administracyjnego programu SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
-1. Przejdź do [strony grupy Centrum administracyjnego usługi Office 365](https://portal.office.com/adminportal/home#/groups).
+**Ważne:** Jeśli witryna jest częścią zasad przechowywania, nie można go usunąć, dopóki witryna jest usuwany z [Security &amp; Centrum administracyjnego zgodności](https://protection.office.com/?rfr=AdminCenter#/homepage). Aby uzyskać więcej informacji, zobacz [Omówienie zasad przechowywania](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
   
-2. Zaznacz pole wyboru obok grupy.
-  
-3. Wybierz polecenie **Usuń**. 
-  
-Uwaga: Podczas usuwania grupy może występować opóźnienie przed usunięciem witryny z programu SharePoint.
-  
- **Usuwanie witryny komunikacyjne lub klasyczny witryn:**
-  
-1. Przejdź do witryny.
-  
-2. Kliknij przycisk ** Ustawienia ** (ikona kół zębatych) w prawym górnym rogu. 
-  
-3. Kliknij opcję **Ustawienia witryny**. W obszarze **Informacji o witrynie** lub **Akcje witryny**kliknij przycisk **Usuń tę witrynę**, a następnie kliknij przycisk **Usuń**. 
-  
- **Usuń zbiór witryn programu SharePoint:**
-  
-Aby usunąć zbiór witryn klasyczne:
-  
-1. W klasycznym Centrum administracyjnego programu SharePoint, na stronie witryny kolekcje zaznacz **pole wyboru** obok tego zbioru witryn. 
-  
-2. Na karcie zbiorów witryn, zaznacz **usunąć.**
-  
- **Usunięte witryny przez przypadek?**
-  
-Zobacz [Przywracanie usuniętych zaufany](https://go.microsoft.com/fwlink/?linkid=867660).
+Wskazówki:
+- Globalne i Administratorzy programu SharePoint teraz usunąć witryny, które należą do **Grupa Office 365**. Spowoduje to usunięcie grupy i wszystkie jego zasobów, w tym skrzynki pocztowej programu Outlook i kalendarz i żadnych kanałów zespołów. Aby uzyskać więcej informacji zobacz [Usuwanie witryny programu SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Można odzyskać usuniętych stron 93 dni. Należy zauważyć, że usuniętej grupy musi zostać przywrócony w ciągu 30 dni. Aby uzyskać więcej informacji zobacz [View i przywracania witryn usunięte](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- Aby całkowicie usunąć witryny przy użyciu programu Powershell, zobacz przykład polecenia cmdlet [Remove-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) . 
   
 

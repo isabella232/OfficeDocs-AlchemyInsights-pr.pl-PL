@@ -2,44 +2,28 @@
 title: Rozwiązywanie problemów z aktywacją
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Twój artykuł rozpoczynać się bardzo krótkie wprowadzenie (1 zdanie). Postawić się w miejscu czytelnika - dlaczego są one w tym miejscu? Co należy zrobić?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498276"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646969"
 ---
-Twój artykuł rozpoczynać się bardzo krótkie wprowadzenie (1 zdanie). Postawić się w miejscu czytelnika - dlaczego są one w tym miejscu? Co należy zrobić? 
-  
-1. Od razu do szybkiego listę czynności do wykonania tego zadania.
-    
-    Jeśli trzeba wyjaśnić pojęcie lub musisz zrobić wstępnie wymaganych czynności, należy dodać krótkie podsumowanie poniżej kroku, gdzie konieczne, a także [łącza](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) do koncepcji lub kroki. 
-    
-2. Zachowaj procedur krótko - kroki najlepiej 5 lub mniej, nie więcej niż 8.
-    
-3. Użyj **stylu interfejsu użytkownika** dla elementów interfejsu użytkownika lub dla tekstu trzeba wprowadzić osób. 
-    
-4. Użyj zleceń wybierz, wybierz, lub wprowadzić jako akcje i sformatować menu jako **Menu** \> **polecenia**.
-    
-5. Opcjonalnie dodaj zrzut ekranu dla kontekstu (jeśli jest trudne do zlokalizowania interfejsu użytkownika, czy jest potrzebne do wykonania zadania).
-    
-    Maksymalna szerokość: 520 pikseli. Korzystanie z motywu standardowego, nie pokazuj żadnych danych osobowych i upraw, aby pokazać tylko to, co jest istotne. 
-    
-    ![Symbol zastępczy — maksymalna szerokość sztuki artykułu SOC jest 520 pikseli](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-Jeśli chcesz dodać wideo lub zrzut ekranu, za pomocą dwóch kolumn siatki i czynności po lewej stronie i plików wideo lub zrzut ekranu w prawo - zobacz [przykład siatki wideo i kroki](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx). 
-  
-Docelowe nie więcej niż 500 wyrazów w artykule.
-  
-# <a name="example-article"></a>Przykład artykułu
+# <a name="activation-troubleshooting"></a>Rozwiązywanie problemów z aktywacją
 
-[Zmiana Moje zdjęcia](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+W **Panelu sterowania** \> **Programy i funkcje**, wyszukiwanie pakietu Office. Usługi Microsoft Office 365 ProPlus lub usługi Microsoft Office 365 Business powinien być widoczny. Jeśli widzisz więcej niż jedną wersję pakietu Office wymienionych odinstalować wersję, których nie używasz. 
   
-
+Nie można odinstalować pomyślnie za pomocą Panelu sterowania, aby odinstalować wersję, których nie używasz użyj [wsparcia i Asystenta](https://aka.ms/SARA-OfficeUninstall-Alchemy) . 
+  
+Jeśli pakiet Office jest nadal bez licencji, wróć do **Panelu sterowania** \> **Programy i funkcje**. Kliknij prawym przyciskiem myszy pozostałych instalacji pakietu Office, wybierz **Modyfikuj** (lub zmień), a następnie wybierz **Naprawy w trybie Online**. Naprawy w trybie online może zająć trochę czasu. Następnie ponownie uruchomić pakiet Office i zaloguj się przy użyciu pracę konta służbowego, jeśli pojawi się monit.
+  
+Jeśli pakiet Office jest nadal bez licencji, pobrać i uruchomić [Rozwiązywanie problemów z aktywacją](https://aka.ms/SARA-OfficeActivation-Alchemy) na dotkniętych maszyny do napraw związanych z aktywacją oprogramowania. 
+  
+Aby uzyskać więcej informacji, zobacz: [produkt bez licencji i błędów aktywacji pakietu Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

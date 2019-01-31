@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 5be8a8f9f67939c7e2671855da259818269d9299
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c95f07b9fb7251442577c014e4005dbe3f92ceb4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483377"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661761"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>Rozwiązywanie problemów z Otwórz w Eksploratorze
 
@@ -31,6 +31,6 @@ Rozwiązywanie typowych problemów z otwieraniem biblioteki dokumentów programu
 > [!NOTE]
 > Otwieranie biblioteki w Eksploratorze plik jest przydatny, jeśli trzeba kopiować lub przenosić wiele plików lub folderów po, ale jeśli chcesz regularnie pracują w bibliotece, firma Microsoft zaleca synchronizację. Rozwiązywać problemy z otwieraniem w Eksploratorze plików, zobacz temat [Otwórz w Eksploratorze](https://go.microsoft.com/fwlink/?linkid=871665). Aby uzyskać informacje dotyczące konfigurowania synchronizacji zobacz [pliki synchronizacji programu SharePoint z nowego klienta synchronizacji OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Zobacz artykuł [sposób korzystania z polecenia "Otwórz z Eksploratora" rozwiązywania problemów w dokumentacji Online programu SharePoint](https://support.office.com/en-us/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) , aby uzyskać więcej informacji. 
+Zobacz artykuł [sposób korzystania z polecenia "Otwórz z Eksploratora" rozwiązywania problemów w dokumentacji Online programu SharePoint](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) , aby uzyskać więcej informacji. 
   
 

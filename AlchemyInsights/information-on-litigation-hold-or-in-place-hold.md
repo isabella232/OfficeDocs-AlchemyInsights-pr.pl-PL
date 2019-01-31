@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 2331b2a599da3bb05d6ae89dd80ef09739d5525a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 46f868dba0f5e99ed1d2df7cf9bed7e5ebb350c9
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483366"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660141"
 ---
-- Aby zastosować postępowania sądowego ładowni lub uaktualnienia w miejscu przechowywania do skrzynki pocztowej jest wymagana [Licencja Exchange Online Plan 2](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Jeśli masz inny Plan, należy przypisać do konta oddzielną licencję [Exchange Online — archiwum](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) . 
+- Aby zastosować postępowania sądowego ładowni lub uaktualnienia w miejscu przechowywania do skrzynki pocztowej jest wymagana [Licencja Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Jeśli masz inny Plan, należy przypisać do konta oddzielną licencję [Exchange Online — archiwum](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) . 
     
-- **Aby włączyć sądowym** dla pojedynczego użytkownika, należy wykonać kroki opisane [w tym miejscu](https://docs.microsoft.com/en-us/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Po włączeniu sądowym, cała zawartość skrzynki pocztowej zostanie wstrzymane.
+- **Aby włączyć sądowym** dla pojedynczego użytkownika, należy wykonać kroki opisane [w tym miejscu](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Po włączeniu sądowym, cała zawartość skrzynki pocztowej zostanie wstrzymane.
     
-- Aby zastosować **w miejscu przechowywania na pojedynczych użytkowników** lub blokady do **wszystkich skrzynek pocztowych w całej organizacji**, można użyć zasad przechowywania w Centrum Office 365 bezpieczeństwa i zgodności, wykonując kroki przedstawione [w tym miejscu](https://docs.microsoft.com/en-us/Office365/securitycompliance/retention-policies ).
+- Aby zastosować **w miejscu przechowywania na pojedynczych użytkowników** lub blokady do **wszystkich skrzynek pocztowych w całej organizacji**, można użyć zasad przechowywania w Centrum Office 365 bezpieczeństwa i zgodności, wykonując kroki przedstawione [w tym miejscu](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
     
     > [!NOTE]
     > Zasad przechowywania całej organizacji nowe użytkowników zostanie automatycznie dodany do blokady. 
   
-- Służy do wyświetlania lub Odkryj zawartość skrzynki pocztowej, która jest wstrzymane, użyj **zbierania elektronicznych materiałów dowodowych wyszukiwania i wywozu**. Dla informacji na temat używania **zbierania elektronicznych materiałów dowodowych wyszukiwania i eksportu**wykonaj kroki przedstawione [w tym miejscu](https://docs.microsoft.com/en-us/office365/securitycompliance/export-search-results).
+- Służy do wyświetlania lub Odkryj zawartość skrzynki pocztowej, która jest wstrzymane, użyj **zbierania elektronicznych materiałów dowodowych wyszukiwania i wywozu**. Dla informacji na temat używania **zbierania elektronicznych materiałów dowodowych wyszukiwania i eksportu**wykonaj kroki przedstawione [w tym miejscu](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
     
 
