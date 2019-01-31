@@ -9,15 +9,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: d55c9095-317d-4283-860d-a82032f5e9f6
 description: Jeśli nadal masz problemy z zalogowaniem do Skype dla firm, można rozwiązać z obsługą i Asystenta (Ewa). To narzędzie pozwala automatycznie zdiagnozować i naprawić zakresu znanych problemów dotyczących logowania programu Skype dla firm.
-ms.openlocfilehash: 53ed1ac82ed5d731e987fcc0a0350cab511d05a7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c73e3150a4f457e0d4690799466a6132c1c778e8
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29482902"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657621"
 ---
-<span data-ttu-id="62eca-p102">Jeśli nadal masz problemy z zalogowaniem do Skype dla firm, można rozwiązać z obsługą i Asystenta (Ewa). To narzędzie pozwala automatycznie zdiagnozować i naprawić zakresu znanych problemów dotyczących logowania programu Skype dla firm.</span><span class="sxs-lookup"><span data-stu-id="62eca-p102">If you're having trouble signing in to Skype for Business, you can troubleshoot with Support and Recovery Assistant (SaRA). This tool helps you automatically diagnose and fix a range of known issues involving sign-on for Skype for Business.</span></span>
+<span data-ttu-id="ec9c9-p102">Jeśli nadal masz problemy z zalogowaniem do Skype dla firm, można rozwiązać z obsługą i Asystenta (Ewa). To narzędzie pozwala automatycznie zdiagnozować i naprawić zakresu znanych problemów dotyczących logowania programu Skype dla firm.</span><span class="sxs-lookup"><span data-stu-id="ec9c9-p102">If you're having trouble signing in to Skype for Business, you can troubleshoot with Support and Recovery Assistant (SaRA). This tool helps you automatically diagnose and fix a range of known issues involving sign-on for Skype for Business.</span></span>
   
-<span data-ttu-id="62eca-106">[Możesz dowiedzieć się więcej o to łącze](https://support.microsoft.com/en-us/help/4087361/troubleshooting-office-365-issues-signing-in-to-skype-for-business).</span><span class="sxs-lookup"><span data-stu-id="62eca-106">[You can learn more at this link](https://support.microsoft.com/en-us/help/4087361/troubleshooting-office-365-issues-signing-in-to-skype-for-business).</span></span>
+<span data-ttu-id="ec9c9-106">[Możesz dowiedzieć się więcej o to łącze](https://support.microsoft.com/help/4087361/troubleshooting-office-365-issues-signing-in-to-skype-for-business).</span><span class="sxs-lookup"><span data-stu-id="ec9c9-106">[You can learn more at this link](https://support.microsoft.com/help/4087361/troubleshooting-office-365-issues-signing-in-to-skype-for-business).</span></span>
   
 

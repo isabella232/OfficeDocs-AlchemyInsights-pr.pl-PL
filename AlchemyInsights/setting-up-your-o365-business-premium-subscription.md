@@ -8,15 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a9192d32-8a5a-459d-808a-d18ce0e397da
-ms.openlocfilehash: ca53829604223c926f0408dedaf463fcc32ed8d4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ee552bc9bd82be2f049a8ea368ebf1ea97aac5cf
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29482797"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655749"
 ---
-# <a name="setting-up-your-o365-business-premium-subscription"></a><span data-ttu-id="03eef-102">Konfigurowanie subskrypcji O365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="03eef-102">Setting up your O365 Business Premium subscription</span></span>
+# <a name="setting-up-your-o365-business-premium-subscription"></a><span data-ttu-id="480ef-102">Konfigurowanie subskrypcji O365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="480ef-102">Setting up your O365 Business Premium subscription</span></span>
 
-<span data-ttu-id="03eef-p101">Wygląda jak potrzebujesz pomocy przy konfigurowaniu subskrypcja usługi Office 365. Można wykonać kroki w [tym artykule](https://support.office.com/article/https://support.office.com/en-US/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa?ui=en-US&amp;rs=en-US&amp;ad=US.aspx#ID0EAAAABAAA=Business_Premium) pobrać swój została ukończona.</span><span class="sxs-lookup"><span data-stu-id="03eef-p101">Looks like you need help setting up your Office 365 subscription. You can follow the steps in [this article](https://support.office.com/article/https://support.office.com/en-US/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa?ui=en-US&amp;rs=en-US&amp;ad=US.aspx#ID0EAAAABAAA=Business_Premium) to get your setup completed.</span></span> 
+<span data-ttu-id="480ef-p101">Wygląda jak potrzebujesz pomocy przy konfigurowaniu subskrypcja usługi Office 365. Można wykonać kroki w [tym artykule](https://support.office.com/article/https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa?ui=en-US&amp;rs=en-US&amp;ad=US.aspx#ID0EAAAABAAA=Business_Premium) pobrać swój została ukończona.</span><span class="sxs-lookup"><span data-stu-id="480ef-p101">Looks like you need help setting up your Office 365 subscription. You can follow the steps in [this article](https://support.office.com/article/https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa?ui=en-US&amp;rs=en-US&amp;ad=US.aspx#ID0EAAAABAAA=Business_Premium) to get your setup completed.</span></span> 
   
 
