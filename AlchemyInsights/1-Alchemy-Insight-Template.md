@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662940"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697140"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>Wymagany klient przeciwległych H1, H2 nie działa
-Przykładowy tekst Zablokuj - wykonaj następujące instrukcje:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Wymagane Alchemy nagłówka H1, H2's nie działają.
+Najważniejsze wskazówki i wytyczne dotyczące opracowywania Alchemy:
 
+1. **Nie zagnieżdżaj spostrzeżenia Alchemia w folderach**- spowoduje to uszkodzenie struktury adresu url. Pracujemy nad rozwiązaniem naprawienie tego.
 1. Pliki w folderze **AlchemyInsights** powinny mieć identyfikator reguły i nazwa reguły z [portalu partnerów Alchemia](https://alchemyportal.azurewebsites.net) w nazwie pliku.
     1. ex. ***976-How-to-enable-litigation-hold***
 1. Użyj metadanych w górnej części tego pliku jako szablonu. Nic innego nie jest wymagane.
@@ -35,7 +36,6 @@ Przykładowy tekst Zablokuj - wykonaj następujące instrukcje:
 
 I jest to naprawdę już nieco zbyt długo. Najlepszym rozwiązaniem jest około 400 znaków---
 
-Zawartość jest gotowy, należy przeciągnąć ją do gałęzi na żywo. Następnie przejdź do [portalu partnerów Alchemy](https://alchemyportal.azurewebsites.net) i wprowadź nazwę pliku w polu adres url. Upewnij się, Insight przeglądowi i opublikowane mówi "tak", a następnie kliknij regułę aktualizacji. (To będą wyglądały w nowej wersji portalu - zwolnienie wkrótce.)
-
-![pole adresu URL](media/for-content-team.PNG)
+Zawartość jest gotowy, należy przeciągnąć ją do gałęzi na żywo. Następnie przejdź do [portalu partnerów Alchemy](https://alchemyportal.azurewebsites.net) i wprowadź nazwę pliku w polu adres url. Upewnij się, Insight przeglądowi i opublikowane mówi "tak", a następnie kliknij regułę aktualizacji. **(To będą wyglądały w nowej wersji portalu - zwolnienie wkrótce.)** 
+ ![pole adresu url](media/for-content-team.PNG)
 
