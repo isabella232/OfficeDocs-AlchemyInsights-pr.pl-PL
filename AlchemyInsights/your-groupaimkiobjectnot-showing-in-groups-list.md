@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: f29f31c702406ad4f64391e326bffa8c3837e858
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 38b2ea54abd7d1e227c767e3522f73c58bd3784c
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483287"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758246"
 ---
 "{AimKIObject}" nie jest widoczny na liście grupy
 
@@ -21,6 +21,6 @@ ms.locfileid: "29483287"
 
 Grupy dystrybucji o nazwie "{AimKIObject}" został utworzony ponizej {AimKITimeElapsed}. Może upłynąć do 60 minut, zanim nowa grupa zostanie wyświetlona w Centrum administracyjnym.
   
-Aby dodać członków lub już teraz wprowadzić inne zmiany, użyj funkcji grupy w [Centrum administracyjnego programu Exchange](https://support.office.com/article/https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+Aby dodać członków lub już teraz wprowadzić inne zmiany, użyj funkcji grupy w [Centrum administracyjnego programu Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
   
 
