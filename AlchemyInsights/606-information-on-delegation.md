@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483313"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770663"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a>Temat delegatów w programie Outlook i Outlook w sieci web
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Rozwiązywanie problemów z delegacji w programach Outlook i Outlook w sieci web
 
-Aby uzyskać więcej informacji zobacz następujące tematy:
-  
-- **Outlook**: [ktoś inny będzie zarządzać Poczta i kalendarz](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)
-    
-- **Program Outlook w sieci web**: [Delegacja kalendarza w programie Outlook w sieci web dla firm](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)
-    
+**Rozwiązywanie problemów z narzędziem Ewa:**
 
+1. Pobierz i zainstaluj narzędzie Ewa z tego miejsca
+1. Wybierz program Outlook, a następnie "Mam problemy z mojego kalendarza"
+1. Powiedz tak, dla którego dotyczy komputera
+1. Dodaj adres e-mail danego użytkownika
+1. Wybierz opcję "Mam problemy z delegowanie uprawnień"
+1. W wierszu polecenia Jeżeli jesteś osoba udzielająca uprawnienia, wprowadź adres e-mail pełnomocnika. Jeśli otrzymałeś uprawnień i są pełnomocnika, wprowadź adres e-mail osoby, którą dał Ci uprawnień.
+1. Przy następnym menu wybierz opcję, która pasuje do danego scenariusza. 
+1. O następne menu wybierz poziom uprawnień.
+1. Na tym etapie Ewa narzędzie wykona zautomatyzowane kontrole i zapewni Ci możliwe rozwiązanie lub alternatywnie zapewni dziennik diagnostyczny, który służy do rozwiązania problemu.
+1. Dzienniki można znaleźć w folderze wyników Ewa C:\Users\Username\AppData\Local\SaraResults
