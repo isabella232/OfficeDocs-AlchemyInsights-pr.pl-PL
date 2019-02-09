@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: c59fb005168e02b4aa8dda26b335ac763ab61aa0
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: f7dfc010c3624b2192da01d9e50e58dd6bb653df
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657770"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786744"
 ---
+# <a name="dlp-policy-tip-issues"></a>Porada zasad DLP problemów
+
 Podczas korzystania z **zasady DLP**, użytkownik może być powiadamiany o naruszenie zasad z **porady dotyczące zasad**. Administratorzy mogą konfigurować porady dotyczące zasad do wyświetlania podczas testowania swoich zasad DLP lub zasada jest w trybie pełnego wymuszania. 
   
 Aby skonfigurować zasady porady dotyczące zasady DLP w Centrum zabezpieczeń i zgodności w trybie pełnego wymuszania, wykonaj następujące czynności:
