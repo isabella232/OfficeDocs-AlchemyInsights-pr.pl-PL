@@ -7,33 +7,33 @@ ms.date: 5/30/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 40063c6e-2c45-420d-ae63-9eb274b64f5e
-ms.openlocfilehash: 5b35728e723d2eab2f648ffa4850335551e8edd3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 74d0708cb4f6b2d3785cf9fd4225c534ae7e9d52
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29482541"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29936046"
 ---
-# <a name="print-email-and-calendars-in-outlookcom"></a><span data-ttu-id="ed7a3-102">Drukowanie wiadomości e-mail i kalendarze w Hotmail</span><span class="sxs-lookup"><span data-stu-id="ed7a3-102">Print email and calendars in Outlook.com</span></span>
+# <a name="print-email-and-calendars-in-outlookcom"></a><span data-ttu-id="bc917-102">Drukowanie wiadomości e-mail i kalendarze w Hotmail</span><span class="sxs-lookup"><span data-stu-id="bc917-102">Print email and calendars in Outlook.com</span></span>
 
-<span data-ttu-id="ed7a3-103">Drukowanie wiadomości e-mail:</span><span class="sxs-lookup"><span data-stu-id="ed7a3-103">To print email messages:</span></span>
+<span data-ttu-id="bc917-103">Drukowanie wiadomości e-mail:</span><span class="sxs-lookup"><span data-stu-id="bc917-103">To print email messages:</span></span>
   
-1. <span data-ttu-id="ed7a3-104">Zaznacz wiadomość, którą chcesz wydrukować.</span><span class="sxs-lookup"><span data-stu-id="ed7a3-104">Select the message you want to print.</span></span>
+1. <span data-ttu-id="bc917-104">Zaznacz wiadomość, którą chcesz wydrukować.</span><span class="sxs-lookup"><span data-stu-id="bc917-104">Select the message you want to print.</span></span>
     
-2. <span data-ttu-id="ed7a3-105">U góry strony, wybierz ![więcej akcji](media/64993e8a-4a62-43b1-aa05-90f5ad4cba54.png) \> **wydruku**.</span><span class="sxs-lookup"><span data-stu-id="ed7a3-105">At the top of the page, select ![More actions](media/64993e8a-4a62-43b1-aa05-90f5ad4cba54.png) \> **Print**.</span></span> 
+2. <span data-ttu-id="bc917-105">U góry strony, wybierz ![więcej akcji](media/64993e8a-4a62-43b1-aa05-90f5ad4cba54.png) \> **wydruku**.</span><span class="sxs-lookup"><span data-stu-id="bc917-105">At the top of the page, select ![More actions](media/64993e8a-4a62-43b1-aa05-90f5ad4cba54.png) \> **Print**.</span></span> 
     
-<span data-ttu-id="ed7a3-p101">Aby wydrukować kalendarz, będziesz musiał użyć klasycznych Hotmail. Drukowanie kalendarza nie jest obecnie dostępna w wersji beta Hotmail.</span><span class="sxs-lookup"><span data-stu-id="ed7a3-p101">To print your calendar, you'll need to use classic Outlook.com. Calendar printing is not currently available in the Outlook.com beta.</span></span>
+<span data-ttu-id="bc917-p101">Aby wydrukować kalendarz, będziesz musiał użyć klasycznych Hotmail. Drukowanie kalendarza nie jest obecnie dostępna w wersji beta Hotmail.</span><span class="sxs-lookup"><span data-stu-id="bc917-p101">To print your calendar, you'll need to use classic Outlook.com. Calendar printing is not currently available in the Outlook.com beta.</span></span>
   
-1. <span data-ttu-id="ed7a3-108">U góry strony upewnij się, że przełącznik beta Hotmail jest ustawiony na wyłączony.</span><span class="sxs-lookup"><span data-stu-id="ed7a3-108">At the top of the page, make sure the Outlook.com beta toggle is set to off.</span></span>
+1. <span data-ttu-id="bc917-108">U góry strony upewnij się, że przełącznik beta Hotmail jest ustawiony na wyłączony.</span><span class="sxs-lookup"><span data-stu-id="bc917-108">At the top of the page, make sure the Outlook.com beta toggle is set to off.</span></span>
     
-2. <span data-ttu-id="ed7a3-109">W dolnej części strony wybierz pozycję </span><span class="sxs-lookup"><span data-stu-id="ed7a3-109">At the bottom of the page, select</span></span> ![Calendar](media/9e1a821a-c32e-4851-a866-342a39ffdca0.png)<span data-ttu-id="ed7a3-111">.</span><span class="sxs-lookup"><span data-stu-id="ed7a3-111"></span></span>
+2. <span data-ttu-id="bc917-109">W dolnej części strony wybierz pozycję </span><span class="sxs-lookup"><span data-stu-id="bc917-109">At the bottom of the page, select</span></span> ![Calendar](media/9e1a821a-c32e-4851-a866-342a39ffdca0.png)<span data-ttu-id="bc917-111">.</span><span class="sxs-lookup"><span data-stu-id="bc917-111"></span></span>
     
-3. <span data-ttu-id="ed7a3-112">Wybierz polecenie Widok **dzień**, **Tydzień roboczy**, **Tydzień**lub **miesiąc** w górnej części strony.</span><span class="sxs-lookup"><span data-stu-id="ed7a3-112">Choose the **Day**, **Work week**, **Week**, or **Month** view at the top of the page.</span></span> 
+3. <span data-ttu-id="bc917-112">Wybierz polecenie Widok **dzień**, **Tydzień roboczy**, **Tydzień**lub **miesiąc** w górnej części strony.</span><span class="sxs-lookup"><span data-stu-id="bc917-112">Choose the **Day**, **Work week**, **Week**, or **Month** view at the top of the page.</span></span> 
     
-4. <span data-ttu-id="ed7a3-113">U góry strony wybierz polecenie **Drukuj**.</span><span class="sxs-lookup"><span data-stu-id="ed7a3-113">At the top of the page, select **Print**.</span></span> 
+4. <span data-ttu-id="bc917-113">U góry strony wybierz polecenie **Drukuj**.</span><span class="sxs-lookup"><span data-stu-id="bc917-113">At the top of the page, select **Print**.</span></span> 
     
-<span data-ttu-id="ed7a3-114">Dowiedz się więcej o sposobie [drukowania wiadomości e-mail i kalendarze w Hotmail](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="ed7a3-114">Learn more about how to [print email and calendars in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).</span></span>
+<span data-ttu-id="bc917-114">Dowiedz się więcej o sposobie [drukowania wiadomości e-mail i kalendarze w Hotmail](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="bc917-114">Learn more about how to [print email and calendars in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).</span></span>
   
 

@@ -7,25 +7,25 @@ ms.date: 9/13/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 5e2f1581-027a-4417-8d7a-6cae5c6d52b6
-ms.openlocfilehash: c43ef598905322b7c7685fcbb89d77153d9ea66f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 74e9bb5ea0fd9ae5ec64082ff6592b8fecdc4bd2
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29482641"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29923434"
 ---
-# <a name="print-an-attachment"></a><span data-ttu-id="251a4-102">Wydrukować załącznik</span><span class="sxs-lookup"><span data-stu-id="251a4-102">Print an attachment</span></span>
+# <a name="print-an-attachment"></a><span data-ttu-id="007e6-102">Wydrukować załącznik</span><span class="sxs-lookup"><span data-stu-id="007e6-102">Print an attachment</span></span>
 
-<span data-ttu-id="251a4-103">Aby wydrukować załączniki wiadomości e-mail, pobrać i zapisać załączniki na komputerze lokalnym lub w OneDrive, a następnie otwórz je z odpowiedni program.</span><span class="sxs-lookup"><span data-stu-id="251a4-103">To print email attachments, download and save the attachments to your local computer or OneDrive and then open them with the appropriate program.</span></span>
+<span data-ttu-id="007e6-103">Aby wydrukować załączniki wiadomości e-mail, pobrać i zapisać załączniki na komputerze lokalnym lub w OneDrive, a następnie otwórz je z odpowiedni program.</span><span class="sxs-lookup"><span data-stu-id="007e6-103">To print email attachments, download and save the attachments to your local computer or OneDrive and then open them with the appropriate program.</span></span>
   
-1. <span data-ttu-id="251a4-104">Otwórz wiadomość zawierającą załącznik, który chcesz wydrukować.</span><span class="sxs-lookup"><span data-stu-id="251a4-104">Open the message that contains the attachment you want to print.</span></span>
+1. <span data-ttu-id="007e6-104">Otwórz wiadomość zawierającą załącznik, który chcesz wydrukować.</span><span class="sxs-lookup"><span data-stu-id="007e6-104">Open the message that contains the attachment you want to print.</span></span>
     
-2. <span data-ttu-id="251a4-105">Poniżej Załącznik zaznacz opcję **Pobierz**.</span><span class="sxs-lookup"><span data-stu-id="251a4-105">Below the attachment, select **Download**.</span></span> 
+2. <span data-ttu-id="007e6-105">Poniżej Załącznik zaznacz opcję **Pobierz**.</span><span class="sxs-lookup"><span data-stu-id="007e6-105">Below the attachment, select **Download**.</span></span> 
     
-3. <span data-ttu-id="251a4-p101">Po pobraniu pliku, otwórz go za pomocą odpowiedniego programu i wybrać opcję drukowania. Na przykład otworzyć dowolny plik .doc w programie Word, a następnie wydrukuj.</span><span class="sxs-lookup"><span data-stu-id="251a4-p101">After the file has downloaded, open it with the appropriate program and choose the option to print. For example, open a .doc file in Word and then print.</span></span>
+3. <span data-ttu-id="007e6-p101">Po pobraniu pliku, otwórz go za pomocą odpowiedniego programu i wybrać opcję drukowania. Na przykład otworzyć dowolny plik .doc w programie Word, a następnie wydrukuj.</span><span class="sxs-lookup"><span data-stu-id="007e6-p101">After the file has downloaded, open it with the appropriate program and choose the option to print. For example, open a .doc file in Word and then print.</span></span>
     
-<span data-ttu-id="251a4-108">Aby uzyskać więcej informacji przeczytaj [Drukowanie wiadomości e-mail i załączniki w Hotmail](https://go.microsoft.com/fwlink/?linkid=2021110&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="251a4-108">For more information, read [Print email messages and attachments in Outlook.com](https://go.microsoft.com/fwlink/?linkid=2021110&amp;clcid=0x409).</span></span>
+<span data-ttu-id="007e6-108">Aby uzyskać więcej informacji przeczytaj [Drukowanie wiadomości e-mail i załączniki w Hotmail](https://go.microsoft.com/fwlink/?linkid=2021110&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="007e6-108">For more information, read [Print email messages and attachments in Outlook.com](https://go.microsoft.com/fwlink/?linkid=2021110&amp;clcid=0x409).</span></span>
   
 
