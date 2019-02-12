@@ -7,37 +7,37 @@ ms.date: 2/25/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 0c4ccf9b3b1e1666430013b8f827b212688a73af
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: 7788acd13218b6e15a7accb7e87ca14e9c90b691
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29759146"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29901054"
 ---
-# <a name="change-a-users-email-address"></a><span data-ttu-id="a1e5e-102">Zmienianie adresu e-mail użytkownika</span><span class="sxs-lookup"><span data-stu-id="a1e5e-102">Change a user's email address</span></span>
+# <a name="change-a-users-email-address"></a><span data-ttu-id="ebe5a-102">Zmienianie adresu e-mail użytkownika</span><span class="sxs-lookup"><span data-stu-id="ebe5a-102">Change a user's email address</span></span>
 
-<span data-ttu-id="a1e5e-p101">Zmiana adresu e-mail innej osoby jest łatwe! Po prostu wykonaj następujące kroki:</span><span class="sxs-lookup"><span data-stu-id="a1e5e-p101">Changing someone's email address is easy! Just follow these steps:</span></span>
+<span data-ttu-id="ebe5a-p101">Zmiana adresu e-mail innej osoby jest łatwe! Po prostu wykonaj następujące kroki:</span><span class="sxs-lookup"><span data-stu-id="ebe5a-p101">Changing someone's email address is easy! Just follow these steps:</span></span>
   
-1. <span data-ttu-id="a1e5e-105">Centrum administracyjnego usługi Office 365, przejdź do strony [Użytkownicy](https://go.microsoft.com/fwlink/p/?linkid=834822) lub wybierz **użytkowników** \> **Aktywnych użytkowników**.</span><span class="sxs-lookup"><span data-stu-id="a1e5e-105">In the Office 365 admin center, go to the [Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active Users**.</span></span>
+1. <span data-ttu-id="ebe5a-105">Centrum administracyjnego usługi Office 365, przejdź do strony [Użytkownicy](https://go.microsoft.com/fwlink/p/?linkid=834822) lub wybierz **użytkowników** \> **Aktywnych użytkowników**.</span><span class="sxs-lookup"><span data-stu-id="ebe5a-105">In the Office 365 admin center, go to the [Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active Users**.</span></span>
     
-2. <span data-ttu-id="a1e5e-106">Wybierz użytkownika.</span><span class="sxs-lookup"><span data-stu-id="a1e5e-106">Select the user.</span></span>
+2. <span data-ttu-id="ebe5a-106">Wybierz użytkownika.</span><span class="sxs-lookup"><span data-stu-id="ebe5a-106">Select the user.</span></span>
     
-3. <span data-ttu-id="a1e5e-107">Po prawej stronie w wierszu **Nazwa użytkownika/Aliasy e-mail** wybierz pozycję **Edytuj**.</span><span class="sxs-lookup"><span data-stu-id="a1e5e-107">On the right, in the **Username / Email Aliases** row, choose **Edit**.</span></span>
+3. <span data-ttu-id="ebe5a-107">Po prawej stronie w wierszu **Nazwa użytkownika/Aliasy e-mail** wybierz pozycję **Edytuj**.</span><span class="sxs-lookup"><span data-stu-id="ebe5a-107">On the right, in the **Username / Email Aliases** row, choose **Edit**.</span></span>
     
-4. <span data-ttu-id="a1e5e-108">W polu **Alias** wpisz nowy adres e-mail, a następnie wybierz przycisk **Dodaj**.</span><span class="sxs-lookup"><span data-stu-id="a1e5e-108">In the **Alias** box, type a new email,then choose **Add**.</span></span>
+4. <span data-ttu-id="ebe5a-108">W polu **Alias** wpisz nowy adres e-mail, a następnie wybierz przycisk **Dodaj**.</span><span class="sxs-lookup"><span data-stu-id="ebe5a-108">In the **Alias** box, type a new email,then choose **Add**.</span></span>
     
-    <span data-ttu-id="a1e5e-p102">**Ważne**: Jeśli zostanie wyświetlony komunikat o błędzie " **parametr nie można odnaleźć parametru o nazwie" EmailAddresses**"oznacza, że trwa nieco dłużej usługi Office 365 zakończyć konfigurowanie dzierżawcy lub domeny niestandardowej, jeśli ostatnio dodane . Proces instalacji może zająć do 4 godzin. Poczekaj chwilę, więc proces instalacji ma czas do końca, a następnie spróbuj ponownie. Jeśli problem będzie się powtarzał, należy wywołać pomocy technicznej i zrobią pełnej synchronizacji dla Ciebie.</span><span class="sxs-lookup"><span data-stu-id="a1e5e-p102">**IMPORTANT**: If you get the error message " **A parameter cannot be found that matches parameter name 'EmailAddresses**" it means that it's taking a bit longer for Office 365 to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the setup process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.</span></span>
+    <span data-ttu-id="ebe5a-p102">**Ważne**: Jeśli zostanie wyświetlony komunikat o błędzie " **parametr nie można odnaleźć parametru o nazwie" EmailAddresses**"oznacza, że trwa nieco dłużej usługi Office 365 zakończyć konfigurowanie dzierżawcy lub domeny niestandardowej, jeśli ostatnio dodane . Proces instalacji może zająć do 4 godzin. Poczekaj chwilę, więc proces instalacji ma czas do końca, a następnie spróbuj ponownie. Jeśli problem będzie się powtarzał, należy wywołać pomocy technicznej i zrobią pełnej synchronizacji dla Ciebie.</span><span class="sxs-lookup"><span data-stu-id="ebe5a-p102">**IMPORTANT**: If you get the error message " **A parameter cannot be found that matches parameter name 'EmailAddresses**" it means that it's taking a bit longer for Office 365 to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the setup process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.</span></span>
     
-    <span data-ttu-id="a1e5e-113">Jeśli zostanie wyświetlony komunikat o błędzie " **Niestety, użytkownik nie może być edytowane. Przejrzyj informacje o użytkowniku i spróbuj ponownie**"oznacza nie jesteś administratorem globalne usługi Office 365, a użytkownik nie ma uprawnień do zmiany nazwy użytkownika.</span><span class="sxs-lookup"><span data-stu-id="a1e5e-113">If you get the error message " **We're sorry, the user couldn't be edited. Review the user information and try again**" it means you aren't an Office 365 global admin and you don't have permissions to change the user's name.</span></span>
+    <span data-ttu-id="ebe5a-113">Jeśli zostanie wyświetlony komunikat o błędzie " **Niestety, użytkownik nie może być edytowane. Przejrzyj informacje o użytkowniku i spróbuj ponownie**"oznacza nie jesteś administratorem globalne usługi Office 365, a użytkownik nie ma uprawnień do zmiany nazwy użytkownika.</span><span class="sxs-lookup"><span data-stu-id="ebe5a-113">If you get the error message " **We're sorry, the user couldn't be edited. Review the user information and try again**" it means you aren't an Office 365 global admin and you don't have permissions to change the user's name.</span></span>
     
-5. <span data-ttu-id="a1e5e-p103">Wybierz polecenie **Ustaw jako podstawowy** adres e-mail, który chcesz ustawić jako podstawowy adres e-mail dla tej osoby. W przypadku zakupu subskrypcji od GoDaddy, możesz musi zarejestrować się do ich management console Aby ustawić podstawowy adres e-mail.</span><span class="sxs-lookup"><span data-stu-id="a1e5e-p103">Choose **Set as Primary** for the email address that you want to set as the primary email address for that person. If you purchased your subscription from GoDaddy, you must sign in to their management console to set the primary email address.</span></span> 
+5. <span data-ttu-id="ebe5a-p103">Wybierz polecenie **Ustaw jako podstawowy** adres e-mail, który chcesz ustawić jako podstawowy adres e-mail dla tej osoby. W przypadku zakupu subskrypcji od GoDaddy, możesz musi zarejestrować się do ich management console Aby ustawić podstawowy adres e-mail.</span><span class="sxs-lookup"><span data-stu-id="ebe5a-p103">Choose **Set as Primary** for the email address that you want to set as the primary email address for that person. If you purchased your subscription from GoDaddy, you must sign in to their management console to set the primary email address.</span></span> 
     
-6. <span data-ttu-id="a1e5e-116">Wybierz polecenie **Zapisz**, następnie **Zamknij**, i gotowe!</span><span class="sxs-lookup"><span data-stu-id="a1e5e-116">Choose **Save**, then **Close**, and you're done!</span></span>
+6. <span data-ttu-id="ebe5a-116">Wybierz polecenie **Zapisz**, następnie **Zamknij**, i gotowe!</span><span class="sxs-lookup"><span data-stu-id="ebe5a-116">Choose **Save**, then **Close**, and you're done!</span></span>
     
-<span data-ttu-id="a1e5e-p104">Nie było to łatwe? Bardziej szczegółowe informacje i kroki z obrazkami, Sprawdź ten artykuł: [Zmień nazwę użytkownika i adres e-mail w usłudze Office 365](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)</span><span class="sxs-lookup"><span data-stu-id="a1e5e-p104">Wasn't that easy? For more details and steps with screenshots, check out this article: [Change a user name and email address in Office 365](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)</span></span>
+<span data-ttu-id="ebe5a-p104">Nie było to łatwe? Bardziej szczegółowe informacje i kroki z obrazkami, Sprawdź ten artykuł: [Zmień nazwę użytkownika i adres e-mail w usłudze Office 365](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)</span><span class="sxs-lookup"><span data-stu-id="ebe5a-p104">Wasn't that easy? For more details and steps with screenshots, check out this article: [Change a user name and email address in Office 365](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)</span></span>
   
 
