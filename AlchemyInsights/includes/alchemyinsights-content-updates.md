@@ -838,3 +838,57 @@
 | 1/30/2019 | [Błąd w programie OWA-wyłączony 123 Uzyskiwanie konta?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | Zmodyfikowano |
 | 2/1/2019 | [tak samo jak najlepiej nazwa_pliku [reguła #-opis]](/AlchemyInsights/1-alchemy-insight-template) | Zmodyfikowano |
 | 2/1/2019 | [Zmiana uprawnień w skrzynce pocztowej](/AlchemyInsights/changing-permissions-on-a-mailbox) | Zmodyfikowano |
+
+
+## <a name="week-of-february-04-2019"></a>Tydzień 04 lutego 2019
+
+
+| Opublikowano: |Tytuł tematu | Zmiana |
+|------|------------|--------|
+| 2/4/2019 | [Dodawanie użytkowników do usługi Office 365](/AlchemyInsights/add-users-to-office-365) | Zmodyfikowano |
+| 2/6/2019 | [Odejścia pracownika](/AlchemyInsights/employee-leaving) | Zmodyfikowano |
+| 2/6/2019 | [Przejęcie Admin](/AlchemyInsights/admin-takeover) | Zmodyfikowano |
+| 2/6/2019 | [127 pojawia się błąd TenantAccessBlockedException podczas uzyskiwania dostępu do poczty e-mail?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | Zmodyfikowano |
+| 2/6/2019 | [Nazwa wyświetlana zmiana 959](/AlchemyInsights/959-change-display-name) | Zmodyfikowano |
+| 2/6/2019 | [Dodać lub usunąć alias e-mail użytkownika](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | Zmodyfikowano |
+| 2/6/2019 | Dodawanie miejsc do przedpłaconej subskrypcji | usunięte |
+| 2/6/2019 | [Dodawanie użytkowników do usługi Office 365](/AlchemyInsights/add-users-to-office-365) | Zmodyfikowano |
+| 2/6/2019 | [Dodawanie użytkowników zewnętrznych do grupy dystrybucyjnej?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | Zmodyfikowano |
+| 2/6/2019 | Admin - globalne usługi Office 365 instalacji i administracji | usunięte |
+| 2/6/2019 | Admin - Zarządzaj moim użytkowników, grup i zasobów | usunięte |
+| 2/6/2019 | Admin - ustawienia domeny i ustawienia DNS | usunięte |
+| 2/6/2019 | Admin - logowanie i rozwiązywania problemów z hasłem | usunięte |
+| 2/6/2019 | [Anuluj subskrypcję usługi Office 365](/AlchemyInsights/cancel-office-365-subscription) | Zmodyfikowano |
+| 2/6/2019 | [Zmień adres nazwisko i adres e-mail użytkownika](/AlchemyInsights/change-a-user-s-name-and-email-address) | Zmodyfikowano |
+| 2/6/2019 | Commerce - Zarządzanie rachunków, płatności, subskrypcje i licencje | usunięte |
+| 2/6/2019 | [Pojawia się błąd TenantAccessBlockedException podczas uzyskiwania dostępu do poczty e-mail?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | Zmodyfikowano |
+| 2/6/2019 | [Masz problemy z dostarczaniem wiadomości e-mail?](/AlchemyInsights/having-email-delivery-issues-0) | Zmodyfikowano |
+| 2/6/2019 | [Masz problemy z dostarczaniem wiadomości e-mail?](/AlchemyInsights/having-email-delivery-issues) | Zmodyfikowano |
+| 2/6/2019 | [Masz problemy z coraz program Outlook do łączenia?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | Zmodyfikowano |
+| 2/6/2019 | [Masz problemy z coraz program Outlook do łączenia?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | Zmodyfikowano |
+| 2/6/2019 | Windows Intune - Pobierz, konfiguracji i użytkowania usługi Intune | usunięte |
+| 2/6/2019 | [Problem za pomocą programu Skype dla firmy?](/AlchemyInsights/issue-with-skype-for-business) | Zmodyfikowano |
+| 2/6/2019 | ODSP | usunięte |
+| 2/6/2019 | Klienta pakietu Office - Excel | usunięte |
+| 2/6/2019 | [Przywracanie usuniętych użytkownika](/AlchemyInsights/restore-deleted-user) | Zmodyfikowano |
+| 2/6/2019 | [Zdarzenia usługi w toku](/AlchemyInsights/service-incident-in-progress-0) | Zmodyfikowano |
+| 2/6/2019 | [Zdarzenia usługi w toku](/AlchemyInsights/service-incident-in-progress-1) | Zmodyfikowano |
+| 2/6/2019 | [Zdarzenia usługi w toku](/AlchemyInsights/service-incident-in-progress-2) | Zmodyfikowano |
+| 2/6/2019 | [Zdarzenia usługi w toku](/AlchemyInsights/service-incident-in-progress-3) | Zmodyfikowano |
+| 2/6/2019 | [Zdarzenia usługi w toku](/AlchemyInsights/service-incident-in-progress-4) | Zmodyfikowano |
+| 2/6/2019 | [Zdarzenia usługi w toku](/AlchemyInsights/service-incident-in-progress-5) | Zmodyfikowano |
+| 2/6/2019 | [Zdarzenia usługi w toku](/AlchemyInsights/service-incident-in-progress) | Zmodyfikowano |
+| 2/6/2019 | [Konfigurowanie projektu](/AlchemyInsights/setting-up-project) | Zmodyfikowano |
+| 2/6/2019 | Ustawienia zgodności funkcje, takie jak archiwum, przechowywania, postępowania sądowego, zbierania elektronicznych materiałów dowodowych i MDM | usunięte |
+| 2/6/2019 | Dla pakietu Office przy użyciu Instalatora w trybie Offline | usunięte |
+| 2/6/2019 | Yammer - instalacji i korzystania z usług Yammer | usunięte |
+| 2/7/2019 | [Program Excel upaść?](/AlchemyInsights/excel-crashing) | Zmodyfikowano |
+| 2/7/2019 | [Jak dodać lub edytować VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | Zmodyfikowano |
+| 2/7/2019 | [Darmowe edukacji dla Minecraft Edition z pakietem Office 365](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | Zmodyfikowano |
+| 2/7/2019 | [606 informacji dotyczących delegowania](/AlchemyInsights/606-information-on-delegation) | Zmodyfikowano |
+| 2/7/2019 | [Grupy nie jest widoczny na liście grupy](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | Zmodyfikowano |
+| 2/8/2019 | [Porady dotyczące zasad DLP nie działa](/AlchemyInsights/dlp-policy-tips-not-working) | Zmodyfikowano |
+| 2/8/2019 | [Reguła DLP dla USA / numer paszportu UK nie działa](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | Zmodyfikowano |
+| 2/8/2019 | [Darmowe edukacji dla usługi Office 365](/AlchemyInsights/office-365-education-for-free) | Zmodyfikowano |
+| 2/8/2019 | [Wymagane licencje dla ToDo firmy Microsoft](/AlchemyInsights/required-licences-for-microsoft-todo) | Zmodyfikowano |
+| 2/8/2019 | [Zasady przechowywania w Centrum administracyjnego programu Exchange nie działa](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | Zmodyfikowano |
