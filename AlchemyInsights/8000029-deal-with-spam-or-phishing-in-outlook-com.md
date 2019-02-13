@@ -7,27 +7,27 @@ ms.date: 5/1/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e03a7476-f02d-4c2c-bc55-42cad0ab8622
-ms.openlocfilehash: adb11e5bba4dc31c228b9a68919283fa370db768
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 0b9022698567a572156201a40271ee46ec01e5fc
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483121"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29920134"
 ---
-# <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a><span data-ttu-id="be133-102">Radzić sobie z wiadomości-śmieci i wyłudzanie informacji oszustw w skrzynce odbiorczej</span><span class="sxs-lookup"><span data-stu-id="be133-102">Deal with spam or phishing scams in your inbox</span></span>
+# <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a><span data-ttu-id="0bcff-102">Radzić sobie z wiadomości-śmieci i wyłudzanie informacji oszustw w skrzynce odbiorczej</span><span class="sxs-lookup"><span data-stu-id="0bcff-102">Deal with spam or phishing scams in your inbox</span></span>
 
-<span data-ttu-id="be133-103">Jeśli otrzymasz wiadomość e-mail, które wyglądają jak wiadomości-śmieci lub na phishing, możesz to zgłosić, klikając prawym przyciskiem myszy wiadomość i wybierz opcję **Oznacz jako wiadomości-śmieci**.</span><span class="sxs-lookup"><span data-stu-id="be133-103">If you get an email that looks like spam or a phishing scam, you can report it by right-clicking the message and select **Mark as junk**.</span></span> 
+<span data-ttu-id="0bcff-103">Jeśli otrzymasz wiadomość e-mail, które wyglądają jak wiadomości-śmieci lub na phishing, możesz to zgłosić, klikając prawym przyciskiem myszy wiadomość i wybierz opcję **Oznacz jako wiadomości-śmieci**.</span><span class="sxs-lookup"><span data-stu-id="0bcff-103">If you get an email that looks like spam or a phishing scam, you can report it by right-clicking the message and select **Mark as junk**.</span></span> 
   
-<span data-ttu-id="be133-p101">Filtry wiadomości-śmieci hotmail poprawa po oznaczeniu wiadomości jako wiadomości-śmieci. Możesz także zgłosić jako na phishing lub zablokować adresów e-mail i domen nie chcesz otrzymywać wiadomości od.</span><span class="sxs-lookup"><span data-stu-id="be133-p101">The junk email filters in Outlook.com improve when you mark a message as junk. You can also report it as a phishing scam or block the email addresses and domains you don't want to receive messages from.</span></span>
+<span data-ttu-id="0bcff-p101">Filtry wiadomości-śmieci hotmail poprawa po oznaczeniu wiadomości jako wiadomości-śmieci. Możesz także zgłosić jako na phishing lub zablokować adresów e-mail i domen nie chcesz otrzymywać wiadomości od.</span><span class="sxs-lookup"><span data-stu-id="0bcff-p101">The junk email filters in Outlook.com improve when you mark a message as junk. You can also report it as a phishing scam or block the email addresses and domains you don't want to receive messages from.</span></span>
   
-<span data-ttu-id="be133-p102">Jeśli uważasz otrzymał phishingu lub sfałszowania oszustwa, Oznacz wiadomości e-mail jako wiadomości-śmieci, przejdź do folderu wiadomości-śmieci i wybierz **nie spam** \> **Phishing** oznaczyć je jako na phishing. Dowiedz się więcej o tym, jak radzić sobie [z nadużycia, phishing lub fałszowanie zawartości](https://go.microsoft.com/fwlink/p/?linkid=873139).</span><span class="sxs-lookup"><span data-stu-id="be133-p102">If you believe you've received a phishing or spoofing scam, mark the email as junk, go to your Junk Email folder, and select **Not spam** \> **Phishing** to mark it as a phishing scam. Learn more about how to [deal with abuse, phishing, or spoofing](https://go.microsoft.com/fwlink/p/?linkid=873139).</span></span>
+<span data-ttu-id="0bcff-p102">Jeśli uważasz otrzymał phishingu lub sfałszowania oszustwa, Oznacz wiadomości e-mail jako wiadomości-śmieci, przejdź do folderu wiadomości-śmieci i wybierz **nie spam** \> **Phishing** oznaczyć je jako na phishing. Dowiedz się więcej o tym, jak radzić sobie [z nadużycia, phishing lub fałszowanie zawartości](https://go.microsoft.com/fwlink/p/?linkid=873139).</span><span class="sxs-lookup"><span data-stu-id="0bcff-p102">If you believe you've received a phishing or spoofing scam, mark the email as junk, go to your Junk Email folder, and select **Not spam** \> **Phishing** to mark it as a phishing scam. Learn more about how to [deal with abuse, phishing, or spoofing](https://go.microsoft.com/fwlink/p/?linkid=873139).</span></span>
   
-<span data-ttu-id="be133-p103">Blokowanie adresów e-mail, przejdź do **ustawień**![ustawienia](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Opcje** \> **zablokowanych nadawców**. Aby dodać adresy lub domeny do listy bezpiecznych nadawców, zaznacz **bezpiecznych nadawców**.</span><span class="sxs-lookup"><span data-stu-id="be133-p103">To block email addresses, go to **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Options** \> **Blocked senders**. To add addresses or domains to your safe senders list, select **Safe senders**.</span></span> 
+<span data-ttu-id="0bcff-p103">Blokowanie adresów e-mail, przejdź do **ustawień**![ustawienia](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Opcje** \> **zablokowanych nadawców**. Aby dodać adresy lub domeny do listy bezpiecznych nadawców, zaznacz **bezpiecznych nadawców**.</span><span class="sxs-lookup"><span data-stu-id="0bcff-p103">To block email addresses, go to **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Options** \> **Blocked senders**. To add addresses or domains to your safe senders list, select **Safe senders**.</span></span> 
   
-<span data-ttu-id="be133-110">Jeśli widzisz wzrost spamu, przeczytaj porady [pomagają chronić wiadomości-śmieci i wiadomości e-mail ze skrzynki odbiorczej](https://go.microsoft.com/fwlink/p/?linkid=873140).</span><span class="sxs-lookup"><span data-stu-id="be133-110">If you're seeing an increase in spam, read how to [help keep spam and junk email out of your inbox](https://go.microsoft.com/fwlink/p/?linkid=873140).</span></span>
+<span data-ttu-id="0bcff-110">Jeśli widzisz wzrost spamu, przeczytaj porady [pomagają chronić wiadomości-śmieci i wiadomości e-mail ze skrzynki odbiorczej](https://go.microsoft.com/fwlink/p/?linkid=873140).</span><span class="sxs-lookup"><span data-stu-id="0bcff-110">If you're seeing an increase in spam, read how to [help keep spam and junk email out of your inbox](https://go.microsoft.com/fwlink/p/?linkid=873140).</span></span>
   
 

@@ -7,29 +7,29 @@ ms.date: 6/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 46a04853-e422-41cc-9bb7-a46d6b6f8aa0
-ms.openlocfilehash: c9a56fe4a957ce3d0b60aa919ca89df683657066
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f58b61fc6bef7cf759cac7a5ea13a455f80301f3
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29482639"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29920424"
 ---
-# <a name="receiving-email-from-blocked-senders"></a><span data-ttu-id="1c11c-102">Odbieranie wiadomości e-mail od zablokowanych nadawców</span><span class="sxs-lookup"><span data-stu-id="1c11c-102">Receiving email from blocked senders</span></span>
+# <a name="receiving-email-from-blocked-senders"></a><span data-ttu-id="2714b-102">Odbieranie wiadomości e-mail od zablokowanych nadawców</span><span class="sxs-lookup"><span data-stu-id="2714b-102">Receiving email from blocked senders</span></span>
 
-<span data-ttu-id="1c11c-103">Jeśli wiadomość e-mail od zablokowanych nadawców jest nadal wyświetlany w skrzynce odbiorczej, nadawca może być ukrycie ich prawdziwy adres e-mail.</span><span class="sxs-lookup"><span data-stu-id="1c11c-103">If email from a blocked sender still appears in your inbox, the sender might be hiding their real email address.</span></span>
+<span data-ttu-id="2714b-103">Jeśli wiadomość e-mail od zablokowanych nadawców jest nadal wyświetlany w skrzynce odbiorczej, nadawca może być ukrycie ich prawdziwy adres e-mail.</span><span class="sxs-lookup"><span data-stu-id="2714b-103">If email from a blocked sender still appears in your inbox, the sender might be hiding their real email address.</span></span>
   
-<span data-ttu-id="1c11c-104">Aby sprawdzić nadawcy prawdziwy adres e-mail:</span><span class="sxs-lookup"><span data-stu-id="1c11c-104">To check a sender's real email address:</span></span>
+<span data-ttu-id="2714b-104">Aby sprawdzić nadawcy prawdziwy adres e-mail:</span><span class="sxs-lookup"><span data-stu-id="2714b-104">To check a sender's real email address:</span></span>
   
-1. <span data-ttu-id="1c11c-105">Wybierz ![więcej akcji](media/11884972-7ebb-4afe-8b50-63efefb7cca8.png) w górnej części okna wiadomości i wybierz polecenie **Wyświetl źródło wiadomości**.</span><span class="sxs-lookup"><span data-stu-id="1c11c-105">Select ![More actions](media/11884972-7ebb-4afe-8b50-63efefb7cca8.png) at the top of the message window and select **View message source**.</span></span>
+1. <span data-ttu-id="2714b-105">Wybierz ![więcej akcji](media/11884972-7ebb-4afe-8b50-63efefb7cca8.png) w górnej części okna wiadomości i wybierz polecenie **Wyświetl źródło wiadomości**.</span><span class="sxs-lookup"><span data-stu-id="2714b-105">Select ![More actions](media/11884972-7ebb-4afe-8b50-63efefb7cca8.png) at the top of the message window and select **View message source**.</span></span>
     
-2. <span data-ttu-id="1c11c-106">Przewiń w dół **źródło wiadomości** aż do znalezienia pola, **podstawie** .</span><span class="sxs-lookup"><span data-stu-id="1c11c-106">Scroll down the **Message source** until you find the **From** field.</span></span> 
+2. <span data-ttu-id="2714b-106">Przewiń w dół **źródło wiadomości** aż do znalezienia pola, **podstawie** .</span><span class="sxs-lookup"><span data-stu-id="2714b-106">Scroll down the **Message source** until you find the **From** field.</span></span> 
     
-3. <span data-ttu-id="1c11c-107">Wyróżnij adres e-mail ujęte w \< \> i kliknij prawym przyciskiem myszy, aby **skopiować**</span><span class="sxs-lookup"><span data-stu-id="1c11c-107">Highlight the email address enclosed within \< \> and right-click to **Copy**</span></span>
+3. <span data-ttu-id="2714b-107">Wyróżnij adres e-mail ujęte w \< \> i kliknij prawym przyciskiem myszy, aby **skopiować**</span><span class="sxs-lookup"><span data-stu-id="2714b-107">Highlight the email address enclosed within \< \> and right-click to **Copy**</span></span>
     
-4. <span data-ttu-id="1c11c-p101">Umożliwia blokowanie nadawcy to prawdziwy adres e-mail. Jak czytać [nadawców blokowanie](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e.aspx)lub odblokowywanie nadawców w Hotmail.</span><span class="sxs-lookup"><span data-stu-id="1c11c-p101">Use this real email address to block the sender. Read how to [Block senders or unblock senders in Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e.aspx).</span></span>
+4. <span data-ttu-id="2714b-p101">Umożliwia blokowanie nadawcy to prawdziwy adres e-mail. Jak czytać [nadawców blokowanie](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e.aspx)lub odblokowywanie nadawców w Hotmail.</span><span class="sxs-lookup"><span data-stu-id="2714b-p101">Use this real email address to block the sender. Read how to [Block senders or unblock senders in Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e.aspx).</span></span>
     
-<span data-ttu-id="1c11c-110">Aby uzyskać więcej informacji przeczytaj co zrobić w przypadku [otrzymania wiadomości e-mail od zablokowanych nadawców](https://go.microsoft.com/fwlink/p/?linkid=2002011&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="1c11c-110">For more information, read what to do if you're [receiving email from blocked senders](https://go.microsoft.com/fwlink/p/?linkid=2002011&amp;clcid=0x409).</span></span>
+<span data-ttu-id="2714b-110">Aby uzyskać więcej informacji przeczytaj co zrobić w przypadku [otrzymania wiadomości e-mail od zablokowanych nadawców](https://go.microsoft.com/fwlink/p/?linkid=2002011&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="2714b-110">For more information, read what to do if you're [receiving email from blocked senders](https://go.microsoft.com/fwlink/p/?linkid=2002011&amp;clcid=0x409).</span></span>
   
 
