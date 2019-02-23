@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 4d375f6357539db79c870c5c32e7201bc93081b8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f32262a370abf8b6e0801cd0741f827a9d4be707
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915310"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207875"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Konfigurowanie subskrypcji O365 Business Essentials
 
@@ -21,7 +21,7 @@ Tworzenie kont usługi Office 365 i dodawania domeny
   
 - W tym kroku używasz Kreatora instalacji do tworzenia kont usługi Office 365 dla użytkowników i dodawać własnej domeny. Kreator umożliwia spersonalizowanie każdy identyfikator użytkownika i adres e-mail dla Twojej firmy, takich jak [rob@contoso.com](mailto:rob@contoso.com).
     
-- Przejdź do [Centrum administracyjnego usługi Office 365](https://login.partner.microsoftonline.cn/).
+- Przejdź do [Centrum administracyjnego usługi Microsoft 365](https://login.partner.microsoftonline.cn/).
     
 - Aby uruchomić kreatora, wybierz polecenie **Przejdź do instalacji**. Aby dowiedzieć się więcej, zobacz [Dodawanie użytkowników i domeny do usługi Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
     

@@ -10,16 +10,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
-ms.openlocfilehash: f27198496cbcbef502e33f6c4c3125077bd3f23e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ec58c6fb06047ee25b867127838e14fbc626e87f
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29909471"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207803"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Jak przypisać licencje pakietu Office dla użytkowników komputerów Macintosh
 
-- Centrum administracyjnego usługi Office 365 przejdź do strony [Użytkownicy aktywni](https://go.microsoft.com/fwlink/p/?linkid=834822) lub wybierz **użytkowników** \> **aktywnych użytkowników**.
+- Centrum administracyjnego usługi Microsoft 365 przejdź na stronę [aktywnych użytkowników](https://go.microsoft.com/fwlink/p/?linkid=834822) lub wybierz **użytkowników** \> **aktywnych użytkowników**.
     
 - Zaznacz pole odpowiadające nazwie użytkownika, któremu chcesz przypisać licencję.
     
