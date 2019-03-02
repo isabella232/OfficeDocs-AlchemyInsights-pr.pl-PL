@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f0e4afcc-b0a1-4b1b-b1e8-743504b54d37
-ms.openlocfilehash: ed03a5d4b005e4d6f7117e66f170427161363486
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0c875235dae8f8851cbce40201b6c35120d4d2fa
+ms.sourcegitcommit: 47bdacaa8fcfce06f159a7ddbc114f2d1a70bc2c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925822"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "30361647"
 ---
 # <a name="advanced-outlookcom-security-for-office-365-subscribers"></a>Zaawansowane zabezpieczenia Hotmail dla subskrybentów usługi Office 365
 
@@ -24,4 +24,4 @@ Po otrzymaniu wiadomości zawierających łącza do stron sieci web, Hotmail spr
   
 Dowiedz się więcej na temat [Zabezpieczenia zaawansowane Hotmail dla subskrybentów usługi Office 365](https://go.microsoft.com/fwlink/p/?linkid=2006140), w tym sposobu usuwania bezpiecznego łącza z wiadomości.
   
-
+Uwaga: Klienci Premium i subskrybentów usługi Office 365 można włączyć lub wyłączyć bezpiecznego łącza w ich [Ustawienia zabezpieczeń premii](https://outlook.live.com/mail/options/premium/security).
