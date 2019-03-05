@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
-ms.openlocfilehash: 800fde849db0f1d3673a7144bc83b83e0ee7ace8
-ms.sourcegitcommit: e3df67530bd5205410acf5beba4a07acab9692f0
+ms.openlocfilehash: 27f7c36576c7be4fab824df1a22bf0bde7047341
+ms.sourcegitcommit: b1fef941ee5c1392a6b05f6f1ba92080b99d8589
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30347417"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30376082"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Zapisywanie wiadomości w Hotmail
 
@@ -29,4 +29,4 @@ Narzędzie Microsoft drukowanie na PDF dołączone do systemu Windows 10 pozwala
 4. Wybierz polecenie **Drukuj**.
 5. Wprowadź nazwę pliku, a następnie wybierz przycisk **Zapisz**.
 
-Uwaga: Nie jest to zalecane na komputerach udostępnionych lub publicznych jak inni użytkownicy mogą mieć dostęp do wszelkich plików PDF, Zapisz na komputerze PC i nie należy usuwać.
+**Uwaga:** Nie jest to zalecane na komputerach udostępnionych lub publicznych, jak inni użytkownicy mogą mieć dostęp do wszelkich plików PDF, Zapisz na komputerze PC i nie należy usuwać.

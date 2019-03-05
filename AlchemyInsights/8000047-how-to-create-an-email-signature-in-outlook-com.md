@@ -9,25 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: 384104963a98e07a77dbfaba64787ef30fb4be29
-ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
+ms.openlocfilehash: 7d8b0d2a98f71dbc973c3e46783c01d09bdab259
+ms.sourcegitcommit: b1fef941ee5c1392a6b05f6f1ba92080b99d8589
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30244159"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30376118"
 ---
 # <a name="how-to-create-an-email-signature"></a>Jak utworzyć podpis wiadomości e-mail
 
-Jeśli używasz wersji beta Hotmail:
+Przejdź do [ustawień tworzenia wiadomości i odpowiedzi](https://go.microsoft.com/fwlink/?linkid=2006164) (**Ustawienia** \> **wyświetlić wszystkie ustawienia programu Outlook** \> **Redagowanie i odpowiedzi**). 
   
-- U góry strony, wybierz **Ustawienia** \> **Ustawienia pełnego widoku** \> **Redagowanie i odpowiedzi**. 
-    
-Jeśli używasz klasycznego Hotmail:
-  
-- U góry strony, wybierz **Ustawienia** \> **Opcje** \> **korespondencji** \> **układu** \> **podpisu E-mail**. 
-    
  **Uwaga:** Może mieć tylko jeden podpis na konto. 
   
 Dowiedz się więcej o tym, jak [utworzyć](https://go.microsoft.com/fwlink/p/?linkid=2001404&amp;clcid=0x409)i dodać podpis wiadomości e-mail w Hotmail.
-  
-
