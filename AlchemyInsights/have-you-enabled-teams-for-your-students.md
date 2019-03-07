@@ -9,16 +9,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3899a788-feaa-4ea4-a40b-09542f4cc148
-ms.openlocfilehash: 457bf53f2817b1e0a68b0647c84cb6b66ef0a43a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 73ff9c5cb09cd4209912ef459e8c7df2560c2d27
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927766"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468565"
 ---
-# <a name="have-you-enabled-teams-for-your-students"></a><span data-ttu-id="5fb42-102">Zespoły zostały włączone dla swoich uczniów?</span><span class="sxs-lookup"><span data-stu-id="5fb42-102">Have you enabled Teams for your students?</span></span>
+# <a name="have-you-enabled-teams-for-your-students"></a><span data-ttu-id="50fd6-102">Zespoły zostały włączone dla swoich uczniów?</span><span class="sxs-lookup"><span data-stu-id="50fd6-102">Have you enabled Teams for your students?</span></span>
 
 
-<span data-ttu-id="5fb42-p101">Mają dostęp zespoły pracowników naukowych i personelu, ale nie swoim uczniom? Zespoły musi być jawnie włączone dla swoich uczniów, a także dla swoich pracowników. Aby to zrobić, zobacz rysunek 2 krok 5 w artykule znajduje się [w tym miejscu](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="5fb42-p101">Are faculty and staff able to access Teams, but your students can't? Teams needs to be explicitly enabled for your students, as well as for faculty and staff. To do this, please see Figure 2 of Step 5 in the article found [here](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).</span></span>
+<span data-ttu-id="50fd6-103">Mają dostęp zespoły pracowników naukowych i personelu, ale nie swoim uczniom?</span><span class="sxs-lookup"><span data-stu-id="50fd6-103">Are faculty and staff able to access Teams, but your students can't?</span></span> <span data-ttu-id="50fd6-104">Zespoły musi być jawnie włączone dla swoich uczniów, a także dla swoich pracowników.</span><span class="sxs-lookup"><span data-stu-id="50fd6-104">Teams needs to be explicitly enabled for your students, as well as for faculty and staff.</span></span> <span data-ttu-id="50fd6-105">Aby to zrobić, zobacz [Włączanie zespoły pracowników firmy Microsoft dla szkoły](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="50fd6-105">To do this, please see [Enable Microsoft Teams for your school](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).</span></span>
   
 

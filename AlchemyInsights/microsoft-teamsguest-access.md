@@ -9,18 +9,22 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: e9b8b86c5e00dc23e78d204d6e375554f96f805f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941590"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468493"
 ---
-# <a name="microsoft-teams---guest-access"></a><span data-ttu-id="d6077-102">Zespoły pracowników firmy Microsoft - dostęp gościa</span><span class="sxs-lookup"><span data-stu-id="d6077-102">Microsoft Teams - Guest Access</span></span>
+# <a name="microsoft-teams---guest-access"></a><span data-ttu-id="41e2f-102">Zespoły pracowników firmy Microsoft - dostęp gościa</span><span class="sxs-lookup"><span data-stu-id="41e2f-102">Microsoft Teams - Guest Access</span></span>
 
+<span data-ttu-id="41e2f-103">Czy potrzebujesz pomocy włączania i konfigurowania funkcji dostępu gościa w Teams firmy Microsoft?</span><span class="sxs-lookup"><span data-stu-id="41e2f-103">Do you need help turning on and setting up the Guest Access feature in Microsoft Teams?</span></span>
 
-<span data-ttu-id="d6077-103">Jeśli trzeba włączyć lub skonfigurować roli dostępu gościa w Teams Microsoft, mamy przewodniku krok po kroku dla Ciebie: [Lista kontrolna dostępu gościa](https://docs.microsoft.com/microsoftteams/guest-access-checklist)</span><span class="sxs-lookup"><span data-stu-id="d6077-103">If you need to enable or configure the Guest Access Role in Microsoft Teams, we have a step-by-step instruction guide for you: [Guest Access Checklist](https://docs.microsoft.com/microsoftteams/guest-access-checklist)</span></span>
-  
-<span data-ttu-id="d6077-104">Należy poczekać do 24 godzin dla zespołów zmiany konfiguracji zostały wprowadzone.</span><span class="sxs-lookup"><span data-stu-id="d6077-104">You may need to wait up to 24 hours for Teams configuration changes to take effect.</span></span>
-  
+<span data-ttu-id="41e2f-104">Oto, co musisz zrobić:</span><span class="sxs-lookup"><span data-stu-id="41e2f-104">Here's what you need to do:</span></span>
+
+1. <span data-ttu-id="41e2f-105">Autoryzuj dostęp gościa.</span><span class="sxs-lookup"><span data-stu-id="41e2f-105">Authorize guest access.</span></span>
+1. <span data-ttu-id="41e2f-106">Dodaj użytkowników Gość do zespołu.</span><span class="sxs-lookup"><span data-stu-id="41e2f-106">Add guest users to your team.</span></span>
+1. <span data-ttu-id="41e2f-107">Skonfiguruj uprawnienia użytkownika Gość.</span><span class="sxs-lookup"><span data-stu-id="41e2f-107">Set up guest user permissions.</span></span>
+
+<span data-ttu-id="41e2f-108">Aby uzyskać więcej informacji, w tym filmy instruktażowe zobacz [Dostęp gościa w zespołach firmy Microsoft](https://docs.microsoft.com/en-us/microsoftteams/guest-access).</span><span class="sxs-lookup"><span data-stu-id="41e2f-108">For more information, including how-to videos, see [Guest access in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/guest-access).</span></span>
 
