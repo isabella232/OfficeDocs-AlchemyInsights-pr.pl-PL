@@ -1,5 +1,5 @@
 ---
-title: 'tak samo jak najlepiej nazwa_pliku [reguła #-opis]'
+title: najlepiej jest sama, jak nazwa pliku
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
-ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
+ms.openlocfilehash: ec979c2f2246fa06945b79bbb9348a7a57ad5180
+ms.sourcegitcommit: b3cf5130ac8118f0fed66abe5286aa80ee91af52
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30634514"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30683859"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Wymagane Alchemy nagłówka H1, H2's nie działają.
 Najważniejsze wskazówki i wytyczne dotyczące opracowywania Alchemy:
 
 1. **Nie zagnieżdżaj spostrzeżenia Alchemia w folderach**- spowoduje to uszkodzenie struktury adresu url. Pracujemy nad rozwiązaniem naprawienie tego.
-1. Pliki w folderze **AlchemyInsights** powinny mieć identyfikator reguły i nazwa reguły z [portalu partnerów Alchemia](https://alchemyportal.azurewebsites.net) w nazwie pliku.
-    1. ex. ***976-How-to-Enable-litigation-Hold***
-1. Użyj metadanych w górnej części tego pliku jako szablonu. Nic innego nie jest wymagane.
+1. Pliki w folderze **AlchemyInsights** powinny mieć małe litery nazw plików z łączniki do spacji, np. ***jak-to-enable sądowym***.
+    1. Zawierać identyfikator identyfikator reguły lub Wiadro z [portalu partnerów Alchemia](https://alchemyportal.azurewebsites.net) w polu ms.custom. ex. ***MS.Custom: 100021***
+1. Wykonaj pozostałe metadanych w górnej części tego pliku jako szablonu.
 1. W [portalu partnerów Alchemy](https://alchemyportal.azurewebsites.net), przejdź do sekcji **Tytuł wgląd klienta:** i wykorzystania, że jako początkowy punkt H1 tytuł za wgląd. 
     > [!NOTE]
     > Alchemy spostrzeżeń musi mieć tylko jeden H1 u góry lub będą przerwy w produkcji. H2s nie renderować tak użyj **pogrubienia** lub inne konwencje wyznaczać oddzielnych sekcjach.
@@ -33,9 +33,8 @@ Najważniejsze wskazówki i wytyczne dotyczące opracowywania Alchemy:
     1. Listy numerowane zbyt
     1. **Pogrubienie** i *Kursywa* są OK-
     1. Łącza zawsze powinna być **"łącza do sieci web" / zewnętrzne** OR **deep łącza do elementów interfejsu użytkownika**, nie wewnętrzne powiązania.
+    1. Obrazy nie są oficjalnie obsługiwane w tej chwili, ale jest na jego temat.
 
 I jest to naprawdę już nieco zbyt długo. Najlepszym rozwiązaniem jest około 400 znaków---
 
-Zawartość jest gotowy, należy przeciągnąć ją do gałęzi na żywo. Następnie przejdź do [portalu partnerów Alchemy](https://alchemyportal.azurewebsites.net) i wprowadź nazwę pliku w polu adres url. Upewnij się, Insight przeglądowi i opublikowane mówi "tak", a następnie kliknij regułę aktualizacji. **(To będą wyglądały w nowej wersji portalu - zwolnienie wkrótce.)** 
- ![pole adresu url](media/for-content-team.PNG)
-
+Zawartość jest gotowy, należy przeciągnąć ją do gałęzi na żywo. Następnie przejdź do [portalu partnerów Alchemy](https://alchemyportal.azurewebsites.net) i wprowadź nazwę pliku w polu adres url. M
