@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 3a7ffccadf6b415f7dd0d0871d368402332a0cd7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 81041685cf383a231a9a9739d6daffd6039b4602
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916750"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757828"
 ---
 # <a name="enable-mailbox-auditing"></a>Włącz inspekcję skrzynki pocztowej
 
@@ -26,7 +26,7 @@ Aby włączyć inspekcję, skrzynki pocztowej dla pojedynczego użytkownika lub 
   
 Set-Mailbox - tożsamości "Jane Dow" - AuditEnabled $true
   
- **Organization**
+ **Organizacja**
   
 Get-Mailbox - ResultSize nieograniczony - filtr {RecipientTypeDetails - eq "UserMailbox"} | Set-Mailbox - AuditEnabled $true
   

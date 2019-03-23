@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 3ecff82230295ca161dc83efcede3d989bb7cb5a
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208307"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752140"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Przełącznik planuje zwiększenie rozmiaru skrzynki pocztowej
 
@@ -34,4 +34,4 @@ Jeśli rozmiar skrzynki pocztowej wynosi 50 GB, można ją zwiększyć do 100 GB
     
 Aby uzyskać więcej szczegółów zobacz [Przełączanie do innego planu usługi Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-
+Jeśli masz [planu O365, który obsługuje archiwum na miejscu](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), można również uzyskać magazynu e-mail przez włączenie archiwum skrzynki pocztowej.  Archiwum skrzynki pocztowej udostępnia dodatkowe miejsca i pozwala na przenoszenie, kopiowanie i wyszukiwanie wiadomości w serwer podstawowy i archiwum skrzynki pocztowej. Aby uzyskać procedurę włączania archiwum skrzynki pocztowej zobacz [Włączanie archiwum skrzynki pocztowej](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).

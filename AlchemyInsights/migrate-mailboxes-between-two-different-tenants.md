@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: cba730ce8c3234c08b4789a9d08230c4323dd7c6
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 008318a50875b3d585b95dd8d9566db09af1d3ff
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900046"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759484"
 ---
 # <a name="migrate-mailboxes-between-two-different-tenants"></a>Migracja skrzynek pocztowych między dwoma różnymi użytkownikami
 
 Konieczne może być migracji skrzynek pocztowych między dwoma różnymi użytkownikami w usłudze Office 365, na przykład w przypadku fuzji organizacji. Te migracje należy ostrożnie planować. Zobacz poniższe wskazówki:
   
-[Jak przeprowadzić migrację skrzynek pocztowych z jednej dzierżawy usługi Office 365 do innej dzierżawy tej usługi](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
+[Jak przeprowadzić migrację skrzynek pocztowych z jednego dzierżawcy usługi Office 365 do innego](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
   
 

@@ -1,28 +1,33 @@
 ---
-title: Pojawia się błąd TenantAccessBlockedException podczas uzyskiwania dostępu do poczty e-mail?
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/21/2017
-ms.audience: ITPro
+title: 127 pojawia się błąd TenantAccessBlockedException podczas uzyskiwania dostępu do poczty e-mail?
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: 7fdd37c9-540f-4689-812b-55303a90dd50
-ms.openlocfilehash: e473a74523c927fca2ab3087d382543890766981
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.collection: Adm_O365
+ms.custom:
+- "127"
+- "128"
+ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
+ms.openlocfilehash: a14de964ac77b586c49543dd0916a4afe344c05b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912034"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754264"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Pojawia się błąd TenantAccessBlockedException podczas uzyskiwania dostępu do poczty e-mail?
 
-Istnieje kilka różnych powodów dlaczego może się komunikat o błędzie informujący, że blokowany jest dostęp do dzierżawcy. Aby rozwiązać ten problem, spróbuj wykonać następujące czynności:
+Istnieje kilka różnych powodów dlaczego może otrzymać ten błąd. Na przykład:
   
-- Sprawdź, czy subskrypcja jest prawidłowa na stronie [subskrypcji](https://admin.microsoft.com/adminportal/home#/subscriptions) . 
+- Sprawdź, czy subskrypcja jest prawidłowy w **płatności** \> stronę **Subskrypcje** w Centrum administracyjnym usługi Microsoft 365 ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).
     
-- Sprawdź windykacją należności stronie [płatności](https://admin.microsoft.com/adminportal/home#/billoverview) na Twoim koncie. 
+- Wyboru wszelkich zaległych powiadomienia w **płatności** \> stronę **rachunki** w Centrum administracyjnym usługi Microsoft 365 ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).
     
-- Jeśli Twoje konto jest teraz w porządku, ale został niedawno zmieniony, może upłynąć trochę czasu, aby zmiany są propagowane do wszystkich serwerów. Spróbuj ponownie za kilka minut, a jeśli problem będzie się powtarzał, skontaktuj się z nami.
+- Jeśli rozliczanie i subskrypcje na koncie zostały ostatnio zaktualizowane, może upłynąć czas na zmiany do propagowania. Spróbuj ponownie za kilka minut, a jeśli problem będzie się powtarzał, skontaktuj się z nami.
     
 
