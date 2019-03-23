@@ -1,39 +1,37 @@
 ---
-title: Hasła aplikacji
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 haseł aplikacji
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938242"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762542"
 ---
 # <a name="app-passwords"></a>Hasła aplikacji
 
-Hasło aplikacji jest kod, który daje aplikacja lub urządzenie uprawnienia dostępu do swojego konta usługi Office 365. Jeśli administrator włączył wieloczynnikowe uwierzytelnianie dla danej organizacji, a w przypadku korzystania z aplikacji, które do łączenia się z kontem usługi Office 365, trzeba będzie wygenerować hasło do aplikacji, to aplikacja do połączenia się z usługi Office 365. Na przykład jeśli używasz Outlook 2016 lub wcześniej Office 365, najpierw musisz utworzyć hasło aplikacji.
+Hasło aplikacji jest kodem, który daje aplikacji lub urządzenia uprawnień konta służbowego dostęp usługi Office 365. Jeśli Twoje konto wymaga uwierzytelnianie wieloskładnikowe (MFA), a aplikacja łączy się z konta, należy wygenerować hasło do aplikacji, to aplikacja do połączenia się z usługi Office 365. Na przykład Outlook 2016 i starszych wersjach programu Outlook z wymagać hasła do aplikacji.
   
-1. Sprawdź, czy Twój administrator usługi Office 365 ma włączone uwierzytelnianie wieloczynnikowe dla swojego konta. Jeśli nie, podczas próby wykonać te kroki, nie zobaczysz opcji w usłudze Office 365.
+ **Uwaga**: zanim spróbujesz następujące kroki zweryfikować z administratorem oprogramowania Office 365 że MFA jest wymagane dla konta. Jeśli tak nie jest, nie będzie dostępne opcje opisano w krokach.
+  
+1. Zaloguj się w usłudze Office 365 z pracy lub szkolnego konta i hasła.
     
-2. Zaloguj się do usługi Office 365 z Twojego konta służbowego z hasłem jak zwykle. Po wybraniu opcji **Zaloguj się**z nazwy użytkownika i kilka opcji będzie wyświetlana strona 
+2. Wybierz **teraz skonfigurować**.
     
-3. Wybierz **teraz skonfigurować**. 
+3. Wybierz metodę uwierzytelniania, a następnie postępuj zgodnie z instrukcjami.
     
-4. Wybierz metodę uwierzytelniania, a następnie postępuj zgodnie z instrukcjami na stronie.
+4. Po zweryfikowaniu alternatywna metoda kontaktu, wybierz **Następny**.
     
-5. Po zweryfikowaniu alternatywna metoda kontaktu, wybierz **Następny**. 
-    
-6. Otrzymasz hasło aplikacji korzystających z programu Outlook, Apple Mail itp. Wybierz ikonę Kopiuj, aby skopiować hasło do Schowka. Nie musisz zapamiętać to hasło. 
-    
-7. Kiedy dodać konto e-mail usługi Office 365 do programu Outlook (lub innej aplikacji), a następnie pojawi się monit o podanie hasła, w przeszłości to hasło aplikacji w polu hasło, zamiast wpisywać hasła do konta. 
+5. Otrzymasz hasło aplikacji korzystających z programu Outlook, Apple Mail i inne aplikacje, które tego wymagają. Wybierz polecenie **Kopiuj** , aby skopiować hasło, więc można je wkleić w innym miejscu (nie musisz zapamiętywać). 
     
 
