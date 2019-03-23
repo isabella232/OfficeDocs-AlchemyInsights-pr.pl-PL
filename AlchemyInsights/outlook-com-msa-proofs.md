@@ -1,0 +1,38 @@
+---
+title: 8000060 dowody MSA Hotmail
+ms.author: daeite
+author: daeite
+manager: jackiesm
+ms.date: 9/14/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.custom: 8000060
+ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
+ms.openlocfilehash: 14d32dbc4180d3dd7a20830ae9fdc918570aa359
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: MT
+ms.contentlocale: pl-PL
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30777316"
+---
+# <a name="security-info-and-security-codes"></a><span data-ttu-id="4c236-102">Informacje o zabezpieczeniach i kody zabezpieczeń</span><span class="sxs-lookup"><span data-stu-id="4c236-102">Security info and security codes</span></span>
+
+1. <span data-ttu-id="4c236-103">Zaloguj się na stronie [podstawy zabezpieczeń](https://account.microsoft.com/security) za pomocą konta Microsoft.</span><span class="sxs-lookup"><span data-stu-id="4c236-103">Sign in to your [Security basics](https://account.microsoft.com/security) page with your Microsoft account.</span></span> 
+    
+2. <span data-ttu-id="4c236-104">Kliknij opcję **Aktualizuj informacje**.</span><span class="sxs-lookup"><span data-stu-id="4c236-104">Select **Update info**.</span></span> 
+    
+3. <span data-ttu-id="4c236-105">Może być poproszony wprowadź kod bezpieczeństwa, aby kontynuować.</span><span class="sxs-lookup"><span data-stu-id="4c236-105">You may be asked to enter a security code to continue.</span></span> <span data-ttu-id="4c236-106">Jeśli nie masz dostępu do alternatywny adres e-mail lub numer telefonu, wybierz polecenie **nie ma żadnych z tych** i postępuj zgodnie z instrukcjami, aby zastąpić informacje dotyczące zabezpieczeń.</span><span class="sxs-lookup"><span data-stu-id="4c236-106">If you don't have access to your alternate email or phone number, choose **I don't have any of these** and follow the instructions to replace your security info.</span></span> 
+    
+4. <span data-ttu-id="4c236-107">Wybierz **Dodaj informacje o zabezpieczeniach** , a następnie postępuj zgodnie z instrukcjami, aby wprowadzić nowy adres e-mail lub numer telefonu.</span><span class="sxs-lookup"><span data-stu-id="4c236-107">Select **Add security info** then follow the instructions to enter a new email or phone number.</span></span> 
+    
+5. <span data-ttu-id="4c236-108">Wyślemy Ci kod bezpieczeństwa do tego nowy adres e-mail lub numer telefonu.</span><span class="sxs-lookup"><span data-stu-id="4c236-108">We'll send a security code to that new email or phone number.</span></span> <span data-ttu-id="4c236-109">Wprowadź kod zabezpieczeń, a następnie wybierz przycisk **Dalej**.</span><span class="sxs-lookup"><span data-stu-id="4c236-109">Enter that security code, and select **Next**.</span></span> <span data-ttu-id="4c236-110">Nowe informacje o zabezpieczeniach pojawi się na liście.</span><span class="sxs-lookup"><span data-stu-id="4c236-110">Your new security info will appear in your list.</span></span> 
+    
+6. <span data-ttu-id="4c236-111">Wybierz polecenie **Usuń** dla każdego, które chcesz usunąć.</span><span class="sxs-lookup"><span data-stu-id="4c236-111">Choose **Remove** for any you want to remove.</span></span> 
+    
+7. <span data-ttu-id="4c236-112">Jeśli chcesz zaktualizować które wyślemy alerty, **Zmień opcje alertów** zaznacz i usuń zaznaczenie pola wyboru przedmiot, który nie jest już informacje o zabezpieczeniach mają być wysyłane alerty, chyba że są one krytyczne.</span><span class="sxs-lookup"><span data-stu-id="4c236-112">If you want to update which security info we'll send alerts to, select **Change alert options** and deselect the checkbox for the one you no longer want to receive alerts for, unless they're critical.</span></span> 
+    
+<span data-ttu-id="4c236-113">Dowiedz się więcej o [informacjach zabezpieczających i kody zabezpieczeń](https://support.microsoft.com/help/12428/).</span><span class="sxs-lookup"><span data-stu-id="4c236-113">Read more about [Security info and security codes](https://support.microsoft.com/help/12428/).</span></span>
+  
+
