@@ -1,5 +1,5 @@
 ---
-title: Jak zaktualizować informacje o karcie kredytowej?
+title: Jak zaktualizować informacje dotyczące karty kredytowej?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 81bb27d7e09a528e07162298ff4f98b75c2dd41a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 1690c9026888e287802e50a8b71d853d06567664
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405189"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763838"
 ---
-# <a name="how-do-i-update-my-credit-card-information"></a>Jak zaktualizować informacje o karcie kredytowej?
+# <a name="how-do-i-update-my-credit-card-information"></a>Jak zaktualizować informacje dotyczące karty kredytowej?
 
-1. W centrum administracyjnym przejdź do strony [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia** \> **Subskrypcje**.
+1. W Centrum administracyjnym przejdź do strony [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia** \> **Subskrypcje**.
     
-2. Wybierz subskrypcję, którego zakupiono z karty kredytowej lub konta bankowego, który chcesz zaktualizować, a następnie wybierz polecenie **Aktualizuj szczegóły dotyczące płatności**.
+2. Wybierz subskrypcję zakupioną przy użyciu karty kredytowej lub konta bankowego, które chcesz zaktualizować, a następnie wybierz pozycję **Aktualizuj szczegóły płatności**.
     
-3. Wybierz z listy rozwijanej strzałki w obszarze **Dodaj lub wybierz metodę płatności**, wybierz karty kredytowej lub konta bankowego, który chcesz zaktualizować, a następnie wybierz polecenie **Edytuj szczegóły**.
+3. Wybierz strzałkę listy rozwijanej w obszarze **Dodaj lub wybierz metodę płatności**, wybierz kartę kredytową lub konto bankowe, które chcesz zaktualizować, a następnie wybierz pozycję **Edytuj szczegóły**.
     
-4. W razie potrzeby zaktualizuj dane karty kredytowej lub konta bankowego (nazwa na karcie kredytowej lub konta bankowego, adres bilingowy telefonu lub data wygaśnięcia), a następnie wybierz polecenie **Prześlij**.
+4. Zaktualizuj informacje o karcie kredytowej lub koncie bankowym (nazwisko posiadacza karty kredytowej lub konta bankowego, adres na fakturze, numer telefonu bądź datę ważności) odpowiednio do potrzeb, a następnie naciśnij przycisk **Prześlij**.
     
-5. Powinien pojawić się komunikat potwierdzający.
+5. Powinien zostać wyświetlony komunikat potwierdzający.
     
-Aby uzyskać dodatkowe informacje zobacz [Rozwiązywanie problemów z kart kredytowych i rachunków bankowych](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Aby uzyskać dodatkowe informacje, zobacz [Rozwiązywanie problemów z kartami kredytowymi i kontami bankowymi](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 
