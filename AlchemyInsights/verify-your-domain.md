@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 7332650d1763e2bbd13be48f406fb04b8849a6c1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d215f3af0cf4b46b12c8cb51a9572adb00f354e4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911242"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766358"
 ---
 # <a name="verify-your-domain"></a>Verify your domain
 
@@ -24,8 +24,8 @@ ms.locfileid: "29911242"
   
 Zazwyczaj możemy zobaczyć nowy rekord już po kilku minutach, ale w niektórych przypadkach może to potrwać nawet kilka godzin. 
   
-- Po odczekaniu który już długo, sprawdź już skopiowany i wklejony dokładną wartość do rekordu TXT weryfikacji na hoście DNS. Jeden wspólny problem nie jest w tym "MS =" część rekordu. Potrzebujemy jej zbyt!
+- Po odczekaniu który już długo, sprawdź już skopiowany i wklejony dokładną wartość do rekordu TXT weryfikacji na hoście DNS. Jednym z typowych problemów jest pominięcie części „MS=" rekordu. Ta część jest również potrzebna!
     
-- W niektórych hostów DNS trzeba wziąć dodatkowy krok, aby zapisać plik strefy (gdzie rekordu DNS jest przechowywana) tak, że będą aktualizowane w Internecie. Upewnij się, że zapisano zmiany usługi Office 365 można zobaczyć i sprawdzenie rekordu.
+- W przypadku niektórych hostów DNS musisz wykonać dodatkowy krok w celu zapisania pliku strefy (w którym jest przechowywany dany rekord DNS), aby został zaktualizowany w Internecie. Upewnij się, że zmiany zostały zapisane, tak aby usługa Office 365 mogła zobaczyć i zweryfikować rekord.
     
 

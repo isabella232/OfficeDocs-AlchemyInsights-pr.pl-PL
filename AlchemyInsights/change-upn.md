@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 999008cd1b8f5d4b07660351605e60b87d557883
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: f8c412bda739179b295d62a1d6a6e31a88cf59c2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208451"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767042"
 ---
 # <a name="change-a-users-email-address"></a>Zmienianie adresu e-mail użytkownika
 
@@ -30,11 +30,11 @@ Zmiana adresu e-mail innej osoby jest łatwe! Po prostu wykonaj następujące kr
     
 4. W polu **Alias** wpisz nowy adres e-mail, a następnie wybierz przycisk **Dodaj**.
     
-    **Ważne**: Jeśli zostanie wyświetlony komunikat o błędzie " **parametr nie można odnaleźć parametru o nazwie" EmailAddresses**"oznacza, że trwa nieco dłużej usługi Office 365 zakończyć konfigurowanie dzierżawcy lub domeny niestandardowej, jeśli ostatnio dodane . Proces instalacji może zająć do 4 godzin. Poczekaj chwilę, więc proces instalacji ma czas do końca, a następnie spróbuj ponownie. Jeśli problem będzie się powtarzał, należy wywołać pomocy technicznej i zrobią pełnej synchronizacji dla Ciebie.
+    **WAŻNE**: Jeśli zostanie wyświetlony komunikat o błędzie „ **Nie można odnaleźć parametru pasującego do nazwy parametru „EmailAddresses"**", oznacza to, że kończenie konfigurowania dzierżawy lub domeny niestandardowej, jeśli ostatnio ją dodano, zajmuje usłudze Office 365 nieco więcej czasu. Proces konfigurowania może potrwać do 4 godzin. Poczekaj na ukończenie procesu konfigurowania, a następnie spróbuj ponownie. Jeśli problem nie ustąpi, zadzwoń do pomocy technicznej, która przeprowadzi dla Ciebie pełną synchronizację.
     
     Jeśli zostanie wyświetlony komunikat o błędzie " **Niestety, użytkownik nie może być edytowane. Przejrzyj informacje o użytkowniku i spróbuj ponownie**"oznacza nie jesteś administratorem globalne usługi Office 365, a użytkownik nie ma uprawnień do zmiany nazwy użytkownika.
     
-5. Wybierz polecenie **Ustaw jako podstawowy** adres e-mail, który chcesz ustawić jako podstawowy adres e-mail dla tej osoby. W przypadku zakupu subskrypcji od GoDaddy, możesz musi zarejestrować się do ich management console Aby ustawić podstawowy adres e-mail. 
+5. Wybierz pozycję **Ustaw jako podstawowy** dla adresu e-mail, który chcesz ustawić jako podstawowy adres e-mail dla tej osoby. W przypadku zakupu subskrypcji od GoDaddy, możesz musi zarejestrować się do ich management console Aby ustawić podstawowy adres e-mail. 
     
 6. Wybierz polecenie **Zapisz**, następnie **Zamknij**, i gotowe!
     

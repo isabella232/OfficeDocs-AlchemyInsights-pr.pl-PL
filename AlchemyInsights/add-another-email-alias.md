@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 1fd498dbbc96b2226c42553b652c04cfbb5e75ca
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 66d20ca17287ee762266a22a376f59f5f8975a00
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208019"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767330"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Utwórz lub Dodaj alias e-mail użytkownika
 
@@ -28,7 +28,7 @@ Należy utworzyć alias e-mail użytkownika lub dodać dodatkowy adres e-mail? W
     
 3. Po prawej stronie w wierszu **Nazwa użytkownika/Aliasy e-mail** wybierz pozycję **Edytuj**.
     
-4. W polu **Alias** wpisz nowy adres e-mail, a następnie wybierz przycisk **Dodaj**. Jeśli zakupiono subskrypcję z GoDaddy lub innego partnera, aby ustawić nowy alias jako podstawowy, należy przejść do konsoli zarządzania GoDaddy/partnera. 
+4. W polu **Alias** wpisz nowy adres e-mail, a następnie wybierz przycisk **Dodaj**. Jeśli subskrypcja została kupiona od firmy GoDaddy lub od innego partnera, aby ustawić nowy alias jako podstawowy, należy przejść do konsoli zarządzania firmy GoDaddy/innego partnera. 
     
     **WAŻNE**: Jeśli zostanie wyświetlony komunikat o błędzie „ **Nie można odnaleźć parametru pasującego do nazwy parametru „EmailAddresses"**", oznacza to, że kończenie konfigurowania dzierżawy lub domeny niestandardowej, jeśli ostatnio ją dodano, zajmuje usłudze Office 365 nieco więcej czasu. Proces konfigurowania może potrwać do 4 godzin. Poczekaj chwilę na ukończenie procesu konfigurowania, a następnie spróbuj ponownie. Jeśli problem nie ustąpi, zadzwoń do pomocy technicznej, która przeprowadzi pełną synchronizację dla Ciebie.
     
