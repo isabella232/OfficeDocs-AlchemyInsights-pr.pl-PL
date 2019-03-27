@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 89af7e4b-9b49-4c50-a604-21003ad30004
-ms.openlocfilehash: 06eddc680ae28c81a702f821be830cb586724e25
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 56f857d9dfa5e30b56788b2eeb3756ec06ea6e5a
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939178"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767006"
 ---
-# <a name="activate-office"></a><span data-ttu-id="c14fd-102">Aktywacja pakietu Office</span><span class="sxs-lookup"><span data-stu-id="c14fd-102">Activate Office</span></span>
+# <a name="activate-office"></a><span data-ttu-id="13c56-102">Aktywacja pakietu Office</span><span class="sxs-lookup"><span data-stu-id="13c56-102">Activate Office</span></span>
 
-<span data-ttu-id="c14fd-p101">Możesz aktywować pakietu Office po zalogowaniu się przy użyciu konta służbowego. Wykonaj kroki w tym artykule aktywacji pakietu Office: [Aktywację pakietu Office](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).</span><span class="sxs-lookup"><span data-stu-id="c14fd-p101">You can activate Office by signing in using your work or school account. Use the steps in this article to activate Office: [Activate Office](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).</span></span>
+<span data-ttu-id="13c56-103">Możesz aktywować pakietu Office po zalogowaniu się przy użyciu konta służbowego.</span><span class="sxs-lookup"><span data-stu-id="13c56-103">You can activate Office by signing in using your work or school account.</span></span> <span data-ttu-id="13c56-104">Wykonaj kroki w tym artykule aktywacji pakietu Office: [Aktywację pakietu Office](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).</span><span class="sxs-lookup"><span data-stu-id="13c56-104">Use the steps in this article to activate Office: [Activate Office](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).</span></span>
   
 
