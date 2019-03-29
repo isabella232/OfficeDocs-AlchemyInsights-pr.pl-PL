@@ -1,5 +1,5 @@
 ---
-title: Przesyłać zlecenia pomocy technicznej Dynamics 365
+title: Przesyłanie prośby o wsparcie techniczne dla usługi Dynamics 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81f4dca4-7ae7-4dc9-929e-7b91b1711118
-ms.openlocfilehash: bff8a8867cc73a54afcec43580868712b427e9c8
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: cfdfcb588f16f1871fa405b264be22a0bb1e074c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404721"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767150"
 ---
-# <a name="submit-dynamics-365-support-requests"></a>Przesyłać zlecenia pomocy technicznej Dynamics 365
+# <a name="submit-dynamics-365-support-requests"></a>Przesyłanie prośby o wsparcie techniczne dla usługi Dynamics 365
 
-Jeśli jesteś klientem **Zaangażowanie klientów Microsoft Dynamics** Prześlij bilet za pośrednictwem nowej [platformy zasilania Centrum administracyjnego](https://admin.powerplatform.microsoft.com/?ref=officemodern).
+Jeśli jesteś klientem **Microsoft Dynamics Customer Engagement**, prześlij bilet za pomocą nowej [platformy Centrum administracyjnego](https://admin.powerplatform.microsoft.com/?ref=officemodern).
   
-Nowy portal zapewnia bardziej bezpośrednią ścieżkę do asystowana pomoc techniczna jest zoptymalizowany pod kątem Dynamics zaangażowanie klientów i innych produktów platformy zasilania.
+Nowy portal zapewnia bardziej bezpośrednią ścieżkę wsparcia, która jest zoptymalizowana pod kątem zaangażowania klientów Dynamics i innych produktów platformy Power.
   
 

@@ -1,5 +1,5 @@
 ---
-title: Nadawca zablokowane dla wysyła za dużo spamu
+title: Nadawca zablokowany z powodu wysyłania zbyt dużej ilości spamu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 10e6a94a58acd1db8a36ca99a34809c8e99ddebc
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: c2226a00de806049e92cf0e1e25c75fb57adef53
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405297"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767510"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>Konto jest zablokowane na wysyłanie za dużo spamu
+# <a name="account-is-blocked-for-sending-too-much-spam"></a>Konto jest zablokowane z powodu wysyłania zbyt dużej ilości spamu
 
-Konta wysyłającego może być zagrożona. Trzeba będzie:
+Konto nadawcy mogło zostać naruszone. Musisz wykonać poniższe czynności:
   
-1. [Określić, czy konto jest zagrożone](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). W przypadku złamania zabezpieczeń, wykonaj kroki w [odpowiedzi na konto E-mail złamane w usłudze Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+1. [Ustal, czy doszło do naruszenia konta](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Jeśli konto zostało naruszone, wykonaj czynności w ramach [reagowania na naruszenie konta e-mail w usłudze Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
     
-2. Przejdź do użytkownicy z ograniczonym dostępem, aby **[odblokować konto](https://protection.office.com/?hash=/restrictedusers)** zabezpieczeń &amp; Centrum zgodności. Gdy to zrobisz, należy wznowić wysyłanie wiadomości *w ciągu 1 godziny* . 
+2. Przejdź do Użytkowników z ograniczonymi uprawnieniami, aby** [odblokować konto](https://protection.office.com/?hash=/restrictedusers)** w sekcji Bezpieczeństwo w &amp; Centrum zgodności. Po zakończeniu wysyłanie wiadomości powinno być możliwe w przeciągu *1 godziny*. 
     
-3. Aby zapobiec kompromisów konta w przyszłości, należy postępować zgodnie z zaleceniami w [Najważniejsze wskazówki dotyczące zabezpieczeń dla usługi Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
+3. Aby zapobiec naruszeniom konta w przyszłości, zapoznaj się z zaleceniami zamieszczonymi w artykule [Najważniejsze wskazówki dotyczące bezpieczeństwa dla usługi Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
   
 
