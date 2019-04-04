@@ -8,15 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
-ms.openlocfilehash: 1eecc9a699a950760fd00cb96c11d167e40344f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 06c8c3e3686dbb1567551c8a727af669593285c6
+ms.sourcegitcommit: 26774fd0e24a02cc6ee2433eccbbfc27ebc9f850
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29907750"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31397016"
 ---
 # <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>Odmowa dostępu 550 5.7.705, Dzierżawca został przekroczony próg
 
-Ten komunikat występuje, gdy zbyt wiele spamu lub zbiorczej poczty została wysłana przez organizacji usługi Office 365. Aby usunąć ten blok, trzeba zrozumieć i wyjaśnić przyczyny z pracownikiem pomocy technicznej, a także rozwiązać problem uniemożliwiający zmianę.
-  
+Ten komunikat występuje, gdy miejsce blok wychodzącej poczty, a za dużo spamu lub luzem poczty została wysłana przez organizację.
+Typowe przyczyny są zagrożone na lokalnych serwerach lub złamany admin kont, które były używane do Tworzenie łączników. Albo warunek można zezwolić spamu przechodzić w organizacji.
+
+Aby usunąć ten blok, trzeba zrozumieć i wyjaśnić przyczyny z pracownikiem pomocy technicznej, a także rozwiązać problem uniemożliwiający zmianę.
+Gdy będziesz gotowy, kliknij opcję poniżej **skontaktuj się z nami** .
 
