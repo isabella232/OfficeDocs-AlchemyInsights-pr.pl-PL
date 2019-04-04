@@ -8,15 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
-ms.openlocfilehash: 1eecc9a699a950760fd00cb96c11d167e40344f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 06c8c3e3686dbb1567551c8a727af669593285c6
+ms.sourcegitcommit: 26774fd0e24a02cc6ee2433eccbbfc27ebc9f850
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29907750"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31397016"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="99232-102">Odmowa dostępu 550 5.7.705, Dzierżawca został przekroczony próg</span><span class="sxs-lookup"><span data-stu-id="99232-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="d9bcb-102">Odmowa dostępu 550 5.7.705, Dzierżawca został przekroczony próg</span><span class="sxs-lookup"><span data-stu-id="d9bcb-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="99232-p101">Ten komunikat występuje, gdy zbyt wiele spamu lub zbiorczej poczty została wysłana przez organizacji usługi Office 365. Aby usunąć ten blok, trzeba zrozumieć i wyjaśnić przyczyny z pracownikiem pomocy technicznej, a także rozwiązać problem uniemożliwiający zmianę.</span><span class="sxs-lookup"><span data-stu-id="99232-p101">This message occurs when too much spam or bulk mail has been sent by your Office 365 organization. To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-  
+<span data-ttu-id="d9bcb-103">Ten komunikat występuje, gdy miejsce blok wychodzącej poczty, a za dużo spamu lub luzem poczty została wysłana przez organizację.</span><span class="sxs-lookup"><span data-stu-id="d9bcb-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="d9bcb-104">Typowe przyczyny są zagrożone na lokalnych serwerach lub złamany admin kont, które były używane do Tworzenie łączników.</span><span class="sxs-lookup"><span data-stu-id="d9bcb-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="d9bcb-105">Albo warunek można zezwolić spamu przechodzić w organizacji.</span><span class="sxs-lookup"><span data-stu-id="d9bcb-105">Either condition can allow spam to pass through your organization.</span></span>
+
+<span data-ttu-id="d9bcb-106">Aby usunąć ten blok, trzeba zrozumieć i wyjaśnić przyczyny z pracownikiem pomocy technicznej, a także rozwiązać problem uniemożliwiający zmianę.</span><span class="sxs-lookup"><span data-stu-id="d9bcb-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="d9bcb-107">Gdy będziesz gotowy, kliknij opcję poniżej **skontaktuj się z nami** .</span><span class="sxs-lookup"><span data-stu-id="d9bcb-107">Click **Contact us** below once you're ready.</span></span>
 
