@@ -1,5 +1,5 @@
 ---
-title: Usuń zbiór witryn
+title: Usuwanie witryny
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 04edde4c22c9ab465cbcff4cb08d8f5965943fad
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 37606af8cbbd1d54cde646400386652b0d5aae56
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757540"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747572"
 ---
-# <a name="delete-a-sharepoint-site-collection"></a>Usuń zbiór witryn programu SharePoint
+# <a name="delete-a-sharepoint-site"></a>Usuwanie witryny programu SharePoint
 
-1. W klasycznym Centrum administracyjnego programu SharePoint, na stronie witryny kolekcje zaznacz pole wyboru obok tego zbioru witryn.
+1. W nowym Centrum administracji programu SharePoint, na stronie witryny kliknij pole wyboru obok witryny, którą chcesz usunąć.
     
-2. Na karcie zbiorów witryn wybierz opcję **Usuń**.
+2. Na wstążce paska narzędzi kliknij przycisk **Usuń**.
     
 

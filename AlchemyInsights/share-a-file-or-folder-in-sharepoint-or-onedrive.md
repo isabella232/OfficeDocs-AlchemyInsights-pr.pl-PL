@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941770"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747860"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Udostępnianie pliku lub folderu w programie SharePoint lub OneDrive
 
@@ -28,7 +28,7 @@ ms.locfileid: "29941770"
   - **Określone osoby** daje dostęp tylko osobom, określić, mimo że inne osoby mogą mieć już dostęp. Jeśli ludzie przesyła zaproszenie do udostępniania, tylko osoby, które mają już dostęp do elementu będzie mógł skorzystać z łącza. 
     
     > [!NOTE]
-    > Jeśli jedną z tych opcji nie jest dostępny lub ma typ łącza różnych pojawiał się domyślnie, można zmienić ustawienia całej organizacji, przechodząc do klasycznych Centrum administracyjnego programu SharePoint i klikając opcję **udostępniania** w lewym okienku. [Dowiedz się więcej](https://go.microsoft.com/fwlink/?linkid=866426)
+    > Jeśli jedną z tych opcji nie jest dostępny lub ma typ łącza różnych pojawiał się domyślnie, można zmienić ustawienia całej organizacji, przechodząc do Centrum administracyjnego programu SharePoint i klikając opcję **udostępniania** w lewym okienku. [Dowiedz się więcej](https://go.microsoft.com/fwlink/?linkid=866426)
   
 3. **Zezwalaj na edycję** jest włączona domyślnie. Jeśli chcesz, aby osobom tylko wyświetlanie plików, wyczyść pole wyboru. 
     

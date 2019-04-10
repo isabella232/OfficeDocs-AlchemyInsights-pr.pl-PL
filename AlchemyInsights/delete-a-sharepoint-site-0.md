@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754660"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31748004"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Usuwanie witryny, które należą do grupy usługi Office 365:
 
-Gdy użytkownicy utworzyć nowej witryny zespołu SharePoint domowego (lub utworzyć nową witrynę zespołu z podglądu nowe centrum Administrator programu SharePoint), jest tworzona automatycznie odpowiedniej grupy usługi Office 365. Witryny zespołów połączone grupy 365 pakietu Office są również tworzone podczas tworzenia grupę w usłudze Office 365 lub zespół w Teams firmy Microsoft. Aby usunąć witrynę programu SharePoint, który należy do grupy usługi Office 365, należy usunąć samej grupy usługi Office 365. 
+Gdy użytkownicy utworzyć nowej witryny zespołu SharePoint domowego lub utworzyć nową witrynę zespołu z Centrum administracyjnego programu SharePoint, jest tworzona automatycznie odpowiedniej grupy usługi Office 365. Witryny zespołów połączone grupy 365 pakietu Office są również tworzone podczas tworzenia grupę w usłudze Office 365 lub zespół w Teams firmy Microsoft. Aby usunąć witrynę programu SharePoint, który należy do grupy usługi Office 365, należy usunąć samej grupy usługi Office 365. 
   
 1. Przejdź do [strony grupy Centrum administracyjnego usługi Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
@@ -40,11 +40,11 @@ Uwaga: Podczas usuwania grupy może występować opóźnienie przed usunięciem 
   
 **Usuń zbiór witryn programu SharePoint:**
 
-Aby usunąć zbiór witryn klasyczne:
+Aby usunąć witrynę:
   
-1. W klasycznym Centrum administracyjnego programu SharePoint, na stronie witryny kolekcje zaznacz **pole wyboru** obok tego zbioru witryn. 
+1. W nowe Centrum administracyjnego programu SharePoint, na stronie witryny kliknij **pole wyboru** obok witryny, którą chcesz usunąć. 
     
-2. Na karcie zbiorów witryn, zaznacz **usunąć.**
+2. Na wstążce paska narzędzi, kliknij przycisk **usunąć.**
     
 **Usunięte witryny przez przypadek?**
 

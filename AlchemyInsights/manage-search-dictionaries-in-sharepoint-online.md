@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 1490255d19a6eb62403f9c923438579b6a29480b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 22da75a32e3ac0415e1196f8a6b2fd62b41f875d
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922790"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747896"
 ---
 # <a name="manage-search-dictionaries"></a>Zarządzanie słownikami wyszukiwania
 
-Słowniki o wyszukiwania w programie SharePoint online są zarządzane w magazynie terminów Online programu SharePoint, który znajduje się w Centrum administracyjnym klasyczny Online programu SharePoint. Aby uzyskać więcej informacji na temat dodawania lub edytowania słowników wyszukiwania zobacz [Manage wyszukiwania słowniki](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
+Słowniki o wyszukiwania w programie SharePoint online są zarządzane w magazynie terminów Online programu SharePoint, która znajduje się w Centrum administracyjnego programu SharePoint. Aby uzyskać więcej informacji na temat dodawania lub edytowania słowników wyszukiwania zobacz [Manage wyszukiwania słowniki](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
   
 Jeśli nie widzisz zestawu terminów słownika wyszukiwania pojawiają się w magazynie terminów, odczekaj 24 godziny. Jeśli słownik nadal nie pojawia się po upływie 24 godzin, należy zalogować się do pomocy technicznej.
   

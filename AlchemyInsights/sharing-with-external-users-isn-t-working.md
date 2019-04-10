@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 700e6d24e49cf11bf91780895f5a796cc1d8349d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 69e290e5a13f40ad045086791189a7d0af88240b
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753436"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747608"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Rozwiązywanie problemów z udostępniania zawartości programu SharePoint dla użytkowników zewnętrznych
 
@@ -28,13 +28,13 @@ Upewnij się, że udostępniania zewnętrznych jest włączona dla organizacji:
     
 Upewnij się, udostępniania zewnętrznych włączone dla witryny. Dla zbioru witryn klasyczne:
   
-1. W klasycznym Centrum administracyjnego programu SharePoint, w lewym okienku kliknij **zbiorów witryn**.
+1. W nowym Centrum administracji programu SharePoint, w lewym okienku kliknij przycisk **witryny**.
     
 2. Wybierz witrynę lub witryny, a na wstążce kliknij polecenie **Udostępnianie**.
     
 Dla witryny zespołu, który należy do grupy usługi Office 365, lub witryny komunikacji:
   
-- Te nowe typy witryny mają sam ustawienie udostępniania ustawienie całej organizacji, chyba że ustawienie całej organizacji pozwala na udostępnianie plików przy użyciu łącza, które nie wymagają rejestrowania. W takim przypadku witryn Zezwalaj na współużytkowanie z nowych i istniejących użytkowników zewnętrznych, którzy Zaloguj się. Aby zmienić ustawienie dla określonych witryn, należy użyć nowego Centrum administracyjnego programu SharePoint (Podgląd) lub programu PowerShell. [Dowiedz się więcej](https://go.microsoft.com/fwlink/?linkid=871863).
+- Te nowe typy witryny mają sam ustawienie udostępniania ustawienie całej organizacji, chyba że ustawienie całej organizacji pozwala na udostępnianie plików przy użyciu łącza, które nie wymagają rejestrowania. W takim przypadku witryn Zezwalaj na współużytkowanie z nowych i istniejących użytkowników zewnętrznych, którzy Zaloguj się. Aby zmienić to ustawienie dla określonych witryn, należy użyć nowego Centrum administracyjnego programu SharePoint lub programu PowerShell. [Dowiedz się więcej](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
 > Ustawienia udostępniania zewnętrznych dla dowolnej witryny mogą być bardziej restrykcyjne niż ustawienia całej organizacji, ale nie bardziej liberalne niż ustawienie całej organizacji. 

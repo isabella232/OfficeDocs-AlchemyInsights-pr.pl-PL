@@ -370,7 +370,7 @@
 | 3/22/2019 | [Zarządzaj moimi faktury i płatności](/AlchemyInsights/manage-my-bill-and-payments) | Zmodyfikowano |
 | 3/22/2019 | [Zarządzanie moim rachunkiem](/AlchemyInsights/manage-my-bill) | Zmodyfikowano |
 | 3/22/2019 | [Zarządzanie kontami użytkowników zsynchronizowanych](/AlchemyInsights/manage-synchronized-user-accounts) | Zmodyfikowano |
-| 3/22/2019 | [Zarządzanie, kto może tworzyć grupy usługi Office 365](/AlchemyInsights/manage-who-can-create-office-365-groups) | Zmodyfikowano |
+| 3/22/2019 | [Zarządzanie tym, kto może tworzyć grupy usługi Office 365](/AlchemyInsights/manage-who-can-create-office-365-groups) | Zmodyfikowano |
 | 3/22/2019 | [Zarządzanie pamięcią masową programu SharePoint lub OneDrive](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | Zmodyfikowano |
 | 3/22/2019 | [Mapuj na dysk sieciowy w bibliotece programu SharePoint](/AlchemyInsights/map-a-sharepoint-library-to-a-network-drive) | Zmodyfikowano |
 | 3/22/2019 | [Mapuj dysk sieciowy biblioteki programu SharePoint](/AlchemyInsights/map-sharepoint-library-to-network-drive) | Zmodyfikowano |
@@ -484,55 +484,23 @@
 | 3/28/2019 | [Ogranicz Online programu SharePoint w trybie klasycznym](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | zmieniono jego nazwę |
 
 
-## <a name="week-of-february-25-2019"></a>Tydzień 25 lutego 2019
+## <a name="week-of-april-01-2019"></a>Tydzień 01 kwietnia 2019
 
 
 | Opublikowano: |Tytuł tematu | Zmiana |
 |------|------------|--------|
-| 2/25/2019 | [1800014 uzyskać pomoc techniczną w aplikacji dla aplikacji mobilnych programu Outlook](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | Zmodyfikowano |
-| 2/25/2019 | [1800014 set up e-mail na program Outlook Mobile](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | Zmodyfikowano |
-| 2/25/2019 | [8000001 wyłączyć koncentruje się Skrzynka odbiorcza](/AlchemyInsights/8000001-turn-off-focused-inbox) | Zmodyfikowano |
-| 2/25/2019 | [8000009 Utwórz folder w Hotmail](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | Zmodyfikowano |
-| 2/25/2019 | [8000012 usuwanie kontaktu w Hotmail](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | Zmodyfikowano |
-| 2/25/2019 | [8000013 zmiana czcionki w Hotmail](/AlchemyInsights/8000013-change-font-in-outlook-com) | Zmodyfikowano |
-| 2/25/2019 | [8000014 jak zmienić język w Hotmail](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | Zmodyfikowano |
-| 2/25/2019 | [8000015 blokowanie lub odblokowywanie nadawców](/AlchemyInsights/8000015-block-or-unblock-senders) | Zmodyfikowano |
-| 2/25/2019 | [8000015 otrzymaniu wiadomości e-mail od zablokowanych nadawców w Hotmail](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | Zmodyfikowano |
-| 2/25/2019 | [8000029 radzić sobie z witryn wyłudzających informacje w Hotmail](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | Zmodyfikowano |
-| 2/25/2019 | [8000029 radzić sobie ze spamem w Hotmail](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | Zmodyfikowano |
-| 2/25/2019 | [8000029 Walka ze spamem lub wyłudzaniem informacji w usłudze Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | Zmodyfikowano |
-| 2/25/2019 | [8000033 jak odpowiadać na lub przekazywania wiadomości w wersji beta Hotmail](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | Zmodyfikowano |
-| 2/25/2019 | [8000034 potwierdzenia odczytu w Hotmail](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | Zmodyfikowano |
-| 2/25/2019 | [8000036 zmiana nazwy e-mail w Hotmail](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | Zmodyfikowano |
-| 2/25/2019 | [8000046 drukowanie wiadomości e-mail i kalendarze w Hotmail](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | Zmodyfikowano |
-| 2/25/2019 | [8000047 jak utworzyć podpis wiadomości e-mail w Hotmail](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | Zmodyfikowano |
-| 2/25/2019 | [8000052 dołączanie plików w Hotmail](/AlchemyInsights/8000052-attach-files-in-outlook-com) | Zmodyfikowano |
-| 2/25/2019 | [8000059 jak zmienić motyw akcji (FMS)](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | Zmodyfikowano |
-| 2/25/2019 | [Zalecane działania w przypadku złamania zabezpieczeń konta](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | Zmodyfikowano |
-| 2/26/2019 | [Przywracanie usuniętych grupy usługi Office 365](/AlchemyInsights/restore-a-deleted-office-365-group) | Zmodyfikowano |
-| 2/26/2019 | [9000215 subskrypcje Hotmail](/AlchemyInsights/9000215-outlook-com-subscriptions) | dodane |
-| 2/27/2019 | [9000199 plików PST w Hotmail](/AlchemyInsights/9000199-outlook-com-read-pst-files) | dodane |
-| 2/27/2019 | [9000202 opcje Hotmail](/AlchemyInsights/9000202-outlook-com-options) | dodane |
-| 2/27/2019 | [Filtry 9000203 Hotmail](/AlchemyInsights/9000203-outlook-com-filters) | dodane |
-| 2/28/2019 | [8000036 zmiany pic/nazwy profilu w Hotmail](/AlchemyInsights/8000036-6-outlook-com-update-profile) | dodane |
-| 2/28/2019 | [8000049 ikonę Skype brakuje w Hotmail](/AlchemyInsights/8000049-2-outlook-com-skype-button) | dodane |
-| 2/28/2019 | [8000088, Zapisz wiadomość e-mail w Hotmail](/AlchemyInsights/8000088-outlook-com-save-emails) | dodane |
-| 2/28/2019 | [9000071 nie można wpisać symbol na Mac @](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | dodane |
-| 2/28/2019 | [9000193 Cofnij Przenieś lub Usuń w Hotmail](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | dodane |
-| 2/28/2019 | [9000198 Kalendarz Hotmail w wersji Beta](/AlchemyInsights/9000198-outlook-com-calendar-beta) | dodane |
-| 3/1/2019 | [8000035 żądania wycofania z beta Hotmail do klasycznych Hotmail](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | dodane |
-| 3/1/2019 | [8000035 jak zrobić nowy wygląd Hotmail jak stary](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | dodane |
-| 3/1/2019 | [8000043 ustawienia POP, IMAP i SMTP dla Hotmail](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | dodane |
-| 3/1/2019 | [8000090 Hotmail Zaznacz wszystko](/AlchemyInsights/8000090-outlook-com-select-all) | dodane |
-| 3/1/2019 | [8000091 Hotmail reagują wyskakujące](/AlchemyInsights/8000091-outlook-com-react-pop-up) | dodane |
-| 3/1/2019 | [8000092 Pokaż źródło wiadomości Hotmail](/AlchemyInsights/8000092-outlook-com-view-message-source) | dodane |
-| 3/1/2019 | [Uprawnienia konta Hotmail połączony 8000093](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | dodane |
-| 3/1/2019 | [1800009Outlook dla Mac wsparcie w aplikacji](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | Zmodyfikowano |
-| 3/1/2019 | [8000057 bezpiecznego łącza w Hotmail](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | Zmodyfikowano |
-| 3/1/2019 | [9000232 książki adresowej Hotmail](/AlchemyInsights/9000232-outlook-com-address-book) | dodane |
-| 3/1/2019 | [9000233 Hotmail PIN](/AlchemyInsights/9000233-outlook-com-pin) | dodane |
-| 3/1/2019 | [9000234 błąd wewnętrzny serwera Hotmail](/AlchemyInsights/9000234-outlook-com-internal-server-error) | dodane |
-| 3/1/2019 | [9000236 Hotmail Dodaj konto](/AlchemyInsights/9000236-outlook-com-add-account) | dodane |
-| 3/1/2019 | [9000238 Hotmail dodać alias](/AlchemyInsights/9000238-outlook-com-add-alias) | dodane |
-| 3/1/2019 | [9000239 przekazywanie Hotmail](/AlchemyInsights/9000239-outlook-com-forwarding) | dodane |
-| 3/1/2019 | [9000240 odpowiedzi Hotmail](/AlchemyInsights/9000240-outlook-com-replies) | dodane |
+| 4/1/2019 | [Włącz ATP Office 365 dla programu SharePoint, OneDrive i zespołów firmy Microsoft](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | dodane |
+| 4/1/2019 | [Konfigurowanie zaawansowanego zagrożenie ochrony (ATP) usługi Office 365](/AlchemyInsights/office-365-atp-setup) | dodane |
+| 4/1/2019 | [9000071 nie można wpisać symbol na Mac @](/AlchemyInsights/outlook-com-cant-type-chars-on-mac) | zmieniono jego nazwę |
+| 4/1/2019 | [Przywracanie grupy usługi Office 365 przy użyciu centrum administracyjnego programu Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | Zmodyfikowano |
+| 4/1/2019 | [Rozwiązywanie problemów z pakietu Office 365 zaawansowane zagrożenia ochrony (ATP)](/AlchemyInsights/troubleshoot-issues-office-365-atp) | dodane |
+| 4/2/2019 | Etykiety klasyfikacji w usłudze Office 365 | dodane |
+| 4/2/2019 | Przegląd danych straty zapobiegania (DLP) | dodane |
+| 4/2/2019 | Aplikacja pulpitu programu SharePoint | dodane |
+| 4/2/2019 | Koncentrator witryny limitów i ograniczeń | dodane |
+| 4/2/2019 | OneDrive: Brakuje plików lub folderów | dodane |
+| 4/2/2019 | Zapisz jako szablon witryny lub listy | dodane |
+| 4/2/2019 | Omówienie lokacji koncentratora programu SharePoint | dodane |
+| 4/2/2019 | Witryny i struktury zawartości usunięty | dodane |
+| 4/2/2019 | Rozwiązywanie błędu 404 Nie znaleziono pliku | dodane |
+| 4/3/2019 | [Kod błędu 550 5.7.705 odmowa dostępu, dzierżawcy przekroczył próg](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | Zmodyfikowano |
