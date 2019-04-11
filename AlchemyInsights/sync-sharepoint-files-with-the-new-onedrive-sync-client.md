@@ -1,5 +1,5 @@
 ---
-title: Zsynchronizuj pliki programu SharePoint z nowego klienta synchronizacji OneDrive
+title: Synchronizowanie plików programu SharePoint za pomocą nowego klienta synchronizacji OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b11b8e56a64e87aabb0d188e5566a868bbe2fd6d
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: 3e4219143a9418d886b1f5cf85f8bef9c412bbaf
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469033"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747356"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Zsynchronizuj pliki programu SharePoint z nowego klienta synchronizacji OneDrive
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Synchronizowanie plików programu SharePoint za pomocą nowego klienta synchronizacji OneDrive
 
-1. W klasycznym Centrum administracyjnego programu SharePoint wybierz **Ustawienia**.
+1. W nowym centrum administracyjnym programu SharePoint wybierz pozycję **Ustawienia**.
     
-2. Upewnij się, że "Przycisk synchronizacji OneDrive" jest ustawiona na "Pokaż przycisk synchronizacji."
+2. Upewnij się, że pozycja „Przycisk synchronizacji z usługą OneDrive” ma ustawienie „Pokaż przycisk Synchronizuj”.
     
-3. "Synchronizacja klienta programu SharePoint," Wybierz **Uruchom nowego klienta**.
+3. Dla ustawienia „Klient synchronizacji dla programu SharePoint” wybierz wartość **Uruchom nowego klienta**.
     
     > [!NOTE]
-    > Jeśli ta opcja nie jest widoczna, organizacji już skonfigurowano do synchronizować pliki programu SharePoint za pomocą nowego klienta synchronizacji OneDrive. 
+    > Jeśli ta opcja nie jest widoczna, w Twojej organizacji już skonfigurowano korzystanie z nowego klienta synchronizacji OneDrive do synchronizowania plików programu SharePoint. 
   
 4. Kliknij przycisk **OK**.
     
-Aby uzyskać więcej informacji zobacz [Włączanie użytkowników synchronizować pliki programu SharePoint z nowego klienta synchronizacji OneDrive](https://go.microsoft.com/fwlink/?linkid=866433). Aby uzyskać instrukcje dla użytkowników zobacz [pliki synchronizacji programu SharePoint z nowego klienta synchronizacji OneDrive](https://go.microsoft.com/fwlink/?linkid=866427).
+Aby uzyskać więcej informacji, zobacz [Umożliwianie użytkownikom synchronizowania plików programu SharePoint za pomocą nowego klienta synchronizacji OneDrive](https://go.microsoft.com/fwlink/?linkid=866433). Aby uzyskać instrukcje do przekazania użytkownikom, zobacz [Synchronizowanie plików programu SharePoint za pomocą nowego klienta synchronizacji OneDrive](https://go.microsoft.com/fwlink/?linkid=866427).
   
 
