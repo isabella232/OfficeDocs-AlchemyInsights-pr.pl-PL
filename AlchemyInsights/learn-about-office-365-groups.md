@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 610
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: 3e054959355739686a348f36158c29f88e339b98
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 3e643745ec178217714fb111d2f822880879baec
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773676"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859654"
 ---
-# <a name="learn-about-office-365-groups"></a><span data-ttu-id="c5f43-102">Więcej informacji na temat grupy Office 365</span><span class="sxs-lookup"><span data-stu-id="c5f43-102">Learn about Office 365 Groups</span></span>
+# <a name="learn-about-office-365-groups"></a><span data-ttu-id="eec0a-102">Więcej informacji na temat grupy Office 365</span><span class="sxs-lookup"><span data-stu-id="eec0a-102">Learn about Office 365 Groups</span></span>
 
-<span data-ttu-id="c5f43-103">Aby uzyskać więcej informacji zobacz [więcej informacji na temat grupy usługi Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="c5f43-103">For more information, see [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
-  
-
+<span data-ttu-id="eec0a-103">Aby uzyskać więcej informacji zobacz [więcej informacji na temat grupy usługi Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="eec0a-103">For more information, see [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
