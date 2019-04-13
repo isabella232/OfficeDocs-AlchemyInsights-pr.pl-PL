@@ -10,15 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: a45cf5b3c7a958a3f819b2cd3c1c15368ff2708c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 284f069416ee9fecbd623beb4f4174212179099c
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785506"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859258"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>Problemy oglądanie informacji wolny/zajęty kalendarza
 
-Jeśli nie możesz zobaczyć informacje wolny/zajęty kalendarza w innych kalendarzy, lub inne osoby nie widziały informacji wolny/zajęty w kalendarzu, należy użyć [pomocy technicznej firmy Microsoft i Asystenta pakietu Office 365](https://diagnostics.office.com/).
-  
-
+Jeśli nie widzisz informacji o czasie wolnym/zajętym swojego kalendarza lub innych kalendarzy albo jeśli inne osoby nie widzą tych informacji w Twoim kalendarzu, użyj [Asystenta odzyskiwania i pomocy technicznej firmy Microsoft dla usługi Office 365](https://diagnostics.office.com/).
