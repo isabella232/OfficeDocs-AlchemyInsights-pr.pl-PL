@@ -22,9 +22,9 @@ ms.locfileid: "30763838"
 
 1. W Centrum administracyjnym przejdź do strony [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia** \> **Subskrypcje**.
     
-2. Wybierz subskrypcję zakupioną przy użyciu karty kredytowej lub konta bankowego, które chcesz zaktualizować, a następnie wybierz pozycję **Aktualizuj szczegóły płatności**.
+2. Wybierz subskrypcję zakupioną przy użyciu karty kredytowej lub konta bankowego do zaktualizowania, a następnie wybierz pozycję **Aktualizuj szczegóły płatności**.
     
-3. Wybierz strzałkę listy rozwijanej w obszarze **Dodaj lub wybierz metodę płatności**, wybierz kartę kredytową lub konto bankowe, które chcesz zaktualizować, a następnie wybierz pozycję **Edytuj szczegóły**.
+3. Wybierz strzałkę listy rozwijanej w obszarze **Dodaj lub wybierz metodę płatności**, wybierz kartę kredytową lub konto bankowe do zaktualizowania, a następnie wybierz pozycję **Edytuj szczegóły**.
     
 4. Zaktualizuj informacje o karcie kredytowej lub koncie bankowym (nazwisko posiadacza karty kredytowej lub konta bankowego, adres na fakturze, numer telefonu bądź datę ważności) odpowiednio do potrzeb, a następnie naciśnij przycisk **Prześlij**.
     

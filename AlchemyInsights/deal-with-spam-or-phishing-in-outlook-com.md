@@ -24,9 +24,9 @@ Jeśli otrzymasz wiadomość e-mail wyglądającą na spam lub na próbę wyłud
   
 Skuteczność działania filtrów dla wiadomości-śmieci w usłudze Outlook.com może wzrosnąć po oznaczeniu wiadomości jako wiadomości-śmiecia. Możesz też zgłosić ją jako próbę wyłudzenia informacji lub zablokować adresy e-mail i domeny, od których nie chcesz otrzymywać wiadomości e-mail.
   
-Jeśli uważasz, że otrzymana wiadomość e-mail jest próbą wyłudzenia lub sfałszowania informacji, oznacz ją jako wiadomość-śmieć, a następnie przejdź do Folderu wiadomości-śmieci i wybierz pozycję **To nie spam** \> **Wyłudzenie informacji**, aby oznaczyć ją jako próbę wyłudzenia informacji. Dowiedz się więcej na temat [sposobów walki z nadużyciami, wyłudzaniem informacji i spoofingiem](https://go.microsoft.com/fwlink/p/?linkid=873139).
+Jeśli uważasz, że otrzymana wiadomość e-mail jest próbą wyłudzenia lub sfałszowania informacji, oznacz ją jako wiadomość-śmieć, a następnie przejdź do folderu wiadomości-śmieci i wybierz pozycję **To nie spam** \> **Wyłudzenie informacji**, aby oznaczyć ją jako próbę wyłudzenia informacji. Dowiedz się więcej na temat [sposobów walki z nadużyciami, wyłudzaniem informacji i spoofingiem](https://go.microsoft.com/fwlink/p/?linkid=873139).
   
-Aby zablokować adresy e-mail, przejdź do pozycji **Ustawienia** \> **Opcje** \> **Zablokowani nadawcy**. Aby dodać adresy lub domeny do listy bezpiecznych nadawców, zaznacz pozycję **Bezpieczni nadawcy**. 
+Aby zablokować adresy e-mail, przejdź do pozycji **Ustawienia** \> **Opcje** \> **Zablokowani nadawcy**. Aby dodać adresy lub domeny do listy bezpiecznych nadawców, wybierz pozycję **Bezpieczni nadawcy**. 
   
 Jeśli widzisz wzrost otrzymywanej ilości spamu, dowiedz się, jak [chronić skrzynkę odbiorczą przed spamem i wiadomościami-śmieciami](https://go.microsoft.com/fwlink/p/?linkid=873140).
   

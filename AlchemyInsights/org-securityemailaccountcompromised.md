@@ -21,12 +21,12 @@ ms.locfileid: "30785086"
 
 Można zrobić kilka rzeczy, aby zwiększyć bezpieczeństwo w organizacji usługi Office 365:
   
-- **Włączanie uwierzytelniania wieloskładnikowego**: jeśli konto zostało naruszone, dobrym rozwiązaniem, aby uniknąć tego w przyszłości, jest zresetowanie hasła, a następnie włączenie uwierzytelniania wieloskładnikowego. Jeśli za pomocą naruszonego konta wysyłano spam, prawdopodobnie wysyłanie z niego wiadomości e-mail jest zablokowane (nawet po wykonaniu czynności zabezpieczających konto). Aby usunąć użytkownika z listy blokowanych, zobacz [ten temat](https://technet.microsoft.com/library/ms.exch.eac.actioncenter.aspx).
+- **Włączanie uwierzytelniania wieloskładnikowego**: Jeśli konto zostało naruszone, dobrym rozwiązaniem, aby uniknąć tego w przyszłości, jest zresetowanie hasła, a następnie włączenie uwierzytelniania wieloskładnikowego. Jeśli za pomocą naruszonego konta wysyłano spam, prawdopodobnie wysyłanie z niego wiadomości e-mail jest zablokowane (nawet po wykonaniu czynności zabezpieczających konto). Aby usunąć użytkownika z listy zablokowanych, zobacz [ten temat](https://technet.microsoft.com/library/ms.exch.eac.actioncenter.aspx).
     
 - **Uruchamianie usługi Wskaźnik bezpieczeństwa w usłudze Office 365**: usługa Wskaźnik bezpieczeństwa udostępnia szczegółową analizę ustawień zabezpieczeń w organizacji i zalecenia dotyczące zwiększania poziomu bezpieczeństwa.
     
 - **Włączanie dzienników inspekcji skrzynki pocztowej**: Dzienniki inspekcji skrzynki pocztowej ułatwiają śledzenie tego, co się stało, jeśli konto użytkownika zostanie naruszone.
     
-Aby uzyskać więcej informacji, zobacz [Najlepsze rozwiązania dotyczące zabezpieczeń usługi Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
+Aby uzyskać więcej informacji, zobacz [Najlepsze rozwiązania dotyczące zabezpieczeń dla usługi Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
   
 
