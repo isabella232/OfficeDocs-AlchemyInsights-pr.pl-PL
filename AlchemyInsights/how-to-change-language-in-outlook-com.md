@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000014
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 77e9a6f21702189aa7ec4b56323b92eb0766bd08
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: ca05449dcda6dd857c7f81be17bb6fd6335af693
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30775496"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903674"
 ---
-# <a name="change-your-language"></a><span data-ttu-id="615dc-102">Zmienianie języka</span><span class="sxs-lookup"><span data-stu-id="615dc-102">Change your language</span></span>
+# <a name="change-your-language"></a><span data-ttu-id="9fe60-102">Zmienianie języka</span><span class="sxs-lookup"><span data-stu-id="9fe60-102">Change your language</span></span>
 
-1. <span data-ttu-id="615dc-103">W prawym górnym rogu, wybierz **Ustawienia** \> **Opcje**.</span><span class="sxs-lookup"><span data-stu-id="615dc-103">In the upper-right corner, select **Settings** \> **Options**.</span></span>
+1. <span data-ttu-id="9fe60-103">W prawym górnym rogu, wybierz **Ustawienia** \> **wyświetlić wszystkie ustawienia programu Outlook**.</span><span class="sxs-lookup"><span data-stu-id="9fe60-103">In the upper-right corner, select **Settings** \> **View all Outlook settings**.</span></span>
     
-2. <span data-ttu-id="615dc-104">W obszarze **Opcje**zaznacz **Ogólne** \> **regionu i strefy czasowej**.</span><span class="sxs-lookup"><span data-stu-id="615dc-104">Under **Options**, select **General** \> **Region and time zone**.</span></span>
+2. <span data-ttu-id="9fe60-104">W obszarze **Ogólne**wybierz [**język i czas**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span><span class="sxs-lookup"><span data-stu-id="9fe60-104">Under **General**, select [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span></span>
     
-3. <span data-ttu-id="615dc-105">W obszarze **ustawienia stref czasowych i regionu**wybierz swój język.</span><span class="sxs-lookup"><span data-stu-id="615dc-105">Under **Region and time zones settings**, choose your language.</span></span>
+3. <span data-ttu-id="9fe60-105">Wybierz swój język.</span><span class="sxs-lookup"><span data-stu-id="9fe60-105">Choose your language.</span></span>
     
-4. <span data-ttu-id="615dc-106">Wybierz pozycję **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="615dc-106">Select **Save**.</span></span>
+4. <span data-ttu-id="9fe60-106">Wybierz pozycję **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="9fe60-106">Select **Save**.</span></span>
     
-<span data-ttu-id="615dc-107">Aby dowiedzieć się więcej, zobacz [Zmienianie stref czasowych i ustawień języka w Hotmail](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="615dc-107">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
+<span data-ttu-id="9fe60-107">Aby dowiedzieć się więcej, zobacz [Zmienianie stref czasowych i ustawień języka w Hotmail](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="9fe60-107">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
   
 
