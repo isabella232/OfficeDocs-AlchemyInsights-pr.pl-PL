@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000011
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: 28266eff5fc77c855370f7fc75a7b7332d1e72e2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7f18d2a5196234e450f7e639b6d63d1ddfcf411a
+ms.sourcegitcommit: 32ee065560611cd527754f482b9ad244878975a0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773746"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31980640"
 ---
 # <a name="recover-deleted-email"></a>Odzyskiwanie usuniętych wiadomości e-mail
 
 1. W okienku po lewej stronie wybierz **Elementy usunięte**. 
     
-2. Zaznacz element, który chcesz odzyskać i wybierz opcję **odzyskiwania**. 
+2. Zaznacz element, który chcesz odzyskać i wybierz polecenie **Przywróć**. 
   
  **Uwaga**: Wybierz wszystko tylko, jeśli wszystkie wiadomości są widoczne. Ma to zapobiec przypadkowemu akcji na wiadomościach, nie widać. **CTRL + kliknięcie** zaznacza poszczególne wiadomości, **SHIFT + kliknięcie** Zaznacza wszystko pomiędzy dwa kliknięcia. 
     
-3. Jeśli wiadomości nie ma w folderze Elementy usunięte, zaznacz **Odzyskaj elementy usunięte** w górnej części okna. 
+3. Jeśli wiadomości nie ma w folderze Elementy usunięte, zaznacz **umożliwia odzyskanie elementów usuniętych z tego folderu** w górnej części okna. 
     
  **Ważne informacje o usuniętych elementów:**
   
