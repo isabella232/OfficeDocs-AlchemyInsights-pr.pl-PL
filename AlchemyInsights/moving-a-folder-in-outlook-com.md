@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000062
 ms.assetid: 5042f2a4-6edb-425e-8d6e-df4d9c6c5434
-ms.openlocfilehash: 39d4db1f4ce0ca8ad8c742f04ae40a1d599b9993
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: f0fce8670921128f1bbd405d00f91ac4119e25c1
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785786"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903494"
 ---
 # <a name="moving-a-folder-in-outlookcom"></a>Przenoszenie folderu w Hotmail
 
 Folder w Hotmail można przeciągnąć w nowe miejsce w hierarchii Ulubione, lub można użyć opcji **przenieść** w Hotmail klasyczne menu skrótów. 
   
-Można zmienić kolejność wszystkie foldery w **folderze Ulubione**, ale nie można zmienić kolejność lub uczynić podfolderem folderu najwyższego poziomu w wersji beta Hotmail. Jeśli przypadkowo przenieść folder najwyższego poziomu, tak, że staje się ono podfolder, Utwórz nowy folder i skopiuj adres e-mail z podfolderu do folderu najwyższego poziomu. 
+Można zmienić kolejność wszystkie foldery w **folderze Ulubione**, ale nie można zmienić kolejność lub uczynić podfolderem folderu najwyższego poziomu w wersji beta Hotmail. Jeśli przypadkowo uczynić podfolderem, lub przenieść folder najwyższego poziomu, tak, że staje się ono podfolder, Utwórz nowy folder i skopiuj adres e-mail z podfolderu do folderu najwyższego poziomu. 
   
 Dowiedz się więcej o tym, jak [przenieść](https://support.office.com/article/c9c66fed-8a7c-426a-afc6-0d46a72080fb)lub zmienić nazwę folderu w Hotmail.
   

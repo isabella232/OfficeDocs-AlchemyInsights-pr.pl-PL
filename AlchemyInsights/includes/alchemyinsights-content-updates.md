@@ -3,86 +3,6 @@
 
 
 
-## <a name="week-of-march-04-2019"></a>Tydzień 04 marca 2019
-
-
-| Opublikowano: |Tytuł tematu | Zmiana |
-|------|------------|--------|
-| 3/4/2019 | 8000011 Hotmail odzyskiwanie usuniętych wiadomości E-mail | dodane |
-| 3/4/2019 | [8000034 potwierdzenia odczytu w Hotmail](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | Zmodyfikowano |
-| 3/4/2019 | [8000047 jak utworzyć podpis wiadomości e-mail w Hotmail](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | Zmodyfikowano |
-| 3/4/2019 | [8000086 Hotmail Wstaw obraz](/AlchemyInsights/80000860-outlook-com-insert-image) | dodane |
-| 3/4/2019 | [8000087 skróty klawiaturowe Hotmail](/AlchemyInsights/8000087-outlook-com-keyboard-shortcuts) | dodane |
-| 3/4/2019 | [8000088, Zapisz wiadomość e-mail w Hotmail](/AlchemyInsights/8000088-outlook-com-save-emails) | Zmodyfikowano |
-| 3/4/2019 | [8000089 Hotmail bezpiecznych nadawców](/AlchemyInsights/8000089-outlook-com-safe-senders) | dodane |
-| 3/4/2019 | 8000011 Hotmail odzyskiwanie usuniętych wiadomości E-mail | usunięte |
-| 3/4/2019 | 1575 PowerApp oraz planowane rozszerzenie Flow firmy Microsoft | dodane |
-| 3/4/2019 | [Zmiana domeny dla grupy usługi Office 365](/AlchemyInsights/change-domain-for-group) | zmieniono jego nazwę |
-| 3/4/2019 | [1575 PowerApp oraz planowane rozszerzenie Flow firmy Microsoft](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | zmieniono jego nazwę |
-| 3/4/2019 | [Włącz wieloczynnikowe uwierzytelnianie](/AlchemyInsights/enable-multifactor-authentication) | Zmodyfikowano |
-| 3/4/2019 | [Przekroczono limit magazynowania Hotmail 8000054](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | dodane |
-| 3/4/2019 | [423 Zabezpieczenia organizacji — naruszenie konta e-mail](/AlchemyInsights/423-org-securityemailaccountcompromised) | Zmodyfikowano |
-| 3/4/2019 | [8000029 Walka ze spamem lub wyłudzaniem informacji w usłudze Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | Zmodyfikowano |
-| 3/4/2019 | [Usuwanie domeny](/AlchemyInsights/remove-domain) | Zmodyfikowano |
-| 3/4/2019 | [Dodawanie użytkowników do usługi Office 365](/AlchemyInsights/add-users-to-office-365) | Zmodyfikowano |
-| 3/4/2019 | [Czy otrzymujesz zbyt wiele spamu lub pozyskiwać w skrzynce pocztowej?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | Zmodyfikowano |
-| 3/4/2019 | [Zmienianie serwerów nazw](/AlchemyInsights/change-nameservers) | Zmodyfikowano |
-| 3/4/2019 | [Tworzenie aplikacji w aplikacji PowerApp](/AlchemyInsights/create-apps-in-powerapps) | Zmodyfikowano |
-| 3/4/2019 | [Jednorazowej migracji do usługi Office 365](/AlchemyInsights/cutover-migrations-to-office-365) | Zmodyfikowano |
-| 3/4/2019 | [Masz problemy z dostarczaniem wiadomości e-mail?](/AlchemyInsights/having-email-delivery-issues-0) | Zmodyfikowano |
-| 3/4/2019 | [Masz problemy z dostarczaniem wiadomości e-mail?](/AlchemyInsights/having-email-delivery-issues) | Zmodyfikowano |
-| 3/4/2019 | [Jak dodać karty kredytowej?](/AlchemyInsights/how-do-i-add-a-credit-card) | Zmodyfikowano |
-| 3/4/2019 | [Jak zaktualizować informacje dotyczące karty kredytowej?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | Zmodyfikowano |
-| 3/4/2019 | [Jak zainstalować pakiet Office](/AlchemyInsights/how-to-install-office) | Zmodyfikowano |
-| 3/4/2019 | [Migracja poczty e-mail z IMAP](/AlchemyInsights/migrate-email-from-imap) | Zmodyfikowano |
-| 3/4/2019 | [Opcje płatności](/AlchemyInsights/payment-options) | Zmodyfikowano |
-| 3/4/2019 | [Zalecane działania w przypadku złamania zabezpieczeń konta](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | Zmodyfikowano |
-| 3/4/2019 | [Nadawca zablokowany z powodu wysyłania zbyt dużej ilości spamu](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | Zmodyfikowano |
-| 3/4/2019 | [Przesyłanie prośby o wsparcie techniczne dla usługi Dynamics 365](/AlchemyInsights/submit-dynamics-365-support-requests) | Zmodyfikowano |
-| 3/4/2019 | [Domena jest już w użyciu](/AlchemyInsights/the-domain-is-already-in-use) | Zmodyfikowano |
-| 3/4/2019 | [Problemy z ukończeniem zakupu w portalu usługi Office 365](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | Zmodyfikowano |
-| 3/4/2019 | [Aktualizowanie rekordów DNS](/AlchemyInsights/update-dns-records-0) | Zmodyfikowano |
-| 3/4/2019 | [Aktualizowanie rekordów DNS](/AlchemyInsights/update-dns-records) | Zmodyfikowano |
-| 3/4/2019 | [Aktualizowanie szczegółów płatności](/AlchemyInsights/update-payment-details) | Zmodyfikowano |
-| 3/4/2019 | [Weryfikowanie domeny](/AlchemyInsights/verify-domain) | Zmodyfikowano |
-| 3/4/2019 | [Konfigurowanie przekazywania danych do wielu adresów e-mail](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | Zmodyfikowano |
-| 3/4/2019 | [Usunięcie "Nie jest zaakceptowana domena" Błąd](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | Zmodyfikowano |
-| 3/6/2019 | [1581 Otwieranie i używanie udostępnionej skrzynki pocztowej w aplikacji Outlook w sieci Web](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | Zmodyfikowano |
-| 3/6/2019 | [Zespoły przesunięcia](/AlchemyInsights/1686-teams-shifts) | dodane |
-| 3/6/2019 | [1703 Potrzebne informacje dotyczące aplikacji Teams i telefonów Polycom](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | dodane |
-| 3/6/2019 | [Zainstaluj moduł zespoły PS i odwołania](/AlchemyInsights/1787-teams-ps-module-install-ref) | dodane |
-| 3/6/2019 | [615 typów udostępniania i sposób ich konfigurowania.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | Zmodyfikowano |
-| 3/6/2019 | [Zespoły Freemium](/AlchemyInsights/997-teams-freemium) | dodane |
-| 3/6/2019 | [Czy masz wiarygodnych wiadomości są oznaczone jako wiadomości-śmieci?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | Zmodyfikowano |
-| 3/6/2019 | [Włącz zespoły pracowników firmy Microsoft](/AlchemyInsights/enable-microsoft-teams) | Zmodyfikowano |
-| 3/6/2019 | [Zespoły zostały włączone dla swoich uczniów?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | Zmodyfikowano |
-| 3/6/2019 | [Jak ponownie aktywować subskrypcję](/AlchemyInsights/how-to-reactivate-a-subscription) | Zmodyfikowano |
-| 3/6/2019 | Wdrażanie aplikacji Windows Intune - 991 identyfikator reguły | usunięte |
-| 3/6/2019 | [Problem za pomocą programu Skype dla firmy?](/AlchemyInsights/issue-with-skype-for-business) | Zmodyfikowano |
-| 3/6/2019 | [Zespoły pracowników firmy Microsoft - dostęp gościa](/AlchemyInsights/microsoft-teamsguest-access) | Zmodyfikowano |
-| 3/6/2019 | [Zespoły pracowników firmy Microsoft — Przywracanie witryny zespołu usuniętych](/AlchemyInsights/microsoft-teamsrestoring-a-deleted-team-site) | Zmodyfikowano |
-| 3/6/2019 | [Przekazywanie wiadomości e-mail przez usługę Office 365](/AlchemyInsights/relay-email-through-office-365) | Zmodyfikowano |
-| 3/6/2019 | [Zsynchronizuj pliki programu SharePoint z nowego klienta synchronizacji OneDrive](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | Zmodyfikowano |
-| 3/6/2019 | [Uaktualnić do pełnej wersji programu Microsoft Teams](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | Zmodyfikowano |
-| 3/7/2019 | [Nie można zsynchronizować 8000064 e-mail Hotmail - HISZPAŃSKI](/AlchemyInsights/8000064-outlook-com-fix-email-sync-spanish) | dodane |
-| 3/7/2019 | [8000065 Hotmail spam śmieci - HISZPAŃSKI](/AlchemyInsights/8000065-outlook-com-junk-spam-spanish) | dodane |
-| 3/7/2019 | [8000066 - reguła 1 - Hotmail zaatakowana przez hakerów - HISZPAŃSKI](/AlchemyInsights/8000066-1-outlook-com-hacked-spanish) | dodane |
-| 3/7/2019 | [8000066 - reguła 2 - Hotmail zaatakowana przez hakerów - HISZPAŃSKI](/AlchemyInsights/8000066-2-outlook-com-hacked-spanish) | dodane |
-| 3/7/2019 | [8000067 - Hotmail Zamknij konto - HISZPAŃSKI](/AlchemyInsights/8000067-outlook-com-close-account-spanish) | dodane |
-| 3/7/2019 | [8000068 - Hotmail Dodaj konto - HISZPAŃSKI](/AlchemyInsights/8000068-outlook-com-add-account-spanish) | dodane |
-| 3/7/2019 | [8000069 - Hotmail Zablokuj nadawcę - HISZPAŃSKI](/AlchemyInsights/8000069-outlook-com-block-sender-spanish) | dodane |
-| 3/7/2019 | [8000070 - Hotmail nie można zarejestrować - HISZPAŃSKI](/AlchemyInsights/8000070-outlook-com-cant-sign-in-spanish) | dodane |
-| 3/7/2019 | [Przywracanie usuniętych użytkownika](/AlchemyInsights/restore-deleted-user) | Zmodyfikowano |
-| 3/8/2019 | 8000043 ustawienia POP, IMAP i SMTP dla Hotmail | usunięte |
-| 3/8/2019 | [8000043 ustawienia POP, IMAP i SMTP dla Hotmail](/AlchemyInsights/8000043-outlook-com-pop-imap-and-smtp-settings) | zmieniono jego nazwę |
-| 3/8/2019 | [8000071 Hotmail poprawka synchronizacja poczty e-mail - FRANCUSKI](/AlchemyInsights/8000071-outlook-com-fix-email-sync-french) | dodane |
-| 3/8/2019 | [8000072 Hotmail wiadomości-śmieci - FRANCUSKI](/AlchemyInsights/8000072-outlook-com-junk-mail-french) | dodane |
-| 3/8/2019 | [8000073 konta Hotmail zaatakowana przez hakerów - FRANCUSKI](/AlchemyInsights/8000073-outlook-com-account-hacked-french) | dodane |
-| 3/8/2019 | [8000074 Zamknij konto Outlook.com - FRANCUSKI](/AlchemyInsights/8000074-outlook-com-close-account-french) | dodane |
-| 3/8/2019 | [8000075 Hotmail Zmień hasło - FRANCUSKI](/AlchemyInsights/8000075-outlook-com-change-password-french) | dodane |
-| 3/8/2019 | [8000076 Hotmail Zablokuj nadawcę - FRANCUSKI](/AlchemyInsights/8000076-outlook-com-block-sender-french) | dodane |
-
-
 ## <a name="week-of-march-11-2019"></a>Tydzień 11 marca 2019
 
 
@@ -370,7 +290,7 @@
 | 3/22/2019 | [Zarządzaj moimi faktury i płatności](/AlchemyInsights/manage-my-bill-and-payments) | Zmodyfikowano |
 | 3/22/2019 | [Zarządzanie moim rachunkiem](/AlchemyInsights/manage-my-bill) | Zmodyfikowano |
 | 3/22/2019 | [Zarządzanie kontami użytkowników zsynchronizowanych](/AlchemyInsights/manage-synchronized-user-accounts) | Zmodyfikowano |
-| 3/22/2019 | [Zarządzanie tym, kto może tworzyć grupy usługi Office 365](/AlchemyInsights/manage-who-can-create-office-365-groups) | Zmodyfikowano |
+| 3/22/2019 | [Zarządzanie, kto może tworzyć grupy usługi Office 365](/AlchemyInsights/manage-who-can-create-office-365-groups) | Zmodyfikowano |
 | 3/22/2019 | [Zarządzanie pamięcią masową programu SharePoint lub OneDrive](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | Zmodyfikowano |
 | 3/22/2019 | [Mapuj na dysk sieciowy w bibliotece programu SharePoint](/AlchemyInsights/map-a-sharepoint-library-to-a-network-drive) | Zmodyfikowano |
 | 3/22/2019 | [Mapuj dysk sieciowy biblioteki programu SharePoint](/AlchemyInsights/map-sharepoint-library-to-network-drive) | Zmodyfikowano |
@@ -492,7 +412,7 @@
 | 4/1/2019 | [Włącz ATP Office 365 dla programu SharePoint, OneDrive i zespołów firmy Microsoft](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | dodane |
 | 4/1/2019 | [Konfigurowanie zaawansowanego zagrożenie ochrony (ATP) usługi Office 365](/AlchemyInsights/office-365-atp-setup) | dodane |
 | 4/1/2019 | [9000071 nie można wpisać symbol na Mac @](/AlchemyInsights/outlook-com-cant-type-chars-on-mac) | zmieniono jego nazwę |
-| 4/1/2019 | [Przywracanie grupy usługi Office 365 przy użyciu centrum administracyjnego programu Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | Zmodyfikowano |
+| 4/1/2019 | [Przywróć grupę Office 365 za pomocą Centrum administracyjnego programu Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | Zmodyfikowano |
 | 4/1/2019 | [Rozwiązywanie problemów z pakietu Office 365 zaawansowane zagrożenia ochrony (ATP)](/AlchemyInsights/troubleshoot-issues-office-365-atp) | dodane |
 | 4/2/2019 | Etykiety klasyfikacji w usłudze Office 365 | dodane |
 | 4/2/2019 | Przegląd danych straty zapobiegania (DLP) | dodane |
@@ -504,3 +424,109 @@
 | 4/2/2019 | Witryny i struktury zawartości usunięty | dodane |
 | 4/2/2019 | Rozwiązywanie błędu 404 Nie znaleziono pliku | dodane |
 | 4/3/2019 | [Kod błędu 550 5.7.705 odmowa dostępu, dzierżawcy przekroczył próg](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | Zmodyfikowano |
+
+
+## <a name="week-of-april-08-2019"></a>Tydzień 08 kwietnia 2019
+
+
+| Opublikowano: |Tytuł tematu | Zmiana |
+|------|------------|--------|
+| 4/9/2019 | [Przenoszenie wiadomości e-mail do skrzynki pocztowej archiwum](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | Zmodyfikowano |
+| 4/9/2019 | [Udostępnianie anonimowych](/AlchemyInsights/anonymous-sharing) | Zmodyfikowano |
+| 4/9/2019 | [Sprawdź w kilku plikach naraz](/AlchemyInsights/check-in-several-files-at-once) | Zmodyfikowano |
+| 4/9/2019 | [Łączenie klasycznych witryna zespołu programu SharePoint do grupy](/AlchemyInsights/connect-a-classic-sharepoint-team-site-to-a-group) | Zmodyfikowano |
+| 4/9/2019 | [Utworzyć witrynę w dokumentacji Online programu SharePoint](/AlchemyInsights/create-a-site-in-sharepoint-online) | Zmodyfikowano |
+| 4/9/2019 | [Tworzenie witryny](/AlchemyInsights/create-a-site) | zmieniono jego nazwę |
+| 4/9/2019 | [Usuwanie witryny programu SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | Zmodyfikowano |
+| 4/9/2019 | [Usuwanie witryny](/AlchemyInsights/delete-site-collection) | Zmodyfikowano |
+| 4/9/2019 | [Komunikat o błędzie podczas udostępniania plików](/AlchemyInsights/error-message-when-sharing-files) | Zmodyfikowano |
+| 4/9/2019 | [Udostępniania z witryny zespołu](/AlchemyInsights/external-sharing-with-a-team-site) | Zmodyfikowano |
+| 4/9/2019 | [Jak używać magazynu terminów Online programu SharePoint](/AlchemyInsights/how-to-use-the-sharepoint-online-term-store) | Zmodyfikowano |
+| 4/9/2019 | [Zarządzanie słownikami Szukaj w dokumentacji Online programu SharePoint](/AlchemyInsights/manage-search-dictionaries-in-sharepoint-online) | Zmodyfikowano |
+| 4/9/2019 | [Zarządzanie pamięcią masową programu SharePoint lub OneDrive](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | Zmodyfikowano |
+| 4/9/2019 | [Przywracanie usuniętych witryny](/AlchemyInsights/restore-a-deleted-site-collection) | Zmodyfikowano |
+| 4/9/2019 | [Przywracanie usuniętych podwitryny](/AlchemyInsights/restore-a-deleted-subsite) | Zmodyfikowano |
+| 4/9/2019 | [Udostępnianie pliku lub folderu w programie SharePoint lub OneDrive](/AlchemyInsights/share-a-file-or-folder-in-sharepoint-or-onedrive) | Zmodyfikowano |
+| 4/9/2019 | [Magazynu programu SharePoint](/AlchemyInsights/sharepoint-storage) | Zmodyfikowano |
+| 4/9/2019 | [Udostępnianie użytkownikom zewnętrznym nie działa](/AlchemyInsights/sharing-with-external-users-isn-t-working) | Zmodyfikowano |
+| 4/9/2019 | [Synchronizowanie plików programu SharePoint za pomocą nowego klienta synchronizacji OneDrive](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | Zmodyfikowano |
+| 4/9/2019 | [Włączanie zewnętrznego lub wyłączyć udostępnianie w witrynie](/AlchemyInsights/turn-external-sharing-on-or-off-for-a-site) | Zmodyfikowano |
+| 4/9/2019 | [Włączanie zewnętrznego lub wyłączyć udostępnianie dla programu SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | Zmodyfikowano |
+| 4/9/2019 | [Włączanie zewnętrznego lub wyłączyć udostępnianie dla programu SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | Zmodyfikowano |
+| 4/9/2019 | Rozwiązywanie błędu 404 Nie znaleziono pliku | Zmodyfikowano |
+| 4/9/2019 | [Odmowa dostępu do witryny programu Project Web App](/AlchemyInsights/access-denied-to-a-project-online-site) | dodane |
+| 4/9/2019 | [Usługa Project Online jest w stanie tylko do odczytu](/AlchemyInsights/project-online-is-in-a-read-only-state) | dodane |
+| 4/9/2019 | [Program Project Web App nie ma zbioru witryn programu SharePoint](/AlchemyInsights/project-web-app-missing-from-site-collection) | dodane |
+| 4/12/2019 | [1048 5.7.750 usługa jest niedostępna. Klient zablokowaną możliwość wysyłania z niezarejestrowanych domen](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | Zmodyfikowano |
+| 4/12/2019 | [713 Dodawanie dodatkowy adres e-mail do listy dystrybucyjnej](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | Zmodyfikowano |
+| 4/12/2019 | [718 Dodawanie kontaktów zewnętrznych / osób spoza organizacji do listy dystrybucyjnej](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | Zmodyfikowano |
+| 4/12/2019 | [714 zezwalanie nadawców zewnętrznych do listy dystrybucyjne poczty e-mail](/AlchemyInsights/allowing-external-senders-to-email-distribution-lists) | Zmodyfikowano |
+| 4/12/2019 | [717 udzielanie użytkownikom uprawnień do wysyłania wiadomości e-mail jako listy dystrybucyjnej](/AlchemyInsights/allowing-users-to-send-email-as-a-distribution-list) | Zmodyfikowano |
+| 4/12/2019 | [Ochrona antyspamowa 4.5.3 1049 jest zbyt wielu adresatów (AS780090)](/AlchemyInsights/antispam-4-5-3-too-many-recipients-as780090) | Zmodyfikowano |
+| 4/12/2019 | [Ochrona antyspamowa 1051 4.7.500, których odmowa dostępu, spróbuj ponownie później](/AlchemyInsights/antispam-4-7-500-access-denied-please-try-again-later) | Zmodyfikowano |
+| 4/12/2019 | [Serwer ochrony przed wirusami 4.7.500 1050 jest zajęty. Spróbuj ponownie później z [XXX.XXX.XXX.XXX]](/AlchemyInsights/antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | Zmodyfikowano |
+| 4/12/2019 | [Ochrona antyspamowa 1047 550 5.7.708 usługa jest niedostępna. Odmowa dostępu, ruch nie jest akceptowane z tego adresu IP](/AlchemyInsights/antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | Zmodyfikowano |
+| 4/12/2019 | [500 haseł aplikacji](/AlchemyInsights/app-passwords) | Zmodyfikowano |
+| 4/12/2019 | [Blokowanie 726 przekazywanie wiadomości e-mail](/AlchemyInsights/blocking-email-forwarding) | Zmodyfikowano |
+| 4/12/2019 | [763 blokowanie Exchange Online PowerShell dostępu dla użytkowników](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | Zmodyfikowano |
+| 4/12/2019 | [608 informacje kalendarza na hybrydowy ustawień](/AlchemyInsights/calendar-information-on-hybrid-setups) | Zmodyfikowano |
+| 4/12/2019 | [Kalendarz 613 publikowanie informacji](/AlchemyInsights/calendar-publishing-information) | Zmodyfikowano |
+| 4/12/2019 | [618 zasady udostępniania kalendarza](/AlchemyInsights/calendar-sharing-policy) | Zmodyfikowano |
+| 4/12/2019 | [398 kalendarz - Rezerwacja](/AlchemyInsights/calendarbooking) | Zmodyfikowano |
+| 4/12/2019 | [Kalendarz 399 - delegata](/AlchemyInsights/calendardelegate) | Zmodyfikowano |
+| 4/12/2019 | [Kalendarz 400 - FreeBusy](/AlchemyInsights/calendarfreebusy) | Zmodyfikowano |
+| 4/12/2019 | [Kalendarz 402 - O365Groups](/AlchemyInsights/calendaro365groups) | Zmodyfikowano |
+| 4/12/2019 | [Kalendarz 1081 - wyłapywanie RBA](/AlchemyInsights/calendarrba-catchall) | Zmodyfikowano |
+| 4/12/2019 | [912 Konfiguruj priorytetowa Skrzynka odbiorcza dla wszystkich użytkowników w organizacji](/AlchemyInsights/configure-focused-inbox-for-everyone-in-your-organization) | Zmodyfikowano |
+| 4/12/2019 | [761 łączenie się z programem Exchange Online PowerShell po włączeniu MFA](/AlchemyInsights/connecting-to-exchange-online-powershell-when-mfa-is-enabled) | Zmodyfikowano |
+| 4/12/2019 | [760 połączenie z usługą Exchange Online programu PowerShell](/AlchemyInsights/connecting-to-exchange-online-powershell) | Zmodyfikowano |
+| 4/12/2019 | [712 konwersji listy dystrybucyjnej z grupą usługi Office 365](/AlchemyInsights/converting-a-distribution-list-to-an-office-365-group) | Zmodyfikowano |
+| 4/12/2019 | [Tworzenie listy dystrybucyjnej lub grupy 711](/AlchemyInsights/creating-a-distribution-list-or-group) | Zmodyfikowano |
+| 4/12/2019 | [744 tworzenie użytkowników, gdy organizacja jest w trybie hybrydowy](/AlchemyInsights/creating-users-when-organization-is-in-hybrid-mode) | Zmodyfikowano |
+| 4/12/2019 | [743 użytkownikom tworzenie bez licencji](/AlchemyInsights/creating-users-without-a-license) | Zmodyfikowano |
+| 4/12/2019 | [1065 oczekiwany podniesienie uprawnień wychodzących rangesMC146155 adres IP](/AlchemyInsights/deprecation-of-eop-outbound-ip-address-ranges-mc146155) | Zmodyfikowano |
+| 4/12/2019 | [Korygowanie zduplikowany obiekt 1314](/AlchemyInsights/duplicate-object-remediation) | Zmodyfikowano |
+| 4/12/2019 | [934 kont Włącz POP i IMAP](/AlchemyInsights/enable-pop-and-imap-accounts) | Zmodyfikowano |
+| 4/12/2019 | [Kod błędu 5.7.501 550, który odmowa dostępu, wykrył spamu](/AlchemyInsights/error-code-550-5-7-501-access-denied-spam-abuse-detected) | Zmodyfikowano |
+| 4/12/2019 | [Kod błędu 550 5.7.705 odmowa dostępu, dzierżawcy przekroczył próg](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | Zmodyfikowano |
+| 4/12/2019 | [126 coraz skrzynki pocztowej nie można odnaleźć błędu w programie OWA?](/AlchemyInsights/getting-a-mailbox-cannot-be-found-error-in-owa) | Zmodyfikowano |
+| 4/12/2019 | [127 pojawia się błąd TenantAccessBlockedException podczas uzyskiwania dostępu do poczty e-mail?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | Zmodyfikowano |
+| 4/12/2019 | [646 jak skonfigurować AADConnect](/AlchemyInsights/how-to-configure-aadconnect) | Zmodyfikowano |
+| 4/12/2019 | [955 jak skonfigurować MFA](/AlchemyInsights/how-to-configure-mfa) | Zmodyfikowano |
+| 4/12/2019 | [614 sposobu tworzenia i zarządzania skrzynkami pocztowymi pokój](/AlchemyInsights/how-to-create-and-manage-room-mailboxes) | Zmodyfikowano |
+| 4/12/2019 | [Hybrydowe 401 - FreeBusy](/AlchemyInsights/hybridfreebusy) | Zmodyfikowano |
+| 4/12/2019 | [929 reguł skrzynki odbiorczej do reguł deflectTransport](/AlchemyInsights/inbox-rules-to-deflecttransport-rules) | Zmodyfikowano |
+| 4/12/2019 | [922 reguł skrzynki odbiorczej](/AlchemyInsights/inbox-rules) | Zmodyfikowano |
+| 4/12/2019 | [Zwiększ EWS ograniczenie migracja poczty](/AlchemyInsights/increase-ews-throttling-for-mail-migration) | dodane |
+| 4/12/2019 | [IP 1264 zablokowane dla wysyła za dużo spamu (550 5.7.51)](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | Zmodyfikowano |
+| 4/12/2019 | [322 problemy, gdy użytkownik ma problemy z wysłaniem](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | Zmodyfikowano |
+| 4/12/2019 | [321 problemy, gdy użytkownik nie są odbierane wiadomości e-mail](/AlchemyInsights/issues-when-a-user-isn-t-receiving-email) | Zmodyfikowano |
+| 4/12/2019 | [323 problemy z opóźnieniami w wiadomości e-mail](/AlchemyInsights/issues-with-delays-in-email) | Zmodyfikowano |
+| 4/12/2019 | [324 problemy z email(s) zamiar niewłaociwego miejsca docelowego.](/AlchemyInsights/issues-with-email-s-going-to-the-wrong-destination) | Zmodyfikowano |
+| 4/12/2019 | [898 Dowiedz się więcej o opcji udostępniania zewnętrznych kalendarza](/AlchemyInsights/learn-about-external-calendar-sharing-options) | Zmodyfikowano |
+| 4/12/2019 | [617 Dowiedz się więcej o opcji udostępniania zewnętrznych](/AlchemyInsights/learn-about-external-sharing-options) | Zmodyfikowano |
+| 4/12/2019 | [610 więcej informacji na temat grupy Office 365](/AlchemyInsights/learn-about-office-365-groups) | Zmodyfikowano |
+| 4/12/2019 | [612 Dowiedz się, jak o kalendarze i folderów publicznych](/AlchemyInsights/learn-how-about-calendars-and-public-folders) | Zmodyfikowano |
+| 4/12/2019 | [603 Dowiedz się, jak dostosować ustawienia planu](/AlchemyInsights/learn-how-to-adjust-agenda-settings) | Zmodyfikowano |
+| 4/12/2019 | [723 dokonywanie alias e-mail podstawowy adres e-mail użytkownika](/AlchemyInsights/making-an-email-alias-a-primary-email-for-the-user) | Zmodyfikowano |
+| 4/12/2019 | [Aplikacja 597 rezerwacje firmy Microsoft](/AlchemyInsights/microsoft-bookings-app) | Zmodyfikowano |
+| 4/12/2019 | [973 reguły migracji StalledDueTo *](/AlchemyInsights/migration-stalleddueto-rule) | Zmodyfikowano |
+| 4/12/2019 | [1581 Otwieranie i używanie udostępnionej skrzynki pocztowej w aplikacji Outlook w sieci Web](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | Zmodyfikowano |
+| 4/12/2019 | [423 Zabezpieczenia organizacji — naruszenie konta e-mail](/AlchemyInsights/org-securityemailaccountcompromised) | Zmodyfikowano |
+| 4/12/2019 | [424 Org zabezpieczeń - fałszywie pozytywnych wiadomości-śmieci](/AlchemyInsights/org-securityspam-false-positive) | Zmodyfikowano |
+| 4/12/2019 | [1332 OWA - reguł skrzynki odbiorczej są nie może być wykonane dla skrzynki pocztowej](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | Zmodyfikowano |
+| 4/12/2019 | [Ewa do diagnozowania Uruchom 182 &amp; rozwiązać problemy z uwierzytelnianiem programu Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | Zmodyfikowano |
+| 4/12/2019 | [Błąd zasad 412 podczas udostępniania kalendarza](/AlchemyInsights/policy-error-when-sharing-calendar) | Zmodyfikowano |
+| 4/12/2019 | [408 RBA](/AlchemyInsights/rba) | Zmodyfikowano |
+| 4/12/2019 | [1336 RecoverableItems folder jest pełny](/AlchemyInsights/recoverableitems-folder-is-full) | Zmodyfikowano |
+| 4/12/2019 | [1374 rozwiązać dwa poradniki skrzynek pocztowych](/AlchemyInsights/resolve-two-mailboxes-howto) | Zmodyfikowano |
+| 4/12/2019 | [924 ograniczenia reguły](/AlchemyInsights/rule-limits) | Zmodyfikowano |
+| 4/12/2019 | [Aktualizacja 414 wyników wyszukiwania](/AlchemyInsights/search-experience-updated) | Zmodyfikowano |
+| 4/12/2019 | [902 (błędy synchronizacji z powodu zduplikowane obiekty)](/AlchemyInsights/sync-errors-due-to-duplicate-objects) | Zmodyfikowano |
+| 4/12/2019 | [Próbne dzierżawcy usługi Office 365 zablokowane przez Spamhaus](/AlchemyInsights/trial-office-365-tenant-blocked-by-spamhaus) | Zmodyfikowano |
+| 4/12/2019 | [911 wyłączenie koncentruje się Skrzynka odbiorcza w kliencie](/AlchemyInsights/turning-off-focused-inbox-in-the-client) | Zmodyfikowano |
+| 4/12/2019 | [615 Typy udostępniania i sposoby ich konfigurowania](/AlchemyInsights/types-of-sharing-and-how-to-set-them-up) | Zmodyfikowano |
+| 4/12/2019 | [Opis 413 agendy poczty](/AlchemyInsights/understanding-agenda-mail) | Zmodyfikowano |
+| 4/12/2019 | [932 AADConnect uaktualniania](/AlchemyInsights/upgrading-aadconnect) | Zmodyfikowano |
+| 4/12/2019 | [725 Using alias e-mail na urządzeniu przenośnym](/AlchemyInsights/using-email-alias-on-mobile-device) | Zmodyfikowano |
+| 4/12/2019 | [Błąd warstwy Winsock 1554 10061](/AlchemyInsights/winsock-error-10061) | Zmodyfikowano |
