@@ -1,5 +1,5 @@
 ---
-title: Jak dodać karty kredytowej?
+title: Jak dodać kartę kredytową?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: ffc0d6b0c23857180517e19e2ee2b05375c4c366
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: e7d9941af1379a3b0025835ed5c378ad1d5b3cbc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404613"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762866"
 ---
-# <a name="how-do-i-add-a-credit-card"></a>Jak dodać karty kredytowej?
+# <a name="how-do-i-add-a-credit-card"></a>Jak dodać kartę kredytową?
 
-1. W centrum administracyjnym przejdź do strony [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia** \> **Subskrypcje**.
+1. W Centrum administracyjnym przejdź do strony [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia** \> **Subskrypcje**.
     
-2. Wybierz subskrypcję, którą chcesz zapłacić za pomocą nowej karty kredytowej lub konta bankowego, a następnie wybierz **Szczegóły płatności aktualizacji**.
+2. Wybierz subskrypcję, którą chcesz opłacać za pomocą nowej karty kredytowej lub konta bankowego, a następnie wybierz pozycję **Aktualizuj szczegóły płatności**.
     
-3. Wybierz z listy rozwijanej strzałki w obszarze **Dodaj lub wybierz metodę płatności**, a następnie wybierz **nową kartę kredytową** lub **nowe konto bankowe**.
+3. Wybierz strzałkę listy rozwijanej w obszarze **Dodaj lub wybierz metodę płatności**, a następnie wybierz pozycję **Nowa karta kredytowa** lub **Nowe konto bankowe**.
     
-4. Wprowadź informacje o nowej karty kredytowej lub konta bankowego, a następnie wybierz polecenie Prześlij.
+4. Wprowadź informacje dla nowej karty kredytowej lub konta bankowego, a następnie wybierz pozycję Prześlij.
     
 
