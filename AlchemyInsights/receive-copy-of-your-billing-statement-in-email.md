@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
 ms.openlocfilehash: fa366278bf6d41f08eea1a77817c902a945c5a3b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918010"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388257"
 ---
 # <a name="receive-copy-of-your-billing-statement-in-email"></a>Otrzymasz kopię Twoim miesięcznym zestawieniu rozliczeniowym w wiadomości e-mail
 Jeśli chcesz, możesz otrzymywać kopie zestawień rozliczeniowych jako załącznik wiadomości e-mail. Jeśli wybierzesz tę opcję, pamiętaj o następujących kwestiach:
@@ -30,6 +30,6 @@ Aby otrzymać Twoim miesięcznym zestawieniu rozliczeniowym w wiadomości e-mail
     
     Jeśli korzystasz z usługi Office 365 Germany, przejdź do strony [Powiadomienia o rozliczeniach](https://go.microsoft.com/fwlink/p/?linkid=853213). 
     
-2. Pod **Czy chcesz otrzymywać wyciągu jako załącznik wiadomości e-mail?**, ustaw przełącznik na **On**. Możesz zrezygnować z otrzymywania e-maile zestawienie rozliczeniowe w każdej chwili przez przełączenie przełącznika **off**.
+2. W obszarze **Czy chcesz odbierać zestawienie rozliczeniowe jako załącznik wiadomości e-mail?** ustaw przełącznik w pozycji **Włączone**. W dowolnym momencie możesz zrezygnować z otrzymywania wiadomości e-mail z zestawieniem rozliczeniowym, ustawiając przełącznik w pozycji **Wyłączone**.
     
 
