@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.openlocfilehash: 628115092db868a22e173b5b3b9a1cea852683cd
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759052"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388007"
 ---
 # <a name="reactivate-a-subscription"></a>Ponownie uaktywnić subskrypcję
 
 Jeoli subskrypcja wygaonie, została wyłączona przez firmę Microsoft, lub anulowano w połowie okresu subskrypcji, można ponownie uaktywnić go w Centrum administracyjnym usługi Microsoft 365.
   
-1. W centrum administracyjnym przejdź do strony [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia** \> **Subskrypcje**.
+1. W Centrum administracyjnym przejdź do strony [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia** \> **Subskrypcje**.
     
 2. Wybierz subskrypcję, którą chcesz ponownie uaktywnić, a następnie wybierz **ponownie uaktywnić**.
     
