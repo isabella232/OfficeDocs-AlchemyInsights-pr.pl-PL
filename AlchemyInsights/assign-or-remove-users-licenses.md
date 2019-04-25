@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
 ms.openlocfilehash: 13c2d59b244a98f5d72ca889ea392f1b6b80e384
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760384"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397090"
 ---
-# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="75c69-102">Przypisywanie lub usuwanie licencji użytkowników</span><span class="sxs-lookup"><span data-stu-id="75c69-102">Assign or remove users' licenses</span></span>
+# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="66d63-102">Przypisywanie lub usuwanie licencji użytkowników</span><span class="sxs-lookup"><span data-stu-id="66d63-102">Assign or remove users' licenses</span></span>
 
-<span data-ttu-id="75c69-103">Jako administrator w razie potrzeby można dostosować licencji użytkowników.</span><span class="sxs-lookup"><span data-stu-id="75c69-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="75c69-104">W poniższych artykułach Pokaż jak zarządzać licencji użytkowników, w tym:</span><span class="sxs-lookup"><span data-stu-id="75c69-104">The articles below will show you how to manage your users' licenses, including:</span></span>
+<span data-ttu-id="66d63-103">Jako administrator w razie potrzeby można dostosować licencji użytkowników.</span><span class="sxs-lookup"><span data-stu-id="66d63-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="66d63-104">W poniższych artykułach Pokaż jak zarządzać licencji użytkowników, w tym:</span><span class="sxs-lookup"><span data-stu-id="66d63-104">The articles below will show you how to manage your users' licenses, including:</span></span>
   
-- [<span data-ttu-id="75c69-105">Przypisywanie licencji użytkownikom w usłudze Office 365 dla firm</span><span class="sxs-lookup"><span data-stu-id="75c69-105">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+- [<span data-ttu-id="66d63-105">Przypisywanie licencji użytkownikom w usłudze Office 365 dla firm</span><span class="sxs-lookup"><span data-stu-id="66d63-105">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [<span data-ttu-id="75c69-106">Usuwanie licencji użytkowników w usłudze Office 365 dla firm</span><span class="sxs-lookup"><span data-stu-id="75c69-106">Remove licenses from users in Office 365 for business</span></span>](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1)
+- [<span data-ttu-id="66d63-106">Usuwanie licencji użytkowników w usłudze Office 365 dla firm</span><span class="sxs-lookup"><span data-stu-id="66d63-106">Remove licenses from users in Office 365 for business</span></span>](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1)
     
-<span data-ttu-id="75c69-107">Nie odpowie na pytanie?</span><span class="sxs-lookup"><span data-stu-id="75c69-107">Didn't answer your question?</span></span> <span data-ttu-id="75c69-108">Nie ma sprawy!</span><span class="sxs-lookup"><span data-stu-id="75c69-108">No problem!</span></span> <span data-ttu-id="75c69-109">Opcja "Daj nam Ciebie zadzwonić" aby porozmawiać z pracownikiem pomocy technicznej.</span><span class="sxs-lookup"><span data-stu-id="75c69-109">Use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="66d63-107">Nie odpowie na pytanie?</span><span class="sxs-lookup"><span data-stu-id="66d63-107">Didn't answer your question?</span></span> <span data-ttu-id="66d63-108">Nie ma sprawy!</span><span class="sxs-lookup"><span data-stu-id="66d63-108">No problem!</span></span> <span data-ttu-id="66d63-109">Opcja "Daj nam Ciebie zadzwonić" aby porozmawiać z pracownikiem pomocy technicznej.</span><span class="sxs-lookup"><span data-stu-id="66d63-109">Use the "Let us call you" option to talk to a support engineer.</span></span>
   
 

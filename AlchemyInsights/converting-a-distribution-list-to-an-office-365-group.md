@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom: 712
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
 ms.openlocfilehash: da51e192b2cbda01ebf3c930286a033748680fc4
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31856774"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407742"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="c2f7a-102">Konwertuj grupy dystrybucyjnej na grupę Office 365</span><span class="sxs-lookup"><span data-stu-id="c2f7a-102">Convert a distribution group to an Office 365 Group</span></span>
+# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="4b0d5-102">Konwertuj grupy dystrybucyjnej na grupę Office 365</span><span class="sxs-lookup"><span data-stu-id="4b0d5-102">Convert a distribution group to an Office 365 Group</span></span>
 
-<span data-ttu-id="c2f7a-103">Grup dystrybucyjnych można przekonwertować grupy usługi Office 365, jeśli spełniają określone kryteria.</span><span class="sxs-lookup"><span data-stu-id="c2f7a-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="c2f7a-104">Aby przekonwertować grupę lub rozwiązać problemy przy konwersji, zobacz [uaktualnienie listy dystrybucyjne do grupy usługi Office 365 w programie Outlook](https://support.office.com/article/787D7A75-E201-46F3-A242-F698162FF09F).</span><span class="sxs-lookup"><span data-stu-id="c2f7a-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://support.office.com/article/787D7A75-E201-46F3-A242-F698162FF09F).</span></span>
+<span data-ttu-id="4b0d5-103">Grup dystrybucyjnych można przekonwertować grupy usługi Office 365, jeśli spełniają określone kryteria.</span><span class="sxs-lookup"><span data-stu-id="4b0d5-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="4b0d5-104">Aby przekonwertować grupę lub rozwiązać problemy przy konwersji, zobacz [uaktualnienie listy dystrybucyjne do grupy usługi Office 365 w programie Outlook](https://support.office.com/article/787D7A75-E201-46F3-A242-F698162FF09F).</span><span class="sxs-lookup"><span data-stu-id="4b0d5-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://support.office.com/article/787D7A75-E201-46F3-A242-F698162FF09F).</span></span>
