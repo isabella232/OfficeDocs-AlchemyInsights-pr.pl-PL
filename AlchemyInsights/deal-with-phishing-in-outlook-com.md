@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000029
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
 ms.openlocfilehash: f42e001ce889b28651c2d1cd70306bdcfa46fd83
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773781"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406394"
 ---
 # <a name="deal-with-phishing-scams-in-your-inbox"></a>Radzić sobie z phishingiem w skrzynce odbiorczej
 
@@ -28,10 +28,10 @@ Jeśli otrzymasz wiadomość e-mail, która wygląda na phishing, możesz to zg�
     
 3. U góry strony wybierz strzałkę obok **niebędące śmieciami** , a następnie wybierz **witryn wyłudzających informacje**. 
     
-Dowiedz się więcej o tym, jak radzić sobie [z nadużycia, phishing lub fałszowanie zawartości](https://go.microsoft.com/fwlink/p/?linkid=873139).
+Dowiedz się więcej na temat [sposobów walki z nadużyciami, wyłudzaniem informacji i spoofingiem](https://go.microsoft.com/fwlink/p/?linkid=873139).
   
-Jeśli widzisz wzrost spamu, przeczytaj porady [pomagają chronić wiadomości-śmieci i wiadomości e-mail ze skrzynki odbiorczej](https://go.microsoft.com/fwlink/p/?linkid=873140).
+Jeśli widzisz wzrost otrzymywanej ilości spamu, dowiedz się, jak [chronić skrzynkę odbiorczą przed spamem i wiadomościami-śmieciami](https://go.microsoft.com/fwlink/p/?linkid=873140).
   
-Blokowanie adresów e-mail, przejdź do **ustawień** \> **Opcje** \> **zablokowanych nadawców**. Aby dodać adresy lub domeny do listy bezpiecznych nadawców, zaznacz **bezpiecznych nadawców**. 
+Aby zablokować adresy e-mail, przejdź do pozycji **Ustawienia** \> **Opcje** \> **Zablokowani nadawcy**. Aby dodać adresy lub domeny do listy bezpiecznych nadawców, wybierz pozycję **Bezpieczni nadawcy**. 
   
 

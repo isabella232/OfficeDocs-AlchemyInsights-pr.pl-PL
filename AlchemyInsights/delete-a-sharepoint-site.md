@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
 ms.openlocfilehash: 708365cefa79c9bc0268897ac34d980306a846c2
-ms.sourcegitcommit: 74e18e743273d5e759e8f00bd8fb16c471d42b40
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "30935611"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405634"
 ---
 # <a name="delete-a-sharepoint-site"></a>Usuwanie witryny programu SharePoint
 **Usuwanie witryny z Centrum administracyjnego programu SharePoint** Za pomocą Centrum administracyjnego programu SharePoint, można usunąć zarówno klasycznych i nowoczesnych witryn. Wybierz **miejsc aktywnych**, wybierz witrynę i wybierz polecenie **Usuń**. Do [widoku i przywróć usunięte witryny w Centrum administracyjnego programu SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)wybierz **usunąć witryny**. Aby uzyskać więcej informacji zobacz [Usuwanie witryny w Centrum administracyjnego programu SharePoint](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
