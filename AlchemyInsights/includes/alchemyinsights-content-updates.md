@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Tydzień 11 marca 2019
-
-
-| Opublikowano: |Tytuł tematu | Zmiana |
-|------|------------|--------|
-| 3/12/2019 | 8000054 odbiorczej Hotmail nie ładuje się | dodane |
-| 3/12/2019 | [8000078 odbiorczej Hotmail nie ładuje się](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | zmieniono jego nazwę |
-| 3/12/2019 | [8000078 odbiorczej Hotmail nie ładuje się](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | Zmodyfikowano |
-| 3/13/2019 | [Przekazywanie wiadomości e-mail przez usługę Office 365](/AlchemyInsights/relay-email-through-office-365) | Zmodyfikowano |
-| 3/14/2019 | [tak samo jak najlepiej nazwa_pliku [reguła #-opis]](/AlchemyInsights/1-alchemy-insight-template) | Zmodyfikowano |
-| 3/14/2019 | [Zwiększenie rozmiaru skrzynki pocztowej](/AlchemyInsights/increase-mailbox-size) | Zmodyfikowano |
-| 3/15/2019 | [Odwołanie w programie Outlook pulpitu lub zamienianie wiadomości e-mail](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | dodane |
-
-
 ## <a name="week-of-march-18-2019"></a>Tydzień 18 marca 2019
 
 
@@ -130,7 +116,7 @@
 | 3/22/2019 | [8000002 zmiany hasła w Hotmail](/AlchemyInsights/change-your-password-in-outlook-com) | zmieniono jego nazwę |
 | 3/22/2019 | [8000036 Zmienianie nazwy profilu Hotmail](/AlchemyInsights/change-your-profile-name-in-outlook-com) | zmieniono jego nazwę |
 | 3/22/2019 | [Zmiany do dostępu użytkowników zewnętrznych](/AlchemyInsights/changes-to-external-user-access) | Zmodyfikowano |
-| 3/22/2019 | [8000026 zmiany w Hotmail](/AlchemyInsights/changes-to-outlook-com) | zmieniono jego nazwę |
+| 3/22/2019 | [8000026 Zmiany w usłudze Outlook.com](/AlchemyInsights/changes-to-outlook-com) | zmieniono jego nazwę |
 | 3/22/2019 | [Zmiana uprawnień do folderu publicznego](/AlchemyInsights/changing-public-folder-permissions) | Zmodyfikowano |
 | 3/22/2019 | [Zmiana zachowania Wyślij jako udostępnionej skrzynki pocztowej](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | Zmodyfikowano |
 | 3/22/2019 | [Sprawdź stan synchronizacji tożsamości AAD](/AlchemyInsights/check-aad-identity-sync-status) | Zmodyfikowano |
@@ -219,7 +205,7 @@
 | 3/22/2019 | [Udzielanie użytkownikom dostępu do programu SharePoint i OneDrive](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | Zmodyfikowano |
 | 3/22/2019 | [Pomoc zrozumienie wartości dodanej (VAT)](/AlchemyInsights/help-understanding-value-added-tax-vat) | Zmodyfikowano |
 | 3/22/2019 | [Pomoc na temat rachunku](/AlchemyInsights/help-understanding-your-bill) | Zmodyfikowano |
-| 3/22/2019 | [Jak dodać karty kredytowej?](/AlchemyInsights/how-do-i-add-a-credit-card) | Zmodyfikowano |
+| 3/22/2019 | [Jak dodać kartę kredytową?](/AlchemyInsights/how-do-i-add-a-credit-card) | Zmodyfikowano |
 | 3/22/2019 | [Jak zmienić z płatności kartą kredytową na fakturę?](/AlchemyInsights/how-do-i-change-from-credit-card-payments-to-invoice) | Zmodyfikowano |
 | 3/22/2019 | [Jak usunąć informacje o karcie kredytowej?](/AlchemyInsights/how-do-i-remove-my-credit-card-information) | Zmodyfikowano |
 | 3/22/2019 | [Jak zaktualizować informacje dotyczące karty kredytowej?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | Zmodyfikowano |
@@ -530,3 +516,47 @@
 | 4/12/2019 | [932 AADConnect uaktualniania](/AlchemyInsights/upgrading-aadconnect) | Zmodyfikowano |
 | 4/12/2019 | [725 Using alias e-mail na urządzeniu przenośnym](/AlchemyInsights/using-email-alias-on-mobile-device) | Zmodyfikowano |
 | 4/12/2019 | [Błąd warstwy Winsock 1554 10061](/AlchemyInsights/winsock-error-10061) | Zmodyfikowano |
+
+
+## <a name="week-of-april-15-2019"></a>Tydzień 15 kwietnia 2019
+
+
+| Opublikowano: |Tytuł tematu | Zmiana |
+|------|------------|--------|
+| 4/15/2019 | [Alchemy - do diagnozowania i rozwiązywania problemów z łącznością programu Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | Zmodyfikowano |
+| 4/15/2019 | [Alchemy - Utwórz ponownie swój profil programu Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | Zmodyfikowano |
+| 4/15/2019 | [DLP może być konieczne typu niestandardowego](/AlchemyInsights/dlp-might-need-custom-type) | dodane |
+| 4/15/2019 | [DLP nie działa zgodnie z oczekiwaniami](/AlchemyInsights/dlp-not-working-as-expected) | Zmodyfikowano |
+| 4/15/2019 | [Porady dotyczące zasad DLP nie działa](/AlchemyInsights/dlp-policy-tips-not-working) | Zmodyfikowano |
+| 4/15/2019 | [Błąd Hotmail 550](/AlchemyInsights/outlook-com-error-550) | dodane |
+| 4/15/2019 | [Hotmail Przekroczono przydział](/AlchemyInsights/outlook-com-over-quota) | dodane |
+| 4/15/2019 | [Usuń Hotmail Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | dodane |
+| 4/15/2019 | [Usuń Hotmail Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | dodane |
+| 4/15/2019 | [Ewa do diagnozowania Uruchom 182 &amp; rozwiązać problemy z uwierzytelnianiem programu Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | Zmodyfikowano |
+| 4/16/2019 | [9000233 Hotmail PIN](/AlchemyInsights/outlook-com-pin) | Zmodyfikowano |
+| 4/16/2019 | [Usuń Hotmail Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | Zmodyfikowano |
+| 4/16/2019 | [8000088, Zapisz wiadomość e-mail w Hotmail](/AlchemyInsights/outlook-com-save-emails) | Zmodyfikowano |
+| 4/16/2019 | [8000052 dołączanie plików w Hotmail](/AlchemyInsights/attach-files-in-outlook-com) | Zmodyfikowano |
+| 4/16/2019 | [8000015 blokowanie lub odblokowywanie nadawców](/AlchemyInsights/block-or-unblock-senders) | Zmodyfikowano |
+| 4/16/2019 | [8000014 jak zmienić język w Hotmail](/AlchemyInsights/how-to-change-language-in-outlook-com) | Zmodyfikowano |
+| 4/16/2019 | [8000059 jak zmienić układ](/AlchemyInsights/how-to-change-your-layout) | Zmodyfikowano |
+| 4/16/2019 | [8000033 jak odpowiadać na lub przekazywania wiadomości w wersji beta Hotmail](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | Zmodyfikowano |
+| 4/16/2019 | [8000055 jak do logowania się do lub z Hotmail](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | Zmodyfikowano |
+| 4/16/2019 | [8000062 przenoszenie folderu w Hotmail](/AlchemyInsights/moving-a-folder-in-outlook-com) | Zmodyfikowano |
+| 4/16/2019 | [Automatyczne stosowanie etykiet czułości](/AlchemyInsights/auto-apply-sensitivity-labels) | dodane |
+| 4/16/2019 | [Czułość etykiety nie pojawia się](/AlchemyInsights/sensitivity-labels-not-appearing) | dodane |
+| 4/16/2019 | [Nowe etykiety retencji tworzone automatycznie](/AlchemyInsights/new-retention-labels-created-automatically) | dodane |
+| 4/16/2019 | [Dzienniki inspekcji OneDrive i SharePoint](/AlchemyInsights/classic-sharepoint-audit-log-reports) | dodane |
+| 4/16/2019 | [Identyfikowanie Usuń wiadomość zdarzeń w dziennikach inspekcji](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | dodane |
+| 4/16/2019 | [Identyfikowanie przekazywanie poczty zewnętrznej skrzynek pocztowych w dziennikach inspekcji](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | dodane |
+| 4/16/2019 | [Określenie działania reguł skrzynki odbiorczej w dziennikach inspekcji](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | dodane |
+| 4/16/2019 | [Określenie adresu IP i klienta w dziennikach inspekcji](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | dodane |
+| 4/16/2019 | [Naprawa pliku pst przed importowaniem](/AlchemyInsights/repair-pst-before-importing) | dodane |
+| 4/16/2019 | [Klasyczny raporty dziennika inspekcji programu SharePoint](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | dodane |
+| 4/16/2019 | [Klasyczny raporty dziennika inspekcji programu SharePoint](/AlchemyInsights/classic-sharepoint-audit-log-reports) | Zmodyfikowano |
+| 4/16/2019 | [Identyfikowanie przekazywanie poczty zewnętrznej skrzynek pocztowych w dziennikach inspekcji](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | Zmodyfikowano |
+| 4/16/2019 | [Określenie działania reguł skrzynki odbiorczej w dziennikach inspekcji](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | Zmodyfikowano |
+| 4/16/2019 | [Klasyczny raporty dziennika inspekcji programu SharePoint](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | Zmodyfikowano |
+| 4/17/2019 | [Rozwiąż problemy z dostarczaniem wiadomości e-mail do folderów publicznych z włączoną obsługą poczty e-mail](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | dodane |
+| 4/17/2019 | [Zespoły przesunięcia](/AlchemyInsights/teams-shifts) | Zmodyfikowano |
+| 4/18/2019 | [8000011 odzyskiwanie usuniętych wiadomości e-mail w Hotmail](/AlchemyInsights/recover-deleted-email-in-outlook-com) | Zmodyfikowano |
