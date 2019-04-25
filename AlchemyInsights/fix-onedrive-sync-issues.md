@@ -1,5 +1,5 @@
 ---
-title: Naprawianie problemów z synchronizacją w usłudze OneDrive
+title: Naprawianie problemów z synchronizacją OneDrive
 ms.author: matteva
 author: pebaum
 ms.date: 6/29/2018
@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aaa8b266-5cd6-4aea-86c1-b54e062dd2bc
 ms.openlocfilehash: 0c2d1b71e9a6b9376d0315965af80651cc99e9fb
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29969327"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401266"
 ---
-# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="f07c4-102">Rozwiązywanie problemów z synchronizacją usługi OneDrive</span><span class="sxs-lookup"><span data-stu-id="f07c4-102">Fix OneDrive sync problems</span></span>
+# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="b7571-102">Rozwiązywanie problemów z synchronizacją usługi OneDrive</span><span class="sxs-lookup"><span data-stu-id="b7571-102">Fix OneDrive sync problems</span></span>
 
-<span data-ttu-id="f07c4-103">Jeśli OneDrive nie synchronizuje pliki tak, jak powinien, możesz [OneDrive Rozwiązywanie problemów z synchronizacją](https://go.microsoft.com/fwlink/?linkid=866431).</span><span class="sxs-lookup"><span data-stu-id="f07c4-103">If OneDrive isn't syncing files the way you expect, you can [troubleshoot OneDrive sync issues](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
+<span data-ttu-id="b7571-103">Jeśli OneDrive nie synchronizuje pliki tak, jak powinien, możesz [OneDrive Rozwiązywanie problemów z synchronizacją](https://go.microsoft.com/fwlink/?linkid=866431).</span><span class="sxs-lookup"><span data-stu-id="b7571-103">If OneDrive isn't syncing files the way you expect, you can [troubleshoot OneDrive sync issues](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
   
 
