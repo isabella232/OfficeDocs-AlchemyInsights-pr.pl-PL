@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.assetid: d55c9095-317d-4283-860d-a82032f5e9f6
 description: Jeśli nadal masz problemy z zalogowaniem do Skype dla firm, można rozwiązać z obsługą i Asystenta (Ewa). To narzędzie pozwala automatycznie zdiagnozować i naprawić zakresu znanych problemów dotyczących logowania programu Skype dla firm.
 ms.openlocfilehash: a081cc87071e678eb70531249da84c1fc0443717
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905374"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372678"
 ---
 Jeśli nadal masz problemy z zalogowaniem do Skype dla firm, można rozwiązać z obsługą i Asystenta (Ewa). To narzędzie pozwala automatycznie zdiagnozować i naprawić zakresu znanych problemów dotyczących logowania programu Skype dla firm.
   
