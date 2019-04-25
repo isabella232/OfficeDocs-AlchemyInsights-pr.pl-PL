@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
 ms.openlocfilehash: bf6bfc5f24ebcb1c2ec60de32eb12812a1044020
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30765926"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369760"
 ---
-# <a name="error-code-30174-4-when-installing-office"></a><span data-ttu-id="98e34-102">Kod błędu 30174-4, podczas instalowania pakietu Office</span><span class="sxs-lookup"><span data-stu-id="98e34-102">Error code 30174-4 when installing Office</span></span>
+# <a name="error-code-30174-4-when-installing-office"></a><span data-ttu-id="e5af4-102">Kod błędu 30174-4, podczas instalowania pakietu Office</span><span class="sxs-lookup"><span data-stu-id="e5af4-102">Error code 30174-4 when installing Office</span></span>
 
-<span data-ttu-id="98e34-103">Ten błąd może wystąpić, jeśli program antywirusowy, zapora, ustawienia serwera proxy lub połączenie uniemożliwiają instalację pakietu Office.</span><span class="sxs-lookup"><span data-stu-id="98e34-103">You might see this error if your anti-virus software, firewall, proxy settings, or connection prevent you from installing Office.</span></span> <span data-ttu-id="98e34-104">Oto kilka rzeczy, możesz spróbować rozwiązać problem.</span><span class="sxs-lookup"><span data-stu-id="98e34-104">Here are some things you can try to fix the problem.</span></span>
+<span data-ttu-id="e5af4-103">Ten błąd może wystąpić, jeśli program antywirusowy, zapora, ustawienia serwera proxy lub połączenie uniemożliwiają instalację pakietu Office.</span><span class="sxs-lookup"><span data-stu-id="e5af4-103">You might see this error if your anti-virus software, firewall, proxy settings, or connection prevent you from installing Office.</span></span> <span data-ttu-id="e5af4-104">Oto kilka rzeczy, możesz spróbować rozwiązać problem.</span><span class="sxs-lookup"><span data-stu-id="e5af4-104">Here are some things you can try to fix the problem.</span></span>
   
-- <span data-ttu-id="98e34-105">Używając połączenia przewodowego</span><span class="sxs-lookup"><span data-stu-id="98e34-105">Use a wired connection</span></span>
+- <span data-ttu-id="e5af4-105">Używając połączenia przewodowego</span><span class="sxs-lookup"><span data-stu-id="e5af4-105">Use a wired connection</span></span>
     
-- <span data-ttu-id="98e34-106">Tymczasowo wyłącz ustawienia serwera proxy</span><span class="sxs-lookup"><span data-stu-id="98e34-106">Temporarily turn off proxy settings</span></span>
+- <span data-ttu-id="e5af4-106">Tymczasowo wyłącz ustawienia serwera proxy</span><span class="sxs-lookup"><span data-stu-id="e5af4-106">Temporarily turn off proxy settings</span></span>
     
-- <span data-ttu-id="98e34-107">Tymczasowo wyłącz oprogramowanie antywirusowe</span><span class="sxs-lookup"><span data-stu-id="98e34-107">Temporarily turn off antivirus software</span></span>
+- <span data-ttu-id="e5af4-107">Tymczasowo wyłącz oprogramowanie antywirusowe</span><span class="sxs-lookup"><span data-stu-id="e5af4-107">Temporarily turn off antivirus software</span></span>
     
-[<span data-ttu-id="98e34-108">Kod błędu 30174-4, podczas instalowania pakietu Office</span><span class="sxs-lookup"><span data-stu-id="98e34-108">Error code 30174-4 when installing Office</span></span>](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
+[<span data-ttu-id="e5af4-108">Kod błędu 30174-4, podczas instalowania pakietu Office</span><span class="sxs-lookup"><span data-stu-id="e5af4-108">Error code 30174-4 when installing Office</span></span>](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
   
 
