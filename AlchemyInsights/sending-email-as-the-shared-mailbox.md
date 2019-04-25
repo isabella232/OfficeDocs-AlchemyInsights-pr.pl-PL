@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
 ms.openlocfilehash: b8c6a5ba5ab28912ef09a4b17468a917534a54f0
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30752320"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421934"
 ---
-# <a name="sending-email-as-the-shared-mailbox"></a><span data-ttu-id="26d2e-102">Wysyłanie wiadomości e-mail jako udostępnionej skrzynki pocztowej</span><span class="sxs-lookup"><span data-stu-id="26d2e-102">Sending email as the shared mailbox</span></span>
+# <a name="sending-email-as-the-shared-mailbox"></a><span data-ttu-id="ee46c-102">Wysyłanie wiadomości e-mail jako udostępnionej skrzynki pocztowej</span><span class="sxs-lookup"><span data-stu-id="ee46c-102">Sending email as the shared mailbox</span></span>
 
-<span data-ttu-id="26d2e-103">Po utworzeniu udostępnionej skrzynki pocztowej wysyłanie wiadomości e-mail jako tożsamość udostępnionej skrzynki pocztowej (na przykład *info@contoso.com* ) są użytkownicy, którzy są członkami skrzynki pocztowej.</span><span class="sxs-lookup"><span data-stu-id="26d2e-103">Once you have created a shared mailbox, users who are members of the mailbox are able to send email as the shared mailbox identity (for example,  *info@contoso.com*  ).</span></span> <span data-ttu-id="26d2e-104">Aby uzyskać instrukcje, zobacz:</span><span class="sxs-lookup"><span data-stu-id="26d2e-104">For instructions, see:</span></span> 
+<span data-ttu-id="ee46c-103">Po utworzeniu udostępnionej skrzynki pocztowej wysyłanie wiadomości e-mail jako tożsamość udostępnionej skrzynki pocztowej (na przykład *info@contoso.com* ) są użytkownicy, którzy są członkami skrzynki pocztowej.</span><span class="sxs-lookup"><span data-stu-id="ee46c-103">Once you have created a shared mailbox, users who are members of the mailbox are able to send email as the shared mailbox identity (for example,  *info@contoso.com*  ).</span></span> <span data-ttu-id="ee46c-104">Aby uzyskać instrukcje, zobacz:</span><span class="sxs-lookup"><span data-stu-id="ee46c-104">For instructions, see:</span></span> 
   
-[<span data-ttu-id="26d2e-105">Otwieranie i używanie udostępnionej skrzynki pocztowej w programach Outlook 2016 i Outlook 2013</span><span class="sxs-lookup"><span data-stu-id="26d2e-105">Open and use a shared mailbox in Outlook 2016 and Outlook 2013</span></span>](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+[<span data-ttu-id="ee46c-105">Otwieranie i używanie udostępnionej skrzynki pocztowej w programach Outlook 2016 i Outlook 2013</span><span class="sxs-lookup"><span data-stu-id="ee46c-105">Open and use a shared mailbox in Outlook 2016 and Outlook 2013</span></span>](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   
-[<span data-ttu-id="26d2e-106">Dodawanie udostępnionej skrzynki pocztowej do programu Outlook w sieci web</span><span class="sxs-lookup"><span data-stu-id="26d2e-106">Add a shared mailbox to Outlook on the web</span></span>](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+[<span data-ttu-id="ee46c-106">Dodawanie udostępnionej skrzynki pocztowej do programu Outlook w sieci web</span><span class="sxs-lookup"><span data-stu-id="ee46c-106">Add a shared mailbox to Outlook on the web</span></span>](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
   
 

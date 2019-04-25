@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab08e594-ded6-4ad8-a0e1-b365960a4293
 ms.openlocfilehash: c38c3f9156c87ef15cd01abfc77d181978c28887
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762758"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407788"
 ---
-# <a name="convert-a-user-mailbox-to-a-room-or-equipment-mailbox"></a><span data-ttu-id="fe46b-102">Konwertowanie skrzynki pocztowej użytkownika na pomieszczenie lub sprzęt skrzynki pocztowej</span><span class="sxs-lookup"><span data-stu-id="fe46b-102">Convert a user mailbox to a room or equipment mailbox</span></span>
+# <a name="convert-a-user-mailbox-to-a-room-or-equipment-mailbox"></a><span data-ttu-id="245d0-102">Konwertowanie skrzynki pocztowej użytkownika na pomieszczenie lub sprzęt skrzynki pocztowej</span><span class="sxs-lookup"><span data-stu-id="245d0-102">Convert a user mailbox to a room or equipment mailbox</span></span>
 
-<span data-ttu-id="fe46b-103">Skrzynki pocztowe można konwertować z typu jednej skrzynki pocztowej, do innego, ale będziesz musiał wykonywać te zadania za pomocą programu Exchange Online PowerShell.</span><span class="sxs-lookup"><span data-stu-id="fe46b-103">You can also convert a mailbox from one mailbox type to another, but you'll have to perform these tasks using Exchange Online PowerShell.</span></span> <span data-ttu-id="fe46b-104">Szczegółowe informacje, zapoznaj się [przekonwertować skrzynki pocztowej](https://go.microsoft.com/fwlink/p/?LinkId=832875) .</span><span class="sxs-lookup"><span data-stu-id="fe46b-104">Check out [Convert a Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=832875) for more details.</span></span> 
+<span data-ttu-id="245d0-103">Skrzynki pocztowe można konwertować z typu jednej skrzynki pocztowej, do innego, ale będziesz musiał wykonywać te zadania za pomocą programu Exchange Online PowerShell.</span><span class="sxs-lookup"><span data-stu-id="245d0-103">You can also convert a mailbox from one mailbox type to another, but you'll have to perform these tasks using Exchange Online PowerShell.</span></span> <span data-ttu-id="245d0-104">Szczegółowe informacje, zapoznaj się [przekonwertować skrzynki pocztowej](https://go.microsoft.com/fwlink/p/?LinkId=832875) .</span><span class="sxs-lookup"><span data-stu-id="245d0-104">Check out [Convert a Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=832875) for more details.</span></span> 
   
 
