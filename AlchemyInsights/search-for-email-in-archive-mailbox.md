@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
 ms.openlocfilehash: 5ea256a03def0cf07503efc77885dc3ff7a67b66
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915450"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422079"
 ---
 Gdy archiwum skrzynki pocztowej jest włączona, można użyć **zbierania elektronicznych materiałów dowodowych wyszukiwania i eksport** do wykrywania zawartości w podstawowy i archiwum skrzynki pocztowej. O wyszukiwanie zawartości za pomocą **eksportu wyszukiwania zbierania elektronicznych materiałów dowodowych** należy wykonać kroki przedstawione [w tym miejscu](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

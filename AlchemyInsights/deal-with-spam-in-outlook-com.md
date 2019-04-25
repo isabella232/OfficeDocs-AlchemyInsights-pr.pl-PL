@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: 8000029
 ms.assetid: 6b5f15ba-ced9-4215-8c23-3ec1962a283a
 ms.openlocfilehash: fc6e01c94d885a9cec56080864756047a76e5ac3
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30778051"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406358"
 ---
 # <a name="reduce-junk-email-in-your-inbox"></a>Zmniejszenia śmieci w skrzynce odbiorczej
 
-Jeśli widzisz wzrost spamu, przeczytaj porady [pomagają chronić wiadomości-śmieci i wiadomości e-mail ze skrzynki odbiorczej](https://go.microsoft.com/fwlink/p/?linkid=873140).
+Jeśli widzisz wzrost otrzymywanej ilości spamu, dowiedz się, jak [chronić skrzynkę odbiorczą przed spamem i wiadomościami-śmieciami](https://go.microsoft.com/fwlink/p/?linkid=873140).
   
 Jeśli otrzymasz wiadomość e-mail, która wygląda jak spam, możesz to zgłosić, klikając prawym przyciskiem myszy wiadomość i wybierz opcję **Oznacz jako wiadomość-śmieć**. 
   
-Filtry wiadomości-śmieci hotmail poprawa po oznaczeniu wiadomości jako wiadomości-śmieci. Można również zablokować adresów e-mail i domen nie chcesz otrzymywać wiadomości od.
+Skuteczność działania filtrów dla wiadomości-śmieci w usłudze Outlook.com może wzrosnąć po oznaczeniu wiadomości jako wiadomości-śmiecia. Można również zablokować adresów e-mail i domen nie chcesz otrzymywać wiadomości od.
   
-Blokowanie adresów e-mail, przejdź do **ustawień** \> **Opcje** \> **zablokowanych nadawców**. Aby dodać adresy lub domeny do listy bezpiecznych nadawców, zaznacz **bezpiecznych nadawców**. 
+Aby zablokować adresy e-mail, przejdź do pozycji **Ustawienia** \> **Opcje** \> **Zablokowani nadawcy**. Aby dodać adresy lub domeny do listy bezpiecznych nadawców, wybierz pozycję **Bezpieczni nadawcy**. 
   
 

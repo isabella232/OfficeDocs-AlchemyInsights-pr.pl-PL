@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
 ms.openlocfilehash: a5d701f61b0987978c759aa27d8e4f06e4be2b92
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760312"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371452"
 ---
 # <a name="question-about-licenses"></a>Pytanie o licencje
 
 Jeśli chcesz wiedzieć, ile licencji zakupiono lub ile licencji są przypisywane z subskrypcji:
   
-1. W centrum administracyjnym przejdź do strony [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia** \> **Subskrypcje**.
+1. W Centrum administracyjnym przejdź do strony [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia** \> **Subskrypcje**.
     
 2. Wybierz subskrypcję, aby dowiedzieć się więcej.
     
