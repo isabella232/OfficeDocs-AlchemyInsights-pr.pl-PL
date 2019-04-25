@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8e48c645-8df6-4fb5-8da6-f13b0a3bb0cc
 ms.openlocfilehash: 276ae2ea1f610a996a6a2fba3bdaba630823cc08
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928162"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390005"
 ---
-# <a name="office-365-education-for-free"></a><span data-ttu-id="258e5-102">Darmowe edukacji dla usługi Office 365</span><span class="sxs-lookup"><span data-stu-id="258e5-102">Office 365 Education for free</span></span>
+# <a name="office-365-education-for-free"></a><span data-ttu-id="dc8b7-102">Darmowe edukacji dla usługi Office 365</span><span class="sxs-lookup"><span data-stu-id="dc8b7-102">Office 365 Education for free</span></span>
 
-[<span data-ttu-id="258e5-103">Darmowe edukacji dla usługi Office 365</span><span class="sxs-lookup"><span data-stu-id="258e5-103">Office 365 Education for free</span></span>](https://products.office.com/student/office-in-education?ms.officeurl=students)
+[<span data-ttu-id="dc8b7-103">Darmowe edukacji dla usługi Office 365</span><span class="sxs-lookup"><span data-stu-id="dc8b7-103">Office 365 Education for free</span></span>](https://products.office.com/student/office-in-education?ms.officeurl=students)
   
-<span data-ttu-id="258e5-p101">To nie jest wersję próbną! Uczniowie i nauczyciele kwalifikują się do usługi Office 365 Education, który obejmuje programu Word, Excel, PowerPoint, OneNote i teraz Teams Microsoft oraz klasie dodatkowe narzędzia.</span><span class="sxs-lookup"><span data-stu-id="258e5-p101">It's not a trial! Students and teachers are eligible for Office 365 Education, which includes Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools.</span></span>
+<span data-ttu-id="dc8b7-104">To nie jest wersję próbną!</span><span class="sxs-lookup"><span data-stu-id="dc8b7-104">It's not a trial!</span></span> <span data-ttu-id="dc8b7-105">Uczniowie i nauczyciele kwalifikują się do usługi Office 365 Education, który obejmuje programu Word, Excel, PowerPoint, OneNote i teraz Teams Microsoft oraz klasie dodatkowe narzędzia.</span><span class="sxs-lookup"><span data-stu-id="dc8b7-105">Students and teachers are eligible for Office 365 Education, which includes Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools.</span></span>
   
 
