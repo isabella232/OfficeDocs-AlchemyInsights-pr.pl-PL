@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: fb585c2aa6317ef89c939680246506d2c86bbf67
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761607"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396769"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Kupowanie subskrypcji usługi Office 365 z poziomu bezpłatnej wersji próbnej
 
@@ -24,7 +24,7 @@ Po wypróbowaniu usługi Office 365 chcesz dokonać zakupu. Istnieją dwie opcje
   
  **Możesz kupić ten sam plan jako wersję próbną**
   
-1. W centrum administracyjnym przejdź do strony [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia** \> **Subskrypcje**.
+1. W Centrum administracyjnym przejdź do strony [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia** \> **Subskrypcje**.
     
 2. Wybierz opcję **Kup teraz** w przypadku subskrypcji wersji próbnej, która ma i postępuj zgodnie z instrukcjami, aby wyewidencjonować. 
     

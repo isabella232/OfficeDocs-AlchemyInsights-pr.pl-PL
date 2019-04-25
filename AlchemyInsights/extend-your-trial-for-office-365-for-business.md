@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
 ms.openlocfilehash: 82644b45852a77739aa926a272338fc2662677fe
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754336"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401991"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Rozszerzyć wersję próbną pakietu Office 365 dla firm
 
 Jeśli subskrypcji wersji próbnej jest w ciągu 15 dni upływającego i badania klinicznego nie został przedłużony przed, można rozszerzyć na kolejny okres 30-dniowej wersji próbnej. Możesz to zrobić tylko jeden raz.
   
-1. W centrum administracyjnym przejdź do strony [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia** \> **Subskrypcje**.
+1. W Centrum administracyjnym przejdź do strony [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia** \> **Subskrypcje**.
     
 2. Wybierz opcję subskrypcji wersji próbnej, który chcesz rozszerzyć.
     
