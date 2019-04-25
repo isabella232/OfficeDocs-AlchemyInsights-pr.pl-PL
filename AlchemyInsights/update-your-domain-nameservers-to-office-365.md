@@ -9,15 +9,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.openlocfilehash: 724e9f7501826dc238932ec08e8628d077e20e2c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918470"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423661"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>Aktualizowanie serwerów nazw domeny do usługi Office 365
 
-Uwaga: Zmiany nazw czasami może trwać maksymalnie 48 godzin do propagowania.
+Uwaga: Wprowadzenie zmian w serwerach nazw może potrwać nawet do 48 godzin.
   
 Aby skonfigurować domenę w usłudze Office 365, należy zaktualizować serwery nazw u rejestratora. Utwórz rekordy serwera nazw u rejestratora domen lub przeprowadź ich edycję.
   
