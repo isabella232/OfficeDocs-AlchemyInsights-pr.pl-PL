@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
 ms.openlocfilehash: 3f420a0f930ccb227ad6d2b4b88a9726627bbdb7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932338"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372210"
 ---
-# <a name="permissions-issues-while-migrating"></a><span data-ttu-id="179c7-102">Problemy z uprawnieniami podczas przeprowadzania migracji</span><span class="sxs-lookup"><span data-stu-id="179c7-102">Permissions issues while migrating</span></span>
+# <a name="permissions-issues-while-migrating"></a><span data-ttu-id="bfba0-102">Problemy z uprawnieniami podczas przeprowadzania migracji</span><span class="sxs-lookup"><span data-stu-id="bfba0-102">Permissions issues while migrating</span></span>
 
-<span data-ttu-id="179c7-103">Aby uzyskać informacje dotyczące typowych problemów związanych z uprawnieniami podczas migracji do programu SharePoint w trybie Online, zobacz [Opis uprawnień i narzędzia migracji SharePoint.](https://go.microsoft.com/fwlink/?linkid=2019753)</span><span class="sxs-lookup"><span data-stu-id="179c7-103">For information regarding common permission issues during migration to SharePoint Online, see [Understanding Permissions and the SharePoint Migration Tool.](https://go.microsoft.com/fwlink/?linkid=2019753)</span></span>
+<span data-ttu-id="bfba0-103">Aby uzyskać informacje dotyczące typowych problemów związanych z uprawnieniami podczas migracji do programu SharePoint w trybie Online, zobacz [Opis uprawnień i narzędzia migracji SharePoint.](https://go.microsoft.com/fwlink/?linkid=2019753)</span><span class="sxs-lookup"><span data-stu-id="bfba0-103">For information regarding common permission issues during migration to SharePoint Online, see [Understanding Permissions and the SharePoint Migration Tool.](https://go.microsoft.com/fwlink/?linkid=2019753)</span></span>
   
 
