@@ -1,5 +1,5 @@
 ---
-title: Problem za pomocą programu Skype dla firmy?
+title: Występuje problem z programem Skype dla firm?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.openlocfilehash: d19659f203692e4aed2c947c4f8d3348d2286e77
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468457"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409916"
 ---
-# <a name="issue-with-skype-for-business"></a>Problem za pomocą programu Skype dla firmy?
+# <a name="issue-with-skype-for-business"></a>Występuje problem z programem Skype dla firm?
 
-Wykryliśmy, że w następujących domenach mają problemy, które mogą uniemożliwić prawidłowe działanie programu Skype dla firm:
+W następujących domenach wykryliśmy problemy, które mogą powodować nieprawidłowe działanie programu Skype dla firm:
   
 {HealthCheckString}
   
-Rekordy NS, CNAME i SRV ustawień domeny (DNS) nie są poprawnie skonfigurowane dla Skype dla firm. Aby uzyskać szczegółowe instrukcje może dotyczyć [rekordy DNS aktualizacji w usłudze Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) . 
+Rekordy NS, CNAME lub SRV w ustawieniach domeny (DNS) nie są prawidłowo skonfigurowane na potrzeby programu Skype dla firm. Aby uzyskać szczegółowe instrukcje, zapoznaj się z artykułem [Aktualizowanie rekordów DNS w usłudze Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx). 
   
-Aby to naprawić, przejdź do strony [domen](https://admin.microsoft.com/adminportal/home#/Domains) w Centrum administracyjnym usługi Microsoft 365, a pomożemy Ci z nim. 
+Aby rozwiązać problem i skorzystać z pomocy, przejdź do strony [Domeny](https://admin.microsoft.com/adminportal/home#/Domains) w centrum administracyjnym platformy Microsoft 365. 
   
-Jeśli występują problemy z komunikacją z użytkowników, którzy są poza organizacją, to odwołanie do [skonfigurować program Skype dla firm Online komunikacji zewnętrznej](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) , aby uzyskać szczegółowe instrukcje. 
+Jeśli występują problemy w komunikacji z użytkownikami spoza organizacji, szczegółowe instrukcje znajdziesz w artykule [Konfigurowanie komunikacji zewnętrznej dla usługi Skype dla firm Online](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx). 
   
-[Sprawdź FAQ domen](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) innych wspólnych rozwiązań. 
+Aby uzyskać informacje na temat innych typowych rozwiązań, zajrzyj do [często zadawanych pytań dotyczących domen](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx). 
   
 
