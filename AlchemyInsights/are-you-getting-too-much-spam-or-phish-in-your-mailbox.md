@@ -1,5 +1,5 @@
 ---
-title: Czy otrzymujesz zbyt wiele spamu lub pozyskiwać w skrzynce pocztowej?
+title: Czy otrzymujesz za dużo spamu lub wiadomości wykorzystujących phishing w skrzynce odbiorczej?
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 75d912b3-f154-4219-9b8c-4e1d41aaa442
 ms.openlocfilehash: dc65d3d027f11fd6ccf328141d0f1d080c53a482
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404937"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397234"
 ---
-# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a><span data-ttu-id="fa383-102">Czy otrzymujesz zbyt wiele spamu lub pozyskiwać w skrzynce pocztowej?</span><span class="sxs-lookup"><span data-stu-id="fa383-102">Are you getting too much spam or phish in your mailbox?</span></span>
+# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a><span data-ttu-id="9e340-102">Czy otrzymujesz za dużo spamu lub wiadomości wykorzystujących phishing w skrzynce odbiorczej?</span><span class="sxs-lookup"><span data-stu-id="9e340-102">Are you getting too much spam or phish in your mailbox?</span></span>
 
-<span data-ttu-id="fa383-103">Zobacz [jak ograniczyć spam poczta elektroniczna w usłudze Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for troubleshooting spam.</span><span class="sxs-lookup"><span data-stu-id="fa383-103">See [How to reduce spam email in Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for troubleshooting spam.</span></span> 
+<span data-ttu-id="9e340-103">Zobacz [Jak zmniejszyć liczbę wiadomości e-mail ze spamem w usłudze Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email), aby rozwiązać problemy ze spamu.</span><span class="sxs-lookup"><span data-stu-id="9e340-103">See [How to reduce spam email in Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for troubleshooting spam.</span></span> 
   
-<span data-ttu-id="fa383-104">Najlepszym sposobem, aby zgłosić tego typu problemów jest:</span><span class="sxs-lookup"><span data-stu-id="fa383-104">The best way to report these types of issues is to:</span></span> 
+<span data-ttu-id="9e340-104">Aby zgłosić problemy tego typu, najlepiej jest:</span><span class="sxs-lookup"><span data-stu-id="9e340-104">The best way to report these types of issues is to:</span></span> 
   
-1. <span data-ttu-id="fa383-105">[Włączanie raportowania dodatek](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) dla użytkownika.</span><span class="sxs-lookup"><span data-stu-id="fa383-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span> 
+1. <span data-ttu-id="9e340-105">[Włączyć dodatek raportowania](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) dla użytkownika.</span><span class="sxs-lookup"><span data-stu-id="9e340-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span> 
     
-2. <span data-ttu-id="fa383-106">Mają [użytkownika zgłosić wiadomość](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) jako wiadomość-śmieć.</span><span class="sxs-lookup"><span data-stu-id="fa383-106">Have the [user report the message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) as Junk.</span></span> 
+2. <span data-ttu-id="9e340-106">Spowodować, że użytkownik [zgłosi wiadomość](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) jako wiadomość będąca śmieciem.</span><span class="sxs-lookup"><span data-stu-id="9e340-106">Have the [user report the message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) as Junk.</span></span> 
     
 
