@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401194"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867948"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>Rozwiązywanie problemów z wyszukiwania po ponownym utworzeniu katalogu wyszukiwania błyskawicznego
+# <a name="troubleshoot-search-issues"></a>Rozwiązywanie problemów z wyszukiwania
 
-1. Zamknij program Outlook i Otwórz **Panel sterowania**.
-    
-    > [!NOTE]
-    > W zależności od wersji pakietu Office używasz konieczne może być kliknij przycisk **Start** i menu **Start** , kliknij prawym przyciskiem myszy **Panel sterowania**. 
-  
-2. Wykonaj jedną z następujących czynności:
-    
-  - Wybierz **Opcje indeksowania**.
-    
-  - W polu **wyszukiwania** wpisz *Indeksowanie* , a następnie wybierz **Opcje indeksowania**.
-    
-3. W oknie dialogowym **Indeksowane lokalizacje** w sekcji **Zmienianie wybranych lokalizacji**zaznacz pole wyboru do lokalizacji, którą chcesz zmodyfikować, a następnie kliknij przycisk **OK**.
-    
-4. W oknie dialogowym **Opcje zaawansowane** na karcie **Ustawienia indeksowania** w obszarze **Rozwiązywanie problemów**kliknij przycisk **Odbuduj**.
-    
-    > [!NOTE]
-    > **Odbudować indeks** otwiera się okno dialogowe Ostrzeżenie, że "indeks może potrwać bardzo długo." Wybierz **OK** , aby rozpocząć odbudowanie indeksu. 
-  
-Aby uzyskać więcej informacji zobacz temat znany problem [żadnych wyników wyszukiwania dla kont POP i IMAP](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).
-  
+Jeśli występują problemy z wyszukiwania, zobacz poniższe łącza, aby Rozwiązywanie problemów w Pomocy.
 
+Te są najbardziej typowych problemów i są dobrym miejscem do rozpoczęcia:
+- [Nie wygeneruje żadnych wyników wyszukiwania w programie Outlook](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Zwraca niepełne wyniki wyszukiwania programu Outlook](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Wyszukiwania w programie Outlook nie można znaleźć wiadomości e-mail starsze](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+Możliwe rozwiązania dla mniej typowych problemów można znaleźć tutaj:
+- [Tylko Outlook 2016: kartę Wyszukiwanie jest wyszarzona.](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Współdzielonej skrzynki pocztowej do: Problemy z wyników wyszukiwania](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Błąd: Wydajność wyszukiwania będą miały wpływ z powodu problemu z konfiguracji programu Outlook](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Foldery wyszukiwania Pokaż nieoczekiwanych elementów PersonMetadata bez tematów](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
