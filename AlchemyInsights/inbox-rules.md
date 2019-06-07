@@ -2,7 +2,7 @@
 title: 922 reguł skrzynki odbiorczej
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 6/6/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 922
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: 46b080cbc972ae5826ab6e3622308447cd5221ab
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ae53dc524620e1c281e7435fa8feabae5619b4e7
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32413697"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34751891"
 ---
-# <a name="inbox-rules"></a><span data-ttu-id="559b0-102">Reguły skrzynki odbiorczej</span><span class="sxs-lookup"><span data-stu-id="559b0-102">Inbox rules</span></span>
+# <a name="inbox-rules"></a><span data-ttu-id="1f53c-102">Reguły skrzynki odbiorczej</span><span class="sxs-lookup"><span data-stu-id="1f53c-102">Inbox rules</span></span>
 
-<span data-ttu-id="559b0-103">Aby uzyskać więcej informacji dotyczących korzystania z reguł skrzynki odbiorczej w prywatnej skrzynki pocztowej zobacz:</span><span class="sxs-lookup"><span data-stu-id="559b0-103">For more information about using Inbox rules in your own mailbox, see:</span></span>
+<span data-ttu-id="1f53c-103">Aby uzyskać więcej informacji dotyczących korzystania z reguł skrzynki odbiorczej w prywatnej skrzynki pocztowej zobacz:</span><span class="sxs-lookup"><span data-stu-id="1f53c-103">For more information about using Inbox rules in your own mailbox, see:</span></span>
 
-- [<span data-ttu-id="559b0-104">Zarządzanie wiadomościami e-mail za pomocą reguł w programie Outlook dla komputerów PC</span><span class="sxs-lookup"><span data-stu-id="559b0-104">Manage email messages by using rules in Outlook for PC</span></span>](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
+- [<span data-ttu-id="1f53c-104">Zarządzanie wiadomościami e-mail za pomocą reguł w programie Outlook dla komputerów PC</span><span class="sxs-lookup"><span data-stu-id="1f53c-104">Manage email messages by using rules in Outlook for PC</span></span>](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
 
-- [<span data-ttu-id="559b0-105">Zarządzanie wiadomościami za pomocą reguł skrzynki odbiorczej w programie Outlook w sieci web</span><span class="sxs-lookup"><span data-stu-id="559b0-105">Manage your messages by using inbox rules in Outlook on the web</span></span>](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
+- [<span data-ttu-id="1f53c-105">Zarządzanie wiadomościami za pomocą reguł skrzynki odbiorczej w programie Outlook w sieci web</span><span class="sxs-lookup"><span data-stu-id="1f53c-105">Manage your messages by using inbox rules in Outlook on the web</span></span>](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
 
-<span data-ttu-id="559b0-106">Można również zarządzać reguł skrzynki odbiorczej w programie PowerShell Online programu Exchange.</span><span class="sxs-lookup"><span data-stu-id="559b0-106">You can also manage Inbox rules in Exchange Online PowerShell.</span></span> <span data-ttu-id="559b0-107">Aby uzyskać więcej informacji, zobacz [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (Widok), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (Utwórz), [Remove InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Usuń), [Zestaw-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (zmodyfikować istniejące), [Disable InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (Wyłącz istniejące) i Włącz-InboxRule [ ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(włączyć istniejące).</span><span class="sxs-lookup"><span data-stu-id="559b0-107">For more information, see [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (view), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (create), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (delete), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modify existing), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (disable existing), and [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (enable existing).</span></span>
+<span data-ttu-id="1f53c-106">Można również zarządzać reguł skrzynki odbiorczej w programie PowerShell Online programu Exchange.</span><span class="sxs-lookup"><span data-stu-id="1f53c-106">You can also manage Inbox rules in Exchange Online PowerShell.</span></span> <span data-ttu-id="1f53c-107">Aby uzyskać więcej informacji, zobacz [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (Widok), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (Utwórz), [Remove InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Usuń), [Zestaw-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (zmodyfikować istniejące), [Disable InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (Wyłącz istniejące) i Włącz-InboxRule [ ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(włączyć istniejące).</span><span class="sxs-lookup"><span data-stu-id="1f53c-107">For more information, see [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (view), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (create), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (delete), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modify existing), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (disable existing), and [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (enable existing).</span></span>
