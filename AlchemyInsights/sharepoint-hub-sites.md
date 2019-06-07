@@ -7,14 +7,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: 1a4c349352053ec4a4a8eeb934ec3e41eadddf5f
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: b10426e316d4691f7d26b8909e31e55edd537a28
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34719736"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760000"
 ---
 # <a name="sharepoint-hub-sites-overview"></a>Omówienie lokacji koncentratora programu SharePoint
 
-<p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #2f2f2f;">Spełnienia potrzeb organizacji poprzez łączenie i organizowanie witryn SharePoint koncentrator witryny Pomoc na podstawie projektu, dział, podział, region, itp., dzięki czemu łatwiej:</span></p> <ul style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;" type="disc"> <li style="color: black; ; font-size: 12pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;"></span><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Odkryj powiązanej z nią zawartości, takich jak wiadomości i inne działania witryny.&nbsp;</span></li> <li style="color: black; ; font-size: 12pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Zastosowanie wspólnych nawigacji i znakowanie na powiązanych stronach.</span></li> <li style="color: black; ; font-size: 12pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Przeszukiwać wszystkie strony.</span></li> </ul> <p style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #000111;">Zobacz</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #b01100;"> <a href="https://docs.microsoft.com/en-us/sharepoint/create-hub-site">Tworzenie lokacji centralnej w dokumentacji Online programu SharePoint</a> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">Aby uzyskać więcej informacji o tworzeniu lokacji centralnej z nowego Centrum administracyjnego lub</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black;">PowerShell</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">. &nbsp;</span></p> <p style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">Zobacz</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #b01100;"> <a href="https://support.office.com/en-us/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05">Kojarzenie witryny programu SharePoint z lokalizacji centralnej</a> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">uzyskać więcej informacji dotyczących kojarzenia istniejących witryn do lokacji centralnej z nowego Centrum administracyjnego lub</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black;">PowerShell</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">.</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #b01100;"> &nbsp;</span></p> <p style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">Zobacz</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #b01100;"> <a href="https://docs.microsoft.com/en-us/sharepoint/remove-hub-site">Usuwanie lokacji węzłowej</a> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">Aby uzyskać więcej informacji o usuwaniu koncentratorem istniejącym witryny z nowego Centrum administracyjnego lub</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black;">PowerShell</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">. &nbsp;</span></p> <p>&nbsp;</p> <p style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;">&nbsp;</p>
+Spełnienia potrzeb organizacji poprzez łączenie i organizowanie witryn SharePoint koncentrator witryny Pomoc na podstawie projektu, dział, podział, region, itp., dzięki czemu łatwiej:
+
+Odkryj powiązanej z nią zawartości, takich jak wiadomości i inne działania witryny.
+
+Zastosowanie wspólnych nawigacji i znakowanie na powiązanych stronach. 
+
+Przeszukiwać wszystkie strony.
+
+Aby uzyskać więcej informacji o tworzeniu lokacji centralnej z nowego Centrum administracyjnego lub środowiska PowerShell, zobacz [Tworzenie lokacji centralnej w dokumentacji Online programu SharePoint](https://docs.microsoft.com/sharepoint/create-hub-site) .
+
+Aby uzyskać więcej informacji na temat kojarzenia istniejących witryn do lokacji centralnej z nowego Centrum administracyjnego lub środowiska PowerShell, zobacz [Kojarzenie witryny programu SharePoint z witryny Centrum](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) .
+
+Aby uzyskać więcej informacji o usuwaniu istniejącej witryny koncentrator z nowym Centrum administracyjnego lub środowiska PowerShell, zobacz [Usuwanie lokacji centralnej](https://docs.microsoft.com/sharepoint/remove-hub-site) .
 
