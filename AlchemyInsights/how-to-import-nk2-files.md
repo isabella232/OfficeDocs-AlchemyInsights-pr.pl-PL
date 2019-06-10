@@ -13,12 +13,12 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: ed0c679cf3ed9d363e552c04a5ae6d0fc72f88dd
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33630025"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770256"
 ---
 # <a name="how-to-import-nk2-files"></a>Jak importować pliki nk2 
 
@@ -37,4 +37,4 @@ Po zaimportowaniu pliku nk2, zawartość pliku są scalane w istniejących pami�
 
 **Uwaga**: plik nk2 jest zmieniana z rozszerzeniem nazwy pliku .old przy następnym uruchomieniu programu Outlook 2013, Outlook 2016, 2019 programu Outlook lub programu Outlook do usługi Office 365. Jeśli chcesz ponownie zaimportować plik nk2, najpierw usuń rozszerzenie .old.
 
-Aby uzyskać więcej informacji zobacz temat [importowania lub kopiowania listy autouzupełniania do innego komputera](https://support.microsoft.com/en-us/help/2806550/how-to-import-nk2-files-into-outlook%).
+Aby uzyskać więcej informacji zobacz temat [importowania lub kopiowania listy autouzupełniania do innego komputera](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

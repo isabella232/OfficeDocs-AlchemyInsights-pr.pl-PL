@@ -9,12 +9,12 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408728"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769552"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Automatyczne stosowanie etykiet czułości
 
@@ -25,7 +25,7 @@ Automatyczne stosowanie etykiet czułość usuwa potrzebę szkolenia użytkownik
 Aby automatycznie stosować etykiety, wymagany jest następujący:
 
 - Pokrewne usługi P2 ochrony informacji
-- [Pobierz i zainstaluj zunifikowany klienta mając na uwadze ochronę informacji Azure](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Pobierz i zainstaluj zunifikowany klienta mając na uwadze ochronę informacji Azure](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 Pracujemy nad macierzysta obsługa, która nie wymaga zunifikowany klienta mając na uwadze ochronę informacji Azure w przyszłości.
 
@@ -33,5 +33,5 @@ Obecnie tylko systemu Windows obsługuje ujednoliconej etykietowania klienta.  F
 
 Aby uzyskać więcej informacji na etykietach czułość i automatycznemu stosowaniu do zawartości zobacz:
 
-- [Omówienie czułość etykiet](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [Automatycznie Zastosuj etykietę czułości do zawartości](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Omówienie czułość etykiet](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Automatycznie Zastosuj etykietę czułości do zawartości](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

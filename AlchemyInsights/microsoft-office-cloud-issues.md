@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: a8bfe01e6ab2a0204f9d5a6399a82cac4a4419a0
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 956cf333f83dc681b7d74e984fdeb4c6c273d703
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34717251"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769513"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Problemy z usługą w chmurze?
 
@@ -23,5 +23,5 @@ Jeśli występują problemy z usługą w chmurze, można sprawdzić [służbie z
 
 **Zasady powiadamiania**
 
-W przypadku wystąpienia zdarzenia serwisowego Microsoft rozpoznaje komunikacji terminowe, ukierunkowane i precyzyjne są krytyczne dla klientów. Firma Microsoft powiadomi administratorów usługi Office 365, aktualizując specyficzne dla dzierżawy [Usługi zdrowotne pulpitu nawigacyjnego (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) na portalu Office 365 Admin. Usługi incydentu aktualizacje są dostarczane na godzinę kadencji lub, jeśli wymagane jest inne kadencji, to należy podawać w SHD księgowania komunikacji. Aby uzyskać więcej informacji zobacz [Sprawdzanie kondycji usługi Office 365](https://docs.microsoft.com/en-us/office365/enterprise/view-service-health).
+W przypadku wystąpienia zdarzenia serwisowego Microsoft rozpoznaje komunikacji terminowe, ukierunkowane i precyzyjne są krytyczne dla klientów. Firma Microsoft powiadomi administratorów usługi Office 365, aktualizując specyficzne dla dzierżawy [Usługi zdrowotne pulpitu nawigacyjnego (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) na portalu Office 365 Admin. Usługi incydentu aktualizacje są dostarczane na godzinę kadencji lub, jeśli wymagane jest inne kadencji, to należy podawać w SHD księgowania komunikacji. Aby uzyskać więcej informacji zobacz [Sprawdzanie kondycji usługi Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

@@ -7,14 +7,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: 24688473b1f40d4151e8fb045577ae8d641e62ef
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 488e3aa6405cb2774ea41c7b18d0c8b7c810397f
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34717111"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771244"
 ---
 # <a name="set-up-onedrive"></a>Konfigurowanie usługi OneDrive
 
-<p style="margin: 0px;"><span style="font-family: Calibri;">Dla nowo tworzonego konta użytkownicy muszą zalogować się do portalu Office 365 własne konto i kliknij ikonę OneDrive, aby ręcznie uruchomić świadczenia w witrynie OneDrive.</span></p>  <p style="margin: 0px;"><span style="font-family: Calibri;">Jednakże jeśli już po kliknięciu ikony OneDrive i jego witryny osobistej nie jest zaopatrzona w ciągu 24 godzin, należy zalogować się pomocy technicznej, aby uzyskać dalszą pomoc.</span></p>
+Dla nowo tworzonego konta użytkownicy muszą zalogować się do portalu Office 365 własne konto i kliknij ikonę OneDrive, aby ręcznie uruchomić świadczenia w witrynie OneDrive.
+
+Jednakże jeśli już po kliknięciu ikony OneDrive i jego witryny osobistej nie jest zaopatrzona w ciągu 24 godzin, należy zalogować się pomocy technicznej, aby uzyskać dalszą pomoc.
 

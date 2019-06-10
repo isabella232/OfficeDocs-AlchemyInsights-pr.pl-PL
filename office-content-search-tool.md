@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ee05de080a9bde2dd150cdfe340dd29875242f71
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 06/07/2019
-ms.locfileid: "34756651"
+ms.locfileid: "34770642"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Narzędzie wyszukiwania, aby znaleźć odpowiednie informacje o zawartości
 
 Użyj narzędzia wyszukiwania zawartości w & zabezpieczeń Centrum zgodności, aby szybko znaleźć wiadomości e-mail w skrzynkach pocztowych programu Exchange, dokumenty w witrynach programu SharePoint i lokalizacje OneDrive i rozmowy w Skype dla firm do obsługi wiadomości błyskawicznych. Narzędzie wyszukiwania zawartości do wyszukiwania wiadomości e-mail, dokumentów i rozmowy w Office 365 współpracy narzędzi takich jak Microsoft Teams i grupy usługi Office 365 do obsługi wiadomości błyskawicznych.
 
 
-Przed rozpoczęciem korzystania z [Wyszukiwania zawartości](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) z [& zabezpieczeń Centrum zgodności](https://sip.protection.office.com/homepage), należy ukończyć ustawienia konfiguracji w tym [skonfigurować uprawnienia](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [ustawienie szybkości pobierania](https://docs.microsoft.com/en-us/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) i [Eksport ustawień](https://docs.microsoft.com/en-us/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
+Przed rozpoczęciem korzystania z [Wyszukiwania zawartości](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) z [& zabezpieczeń Centrum zgodności](https://sip.protection.office.com/homepage), należy ukończyć ustawienia konfiguracji w tym [skonfigurować uprawnienia](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [ustawienie szybkości pobierania](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) i [Eksport ustawień](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
 
 Lepiej zrozumieć przeszukiwanie zawartości przeglądając [wymagania i ograniczenia](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [prowadzące dochodzenie częściowo indeksowane elementy](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) i inne wyniki były świadome.
 
