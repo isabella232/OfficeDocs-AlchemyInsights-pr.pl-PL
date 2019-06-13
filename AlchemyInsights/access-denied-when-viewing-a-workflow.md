@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 43369c600687d6ac253f70a8535dc2bd0d41687e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b7a3805d30cac44781adbbb00c0f0ed3496ff17b
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389897"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883601"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>Odmowa dostępu podczas przeglądania przepływu pracy
 
@@ -21,12 +21,11 @@ ms.locfileid: "32389897"
   
  **Aby rozwiązać ten problem, wykonaj następujące kroki:**
   
- 1. Zezwalaj wszystkim zobaczyć członków grupy programu SharePoint. 
+ 1. Zezwalaj wszystkim zobaczyć członków grupy programu SharePoint.
   
- 2. Usuń grupę programu SharePoint z do lub DW wiersz wiadomości e-mail. 
+ 2. Usuń grupę programu SharePoint z do lub DW wiersz wiadomości e-mail.
   
- 3. Jawnie dodać użytkowników do do lub DW linii, jeśli nie można zmienić widoczności członkostwa grupy programu SharePoint. 
+ 3. Jawnie dodać użytkowników do do lub DW linii, jeśli nie można zmienić widoczności członkostwa grupy programu SharePoint.
   
-Aby wyświetlić więcej szczegółów można znaleźć [HTTP ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)nieuprawnione do /_vti_bin/client.svc/sp.utilities.utility.SendEmail.
+Aby wyświetlić więcej szczegółów można znaleźć [HTTP](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)nieuprawnione do /_vti_bin/client.svc/sp.utilities.utility.SendEmail.
   
-
