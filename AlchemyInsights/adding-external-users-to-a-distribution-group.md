@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: ce67797a1838630ab3a42e1eeeefc401a0e3f753
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a5def36fbb662037851158722db60494f00ce850
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398468"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34895215"
 ---
 # <a name="adding-external-users-to-a-distribution-group"></a>Dodawanie użytkowników zewnętrznych do grupy dystrybucyjnej?
 
@@ -43,4 +43,3 @@ Jeśli nawet po wykonaniu tych czynności użytkownika zewnętrznego, nie można
   
  **Uwaga:** Te instrukcje nie mają zastosowania, jeśli typ grupy jest "Grupa Office 365" zamiast "Grupa dystrybucyjna." Jeśli tak się stanie, można dodać użytkownika zewnętrznego bezpośrednio do grupy z programu Outlook lub programu Outlook w sieci Web. W [tym artykule](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)znajdują się szczegółowe wyjaśnienie na O365 grupy gości, jak również instrukcje dotyczące dodawania zewnętrznego gośćmi.
   
-
