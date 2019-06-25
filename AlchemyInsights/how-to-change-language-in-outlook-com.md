@@ -1,33 +1,31 @@
 ---
-title: 8000014 jak zmienić język w Hotmail
+title: Jak zmienić język w Hotmail
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 5/1/2018
+manager: joallard
+ms.date: 5/24/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 8000014
+ms.custom:
+- "8000014"
+- "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: ca05449dcda6dd857c7f81be17bb6fd6335af693
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1f354ea7195a0927abc5c46538b66c6c705bfc20
+ms.sourcegitcommit: 9c6c2ff5865275dc8e3d48132180108884647365
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399889"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34430564"
 ---
 # <a name="change-your-language"></a>Zmienianie języka
 
-1. W prawym górnym rogu, wybierz **Ustawienia** \> **wyświetlić wszystkie ustawienia programu Outlook**.
-    
-2. W obszarze **Ogólne**wybierz [**język i czas**](https://outlook.live.com/mail/options/general/timeAndLanguage).
-    
-3. Wybierz swój język.
-    
-4. Wybierz pozycję **Zapisz**.
-    
-Aby dowiedzieć się więcej, zobacz [Zmienianie stref czasowych i ustawień języka w Hotmail](https://go.microsoft.com/fwlink/p/?linkid=873132).
-  
+1. Przejdź do ustawień [**językowych i czasu**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Ustawienia** \> **wyświetlić wszystkie ustawienia programu Outlook** > **Ogólne** > **języka i czas**).
 
+2. Wybierz swój język.
+
+3. Wybierz pozycję **Zapisz**.
+
+Aby dowiedzieć się więcej, zobacz [Zmienianie stref czasowych i ustawień języka w Hotmail](https://go.microsoft.com/fwlink/p/?linkid=873132).
