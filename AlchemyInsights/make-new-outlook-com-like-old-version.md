@@ -1,35 +1,33 @@
 ---
-title: 8000035 jak zrobić nowy wygląd Hotmail jak stary
+title: Jak zrobić nowy wygląd Hotmail jak stary
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 19e6f6f2ece7c24c795a6653e37c579b3b3c50cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+- "794"
+ms.openlocfilehash: 15d292d4d4f348ef60512dc46a0c66c494a3a74d
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409412"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117623"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a><span data-ttu-id="5ba67-102">Jak zrobić nowy wygląd Hotmail jak starej wersji</span><span class="sxs-lookup"><span data-stu-id="5ba67-102">How to make the new Outlook.com look like the old version</span></span>
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a><span data-ttu-id="8a74b-102">Jak zrobić nowy wygląd Hotmail jak starej wersji</span><span class="sxs-lookup"><span data-stu-id="8a74b-102">How to make the new Outlook.com look like the old version</span></span>
 
-<span data-ttu-id="5ba67-103">Poniżej przedstawiono niektóre ustawienia i widoków, które można zmienić, aby nowy wygląd Hotmail jak starej wersji.</span><span class="sxs-lookup"><span data-stu-id="5ba67-103">Here are some settings and views you can change to make the new Outlook.com look like the old version.</span></span>
+<span data-ttu-id="8a74b-103">Oto niektóre ustawienia, które można zmienić, aby nowy wygląd Hotmail jak starej wersji:</span><span class="sxs-lookup"><span data-stu-id="8a74b-103">Here are some settings you can change to make the new Outlook.com look like the old version:</span></span>
 
-1. <span data-ttu-id="5ba67-104">Wybierz ikonę koła zębatego u góry strony, aby otworzyć okno Ustawienia.</span><span class="sxs-lookup"><span data-stu-id="5ba67-104">Select the gear icon at the top of the page to open Settings.</span></span>
-2. <span data-ttu-id="5ba67-105">Wybierz preferowaną **tematu**.</span><span class="sxs-lookup"><span data-stu-id="5ba67-105">Select your preferred **Theme**.</span></span>
-3. <span data-ttu-id="5ba67-106">Zmienianie **widoku konwersacji** na **najnowsze wiadomości na górze**.</span><span class="sxs-lookup"><span data-stu-id="5ba67-106">Change **Conversation view** to **Newest messages on top**.</span></span>
-4. <span data-ttu-id="5ba67-107">Zmień **ukryć** **okienko odczytu** .</span><span class="sxs-lookup"><span data-stu-id="5ba67-107">Change **Reading pane** to **Hide**.</span></span>
-5. <span data-ttu-id="5ba67-108">Przełącz **priorytetowa Skrzynka odbiorcza** **off**.</span><span class="sxs-lookup"><span data-stu-id="5ba67-108">Switch **Focused inbox** to **Off**.</span></span>
-6. <span data-ttu-id="5ba67-109">Przełącz **zdjęcie nadawcy** **off**.</span><span class="sxs-lookup"><span data-stu-id="5ba67-109">Switch **Sender image** to **Off**.</span></span> 
-7. <span data-ttu-id="5ba67-110">Przełącz **Grupuj wiadomości według daty** **off**.</span><span class="sxs-lookup"><span data-stu-id="5ba67-110">Switch **Group messages by date** to **Off**.</span></span> 
-8. <span data-ttu-id="5ba67-111">Przełącz **Podgląd załączników** **off**.</span><span class="sxs-lookup"><span data-stu-id="5ba67-111">Switch **Attachment preview** to **Off**.</span></span> 
-9. <span data-ttu-id="5ba67-112">Przełącz **tekst podglądu wiadomości** na **On**.</span><span class="sxs-lookup"><span data-stu-id="5ba67-112">Switch **Message preview text** to **On**.</span></span>
+1. <span data-ttu-id="8a74b-104">Przejdź do [ustawień układu](https://outlook.live.com/mail/options/mail/layout).</span><span class="sxs-lookup"><span data-stu-id="8a74b-104">Go to [Layout settings](https://outlook.live.com/mail/options/mail/layout).</span></span>
+1. <span data-ttu-id="8a74b-105">W obszarze **priorytetowa Skrzynka odbiorcza**zaznacz **nie należy sortować Moje wiadomości**.</span><span class="sxs-lookup"><span data-stu-id="8a74b-105">Under **Focused inbox**, select **Don't sort my messages**.</span></span>
+1. <span data-ttu-id="8a74b-106">W obszarze **wiadomości organizacji**wybierz **najnowsze wiadomości na górze**.</span><span class="sxs-lookup"><span data-stu-id="8a74b-106">Under **Message organization**, select **Newest messages on top**.</span></span>
+1. <span data-ttu-id="8a74b-107">W obszarze **obrazu nadawcy**wybierz **Nie pokazuj obrazy nadawców**.</span><span class="sxs-lookup"><span data-stu-id="8a74b-107">Under **Sender image**, select **Don't show sender images**.</span></span>
+1. <span data-ttu-id="8a74b-108">W **okienku odczytu**wybierz opcję **Ukryj okienko odczytu**.</span><span class="sxs-lookup"><span data-stu-id="8a74b-108">Under **Reading pane**, select **Hide reading pane**.</span></span>
+1. <span data-ttu-id="8a74b-109">W obszarze **tekst podglądu wiadomości**wybierz opcję **Pokaż podgląd tekstu**.</span><span class="sxs-lookup"><span data-stu-id="8a74b-109">Under **Message preview text**, select **Show preview text**.</span></span>
+1. <span data-ttu-id="8a74b-110">W obszarze **podglądy Inline**wybierz **Nie pokazuj załączniki na liście wiadomości**.</span><span class="sxs-lookup"><span data-stu-id="8a74b-110">Under **Inline previews**, select **Don't show attachments in message list**.</span></span>
 
-<span data-ttu-id="5ba67-113">Uwaga: Są to tylko niektóre ustawienia, zapewniających najbliższy możliwe ułożenie na klasycznej wersję Hotmail zalecane.</span><span class="sxs-lookup"><span data-stu-id="5ba67-113">Note: These are just some recommended settings which can provide the closest possible layout to the classic version of Outlook.com.</span></span> <span data-ttu-id="5ba67-114">Nadal będzie to zależeć żądanych ustawień.</span><span class="sxs-lookup"><span data-stu-id="5ba67-114">It will still depend on your desired settings.</span></span>
-
-<span data-ttu-id="5ba67-115">Aby zmienić ustawienia poczty, więc skrzynki odbiorczej wygląda i działa tak jak chcesz go, zobacz [Personalizuj swój nowych doświadczeń poczty Hotmail](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span><span class="sxs-lookup"><span data-stu-id="5ba67-115">To change your Mail settings so your inbox looks and behaves the way you want it to, see [Personalize your new Mail experience in Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span></span>
+<span data-ttu-id="8a74b-111">Aby zmienić ustawienia poczty skrzynki odbiorczej wygląda i zachowuje się w sposób, który ma się, zobacz [Zmienianie wyglądu skrzynki pocztowej w Hotmail i nowy program Outlook w sieci web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="8a74b-111">To change your Mail settings so your inbox looks and behaves the way you want it to, see [Change the look of your mailbox in Outlook.com and the new Outlook on the web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

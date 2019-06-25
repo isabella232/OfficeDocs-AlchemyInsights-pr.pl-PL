@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 99927bf4f17ff7fac1e4c61d17ab4ee706c4d891
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 81a0ef4df7b64878d2611c7d31256b9f3babd85e
+ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643540"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34273617"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a><span data-ttu-id="3cbb5-102">Jak wylogować się z programu Outlook w sieci web</span><span class="sxs-lookup"><span data-stu-id="3cbb5-102">How to sign out of Outlook on the web</span></span>
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a><span data-ttu-id="0204a-102">Jak wylogować się z programu Outlook w sieci web</span><span class="sxs-lookup"><span data-stu-id="0204a-102">How to sign out of Outlook on the web</span></span>
 
-1. <span data-ttu-id="3cbb5-103">Zaznacz swoją nazwę użytkownika lub zdjęcie w prawym górnym rogu.</span><span class="sxs-lookup"><span data-stu-id="3cbb5-103">Select your name or picture at the top right corner.</span></span>
-    
-    <span data-ttu-id="3cbb5-104">Jeśli nie widzisz obrazu w górnej części ekranu, sprawdź, czy blokowania reklam jest włączona.</span><span class="sxs-lookup"><span data-stu-id="3cbb5-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="3cbb5-105">Czasami uniemożliwia to obraz przedstawiający.</span><span class="sxs-lookup"><span data-stu-id="3cbb5-105">Sometimes this prevents the picture from showing.</span></span>
-    
-2. <span data-ttu-id="3cbb5-106">Wybierz opcję **Wyloguj się**.</span><span class="sxs-lookup"><span data-stu-id="3cbb5-106">Select **Sign out**.</span></span> 
-    
-    <span data-ttu-id="3cbb5-107">Aby zatrzymać automatyczne logowanie się do służbowego konta służbowego, odznacz pole **Nie wylogowuj mnie** na stronie, gdzie wprowadź swoje hasło.</span><span class="sxs-lookup"><span data-stu-id="3cbb5-107">To stop automatically signing in to your work or school account, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span> 
-    
-<span data-ttu-id="3cbb5-108">Aby dowiedzieć się więcej, zobacz temat [logowania się do lub z programu Outlook w sieci web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span><span class="sxs-lookup"><span data-stu-id="3cbb5-108">To learn more, see [How to sign in to or out of Outlook on the web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
+<span data-ttu-id="0204a-103">Aby wylogować się z programu Outlook w sieci web, zaznacz swoją nazwę użytkownika lub zdjęcie w prawym górnym rogu i wybierz opcję **Wyloguj się**.</span><span class="sxs-lookup"><span data-stu-id="0204a-103">To sign out of Outlook on the web, select your name or picture at the top right corner and select **Sign out**.</span></span>
+
+<span data-ttu-id="0204a-104">Aby zatrzymać automatyczne logowanie do konta służbowego:</span><span class="sxs-lookup"><span data-stu-id="0204a-104">To stop automatically signing in to your work or school account:</span></span>
+
+1. <span data-ttu-id="0204a-105">Wybierz nazwę lub obraz i wybierz opcję **Wyloguj się**.</span><span class="sxs-lookup"><span data-stu-id="0204a-105">Select your name or picture and select **Sign out**.</span></span>
+1. <span data-ttu-id="0204a-106">Przejdź do [Outlook.office.com](https://outlook.office.com/) i zaznacz opcję **Użyj innego konta**.</span><span class="sxs-lookup"><span data-stu-id="0204a-106">Go to [Outlook.office.com](https://outlook.office.com/) and select **Use another account**.</span></span>
+1. <span data-ttu-id="0204a-107">Zaloguj się na adres e-mail, którego chcesz użyć.</span><span class="sxs-lookup"><span data-stu-id="0204a-107">Sign in with the email address you want to use.</span></span>
+
+<span data-ttu-id="0204a-108">Aby dowiedzieć się więcej, zobacz temat [logowania się do lub z programu Outlook w sieci web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span><span class="sxs-lookup"><span data-stu-id="0204a-108">To learn more, see [How to sign in to or out of Outlook on the web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
