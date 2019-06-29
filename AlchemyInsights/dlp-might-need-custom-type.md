@@ -9,19 +9,22 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1647"
+- "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 0ccdc524625ac76031004300a2406d5bfddcc759
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 8b49afcf50e5eb53f517bbdbd002fb80dddb6f9b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770326"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389695"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP może być konieczne typu niestandardowego
 
 Z zasady zapobiegania (DLP) utraty danych można zidentyfikować i ochrony poufnych danych w organizacji. W niektórych scenariuszach może być konieczne utworzyć swój własny **Niestandardowy** typ informacji poufnych do ochrony danych w organizacji.
 
-Na przykład organizacja może być konieczne dla ustalenia i ochrony identyfikatory pracowników lub innych danych w określonym formacie specyficzne dla Twojego org. Jeśli tak, zobacz następujące artykuły, aby uzyskać więcej informacji. 
+Na przykład organizacja może być konieczne dla ustalenia i ochrony identyfikatory pracowników lub innych danych w określonym formacie specyficzne dla Twojego org. Jeśli tak, zobacz następujące artykuły, aby uzyskać więcej informacji.
   
  **Dostosować typ wbudowany poufnych informacji**
   
@@ -29,10 +32,8 @@ Jeśli typ wbudowany poufnych informacji, by spełnić Twoje potrzeby z kilka po
   
  **Tworzenie typu niestandardowego poufnych informacji**
   
-Ale jeśli zachodzi konieczność ustalenia i ochrony zupełnie innego typu informacji poufnych, możesz [utworzyć typ niestandardowy poufne informacje](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) w interfejsie użytkownika & zabezpieczeń Centrum zgodności. 
+Ale jeśli zachodzi konieczność ustalenia i ochrony zupełnie innego typu informacji poufnych, możesz [utworzyć typ niestandardowy poufne informacje](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) w interfejsie użytkownika & zabezpieczeń Centrum zgodności.
   
 **Tworzenie typu niestandardowe informacje poufne w & zabezpieczeń środowiska PowerShell Centrum zgodności**
 
 Wreszcie Jeśli interfejs użytkownika nie udostępnia wszystkie opcje, które są potrzebne, można [utworzyć typ niestandardowy poufnych informacji w & zabezpieczeń środowiska PowerShell Centrum zgodności](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Zaczynając od pliku XML, można użyć wszystkie dostępne opcje.
-
-    
