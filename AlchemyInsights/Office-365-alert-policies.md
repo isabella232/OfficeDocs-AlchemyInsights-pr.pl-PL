@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1385
+ms.custom:
+- "1385"
+- "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 428d5b943737f78c683aa50578b0c0a1fb0034c8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 96ae13b62109337de9c41dd3a9bcc42196fe623b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389574"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359415"
 ---
 # <a name="office-365-alert-policies"></a>Zasady alertów usługi Office 365
 
@@ -26,7 +28,7 @@ _AMP_ zabezpieczeń usługi Office 365 oferuje Centrum zgodności [domyślne zas
 - Przypisywanie uprawnień skrzynek pocztowych.
 - Udostępnianie lub usuwanie dużej liczby plików w udostępniania plików programu SharePoint.
 - Tworzenie wyszukiwania zbierania elektronicznych materiałów dowodowych i eksportowanie wyników wyszukiwania.
- 
+
 Aby przejrzeć i działają na alert:
 
 1. Przejdź do [& zabezpieczeń Centrum zgodności](https://protection.office.com) i zaloguj się.

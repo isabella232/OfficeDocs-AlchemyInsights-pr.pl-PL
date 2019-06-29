@@ -1,34 +1,37 @@
 ---
-title: 8000043 ustawienia POP, IMAP i SMTP dla Hotmail
+title: Ustawienia POP, IMAP i SMTP dla Hotmail
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/8/2019
+ms.date: 6/19/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000043
+ms.custom:
+- "780"
+- "1415"
+- "8000043"
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: 0fb770a3dc34da662410d8992ce53fba32006cd1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4098e453deb081c8ac9dd7ee76938bbdfe2432c8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392302"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373387"
 ---
 # <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>Ustawienia POP, IMAP i SMTP dla Hotmail
 
-Jeśli chcesz dodać konto Hotmail do innej aplikacji poczty obsługującego protokół POP lub IMAP, Oto ustawienia serwera ręcznych, które będą potrzebne:
+Jeśli chcesz dodać konto Hotmail do aplikacji poczty obsługującego protokół POP lub IMAP, Oto ustawienia serwera, które będą potrzebne:
   
-- **Nazwa serwera IMAP:** outlook.office365.com 
-- **IMAP port:** 993   
-- **Metody szyfrowania IMAP:** TLS   
+- **Nazwa serwera IMAP:** outlook.office365.com
+- **IMAP port:** 993
+- **Metody szyfrowania IMAP:** TLS
 - **Nazwa serwera POP:** outlook.office365.com  
 - **POP port:** 995  
 - **Metody szyfrowania POP:** TLS  
-- **Nazwa serwera SMTP:** smtp.office365.com 
-- **SMTP port:** 587 
-- **Metody szyfrowania SMTP:** STARTTLS 
+- **Nazwa serwera SMTP:** smtp.office365.com
+- **SMTP port:** 587
+- **Metody szyfrowania SMTP:** STARTTLS
 
-Dowiedz się więcej o [ustawieniach POP, IMAP i SMTP dla Hotmail](https://go.microsoft.com/fwlink/p/?linkid=2001402&amp;clcid=0x409).
+Dowiedz się więcej na temat [dodawania konta Hotmail na inny poczty aplikacji lub urządzeń inteligentnych](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970).

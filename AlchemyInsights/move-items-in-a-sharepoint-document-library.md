@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "453"
+- "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: d3b7b8504d4ffcdccfe39645ee462e4e2e36b660
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: af0421ff0734829e2b9f9455ecc98960db4b7ae2
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418227"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379363"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>Przenieś elementy w bibliotece dokumentów programu SharePoint
 
 Elementy można przenosić do innych lokalizacji w bibliotece dokumentów. Jeśli skonfigurowano [opcję release ukierunkowane](https://go.microsoft.com/fwlink/?linkid=622980), elementy można przenosić także w witrynach. Ich historii jest przenoszone podczas przenoszenia dokumentów.
   
 1. W przeglądarce sieci web przejdź do plików, folderów lub łącza, które chcesz przenieść, a następnie kliknij przycisk **Przenieś do**.
-    
-    > [!NOTE]
-    > **Przenieś do** nie jest dostępna, jeśli używasz klasycznego doświadczenie Online programu SharePoint. 
-  
-2. W obszarze **Wybierz miejsce docelowe**wybierz lokalizację, do której chcesz przenieść elementy. Jeśli przenoszone do innej witryny lub podwitryny, a nie jest widoczny, kliknij przycisk **przeglądania witryn** , aby zobaczyć pełną listę witryn, które można przenieść. 
-    
-    Aby utworzyć nowy folder, aby przenieść pliki, aby wybrać lokalizację w hierarchii folderów, kliknij przycisk **Nowy folder**, wpisz nazwę folderu i kliknij znacznik wyboru, aby zapisać nazwę.
-    
-3. Kliknij przycisk **Przenieś tutaj**.
-    
 
+    > [!NOTE]
+    > **Przenieś do** nie jest dostępna, jeśli używasz klasycznego doświadczenie Online programu SharePoint.
+  
+2. W obszarze **Wybierz miejsce docelowe**wybierz lokalizację, do której chcesz przenieść elementy. Jeśli przenoszone do innej witryny lub podwitryny, a nie jest widoczny, kliknij przycisk **przeglądania witryn** , aby zobaczyć pełną listę witryn, które można przenieść.
+
+    Aby utworzyć nowy folder, aby przenieść pliki, aby wybrać lokalizację w hierarchii folderów, kliknij przycisk **Nowy folder**, wpisz nazwę folderu i kliknij znacznik wyboru, aby zapisać nazwę.
+
+3. Kliknij przycisk **Przenieś tutaj**.
