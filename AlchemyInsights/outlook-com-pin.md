@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000233
-ms.openlocfilehash: af81ead91c865d2b36ea20476b91c51e36452690
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1817"
+- "9000233"
+ms.openlocfilehash: 4a3813c9c926e7a6b9106703204dae644b06b84a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392403"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373459"
 ---
 # <a name="change-your-pin"></a>Zmień numer PIN
 
 Hotmail nie korzystają z numeru PIN, ale może logować do komputera PC za pomocą numeru PIN lub Windows Hello. Aby zmienić numer PIN w systemie Windows 10:
 
-1. Przejdź do menu Start, a następnie wybierz **Ustawienia** > **konta** > **Opcje logowania**.
+1. Wybierz przycisk Start lub naciśnij klawisz systemu Windows na klawiaturze, a następnie wybierz **Ustawienia** > **konta** > **Opcje logowania**.
 2. Wybierz przycisk **Zmień** pod **numer PIN**.
 3. Wprowadź bieżący numer PIN, a następnie wprowadź i Potwierdź nowy numer PIN pod spodem.
 

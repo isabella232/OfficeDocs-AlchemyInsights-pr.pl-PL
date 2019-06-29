@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1488
+ms.custom:
+- "1488"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5830f4ce5be6a5c10e0696a57f0b83b4c5606f2b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373326"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371443"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Jak przeprowadzić wyszukiwanie zawartości i zbierania elektronicznych materiałów dowodowych wyszukiwań
 
@@ -26,8 +28,8 @@ ms.locfileid: "32373326"
 2. Kliknij przycisk **Wyszukiwanie zawartości wyszukiwania & dochodzenia >**.
 3. Kliknij przycisk **Nowe wyszukiwanie** , aby utworzyć nowe wyszukiwanie.
 4. Wprowadź warunki wyszukiwania wymagane, łącznie z słów kluczowych i lokalizacje zawartości.  
-5. Kliknij przycisk **Zapisz bieg &** do wyszukiwania nazw, uruchom ją i wyświetlić podgląd wyników. 
- 
+5. Kliknij przycisk **Zapisz bieg &** do wyszukiwania nazw, uruchom ją i wyświetlić podgląd wyników.
+
 Szczegółowe instrukcje na temat tworzenia wyszukiwań i eksportowanie wyników zobacz [Ten artykuł](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 **Zbieranie elektronicznych materiałów dowodowych wyszukiwań**
