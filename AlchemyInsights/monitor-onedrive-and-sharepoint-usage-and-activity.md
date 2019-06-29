@@ -7,20 +7,22 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "865"
+- "5300020"
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 66188c1065ea9b844673af1214995be2da7fd810
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 20f40841feae8962a2fbdaadad4f89c95f32acf4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418399"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379579"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a><span data-ttu-id="8b82f-102">Wyświetlanie raportów dotyczących OneDrive i SharePoint i korzystaniem z</span><span class="sxs-lookup"><span data-stu-id="8b82f-102">View reports on OneDrive and SharePoint activity and usage</span></span>
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a><span data-ttu-id="569dc-102">Wyświetlanie raportów dotyczących OneDrive i SharePoint i korzystaniem z</span><span class="sxs-lookup"><span data-stu-id="569dc-102">View reports on OneDrive and SharePoint activity and usage</span></span>
 
-<span data-ttu-id="8b82f-103">Przejdź do [strony raporty użycia w Centrum administracyjnym usługi Microsoft 365](https://admin.microsoft.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="8b82f-103">Go to the [Usage reports page in the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).</span></span> <span data-ttu-id="8b82f-104">W obszarze, **Zaznacz raport**wybrać OneDrive lub SharePoint raport aktywności lub obciążenie.</span><span class="sxs-lookup"><span data-stu-id="8b82f-104">Under **Select a report**, choose the OneDrive or SharePoint activity or usage report.</span></span> 
+<span data-ttu-id="569dc-103">Przejdź do [strony raporty użycia w Centrum administracyjnym usługi Microsoft 365](https://admin.microsoft.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="569dc-103">Go to the [Usage reports page in the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).</span></span> <span data-ttu-id="569dc-104">W obszarze, **Zaznacz raport**wybrać OneDrive lub SharePoint raport aktywności lub obciążenie.</span><span class="sxs-lookup"><span data-stu-id="569dc-104">Under **Select a report**, choose the OneDrive or SharePoint activity or usage report.</span></span>
   
-[<span data-ttu-id="8b82f-105">Więcej informacji na temat raportów OneDrive</span><span class="sxs-lookup"><span data-stu-id="8b82f-105">More info about OneDrive reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875239)
+[<span data-ttu-id="569dc-105">Więcej informacji na temat raportów OneDrive</span><span class="sxs-lookup"><span data-stu-id="569dc-105">More info about OneDrive reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875239)
   
-[<span data-ttu-id="8b82f-106">Więcej informacji na temat raportów programu SharePoint</span><span class="sxs-lookup"><span data-stu-id="8b82f-106">More info about SharePoint reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875240)
+[<span data-ttu-id="569dc-106">Więcej informacji na temat raportów programu SharePoint</span><span class="sxs-lookup"><span data-stu-id="569dc-106">More info about SharePoint reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875240)
   
-

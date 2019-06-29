@@ -9,19 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "745"
+- "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: f86a56091c65218b353f0a5d1b43e7b72dd1de23
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d989860ba1be45c85ece216a36bf6b15bdfcefaf
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404867"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389911"
 ---
-# <a name="deleting-users"></a><span data-ttu-id="a99e8-102">Usuwanie użytkowników</span><span class="sxs-lookup"><span data-stu-id="a99e8-102">Deleting users</span></span>
+# <a name="deleting-users"></a><span data-ttu-id="0e384-102">Usuwanie użytkowników</span><span class="sxs-lookup"><span data-stu-id="0e384-102">Deleting users</span></span>
 
-<span data-ttu-id="a99e8-103">Jeśli użytkownik chce natychmiast zablokować dostęp użytkownika i trzeba zachować swoje informacje, zapoznaj się z punktem [nie jest pracownikiem, pozostawiając i trzeba zablokować dostęp do danych e-mail?](https://support.office.com/client/ba665d35-f4af-4bd0-b52d-841df7454d4b)</span><span class="sxs-lookup"><span data-stu-id="a99e8-103">If you want to immediately block user access and need to keep their information, please see [Have an employee leaving and need to block access to data an email?](https://support.office.com/client/ba665d35-f4af-4bd0-b52d-841df7454d4b)</span></span>
+<span data-ttu-id="0e384-103">Jeśli użytkownik chce natychmiast zablokować dostęp użytkownika i trzeba zachować swoje informacje, zapoznaj się z punktem [nie jest pracownikiem, pozostawiając i trzeba zablokować dostęp do danych e-mail?](https://support.office.com/client/ba665d35-f4af-4bd0-b52d-841df7454d4b)</span><span class="sxs-lookup"><span data-stu-id="0e384-103">If you want to immediately block user access and need to keep their information, please see [Have an employee leaving and need to block access to data an email?](https://support.office.com/client/ba665d35-f4af-4bd0-b52d-841df7454d4b)</span></span>
   
-<span data-ttu-id="a99e8-104">Jeśli po prostu chcesz usunąć użytkownika i nie są związane z innym osobom, zobacz [Usuwanie użytkowników z organizacji](https://support.office.com/article/d5155593-3bac-4d8d-9d8b-f4513a81479e).</span><span class="sxs-lookup"><span data-stu-id="a99e8-104">If you simply want to delete the user and are not concerned with any of their data, please see [Delete a user from your organization](https://support.office.com/article/d5155593-3bac-4d8d-9d8b-f4513a81479e).</span></span> <span data-ttu-id="a99e8-105">Spowoduje to zwolnienie od razu do swojej licencji.</span><span class="sxs-lookup"><span data-stu-id="a99e8-105">This will immediately free up their license.</span></span>
+<span data-ttu-id="0e384-104">Jeśli po prostu chcesz usunąć użytkownika i nie są związane z innym osobom, zobacz [Usuwanie użytkowników z organizacji](https://support.office.com/article/d5155593-3bac-4d8d-9d8b-f4513a81479e).</span><span class="sxs-lookup"><span data-stu-id="0e384-104">If you simply want to delete the user and are not concerned with any of their data, please see [Delete a user from your organization](https://support.office.com/article/d5155593-3bac-4d8d-9d8b-f4513a81479e).</span></span> <span data-ttu-id="0e384-105">Spowoduje to zwolnienie od razu do swojej licencji.</span><span class="sxs-lookup"><span data-stu-id="0e384-105">This will immediately free up their license.</span></span>
   
-
