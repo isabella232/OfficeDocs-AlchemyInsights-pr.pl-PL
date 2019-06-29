@@ -1,38 +1,38 @@
 ---
-title: 8000060 dowody MSA Hotmail
+title: Dowody MSA Hotmail
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000060
+ms.custom:
+- "1006"
+- "1008"
+- "1009"
+- "1010"
+- "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 14d32dbc4180d3dd7a20830ae9fdc918570aa359
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392378"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373891"
 ---
 # <a name="security-info-and-security-codes"></a>Informacje o zabezpieczeniach i kody zabezpieczeń
 
-1. Zaloguj się na stronie [podstawy zabezpieczeń](https://account.microsoft.com/security) za pomocą konta Microsoft. 
-    
-2. Kliknij opcję **Aktualizuj informacje**. 
-    
-3. Może być poproszony wprowadź kod bezpieczeństwa, aby kontynuować. Jeśli nie masz dostępu do alternatywny adres e-mail lub numer telefonu, wybierz polecenie **nie ma żadnych z tych** i postępuj zgodnie z instrukcjami, aby zastąpić informacje dotyczące zabezpieczeń. 
-    
-4. Wybierz **Dodaj informacje o zabezpieczeniach** , a następnie postępuj zgodnie z instrukcjami, aby wprowadzić nowy adres e-mail lub numer telefonu. 
-    
-5. Wyślemy Ci kod bezpieczeństwa do tego nowy adres e-mail lub numer telefonu. Wprowadź kod zabezpieczeń, a następnie wybierz przycisk **Dalej**. Nowe informacje o zabezpieczeniach pojawi się na liście. 
-    
-6. Wybierz polecenie **Usuń** dla każdego, które chcesz usunąć. 
-    
-7. Jeśli chcesz zaktualizować które wyślemy alerty, **Zmień opcje alertów** zaznacz i usuń zaznaczenie pola wyboru przedmiot, który nie jest już informacje o zabezpieczeniach mają być wysyłane alerty, chyba że są one krytyczne. 
-    
-Dowiedz się więcej o [informacjach zabezpieczających i kody zabezpieczeń](https://support.microsoft.com/help/12428/).
-  
+Aby dodać informacje zabezpieczeń do konta:
 
+1. Zaloguj się do [podstawy zabezpieczeń](https://account.microsoft.com/security) z kontem Microsoft.
+1. Wybierz **informacje o kontakcie zabezpieczeń**.
+1. Wybierz **Dodaj informacje zabezpieczające** i postępuj zgodnie z instrukcjami, aby wprowadzić numer telefonu lub adres e-mail adres.
+1. Otrzymasz kod bezpieczeństwa pod tym adresem e-mail lub numer telefonu. Wprowadź kod bezpieczeństwa, otrzymany w oknie **Dodaj informacje o zabezpieczeniach** , a następnie wybierz przycisk **Dalej**.
+
+Jeżeli chcesz usunąć numer telefonu lub adres e-mail adres, kliknij przycisk **Usuń** obok niego.
+
+Aby zmienić numer telefonu, którego adres e-mail otrzymuje alerty zabezpieczeń zaznacz, jeśli lub **zmienić opcje alarmu**.
+
+Aby dowiedzieć się więcej, przeczytaj [Microsoft konta zabezpieczeń informacje i weryfikacja kodów](https://support.microsoft.com/help/12428/).
