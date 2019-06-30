@@ -9,23 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "98"
+- "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 50a9a1c7ef24f6b15e3cdb8c9ae31e77a159ba70
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: edff65878d516ee8676ab99a26badf5ba7ff53c7
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370444"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356175"
 ---
-# <a name="restore-a-deleted-office-365-group"></a><span data-ttu-id="fe813-102">Przywracanie usuniętych grupy usługi Office 365</span><span class="sxs-lookup"><span data-stu-id="fe813-102">Restore a deleted Office 365 group</span></span>
+# <a name="restore-a-deleted-office-365-group"></a><span data-ttu-id="cbb53-102">Przywracanie usuniętych grupy usługi Office 365</span><span class="sxs-lookup"><span data-stu-id="cbb53-102">Restore a deleted Office 365 group</span></span>
 
-<span data-ttu-id="fe813-103">Usuniętej grupy są zachowywane przez 30 dni.</span><span class="sxs-lookup"><span data-stu-id="fe813-103">Deleted groups are retained for 30 days.</span></span> <span data-ttu-id="fe813-104">Aby przywrócić usunięte grupy:</span><span class="sxs-lookup"><span data-stu-id="fe813-104">To restore a deleted group:</span></span>
+<span data-ttu-id="cbb53-103">Usuniętej grupy są zachowywane przez 30 dni.</span><span class="sxs-lookup"><span data-stu-id="cbb53-103">Deleted groups are retained for 30 days.</span></span> <span data-ttu-id="cbb53-104">Aby przywrócić usunięte grupy:</span><span class="sxs-lookup"><span data-stu-id="cbb53-104">To restore a deleted group:</span></span>
   
-1. <span data-ttu-id="fe813-105">W [Centrum administracyjnego programu Exchange](https://outlook.office365.com/ecp/)wybierz **adresatów** w lewym okienku, a następnie wybierz **grupy**.</span><span class="sxs-lookup"><span data-stu-id="fe813-105">In the [Exchange admin center](https://outlook.office365.com/ecp/), select **recipients** in the left pane, and then select **groups**.</span></span> <span data-ttu-id="fe813-106">Jeśli grupa została usunięta mniej niż 30 dni temu, to pojawi się na liście, a w kolumnie Stan będzie lista datę usunięcia.</span><span class="sxs-lookup"><span data-stu-id="fe813-106">If a group was deleted less than 30 days ago, it will appear in the list and the STATUS column will list the date deleted.</span></span>
-    
-2. <span data-ttu-id="fe813-107">Wybierz grupę i kliknij przycisk **Przywróć** na pasku poleceń lub kliknij łącze "Kliknij tutaj, aby przywrócić", w okienku szczegółów.</span><span class="sxs-lookup"><span data-stu-id="fe813-107">Select the group, and then click **Restore** on the command bar, or click the "Click here to restore" link in the details pane.</span></span> 
-    
-<span data-ttu-id="fe813-108">Aby uzyskać więcej informacji lub aby dowiedzieć się, jak przywrócić grupy za pomocą środowiska PowerShell zobacz [Przywracanie usuniętej grupy usługi Office 365](https://go.microsoft.com/fwlink/?linkid=867802).</span><span class="sxs-lookup"><span data-stu-id="fe813-108">For more info, or to learn how to restore groups using PowerShell, see [Restore a deleted Office 365 group](https://go.microsoft.com/fwlink/?linkid=867802).</span></span>
-  
+1. <span data-ttu-id="cbb53-105">W [Centrum administracyjnego programu Exchange](https://outlook.office365.com/ecp/)wybierz **adresatów** w lewym okienku, a następnie wybierz **grupy**.</span><span class="sxs-lookup"><span data-stu-id="cbb53-105">In the [Exchange admin center](https://outlook.office365.com/ecp/), select **recipients** in the left pane, and then select **groups**.</span></span> <span data-ttu-id="cbb53-106">Jeśli grupa została usunięta mniej niż 30 dni temu, to pojawi się na liście, a w kolumnie Stan będzie lista datę usunięcia.</span><span class="sxs-lookup"><span data-stu-id="cbb53-106">If a group was deleted less than 30 days ago, it will appear in the list and the STATUS column will list the date deleted.</span></span>
 
+2. <span data-ttu-id="cbb53-107">Wybierz grupę i kliknij przycisk **Przywróć** na pasku poleceń lub kliknij łącze "Kliknij tutaj, aby przywrócić", w okienku szczegółów.</span><span class="sxs-lookup"><span data-stu-id="cbb53-107">Select the group, and then click **Restore** on the command bar, or click the "Click here to restore" link in the details pane.</span></span>
+
+<span data-ttu-id="cbb53-108">Aby uzyskać więcej informacji lub aby dowiedzieć się, jak przywrócić grupy za pomocą środowiska PowerShell zobacz [Przywracanie usuniętej grupy usługi Office 365](https://go.microsoft.com/fwlink/?linkid=867802).</span><span class="sxs-lookup"><span data-stu-id="cbb53-108">For more info, or to learn how to restore groups using PowerShell, see [Restore a deleted Office 365 group](https://go.microsoft.com/fwlink/?linkid=867802).</span></span>
+  
