@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 2700001
-ms.openlocfilehash: 14c8de57d65eb30408c1240b5f968146b44be6b6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "2700001"
+- "1381"
+ms.openlocfilehash: 992c5c5e90e1e6218a0318c29c34c465ce7a8a5c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389429"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359451"
 ---
 # <a name="help-with-permissions-in-project-online"></a>Pomoc z uprawnieniami w usłudze Project Online
 
@@ -28,7 +30,3 @@ Udzielanie użytkownikom dostępu do witryny programu Project Web App przy użyc
 5. Wybierz opcję **Udostępnij**.
 
 Jeśli jest używany tryb uprawnień do projektu lub uzyskać więcej informacji, zobacz temat [Dodawanie osób do projektu w trybie Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
-
-
-  
-

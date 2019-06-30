@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1860
+ms.custom:
+- "1860"
+- "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770818"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356607"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Odwoływanie lub zamienianie wiadomości e-mail
 
@@ -25,12 +27,13 @@ ms.locfileid: "34770818"
 - Jeśli jesteś administratorem, możesz **odwoływania wiadomości w imieniu użytkowników przy użyciu środowiska PowerShell**. Nie można odwołać wiadomości z Centrum administracyjnego. Przewiń w dół do "Wyszukiwanie i usuwanie wiadomości e-mail w firmie" Aby uzyskać więcej informacji.
 
 ***Odwoływanie lub zamienianie wiadomości e-mail wysłanej przez Ciebie***
+
 1. W okienku folderów po lewej stronie okna programu Outlook wybierz folder Elementy wysłane.
 2. Otwórz wiadomość, która ma zostać odwołana. Należy kliknąć dwukrotnie Otwórz wiadomość. Zaznaczając wiadomość — będą wyświetlane w okienku odczytu nie pozwoli odwołać wiadomość.
 3. Na karcie wiadomość zaznacz **Akcje** > **Odwołaj tę wiadomość**.
 4. **Usunąć nieprzeczytane kopie tej wiadomości** lub **usunąć nieprzeczytane kopie i zastąpić je nową wiadomością**, a następnie wybierz **OK**.
 5. Jeśli wysyłasz wiadomość wymiana redagowania wiadomości, a następnie zaznacz pole wyboru **Wyślij**.
-6. Powodzenie lub niepowodzenie odwołania wiadomości zależy od ustawień adresatów w programie Outlook. 
+6. Powodzenie lub niepowodzenie odwołania wiadomości zależy od ustawień adresatów w programie Outlook.
 
 Aby uzyskać więcej informacji, w tym jak sprawdzić na przypomnienie zobacz [odwołanie lub zamień wysłaną wiadomość e-mail](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 

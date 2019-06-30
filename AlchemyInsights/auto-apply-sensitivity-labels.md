@@ -9,16 +9,19 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1737"
+- "9000181"
+ms.openlocfilehash: 58c6768a5285247273b55eeb0f3df2a797c88086
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769552"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360500"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Automatyczne stosowanie etykiet czułości
 
-Czułość etykiety mogą być stosowane do zawartości przez użytkowników mannually, lub można skonfigurować je mają być automatycznie stosowane do zawartości.
+Czułość etykiet można ręcznie wprowadzone do zawartości przez użytkowników, lub można skonfigurować je mają być automatycznie stosowane do zawartości.
 
 Automatyczne stosowanie etykiet czułość usuwa potrzebę szkolenia użytkowników na temat klasyfikacji treści oraz potrzebę powiadamia je o konfiguracji zasad.
 

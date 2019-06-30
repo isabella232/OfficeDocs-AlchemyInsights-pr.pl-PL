@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ed36ddd74a4d8a92b1743fe75574993e7de2e193
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 5d4ee6859fef7cd91630e12eab5a5c7206c13dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34914116"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381883"
 ---
 # <a name="install-visio"></a>Instalowanie programu Visio
 
 Program Visio jest sprzedawany jako aplikacja autonomiczna więc jeśli nie masz jeszcze, [kupić lub użyć programu Visio](https://products.office.com/visio). 
 
-Jeśli masz subskrypcję programu Visio Online Plan 2, użytkownicy nie będą widzieć możliwość zainstalowania programu Visio z **moim instaluje** w [portalu Moje konto](https://portal.office.com/account#installs) , chyba że masz [przypisane im licencji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764).
-
 **Uwaga**: program Visio Online Plan 1 nie zawiera wersji stacjonarnej programu Visio, więc instalacja nie jest możliwe.
 
-Aby uzyskać szczegółowe instrukcje dotyczące pobierania i instalacji programu Visio zobacz [Instalowanie programu Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764). 
+Jeśli masz subskrypcję programu Visio Online Plan 2 musi [przypisać jedną licencję](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) do użytkownika lub nie będą one mieć możliwość zainstalowania programu Visio z **moim instaluje** w [portalu Moje konto](https://portal.office.com/account#installs). 
 
-Jeśli masz ważnej subskrypcji/licencji i są wystąpiły problemy podczas instalacji, spróbuj zainstalować programu Visio przy użyciu [pomocy technicznej i Asystenta](https://aka.ms/SaRA-VisioSetupScenario).
+Wersje licencji zbiorczej inne niż w programach Visio Standard i Visio Professional są skojarzone z konta serwera Microsoft i nie mogą być zarządzane w Centrum administracyjnym. Aby zainstalować te wersje, użytkownicy muszą zalogować się [account.microsoft.com](https://account.microsoft.com) z kontem Microsoft, związane z tą wersją programu Visio.
+
+Aby uzyskać dalszą pomoc zobacz [Instalowanie programu Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) i wykonaj kroki odpowiednie dla używanej wersji programu Visio.
 
 Aby uzyskać więcej informacji, zobacz:<br>
 [Podręcznik wdrażania programu Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>

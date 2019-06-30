@@ -9,23 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "98"
+- "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 50a9a1c7ef24f6b15e3cdb8c9ae31e77a159ba70
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: edff65878d516ee8676ab99a26badf5ba7ff53c7
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370444"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356175"
 ---
 # <a name="restore-a-deleted-office-365-group"></a>Przywracanie usuniętych grupy usługi Office 365
 
 Usuniętej grupy są zachowywane przez 30 dni. Aby przywrócić usunięte grupy:
   
 1. W [Centrum administracyjnego programu Exchange](https://outlook.office365.com/ecp/)wybierz **adresatów** w lewym okienku, a następnie wybierz **grupy**. Jeśli grupa została usunięta mniej niż 30 dni temu, to pojawi się na liście, a w kolumnie Stan będzie lista datę usunięcia.
-    
-2. Wybierz grupę i kliknij przycisk **Przywróć** na pasku poleceń lub kliknij łącze "Kliknij tutaj, aby przywrócić", w okienku szczegółów. 
-    
+
+2. Wybierz grupę i kliknij przycisk **Przywróć** na pasku poleceń lub kliknij łącze "Kliknij tutaj, aby przywrócić", w okienku szczegółów.
+
 Aby uzyskać więcej informacji lub aby dowiedzieć się, jak przywrócić grupy za pomocą środowiska PowerShell zobacz [Przywracanie usuniętej grupy usługi Office 365](https://go.microsoft.com/fwlink/?linkid=867802).
   
-

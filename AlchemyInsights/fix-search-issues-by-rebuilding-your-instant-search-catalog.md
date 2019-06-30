@@ -9,25 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1800005
+ms.custom:
+- "644"
+- "1800005"
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 06cb5d8377f423682419316916a87dabc47051f8
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: f29d2b256f7cf0dbb39283724532194ecd1edb77
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769411"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387427"
 ---
 # <a name="troubleshoot-search-issues"></a>Rozwiązywanie problemów z wyszukiwania
 
 Jeśli występują problemy z wyszukiwania, zobacz poniższe łącza, aby Rozwiązywanie problemów w Pomocy.
 
 Te są najbardziej typowych problemów i są dobrym miejscem do rozpoczęcia:
+
 - [Nie wygeneruje żadnych wyników wyszukiwania w programie Outlook](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
 - [Zwraca niepełne wyniki wyszukiwania programu Outlook](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
 - [Wyszukiwania w programie Outlook nie można znaleźć wiadomości e-mail starsze](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
 
 Możliwe rozwiązania dla mniej typowych problemów można znaleźć tutaj:
+
 - [Tylko Outlook 2016: kartę Wyszukiwanie jest wyszarzona.](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
 - [Współdzielonej skrzynki pocztowej do: Problemy z wyników wyszukiwania](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
 - [Błąd: Wydajność wyszukiwania będą miały wpływ z powodu problemu z konfiguracji programu Outlook](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
