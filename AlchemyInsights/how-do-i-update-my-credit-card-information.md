@@ -9,27 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "430"
+- "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 1690c9026888e287802e50a8b71d853d06567664
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3f83db2fa1aab6a9f8171be3a423a5d87ac8ca48
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400177"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35386023"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Jak zaktualizować informacje dotyczące karty kredytowej?
 
 1. W Centrum administracyjnym przejdź do strony [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia** \> **Subskrypcje**.
-    
+
 2. Wybierz subskrypcję zakupioną przy użyciu karty kredytowej lub konta bankowego do zaktualizowania, a następnie wybierz pozycję **Aktualizuj szczegóły płatności**.
-    
+
 3. Wybierz strzałkę listy rozwijanej w obszarze **Dodaj lub wybierz metodę płatności**, wybierz kartę kredytową lub konto bankowe do zaktualizowania, a następnie wybierz pozycję **Edytuj szczegóły**.
-    
+
 4. Zaktualizuj informacje o karcie kredytowej lub koncie bankowym (nazwisko posiadacza karty kredytowej lub konta bankowego, adres na fakturze, numer telefonu bądź datę ważności) odpowiednio do potrzeb, a następnie naciśnij przycisk **Prześlij**.
-    
+
 5. Powinien zostać wyświetlony komunikat potwierdzający.
-    
+
 Aby uzyskać dodatkowe informacje, zobacz [Rozwiązywanie problemów z kartami kredytowymi i kontami bankowymi](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
-
