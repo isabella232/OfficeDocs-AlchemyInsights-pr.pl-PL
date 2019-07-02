@@ -1,5 +1,5 @@
 ---
-title: Przekazywanie raportów wiadomości e-mail
+title: Raport przesyłania dalej poczty e-mail
 ms.author: pebaum
 author: pebaum
 ms.date: 9/13/2018
@@ -7,18 +7,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Once
+ms.custom:
+- "1195"
+- "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 0d685fa21f6d82e7a08f32bf0a8c1f6911e7782c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 2d78103fcf05d23e3ba966b74bbedc411264eac3
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29483439"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388831"
 ---
-# <a name="email-forwarding-report"></a>Przekazywanie raportów wiadomości e-mail
+# <a name="email-forwarding-report"></a>Raport przesyłania dalej poczty e-mail
 
-Aby wyświetlić raport na ile wiadomości automatycznie przesyłane dalej istnieje w organizacji, sprawdź [Statystyki przepływu poczty](https://support.office.com/article/beb6acaa-6016-4d54-ba7e-3d6d035e2b46) [zabezpieczeń usługi Office 365 &amp; Centrum zgodności](https://protection.office.com/#/homepage).
+Aby wyświetlić raport dotyczący liczby wiadomości automatycznie przesyłanych dalej w organizacji, zobacz [Szczegółowe informacje o przepływie poczty e-mail](https://support.office.com/article/beb6acaa-6016-4d54-ba7e-3d6d035e2b46) w [Centrum zabezpieczeń i zgodności usługi Office 365](https://protection.office.com/#/homepage).
   
-Uwaga: Jeśli jest po raz pierwszy logujesz się do zabezpieczenia &amp; Centrum zgodności, należy odświeżyć przeglądarkę, po kilku minutach, aby zobaczyć wszystkie dostępne opcje.
+Uwaga: jeśli logujesz się po raz pierwszy do centrum zabezpieczeń i zgodności, może być konieczne odświeżenie przeglądarki po kilku minutach w celu wyświetlenia wszystkich dostępnych opcji.
   
-
