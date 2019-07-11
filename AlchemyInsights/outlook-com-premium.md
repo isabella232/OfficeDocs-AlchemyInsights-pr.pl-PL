@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "1831"
 - "9000243"
-ms.openlocfilehash: e3640f6792410551aef2b9d22b8dc6922c04027f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4bcf87b2914c22b522dd29b2e754a16a7a31e28c
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373315"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614039"
 ---
-# <a name="outlookcom-premium"></a><span data-ttu-id="3f53f-102">Premium Hotmail</span><span class="sxs-lookup"><span data-stu-id="3f53f-102">Outlook.com Premium</span></span>
+# <a name="outlookcom-premium"></a><span data-ttu-id="9f5ed-102">Premium Hotmail</span><span class="sxs-lookup"><span data-stu-id="9f5ed-102">Outlook.com Premium</span></span>
 
-<span data-ttu-id="3f53f-103">**I stniejący subskrybenci Premium**</span><span class="sxs-lookup"><span data-stu-id="3f53f-103">**Existing Premium Subscribers**</span></span>
+<span data-ttu-id="9f5ed-103">**I stniejący subskrybenci Premium**</span><span class="sxs-lookup"><span data-stu-id="9f5ed-103">**Existing Premium Subscribers**</span></span>
 
-- <span data-ttu-id="3f53f-104">Jeśli masz już subskrypcję Premium Hotmail, przeczytaj [Często zadawane pytania dotyczące premii Hotmail](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b).</span><span class="sxs-lookup"><span data-stu-id="3f53f-104">If you already have an Outlook.com Premium subscription, read the [Outlook.com Premium FAQs](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b).</span></span>
+- <span data-ttu-id="9f5ed-104">Jeśli masz już subskrypcję Premium Hotmail, przeczytaj [Często zadawane pytania dotyczące premii Hotmail](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="9f5ed-104">If you already have an Outlook.com Premium subscription, read the [Outlook.com Premium FAQs](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
 
-<span data-ttu-id="3f53f-105">**Nowych abonentów**</span><span class="sxs-lookup"><span data-stu-id="3f53f-105">**New subscribers**</span></span>
+<span data-ttu-id="9f5ed-105">**Nowych abonentów**</span><span class="sxs-lookup"><span data-stu-id="9f5ed-105">**New subscribers**</span></span>
 
-- <span data-ttu-id="3f53f-106">Przykro nam, ale Premium Hotmail jest teraz zamknięty dla nowych subskrybentów.</span><span class="sxs-lookup"><span data-stu-id="3f53f-106">We're sorry, but Outlook.com Premium is now closed to new subscribers.</span></span>
-- <span data-ttu-id="3f53f-107">Wiele [funkcji i zalet](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2) jest teraz dołączone do [subskrypcji pakietu Office 365 strona główna i Office 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122).</span><span class="sxs-lookup"><span data-stu-id="3f53f-107">Many of the [features and benefits](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2) are now included with [subscriptions to Office 365 Home and Office 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122).</span></span>
+- <span data-ttu-id="9f5ed-106">Przykro nam, ale Premium Hotmail jest teraz zamknięty dla nowych subskrybentów.</span><span class="sxs-lookup"><span data-stu-id="9f5ed-106">We're sorry, but Outlook.com Premium is now closed to new subscribers.</span></span>
+- <span data-ttu-id="9f5ed-107">Wiele [funkcji i zalet](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) jest teraz dołączone do [subskrypcji pakietu Office 365 strona główna i Office 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122).</span><span class="sxs-lookup"><span data-stu-id="9f5ed-107">Many of the [features and benefits](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) are now included with [subscriptions to Office 365 Home and Office 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122).</span></span>
