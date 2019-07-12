@@ -13,17 +13,17 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: b34e1b3d5e45fcebb8c2e3b8b8e37cf4a5a0ec8b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c056f5c78935adcf0b64779f9632f9336080a40
+ms.sourcegitcommit: dce9cf9bb05d29f0f9bab61fe3fc25e99f0cebf1
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370433"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "35630751"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>Konfiguracja urządzenia wielofunkcyjnego lub aplikacji do wysyłania wiadomości e-mail przy użyciu usługi Office 365
 
 Aby poznać dostępne opcje i instrukcje, zobacz [Jak skonfigurować urządzenie wielofunkcyjne lub aplikację do wysyłania wiadomości e-mail przy użyciu usługi Office 365](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).
   
-**Uwaga:** Jeśli masz urządzenie lub aplikację, które ostatnio przestało działać, informujemy, że zgodnie z planem rozpoczęliśmy [wyłączanie szyfrowania 3DES](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption).  **Windows Server 2003 IIS SMTP nie będzie już dłużej działać. Wymagana jest nowsza wersja systemu Windows.**
-
-Typowe błędy mogą wyglądać tak, jak te: Błąd uwierzytelniania, Błąd TLS, Błąd algorytmu szyfrowania, Niedopasowanie algorytmów lub Przerwane połączenie.   Sprawdź w aplikacji lub u dostawcy urządzenia, czy obsługiwany jest nowoczesny mechanizm szyfrowania lub czy jest dostępna aktualizacja.
+**Uwaga:** Jeśli masz urządzenie lub aplikację, które ostatnio przestało działać, informujemy, że zgodnie z planem rozpoczęliśmy [wyłączanie szyfrowania 3DES](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption). Aby wyświetlić urządzenia, na których występuje problem, przejdź do [raportu Klienci uwierzytelniania SMTP (SMTP Auth Clients)](https://protection.office.com/mailflow/dashboard). Typowe błędy mogą wyglądać tak, jak te: Błąd uwierzytelniania, Błąd TLS, Błąd algorytmu szyfrowania, Niedopasowanie algorytmów lub Przerwane połączenie. Aby rozwiązać problem:
+ - **Windows Server 2003 IIS SMTP nie będzie już dłużej działać. Wymagana jest nowsza wersja systemu Windows.**  
+ - Sprawdź w aplikacji lub u dostawcy urządzenia, czy obsługiwany jest nowoczesny mechanizm szyfrowania lub czy jest dostępna aktualizacja.
