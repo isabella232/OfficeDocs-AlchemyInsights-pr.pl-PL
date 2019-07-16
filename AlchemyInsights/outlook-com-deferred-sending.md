@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: 910e42770cd7269444e6286d44bd60d50885a220
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d81a4c575b5b47dbc16ce425163865cb04ecabab
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375475"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701369"
 ---
 # <a name="delay-or-schedule-sending-email-messages"></a>Opóźnianie dostarczania wiadomości e-mail
 
@@ -27,4 +27,4 @@ Przykro nam, ale nie może odroczyć lub ustalanie terminu wysłania wiadomości
 
 Można zmienić ustawienia Hotmail, aby opóźnić wysłanie wiadomości do 10 sekund. Można anulować wysyłanie wiadomości w tym okresie. Aby włączyć tę funkcję, Otwórz ustawienia [Cofnij wysyłanie](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .
 
-Dowiedz się więcej o [odwoływania wiadomości e-mail w Hotmail](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).
+Dowiedz się więcej o [odwoływania wiadomości e-mail w Hotmail](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).

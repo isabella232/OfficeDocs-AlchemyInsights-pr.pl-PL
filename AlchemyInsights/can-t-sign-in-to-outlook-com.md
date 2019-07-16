@@ -14,20 +14,20 @@ ms.custom:
 - "842"
 - "8000050"
 ms.assetid: 4dedba59-2b0a-4783-a97e-0cdacc5059ec
-ms.openlocfilehash: 014ef3a8c62694ef707f12dfeec0f6b8c87c9603
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3a75ccdd2adb67355ea90e44637bad40a11e65e4
+ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360574"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35704102"
 ---
 # <a name="i-cant-sign-in-or-forgot-my-password"></a>I nie można zarejestrować lub nie pamiętam mojego hasła
 
-Jeśli nadal masz problemy z zalogowaniem się do innego konta, konto może być tymczasowo zablokowane, ponieważ Zauważyliśmy nietypową aktywność logowanie. Jeśli Twoje konto zostało zablokowane, zobacz [Odblokuj mojego konta Hotmail](https://go.microsoft.com/fwlink/p/?linkid=2001800&amp;clcid=0x409).
+Jeśli nadal masz problemy z zalogowaniem się do innego konta, konto może być tymczasowo zablokowane, ponieważ Zauważyliśmy nietypową aktywność logowanie. Jeśli Twoje konto zostało zablokowane, zobacz [Odblokuj mojego konta Hotmail](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
   
 Jeśli pamiętasz hasła, możesz [zresetować hasło](https://go.microsoft.com/fwlink/p/?linkid=841909).
   
-Jeśli podejrzewasz, że włamania się swojego konta Hotmail, zobacz [włamania się konta Hotmail Mój](https://go.microsoft.com/fwlink/p/?linkid=874366).
+Jeśli podejrzewasz, że włamania się swojego konta Hotmail, zobacz [włamania się konta Hotmail Mój](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
   
 Przeczytaj więcej o [gdy nie możesz się zarejestrować do swojego konta Microsoft](https://go.microsoft.com/fwlink/p/?linkid=842227).
   

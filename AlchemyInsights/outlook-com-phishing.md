@@ -11,12 +11,12 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0551eb86016b572796a789e6e82fd4c46274bea7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d837096640d951e7fec289440f56b3339caf3680
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373567"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697309"
 ---
 # <a name="how-to-deal-with-a-phishing-email"></a>Jak radzić sobie z wiadomości e-mail
 
@@ -24,6 +24,6 @@ Na phishing jest wiadomość e-mail, która pojawia się uzasadniony, ale jest f
 
 Jeśli otrzymasz wiadomość e-mail, która wygląda na phishing, możesz to zgłosić, zaznaczając ją, a następnie wybierając pozycję **wiadomości-śmieci** > **witryn wyłudzających informacje**.
 
-*Uwaga:* Po oznaczeniu wiadomości jako phishing raportuje tylko nadawcy.Nie blokuje tego nadawcy możliwość wysyłania Ci wiadomości w przyszłości. Aby zablokować nadawcę, musisz dodać nadawcę do listy zablokowanych nadawców. Aby uzyskać więcej informacji zobacz [blokowanie nadawców lub odblokowywanie nadawców w Hotmail](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
+*Uwaga:* Po oznaczeniu wiadomości jako phishing raportuje tylko nadawcy.Nie blokuje tego nadawcy możliwość wysyłania Ci wiadomości w przyszłości. Aby zablokować nadawcę, musisz dodać nadawcę do listy zablokowanych nadawców. Aby uzyskać więcej informacji zobacz [blokowanie nadawców lub odblokowywanie nadawców w Hotmail](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Więcej informacji na temat sposobów [przeciwdziałania nadużyciom, phishing lub fałszowanie w Hotmail](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3) i [zaawansowanych zabezpieczeń Hotmail dla subskrybentów usługi Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2).
+Więcej informacji na temat sposobów [przeciwdziałania nadużyciom, phishing lub fałszowanie w Hotmail](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) i [zaawansowanych zabezpieczeń Hotmail dla subskrybentów usługi Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).

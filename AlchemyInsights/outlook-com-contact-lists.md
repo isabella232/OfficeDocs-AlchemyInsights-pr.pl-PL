@@ -11,12 +11,12 @@ ms.custom:
 - "9000258"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 979047010dee0bb5908fe9f2c9f5897f82ba0c67
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 59b4845833a8d4a50772d54852f500e2b8c8e2f6
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375691"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697021"
 ---
 # <a name="organizing-your-outlookcom-mailbox"></a>Organizowanie skrzynki pocztowej Hotmail
 
@@ -27,4 +27,4 @@ Listy kontaktów jest kolekcją adresów e-mail i jest przydatne do wysyłania w
 1. Wprowadź nazwę listy, a następnie dodać nazwy lub adresy e-mail.
 1. Wybierz polecenie **Utwórz**.
 
-Dowiedz się więcej o tym, jak [tworzyć, przeglądać i edytowanie kontaktów](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01)i listy w Hotmail kontaktów.
+Dowiedz się więcej o tym, jak [tworzyć, przeglądać i edytowanie kontaktów](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01?wt.mc_id=Office_Outlook_com_Alchemy)i listy w Hotmail kontaktów.
