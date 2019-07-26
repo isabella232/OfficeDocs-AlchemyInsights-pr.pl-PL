@@ -7,13 +7,12 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: f829b4d4b45fdfac9fc2755cc5b24b5d519051ba
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 1610ba60ad7c632cb3b2afab79d58aff4e171c93
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840489"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35902903"
 ---
 # <a name="error-404-file-not-found"></a>Błąd 404: Nie znaleziono pliku
 
@@ -24,9 +23,3 @@ Następujące czynności może pomóc w rozwiązaniu tego problemu:
 - [Widok i przywracania witryn w Centrum administracyjnego programu SharePoint usunięte](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): dla nowoczesnych witryn (komunikacji, podłączone do grupy, lub innych witryn), które istnieją w podglądzie Centrum admin.
 - [Przywracanie elementów z Kosza witryny programu SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): Aby rozwiązać plik (lub inny element) która została zmieniona, przeniesione lub usunięte przejdź do witryny programu SharePoint lub OneDrive i Wyświetl Kosz z zawartości witryny.
 - [Przeszukać dziennik inspekcji zabezpieczeń usługi Office 365 &amp; Centrum zgodności](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c): wyszukiwania dziennik inspekcji (Jeśli rejestrowanie jest włączone), jeśli nadal nie można znaleźć elementu.
-
-
-
-
-    
-
