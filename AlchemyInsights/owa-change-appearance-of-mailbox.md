@@ -9,18 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 8cce6e27c2120389ca4b3778139528afa6f341e4
-ms.sourcegitcommit: ad4257df7113531cea883b477d505918da99b325
+ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34934175"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36171368"
 ---
 # <a name="change-the-look-of-your-mailbox"></a>Zmienianie wyglądu skrzynki pocztowej
 
 Tak wygląda i zachowuje się w sposób, który ma, można zmienić wygląd okienka listy i czytania wiadomości. Wybierz, czy wiadomości ma być wyświetlany, indywidualnie lub jako rozmowy, jeśli nowych wiadomości powinno ukazać się u góry lub u dołu listy wiadomości i inne.
 
-1. Wybierz ikonę koła zębatego u góry strony, aby otworzyć Panel ustawień.
+1. Wybierz ikonę koła zębatego <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ u góry strony, aby otworzyć Panel ustawień.
 1. Można wybrać ustawienia koncentruje się skrzynki odbiorczej, wyświetlić gęstości, widoku konwersacji i okienko odczytu.
 1. U góry listy wiadomości, wybierz **Filtr** > **Sortuj według** , aby wybrać, jak chcesz sortować wiadomości e-mail.
 
