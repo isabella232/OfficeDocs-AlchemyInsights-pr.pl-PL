@@ -1,31 +1,34 @@
 ---
-title: Problemów związanych z uprawnieniami podczas przeprowadzania migracji
-ms.author: kirks
-author: Techwriter40
+title: Problemy podczas migrowania danych do programu SharePoint w trybie Online
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.openlocfilehash: c2502825962cc20ce92d6433c6e8bebbb978d3b0
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.collection: Adm_O365
+ms.custom:
+- "5300030"
+- "1885"
+ms.openlocfilehash: a404bb33e3862a94920bca609b23e8b1278d3022
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34735467"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232553"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemy podczas migrowania danych do programu SharePoint w trybie Online
 
-Wydaje się, że ponad 100 TB danych są migrowane do programu SharePoint w trybie Online.
+Wydaje się, że ponad 100 TB danych są migrowane do programu SharePoint w trybie Online. Wykonaj poniższe kroki, więc firma Microsoft może pomóc tak szybko, jak to możliwe. 
 
-Kliknij przycisk **Nowe żądanie usługi** przez telefon lub e-mail poniżej i pozostaw kwerendę jako migracji programu SharePoint ponad 100 TB w polu tekstowym.
+1. Wybierz **żądanie nowej usługi**, a następnie **zażądać nowej usługi**. 
+2. Pozostaw tytuł i opis jako **migracji programu SharePoint ponad 100 TB**.
+3. Po złożeniu bilet, zaktualizuj go z następującymi informacjami: 
 
-Po złożeniu bilet, zaktualizuj go z następującymi informacjami: 
-
-- Swoją nazwę firmy i adres URL dzierżawy
-- Szacowany rozmiar migracji
-- Oszacowanie, kiedy ma się rozpocząć i ukończyć migracji
-- Opisują, gdzie podczas migrowania zawartości, na przykład programu SharePoint Server, pole, GDrive, udziały plików itp.
+    - Szacowany rozmiar migracji.
+    - Oszacowanie, kiedy ma się rozpocząć i ukończyć migrację.
+    - Opisują, gdzie podczas migrowania zawartości, na przykład programu SharePoint Server, pole, GDrive, udziały plików, itd...
 
 
   
