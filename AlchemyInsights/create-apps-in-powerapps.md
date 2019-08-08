@@ -1,5 +1,5 @@
 ---
-title: Tworzenie aplikacji w aplikacji PowerApp
+title: Tworzenie aplikacji w usłudze PowerApps
 ms.author: toresing
 author: tomresing
 ms.date: 5/21/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
 ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2019
+ms.lasthandoff: 08/06/2019
 ms.locfileid: "30404973"
 ---
-# <a name="create-apps-with-powerapps"></a>Tworzenie aplikacji z aplikacji PowerApp
+# <a name="create-apps-with-powerapps"></a>Tworzenie aplikacji za pomocą usługi PowerApps
 
-PowerApp jest platformą programistyczną przeznaczoną dla aplikacji biznesowych. Ma trzy główne składniki: 
+Usługa PowerApps to platforma programistyczna do tworzenia aplikacji dla firm. Składa się ona z trzech głównych elementów: 
   
-- [Obszar roboczy aplikacji](https://go.microsoft.com/fwlink/?linkid=874495) nazwa rozpoczyna się od wrażenia użytkownika, umacnianie wysoce dostosowany interfejs z mocą pustym płótnie i łączy ją z wybranym źródeł danych 200. Umożliwia tworzenie aplikacji obszaru roboczego dla sieci web, mobilnych i aplikacji komputera typu tablet. 
+- [Aplikacje kanwy](https://go.microsoft.com/fwlink/?linkid=874495) powstają na bazie Twoich doświadczeń jako użytkownika i wykorzystują bardzo dostosowany do indywidualnych potrzeb interfejs oraz potęgę czystego płótna. Aplikację możesz połączyć ze źródłami danych wybranymi przez Ciebie spośród 200 dostępnych. Możesz tworzyć aplikacje kanwy przeznaczone do sieci Web, na urządzenia przenośne i tablety. 
     
-- Uruchomienie [aplikacji opartych na modelu](https://go.microsoft.com/fwlink/?linkid=874496) z modelu danych - budynku od kształtu podstawowych danych biznesowych i procesów w usłudze wspólne dane do wzorów formularzy, widoków i innych elementów. Aplikacji opartych na modelu automatycznie generować bardzo interfejsu użytkownika, który jest czuły na urządzeniach. 
+- [Aplikacje oparte na modelu](https://go.microsoft.com/fwlink/?linkid=874496) są tworzone na podstawie Twojego modelu danych. Na bazie kształtu Twoich podstawowych danych biznesowych i procesów w ramach Common Data Service (usługa danych wspólnych) tworzone są modelowe formularze, widoki i inne komponenty. W aplikacjach opartych na modelu automatycznie generowany jest znakomity interfejs użytkownika, który charakteryzuje się świetną responsywnością na różnych urządzeniach. 
     
-- [Wspólne usługi danych](https://go.microsoft.com/fwlink/?linkid=874497) jest platformy danych, który pochodzi z PowerApp i pozwala na przechowywanie i modelowanie danych biznesowych. To platformę, na której są aplikacje Dynamics 365. Jeśli jesteś klientem Dynamics danych jest już wspólne usługi danych. 
+- [Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) (usługa danych wspólnych) to platforma danych dostarczana wraz z usługą PowerApps i umożliwiająca przechowywanie i modelowanie danych biznesowych. To platforma, na bazie której tworzone są aplikacje usługi Dynamics 365. Jeśli jesteś klientem korzystającym z usługi Dynamics, Twoje dane znajdują się już w Common Data Service. 
     
-[Więcej informacji na temat PowerApp](https://go.microsoft.com/fwlink/?linkid=874498)
+[Więcej informacji o usłudze PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
   
 
