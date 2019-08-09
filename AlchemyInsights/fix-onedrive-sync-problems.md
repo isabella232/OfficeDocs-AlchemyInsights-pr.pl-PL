@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "824"
+- "5800003"
 ms.assetid: 3a05fcd2-639a-4f16-a6ed-1cffa35fbdb3
-ms.openlocfilehash: c97444d0afa001f20e7c0edcd798501cc21bda46
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 37c6f166c14303c8f92ac0e6342554effd181df1
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401485"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36269782"
 ---
 # <a name="fix-onedrive-sync-problems"></a>Rozwiązywanie problemów z synchronizacją usługi OneDrive
 
@@ -26,6 +28,6 @@ ms.locfileid: "32401485"
     
 - Odłączyć OneDrive i uruchom ponownie Instalatora OneDrive: kliknij prawym przyciskiem myszy ikonę Niebieskie chmury OneDrive w obszar powiadomień, po prawej stronie paska zadań. Kliknij przycisk **Ustawienia**, a następnie kliknij przycisk **Odłącz ten komputer**. Postępuj zgodnie z instrukcjami Zapraszamy do kreatora, OneDrive ponownie skonfigurować OneDrive.
     
-[Więcej kroków rozwiązywania problemów problemy z synchronizacją](https://go.microsoft.com/fwlink/?linkid=866431)
+[Więcej kroków rozwiązywania problemów problemy z synchronizacją](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-US&rs=en-US&ad=US)
   
 
