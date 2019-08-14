@@ -13,12 +13,12 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 9f448e8927f60c6045831805ee238a1762531fd6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 55243adda44931a78ca2a8af06565b8a48dd10b5
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365247"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387592"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>Co dzieje się moje dane i dostępu, gdy kończy się Moja subskrypcja Office 365 dla firmy?
 
@@ -26,8 +26,6 @@ Gdy subskrypcja usługi Office 365 kończy się — ponieważ jej wygaśnięcia 
   
 Przed subskrypcji faktycznie osiąga jego datą ważności, masz kilka opcji do **zarządzania cykliczne faktury dla subskrypcji**.
   
-- **Cykliczne płatności** jest już włączona, nie trzeba podejmować żadnych działań. Twoja subskrypcja zostanie naliczony na jego datę **faktury cykliczne** i obciąży Cię o dodatkowy rok lub miesiąc, w zależności od Twojego Bieżąca częstotliwość płatności. Jeśli z jakiegokolwiek powodu została wyłączona **cykliczne płatności** , możesz zawsze [włączyć powtarzających się płatności na](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
+- **Cykliczne płatności** jest już włączona, nie trzeba podejmować żadnych działań. Twoja subskrypcja zostanie naliczony na jego datę **faktury cykliczne** i obciąży Cię o dodatkowy rok lub miesiąc, w zależności od Twojego Bieżąca częstotliwość płatności. Jeśli z jakiegokolwiek powodu została wyłączona **cykliczne płatności** , możesz zawsze [włączyć powtarzających się płatności na](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- Jeśli jesteś klientem licencjonowania zbiorowego Open z przedpłat, roczną subskrypcję, skontaktuj się z partnerem do zakupu nowego klucza produktu. Otrzymasz instrukcje za pośrednictwem poczty e-mail, aby aktywować swój klucz w [Centrum usług licencjonowania zbiorowego](https://go.microsoft.com/fwlink/p/?LinkID=282016). Aby dowiedzieć się, jak znaleźć nowego partnera lub partnerów, który już pracował w przeszłości, zobacz [Znajdowanie partnerem Office 365 lub sprzedawcą](https://support.office.com/article/b6c18a9b-2aed-4c84-9d75-af709160258c).
-
-- Jeśli masz Office 365 Business, zobacz [Zarządzanie cykliczne faktury za subskrypcję](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
+- Jeśli jesteś klientem licencjonowania zbiorowego Open z przedpłat, roczną subskrypcję, skontaktuj się z partnerem do zakupu nowego klucza produktu. Otrzymasz instrukcje za pośrednictwem poczty e-mail, aby aktywować swój klucz w [Centrum usług licencjonowania zbiorowego](https://go.microsoft.com/fwlink/p/?LinkID=282016). Aby dowiedzieć się, jak znaleźć nowego partnera lub partnerów, który już pracował w przeszłości, zobacz [Znajdowanie partnerem Office 365 lub sprzedawcą](https://docs.microsoft.com/en-us/office365/admin/manage/find-your-partner-or-reseller).

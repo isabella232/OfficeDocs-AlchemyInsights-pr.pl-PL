@@ -13,14 +13,13 @@ ms.custom:
 - "469"
 - "1500025"
 ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: aa7a7c1bea0ae08f4781c656646ef65aefd1301c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361863"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386911"
 ---
 # <a name="change-how-often-you-pay"></a>Zmień częstotliwość płatności
 
  **Chcesz zmienić częstotliwość dokonywania płatności?** Jeśli chcesz zmienić, jak często trzeba zapłacić za swoje usługi Office 365 subskrypcji business, albo z rocznych co miesiąc lub co miesiąc, aby roczne, pomożemy Ci z tym. Najpierw musisz się do zakupu tej samej subskrypcji z nową częstotliwość płatności i anulować subskrypcję stare. Użyj opcji "Daj nam Ciebie zadzwonić", aby porozmawiać z pracownikiem pomocy technicznej.
-  

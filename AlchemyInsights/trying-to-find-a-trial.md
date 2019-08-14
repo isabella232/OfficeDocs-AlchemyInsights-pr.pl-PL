@@ -13,18 +13,18 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366759"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387854"
 ---
 # <a name="trying-to-find-a-trial"></a>Próby znalezienia wersji próbnej?
 
-Jeśli chcesz spróbować nowej usługi w Centrum administracyjnym usługi Microsoft 365 można znaleźć listę dostępnych subskrypcji wersji próbnej.
+Jeśli chcesz spróbować nowej usługi można znaleźć listę dostępnych subskrypcji wersji próbnej, w Centrum administracyjnym.
   
-1. Przejdź do strony [Usługi zakupu](https://go.microsoft.com/fwlink/p/?linkid=868433) , lub wybierz polecenie **płatności** \> **zakup usług**.
+1. W Centrum administracyjnym przejdź do **fakturowania** \> strona [Zakup usług](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
 2. Znajdź subskrypcję, która odpowiada Twoim potrzebom, myszy nad nim, i wybierz polecenie **Rozpocznij okres próbny**.
 

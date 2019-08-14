@@ -13,12 +13,12 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: 56415e03dedfa607e956a28e8781315aae567f7c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 89178c32cfd9d5b7cd5985122b1509b0d9c5d648
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365118"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387539"
 ---
 # <a name="when-is-my-credit-card-charged"></a>Kiedy jest obciążona mojej karty kredytowej?
 
@@ -26,4 +26,4 @@ Przy pierwszym zakupie może potrwać do dwóch dni za opłatą występuje.
   
 Cykliczne opłat zdarzyć w ciągu jednego dnia faktury tworzony.
   
-Jeśli opłata nie powiedzie się, system będzie próbował rozliczyć saldo w ciągu najbliższych kilku tygodni. Istnieje możliwość aktualizacji Twoich informacji o płatności w dowolnym momencie, aby zapewnić, że następny bezpłatnie próba zakończy się pomyślnie. Aby uzyskać więcej informacji zobacz [Dodawanie, aktualizowanie i usuwanie karty kredytowej lub konta bankowego w usłudze Office 365 dla firm](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Jeśli opłata nie powiedzie się, system będzie próbował rozliczyć saldo w ciągu najbliższych kilku tygodni. Istnieje możliwość aktualizacji Twoich informacji o płatności w dowolnym momencie, aby zapewnić, że następny bezpłatnie próba zakończy się pomyślnie. Aby uzyskać więcej informacji zobacz [Dodawanie, aktualizowanie i usuwanie karty kredytowej lub konta bankowego w usłudze Office 365 dla firm](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

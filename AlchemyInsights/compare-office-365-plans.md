@@ -13,12 +13,12 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: f9635956184ed2bb46772b7a2f25c4798a1aa082
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2bc74bf0d2bbb12a0973abf045020ce9b39014cf
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362223"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386630"
 ---
 # <a name="compare-office-365-plans"></a>Porównanie planów usługi Office 365
 
@@ -28,7 +28,6 @@ Plany usługi Office 365 są dostępne dla [firm](https://products.office.com/co
   
 Jeśli w organizacji jest planowane porównywanie wszystkich planów i ich ceny, przejrzyj [porównać wszystkie plany Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Jeśli dana organizacja nabyła już planu usługi Office 365 i jest zainteresowany przełączenie do innego planu, możesz więc z Centrum administracyjnego usługi Microsoft 365, przejdź do [subskrypcji](https://go.microsoft.com/fwlink/p/?linkid=842054), lub wybrać **rozliczeń** \> **subskrypcji**. **Przełącznik plany** będą wyświetlać listę nowych planów, które są dostępne.
+Jeśli dana organizacja nabyła już planu usługi Office 365 i jest zainteresowany przełączenie do innego planu można to zrobić z Centrum administracyjnego usługi Microsoft 365. Przejdź do **fakturowania** \> [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) strona, a następnie wybierz **Plany przełącznik** do wyświetlania listy nowe plany, które są dostępne.
   
-Organizacji można również mieszać i dopasowywać plany usługi Office 365 do zaspokojenia potrzeb i wymagań funkcji użytkowników. Z Office 365 administrator, przejdź do strony [Usługi zakupu](https://go.microsoft.com/fwlink/p/?linkid=868433) , lub wybierz polecenie **płatności** \> **Zakup usług**.
-  
+Organizacji można również mieszać i dopasowywać plany usługi Office 365 do zaspokojenia potrzeb i wymagań funkcji użytkowników. Z Centrum administracyjnego, przejdź do **fakturowania** \> strona [Zakup usług](https://go.microsoft.com/fwlink/p/?linkid=868433) .

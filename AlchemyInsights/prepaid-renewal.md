@@ -13,16 +13,16 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 156b1b9563f2996dd4c9303ea1506e4c5e74917c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371217"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388610"
 ---
 # <a name="prepaid-renewal"></a>Odnowienie przedpłaty
 
-1. W Centrum administracyjnym przejdź do strony [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia** \> **Subskrypcje**.
+1. W Centrum administracyjnym przejdź do **fakturowania** \> stronie [subskrypcji](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Wybierz przedpłaconej subskrypcji, które chcesz rozszerzyć, a następnie wybierz polecenie **Powiększ**.
 
@@ -33,3 +33,5 @@ ms.locfileid: "35371217"
 5. Upewnij się, że informacje są poprawne, a następnie wybierz **Następny**.
 
 6. Wybierz przycisk radiowy, aby przedłużyć termin zakończenia istniejących licencji, a następnie wybierz **Następny**.
+
+Czy używasz nowego Centrum administracyjnego? Nowe kroki zobacz [Dodawanie licencji lub rozszerzyć subskrypcję zapłacony za pomocą klucza produktu](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).

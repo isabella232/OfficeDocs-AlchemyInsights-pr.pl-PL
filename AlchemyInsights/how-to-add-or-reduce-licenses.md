@@ -13,18 +13,18 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: c30ac911efddfa2e5c5e034af0dd27e029ab706a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f2d9896f10f122e3d1e6b24de441144134d03570
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385663"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388826"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Jak dodać lub zmniejszyć licencji
 
 Oto jak usunąć lub kupić więcej licencji.
   
-1. W Centrum administracyjnym przejdź do strony [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia** \> **Subskrypcje**.
+1. W Centrum administracyjnym przejdź do **fakturowania** \> stronie [subskrypcji](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Po lewej stronie Wybierz subskrypcję, z którego chcesz usunąć licencje
 
@@ -38,13 +38,15 @@ Oto jak usunąć lub kupić więcej licencji.
 
 > [!NOTE]
 > Żadnych nowych opłat (wzrost licencji) lub faktury (zmniejszenie licencji) pojawi się na następnej fakturze.
-  
+
+Czy używasz nowego Centrum administracyjnego? Nowe znajduje się [kupić licencje użytkownika usługi Office 365 business subskrypcji](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses).
+
  **Zasoby**
   
-- [Usuwanie licencji z subskrypcji usługi Office 365 dla firm](https://support.office.com/article/9c64d127-e2dd-4ecc-81f5-2f87e5a74803)
+- [Usuwanie licencji z subskrypcji usługi Office 365 dla firm](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
 
-- [Zakup licencji dla subskrypcji usługi Office 365 dla firm](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+- [Zakup licencji dla subskrypcji usługi Office 365 dla firm](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses)
 
-- [Anulowanie subskrypcji usługi Office 365 dla firm](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Anulowanie subskrypcji usługi Office 365 dla firm](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
 
-- [Kupowanie innej subskrypcji usługi Office 365 dla firm](https://support.office.com/article/fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [Kupowanie innej subskrypcji usługi Office 365 dla firm](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-another-subscription)

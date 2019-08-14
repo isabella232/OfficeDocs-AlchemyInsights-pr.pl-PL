@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 6e47011a79db805085e16e520455b64b937f0c3b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358839"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385875"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktywowanie subskrypcji usługi Microsoft Office 365 woluminu licencji
 
@@ -32,4 +32,4 @@ ms.locfileid: "35358839"
 
 5. Zaloguj się w usłudze Office 365 ([https://portal.office.com](https://portal.office.com)) przy użyciu istniejących poświadczeń administratora usługi Office 365. Po pomyślnym zalogowaniu, otrzymasz innej e-mail z potwierdzeniem zakupu.
 
-6. Po zalogowaniu, należy przejść do strony [subskrypcji](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybrać **rozliczeń**  - \> **subskrypcji** , aby zweryfikować, że zakupione subskrypcji pakietu Office 365 są uaktywnione w dzierżawie. (Również można na karcie **subskrypcji** w centrum VLSC, aby wyświetlić szczegóły weryfikowanie subskrypcji został złożony.) 
+6. Po zalogowaniu, można przejść do **fakturowania** \> strony [subskrypcji](https://go.microsoft.com/fwlink/p/?linkid=842054) , aby zweryfikować, że zakupione subskrypcji pakietu Office 365 są uaktywnione w dzierżawie. (Również można na karcie **subskrypcji** w centrum VLSC, aby wyświetlić szczegóły weryfikowanie subskrypcji został złożony.)

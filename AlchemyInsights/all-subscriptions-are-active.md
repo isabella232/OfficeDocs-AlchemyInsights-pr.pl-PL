@@ -13,16 +13,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: 05441af38fff4f6920a801aceb0dc5456d276b2f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b91e12002a58e206d03142b3ab8b9090dfafacd5
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357291"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386234"
 ---
 # <a name="all-subscriptions-are-active"></a>Wszystkie subskrypcje są aktywne
 
-Subskrypcje są aktywne. To można sprawdzić, przechodząc do strony [subskrypcji](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierając **rozliczeń** \> **subskrypcji**. Subskrypcje są uporządkowane według stanu z aktywnych subskrypcji u góry. Dodatkowe informacje, takie jak metoda płatności i liczba licencji można zobaczyć wybierając subskrypcji.
+Subskrypcje są aktywne. Można to sprawdzić przechodząc do **fakturowania** \> stronie [subskrypcji](https://go.microsoft.com/fwlink/p/?linkid=842054) . Subskrypcje są uporządkowane według stanu z aktywnych subskrypcji u góry. Dodatkowe informacje, takie jak metoda płatności i liczba licencji można zobaczyć wybierając subskrypcji.
   
 Jeśli występują problemy z usługą, należy użyć opcji "Daj nam Ciebie zadzwonić", aby porozmawiać z pracownikiem pomocy technicznej.
-  

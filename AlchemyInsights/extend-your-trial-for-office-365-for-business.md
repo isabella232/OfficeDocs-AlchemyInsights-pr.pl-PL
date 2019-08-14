@@ -13,24 +13,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 2754d2c8a1d0e2ab5aaf751ca3bedfe41b11ba3a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ab26fc36d31badde5eef3a23082c96d23a5d744f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387917"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389042"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Rozszerzyć wersję próbną pakietu Office 365 dla firm
 
 Jeśli subskrypcji wersji próbnej jest w ciągu 15 dni upływającego i badania klinicznego nie został przedłużony przed, można rozszerzyć na kolejny okres 30-dniowej wersji próbnej. Możesz to zrobić tylko jeden raz.
   
-1. W Centrum administracyjnym przejdź do strony [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia** \> **Subskrypcje**.
+1. W Centrum administracyjnym przejdź do **fakturowania** \> stronie [subskrypcji](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Wybierz opcję subskrypcji wersji próbnej, który chcesz rozszerzyć.
 
-3. Wybierz polecenie **Powiększ wersji próbnej** i wykonaj kroki w kreatorze.
+3. Wybierz polecenie **Powiększ wersji próbnej** i wykonaj pozostałe kroki.
 
 4. Należy podać dane karty kredytowej, aby rozszerzyć swoją wersję próbną. Możemy nie obciąży Twojej karty kredytowej kwotą badanie rozszerzenie.
 
-Aby dowiedzieć się więcej o rozszerzaniu prób lub instrukcje krok po kroku, zobacz [Rozszerzanie wersji próbnej programu Office 365 dla firm](https://support.office.com/article/75533195-f1f6-4c2c-8ceb-0b5597790d7b).
-  
+Aby dowiedzieć się więcej o rozszerzaniu prób lub instrukcje krok po kroku, zobacz [Rozszerzanie wersji próbnej programu Office 365 dla firm](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/extend-your-trial).

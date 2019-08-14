@@ -13,12 +13,12 @@ ms.custom:
 - "53"
 - "1400001"
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 3751135ef7dd28a3a798d460fd2a82add6906b93
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b1535e88e2c3a48da904b226509f4dd9c4988cc7
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361701"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387314"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Anulowanie subskrypcji usługi Office 365?
 
@@ -26,4 +26,4 @@ Niestety można go zobaczyć, ale dostępne są następujące opcje można anulo
   
 - **Oparty na danych organizacji, Wierzymy, że wszystkie bieżące subskrypcje są subskrypcji wersji próbnej. Istnieje konieczność anulowania subskrypcji próbnej jawnie, ponieważ płatności nie wymagają subskrypcji wersji próbnej i nie jest zobowiązany po zakończeniu okresu próbnego.**
 
-- Aby dowiedzieć się więcej o anulowanie subskrypcji lub instrukcje krok po kroku, zobacz ten artykuł: [Anuluj Office 365 dla firm](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- Aby dowiedzieć się więcej o anulowanie subskrypcji lub instrukcje krok po kroku, zobacz ten artykuł: [anulowanie subskrypcji](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)

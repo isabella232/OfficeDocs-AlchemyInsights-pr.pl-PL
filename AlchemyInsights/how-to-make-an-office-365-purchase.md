@@ -13,29 +13,31 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: ffffbe80c67e223aa7084dd93944c63a055c069e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 186aefa35d6090189df28b15a6a5e4a9bb8b573d
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384331"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390990"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Jak dokonać zakupu usługi Office 365
 
-W Centrum administracyjnego mogą dokonywać zakupów w usłudze Office 365. Przejdź do strony [subskrypcji](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz polecenie **płatności** \> **subskrypcji**.
+W Centrum administracyjnego mogą dokonywać zakupów w usłudze Office 365.
   
-- Zakup subskrypcji, przejdź na stronę [Zakupu usługi](https://go.microsoft.com/fwlink/p/?linkid=868433) Office 365, lub wybierz **płatności** \> **Zakup usług**.
+- Do zakupu usługi Office 365 subskrypcji przejdź do **fakturowania** \> strona [Zakup usług](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-- Do zakupu dodatkowych licencji przejdź do strony [subskrypcji](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz polecenie **płatności** \> **subskrypcji**. Na stronie **subskrypcji** Wybierz subskrypcję, którą chcesz dodać licencje do, a następnie wybierz polecenie **Dodaj/Usuń licencje**.
+- Aby zakupić dodatkowe licencje, należy przejść do **fakturowania** \> stronie [subskrypcji](https://go.microsoft.com/fwlink/p/?linkid=842054) . Na stronie **subskrypcji** Wybierz subskrypcję, którą chcesz dodać licencje do, a następnie wybierz polecenie **Dodaj/Usuń licencje**.
 
 - Aby przełączyć się do innego planu:
 
   - **Przełącznik plany** będą wyświetlać listę nowych planów, które są dostępne.
 
   - Wybierz plan, aby zobaczyć nowy koszt całkowity miesięcznie. Należy koniecznie przeczytaj najważniejsze informacje, a następnie wybierz **Dalej** do wyewidencjonowania.
+
+Czy używasz nowego Centrum administracyjnego? Nowe kroki zobacz [uaktualnienia do innego planu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
   
  **Dodatkowe zasoby**
   
-- [Przypisywanie licencji użytkownikom w usłudze Office 365 dla firm](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+- [Przypisywanie licencji użytkownikom w usłudze Office 365 dla firm](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Anulowanie usługi Office 365 dla firm](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Anulowanie usługi Office 365 dla firm](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
