@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903720"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387773"
 ---
 # <a name="update-payment-details"></a>Aktualizowanie szczegółów płatności
 
-1. W Centrum administracyjnym przejdź do strony [Metody płatności](https://go.microsoft.com/fwlink/p/?linkid=2018806) lub wybierz pozycję **Rozliczenia** \> **Metody płatności**.
+1. W centrum administracyjnym przejdź na stronę **Rozliczenia** \> [Metody płatności](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
     > [!NOTE]
     > Jeśli masz do czynienia z pętlą, która odsyła Cię ponownie do strony głównej centrum administracyjnego przed ukończeniem aktualizacji, wypróbuj tryb InPrivate lub incognito.
@@ -37,4 +37,4 @@ ms.locfileid: "35903720"
 
 5. Aby usunąć tę metodę płatności, wybierz pozycję **Usuń**.
 
-Aby uzyskać więcej informacji, zobacz [Dodawanie, aktualizowanie lub usuwanie karty kredytowej bądź konta bankowego w usłudze Office 365 dla firm](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) i [Rozwiązywanie problemów z kartami kredytowymi i kontami bankowymi](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Aby uzyskać więcej informacji, zobacz [Dodawanie, aktualizowanie lub usuwanie karty kredytowej bądź konta bankowego w usłudze Office 365 dla firm](https://docs.microsoft.com/pl-PL/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) i [Rozwiązywanie problemów z kartami kredytowymi i kontami bankowymi](https://docs.microsoft.com/pl-PL/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
