@@ -1,9 +1,9 @@
 ---
 title: Rozwiązywanie problemów w usłudze SharePoint Online za pomocą polecenia „Otwórz w Eksploratorze”
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 manager: pamgreen
-ms.date: 5/17/2018
+ms.date: 8/7/19
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 13149d288336b487441c66521b32406e408911fd
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: afee367e250357b20b77f0ea5dfe66d68967eb2a
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803048"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270718"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Rozwiązywanie problemów w usłudze SharePoint Online za pomocą polecenia „Otwórz w Eksploratorze”
 
@@ -31,9 +31,9 @@ W przypadku korzystania z opcji widoku Eksploratora zamiast z nowego klienta syn
 
 > [!Note]  
 > Przycisk **Otwórz w Eksploratorze** nie jest wyświetlany w nowym środowisku biblioteki. Wybierz listę rozwijaną **Widok** w prawym górnym rogu (nazwa listy rozwijanej zmienia się w zależności od bieżącego widoku), a następnie wybierz pozycję **Wyświetl w Eksploratorze plików**.
-
+>
  >W programie SharePoint do polecenia Otwórz w Eksploratorze są używane kontrolki ActiveX, więc jest ono obsługiwane tylko w programie Internet Explorer 10 lub 11. Polecenie Otwórz w Eksploratorze nie działa w systemie Windows przy użyciu przeglądarki Microsoft Edge, Google Chrome i Mozilla Firefox lub na platformie Mac. Z tego powodu opcja Widoku Eksploratora może być wyszarzona.
-
+>
 > - [Dlaczego przyciski na wstążce programu SharePoint są niedostępne lub wyszarzone](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca).
   
 
