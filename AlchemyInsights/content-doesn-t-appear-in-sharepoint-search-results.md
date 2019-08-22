@@ -11,12 +11,12 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: 8215b0a5cde5adffa3bec37d6699418557f914dd
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ffb6bf349f9e8c2323186a8fc3183325d1d7e1bf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363825"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517041"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Zawartość nie jest widoczna w wynikach wyszukiwania programu SharePoint
 
@@ -28,7 +28,7 @@ Wykonaj następujące kroki rozwiązywania problemów, gdy oczekiwana zawartoś�
 
 3. Sprawdź, czy strony, dokumentu lub układ strony niestandardowe jest publikowany jako **wersja główna.** Wykonaj krok 3 w [Wyszukiwanie nie zwraca wyników wszystkich w dokumentacji Online programu SharePoint](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. Sprawdź, czy użytkownik ma **uprawnienia** do wyświetlania zawartości. Postępuj zgodnie z instrukcjami [zrozumienie poziomy uprawnień w programie SharePoint](https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels).
+4. Sprawdź, czy użytkownik ma **uprawnienia** do wyświetlania zawartości. Postępuj zgodnie z instrukcjami [zrozumienie poziomy uprawnień w programie SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
     
 5. Jeśli zmieniono schematu wyszukiwania, dodając nową właściwość zarządzaną, edytując właściwości zarządzanej lub usuwając właściwości zarządzanej prośbą o przeszukiwanie i indeksowanie będzie wymagane. **Ponowne indeksowanie** zawartości, wykonując kroki opisane w [ręcznie zażądać i ponownego indeksowania danej witryny, listy lub biblioteki](https://docs.microsoft.com/sharepoint/crawl-site-content). To może trochę potrwać, odczekać 24 godziny przed ponownym sprawdzaniem wyników.
 

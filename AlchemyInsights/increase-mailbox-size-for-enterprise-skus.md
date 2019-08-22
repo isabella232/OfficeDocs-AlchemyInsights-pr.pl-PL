@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 49d2b7655cd086fd56f5a6fc45ac437b6ca95970
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 2092a4a1f45d5edf99471c88a0556721b5a1f38e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412490"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499433"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Co zrobić, jeśli rozmiar skrzynki pocztowej jest już 100GB
 
@@ -26,7 +26,7 @@ Aby włączyć archiwizację poczty e-mail:
   
 1. W Centrum administracyjnego usługi Microsoft 365 przejdź do **gniazd produkcyjnych Admin** \> **programu Exchange**. 
     
-2. Wybierz **adresatów** \> ** skrzynek pocztowych ** i wybierz skrzynkę pocztową. 
+2. Wybierz **adresatów** \> **skrzynek pocztowych**, a następnie wybierz skrzynkę pocztową. 
     
 3. W okienku szczegółów w obszarze **Archiwum w miejscu**wybierz opcję **Włącz**. 
     

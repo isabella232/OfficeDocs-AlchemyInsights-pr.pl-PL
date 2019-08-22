@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385622"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495041"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Dodawanie miejsc do przedpłaconej subskrypcji
 
-1. W Centrum administracyjnym przejdź do **fakturowania** \> stronie [subskrypcji](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+Przedpłacone licencji usługi Office 365 są wydawane jako 25-znakowy kod alfanumeryczny. Po zakupie licencji, które są potrzebne, można dodać je do subskrypcji. 
 
-2. Wybierz przedpłaconej subskrypcji chcesz dodać użytkowników do.
+1. W Centrum administracyjnym przejdź do **fakturowania** > stronę[produktów & usług](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-3. Wybierz polecenie z menu **więcej akcji** **odnawiania lub dodać licencję z tokenu**.
+2. Znajdź subskrypcję, do której chcesz dodać licencje. Zaznacz na liście rozwijanej **więcej akcji** , a następnie wybierz **odnawiania lub dodać licencję z tokenu**.
 
-4. Wybierz opcję **Nowe i nieużywane produkt klucz** . (Jeśli ta subskrypcja została utworzona za pomocą klucza produktu zakupiony w punkcie sprzedaży detalicznej, może mieć możliwość dodania użytkowników z innych metod płatności).
+3. Na **odnawiania lub Dodaj licencje użytkownika** strony, wybierz opcję **Użyj klucza produktu nowe i nieużywane**, a następnie wybierz przycisk **Dalej**.
 
-5. Wybierz przycisk **Dalej**.
+4. Wprowadź klucz produktu, a następnie wybierz przycisk **Dalej**.
 
-6. Wprowadź klucz produktu, a następnie wybierz **Następny**.
+    > [!NOTE]
+    > Jeśli masz więcej niż jeden klucz produktu można wybrać **dodać inny klucz produktu** do wejścia do nich.
 
-7. Wybierz opcję, aby dodać więcej użytkowników, wybierz **Dalej**, a następnie wybierz pozycję **Zrealizuj**.
+5. Wybierz dodać użytkowników do subskrypcji, a następnie wybierz przycisk **Dalej**.
 
-Czy używasz nowego Centrum administracyjnego? Nowe kroki zobacz [Dodawanie licencji lub rozszerzyć subskrypcję zapłacony za pomocą klucza produktu](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+6. Przejrzyj szczegóły zamówienia, a następnie kliknij przycisk **Zrealizuj**.
+
+Aby uzyskać więcej informacji zobacz [Dodawanie licencji lub rozszerzyć subskrypcję zapłacony za pomocą klucza produktu](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

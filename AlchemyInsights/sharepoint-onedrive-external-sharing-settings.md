@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 6417ff45a94c7b8fb50c8a1f9f84873714e3eaaf
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059190"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507893"
 ---
-# <a name="external-sharing-settings-for-sharepoint--onedrive"></a>Ustawienia dla SharePoint & OneDrive udostępniania zewnętrznych
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Ostrzeżenie: zasady firmy nie zezwalają na udostępnianie tych użytkowników
 
 Użytkownicy mogą wystąpić komunikat ostrzegawczy, gdy próbujesz udostępnić użytkownikom zewnętrznym w danej organizacji. Wiadomość jest **zasady firmy nie zezwalają na udostępnianie tych użytkowników. Przejdź do udostępniania zewnętrznych w Centrum administracyjnym usługi Office 365 umożliwiające jej**. Często zdarza się po raz pierwszy próbuje udostępnić użytkownikom zewnętrznym lub w przypadku udostępniania nowych użytkowników zewnętrznych.
 

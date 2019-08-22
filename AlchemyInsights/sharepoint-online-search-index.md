@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: fc49978fbd2c07381dae83061b1a1868cd1df0d0
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059262"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507641"
 ---
-# <a name="search-in-sharepoint-online"></a>Wyszukaj w trybie Online w programie SharePoint
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Zawartości przeszukiwania i indeksowania w dokumentacji Online programu SharePoint
 
 Zawartość musi przeszukanych i dodane do indeksu wyszukiwania użytkownikom znajdowanie, czego szukają w dokumentacji Online programu SharePoint. Automatycznie przeszukiwania zawartości oparty na harmonogram przeszukiwania wstępnie zdefiniowane (nie można zmienić harmonogram przeszukiwania). Przeszukiwarka odbierze zawartość, która została zmieniona od czasu ostatniego przeszukiwania i aktualizuje indeks. Aby zapewnić przeszukiwania zawartości i aktualizacji indeksu, należy zauważyć, że:
 
@@ -30,7 +30,8 @@ Zawartość musi przeszukanych i dodane do indeksu wyszukiwania użytkownikom zn
 
     Jeśli więcej niż 24 godziny upłynęło od momentu zainicjowania przeszukiwania i pełne ponowne indeksowanie, należy zalogować się przypadek pomocy technicznej. W wielu przypadkach już pracujemy nad rozwiązaniem. Podaj co najmniej 24 godziny, aby ukończyć rozwiązania.
 
->[! Ważne!]: Jeśli witryny, dokument (Biblioteka) lub listę usuniętych i nadal pokazuje w wynikach wyszukiwania, dla użytkowników powinien otrzymać **Błąd 404 Nie można odnaleźć pliku** , gdy próbuje uzyskać do niego dostęp. Ten problem powinny być rejestrowane jako przypadek pomocy technicznej w odniesieniu do dalszych badań. 
+> [!IMPORTANT]
+> Jeśli witryna, dokument (Biblioteka) lub listę został usunięty i nadal wyświetlany w wynikach wyszukiwania, użytkownik powinien otrzymać **Błąd 404 Nie można odnaleźć pliku** podczas próby dostępu do niego. Ten problem powinny być rejestrowane jako przypadek pomocy technicznej w odniesieniu do dalszych badań. 
 
 
 
