@@ -15,15 +15,15 @@ ms.custom:
 - "3500013"
 - "3800012"
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
-ms.openlocfilehash: 24fba159debdd47eefba232d21a338c8f90938e1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8717573bde50cf64ffc8174b116674dec217dc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385051"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541206"
 ---
-# <a name="how-to-create-and-manage-room-mailboxes"></a><span data-ttu-id="74712-102">Sposób tworzenia i zarządzania skrzynkami pocztowymi pokój</span><span class="sxs-lookup"><span data-stu-id="74712-102">How to create and manage room mailboxes</span></span>
+# <a name="how-to-create-and-manage-room-mailboxes"></a><span data-ttu-id="1b444-102">Sposób tworzenia i zarządzania skrzynkami pocztowymi pokój</span><span class="sxs-lookup"><span data-stu-id="1b444-102">How to create and manage room mailboxes</span></span>
 
-<span data-ttu-id="74712-103">Do tworzenia i modyfikowania skrzynek pocztowych w pokoju, zobacz [tworzenia i zarządzania skrzynkami pocztowymi pokoju](https://technet.microsoft.com/library/jj215781.aspx).</span><span class="sxs-lookup"><span data-stu-id="74712-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://technet.microsoft.com/library/jj215781.aspx).</span></span>
+<span data-ttu-id="1b444-103">Do tworzenia i modyfikowania skrzynek pocztowych w pokoju, zobacz [tworzenia i zarządzania skrzynkami pocztowymi pokoju](https://technet.microsoft.com/library/jj215781.aspx).</span><span class="sxs-lookup"><span data-stu-id="1b444-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://technet.microsoft.com/library/jj215781.aspx).</span></span>
 
-<span data-ttu-id="74712-104">Aby dowiedzieć się więcej na temat skrzynek pocztowych i pomieszczenia (znany również jako skrzynek pocztowych zasobów), zobacz temat [skrzynek pocztowych i pomieszczenia](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).</span><span class="sxs-lookup"><span data-stu-id="74712-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).</span></span>
+<span data-ttu-id="1b444-104">Aby dowiedzieć się więcej na temat skrzynek pocztowych i pomieszczenia (znany również jako skrzynek pocztowych zasobów), zobacz temat [skrzynek pocztowych i pomieszczenia](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).</span><span class="sxs-lookup"><span data-stu-id="1b444-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).</span></span>
