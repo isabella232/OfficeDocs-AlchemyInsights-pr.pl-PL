@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 5ac8c629c98f6dbd716b0076f2e203a95263fe4f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3b4377cb54cf6892e5e04b61b7cce203ebe89855
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389095"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526689"
 ---
 # <a name="expired-subscription"></a>Wygasła
 
@@ -26,18 +26,16 @@ Wydaje się, że masz jedną lub więcej subskrypcji wygasła. Jeśli chcesz kon
   
 **Ponowne uaktywnianie**
   
-1. W Centrum administracyjnym przejdź do **fakturowania** \> stronie [subskrypcji](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. W Centrum administracyjnym przejdź do **fakturowania** \> stronę [produktów & usług](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Wybierz subskrypcję, aby ponownie uaktywnić.
 
-3. Po prawej stronie wybierz **ponownie uaktywnić**.
+3. W sekcji **płatności** wybierz **ponownie uaktywnić**.
 
-Czy używasz nowego Centrum administracyjnego? Aby uzyskać nowe kroki zobacz [ponownie aktywować swoją subskrypcję](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Aby uzyskać więcej informacji zobacz temat [ponownie aktywować swoją subskrypcję](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Dokonać nowego zakupu**
   
-1. W Centrum administracyjnym przejdź do **fakturowania** \> strona [Zakup usług](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. W Centrum administracyjnym przejdź do **fakturowania** \> strona [zakup usług](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-2. Wybierz subskrypcję, którą chcesz kupić.
-
-3. Ustaw kursor nad płytkę i wybierz opcję **Kup teraz**.
+2. Wybierz subskrypcję, którą chcesz kupić, a następnie wybierz **kupić**.

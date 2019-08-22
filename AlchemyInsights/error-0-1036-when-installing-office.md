@@ -12,12 +12,12 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: 509b539b80d9dcbb10ec3b7ed294cbc2280b7f7f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: c9a591a4b853daeff4c92f4093dada5fbeb4e011
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388363"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527517"
 ---
 # <a name="error-0-1036-when-installing-office"></a>Błąd 0-1036 podczas instalowania pakietu office
 
