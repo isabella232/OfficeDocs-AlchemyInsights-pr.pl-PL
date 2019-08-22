@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 5d88e5bf12d244943e1d985522deb2443f6bb844
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35937868"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540767"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Umieścić skrzynkę pocztową z przyczyn prawnych
 
@@ -26,4 +26,4 @@ ms.locfileid: "35937868"
 
 - Aby włączyć sądowym dla pojedynczego użytkownika, [wykonaj następujące kroki](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Kiedy sądowym jest włączona, cała zawartość skrzynki pocztowej zostanie zachowana.
 
-- Aby umieścić blokady na wszystkich skrzynek pocztowych w organizacji, można użyć zasad przechowywania usługi Office 365 wykonaj [następujące](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-litigation-hold)czynności. Należy zauważyć, że dla zasad przechowywania całej organizacji, nowych użytkowników będzie przydzielony do zasad.
+- Aby umieścić blokady na wszystkich skrzynek pocztowych w organizacji, można użyć zasad przechowywania usługi Office 365 wykonaj [następujące](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold)czynności. Należy zauważyć, że dla zasad przechowywania całej organizacji, nowych użytkowników będzie przydzielony do zasad.

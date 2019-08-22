@@ -12,20 +12,20 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 51c25897223371a6dcc94c948955107ce74b0e8e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383035"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539183"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Określenie działania reguł skrzynki odbiorczej w dziennikach inspekcji
 
-Przeszukiwanie dziennika inspekcji w & zabezpieczeń Centrum zgodności służy do przeglądania zdarzeń reguły skrzynki odbiorczej (Tworzenie, modyfikowanie i usuwanie reguł skrzynki odbiorczej).
+Przeszukiwanie dziennika inspekcji w & zabezpieczeń usługi Office 365 Centrum zgodności służy do przeglądania zdarzeń reguły skrzynki odbiorczej (Tworzenie, modyfikowanie i usuwanie reguł skrzynki odbiorczej).
 
-1. Zaloguj się do [Centrum zgodności Office 365 zabezpieczeń &](https://protection.office.com/)
+1. Zaloguj się do [Centrum zgodności Office 365 zabezpieczeń &](https://protection.office.com/).
 
-2. Kliknij przycisk **Wyszukaj i dochodzenia** i wybierz **Przeszukiwania dzienników inspekcji**.
+2. Przejdź do **wyszukiwania** > stronę**przeszukiwania dzienników inspekcji** .
 
 3. Wybierz zakres dat w polach **Data początkowa** i **Data końcowa** .
 
