@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397944"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505841"
 ---
-# <a name="outlook-search-not-indexing"></a><span data-ttu-id="0fd74-102">Nie indeksowania wyszukiwania w programie Outlook</span><span class="sxs-lookup"><span data-stu-id="0fd74-102">Outlook Search not indexing</span></span>
+# <a name="outlook-search-not-indexing"></a><span data-ttu-id="de39e-102">Nie indeksowania wyszukiwania w programie Outlook</span><span class="sxs-lookup"><span data-stu-id="de39e-102">Outlook Search not indexing</span></span>
 
-<span data-ttu-id="0fd74-103">Zostaliśmy poinformowani o programu Outlook Wyszukaj problemy zabezpieczeń związane z ostatnich aktualizacji systemu Windows.</span><span class="sxs-lookup"><span data-stu-id="0fd74-103">We are aware of Outlook search issues related to recent security updates for Windows.</span></span>
+<span data-ttu-id="de39e-103">Zostaliśmy poinformowani o programu Outlook Wyszukaj problemy zabezpieczeń związane z ostatnich aktualizacji systemu Windows.</span><span class="sxs-lookup"><span data-stu-id="de39e-103">We are aware of Outlook search issues related to recent security updates for Windows.</span></span>
   
-<span data-ttu-id="0fd74-104">Podczas wyszukiwania w programie Outlook, błąd ten może wystąpić: \*\* Wystąpił błąd i nie można ukończyć wyszukiwania \*\*, lub **wyniki wyszukiwania mogą być niekompletne, ponieważ nadal trwa indeksowanie elementów**.</span><span class="sxs-lookup"><span data-stu-id="0fd74-104">When searching in Outlook, you may get this error: \*\* Something went wrong and your search couldn't be completed \*\*, or **Search results may be incomplete because items are still being indexed**.</span></span> <span data-ttu-id="0fd74-105">Ta poprawka została wydana jako aktualizacja opcjonalna systemu Windows.</span><span class="sxs-lookup"><span data-stu-id="0fd74-105">The fix was issued as an optional Windows update.</span></span> <span data-ttu-id="0fd74-106">Należy zainstalować taki odpowiadający wersji systemu Windows widzisz ten problem na:</span><span class="sxs-lookup"><span data-stu-id="0fd74-106">Please install the one corresponding to the version of Windows you are seeing this issue on:</span></span> 
+<span data-ttu-id="de39e-104">Podczas wyszukiwania w programie Outlook, może zostać wyświetlony jeden z tych błędów: **Wystąpił błąd i nie można ukończyć wyszukiwania**lub **wyniki wyszukiwania mogą być niekompletne, ponieważ nadal trwa indeksowanie elementów**.</span><span class="sxs-lookup"><span data-stu-id="de39e-104">When searching in Outlook, you may get one of these errors: **Something went wrong and your search couldn't be completed**, or **Search results may be incomplete because items are still being indexed**.</span></span> <span data-ttu-id="de39e-105">Ta poprawka została wydana jako aktualizacja opcjonalna systemu Windows.</span><span class="sxs-lookup"><span data-stu-id="de39e-105">The fix was issued as an optional Windows update.</span></span> <span data-ttu-id="de39e-106">Należy zainstalować taki odpowiadający wersji systemu Windows widzisz ten problem na:</span><span class="sxs-lookup"><span data-stu-id="de39e-106">Please install the one corresponding to the version of Windows you are seeing this issue on:</span></span> 
   
-> [<span data-ttu-id="0fd74-107">Windows 7 - 27 czerwca 2017 aktualizacja</span><span class="sxs-lookup"><span data-stu-id="0fd74-107">Windows 7 - June 27, 2017 update</span></span>](https://support.microsoft.com/kb/4022168.aspx)
+> [<span data-ttu-id="de39e-107">Windows 7 - 27 czerwca 2017 aktualizacja</span><span class="sxs-lookup"><span data-stu-id="de39e-107">Windows 7 - June 27, 2017 update</span></span>](https://support.microsoft.com/kb/4022168.aspx)
     
-> [<span data-ttu-id="0fd74-108">Aktualizacja systemu Windows 8.1 - 27 czerwca 2017</span><span class="sxs-lookup"><span data-stu-id="0fd74-108">Windows 8.1 - June 27, 2017 update</span></span>](https://support.microsoft.com/kb/4022720.aspx)
+> [<span data-ttu-id="de39e-108">Aktualizacja systemu Windows 8.1 - 27 czerwca 2017</span><span class="sxs-lookup"><span data-stu-id="de39e-108">Windows 8.1 - June 27, 2017 update</span></span>](https://support.microsoft.com/kb/4022720.aspx)
     
-> [<span data-ttu-id="0fd74-109">Wersja Windows 10 1703 - 27 czerwca 2017 aktualizacji</span><span class="sxs-lookup"><span data-stu-id="0fd74-109">Windows 10 Version 1703 - June 27, 2017 update</span></span>](https://support.microsoft.com/kb/4022716.aspx)
+> [<span data-ttu-id="de39e-109">Wersja Windows 10 1703 - 27 czerwca 2017 aktualizacji</span><span class="sxs-lookup"><span data-stu-id="de39e-109">Windows 10 Version 1703 - June 27, 2017 update</span></span>](https://support.microsoft.com/kb/4022716.aspx)
     
-<span data-ttu-id="0fd74-110">Aby uzyskać najnowsze informacje, zobacz artykuł: [Outlook znane problemy w aktualizacji zabezpieczeń czerwca 2017](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) problemu nr 5.</span><span class="sxs-lookup"><span data-stu-id="0fd74-110">For the most recent information, please see the article: [Outlook known issues in the June 2017 security updates](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) Issue #5.</span></span> 
+<span data-ttu-id="de39e-110">Aby uzyskać najnowsze informacje, zobacz artykuł: [Outlook znane problemy w aktualizacji zabezpieczeń czerwca 2017](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) problemu nr 5.</span><span class="sxs-lookup"><span data-stu-id="de39e-110">For the most recent information, please see the article: [Outlook known issues in the June 2017 security updates](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) Issue #5.</span></span> 
   
 
