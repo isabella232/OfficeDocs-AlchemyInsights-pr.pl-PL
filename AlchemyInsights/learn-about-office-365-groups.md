@@ -13,13 +13,13 @@ ms.custom:
 - "610"
 - "3800008"
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: 94a243d12e2a3d691b008d111c949ee46ffc3151
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a5ad1fa51dd947baacda700d37c8ed1e5b700102
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381235"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497705"
 ---
 # <a name="learn-about-office-365-groups"></a>Więcej informacji na temat grupy Office 365
 
-Aby uzyskać więcej informacji zobacz [więcej informacji na temat grupy usługi Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Office 365 grup jest usługą, która współpracuje z narzędzia Office 365, których już, dzięki czemu można współpracować z członkami zespołu podczas zapisywania dokumentów, tworzenie arkuszy kalkulacyjnych, pracy nad projektami, planowania spotkań i wysyłanie wiadomości e-mail. Aby uzyskać więcej informacji zobacz [więcej informacji na temat grupy usługi Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).

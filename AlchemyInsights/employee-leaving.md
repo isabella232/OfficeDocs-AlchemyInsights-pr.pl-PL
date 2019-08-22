@@ -13,21 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: 3641fb38fa95173a6367c1c0754c26bd3ee3eb0f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386378"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527841"
 ---
-# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Nie jest pracownikiem, pozostawiając i trzeba zablokować dostęp do danych i wiadomości e-mail?
+# <a name="block-access-to-a-former-employee"></a>Zablokuj dostęp do byłego pracownika
+
+Nie jest pracownikiem, pozostawiając i trzeba zablokować dostęp do danych usługi Office 365 i wiadomości e-mail? Wykonaj następujące czynności.
   
 1. W Centrum administracyjnym przejdź do **użytkowników** \> stronę [Aktywnych użytkowników](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-2. Wybierz użytkownika, którego chcesz zablokować.
+2. Wybierz nazwę użytkownika, którego chcesz zablokować.
 
-3. Obok stanu znak wybierz polecenie **Edytuj**.
+3. Pod nazwą użytkownika zaznacz **Blok tego użytkownika**.
 
-4. Wybierz polecenie **Zablokuj użytkownikowi możliwość podpisywania** \> **zapisać**.
+4. Wybierz polecenie **Zablokuj użytkownikowi możliwość podpisywania** \> **zapisać zmiany**.
 
-**Uwaga**: wyrejestrowywania dla niektórych aplikacji nie może być natychmiastowe. Przestrzegają więcej akcji w tym artykule: [Usuwanie byłego pracownika z usługi Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee)
+**Uwaga**: wyrejestrowywania dla niektórych aplikacji nie może być natychmiastowe. Przestrzegają więcej akcji w tym artykule: [Usuwanie byłego pracownika z usługi Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)
