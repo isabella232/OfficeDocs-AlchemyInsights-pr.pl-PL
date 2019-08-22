@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403685"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527481"
 ---
 # <a name="enable-multi-factor-authentication"></a>Włącz wieloczynnikowe uwierzytelnianie
 
-1. Przejdź do **użytkowników** \> **użytkowników aktywnych**
+Aby włączyć uwierzytelnianie wieloskładnikowe w Centrum administracyjnym usługi Microsoft 365:
+
+1. Przejdź do **użytkowników** \> stronę **aktywnych użytkowników** .
     
-2. Kliknij przycisk **więcej** \> **instalacji Azure wieloczynnikowe uwierzytelnianie**. 
+2. U góry strony wybierz opcję **uwierzytelnianie wieloczynnikowe**. 
     
-3. Znajdź użytkownika lub użytkowników, którzy chcą włączyć dla MFA. Aby wyświetlić wszystkich użytkowników, może być konieczne zmienić widok stanu wieloczynnikowe uwierzytelnianie u góry.
+3. Znajdź użytkownika lub użytkowników, którzy powinni Włącz wieloczynnikowe uwierzytelnianie. Aby wyświetlić wszystkich użytkowników, może być konieczne zmienić filtr **stanu wieloczynnikowe uwierzytelnianie** u góry.
     
 4. Zaznacz pole wyboru obok użytkowników, które chcesz włączyć.
     
-5.  W okienku informacyjnym prawo użytkownika w obszarze **Szybkie kroki** będziesz zobacz Włączanie i zarządzanie ustawieniami użytkowników. Wybierz pozycję **Włącz**. 
+5.  W okienku informacyjnym prawo użytkownika w obszarze **Szybkie kroki**zaznacz opcję **Włącz**. 
     
-6. W oknie dialogowym które zostanie otwarte, **kliknij przycisk Włącz wieloczynnikowe uwierzytelnianie**. 
+6. W wyświetlonym oknie dialogowym zaznacz pole wyboru **Włącz wieloczynnikowe uwierzytelnianie**. 
     
 
