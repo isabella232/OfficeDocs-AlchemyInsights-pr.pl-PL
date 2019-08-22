@@ -13,21 +13,21 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 261936877f149670ace8c70fd2be68d6b4fc0273
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: d4e4548ab943ffdbe1117f333c64f2c95a5985da
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386858"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519237"
 ---
-# <a name="change-payment-method"></a><span data-ttu-id="123a8-102">Zmień metodę płatności</span><span class="sxs-lookup"><span data-stu-id="123a8-102">Change payment method</span></span>
+# <a name="change-payment-method"></a><span data-ttu-id="98a0f-102">Zmień metodę płatności</span><span class="sxs-lookup"><span data-stu-id="98a0f-102">Change payment method</span></span>
 
-<span data-ttu-id="123a8-103">Można zweryfikować metodę płatności, którą skonfigurowano przechodząc do **fakturowania** \> **subskrypcji**.</span><span class="sxs-lookup"><span data-stu-id="123a8-103">You can verify the payment method that is configured by going to **Billing** \> **Subscriptions**.</span></span> <span data-ttu-id="123a8-104">Wybierz subskrypcję, którą chcesz sprawdzić.</span><span class="sxs-lookup"><span data-stu-id="123a8-104">Choose the subscription that you want to verify.</span></span> <span data-ttu-id="123a8-105">**Metoda płatności**pojawia się metodę płatności, który jest skonfigurowany dla subskrypcji.</span><span class="sxs-lookup"><span data-stu-id="123a8-105">The payment method that's configured for the subscription appears under **Payment method**.</span></span> <span data-ttu-id="123a8-106">Aby zaktualizować szczegóły istniejącą metodę płatności, wybierz polecenie **Aktualizuj szczegóły dotyczące płatności**.</span><span class="sxs-lookup"><span data-stu-id="123a8-106">To update details of the existing payment method, choose **Update payment details**.</span></span>
+<span data-ttu-id="98a0f-103">Można zweryfikować metodę płatności, który jest skonfigurowany w Centrum administracyjnym usługi Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="98a0f-103">You can verify the payment method that is configured in the Microsoft 365 admin center.</span></span> <span data-ttu-id="98a0f-104">Wybierz subskrypcję, którą chcesz sprawdzić.</span><span class="sxs-lookup"><span data-stu-id="98a0f-104">Choose the subscription that you want to verify.</span></span> <span data-ttu-id="98a0f-105">Metoda płatności jest skonfigurowany dla subskrypcji pojawia się w obszarze **fakturowania**.</span><span class="sxs-lookup"><span data-stu-id="98a0f-105">The payment method that's configured for the subscription appears under **Billing**.</span></span> 
   
-1. <span data-ttu-id="123a8-107">W Centrum administracyjnym przejdź do **fakturowania** \> stronie [subskrypcji](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="123a8-107">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="98a0f-106">W Centrum administracyjnym przejdź do **fakturowania** \> stronę [produktów & usług](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="98a0f-106">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="123a8-108">Wybierz subskrypcję, którą chcesz zmienić metodę płatności, a następnie wybierz **Zmień metodę płatności**.</span><span class="sxs-lookup"><span data-stu-id="123a8-108">Choose the subscription that you want to change the payment method for, then choose **Change Payment Method**.</span></span>
+2. <span data-ttu-id="98a0f-107">Obok metody płatności dla subskrypcji, które chcesz zmienić metodę płatności, kliknij przycisk **Edytuj**.</span><span class="sxs-lookup"><span data-stu-id="98a0f-107">Next to the payment method for the subscription that you want to change the payment method for, select **Edit**.</span></span>
 
-3. <span data-ttu-id="123a8-109">Postępuj zgodnie z instrukcjami na ekranie, aby zakończyć zmianę.</span><span class="sxs-lookup"><span data-stu-id="123a8-109">Follow the steps on screen to complete the change.</span></span>
+3. <span data-ttu-id="98a0f-108">Postępuj zgodnie z instrukcjami na ekranie, aby zakończyć zmianę.</span><span class="sxs-lookup"><span data-stu-id="98a0f-108">Follow the steps on screen to complete the change.</span></span>
 
-<span data-ttu-id="123a8-110">Aby uzyskać instrukcje krok po kroku, zobacz: [Zmień metodę płatności dla usługi Office 365 dla firm](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method)</span><span class="sxs-lookup"><span data-stu-id="123a8-110">For step by step instructions, see: [Change your payment method for Office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method)</span></span>
+<span data-ttu-id="98a0f-109">Aby uzyskać instrukcje krok po kroku, zobacz: [Zmień metodę płatności dla usługi Office 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)</span><span class="sxs-lookup"><span data-stu-id="98a0f-109">For step by step instructions, see: [Change your payment method for Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)</span></span>

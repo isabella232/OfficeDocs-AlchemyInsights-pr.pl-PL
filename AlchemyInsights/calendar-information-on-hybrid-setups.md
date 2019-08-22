@@ -13,15 +13,15 @@ ms.custom:
 - "896"
 - "3800005"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: 3e912cca30cbfb524ae5b80607d5ab578ddcd58f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 76463159f18d3cfd03828f834454bad7b8dfc76f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361143"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36518157"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a><span data-ttu-id="441b1-102">Problemy typu wolny/zajęty kalendarza w środowiskach hybrydowych</span><span class="sxs-lookup"><span data-stu-id="441b1-102">Calendar free/busy issues in hybrid environments</span></span>
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a><span data-ttu-id="aed4d-102">Problemy typu wolny/zajęty kalendarza w środowiskach hybrydowych</span><span class="sxs-lookup"><span data-stu-id="aed4d-102">Calendar free/busy issues in hybrid environments</span></span>
 
-<span data-ttu-id="441b1-103">Jeśli użytkownicy mają problemy Widząc kalendarza informacji w środowiskach hybrydowych wolny/zajęty, uruchom ponownie Kreatora konfiguracji mieszańców.</span><span class="sxs-lookup"><span data-stu-id="441b1-103">If users are having issues seeing calendar free/busy information in hybrid environments, re-run the Hybrid Configuration wizard.</span></span> <span data-ttu-id="441b1-104">Aby uzyskać więcej informacji na temat Kreatora konfiguracji mieszańców zobacz [Kreator konfiguracji mieszańców](https://go.microsoft.com/fwlink/p/?linkid=528149).</span><span class="sxs-lookup"><span data-stu-id="441b1-104">For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span></span>
+<span data-ttu-id="aed4d-103">Jeśli użytkownicy mają problemy Widząc kalendarza informacji w środowiskach hybrydowych wolny/zajęty, uruchom ponownie Kreatora konfiguracji mieszańców.</span><span class="sxs-lookup"><span data-stu-id="aed4d-103">If users are having issues seeing calendar free/busy information in hybrid environments, re-run the Hybrid Configuration wizard.</span></span> <span data-ttu-id="aed4d-104">Aby uzyskać więcej informacji na temat Kreatora konfiguracji mieszańców zobacz [Kreator konfiguracji mieszańców](https://go.microsoft.com/fwlink/p/?linkid=528149).</span><span class="sxs-lookup"><span data-stu-id="aed4d-104">For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span></span>
 
-<span data-ttu-id="441b1-105">Krokami w środowiskach hybrydowych rozwiązywania problemów, zobacz [Rozwiązywanie problemów z wdrożenia hybrydowego](https://technet.microsoft.com/library/jj659053.aspx).</span><span class="sxs-lookup"><span data-stu-id="441b1-105">For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).</span></span>
+<span data-ttu-id="aed4d-105">Krokami w środowiskach hybrydowych rozwiązywania problemów, zobacz [Rozwiązywanie problemów z wdrożenia hybrydowego](https://technet.microsoft.com/library/jj659053.aspx).</span><span class="sxs-lookup"><span data-stu-id="aed4d-105">For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).</span></span>

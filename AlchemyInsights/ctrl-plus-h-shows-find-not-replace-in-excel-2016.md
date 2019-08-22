@@ -13,14 +13,14 @@ ms.custom:
 - "235"
 - "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 3437582885556104ad4eea14845acb0fd1c431fb
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0d2260163a837d5d2c2f0ad54e74a73ca204c635
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362926"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514521"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a><span data-ttu-id="e0690-102">CTRL + H pokazuje szukania, nie Zamień w programie Excel</span><span class="sxs-lookup"><span data-stu-id="e0690-102">CTRL+H shows Find, not Replace in Excel</span></span>
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a><span data-ttu-id="10997-102">CTRL + H pokazuje szukania, nie Zamień w programie Excel</span><span class="sxs-lookup"><span data-stu-id="10997-102">CTRL+H shows Find, not Replace in Excel</span></span>
 
-<span data-ttu-id="e0690-103">W programie Excel 2016 naciskając klawisze CTRL + H otwiera okno dialogowe Znajdowanie i zamienianie i pokazuje kartę Znajdź, zamiast wymienić kartę, klikając przycisk Zamień na karcie Narzędzia główne działa tak samo.</span><span class="sxs-lookup"><span data-stu-id="e0690-103">In Excel 2016, pressing CTRL+H opens the Find and Replace dialog and shows the Find tab, instead of the Replace tab. Clicking Replace on the Home tab does the same thing.</span></span> <span data-ttu-id="e0690-104">Ten problem został rozwiązany w wersji 1708 (8431.2094).</span><span class="sxs-lookup"><span data-stu-id="e0690-104">This issue was fixed in version 1708 (8431.2094).</span></span> <span data-ttu-id="e0690-105">Aby rozwiązać ten problem, należy zaktualizować do najnowszej wersji pakietu Office.</span><span class="sxs-lookup"><span data-stu-id="e0690-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="e0690-106">Zaznacz **plik** \> **konta** \> **Aktualizowanie opcji** \> **Aktualizuj teraz**.</span><span class="sxs-lookup"><span data-stu-id="e0690-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="10997-103">W programie Excel 2016 naciskając klawisze CTRL + H otwiera okno dialogowe Znajdowanie i zamienianie i pokazuje kartę Znajdź, zamiast wymienić kartę, klikając przycisk Zamień na karcie Narzędzia główne działa tak samo.</span><span class="sxs-lookup"><span data-stu-id="10997-103">In Excel 2016, pressing CTRL+H opens the Find and Replace dialog and shows the Find tab, instead of the Replace tab. Clicking Replace on the Home tab does the same thing.</span></span> <span data-ttu-id="10997-104">Ten problem został rozwiązany w wersji 1708 (8431.2094).</span><span class="sxs-lookup"><span data-stu-id="10997-104">This issue was fixed in version 1708 (8431.2094).</span></span> <span data-ttu-id="10997-105">Aby rozwiązać ten problem, należy zaktualizować do najnowszej wersji pakietu Office.</span><span class="sxs-lookup"><span data-stu-id="10997-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="10997-106">Zaznacz **plik** \> **konta** \> **Aktualizowanie opcji** \> **Aktualizuj teraz**.</span><span class="sxs-lookup"><span data-stu-id="10997-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
