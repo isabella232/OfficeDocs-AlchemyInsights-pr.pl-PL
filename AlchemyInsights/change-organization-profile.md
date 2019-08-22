@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: 412b25b18103995f19f089ab4ed71190fe8fb957
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 00faf0bae2f1f3a5b032cdd796867da8e7351c48
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386990"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519345"
 ---
-# <a name="change-organization-profile"></a><span data-ttu-id="db3c5-102">Zmiana profilu organizacji</span><span class="sxs-lookup"><span data-stu-id="db3c5-102">Change Organization profile</span></span>
+# <a name="change-organization-profile"></a><span data-ttu-id="fa7ce-102">Zmiana profilu organizacji</span><span class="sxs-lookup"><span data-stu-id="fa7ce-102">Change Organization profile</span></span>
 
-<span data-ttu-id="db3c5-103">Zmień nazwę firmy, adres, techniczne informacje kontaktowe i więcej w Centrum administracyjnym na **Ustawienia** > stronę[profilu organizacji](https://go.microsoft.com/fwlink/p/?linkid=2067339) .</span><span class="sxs-lookup"><span data-stu-id="db3c5-103">Change your company name, address, technical contact information, and more in the admin center on the **Settings** > [Organization profile](https://go.microsoft.com/fwlink/p/?linkid=2067339) page.</span></span>
+<span data-ttu-id="fa7ce-103">Zmień nazwę firmy, adres, techniczne informacje kontaktowe i więcej w Centrum administracyjnym na **Ustawienia** > stronę[profilu organizacji](https://go.microsoft.com/fwlink/p/?linkid=2067339) .</span><span class="sxs-lookup"><span data-stu-id="fa7ce-103">Change your company name, address, technical contact information, and more in the admin center on the **Settings** > [Organization profile](https://go.microsoft.com/fwlink/p/?linkid=2067339) page.</span></span>
 
-<span data-ttu-id="db3c5-104">Pamiętaj wypełnić wszystkie wymagane pola oznaczone znakiem \* aby umożliwić zapisanie zmian.</span><span class="sxs-lookup"><span data-stu-id="db3c5-104">Be sure to fill in all required fields marked with an \* to enable saving your changes.</span></span>
+<span data-ttu-id="fa7ce-104">Pamiętaj wypełnić wszystkie wymagane pola oznaczone znakiem \* aby umożliwić zapisanie zmian.</span><span class="sxs-lookup"><span data-stu-id="fa7ce-104">Be sure to fill in all required fields marked with an \* to enable saving your changes.</span></span>
 
-<span data-ttu-id="db3c5-105">[Zobacz więcej informacji na temat adresów lub zmiany adresu rozliczeniowego](https://docs.microsoft.com/en-us/office365/admin/manage/change-address-contact-and-more).</span><span class="sxs-lookup"><span data-stu-id="db3c5-105">[See more information on address or billing address changes](https://docs.microsoft.com/en-us/office365/admin/manage/change-address-contact-and-more).</span></span>
+<span data-ttu-id="fa7ce-105">[Zobacz więcej informacji na temat adresów lub zmiany adresu rozliczeniowego](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more).</span><span class="sxs-lookup"><span data-stu-id="fa7ce-105">[See more information on address or billing address changes](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more).</span></span>

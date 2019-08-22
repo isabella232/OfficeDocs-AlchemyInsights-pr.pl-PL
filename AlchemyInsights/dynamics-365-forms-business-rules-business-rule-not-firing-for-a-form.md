@@ -9,13 +9,13 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 298c909aae524bbf35e7b4e5f6ffdeee1daca3c9
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 95c51f61f9f5ac61d77bf3286f4e4602d47e4801
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752420"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36528944"
 ---
-# <a name="business-rule-not-firing-for-a-form"></a><span data-ttu-id="9e741-102">Reguła biznesowa nie wypalania dla formularza</span><span class="sxs-lookup"><span data-stu-id="9e741-102">Business rule not firing for a form</span></span>
+# <a name="business-rule-not-firing-for-a-form"></a><span data-ttu-id="9584e-102">Reguła biznesowa nie wypalania dla formularza</span><span class="sxs-lookup"><span data-stu-id="9584e-102">Business rule not firing for a form</span></span>
 
-* [<span data-ttu-id="9e741-103">Reguły biznesowe nie uruchamia się w przypadku formularza?</span><span class="sxs-lookup"><span data-stu-id="9e741-103">Is your business rule not firing for a form?</span></span>](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)
+* [<span data-ttu-id="9584e-103">Reguły biznesowe nie uruchamia się w przypadku formularza?</span><span class="sxs-lookup"><span data-stu-id="9584e-103">Is your business rule not firing for a form?</span></span>](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)
