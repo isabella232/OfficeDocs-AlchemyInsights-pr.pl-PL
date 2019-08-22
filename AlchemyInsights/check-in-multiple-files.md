@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 7bba3d7fc4e432c7c266ce8aa87322fc784a8ac0
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 1e925ef8e83dfc5d16b4d19dee88f1a26abe6ef4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754285"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520533"
 ---
 # <a name="check-in-several-files-at-once"></a>Sprawdź w kilku plikach naraz
 
-Trwa sprawdzanie plików i obecnie jest doskonałym sposobem śledzić i kontrolować sposób aktualizacji zawartości. Jeśli chcesz wprowadzić zmiany w pliku w witrynie i chcesz upewnij się, że żaden inny użytkownik może go edytować, należy wyewidencjonować plik. Jeśli masz plik wyewidencjonowany, można edytować go online lub offline i zapisz go wiele razy, w razie potrzeby.
+Ewidencjonowanie i wyewidencjonowywanie programu SharePoint plików biblioteki jest doskonałym sposobem śledzenia i kontroli, jak zawartość jest aktualizowana. Jeśli chcesz wprowadzić zmiany w pliku w witrynie i chcesz upewnij się, że żaden inny użytkownik może go edytować, należy wyewidencjonować plik. Jeśli masz plik wyewidencjonowany, można edytować go online lub offline i zapisz go wiele razy, w razie potrzeby.
 
 Poniżej są pomocne łącza dotyczące tej funkcji.
 
-- [Jak sprawdzić out, zaewidencjonować lub Odrzuć zmiany wprowadzone w plikach](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [Jak sprawdzić, zaewidencjonować lub Odrzuć zmiany wprowadzone w plikach](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
 - [Najważniejsze pytania na temat Sprawdź wyboru w i wersje](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
 

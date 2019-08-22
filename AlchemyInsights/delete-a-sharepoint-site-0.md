@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406322"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514060"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Usuwanie witryny, które należą do grupy usługi Office 365:
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Usuwanie witryny, które należą do grupy usługi Office 365
 
 Gdy użytkownicy utworzyć nowej witryny zespołu SharePoint domowego lub utworzyć nową witrynę zespołu z Centrum administracyjnego programu SharePoint, jest tworzona automatycznie odpowiedniej grupy usługi Office 365. Witryny zespołów połączone grupy 365 pakietu Office są również tworzone podczas tworzenia grupę w usłudze Office 365 lub zespół w Teams firmy Microsoft. Aby usunąć witrynę programu SharePoint, który należy do grupy usługi Office 365, należy usunąć samej grupy usługi Office 365. 
   
@@ -34,7 +34,7 @@ Uwaga: Podczas usuwania grupy może występować opóźnienie przed usunięciem 
 
 1. Przejdź do witryny.
   
-2. Kliknij przycisk ** Ustawienia ** ikonę w prawym górnym rogu. 
+2. Kliknij ikonę **Ustawienia** w prawym górnym rogu. 
   
 3. Kliknij opcję **Ustawienia witryny**. W obszarze **Informacji o witrynie** lub **Akcje witryny**kliknij przycisk **Usuń tę witrynę**, a następnie kliknij przycisk **Usuń**.
   

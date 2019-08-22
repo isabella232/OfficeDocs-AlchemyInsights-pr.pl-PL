@@ -13,29 +13,25 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 142a0ada8caa410228562aad4549a5d75b313b7e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386306"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522477"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Jak przypisać jedną licencję do użytkownika
 
-Użytkownik musi mieć licencję na dostęp do usług. Poniżej przedstawiono kroki, aby dodać, zmienić lub usunąć licencji od użytkownika.
+Użytkownik potrzebuje licencji pakietu Office 365 do dostępu do usługi. Poniżej przedstawiono kroki, aby dodać, zmienić lub usunąć licencji od użytkownika.
   
-1. W Centrum administracyjnym przejdź do **użytkowników** \> stronę [Aktywnych użytkowników](https://go.microsoft.com/fwlink/p/?linkid=834822) .
+1. W Centrum administracyjnym przejdź do **użytkowników** \> stronę [aktywnych użytkowników](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-2. Zaznacz pole obok nazwy użytkownika, któremu chcesz przypisać, zmienić lub usunąć licencji.
+2. Wybierz nazwę użytkownika, któremu chcesz przypisać, zmienić lub usunąć licencji.
 
-3. Po prawej stronie w wierszu **Licencje produktu** wybierz pozycję **Edytuj**.
+3. Na karcie **licencje i aplikacji** wybierz licencji, który chcesz przypisać temu użytkownikowi.
 
-4. W okienku **Licencje produktu** przestaw przełącznik na pozycję **Włączone** dla licencji, którą chcesz przypisać do tego użytkownika.
+    Domyślnie do użytkownika są automatycznie przypisywane wszystkie usługi skojarzone z tą licencją. Aby ograniczyć liczbę usług, które są dostępne dla użytkownika, wyczyść pole wyboru dla usług, które mają temu użytkownikowi.
 
-    Domyślnie do użytkownika są automatycznie przypisywane wszystkie usługi skojarzone z tą licencją. Aby ograniczyć usługi dostępne dla użytkownika, przestaw przełączniki na pozycję **Wyłączone** dla usług, których ten użytkownik ma nie mieć.
+4. U dołu okienka wybierz polecenie **Zapisz zmiany**.
 
-    Przełącznik pozycji **Off** , aby usunąć licencji.
-
-5. W dolnej części okienka **Licencje produktu** wybierz pozycję **Zapisz** \> **Zamknij** \> **Zamknij**.
-
-Aby uzyskać więcej informacji zobacz [Przypisywanie licencji do użytkowników w usłudze Office 365 dla firm](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)i [Usuwanie licencji od użytkowników w usłudze Office 365 dla firm](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Aby uzyskać więcej informacji zobacz [Przypisywanie licencji do użytkowników w usłudze Office 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)i [Usuwanie licencji od użytkowników w usłudze Office 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).

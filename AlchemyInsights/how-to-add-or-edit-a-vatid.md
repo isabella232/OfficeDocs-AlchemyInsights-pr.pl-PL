@@ -12,23 +12,23 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386414"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522621"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Jak dodać lub edytować VatID
 
-- W Centrum administracyjnym przejdź do **fakturowania** \> stronie [subskrypcji](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1.  W Centrum administracyjnego usługi Microsoft 365 przejdź do **fakturowania** \> [servicces & produkty](https://go.microsoft.com/fwlink/p/?linkid=842054) strony.
 
-- Na stronie **Subskrypcje** Wybierz subskrypcję chcesz edytować, a następnie wybierz polecenie **Więcej akcji** \> **edytować NIP**.
+2. Znajdź kartę subskrypcji dla subskrypcji, które chcesz zaktualizować.
 
-- U dołu okienka **Edytuj adres korzystania z usługi** wpisz lub Edytuj swój numer NIP w polu **NIP** i wybierz polecenie **Prześlij**.
+3. W sekcji **Ustawienia & akcje** wybierz polecenie **Edytuj adres korzystania z usługi**.
+
+4. Na stronie **Edytowanie adresu korzystania z usługi** wprowadź swój numer NIP w polu **NIP** , a następnie wybierz przycisk **Zapisz**.
 
     Po zakończeniu VAT nie zostanie obciążona na następnej fakturze.
 
-Aby uzyskać więcej informacji, zobacz [jaki podatek będzie zostanie naliczona dla Office 365?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
-
-Czy używasz nowego Centrum administracyjnego? Aby uzyskać nowe kroki zobacz [Dodaj swój numer NIP](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+Aby uzyskać więcej informacji, zobacz [jaki podatek będzie zostanie naliczona dla Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) lub [Dodaj swój numer NIP](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).

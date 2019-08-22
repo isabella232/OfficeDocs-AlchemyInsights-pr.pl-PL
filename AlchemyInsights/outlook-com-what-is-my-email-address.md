@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: 385865b4ff8827a2f26dac5ba61af9a12a555f5c
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: b7cd4910bea61f438e23dd2a520570d58d42bc22
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36166090"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511521"
 ---
-# <a name="see-your-own-email-address"></a>Zobacz adres e-mail
+# <a name="see-your-own-outlookcom-email-address"></a>Zobacz swój adres e-mail Hotmail
 
 Aby zobaczyć domyślnego adresu e-mail używanego podczas wysyłania wiadomości e-mail, przejdź do strony [ustawień synchronizacji wiadomości e-mail](https://outlook.live.com/mail/options/mail/accounts) i Szukaj w obszarze **Ustaw domyślny adres nadawcy**.
 

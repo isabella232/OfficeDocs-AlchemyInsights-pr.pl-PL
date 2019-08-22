@@ -12,12 +12,12 @@ ms.custom:
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: Docelowe nie więcej niż 500 wyrazów w artykule.
-ms.openlocfilehash: 944387230dc641af258e101de672430b49da5935
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 551ccbb34135b415fa90893ac3e6230762e718b6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355095"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36508865"
 ---
 # <a name="setting-up-project"></a>Konfigurowanie projektu
 
