@@ -12,18 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000014"
 - "2000"
-ms.openlocfilehash: e760a0f4037dc626a08e17a3f0e5ac57f51b2859
-ms.sourcegitcommit: 9c6c2ff5865275dc8e3d48132180108884647365
+ms.openlocfilehash: c7ed1f7286fb62a552c21d7a20d7c85111656058
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34430620"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556630"
 ---
-# <a name="change-your-language-date-and-time-format-or-time-zone"></a><span data-ttu-id="acdcb-102">Zmienić język, datę i format czasu lub strefy czasowej</span><span class="sxs-lookup"><span data-stu-id="acdcb-102">Change your language, date and time format, or time zone</span></span>
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlook-on-the-web"></a><span data-ttu-id="d47d2-102">Zmień język, datę i format czasu lub strefy czasowej w programie Outlook w sieci web</span><span class="sxs-lookup"><span data-stu-id="d47d2-102">Change your language, date and time format, or time zone in Outlook on the web</span></span>
 
-1. <span data-ttu-id="acdcb-103">U góry strony, wybierz **Ustawienia** > **wyświetlić wszystkie ustawienia programu Outlook**.</span><span class="sxs-lookup"><span data-stu-id="acdcb-103">At the top of the page, select **Settings** > **View all Outlook settings**.</span></span>
-2. <span data-ttu-id="acdcb-104">Wybierz **Ogólne** > **języka i czas**.</span><span class="sxs-lookup"><span data-stu-id="acdcb-104">Select **General** > **Language and time**.</span></span>
-3. <span data-ttu-id="acdcb-105">Wybierz język, którego chcesz użyć.</span><span class="sxs-lookup"><span data-stu-id="acdcb-105">Select the language you want to use.</span></span>
-4. <span data-ttu-id="acdcb-106">Wybierz pozycję **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="acdcb-106">Select **Save**.</span></span>
+1. <span data-ttu-id="d47d2-103">U góry strony wybierz</span><span class="sxs-lookup"><span data-stu-id="d47d2-103">At the top of the page, select</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="d47d2-104">**Ustawienia** > **wyświetlić wszystkie ustawienia programu Outlook**.</span><span class="sxs-lookup"><span data-stu-id="d47d2-104">**Settings** > **View all Outlook settings**.</span></span>
+2. <span data-ttu-id="d47d2-105">Wybierz **Ogólne** > **języka i czas**.</span><span class="sxs-lookup"><span data-stu-id="d47d2-105">Select **General** > **Language and time**.</span></span>
+3. <span data-ttu-id="d47d2-106">Wybierz język, którego chcesz użyć.</span><span class="sxs-lookup"><span data-stu-id="d47d2-106">Select the language you want to use.</span></span>
+4. <span data-ttu-id="d47d2-107">Wybierz pozycję **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="d47d2-107">Select **Save**.</span></span>
 
-<span data-ttu-id="acdcb-107">Aby dowiedzieć się więcej, zobacz [Zmienianie stref czasowych i ustawień języka w programie Outlook w sieci web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273).</span><span class="sxs-lookup"><span data-stu-id="acdcb-107">To learn more, see [Change the time zone and language settings in Outlook on the web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273).</span></span>
+<span data-ttu-id="d47d2-108">Aby dowiedzieć się więcej, zobacz [Zmienianie stref czasowych i ustawień języka w programie Outlook w sieci web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273).</span><span class="sxs-lookup"><span data-stu-id="d47d2-108">To learn more, see [Change the time zone and language settings in Outlook on the web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273).</span></span>

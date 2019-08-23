@@ -13,23 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 8e64c5f315fd52a34d735ba653e9cb28821f2031
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391062"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553370"
 ---
-# <a name="reactivate-a-subscription"></a><span data-ttu-id="7a91a-102">Ponownie uaktywnić subskrypcję</span><span class="sxs-lookup"><span data-stu-id="7a91a-102">Reactivate a subscription</span></span>
+# <a name="reactivate-an-office-365-subscription"></a><span data-ttu-id="aa861-102">Ponownie aktywować subskrypcję usługi Office 365</span><span class="sxs-lookup"><span data-stu-id="aa861-102">Reactivate an Office 365 subscription</span></span>
 
-<span data-ttu-id="7a91a-103">Jeoli subskrypcja wygaonie, została wyłączona przez firmę Microsoft, lub anulowano w połowie okresu subskrypcji, można ponownie uaktywnić go w Centrum administracyjnym.</span><span class="sxs-lookup"><span data-stu-id="7a91a-103">If your subscription expires, was disabled by Microsoft, or you cancelled it in the middle of a subscription term, you can reactivate it in the admin center.</span></span>
+<span data-ttu-id="aa861-103">Jeoli subskrypcja wygaonie, została wyłączona przez firmę Microsoft, lub anulowano w połowie okresu subskrypcji, można ponownie uaktywnić go w Centrum administracyjnym.</span><span class="sxs-lookup"><span data-stu-id="aa861-103">If your subscription expires, was disabled by Microsoft, or you cancelled it in the middle of a subscription term, you can reactivate it in the admin center.</span></span>
   
-1. <span data-ttu-id="7a91a-104">W Centrum administracyjnym przejdź do **fakturowania** \> stronie [subskrypcji](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="7a91a-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="aa861-104">W Centrum administracyjnym przejdź do **fakturowania** \> stronę [produktów & usług](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="aa861-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="7a91a-105">Wybierz subskrypcję, którą chcesz ponownie uaktywnić, a następnie wybierz **ponownie uaktywnić**.</span><span class="sxs-lookup"><span data-stu-id="7a91a-105">Choose the subscription that you want to reactivate, then choose **Reactivate**.</span></span>
+2. <span data-ttu-id="aa861-105">Wybierz subskrypcję, którą chcesz ponownie uaktywnić.</span><span class="sxs-lookup"><span data-stu-id="aa861-105">Choose the subscription that you want to reactivate.</span></span> <span data-ttu-id="aa861-106">W sekcji płatności wybierz **ponownie uaktywnić**.</span><span class="sxs-lookup"><span data-stu-id="aa861-106">In the Billing section, select **Reactivate**.</span></span>
 
-    <span data-ttu-id="7a91a-106">Jeśli nie widzisz **reaktywować** jako dostępnej akcji, należy użyć opcji "Daj nam Ciebie zadzwonić" aby porozmawiać z pracownikiem pomocy technicznej, aby ponownie aktywować swoją subskrypcję.</span><span class="sxs-lookup"><span data-stu-id="7a91a-106">If you do not see **Reactivate** as an available action, use the "Let us call you" option to talk to a support engineer to reactivate your subscription.</span></span>
+    <span data-ttu-id="aa861-107">Jeśli nie widzisz **reaktywować** jako akcję dostępną [wywołania obsługi technicznej](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) , aby ponownie aktywować swoją subskrypcję.</span><span class="sxs-lookup"><span data-stu-id="aa861-107">If you don't see **Reactivate** as an available action, [call support](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) to reactivate your subscription.</span></span>
 
-3. <span data-ttu-id="7a91a-107">Wprowadź dane dotyczące płatności.</span><span class="sxs-lookup"><span data-stu-id="7a91a-107">Enter your payment details.</span></span> <span data-ttu-id="7a91a-108">Można zaktualizować istniejące informacje o płatności w tym miejscu.</span><span class="sxs-lookup"><span data-stu-id="7a91a-108">You can update your existing payment information here.</span></span>
+3. <span data-ttu-id="aa861-108">Potwierdź szczegóły płatności.</span><span class="sxs-lookup"><span data-stu-id="aa861-108">Confirm your payment details.</span></span> <span data-ttu-id="aa861-109">Można zaktualizować istniejące informacje o płatności w tym miejscu.</span><span class="sxs-lookup"><span data-stu-id="aa861-109">You can update your existing payment information here.</span></span> <span data-ttu-id="aa861-110">Po zakończeniu wprowadzania metodę płatności wybierz **ponownie uaktywnić**.</span><span class="sxs-lookup"><span data-stu-id="aa861-110">When you're finished entering your payment method, select **Reactivate**.</span></span>
 
-<span data-ttu-id="7a91a-109">Czy używasz nowego Centrum administracyjnego?</span><span class="sxs-lookup"><span data-stu-id="7a91a-109">Are you using the new admin center?</span></span> <span data-ttu-id="7a91a-110">Aby uzyskać nowe kroki zobacz [ponownie aktywować swoją subskrypcję](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="7a91a-110">For new steps, see [Reactivate your subscription](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
+<span data-ttu-id="aa861-111">Aby uzyskać więcej informacji zobacz temat [ponownie aktywować swoją subskrypcję](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="aa861-111">For more information, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
