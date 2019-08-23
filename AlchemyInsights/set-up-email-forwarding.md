@@ -13,20 +13,20 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 9a88c1e0d66eaff5fe942de55cf2c2c3525b5602
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e654137489609da2273d199b4eedb9227c7db011
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355383"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549949"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Sprawdź pocztę e-mail, przekazywanie ustawień dla skrzynki pocztowej
 
-Jest łatwy do weryfikacji przekazywanie ustawień dotyczących skrzynki pocztowej wiadomości e-mail! Wystarczy wykonać poniższe czynności.
+Jest łatwy do weryfikacji e-mail przekazywanie ustawień skrzynki pocztowej programu Office 365! Wystarczy wykonać poniższe czynności.
   
-> Jeśli jest to skrzynki pocztowej użytkownika, przejdź do **użytkowników** \> **aktywnych użytkowników** i wybierz użytkownika kto ma skrzynki pocztowej przesyłany dalej. W obszarze Ustawienia poczty wybierz polecenie **Edytuj** za przekazywanie poczty E-mail.
+> Jeśli jest to skrzynki pocztowej użytkownika, przejdź do **użytkowników** \> **aktywnych użytkowników** i wybierz użytkownika kto ma skrzynki pocztowej przesyłany dalej. Na karcie **Poczta** zaznacz **przesyłania dalej poczta elektroniczna Zarządzaj**.
     
-> Jeśli jest to udostępnionej skrzynki pocztowej, należy przejść do **grupy** \> **skrzynki pocztowe udostępnione** i wybierz udostępnionej skrzynki pocztowej, przesyłany dalej. Wybierz polecenie **Edytuj** za przekazywanie poczty E-mail.
+> Jeśli jest to udostępnionej skrzynki pocztowej, należy przejść do **grupy** \> **skrzynki pocztowe udostępnione** i wybierz udostępnionej skrzynki pocztowej, przesyłany dalej. Edytowanie **Edytuj** dla przesyłania dalej wiadomości E-mail.
 
 Aby uzyskać więcej szczegółów zobacz [e-mail konfigurowanie przesyłania dalej w usłudze Office 365](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).
   

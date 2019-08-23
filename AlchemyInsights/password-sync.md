@@ -14,18 +14,18 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 735604a097b6b86bd39207de230f8cef3163e96b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372966"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555387"
 ---
 # <a name="enable-password-sync"></a>Aby włączyć synchronizację haseł
 
-1.  Wybierz **Stan DirSync** na stronie głównej Centrum administracyjnego O365. 
+1.  Wybierz **Stan DirSync** na stronie głównej Centrum admin 365 firmy Microsoft. 
     
-     * Na przemian, można przejść do **użytkowników** \> ** aktywnych użytkowników **, a na stronie aktywnych użytkowników, wybierz polecenie **więcej** \> **synchronizacji katalogów.** * 
+     *Alternatywnie, można przejść do **użytkowników** \> **aktywnych użytkowników**i na stronie aktywnych użytkowników, wybierz polecenie **więcej** \> **synchronizacji katalogów.*** 
     
 2. W okienku synchronizacji katalogów wybierz polecenie **Przejdź do zarządzania DirSync**. 
     
