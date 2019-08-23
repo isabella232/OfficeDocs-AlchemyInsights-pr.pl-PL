@@ -12,20 +12,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383107"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539111"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Określenie, jeśli skonfigurowano przesyłanie dalej poczty e-mail zewnętrznej skrzynek pocztowych
 
-Gdy użytkownik konfiguruje przekazywania zewnętrznych wiadomości e-mail w skrzynce pocztowej, działania jest różna w ramach apletu polecenia **Set-Mailbox** . Możesz zobaczyć działanie przy użyciu przeszukiwania dzienników inspekcji w & zabezpieczeń Centrum zgodności.
+Gdy użytkownika w usłudze Office 365 konfiguruje przekazywania zewnętrznych wiadomości e-mail w skrzynce pocztowej, działania jest różna w ramach apletu polecenia **Set-Mailbox** . Możesz zobaczyć działanie przy użyciu przeszukiwania dzienników inspekcji w & zabezpieczeń Centrum zgodności.
 
-1. Zaloguj się do [Centrum zgodności Office 365 zabezpieczeń &](https://protection.office.com/)
+1. Zaloguj się do [Centrum zgodności Office 365 zabezpieczeń &](https://protection.office.com/).
 
-2. Kliknij przycisk **Wyszukaj i dochodzenia** i wybierz **Przeszukiwania dzienników inspekcji**.
+2. Przejdź do **wyszukiwania** > stronę**przeszukiwania dzienników inspekcji** .
 
 3. Wybierz zakres dat w polach **Data początkowa** i **Data końcowa** . Nie musisz podać nazwę użytkownika. Sprawdź, czy pole **działalności** jest włączona opcja **Pokaż wyniki dla wszystkich działań**.
 

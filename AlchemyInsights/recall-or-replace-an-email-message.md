@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356607"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553442"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Odwoływanie lub zamienianie wiadomości e-mail
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Odwoływanie lub zamienianie wiadomości e-mail w usłudze Office 365
 
 - Możesz **tylko odwoływania wiadomości, które są wysyłane do osoby w organizacji**. Jeśli wiadomość została wysłana na adres Gmail, na przykład, nie można wywołać ją.
 - Możesz **tylko odwoływania wiadomości wysłane z Outlook 2016 dla komputerów PC**. Jeśli użytkownik wysyła wiadomości za pomocą programu Outlook w sieci web lub programu Outlook dla komputerów Macintosh, nie może je wycofać.
 - Jeśli jesteś administratorem, możesz **odwoływania wiadomości w imieniu użytkowników przy użyciu środowiska PowerShell**. Nie można odwołać wiadomości z Centrum administracyjnego. Przewiń w dół do "Wyszukiwanie i usuwanie wiadomości e-mail w firmie" Aby uzyskać więcej informacji.
 
-***Odwoływanie lub zamienianie wiadomości e-mail wysłanej przez Ciebie***
+**Odwoływanie lub zamienianie wiadomości e-mail wysłanej przez Ciebie**
 
 1. W okienku folderów po lewej stronie okna programu Outlook wybierz folder Elementy wysłane.
 2. Otwórz wiadomość, która ma zostać odwołana. Należy kliknąć dwukrotnie Otwórz wiadomość. Zaznaczając wiadomość — będą wyświetlane w okienku odczytu nie pozwoli odwołać wiadomość.

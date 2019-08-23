@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444782"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555243"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Jak przeprowadzić wyszukiwanie zawartości i zbierania elektronicznych materiałów dowodowych wyszukiwań
 
@@ -32,6 +32,6 @@ Użyj narzędzia wyszukiwania zawartości w & zabezpieczeń Centrum zgodności, 
 4. Wprowadź warunki wyszukiwania wymagane, łącznie z słów kluczowych i lokalizacje zawartości.  
 5. Kliknij przycisk **Zapisz bieg &** do wyszukiwania nazw, uruchom ją i wyświetlić podgląd wyników.
 
-Szczegółowe instrukcje na temat wyszukiwania zawartości eksportowanie wyników i tworzenie przypadków zbierania elektronicznych materiałów dowodowych do przechowywania danych, zobacz [Wyszukiwanie zawartości](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) i [zbierania elektronicznych materiałów dowodowych sprawy](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
+Szczegółowe instrukcje na temat wyszukiwania zawartości eksportowanie wyników i tworzenie przypadków zbierania elektronicznych materiałów dowodowych do przechowywania danych, zobacz [Wyszukiwanie zawartości](https://docs.microsoft.com/office365/securitycompliance/content-search) i [zbierania elektronicznych materiałów dowodowych sprawy](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Zrozumieć, więcej informacji na temat wyszukiwania zawartości, przeglądając [wymagania i ograniczenia](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) i [częściowo bada indeksowanych elementów](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) i inne wyniki były świadome.
+Zrozumieć, więcej informacji na temat wyszukiwania zawartości, przeglądając [wymagania i ograniczenia](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) i [częściowo bada indeksowanych elementów](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) i inne wyniki były świadome.

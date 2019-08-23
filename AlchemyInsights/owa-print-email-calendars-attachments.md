@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 3f5ce5dbd9307aae9fc497f501d1da9194c45ff9
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
+ms.openlocfilehash: bf4ae61907e2a179bba39edb4f8eb05608e00907
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171322"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556719"
 ---
 # <a name="print-email-calendars-and-attachments"></a>Drukowanie wiadomości e-mail, kalendarzy i załączników
 
-Aby wydrukować wiadomość e-mail:
+Aby wydrukować wiadomość e-mail w programie Outlook w sieci web:
   
 1. Zaznacz wiadomość, którą chcesz wydrukować.
 1. W prawym górnym rogu wiadomości wybierz trzy kropki i wybierz polecenie **Drukuj**.

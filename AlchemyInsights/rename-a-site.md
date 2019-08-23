@@ -11,14 +11,14 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 0162b27b6310671bec19e159e9953b7556b31c60
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3523b50a0d0eba7c65cd9e740bd4adcc918130ff
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370108"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36552901"
 ---
-# <a name="rename-a-site"></a>Zmiana nazwy lokacji
+# <a name="rename-a-sharepoint-site"></a>Zmień nazwę witryny programu SharePoint
 
 Aby zmienić nazwę witryny, na przykład z https://contoso.sharepoint.com/sites/sample1 do https://contoso.sharepoint.com/sites/sample2, należy utworzyć nową witrynę, a następnie przenieść całą zawartość ze starej witryny do nowej. Aby uzyskać informacje o przenoszeniu elementów w bibliotekach dokumentów zobacz [Przenoszenie lub kopiowanie elementów z biblioteki dokumentów programu SharePoint](https://go.microsoft.com/fwlink/?Linkid=2018691).
   
