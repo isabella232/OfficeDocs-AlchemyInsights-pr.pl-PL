@@ -13,16 +13,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: d3f055387c81ecce3ed5a6e4dc45cd85f5a80824
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4f70ed50d8d0a6596d06d81cf9be2789ee30e216
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370144"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36552397"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a><span data-ttu-id="48907-102">Zmień nazwę domeny onmicrosoft.com</span><span class="sxs-lookup"><span data-stu-id="48907-102">Rename your onmicrosoft.com domain</span></span>
+# <a name="rename-your-onmicrosoftcom-domain"></a><span data-ttu-id="cec0e-102">Zmień nazwę domeny onmicrosoft.com</span><span class="sxs-lookup"><span data-stu-id="cec0e-102">Rename your onmicrosoft.com domain</span></span>
 
- <span data-ttu-id="48907-103">**Nie można zmienić nazwy domeny onmicrosoft po zapisywania się.**</span><span class="sxs-lookup"><span data-stu-id="48907-103">**You can't rename the onmicrosoft domain after sign-up.**</span></span> <span data-ttu-id="48907-104">Na przykład jeśli wybrana domena początkowa była *fourthcoffee.onmicrosoft.com* , nie można zmienić go za *fabrikam.onmicrosoft.com* .</span><span class="sxs-lookup"><span data-stu-id="48907-104">For example, if the initial domain you chose was  *fourthcoffee.onmicrosoft.com*  , you can't change it to be  *fabrikam.onmicrosoft.com*  .</span></span> <span data-ttu-id="48907-105">Aby użyć domeny onmicrosoft.com różnych, będą musiały rozpocząć nową subskrypcję usługi Office 365.</span><span class="sxs-lookup"><span data-stu-id="48907-105">To use a different onmicrosoft.com domain, you'd have to start a new subscription with Office 365.</span></span>
+ <span data-ttu-id="cec0e-103">**Nie można zmienić nazwy domeny onmicrosoft po zapisywania się.**</span><span class="sxs-lookup"><span data-stu-id="cec0e-103">**You can't rename the onmicrosoft domain after sign-up.**</span></span> <span data-ttu-id="cec0e-104">Na przykład jeśli wybrana domena początkowa była *fourthcoffee.onmicrosoft.com* , nie można zmienić go za *fabrikam.onmicrosoft.com* .</span><span class="sxs-lookup"><span data-stu-id="cec0e-104">For example, if the initial domain you chose was  *fourthcoffee.onmicrosoft.com*  , you can't change it to be  *fabrikam.onmicrosoft.com*  .</span></span> <span data-ttu-id="cec0e-105">Aby użyć domeny onmicrosoft.com różnych, będą musiały rozpocząć nową subskrypcję usługi Office 365.</span><span class="sxs-lookup"><span data-stu-id="cec0e-105">To use a different onmicrosoft.com domain, you'd have to start a new subscription with Office 365.</span></span>
   
-<span data-ttu-id="48907-106">Jeśli użytkownik chce użyć własnej domeny jak *contoso.com* , możesz [dodać jeden, których jesteś właścicielem](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) lub [kupić od firmy Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).</span><span class="sxs-lookup"><span data-stu-id="48907-106">If you want to use a custom domain like  *contoso.com*  , you can [add one you own](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) or [buy one from Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).</span></span>
+<span data-ttu-id="cec0e-106">Jeśli użytkownik chce użyć własnej domeny jak *contoso.com* , możesz [dodać jeden, których jesteś właścicielem](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) lub [kupić od firmy Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).</span><span class="sxs-lookup"><span data-stu-id="cec0e-106">If you want to use a custom domain like  *contoso.com*  , you can [add one you own](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) or [buy one from Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).</span></span>
   

@@ -13,13 +13,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: f5f70298e773722ea1f982f9d17aca45997b096c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a4ecb6fcdd33b871f971a788ffe2afa8e7c50ba6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355959"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551497"
 ---
-# <a name="search-experience-updated"></a><span data-ttu-id="83c1a-102">Aktualizacja wyników wyszukiwania</span><span class="sxs-lookup"><span data-stu-id="83c1a-102">Search experience updated</span></span>
+# <a name="search-experience-updated"></a><span data-ttu-id="501d2-102">Aktualizacja wyników wyszukiwania</span><span class="sxs-lookup"><span data-stu-id="501d2-102">Search experience updated</span></span>
 
-<span data-ttu-id="83c1a-103">Wyszukiwanie jest obecnie znajdujący się na dole okna aplikacji.</span><span class="sxs-lookup"><span data-stu-id="83c1a-103">Search is now located at the bottom of the app.</span></span> <span data-ttu-id="83c1a-104">Naciśnięcie go daje bezpośredni dostęp do najwyższego kontakty, planów podróży nadchodzących, dostawy przesyłki i ostatnie załączniki.</span><span class="sxs-lookup"><span data-stu-id="83c1a-104">Tapping on it gives you direct access to your top contacts, upcoming travel itineraries, package deliveries, and recent attachments.</span></span> <span data-ttu-id="83c1a-105">Możesz wyszukiwać wiadomości e-mail, plików oraz kontaktów w różnych kont z jednego pola wyszukiwania pojedynczego lub skorzystaj z nowych filtrów, aby zawęzić wyszukiwanie.</span><span class="sxs-lookup"><span data-stu-id="83c1a-105">You can search for email messages, files, and contacts in any of your accounts from one single search box or use our new filters to narrow your search.</span></span>
+<span data-ttu-id="501d2-103">Wyszukiwanie jest obecnie znajdujący się na dole okna aplikacji.</span><span class="sxs-lookup"><span data-stu-id="501d2-103">Search is now located at the bottom of the app.</span></span> <span data-ttu-id="501d2-104">Naciśnięcie go daje bezpośredni dostęp do najwyższego kontakty, planów podróży nadchodzących, dostawy przesyłki i ostatnie załączniki.</span><span class="sxs-lookup"><span data-stu-id="501d2-104">Tapping on it gives you direct access to your top contacts, upcoming travel itineraries, package deliveries, and recent attachments.</span></span> <span data-ttu-id="501d2-105">Możesz wyszukiwać wiadomości e-mail, plików oraz kontaktów w różnych kont z jednego pola wyszukiwania pojedynczego lub skorzystaj z nowych filtrów, aby zawęzić wyszukiwanie.</span><span class="sxs-lookup"><span data-stu-id="501d2-105">You can search for email messages, files, and contacts in any of your accounts from one single search box or use our new filters to narrow your search.</span></span>
