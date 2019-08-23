@@ -16,12 +16,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 92761e4679a155781555daec023ee9602d62a857
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9fc1980b5c1d5a0bd9df032b14e2010b7f0d5873
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356103"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551857"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Przywracanie usuniętych skrzynek pocztowych
 
@@ -35,5 +35,5 @@ Gdy użytkownik traci swoją licencję Exchange Online, ich skrzynki pocztowej j
 
 3. Przypisać licencję Exchange Online i naciśnij przycisk **Zapisz**
 
-Jeśli chcesz odzyskać współdzielonej skrzynki pocztowej, jest również możliwe do odzyskania przez 30 dni. Można je znaleźć w obszarze **Użytkownicy** \> **usuniętych** użytkowników; udostępnionych skrzynek pocztowych nie wymagają licencji. Jeśli okazuje się, że trzeba przywrócić usunięte konto użytkownika, zobacz [Przywracanie użytkownika w usłudze Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user).
+Jeśli chcesz odzyskać współdzielonej skrzynki pocztowej, jest również możliwe do odzyskania przez 30 dni. Można je znaleźć w obszarze **Użytkownicy** \> **usuniętych** użytkowników; udostępnionych skrzynek pocztowych nie wymagają licencji. Jeśli okazuje się, że trzeba przywrócić usunięte konto użytkownika, zobacz [Przywracanie użytkownika w usłudze Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
   

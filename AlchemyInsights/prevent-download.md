@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "2523"
 - "9000213"
-ms.openlocfilehash: 38740dfe4ae9a4cb6c830f61df7541c24124bc35
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+ms.openlocfilehash: 85db8d7525effc0ea84179b575d9f7aa56bb0e54
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36246045"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554718"
 ---
 # <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Zapobiegać pobieraniu z programu SharePoint lub OneDrive pliki
 
 Istnieją różne metody, które mogą być użyte w celu zapobieżenia lub blokowania pobierania z występujących. Poniższe łącza, aby odpowiednich metod, odwiedź:
 
-- [Pobieranie pliku bloku z dostępem warunkowym Azure AD](https://docs.microsoft.com/en-us/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Pobieranie pliku bloku z dostępem warunkowym Azure AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
-- [Sterowanie dostępem z poziomu urządzeń niezarządzanych](https://docs.microsoft.com/en-us/sharepoint/control-access-from-unmanaged-devices)
+- [Sterowanie dostępem z poziomu urządzeń niezarządzanych](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-- [Konfigurowanie zasad usługi IRM w bibliotekach dokumentów programu SharePoint, aby ograniczyć pobieranie zawartości](https://docs.microsoft.com/en-us/office365/securitycompliance/set-up-irm-in-sp-admin-center)
+- [Konfigurowanie zasad usługi IRM w bibliotekach dokumentów programu SharePoint, aby ograniczyć pobieranie zawartości](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)
