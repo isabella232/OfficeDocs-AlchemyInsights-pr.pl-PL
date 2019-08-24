@@ -13,17 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 90f7a879b823648973ef52d9d34914871c046141
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8b6f0148a955fe3004471f1963e8ffa840ba7257
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518517"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575778"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Anulowanie subskrypcji usługi Office 365?
 
 Bardzo nam przykro odchodzisz!
   
-Oparty na danych organizacji, Wierzymy, że wszystkie bieżące subskrypcje mają mniej niż 25 miejsc. Aby anulować subskrypcji w trybie online, przejdź do **fakturowania** \> [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) strona, a następnie wybierz polecenie **więcej akcji** \> **anulowania subskrypcji**.
+Oparty na danych organizacji, Wierzymy, że wszystkie bieżące subskrypcje mają mniej niż 25 miejsc. Aby anulować subskrypcji w trybie online, przejdź do **fakturowania** \> stronę [produktów & usług](https://go.microsoft.com/fwlink/p/?linkid=842054) . W sekcji **Ustawienia & akcje** wybierz polecenie **Anuluj subskrypcję**.
   
-Aby dowiedzieć się więcej o anulowanie subskrypcji lub instrukcje krok po kroku, zobacz ten artykuł: [anulowanie subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+Czy używasz starego Centrum administracyjnego? Stare lub dowiedzieć się więcej zobacz [anulowanie subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

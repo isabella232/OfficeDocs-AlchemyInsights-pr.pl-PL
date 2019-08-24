@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840525"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620733"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Tylko do odczytu dla utrzymania komunikat podczas próby użycia programu SharePoint lub OneDrive
 
-Użytkownicy może pojawić się **Tylko do odczytu dla utrzymania** komunikat podczas próby użycia programu SharePoint lub OneDrive.  Jeśli tak, należy sprawdzić, czy jest aktywne konserwacji występujące w dzierżawie przechodząc do [Centrum wiadomości](https://portal.office.com/adminportal/home#/MessageCenter). Ponadto należy koniecznie sprawdź pulpit nawigacyjny [Kondycji usługi](https://portal.office.com/adminportal/home#/servicehealth) , aby sprawdzić, czy wszystkie klasyfikatory/incydentów, które może mieć miejsce.
+Użytkowników może pojawić się **Tylko do odczytu dla utrzymania** komunikat podczas próby użycia programu SharePoint lub OneDrive dla jednego z następujących scenariuszy. 
 
-Centrum wiadomości ani kondycji usług pulpitu nawigacyjnego zauważyli nic na temat bieżących napraw dla dzierżawy, może to być przeglądarki buforowanie problemu.
+-   Działania planowane lub active konserwacji.  Sprawdź, czy je przechodząc do [Centrum wiadomości](https://portal.office.com/adminportal/home#/messagecenter).
+-   Zdarzenia usługi active wysoki priorytet, który może mieć miejsce. Sprawdź, czy wszystkie klasyfikatory/przypadków przechodząc do [Usługi zdrowotne](https://portal.office.com/adminportal/home#/servicehealth).
+-   Drobne automatyczne naprawianie odzyskiwania scenariusz, który może się dziać z powodu nieprzewidzianych zdarzeń na serwerach, które może trwać krócej niż 30 minut lub tak. 
+    
+    Istnieją nie Centrum wiadomości lub służbie zdrowia księguje te niewielkie kwoty odzyskane, ale należy się do normalnego bardzo szybko.
+
+W bardzo nielicznych przypadkach Zauważyliśmy, że jeden z trzech opisanych wyżej był przyczyną i usługa została przywrócona, ale pamięci podręcznej przeglądarki użytkowników nie zostały uporządkowane.
 
 Spróbuj wyczyścić pamięć podręczną przeglądarki przed nawigowania do witryny.
 

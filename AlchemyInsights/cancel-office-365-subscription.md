@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 19f21e93419a208229c64c874748f5f94acfe8b4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4400fa666e0f4485286793a8703f82606702e6cf
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494153"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36576066"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Anulowanie subskrypcji usługi Office 365?
 
@@ -24,8 +24,8 @@ Niestety można go zobaczyć, ale dostępne są następujące opcje można anulo
   
 - Jeśli jesteś klientem wersji próbnej, nie ma nic do anulowania. Subskrypcja próbna automatycznie wygaśnie, chyba że stanowi metodę płatności.
 
-- Jeśli masz mniej niż 25 przydzielone licencje, można anulować subskrypcji w trybie online. Przejdź do **fakturowania** \> [subskrypcji](https://go.microsoft.com/fwlink/p/?linkid=842054), a następnie wybierz polecenie **więcej akcji** \> **anulowania subskrypcji**.
+- Jeśli masz mniej niż 25 przydzielone licencje, można anulować subskrypcji w trybie online. Przejdź do **fakturowania** \> [produktów & usług](https://go.microsoft.com/fwlink/p/?linkid=842054). W sekcji **Ustawienia & akcje** wybierz polecenie **Anuluj subskrypcję**.
 
 - Jeśli masz więcej niż 25 przydzielone licencje, można albo usunąć użytkowników, dopóki nie mają mniej niż 25, lub użyj opcji "Daj nam Ciebie zadzwonić", aby porozmawiać z pracownikiem pomocy technicznej.
 
-- Aby dowiedzieć się więcej o anulowanie subskrypcji lub instrukcje krok po kroku, zobacz temat [anulowania subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Czy używasz starego Centrum administracyjnego? Stare lub dowiedzieć się więcej zobacz [anulowanie subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

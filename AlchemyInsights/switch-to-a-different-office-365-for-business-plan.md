@@ -13,12 +13,12 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8177f08163c85856cf4446592d10177170ba1e28
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534177"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575994"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Przełącz się do innej usługi Office 365 dla Biznesplan
 
@@ -34,4 +34,4 @@ Gdy zmienia się charakter działalności, lub potrzeba więcej funkcji usługi 
 
 5. Wprowadź numer licencji, których potrzebują wybierz, czy chcesz zapłacić w każdym miesiącu lub na cały rok, a następnie wybierz opcję **Realizacja transakcji**.
    
-Aby uzyskać więcej informacji zobacz [uaktualnienia do innego planu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+Czy używasz starego Centrum administracyjnego? Stare lub aby dowiedzieć się więcej zobacz [uaktualnienia do innego planu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
