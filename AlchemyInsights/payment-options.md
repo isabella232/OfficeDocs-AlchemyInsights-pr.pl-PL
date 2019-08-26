@@ -13,14 +13,14 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: fbdbdec10ddc5724122c02ad1350c11aaf63867e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 74cec40931491a9194252dd44894c602b3c849cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388682"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555279"
 ---
-# <a name="payment-options"></a>Opcje płatności
+# <a name="payment-options-for-office-365-for-business-subscriptions"></a>Opcje płatności za subskrypcje usługi Office 365 dla firm
 
 **Opcje płatności**
   
@@ -30,7 +30,7 @@ Karta kredytowa, konto bankowe (polecenie zapłaty) i faktura (płatności czeki
   
 Gdy płacisz kartą kredytową lub za pomocą konta bankowego, opłata za subskrypcję będzie pobierana automatycznie następnego dnia po dacie na fakturze, aż do końca okresu subskrypcji. W każdej chwili możesz [zaktualizować informacje dotyczące karty kredytowej lub konta bankowego](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account). Jeśli chcesz, możesz także [Otrzymywanie kopii zestawienia rozliczeniowego w wiadomości e-mail](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
   
-Jeśli karta kredytowa została odrzucona lub istnieją zaległości, możesz wybrać opcję **Zapłać teraz** na stronie **Rozliczenia** \> [Subskrypcje](https://portal.office.com/adminportal/home#/subscriptions).
+Jeśli karta kredytowa została odrzucona lub istnieją zaległości, możesz wybrać opcję **Ureguluj saldo** na stronie **Rozliczenia** \> [Produkty i usługi](https://portal.office.com/adminportal/home#/subscriptions).
   
 **Płacenie za pomocą faktury (czek lub przelew elektroniczny)**
   
