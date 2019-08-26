@@ -13,21 +13,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: c65d8606b749c76c90271c1d81d78d1c843618a3
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3135c72aefac97eb58cfa8e2deffebe318c20753
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390450"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575670"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Jak dodać kartę kredytową?
 
-1. W centrum administracyjnym przejdź do strony **Rozliczenia** \> [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. W centrum administracyjnym platformy Microsoft 365 przejdź na stronę **Rozliczenia** \> [Metody płatności](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Wybierz subskrypcję, którą chcesz opłacać za pomocą nowej karty kredytowej lub konta bankowego, a następnie wybierz pozycję **Aktualizuj szczegóły płatności**.
+2. Wybierz pozycję **Dodaj metodę płatności**.
 
-3. Wybierz strzałkę listy rozwijanej w obszarze **Dodaj lub wybierz metodę płatności**, a następnie wybierz pozycję **Nowa karta kredytowa** lub **Nowe konto bankowe**.
+3. Na stronie **Metody płatności** wybierz metodę płatności z menu rozwijanego.
 
-4. Wprowadź informacje dla nowej karty kredytowej lub konta bankowego, a następnie wybierz pozycję Prześlij.
+4. Wprowadź informacje dla nowej karty kredytowej lub konta bankowego, a następnie wybierz pozycję **Zapisz**.
 
-Czy korzystasz z nowego centrum administracyjnego? Aby poznać kilka kroków, zobacz [Dodawanie, aktualizowanie lub usuwanie karty kredytowej bądź konta bankowego w usłudze Office 365 dla firm](https://docs.microsoft.com/pl-PL/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Czy korzystasz ze starego centrum administracyjnego? Aby poznać stare kroki lub dowiedzieć się więcej, zobacz [Dodawanie, aktualizowanie lub usuwanie karty kredytowej bądź konta bankowego w usłudze Office 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
