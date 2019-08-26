@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 85e6691e02ae04fd2813dc8a883b879ff4bca1ff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ba0625d61d1a51f8e011765992dead21a15831f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522801"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575352"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Jak zaktualizować informacje dotyczące karty kredytowej?
 
@@ -33,4 +33,4 @@ ms.locfileid: "36522801"
 
 4. Zaktualizuj informacje o karcie kredytowej lub koncie bankowym (nazwisko posiadacza karty kredytowej lub konta bankowego, adres na fakturze, numer telefonu bądź datę ważności) odpowiednio do potrzeb, a następnie wybierz pozycję **Zapisz** > **Gotowe**.
 
-Aby uzyskać więcej informacji, zobacz [Dodawanie, aktualizowanie lub usuwanie karty kredytowej bądź konta bankowego w usłudze Office 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Czy korzystasz ze starego centrum administracyjnego? Aby poznać stare kroki lub dowiedzieć się więcej, zobacz [Dodawanie, aktualizowanie lub usuwanie karty kredytowej bądź konta bankowego w usłudze Office 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
