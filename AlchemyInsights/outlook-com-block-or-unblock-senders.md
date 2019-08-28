@@ -15,20 +15,21 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: d4daf97aa7d082906000a48d2fd542a70e8cdc8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
+ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537886"
+ms.lasthandoff: 08/27/2019
+ms.locfileid: "36643704"
 ---
 # <a name="block-or-unblock-senders"></a>Blokowanie lub odblokowywanie nadawców
 
-Wiadomości z adresów e-mail lub domen znajdujących się zablokowanych nadawców przejdź bezpośrednio do folderu wiadomości-śmieci wiadomości E-mail. Wiadomość e-mail jest automatycznie usuwany z folderu wiadomości-śmieci E-mail po 14 dniach i jest nie do odzyskania.
+Wiadomości z adresów e-mail lub domen znajdujących się zablokowanych nadawców przejdź bezpośrednio do folderu wiadomości-śmieci wiadomości E-mail. Wiadomość e-mail jest automatycznie usuwany z folderu wiadomości-śmieci E-mail po upływie 30 dni i jest nie do odzyskania. SE; ect element, aby zobaczyć, kiedy zostanie usunięty.
 
 **Ze skrzynki odbiorczej:**
 
 - Na liście wiadomości zaznacz wiadomość, a następnie wybierz **wiadomości-śmieci** > **bloku**.
+- **Uwaga:** Blokowanie element już w folderze wiadomości-śmieci wiadomości E-mail nie powoduje jego usunięcia.
 
 **Od ustawień:**
 
