@@ -1,9 +1,8 @@
 ---
-title: 606 informacji dotyczących delegowania
+title: 606 informacje o delegowaniu
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +12,24 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 7a4d3104072919a604ce828f95d59a7d1412a7b7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a59ea7fd995fa05179f70ae3a82268363145f3af
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499109"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661738"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a><span data-ttu-id="ff14a-102">Rozwiązywanie problemów z delegacji w programach Outlook i Outlook w sieci web</span><span class="sxs-lookup"><span data-stu-id="ff14a-102">Troubleshooting delegation in Outlook and Outlook on the web</span></span>
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a><span data-ttu-id="649ec-102">Rozwiązywanie problemów z delegowaniem w programach Outlook i Outlook w sieci Web</span><span class="sxs-lookup"><span data-stu-id="649ec-102">Troubleshooting delegation in Outlook and Outlook on the web</span></span>
 
-<span data-ttu-id="ff14a-103">**Rozwiązywanie problemów z narzędziem Ewa:**</span><span class="sxs-lookup"><span data-stu-id="ff14a-103">**Troubleshooting with the SaRA tool:**</span></span>
+<span data-ttu-id="649ec-103">**Rozwiązywanie problemów z narzędziem SaRA:**</span><span class="sxs-lookup"><span data-stu-id="649ec-103">**Troubleshooting with the SaRA tool:**</span></span>
 
-1. <span data-ttu-id="ff14a-104">Pobierz i zainstaluj narzędzie Ewa z tego miejsca</span><span class="sxs-lookup"><span data-stu-id="ff14a-104">Download and install SaRA tool from here</span></span>
-1. <span data-ttu-id="ff14a-105">Wybierz program Outlook, a następnie "Mam problemy z mojego kalendarza"</span><span class="sxs-lookup"><span data-stu-id="ff14a-105">Select Outlook, then "I\`m having issues with my calendar"</span></span>
-1. <span data-ttu-id="ff14a-106">Powiedz tak, dla którego dotyczy komputera</span><span class="sxs-lookup"><span data-stu-id="ff14a-106">Say Yes for affected machine</span></span>
-1. <span data-ttu-id="ff14a-107">Dodaj adres e-mail danego użytkownika</span><span class="sxs-lookup"><span data-stu-id="ff14a-107">Add the e-mail address of the affected user</span></span>
-1. <span data-ttu-id="ff14a-108">Wybierz opcję "Mam problemy z delegowanie uprawnień"</span><span class="sxs-lookup"><span data-stu-id="ff14a-108">Select "I\`m having problems with delegate permissions"</span></span>
-1. <span data-ttu-id="ff14a-109">W wierszu polecenia Jeżeli jesteś osoba udzielająca uprawnienia, wprowadź adres e-mail pełnomocnika.</span><span class="sxs-lookup"><span data-stu-id="ff14a-109">At the next prompt, if you are the person giving permissions, enter the e-mail address of your delegate.</span></span> <span data-ttu-id="ff14a-110">Jeśli otrzymałeś uprawnień i są pełnomocnika, wprowadź adres e-mail osoby, którą dał Ci uprawnień.</span><span class="sxs-lookup"><span data-stu-id="ff14a-110">If you received permissions and you are the delegate, enter the e-mail address of the person that gave you permissions.</span></span>
-1. <span data-ttu-id="ff14a-111">Przy następnym menu wybierz opcję, która pasuje do danego scenariusza.</span><span class="sxs-lookup"><span data-stu-id="ff14a-111">At the next menu, select the option that fits your scenario.</span></span>
-1. <span data-ttu-id="ff14a-112">O następne menu wybierz poziom uprawnień.</span><span class="sxs-lookup"><span data-stu-id="ff14a-112">At the next menu, select the permission level.</span></span>
-1. <span data-ttu-id="ff14a-113">Na tym etapie Ewa narzędzie wykona zautomatyzowane kontrole i zapewni Ci możliwe rozwiązanie lub alternatywnie zapewni dziennik diagnostyczny, który służy do rozwiązania problemu.</span><span class="sxs-lookup"><span data-stu-id="ff14a-113">At this stage, SaRA tool will perform automated checks and it will provide you with possible resolution or alternatively will provide a diagnostic log that can be used for further troubleshooting.</span></span>
-1. <span data-ttu-id="ff14a-114">Dzienniki można znaleźć w folderze wyników Ewa C:\Users\Username\AppData\Local\SaraResults</span><span class="sxs-lookup"><span data-stu-id="ff14a-114">You can find the logs in the SaRA Results folder located at C:\Users\Username\AppData\Local\SaraResults</span></span>
+1. <span data-ttu-id="649ec-104">Pobierz i zainstaluj narzędzie SaRA [tutaj](https://aka.ms/SaRA-SkypeForBusinessSignIn).</span><span class="sxs-lookup"><span data-stu-id="649ec-104">Download and install SaRA tool [here](https://aka.ms/SaRA-SkypeForBusinessSignIn).</span></span>
+1. <span data-ttu-id="649ec-105">Wybierz **program Outlook**, a następnie **mam problemy z kalendarzem**.</span><span class="sxs-lookup"><span data-stu-id="649ec-105">Select **Outlook**, then **I'm having issues with my calendar**.</span></span>
+1. <span data-ttu-id="649ec-106">Powiedz **tak** dla danej maszyny.</span><span class="sxs-lookup"><span data-stu-id="649ec-106">Say **Yes** for affected machine.</span></span>
+1. <span data-ttu-id="649ec-107">Dodaj adres e-mail użytkownika, którego dotyczy luka.</span><span class="sxs-lookup"><span data-stu-id="649ec-107">Add the e-mail address of the affected user.</span></span>
+1. <span data-ttu-id="649ec-108">Wybierz opcję **mam problemy z uprawnieniami pełnomocnika**.</span><span class="sxs-lookup"><span data-stu-id="649ec-108">Select **I'm having problems with delegate permissions**.</span></span>
+1. <span data-ttu-id="649ec-109">W następnym wierszu, jeśli jesteś osobą udzielając uprawnień, wprowadź adres e-mail pełnomocnika.</span><span class="sxs-lookup"><span data-stu-id="649ec-109">At the next prompt, if you are the person giving permissions, enter the email address of your delegate.</span></span> <span data-ttu-id="649ec-110">Jeśli otrzymałeś uprawnienia i jesteś pełnomocnikiem, wprowadź adres e-mail osoby, która udzieliła Ci uprawnień.</span><span class="sxs-lookup"><span data-stu-id="649ec-110">If you received permissions and you are the delegate, enter the email address of the person that gave you permissions.</span></span>
+1. <span data-ttu-id="649ec-111">W następnym menu wybierz opcję, która pasuje do danego scenariusza.</span><span class="sxs-lookup"><span data-stu-id="649ec-111">At the next menu, select the option that fits your scenario.</span></span>
+1. <span data-ttu-id="649ec-112">W następnym menu wybierz poziom uprawnień.</span><span class="sxs-lookup"><span data-stu-id="649ec-112">At the next menu, select the permission level.</span></span>
+1. <span data-ttu-id="649ec-113">Na tym etapie, narzędzie SaRA wykona zautomatyzowane kontrole i zapewni Ci możliwą rozdzielczość lub alternatywnie dostarczy dziennik diagnostyczny, który może być użyty do dalszego rozwiązywania problemów.</span><span class="sxs-lookup"><span data-stu-id="649ec-113">At this stage, SaRA tool will perform automated checks and it will provide you with possible resolution or alternatively will provide a diagnostic log that can be used for further troubleshooting.</span></span>
+1. <span data-ttu-id="649ec-114">Dzienniki można znaleźć w folderze wyniki SaRA znajduje się w C:\Users\Username\AppData\Local\SaraResults.</span><span class="sxs-lookup"><span data-stu-id="649ec-114">You can find the logs in the SaRA Results folder located at C:\Users\Username\AppData\Local\SaraResults.</span></span>
