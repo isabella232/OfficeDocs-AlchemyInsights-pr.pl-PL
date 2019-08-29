@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 4400fa666e0f4485286793a8703f82606702e6cf
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 3aecd74ad35c7c9cfc799cc73434e57065f09fdf
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576066"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665526"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Anulowanie subskrypcji usługi Office 365?
 
@@ -28,4 +28,4 @@ Niestety można go zobaczyć, ale dostępne są następujące opcje można anulo
 
 - Jeśli masz więcej niż 25 przydzielone licencje, można albo usunąć użytkowników, dopóki nie mają mniej niż 25, lub użyj opcji "Daj nam Ciebie zadzwonić", aby porozmawiać z pracownikiem pomocy technicznej.
 
-Czy używasz starego Centrum administracyjnego? Stare lub dowiedzieć się więcej zobacz [anulowanie subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Aby dowiedzieć się więcej, zobacz [anulowanie subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

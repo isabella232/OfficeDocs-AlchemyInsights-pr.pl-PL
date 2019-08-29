@@ -1,9 +1,8 @@
 ---
-title: 606 informacji dotyczących delegowania
+title: 606 informacje o delegowaniu
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +12,24 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 7a4d3104072919a604ce828f95d59a7d1412a7b7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a59ea7fd995fa05179f70ae3a82268363145f3af
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499109"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661738"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Rozwiązywanie problemów z delegacji w programach Outlook i Outlook w sieci web
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Rozwiązywanie problemów z delegowaniem w programach Outlook i Outlook w sieci Web
 
-**Rozwiązywanie problemów z narzędziem Ewa:**
+**Rozwiązywanie problemów z narzędziem SaRA:**
 
-1. Pobierz i zainstaluj narzędzie Ewa z tego miejsca
-1. Wybierz program Outlook, a następnie "Mam problemy z mojego kalendarza"
-1. Powiedz tak, dla którego dotyczy komputera
-1. Dodaj adres e-mail danego użytkownika
-1. Wybierz opcję "Mam problemy z delegowanie uprawnień"
-1. W wierszu polecenia Jeżeli jesteś osoba udzielająca uprawnienia, wprowadź adres e-mail pełnomocnika. Jeśli otrzymałeś uprawnień i są pełnomocnika, wprowadź adres e-mail osoby, którą dał Ci uprawnień.
-1. Przy następnym menu wybierz opcję, która pasuje do danego scenariusza.
-1. O następne menu wybierz poziom uprawnień.
-1. Na tym etapie Ewa narzędzie wykona zautomatyzowane kontrole i zapewni Ci możliwe rozwiązanie lub alternatywnie zapewni dziennik diagnostyczny, który służy do rozwiązania problemu.
-1. Dzienniki można znaleźć w folderze wyników Ewa C:\Users\Username\AppData\Local\SaraResults
+1. Pobierz i zainstaluj narzędzie SaRA [tutaj](https://aka.ms/SaRA-SkypeForBusinessSignIn).
+1. Wybierz **program Outlook**, a następnie **mam problemy z kalendarzem**.
+1. Powiedz **tak** dla danej maszyny.
+1. Dodaj adres e-mail użytkownika, którego dotyczy luka.
+1. Wybierz opcję **mam problemy z uprawnieniami pełnomocnika**.
+1. W następnym wierszu, jeśli jesteś osobą udzielając uprawnień, wprowadź adres e-mail pełnomocnika. Jeśli otrzymałeś uprawnienia i jesteś pełnomocnikiem, wprowadź adres e-mail osoby, która udzieliła Ci uprawnień.
+1. W następnym menu wybierz opcję, która pasuje do danego scenariusza.
+1. W następnym menu wybierz poziom uprawnień.
+1. Na tym etapie, narzędzie SaRA wykona zautomatyzowane kontrole i zapewni Ci możliwą rozdzielczość lub alternatywnie dostarczy dziennik diagnostyczny, który może być użyty do dalszego rozwiązywania problemów.
+1. Dzienniki można znaleźć w folderze wyniki SaRA znajduje się w C:\Users\Username\AppData\Local\SaraResults.

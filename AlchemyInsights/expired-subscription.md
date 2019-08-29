@@ -1,5 +1,5 @@
 ---
-title: Wygasła
+title: Wygasłe subskrypcja
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,37 +13,37 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575598"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665050"
 ---
-# <a name="expired-subscription"></a>Wygasła
+# <a name="expired-subscription"></a>Wygasłe subskrypcja
 
-Wydaje się, że masz jedną lub więcej subskrypcji wygasła. Jeśli chcesz kontynuować usługi, musisz aktywowanie subskrypcji lub dokonać nowego zakupu.
+Wydaje się, masz jedną lub więcej wygasłe subskrypcje. Jeśli chcesz kontynuować usługę, musisz ponownie aktywować subskrypcję lub dokonać nowego zakupu.
   
-**Ponowne uaktywnianie**
+**Ponownie uaktywnić**
   
-1. W Centrum administracyjnym przejdź do **fakturowania** \> stronę [produktów & usług](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. W centrum administracyjnym przejdź na stronę usługi **fakturowania** \> [produktów _amp_](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Znajdź subskrypcję, którą chcesz ponownie uaktywnić. W sekcji **płatności** wybierz **ponownie uaktywnić**.
+2. Znajdź subskrypcję, którą chcesz ponownie uaktywnić. W sekcji **rozliczenia** wybierz opcję **Uaktywnij ponownie**.
 
-Jeśli nie widzisz **reaktywować** jako akcję dostępną, wywołanie pomocy technicznej, aby ponownie aktywować swoją subskrypcję.
+Jeśli nie widzisz **ponownej aktywacji** jako dostępnej akcji, zadzwoń do pomocy technicznej, aby ponownie uaktywnić subskrypcję.
 
-3. Potwierdź szczegóły płatności. Można zaktualizować istniejące informacje o płatności w tym miejscu. Po zakończeniu wprowadzania metodę płatności wybierz **ponownie uaktywnić**.
+3. Potwierdź szczegóły płatności. Możesz zaktualizować istniejące informacje o płatności tutaj. Po zakończeniu wprowadzania metody płatności wybierz opcję **Aktywuj ponownie**.
 
-Czy używasz starego Centrum administracyjnego? Stare lub aby dowiedzieć się więcej zobacz [ponownie aktywować swoją subskrypcję](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Aby dowiedzieć się więcej, zobacz temat [Ponowne uaktywnianie subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
-**Dokonać nowego zakupu**
+**Dokonaj nowego zakupu**
   
-1. W Centrum administracyjnym przejdź do **fakturowania** \> strona [zakup usług](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. W centrum administracyjnym przejdź na stronę **rozliczenia** \> [usług zakupu](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-2. Wybierz subskrypcję, którą chcesz kupić, a następnie wybrać, **kupić**.
+2. Wybierz subskrypcję, którą chcesz kupić, a następnie wybierz opcję **Kup**.
 
-3. Wprowadź liczbę potrzebnych licencji i wybierz, czy chcesz płacić co miesiąc, czy za cały rok. Określ, czy chcesz automatycznie przypisywać licencje do każdego użytkownika, który obecnie nie ma licencji. Następnie wybierz polecenie **Sprawdź teraz**.
+3. Wprowadź liczbę potrzebnych licencji i wybierz, czy chcesz płacić co miesiąc, czy za cały rok. Określ, czy chcesz automatycznie przypisywać licencje do każdego użytkownika, który obecnie nie ma licencji. Następnie wybierz **wyewidencjonować teraz**.
 
-4. Wykonaj pozostałe kroki, aby ukończyć wyewidencjonowywania.
+4. Wykonaj pozostałe kroki, aby zakończyć wyewidencjonować.
 
-Czy używasz starego Centrum administracyjnego? Stare lub aby dowiedzieć się więcej zobacz [kupić kolejną subskrypcję](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Aby dowiedzieć się więcej, zobacz [kupowanie kolejnej subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

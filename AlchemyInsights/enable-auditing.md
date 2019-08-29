@@ -3,7 +3,6 @@ title: Włącz i przeszukać dziennik inspekcji
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527733"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665086"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Włącz i wyszukaj w dzienniku inspekcji
+
+**Usługa Office 365**
 
 Aby przeszukać dziennik inspekcji usługi Office 365, wykonaj [następujące kroki](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
@@ -28,7 +29,7 @@ Aby przeszukać dziennik inspekcji usługi Office 365, wykonaj [następujące kr
 
 - Domyślnie są poddawane inspekcji czynności administracyjne programu Exchange.
 
-- Jesteśmy w trakcie włączenie inspekcji skrzynki pocztowej domyślnie w usłudze Office 365. Do tego czasu Aby włączyć inspekcję dla pojedynczej skrzynki pocztowej lub dla wszystkich skrzynek pocztowych w organizacji, zobacz [Ten artykuł](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Inspekcja skrzynki pocztowej jest włączona domyślnie w usłudze Office 365. Aby uzyskać więcej informacji zobacz [Ten artykuł](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
 - Office 365 grupy skrzynki pocztowe folderów publicznych w programie Exchange Online oraz nie obsługują rejestrowania inspekcji.
 
