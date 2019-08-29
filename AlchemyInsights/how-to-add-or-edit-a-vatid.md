@@ -12,16 +12,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff90ca14e4036b9a3b470e08cf749fd437ba6d78
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575008"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664330"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Jak dodać lub edytować VatID
 
-1.  W Centrum administracyjnego usługi Microsoft 365 przejdź do **fakturowania** \> stronę [produktów & usług](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. W Centrum administracyjnego usługi Microsoft 365 przejdź do **fakturowania** \> stronę [produktów & usług](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Znajdź kartę subskrypcji dla subskrypcji, które chcesz zaktualizować.
 
@@ -31,7 +31,7 @@ ms.locfileid: "36575008"
 
     Po zakończeniu VAT nie zostanie obciążona na następnej fakturze.
 
-Czy używasz starego Centrum administracyjnego? Stare lub aby dowiedzieć się więcej, zobacz [jaki podatek będzie zostanie naliczona dla Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+Aby dowiedzieć się więcej, zobacz [jaki podatek będzie zostanie naliczona dla Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
 
 **Dodatkowe zasoby**
 

@@ -1,5 +1,5 @@
 ---
-title: Jak usunąć informacje o karcie kredytowej?
+title: Jak usunąć dane karty kredytowej?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: dbcaf1a838bd29105e5a4643735d82b8a63f35d1
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4f71ec857cb77a1146dcb060007594b0f115b6a5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575388"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664438"
 ---
-# <a name="how-do-i-remove-my-credit-card-information"></a>Jak usunąć informacje o karcie kredytowej?
+# <a name="how-do-i-remove-my-credit-card-information"></a>Jak usunąć dane karty kredytowej?
 
-1. W Centrum administracyjnego usługi Microsoft 365 przejdź do **fakturowania** \> stronę [metod płatności](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
+1. W centrum administracyjnym Microsoft 365 przejdź na stronę [metody płatności](https://go.microsoft.com/fwlink/p/?linkid=2018806) **rozliczeniowych** \> .
 
-2. Na stronie **metod płatności** wybrać karty kredytowej lub konta bankowego do usunięcia.
+2. Na stronie **metody płatności** wybierz kartę kredytową lub konto bankowe do usunięcia.
 
-3. Aby usunąć karty kredytowej lub konta bankowego, zaznacz **usunąć metodę płatności.**
+3. Aby usunąć kartę kredytową lub konto bankowe, wybierz opcję **Usuń formę płatności.**
 
 > [!NOTE]
-> Nie można usunąć karty kredytowej lub konta bankowego, jeśli jest on aktualnie używany do płatności za subskrypcję.
+> Nie możesz usunąć karty kredytowej lub konta bankowego, jeśli jest ona obecnie używana do płacenia za subskrypcję.
 
-4. W okienku **Usuń formę płatności** wybierz opcję **Usuń**.
+4. W okienku **usuwanie metody płatności** wybierz pozycję **Usuń**.
 
-Czy używasz starego Centrum administracyjnego? Stare lub aby dowiedzieć się więcej zobacz [Dodawanie, aktualizowanie, lub usunąć karty kredytowej lub konta bankowego w usłudze Office 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Aby dowiedzieć się więcej, zobacz [Dodawanie, aktualizowanie lub usuwanie karty kredytowej lub konta bankowego w pakiecie Office 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

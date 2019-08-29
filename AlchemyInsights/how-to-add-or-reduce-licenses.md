@@ -1,9 +1,8 @@
 ---
-title: Jak dodać lub zmniejszyć licencji
+title: Jak dodawać lub zmniejszać licencje
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,33 +12,33 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574952"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664294"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Jak dodać lub zmniejszyć licencji
+# <a name="how-to-add-or-reduce-licenses"></a>Jak dodawać lub zmniejszać licencje
 
-Oto jak usunąć lub kupić więcej licencji, usługi Office 365.
+Poniżej opisano, jak usunąć Licencje pakietu Office 365 lub zakupić więcej licencji.
   
-1. W Centrum administracyjnym przejdź do **fakturowania** \> stronę [produktów & usług](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. W centrum administracyjnym przejdź na stronę usługi **fakturowania** \> [produktów _amp_](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Wybierz subskrypcję, z którego chcesz usunąć licencje.
+2. Wybierz subskrypcję, z której chcesz dodać/usunąć licencje.
 
-3. Wybierz **Dodaj/Usuń licencje**.
+3. Wybierz opcję **Dodaj/Usuń licencje**.
 
-4. Wprowadź całkowitą liczbę użytkowników wymaganych.
+4. Wprowadź całkowitą liczbę potrzebnych użytkowników.
 
-    Na przykład jeśli masz obecnie 25 licencji i chcesz usunąć 5, w tym polu należy wprowadzić 20.
+    Na przykład, jeśli masz obecnie 25 licencji i chcesz usunąć 5, wpisz 20 w tym polu.
 
-5. Wybierz polecenie **Prześlij zmiany**.
+5. Wybierz **Prześlij zmiany**.
 
 > [!NOTE]
-> Żadnych nowych opłat (wzrost licencji) lub faktury (zmniejszenie licencji) pojawi się na następnej fakturze.
+> Wszelkie nowe opłaty (wzrost licencji) lub kredyt (spadek licencji) pojawi się na następnym rachunku.
 
-Czy używasz starego Centrum administracyjnego? Stare lub aby dowiedzieć się więcej zobacz [kupić licencje użytkownika usługi Office 365 business subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Aby dowiedzieć się więcej, zobacz [kupowanie licencji na subskrypcję pakietu Office 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
  **Dodatkowe zasoby**
   

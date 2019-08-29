@@ -1,9 +1,8 @@
 ---
-title: 204 jak znaleźć brakujące lub odzyskać brakujące poczty programu Outlook, kalendarza i kontaktów
+title: 204 jak znaleźć brakujące lub odzyskać brakującą pocztę, kalendarz lub kontakty programu Outlook
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 9/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: ffedca61f5915c0a32a7e0ca903703802667b64e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b9e602538d3c3e83b681cf644fd63c223bdbac93
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540659"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664173"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Jak znaleźć i odzyskać brakujące wiadomości, kontaktów lub elementami kalendarza programu Outlook
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Jak znaleźć i odzyskać brakujące wiadomości, kontakty lub elementy kalendarza w Outlooku
 
-- [Występują problemy z wysyłania, odbierania lub znalezienie narzędzie wiadomości e-mail](https://aka.ms/SaRA-OutlookSendReceive) można użyć na komputer. To narzędzie będzie sprawdzał szereg zagadnień i sugeruje możliwe rozwiązania.
+- Można użyć [mam problemy z wysyłaniem, odbieranie lub Znajdowanie wiadomości e-mail narzędzie](https://aka.ms/SaRA-OutlookSendReceive) na usterce komputera. To narzędzie sprawdzi kilka problemów i zasugeruje możliwe rozwiązania.
 
-- [Ustal, czy doszło do naruszenia konta](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). W przypadku złamania zabezpieczeń, postępuj zgodnie z instrukcjami [odpowiada na zagrożona, konta e-mail w usłudze Office 365.](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)
+- [Ustal, czy doszło do naruszenia konta](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). W przypadku naruszenia zabezpieczeń wykonaj kroki opisane w [odpowiedzi na konto e-mail z zabezpieczeniami w pakiecie Office 365.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
 
-- [Znajdowanie wiadomości lub elementu za pomocą wyszukiwania błyskawicznego](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+- [Znajdowanie wiadomości lub elementu za pomocą funkcji wyszukiwania błyskawicznego](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
 
-- [Odzyskaj usunięte elementy w programie Outlook dla Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+- [Odzyskiwanie usuniętych elementów w programie Outlook dla systemu Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)

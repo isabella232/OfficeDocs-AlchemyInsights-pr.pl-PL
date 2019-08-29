@@ -1,9 +1,8 @@
 ---
-title: Jak przypisać jedną licencję do użytkownika
+title: Jak przypisać licencję do użytkownika
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +12,25 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 142a0ada8caa410228562aad4549a5d75b313b7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 418d7f7d0c3ea8a64e9a635872b954f51808b6f5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522477"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664258"
 ---
-# <a name="how-to-assign-a-license-to-a-user"></a>Jak przypisać jedną licencję do użytkownika
+# <a name="how-to-assign-a-license-to-a-user"></a>Jak przypisać licencję do użytkownika
 
-Użytkownik potrzebuje licencji pakietu Office 365 do dostępu do usługi. Poniżej przedstawiono kroki, aby dodać, zmienić lub usunąć licencji od użytkownika.
+Użytkownik musi mieć licencję pakietu Office 365, aby mieć dostęp do usług. Oto kroki, aby dodać, zmienić lub usunąć licencję od użytkownika.
   
-1. W Centrum administracyjnym przejdź do **użytkowników** \> stronę [aktywnych użytkowników](https://go.microsoft.com/fwlink/p/?linkid=834822) .
+1. W centrum administracyjnym, przejdź do **użytkowników** \> [aktywnych](https://go.microsoft.com/fwlink/p/?linkid=834822) użytkowników strony.
 
-2. Wybierz nazwę użytkownika, któremu chcesz przypisać, zmienić lub usunąć licencji.
+2. Wybierz nazwę użytkownika, któremu chcesz przypisać, zmienić lub usunąć licencję.
 
-3. Na karcie **licencje i aplikacji** wybierz licencji, który chcesz przypisać temu użytkownikowi.
+3. Na karcie **licencje i aplikacje** wybierz licencję, którą chcesz przypisać temu użytkownikowi.
 
-    Domyślnie do użytkownika są automatycznie przypisywane wszystkie usługi skojarzone z tą licencją. Aby ograniczyć liczbę usług, które są dostępne dla użytkownika, wyczyść pole wyboru dla usług, które mają temu użytkownikowi.
+    Domyślnie do użytkownika są automatycznie przypisywane wszystkie usługi skojarzone z tą licencją. Aby ograniczyć, które usługi są dostępne dla użytkownika, wyczyść pole wyboru dla usług, których użytkownik nie chce mieć.
 
-4. U dołu okienka wybierz polecenie **Zapisz zmiany**.
+4. W dolnej części okienka, wybierz **zapisać zmiany**.
 
-Aby uzyskać więcej informacji zobacz [Przypisywanie licencji do użytkowników w usłudze Office 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)i [Usuwanie licencji od użytkowników w usłudze Office 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Aby uzyskać więcej informacji, zobacz [Przypisywanie licencji użytkownikom](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)i [Usuwanie licencji od użytkowników](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).

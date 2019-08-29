@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574552"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663970"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Jak uaktywnić i zarządzać cykliczną
 
@@ -32,7 +32,7 @@ Wygląda jak masz subskrypcję, którego ważność wygasła. Jeśli chcesz pono
 
 3. Potwierdź szczegóły płatności. Można zaktualizować istniejące informacje o płatności w tym miejscu. Po zakończeniu wprowadzania metodę płatności wybierz **ponownie uaktywnić**.
 
-Czy używasz starego Centrum administracyjnego? Stare lub aby dowiedzieć się więcej zobacz [ponownie aktywować swoją subskrypcję](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Aby dowiedzieć się więcej, zobacz temat [ponownie aktywować swoją subskrypcję](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Do zarządzania, monthly lub yearly fakturowania można przełączyć **rozliczenia cykliczny** lub wyłączyć.
   
@@ -46,4 +46,4 @@ Do zarządzania, monthly lub yearly fakturowania można przełączyć **rozlicze
 
 5. Wybierz opcję **Prześlij zmiany**.
 
-Czy używasz starego Centrum administracyjnego? Stare lub dowiedzieć się więcej zobacz tematy [Włączanie cykliczne faktury lub wyłączyć](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Aby dowiedzieć się więcej, zobacz tematy [Włączanie cykliczne faktury lub wyłączyć](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

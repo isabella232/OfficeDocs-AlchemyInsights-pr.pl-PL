@@ -2,7 +2,6 @@
 title: Konfigurowanie projektu
 ms.author: pebaum
 author: pebaum
-ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +10,18 @@ ms.custom:
 - "33"
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
-description: Docelowe nie więcej niż 500 wyrazów w artykule.
-ms.openlocfilehash: 551ccbb34135b415fa90893ac3e6230762e718b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+description: Cel nie więcej niż 500 słów na artykuł.
+ms.openlocfilehash: 0a9d519b34dad0519cc2a1dbf6a8ed26e73b04d8
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508865"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666202"
 ---
 # <a name="setting-up-project"></a>Konfigurowanie projektu
 
-Wygląda jak potrzebujesz pomocy przy konfigurowaniu projektu z subskrypcją usługi Office 365.
-Informacja dla użytkowników komputerów Macintosh: The Project produkt nie jest w tej chwili dostępne dla systemu MacOS. Jeśli masz komputer należy zainstalować oprogramowanie, wykonując poniższe kroki.
+ Aby skonfigurować program Microsoft Project, wykonaj kroki opisane w [tym artykule](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx).
+
+**Uwaga dla użytkowników komputerów Mac:** W tej chwili produkt Project nie jest dostępny dla systemu MacOS. 
   
-Można wykonać kroki w [tym artykule](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)pobrać swój została ukończona.
-  
-Jeśli są uruchomione na błędy podczas instalacji należy [zainstalować projektu przy użyciu pomocy technicznej i Asystenta](https://aka.ms/SaRA-ProjectSetupScenario)
+Jeśli podczas instalacji są uruchomione błędy, należy [zainstalować program Project przy użyciu Asystenta pomocy technicznej i odzyskiwania](https://aka.ms/SaRA-ProjectSetupScenario).
