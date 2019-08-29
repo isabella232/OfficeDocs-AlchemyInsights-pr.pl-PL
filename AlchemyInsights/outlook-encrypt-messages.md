@@ -1,23 +1,30 @@
 ---
-title: S/MIME w programie Outlook w sieci web
+title: S/MIME w programie Outlook w sieci Web
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
-ms.date: 5/1/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 582c4dc361c0a665377bfc06d13691d222a934ac
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f2c047ca31c586c0aa36701e6e7ca9976cfd1734
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511581"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666850"
 ---
-# <a name="encrypt-email-messages-in-outlook"></a>Szyfrowanie wiadomości e-mail w programie Outlook
+# <a name="encrypt-email-messages-in-outlook"></a>Szyfruj wiadomości e-mail w Outlooku
 
-<p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Szyfrowanie wiadomości usługi Office 365 jest zbudowana na programu Microsoft Azure Rights Management (Azure RMS) będący częścią ochrony informacji Azure. Jeśli subskrypcja obejmuje Azure Rights Management lub ochrony informacji Azure, <strong style="mso-bidi-font-weight: normal;">nie trzeba podjąć wszelkie działania, aby ręcznie włączyć lub aktywacji</strong> usługi zarządzania prawami.</span></p> <p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Na podstawie opinii klientów, firma Microsoft nie będzie włączenie reguły przepływu poczty programu Exchange automatyczne szyfrowanie ruchu wychodzącego e-mail zawierający określony typ informacji poufnych w dzierżawie domyślnie. &nbsp; Zamiast prowadzimy szczegółowe instrukcje w jaki sposób można to zrobić sami. &nbsp;Dodatkowe informacje na temat tworzenia reguły transportu do szyfrowania poufnych informacji można znaleźć w tym <a href="https://aka.ms/OmeEtr">artykule</a>.</span><u></u><span style="text-decoration: line-through;"></span></p> <ul> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&nbsp;&nbsp; &nbsp; &nbsp; </span> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">, Jeśli za pomocą programu Outlook w sieci Web (dawniej <strong style="mso-bidi-font-weight: normal;">OWA</strong>): podczas redagowania wiadomości e-mail, po prostu kliknij przycisk <strong>Chroń</strong> w programie OWA. Będzie to miało zastosowanie domyślnie &lsquo;nie przesyłaj dalej&rsquo; uprawnienia. Kliknij opcję <strong>Zmień uprawnienie</strong> i wybierz polecenie <strong>Szyfruj</strong> tylko zaszyfrować wiadomość.</span></li> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">&nbsp;&nbsp; &nbsp; Jeśli przy użyciu <strong style="mso-bidi-font-weight: normal;">klienta Outlook</strong>: Aby wysłać zaszyfrowaną wiadomość z programu Outlook 2013 lub 2016 lub Outlook 2016 dla komputerów Macintosh, wybierz opcje &agrave; uprawnienia, następnie wybierz opcję ochrony potrzebujesz.</span></li> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">&nbsp;&nbsp; , <strong style="mso-bidi-font-weight: normal;">Automatyczne szyfrowanie wszystkich wiadomości e-mail</strong> wysyłane do określonych adresatów lub organizacje partnerów zewnętrznych, należy utworzyć reguły transportu przepływu poczty w Centrum administracyjnego programu Exchange. Szczegółowe instrukcje znajdują się w tym <span style="color: black;"><a href="https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities">artykułem pomocy</a></span></span></li> </ul>
+Szyfrowanie wiadomości pakietu Office 365 jest zbudowany na Microsoft Azure Rights Management (Azure RMS), który jest częścią usługi Azure Information Protection. Jeśli subskrypcja obejmuje usługę Azure Rights Management lub usługę Azure Information Protection, **nie trzeba podejmować żadnych działań, aby ręcznie włączyć lub aktywować** usługę zarządzania prawami dostępu.
+
+Na podstawie opinii klientów nie będzie już włączania reguł przepływu poczty programu Exchange do automatycznego szyfrowania wychodzących wiadomości e-mail zawierających określony typ poufnych informacji w dzierżawie domyślnie. Zamiast tego, zapewniamy szczegółowe instrukcje, jak można to zrobić sami. Aby uzyskać dodatkowe informacje dotyczące sposobu tworzenia reguły transportu do szyfrowania poufnych informacji, zobacz w [tym artykule](https://aka.ms/OmeEtr).
+
+- Jeśli korzystasz z programu Outlook w sieci Web (dawniej **owa**): podczas tworzenia wiadomości e-mail, po prostu kliknij przycisk **Chroń** w programie OWA. Spowoduje to zastosowanie uprawnienia "nie przesyłam dalej". Kliknij opcję **Zmień uprawnienie** i **** wybierz opcję Szyfruj, aby zaszyfrować tylko wiadomość.
+
+- W przypadku korzystania z **klienta programu Outlook**: aby wysłać zaszyfrowaną wiadomość z programu Outlook 2013 lub 2016 lub Outlook 2016 dla komputerów Macintosh **, wybierz opcję** > **uprawnienia**, a następnie wybierz opcję ochrony, której potrzebujesz.
+
+- Aby **automatycznie szyfrować wszystkie wiadomości e-mail** wysłane do określonych adresatów lub zewnętrznych organizacji partnerskich, należy utworzyć regułę transportu przepływu poczty w centrum administracyjnego programu Exchange. Szczegółowe instrukcje podano w [tym artykule pomocy technicznej](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities).
 

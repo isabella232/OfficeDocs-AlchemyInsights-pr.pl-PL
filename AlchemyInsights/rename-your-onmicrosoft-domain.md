@@ -1,9 +1,8 @@
 ---
-title: Zmień nazwę domeny onmicrosoft
+title: Zmienianie nazwy domeny firmy Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/26/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 4f70ed50d8d0a6596d06d81cf9be2789ee30e216
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 98f0b26f0f38b51c96324233e1cb5618b4146eed
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552397"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666490"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Zmień nazwę domeny onmicrosoft.com
+# <a name="rename-your-onmicrosoftcom-domain"></a>Zmienianie nazwy domeny onmicrosoft.com
 
- **Nie można zmienić nazwy domeny onmicrosoft po zapisywania się.** Na przykład jeśli wybrana domena początkowa była *fourthcoffee.onmicrosoft.com* , nie można zmienić go za *fabrikam.onmicrosoft.com* . Aby użyć domeny onmicrosoft.com różnych, będą musiały rozpocząć nową subskrypcję usługi Office 365.
+ **Po rejestracji nie można zmienić nazwy domeny Microsoft.** Na przykład, jeśli wybrana domena początkowa to *fourthcoffee.onmicrosoft.com*, nie można jej zmienić na *fabrikam.onmicrosoft.com*. Aby użyć innej domeny onmicrosoft.com, należy rozpocząć nową subskrypcję z pakietem Office 365.
   
-Jeśli użytkownik chce użyć własnej domeny jak *contoso.com* , możesz [dodać jeden, których jesteś właścicielem](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) lub [kupić od firmy Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).
+Jeśli chcesz użyć domeny niestandardowej, takiej jak *contoso.com* , możesz [dodać jeden, który posiadasz](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) lub [kupić od firmy Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).
   

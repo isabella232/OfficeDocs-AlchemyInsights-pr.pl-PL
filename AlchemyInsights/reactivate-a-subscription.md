@@ -1,9 +1,8 @@
 ---
-title: Ponownie uaktywnić subskrypcję
+title: Ponowne uaktywnianie subskrypcji
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +12,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 865241f1595de5ebaa3136cbb8b65c66c5330708
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553370"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666598"
 ---
-# <a name="reactivate-an-office-365-subscription"></a>Ponownie aktywować subskrypcję usługi Office 365
+# <a name="reactivate-an-office-365-subscription"></a>Ponowna aktywacja subskrypcji pakietu Office 365
 
-Jeoli subskrypcja wygaonie, została wyłączona przez firmę Microsoft, lub anulowano w połowie okresu subskrypcji, można ponownie uaktywnić go w Centrum administracyjnym.
+Jeśli subskrypcja wygaśnie, została wyłączona przez firmę Microsoft lub anulowano ją w trakcie okresu subskrypcji, można ją ponownie uaktywnić w centrum administracyjnym.
   
-1. W Centrum administracyjnym przejdź do **fakturowania** \> stronę [produktów & usług](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. W centrum administracyjnym przejdź na stronę usługi **fakturowania** \> [produktów _amp_](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Wybierz subskrypcję, którą chcesz ponownie uaktywnić. W sekcji płatności wybierz **ponownie uaktywnić**.
+2. Wybierz subskrypcję, którą chcesz ponownie uaktywnić. W sekcji rozliczenia wybierz opcję **Aktywuj ponownie**.
 
-    Jeśli nie widzisz **reaktywować** jako akcję dostępną [wywołania obsługi technicznej](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) , aby ponownie aktywować swoją subskrypcję.
+    Jeśli nie widzisz **ponownej aktywacji** jako dostępnej akcji, zadzwoń do [pomocy technicznej](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) , aby ponownie uaktywnić subskrypcję.
 
-3. Potwierdź szczegóły płatności. Można zaktualizować istniejące informacje o płatności w tym miejscu. Po zakończeniu wprowadzania metodę płatności wybierz **ponownie uaktywnić**.
+3. Potwierdź szczegóły płatności. Możesz zaktualizować istniejące informacje o płatności tutaj. Po zakończeniu wprowadzania metody płatności wybierz opcję **Aktywuj ponownie**.
 
-Aby uzyskać więcej informacji zobacz temat [ponownie aktywować swoją subskrypcję](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Aby dowiedzieć się więcej, zobacz temat [Ponowne uaktywnianie subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
