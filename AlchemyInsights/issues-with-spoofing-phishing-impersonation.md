@@ -1,5 +1,5 @@
 ---
-title: Problemy z fałszowaniem, wyłudzania informacji lub personifikacji?
+title: Problemy z fałszowaniem, phishingiem lub podszywaniem się?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,29 +9,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: c4d6c9c28c146a098288fdd2d978cdca098e89af
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 73a960d76802ccfee5500b1816f34a15b960c3f2
+ms.sourcegitcommit: 7398c9d81f00328d1edc515a195d779dd28f1bea
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661486"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36716113"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a><span data-ttu-id="cc791-102">Problemy z fałszowaniem, wyłudzania informacji lub personifikacji?</span><span class="sxs-lookup"><span data-stu-id="cc791-102">Issues with spoofing, phishing, or impersonation?</span></span>
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a><span data-ttu-id="5ae54-102">Problemy z fałszowaniem, phishingiem lub podszywaniem się?</span><span class="sxs-lookup"><span data-stu-id="5ae54-102">Issues with spoofing, phishing, or impersonation?</span></span>
 
-<span data-ttu-id="cc791-103">Dowiedz się, jak usługi Office 365 chroni Cię od:</span><span class="sxs-lookup"><span data-stu-id="cc791-103">Learn how Office 365 protects you from:</span></span>
+<span data-ttu-id="5ae54-103">Dowiedz się, jak pakiet Office 365 chroni przed:</span><span class="sxs-lookup"><span data-stu-id="5ae54-103">Learn how Office 365 protects you from:</span></span>
 
-- [<span data-ttu-id="cc791-104">Fałszowanie</span><span class="sxs-lookup"><span data-stu-id="cc791-104">Spoofing</span></span>](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
+- [<span data-ttu-id="5ae54-104">Fałszowanie</span><span class="sxs-lookup"><span data-stu-id="5ae54-104">Spoofing</span></span>](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
 
-- [<span data-ttu-id="cc791-105">Wyłudzanie informacji i personifikacji</span><span class="sxs-lookup"><span data-stu-id="cc791-105">Phishing and impersonation</span></span>](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)
+- [<span data-ttu-id="5ae54-105">Wyłudzanie informacji i personifikacja</span><span class="sxs-lookup"><span data-stu-id="5ae54-105">Phishing and impersonation</span></span>](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)
 
-<span data-ttu-id="cc791-106">Zalecenia dodatkowe:</span><span class="sxs-lookup"><span data-stu-id="cc791-106">Additional recommendations:</span></span>
+<span data-ttu-id="5ae54-106">Dodatkowe zalecenia:</span><span class="sxs-lookup"><span data-stu-id="5ae54-106">Additional recommendations:</span></span>
 
-- <span data-ttu-id="cc791-107">W przypadku fałszywej nadawców, które wydają się pochodzić z własnej domeny mogą pomóc SPF i DKIM.</span><span class="sxs-lookup"><span data-stu-id="cc791-107">For spoofed senders that appear to come from your own domain, SPF and DKIM can help.</span></span>
+- <span data-ttu-id="5ae54-107">Dla sfałszowanych nadawców, którzy wydają się pochodzić z własnej domeny, [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) i [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) mogą pomóc.</span><span class="sxs-lookup"><span data-stu-id="5ae54-107">For spoofed senders that appear to come from your own domain, [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) and [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) can help.</span></span>
 
-- <span data-ttu-id="cc791-108">Sprawdź nadawców z własnej domeny nie są skonfigurowane, aby ominąć filtry antyspamowe przy użyciu reguł przepływu (znany również jako reguły transportu) lub umożliwić pozycje listy.</span><span class="sxs-lookup"><span data-stu-id="cc791-108">Verify senders in your own domain aren't configured to bypass anti-spam filtering using flow rules (also known as transport rules) or allow list entries.</span></span>
+- <span data-ttu-id="5ae54-108">Weryfikowanie nadawców we własnej domenie nie jest skonfigurowane do pomijania filtrowania antyspamowego przy użyciu reguł przepływu poczty (nazywanych również regułami transportu) lub zezwalania na wpisy listy.</span><span class="sxs-lookup"><span data-stu-id="5ae54-108">Verify senders in your own domain aren't configured to bypass anti-spam filtering using mail flow rules (also known as transport rules) or allow list entries.</span></span> <span data-ttu-id="5ae54-109">Aby uzyskać więcej informacji, zobacz [uwagi dotyczące pomijania filtrów spamu w pakiecie Office 365](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).</span><span class="sxs-lookup"><span data-stu-id="5ae54-109">For more information, see [Cautions against bypassing Office 365 spam filters](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).</span></span>
 
-- <span data-ttu-id="cc791-109">Sprawdź, czy użytkownikom nie zostały skonfigurowane umożliwić pozycje listy, które umożliwiają ataki typu phishing.</span><span class="sxs-lookup"><span data-stu-id="cc791-109">Verify that users haven't configured allow list entries that could allow phishing attacks.</span></span>
+- <span data-ttu-id="5ae54-110">Sprawdź, czy użytkownicy nie skonfigurowali wpisów [listy bezpiecznych nadawców](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) , które mogą zezwalać na ataki phishingowe.</span><span class="sxs-lookup"><span data-stu-id="5ae54-110">Verify that users haven't configured [Safe Senders list](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) entries that could allow phishing attacks.</span></span>
 
-- <span data-ttu-id="cc791-110">Należy wziąć pod uwagę, dostarczanie wiadomości ze spamem i phishingiem dużej pewności dopasowania do kwarantanny, a nie z folderu wiadomości-śmieci wiadomości E-mail.</span><span class="sxs-lookup"><span data-stu-id="cc791-110">Consider delivering high-confidence spam and phishing messages to quarantine instead of the Junk Email folder.</span></span>
+- <span data-ttu-id="5ae54-111">Rozważ dostarczanie spamu i wiadomości phishingowych o wysokiej pewności, zamiast folderu wiadomości-śmieci.</span><span class="sxs-lookup"><span data-stu-id="5ae54-111">Consider delivering high-confidence spam and phishing messages to quarantine instead of the Junk Email folder.</span></span> <span data-ttu-id="5ae54-112">Aby uzyskać więcej informacji, zobacz [kwarantanny wiadomości e-mail w pakiecie Office 365](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).</span><span class="sxs-lookup"><span data-stu-id="5ae54-112">For more information, see [Quarantine email messages in Office 365](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).</span></span>
 
-<span data-ttu-id="cc791-111">**[Zgłoszenie wiadomości do firmy Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) jest najlepszym sposobem, aby nas powiadomić, skuteczność filtrów.**</span><span class="sxs-lookup"><span data-stu-id="cc791-111">**[Reporting messages to Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) is the best way to let us know how the filters are performing.**</span></span>
+<span data-ttu-id="5ae54-113">**[Raportowanie wiadomości do firmy Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) jest najlepszym sposobem, aby dać nam znać, jak filtry są wykonywane.**</span><span class="sxs-lookup"><span data-stu-id="5ae54-113">**[Reporting messages to Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) is the best way to let us know how the filters are performing.**</span></span>
