@@ -1,6 +1,6 @@
 ---
-title: Włączanie zewnętrznego lub wyłączyć udostępnianie dla programu SharePoint
-ms.author: kirks
+title: Włączanie lub wyłączanie udostępniania zewnętrznego dla programu SharePoint
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2f61a34cb0b510af7c4fcc6193a977662c328063
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507893"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750926"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Ostrzeżenie: zasady firmy nie zezwalają na udostępnianie tych użytkowników
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Komunikat ostrzegawczy: zasady organizacji nie zezwalają na udostępnianie tych użytkowników
 
-Użytkownicy mogą wystąpić komunikat ostrzegawczy, gdy próbujesz udostępnić użytkownikom zewnętrznym w danej organizacji. Wiadomość jest **zasady firmy nie zezwalają na udostępnianie tych użytkowników. Przejdź do udostępniania zewnętrznych w Centrum administracyjnym usługi Office 365 umożliwiające jej**. Często zdarza się po raz pierwszy próbuje udostępnić użytkownikom zewnętrznym lub w przypadku udostępniania nowych użytkowników zewnętrznych.
+Użytkownicy mogą napotkać komunikat ostrzegawczy podczas próby udostępnienia użytkownikom zewnętrznym w organizacji. Komunikat jest **zasad organizacji nie pozwalają na udostępnianie tych użytkowników. Przejdź do udostępnianie zewnętrzne w centrum administracyjnym pakietu Office 365, aby je włączyć**. Często zdarza się to po raz pierwszy próba udostępnienia użytkownikom zewnętrznym lub podczas udostępniania z nowymi użytkownikami zewnętrznymi.
 
-Sprawdź **Ustawienia programu SharePoint i udostępniania zewnętrznych OneDrive** dla danej organizacji.
+Sprawdź **Ustawienia udostępniania zewnętrznego w programie SharePoint i usłudze OneDrive** w organizacji.
 
-1. W [Centrum administracyjnego 365 Microsoft](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)wybierz **programu SharePoint**.
-3. Wybierz opcję **Udostępnianie** , aby wyświetlić ustawienia udostępniania zewnętrznych.
+1. W [centrum administracyjnym Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)wybierz pozycję **SharePoint**.
+3. Wybierz opcję **udostępnianie** , aby wyświetlić ustawienia udostępniania zewnętrznego.
 
-Sprawdź **Ustawienia udostępniania zewnętrznych** dla określonej witryny.
+Sprawdź **Ustawienia udostępniania zewnętrznego** dla konkretnej witryny.
 
-1. W [Centrum administracyjnego 365 Microsoft](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)wybierz **programu SharePoint**.
-2. Wybierz **miejsc aktywnych** , aby zobaczyć swoje witryny, które są dostępne.
-3. Wybierz witrynę, którą chcesz sprawdzić, a następnie wybierz przycisk **Udostępnianie** , który wyświetla na pasku menu, aby zweryfikować ustawienia witryny.
+1. W [centrum administracyjnym Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)wybierz pozycję **SharePoint**.
+2. Wybierz pozycję **aktywne witryny** , aby wyświetlić dostępne witryny.
+3. Wybierz witrynę, którą chcesz sprawdzić, a następnie wybierz przycisk **udostępniania** , który jest wyświetlany na pasku menu, aby zweryfikować ustawienia witryny.
 
-Aby uzyskać więcej informacji zobacz [Omówienie udostępniania zewnętrznych](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+Aby uzyskać więcej informacji, zobacz [Omówienie udostępniania zewnętrznego](https://docs.microsoft.com/sharepoint/external-sharing-overview).

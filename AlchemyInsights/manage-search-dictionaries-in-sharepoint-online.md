@@ -1,6 +1,6 @@
 ---
-title: Zarządzanie słownikami Szukaj w dokumentacji Online programu SharePoint
-ms.author: kirks
+title: Zarządzanie słownikami wyszukiwania w programie SharePoint Online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 78aaf013c3fa8f5ed4c91b1c651ba2328ed73402
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542120"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754418"
 ---
-# <a name="manage-search-dictionaries"></a>Zarządzanie słownikami wyszukiwania
+# <a name="manage-search-dictionaries"></a>Zarządzaj słownikami wyszukiwania
 
-Słowniki o wyszukiwania w programie SharePoint online są zarządzane w magazynie terminów Online programu SharePoint, która znajduje się w Centrum administracyjnego programu SharePoint. Aby uzyskać więcej informacji na temat dodawania lub edytowania słowników wyszukiwania zobacz [Manage wyszukiwania słowniki](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
+Słowniki wyszukiwania w programie SharePoint Online są zarządzane w SharePoint Online Term Store, który znajduje się w nowym centrum administracyjnym programu SharePoint. Aby uzyskać więcej informacji na temat dodawania lub edytowania słowników wyszukiwania, zobacz [Zarządzanie słownikami wyszukiwania](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
   
-Jeśli nie widzisz zestawu terminów słownika wyszukiwania pojawiają się w magazynie terminów, odczekaj 24 godziny. Jeśli słownik nadal nie pojawia się po upływie 24 godzin, należy zalogować się do pomocy technicznej.
+Jeśli nie widzisz zestawu termin słownika wyszukiwania pojawiają się w magazynie termin, poczekaj 24 godziny. Jeśli słownik nadal nie pojawia się po 24 godzinach, należy zalogować bilet pomocy technicznej.
   
