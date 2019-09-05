@@ -1,6 +1,6 @@
 ---
-title: Wydajność problemów programu SharePoint lub OneDrive
-ms.author: kirks
+title: Problemy z wydajnością-SharePoint lub OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 880b2bdd7b74f4365bcbff73a709d42e72be0e3a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7e218cfff81274cd16d55dec2c5243eb8b74a3b7
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535185"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750566"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a><span data-ttu-id="de899-102">SharePoint lub OneDrive wolno, niedostępne lub niedostępny dla wielu użytkowników</span><span class="sxs-lookup"><span data-stu-id="de899-102">SharePoint or OneDrive Slow, Inaccessible or Unavailable for Multiple Users</span></span>
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a><span data-ttu-id="21f77-102">SharePoint lub OneDrive powolne, niedostępne lub niedostępne dla wielu użytkowników</span><span class="sxs-lookup"><span data-stu-id="21f77-102">SharePoint or OneDrive Slow, Inaccessible or Unavailable for Multiple Users</span></span>
 
-<span data-ttu-id="de899-103">Jeśli witryny programu SharePoint lub OneDrive nie jest dostępny dla wielu użytkowników, którzy uprzednio uzyskiwała dostęp, może to być problem tymczasowy usługi.</span><span class="sxs-lookup"><span data-stu-id="de899-103">If a OneDrive or SharePoint site is not available to multiple users who previously had access, there may be a temporary service issue.</span></span> <span data-ttu-id="de899-104">[Sprawdź pulpit nawigacyjny kondycji usługi](https://portal.office.com/adminportal/home#/servicehealth).</span><span class="sxs-lookup"><span data-stu-id="de899-104">[Check the service health dashboard](https://portal.office.com/adminportal/home#/servicehealth).</span></span>
+<span data-ttu-id="21f77-103">Jeśli witryna OneDrive lub SharePoint nie jest dostępna dla wielu użytkowników, którzy wcześniej mieli dostęp, może to być problem tymczasowy usługi.</span><span class="sxs-lookup"><span data-stu-id="21f77-103">If a OneDrive or SharePoint site is not available to multiple users who previously had access, there may be a temporary service issue.</span></span> <span data-ttu-id="21f77-104">[Sprawdź pulpit nawigacyjny kondycji usługi](https://portal.office.com/adminportal/home#/servicehealth).</span><span class="sxs-lookup"><span data-stu-id="21f77-104">[Check the service health dashboard](https://portal.office.com/adminportal/home#/servicehealth).</span></span>
 
-<span data-ttu-id="de899-105">**Dodaj i licencję użytkownika**</span><span class="sxs-lookup"><span data-stu-id="de899-105">**Add and license the user**</span></span>
+<span data-ttu-id="21f77-105">**Dodawanie i Licencjonowanie użytkownika**</span><span class="sxs-lookup"><span data-stu-id="21f77-105">**Add and license the user**</span></span>
 
-<span data-ttu-id="de899-106">Zapewnić, że można [przypisywać licencje dla użytkowników w usłudze Office 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).</span><span class="sxs-lookup"><span data-stu-id="de899-106">Ensure that you [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).</span></span>
+<span data-ttu-id="21f77-106">Upewnij się, że [Przypisywanie licencji użytkownikom w pakiecie Office 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).</span><span class="sxs-lookup"><span data-stu-id="21f77-106">Ensure that you [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).</span></span>
 
 
-<span data-ttu-id="de899-107">**Przypisywanie uprawnień**</span><span class="sxs-lookup"><span data-stu-id="de899-107">**Assign Permissions**</span></span>
+<span data-ttu-id="21f77-107">**Przypisywanie uprawnień**</span><span class="sxs-lookup"><span data-stu-id="21f77-107">**Assign Permissions**</span></span>
 
-<span data-ttu-id="de899-108">Jeśli użytkownik został przypisany licencji programu Sharepoint i nadal otrzymuje komunikat o odmowie dostępu, upewnij się, że mają [odpowiedni poziom uprawnień](https://docs.microsoft.com/sharepoint/understanding-permission-levels) przypisanych.</span><span class="sxs-lookup"><span data-stu-id="de899-108">If the user has been assigned a Sharepoint license and is still receiving an access denied message, please ensure they have the [appropriate permission level](https://docs.microsoft.com/sharepoint/understanding-permission-levels) assigned.</span></span>
+<span data-ttu-id="21f77-108">Jeśli użytkownik ma przypisaną licencję programu SharePoint i nadal odbiera komunikat o odmowie dostępu, upewnij się, że ma przypisany [odpowiedni poziom uprawnień](https://docs.microsoft.com/sharepoint/understanding-permission-levels) .</span><span class="sxs-lookup"><span data-stu-id="21f77-108">If the user has been assigned a Sharepoint license and is still receiving an access denied message, please ensure they have the [appropriate permission level](https://docs.microsoft.com/sharepoint/understanding-permission-levels) assigned.</span></span>
 
-<span data-ttu-id="de899-109">**Należy rozważyć użycie funkcji żądania dostępu**</span><span class="sxs-lookup"><span data-stu-id="de899-109">**Consider using the access request feature**</span></span>
+<span data-ttu-id="21f77-109">**Rozważ użycie funkcji żądania dostępu**</span><span class="sxs-lookup"><span data-stu-id="21f77-109">**Consider using the access request feature**</span></span>
 
-<span data-ttu-id="de899-110">[Funkcja żądania dostępu](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) umożliwia osobom na żądanie dostępu do treści, które aktualnie nie mają uprawnień do przeglądania.</span><span class="sxs-lookup"><span data-stu-id="de899-110">The [access request feature](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) allows people to request access to content that they do not currently have permission to see.</span></span>
+<span data-ttu-id="21f77-110">[Funkcja żądania dostępu](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) umożliwia użytkownikom żądanie dostępu do zawartości, której obecnie nie ma uprawnień do zobaczenia.</span><span class="sxs-lookup"><span data-stu-id="21f77-110">The [access request feature](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) allows people to request access to content that they do not currently have permission to see.</span></span>
 
-<span data-ttu-id="de899-111">**Zezwalanie na skrypt niestandardowy może powodować problemów odmowa dostępu**</span><span class="sxs-lookup"><span data-stu-id="de899-111">**Allow custom script may cause access denied issues**</span></span>
+<span data-ttu-id="21f77-111">**Zezwalaj na niestandardowy skrypt może spowodować problemy z odmową dostępu**</span><span class="sxs-lookup"><span data-stu-id="21f77-111">**Allow custom script may cause access denied issues**</span></span>
 
-<span data-ttu-id="de899-112">Istnieją pewne scenariusze, gdzie może prezentować funkcja *Zezwalaj na skrypty niestandardowe* o odmowie dostępu.</span><span class="sxs-lookup"><span data-stu-id="de899-112">There are certain scenarios where the *Allow custom script* feature may be presenting an access denied.</span></span> <span data-ttu-id="de899-113">Aby uzyskać listę funkcji, których dotyczy problem, zagadnienia dotyczące zabezpieczeń i możliwości, aby wyłączyć tę funkcję.</span><span class="sxs-lookup"><span data-stu-id="de899-113">For a list of features affected, security considerations and the ability to disable the feature.</span></span> <span data-ttu-id="de899-114">Przejdź do strony [Zezwalaj lub zapobiegania niestandardowy skrypt](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).</span><span class="sxs-lookup"><span data-stu-id="de899-114">Please visit [Allow or prevent custom script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).</span></span>
+<span data-ttu-id="21f77-112">Istnieją pewne scenariusze, w których funkcja *Zezwalaj na skrypt niestandardowy* może przedstawiać odmowa dostępu.</span><span class="sxs-lookup"><span data-stu-id="21f77-112">There are certain scenarios where the *Allow custom script* feature may be presenting an access denied.</span></span> <span data-ttu-id="21f77-113">Aby uzyskać listę funkcji, których dotyczy problem, zagadnienia dotyczące zabezpieczeń i możliwość wyłączenia tej funkcji.</span><span class="sxs-lookup"><span data-stu-id="21f77-113">For a list of features affected, security considerations and the ability to disable the feature.</span></span> <span data-ttu-id="21f77-114">Odwiedź stronę [Zezwalaj lub Zapobiegaj skryptowaniu niestandardowym](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).</span><span class="sxs-lookup"><span data-stu-id="21f77-114">Please visit [Allow or prevent custom script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).</span></span>
 
