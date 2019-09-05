@@ -1,5 +1,5 @@
 ---
-title: Nazwa wyświetlana zmiana 959
+title: 959 zmiana nazwy wyświetlanej
 ms.author: pdigia
 author: pebaum
 ms.date: 7/17/2018
@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519813"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736731"
 ---
-# <a name="change-your-display-name"></a><span data-ttu-id="82339-102">Zmiana nazwy wyświetlanej</span><span class="sxs-lookup"><span data-stu-id="82339-102">Change your display name</span></span>
+# <a name="change-your-display-name"></a><span data-ttu-id="e38d6-102">Zmienianie nazwy wyświetlanej</span><span class="sxs-lookup"><span data-stu-id="e38d6-102">Change your display name</span></span>
   
-<span data-ttu-id="82339-103">Aby zmienić nazwy wyświetlanej w programie Outlook, wykonaj następujące kroki.</span><span class="sxs-lookup"><span data-stu-id="82339-103">To change your display name in Outlook, use the following steps.</span></span>
+<span data-ttu-id="e38d6-103">Aby zmienić nazwę wyświetlaną w programie Outlook, wykonaj następujące kroki.</span><span class="sxs-lookup"><span data-stu-id="e38d6-103">To change your display name in Outlook, use the following steps.</span></span>
   
-1. <span data-ttu-id="82339-104">W programie Outlook, wybierz **plik** \> **Ustawienia konta** \> **Ustawienia konta**.</span><span class="sxs-lookup"><span data-stu-id="82339-104">In Outlook, select **File** \> **Account Settings** \> **Account Settings**.</span></span>
+1. <span data-ttu-id="e38d6-104">W programie Outlook wybierz Ustawienia konta **pliku** \> **Ustawienia** \> **konta.**</span><span class="sxs-lookup"><span data-stu-id="e38d6-104">In Outlook, select **File** \> **Account Settings** \> **Account Settings**.</span></span>
 
-2. <span data-ttu-id="82339-105">Zaznacz konto e-mail, a następnie wybierz **zmianę**.</span><span class="sxs-lookup"><span data-stu-id="82339-105">Select the email account and then select **Change**.</span></span>
+2. <span data-ttu-id="e38d6-105">Wybierz konto e-mail, a następnie wybierz pozycję **Zmień**.</span><span class="sxs-lookup"><span data-stu-id="e38d6-105">Select the email account and then select **Change**.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="82339-106">Jeśli opcja zmiany nazwy wyświetlanej nie jest widoczny, prawdopodobnie używasz konta e-mail programu Microsoft Exchange.</span><span class="sxs-lookup"><span data-stu-id="82339-106">If you do not see the option to change your display name, you are probably using a Microsoft Exchange email account.</span></span> <span data-ttu-id="82339-107">W takim przypadku należy skontaktować się z administratorem, aby zmienić nazwę wyświetlaną.</span><span class="sxs-lookup"><span data-stu-id="82339-107">In this case, you need to contact your administrator to change your display name.</span></span> <span data-ttu-id="82339-108">Zobacz [Zmienianie nazwy użytkownika i adres e-mail w usłudze Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).</span><span class="sxs-lookup"><span data-stu-id="82339-108">See [Change a user name and email address in Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).</span></span>
+    > <span data-ttu-id="e38d6-106">Jeśli nie widzisz opcji zmiany nazwy wyświetlanej, prawdopodobnie korzystasz z konta e-mail programu Microsoft Exchange.</span><span class="sxs-lookup"><span data-stu-id="e38d6-106">If you do not see the option to change your display name, you are probably using a Microsoft Exchange email account.</span></span> <span data-ttu-id="e38d6-107">W takim przypadku należy skontaktować się z administratorem, aby zmienić nazwę wyświetlaną.</span><span class="sxs-lookup"><span data-stu-id="e38d6-107">In this case, you need to contact your administrator to change your display name.</span></span> <span data-ttu-id="e38d6-108">Zobacz [Zmienianie nazwy użytkownika i adresu e-mail w pakiecie Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).</span><span class="sxs-lookup"><span data-stu-id="e38d6-108">See [Change a user name and email address in Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).</span></span>
   
-3. <span data-ttu-id="82339-109">Po zmianie nazwy wyświetlanej, kliknij przycisk **OK** , aby zapisać zmiany.</span><span class="sxs-lookup"><span data-stu-id="82339-109">After you've changed your display name, click **OK** to save your changes.</span></span> <span data-ttu-id="82339-110">To może potrwać kilka godzin zmiany odzwierciedlają w całej organizacji.</span><span class="sxs-lookup"><span data-stu-id="82339-110">It can take a few hours for your changes to reflect throughout your organization.</span></span>
+3. <span data-ttu-id="e38d6-109">Po zmianie nazwy wyświetlanej kliknij przycisk **OK** , aby zapisać zmiany.</span><span class="sxs-lookup"><span data-stu-id="e38d6-109">After you've changed your display name, click **OK** to save your changes.</span></span> <span data-ttu-id="e38d6-110">Może potrwać kilka godzin, aby zmiany odzwierciedlały w całej organizacji.</span><span class="sxs-lookup"><span data-stu-id="e38d6-110">It can take a few hours for your changes to reflect throughout your organization.</span></span>
 
-<span data-ttu-id="82339-111">Aby uzyskać więcej informacji zobacz temat [Zmienianie nazwy wyświetlanej, zobacz adresatów wiadomości e-mail](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span><span class="sxs-lookup"><span data-stu-id="82339-111">For more information, see [Change the display name that email recipients see](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span></span>
+<span data-ttu-id="e38d6-111">Aby uzyskać więcej informacji, zobacz [Zmienianie nazwy wyświetlanej, którą widzą Adresaci poczty e-mail](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span><span class="sxs-lookup"><span data-stu-id="e38d6-111">For more information, see [Change the display name that email recipients see](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span></span>
   

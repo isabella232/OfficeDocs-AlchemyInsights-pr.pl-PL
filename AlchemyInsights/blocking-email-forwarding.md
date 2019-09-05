@@ -1,5 +1,5 @@
 ---
-title: Blokowanie 726 przekazywanie wiadomości e-mail
+title: 726 blokowanie przekazywania wiadomości e-mail
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 4bb1516964fac51fac484cc5dbbacef495081e30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 70cc2529361766c92e9167162b13e06796a9c4b0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517617"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737739"
 ---
-# <a name="block-email-forwarding"></a><span data-ttu-id="b0b8b-102">Zablokować przekazywanie poczty e-mail</span><span class="sxs-lookup"><span data-stu-id="b0b8b-102">Block email forwarding</span></span>
+# <a name="block-email-forwarding"></a><span data-ttu-id="f07f9-102">Blokowanie przekazywania wiadomości e-mail</span><span class="sxs-lookup"><span data-stu-id="f07f9-102">Block email forwarding</span></span>
 
-<span data-ttu-id="b0b8b-103">Aby wyłączyć przekazywanie dla określonej skrzynki pocztowej wiadomości e-mail, zobacz [skonfigurować przekazywanie poczty e-mail](https://support.office.com/client/15abf81d-5c5d-49da-ac81-1b4daa1809f6).</span><span class="sxs-lookup"><span data-stu-id="b0b8b-103">To disable email forwarding for a specific mailbox, see [Set up email forwarding](https://support.office.com/client/15abf81d-5c5d-49da-ac81-1b4daa1809f6).</span></span>
+<span data-ttu-id="f07f9-103">Aby wyłączyć przekazywanie wiadomości e-mail dla określonej skrzynki pocztowej, zobacz [Konfigurowanie przekazywania poczty e-mail](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).</span><span class="sxs-lookup"><span data-stu-id="f07f9-103">To disable email forwarding for a specific mailbox, see [Configure email forwarding](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).</span></span>
 
-<span data-ttu-id="b0b8b-104">Aby zablokować przekazywanie poczty e-mail dla całej organizacji, [wiele sposobów, aby zablokować automatyczne przekazywanie w programie Exchange Online w wiadomości e-mail](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span><span class="sxs-lookup"><span data-stu-id="b0b8b-104">To block email forwarding for the whole organization, [The many ways to block automatic email forwarding in Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span></span>
+<span data-ttu-id="f07f9-104">Aby zablokować przekazywanie wiadomości e-mail dla całej organizacji, [wiele sposobów blokowania automatycznego przekazywania poczty e-mail w programie Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span><span class="sxs-lookup"><span data-stu-id="f07f9-104">To block email forwarding for the whole organization, [The many ways to block automatic email forwarding in Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span></span>

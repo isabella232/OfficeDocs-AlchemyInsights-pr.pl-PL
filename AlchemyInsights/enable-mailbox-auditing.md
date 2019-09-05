@@ -1,5 +1,5 @@
 ---
-title: Włącz inspekcję skrzynki pocztowej
+title: Włącz inspekcję skrzynek pocztowych
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 1ef60017f1ea656296bc7b2aa3bc5365646f11f3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 73517f46935a67a4a8a3e4770090ac897fe67979
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527624"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736263"
 ---
-# <a name="enable-mailbox-auditing"></a><span data-ttu-id="05771-102">Włącz inspekcję skrzynki pocztowej</span><span class="sxs-lookup"><span data-stu-id="05771-102">Enable mailbox auditing</span></span>
+# <a name="enable-mailbox-auditing"></a><span data-ttu-id="54d94-102">Włącz inspekcję skrzynek pocztowych</span><span class="sxs-lookup"><span data-stu-id="54d94-102">Enable mailbox auditing</span></span>
 
-<span data-ttu-id="05771-103">Aby włączyć inspekcję, skrzynki pocztowej dla pojedynczego użytkownika lub całej organizacji następujące polecenia cmdlet należy uruchomić z powłoki zdalnej zasilania:</span><span class="sxs-lookup"><span data-stu-id="05771-103">To enable Mailbox Auditing for either a single user or an entire organization the following cmdlets must be run from Remote Power Shell:</span></span>
+<span data-ttu-id="54d94-103">Aby włączyć inspekcję skrzynek pocztowych dla jednego użytkownika lub całej organizacji, należy uruchomić następujące polecenia cmdlet z zdalnej powłoki zasilania:</span><span class="sxs-lookup"><span data-stu-id="54d94-103">To enable Mailbox Auditing for either a single user or an entire organization the following cmdlets must be run from Remote Power Shell:</span></span>
   
- <span data-ttu-id="05771-104">**Pojedynczy użytkownik**</span><span class="sxs-lookup"><span data-stu-id="05771-104">**Single User**</span></span>
+ <span data-ttu-id="54d94-104">**Pojedynczy użytkownik**</span><span class="sxs-lookup"><span data-stu-id="54d94-104">**Single User**</span></span>
   
-<span data-ttu-id="05771-105">Set-Mailbox - tożsamości "Jane Dow" - AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="05771-105">Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true</span></span>
+<span data-ttu-id="54d94-105">Zestaw-Mailbox-tożsamość "Jane Dow"-AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="54d94-105">Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true</span></span>
   
- <span data-ttu-id="05771-106">**Organizacja**</span><span class="sxs-lookup"><span data-stu-id="05771-106">**Organization**</span></span>
+ <span data-ttu-id="54d94-106">**Organizacji**</span><span class="sxs-lookup"><span data-stu-id="54d94-106">**Organization**</span></span>
   
-<span data-ttu-id="05771-107">Get-Mailbox - ResultSize nieograniczony - filtr {RecipientTypeDetails - eq "UserMailbox"} | Set-Mailbox - AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="05771-107">Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true</span></span>
+<span data-ttu-id="54d94-107">Pobierz skrzynki pocztowej-ResultSize nieograniczony-filtr {RecipientTypeDetails-EQ "UserMailbox"} | $true AuditEnabled zestawu skrzynek pocztowych</span><span class="sxs-lookup"><span data-stu-id="54d94-107">Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true</span></span>
   
-[<span data-ttu-id="05771-108">Dowiedz się więcej</span><span class="sxs-lookup"><span data-stu-id="05771-108">Learn more</span></span>](https://support.office.com/article/aaca8987-5b62-458b-9882-c28476a66918)
+[<span data-ttu-id="54d94-108">Dowiedz się więcej</span><span class="sxs-lookup"><span data-stu-id="54d94-108">Learn more</span></span>](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
   
 

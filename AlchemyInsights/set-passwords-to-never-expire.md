@@ -1,5 +1,5 @@
 ---
-title: Ustawianie hasła nigdy nie wygasa
+title: Ustawianie haseł, które nigdy nie wygasają
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f5383fc3-d7fc-4efb-93b7-a520b374099a
-ms.openlocfilehash: 835998c6adfbd7c0f0024aecaa5181fc5d1d89a5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b74e12a2618ff34d27886eb6b8cf628f689307b8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550093"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741123"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="13206-102">Ustawianie hasła nigdy nie wygasa</span><span class="sxs-lookup"><span data-stu-id="13206-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="e5c07-102">Ustawianie haseł, które nigdy nie wygasają</span><span class="sxs-lookup"><span data-stu-id="e5c07-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="13206-103">Ustawić hasło nigdy nie wygasa z [Security &amp; prywatności](https://portal.office.com/adminportal/home#/settings/security).</span><span class="sxs-lookup"><span data-stu-id="13206-103">Set passwords to never expire from [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span></span> <span data-ttu-id="13206-104">Kliknij przycisk "Edytuj" obok zasad haseł, a następnie przesuń suwak na "on".</span><span class="sxs-lookup"><span data-stu-id="13206-104">Click "Edit" next to Password Policy, and turn the slider to "on".</span></span>
+<span data-ttu-id="e5c07-103">Ustawianie haseł nigdy nie wygasa z [prywatności &amp; zabezpieczeń](https://portal.office.com/adminportal/home#/settings/security).</span><span class="sxs-lookup"><span data-stu-id="e5c07-103">Set passwords to never expire from [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span></span> <span data-ttu-id="e5c07-104">Kliknij "Edytuj" obok zasad haseł i obróć suwak na "wł.".</span><span class="sxs-lookup"><span data-stu-id="e5c07-104">Click "Edit" next to Password Policy, and turn the slider to "on".</span></span>
   
-<span data-ttu-id="13206-105">Aby uzyskać szczegółowe informacje, zobacz: [Ustaw zasady wygasania hasła dla danej organizacji](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).</span><span class="sxs-lookup"><span data-stu-id="13206-105">For more detailed information see: [Set the password expiration policy for your organization](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).</span></span>
+<span data-ttu-id="e5c07-105">Aby uzyskać szczegółowe informacje, zobacz: [Ustawianie zasad wygasania haseł dla organizacji](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).</span><span class="sxs-lookup"><span data-stu-id="e5c07-105">For more detailed information see: [Set the password expiration policy for your organization](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).</span></span>
   
 
