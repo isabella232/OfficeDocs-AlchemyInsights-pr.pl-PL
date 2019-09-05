@@ -1,5 +1,5 @@
 ---
-title: 712 konwersji listy dystrybucyjnej z grupą usługi Office 365
+title: 712 Konwertowanie listy dystrybucyjnej do grupy 365 pakietu Office
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 167c4e5fe0b1be2d4c0c3931db08c02feb8fa53d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af4f8772be25c5d3de0489cd24b9cdbac199daa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516429"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738351"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a>Konwertuj grupy dystrybucyjnej na grupę Office 365
+# <a name="convert-a-distribution-group-to-an-office-365-group"></a>Konwertowanie grupy dystrybucyjnej na grupę pakietu Office 365
 
-Grup dystrybucyjnych można przekonwertować grupy usługi Office 365, jeśli spełniają określone kryteria. Aby przekonwertować grupę lub rozwiązać problemy przy konwersji, zobacz [uaktualnienie listy dystrybucyjne do grupy usługi Office 365 w programie Outlook](https://support.office.com/article/787D7A75-E201-46F3-A242-F698162FF09F).
+Grupy dystrybucyjne można konwertować do grupy 365 pakietu Office, jeśli spełniają określone kryteria. Aby przekonwertować grupę lub rozwiązać problemy z konwersją, zobacz [uaktualnianie list dystrybucyjnych do grup pakietu Office 365 w programie Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).

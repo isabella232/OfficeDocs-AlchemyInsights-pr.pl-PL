@@ -1,6 +1,6 @@
 ---
-title: Komunikat o błędzie Usługa przesyłania metadanych zarządzane
-ms.author: kirks
+title: Komunikat o błędzie usługi Managed Metadata Service
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 58a5d88ad529baee19538d1ac5c1974b0c01abc4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b21bb5339e34e3ddd9c5f052fc1a2a098b25667a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542021"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754310"
 ---
-# <a name="managed-metadata-service-error-message"></a>Komunikat o błędzie Usługa przesyłania metadanych zarządzane
+# <a name="managed-metadata-service-error-message"></a>Komunikat o błędzie usługi Managed Metadata Service
 
-Podczas otwierania magazynu terminów, może zostać wyświetlony komunikat o błędzie: "połączenie lub zarządzane Usługa przesyłania metadanych nie jest obecnie dostępna. Pula aplikacji lub usługa przesyłania zarządzanych metadanych w sieci Web może nie została uruchomiona. Skontaktuj się z administratorem."
+Po otwarciu magazynu termin może zostać wyświetlony komunikat o błędzie: "usługa Managed Metadata Service lub Connection jest obecnie niedostępna. Nie można uruchomić puli aplikacji lub usługi sieci Web zarządzanych metadanych. Proszę skontaktować się z administratorem. "
   
-Jeśli więcej niż 24 godziny minęło po raz pierwszy zobaczył ten problem, należy zalogować się przypadek pomocy technicznej. Rozumiemy, że 24 godziny może wydawać się bardzo długo. W wielu przypadkach już pracujemy nad rozwiązaniem, więc należy podać co najmniej 24 godziny.
+Jeśli minęło więcej niż 24 godziny od pierwszego zobaczyłem ten problem, należy zalogować się w przypadku pomocy technicznej. Rozumiemy, że 24 godziny może wydawać się długi czas. W wielu przypadkach pracujemy już nad rozwiązaniem, więc proszę dać nam co najmniej 24 godziny.
   

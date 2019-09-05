@@ -1,7 +1,7 @@
 ---
-title: Więcej informacji na temat zasad przechowywania
+title: Więcej informacji o zasadach przechowywania
 ms.author: stephow
-author: msft-stephow
+author: stephow-msft
 manager: laurawi
 ms.date: 08/14/2019
 ms.audience: admin
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: ff9daf0489fb5feeb22bda19d55136caaea024cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521685"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753770"
 ---
-# <a name="more-info-about-retention-policies"></a>Więcej informacji na temat zasad przechowywania
+# <a name="more-info-about-retention-policies"></a>Więcej informacji o zasadach przechowywania
 
-Dla większości organizacji, na ilość i złożoność ich danych wzrasta codziennie - e-mail, dokumenty, wiadomości błyskawicznych i innych. Ważne jest skuteczne zarządzanie lub regulujące te informacje i zasady przechowywania może pomóc w osiągnięciu tych celów. Aby uzyskać więcej informacji dotyczących zasad przechowywania odwiedź te łącza:
+W większości organizacji wolumen i złożoność ich danych wzrasta codziennie — wiadomości e-mail, dokumenty, wiadomości błyskawiczne i inne. Efektywne zarządzanie tymi informacjami lub ich rządzenie jest ważne, a zasady przechowywania mogą pomóc w osiągnięciu tych celów. Aby uzyskać więcej informacji o zasadach przechowywania, odwiedź następujące łącza:
 
-## <a name="a-from-security-and-compliance-center"></a>A) od centrum zgodności i bezpieczeństwa
+## <a name="a-from-security-and-compliance-center"></a>A) z Centrum zabezpieczeń i zgodności
 
-- Przejdź do bezpieczeństwa i zgodności > zarządzania danymi > przechowywania
+- Przejdź do zabezpieczenia i zgodność > zarządzanie danymi > przechowywanie
   - Zobacz [ten](https://docs.microsoft.com/office365/securitycompliance/retention-policies) artykuł
 
-- Przejdź do bezpieczeństwa i zgodności > eDiscovery> zaawansowane zbierania elektronicznych materiałów dowodowych 
+- Przejdź do zabezpieczeń i zgodności > eDiscovery> Advanced eDiscovery 
   - Zobacz [ten](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) artykuł
 
-- Przejdź do bezpieczeństwo i przechowywanie > klasyfikacje > zgodności
-  - Zobacz następujące artykuły
-    - [Czułość etykiet](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- Przejdź do zabezpieczenia i zgodność > klasyfikacje > przechowywanie
+  - Zobacz te artykuły
+    - [Etykiety czułości](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Omówienie etykiet](https://docs.microsoft.com/office365/securitycompliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a>(B) zasady zbierania elektronicznych materiałów dowodowych legacy
+## <a name="b-legacy-ediscovery-policies"></a>B) starsze zasady eDiscovery
 
 - Zobacz [ten](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) artykuł
 
-## <a name="c-site-closure-and-deletion-policies"></a>(C) zasady zamknięcia i usunięcie witryny
+## <a name="c-site-closure-and-deletion-policies"></a>C) zasady dotyczące zamykania i usuwania witryn
 
 - Zobacz [ten](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) artykuł  
 
-## <a name="d-information-rights-management-irm"></a>(D) zarządzania prawami do informacji
+## <a name="d-information-rights-management-irm"></a>D) Zarządzanie prawami do informacji (IRM)
 
-- Zobacz następujące artykuły
-  - [Usługa IRM na liście/biblioteki](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [Omówienie usługi IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+- Zobacz te artykuły
+  - [IRM na liście/bibliotece](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [Przegląd IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> Zdecydowanie zaleca się przeniesienie do zabezpieczenia i zasady zgodności, jeśli nadal używasz starszej wersji zbierania elektronicznych materiałów dowodowych lub IRM lub zamknięcia witryny i usuwania zasad.
+> Zdecydowanie zaleca się przeniesienie do zasad zabezpieczeń i zgodności, jeśli nadal używasz Legacy eDiscovery lub usługi IRM lub zamknięcie witryny i zasady usuwania.

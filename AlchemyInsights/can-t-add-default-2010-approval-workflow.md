@@ -1,6 +1,6 @@
 ---
-title: Nie można dodać domyślny przepływ pracy zatwierdzania 2010
-ms.author: kirks
+title: Nie można dodać domyślnego przepływu pracy zatwierdzania 2010
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/28/2019
 ms.audience: ITPro
@@ -12,18 +12,18 @@ ms.custom:
 - "1403"
 - "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: ecdbaeaa002a40a743d836ee50ccaaeda3426ec7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5486e218e9b6e3d632330bcc3a64b7b87952581
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493803"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747686"
 ---
-# <a name="cant-add-default-2010-approval-workflow"></a>Nie można dodać domyślny przepływ pracy zatwierdzania 2010
+# <a name="cant-add-default-2010-approval-workflow"></a>Nie można dodać domyślnego przepływu pracy zatwierdzania 2010
 
-W zbiorze witryn programu Microsoft SharePoint do wielokrotnego użytku globalnego przepływu pracy (na przykład "Zatwierdzanie — SharePoint 2010") nie można dodać do listy lub biblioteki. Przepływ pracy zatwierdzania mogą być niedostępne. Aby rozwiązać ten problem, zobacz [nie można dodać do wielokrotnego użytku globalnego przepływu pracy do listy programu SharePoint lub biblioteki](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).
+W zbiorze witryn programu Microsoft SharePoint nie można dodać globalnego przepływu pracy wielokrotnego użytku (na przykład "zatwierdzanie-SharePoint 2010") do listy lub biblioteki. Przepływ pracy zatwierdzania może brakować. Aby rozwiązać ten problem, zapoznaj się [nie można dodać globalnego przepływu pracy wielokrotnego użytku do listy programu SharePoint lub biblioteki](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).
 
-Aby uzyskać więcej informacji na temat zatwierdzeń przepływu pracy zobacz [wszystkie informacje o postępach zatwierdzania](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
+Aby uzyskać więcej informacji o zatwierdzeniach przepływu pracy, zobacz [wszystkie informacje o przepływach pracy zatwierdzania](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
  
-Dowiedz się więcej o [Nowoczesnych zatwierdzeń przepływu](https://flow.microsoft.com/blog/introducing-modern-approvals). 
+Dowiedz się więcej o [nowoczesnych zatwierdzeniach w przepływie](https://flow.microsoft.com/blog/introducing-modern-approvals). 
   

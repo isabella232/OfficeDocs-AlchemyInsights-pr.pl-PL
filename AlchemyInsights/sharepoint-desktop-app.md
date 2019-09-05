@@ -1,22 +1,22 @@
 ---
-title: Aplikacja pulpitu programu SharePoint
-ms.author: kirks
+title: Aplikacja komputerowa dla programu SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 05a9c689424ccf8b4ed5dd8ee168e640d6bb48a9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 036efbec52fecefe709bf8e50372adf380933a7f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504185"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751646"
 ---
-# <a name="desktop-app-for-sharepoint"></a>Aplikacja pulpitu programu SharePoint
+# <a name="desktop-app-for-sharepoint"></a>Aplikacja komputerowa dla programu SharePoint
 
-Organizacji jest wprowadzana w programie Podgląd prywatne dla aplikacji pulpitu dla programu SharePoint.
+Organizacja jest wprowadzana w programie Private Preview dla aplikacji komputerowej dla programu SharePoint.
 
-Microsoft nie obsługuje obecnie aplikacji pulpitu programu SharePoint (Podgląd prywatnych). Aby uzyskać pomoc z aplikacji pulpitu programu SharePoint Użyj partnerów Podgląd prywatnej firmy Microsoft znajdujących się w wykazie.
+Firma Microsoft nie obsługuje obecnie aplikacji komputerowej dla programu SharePoint (prywatny Podgląd). Aby uzyskać pomoc dotyczącą aplikacji komputerowej dla programu SharePoint, należy skorzystać z pomocy partnerów programu Microsoft Private Preview.
 

@@ -1,5 +1,5 @@
 ---
-title: Zamień Classic głównej witrynie z nowoczesnymi witryny
+title: Zamień swoją stronę główną Classic z nowoczesnym miejscu
 ms.author: efrene
 author: efrene
 ms.date: 8/6/2019
@@ -12,31 +12,31 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd477d90ab7e6737aafffc57d931aad2bd0351e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501089"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749270"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Zamień Classic głównej witrynie z nowoczesnymi witryny
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Zamień swoją stronę główną Classic z nowoczesnym miejscu
 
-Jeśli środowisku była skonfigurowana przed 2019 kwietnia, można zmienić głównej witrynie do nowoczesnego witryny za pomocą Microsoft PowerShell:
+Jeśli środowisko zostało skonfigurowane przed kwietniem 2019, można zmienić witryny głównej do nowoczesnej witryny przy użyciu programu Microsoft PowerShell:
 
-- Jeśli masz inną witrynę, którą chcesz używać jako głównej witrynie można zastąpić (wymiany) katalogu głównego witryny z nim. 
-    - Użyj [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) Aby zamienić lokalizację witryny z innej witryny podczas archiwizowania oryginalnej witryny. Dostępne zarówno dla (nie połączeni z grupą) witryny zespołu i witryny komunikacji. 
+- Jeśli masz inną witrynę, która ma być używany jako witryny głównej, można zastąpić [(swap) witryny głównej](https://docs.microsoft.com/sharepoint/modern-root-site) z nim. 
+    - Użyj [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) do zamiany lokalizacji witryny z innej witryny podczas archiwizacji oryginalnej witryny. Dostępne zarówno dla witryny zespołu (niepołączonej z grupą), jak i witryny komunikacyjnej. 
 
-- Dodatkowe możliwości pojawią się wkrótce pozwoli Ci utrzymać korzystania z zawartości w witrynie, ale Konwertowanie istniejącej witryny do witryny komunikacji. 
+- Wkrótce zostaną wprowadzone dodatkowe możliwości, które pozwolą na dalsze korzystanie z zawartości witryny, ale przekonwertowanie istniejącej witryny na witrynę komunikacyjną. 
 >[!Important]
->Te możliwości będzie wdrażany stopniowo. Nadal sprawdzać Centrum Office 365 wiadomości dla aktualizacji. 
+>Te możliwości będą wprowadzane stopniowo. Kontynuuj sprawdzanie centrum wiadomości pakietu Office 365 dla aktualizacji. 
 
-## <a name="known-issues-with-swapping-sites"></a>Znane problemy związane z zamiana stron
+## <a name="known-issues-with-swapping-sites"></a>Znane problemy z zamianę witryn
 
-- Witryna docelowa może zwrócić "nie znaleziono" błąd (HTTP 404) krótki okres czasu.
-- Zawartość będzie musiał być wykonane ponowne przeszukiwanie indeksu wyszukiwania. Nie procesu ręcznego wymagane - ten odbywa się automatycznie.
-- Wszystko zależy od "static" łączy (na przykład pliki synchronizacji plików i program OneNote) będzie musiał ręcznie korygowana.
-- Jeśli źródłowa witryna witryny wiadomości dotyczące organizacji, należy zaktualizować adres URL.Wyświetlić listę wszystkich witryn wiadomości dotyczące organizacji.
-- Project Server witryn może muszą zostać zatwierdzone do zapewnienia, że są nadal skojarzona poprawnie.
+- Witryna docelowa może zwracać błąd "nie znaleziono" (HTTP 404) przez krótki okres czasu.
+- Aby zaktualizować indeks wyszukiwania, konieczne będzie ponowne zaindeksowanie zawartości. Nie jest wymagane ręczne krok-to będzie zrobione automatycznie.
+- Wszystko, co jest zależne od "statyczne" łącza (takie jak pliki synchronizacji plików i OneNote) należy ręcznie skorygować.
+- Jeśli witryna źródłowa była witryną wiadomości organizacji, zaktualizuj adres URL.Uzyskaj listę wszystkich serwisów informacyjnych organizacji.
+- Witryny programu Project Server może wymagać sprawdzania poprawności, aby upewnić się, że są nadal skojarzone poprawnie.
 
 
 

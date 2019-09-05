@@ -1,6 +1,6 @@
 ---
-title: Udostępnianie OSE błędy w programie SharePoint i OneDrive
-ms.author: kirks
+title: OSE udostępnianie błędów w programie SharePoint i OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 18de4ff4b738f289084e7d533ddfc6339204efdb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2a2dbf3ee4317e4ef6bea5c57f4a1473e9343c3
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543143"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752978"
 ---
-# <a name="ose-sharing-errors"></a>Błędy dzielenia OSE
+# <a name="ose-sharing-errors"></a>Błędy udostępniania OSE
 
-Artykuł dotyczy różnych błędów, które mogą wystąpić podczas udostępniania plików lub folderów z programu SharePoint w trybie Online lub OneDrive dla firmy w usłudze Office 365. Musisz być globalny lub administratora programu SharePoint w organizacji, aby naprawić te błędy. Jeśli nie jesteś administratorem, skontaktuj się z pomocą techniczną i dać im kodu błędu.
+W artykule omówiono różne błędy, które mogą wystąpić podczas udostępniania plików lub folderów z programu SharePoint w trybie online lub OneDrive dla firmy w pakiecie Office 365. Musisz być administratorem globalnym lub SharePoint w organizacji, aby naprawić te błędy. Jeśli nie jesteś administratorem, skontaktuj się z działem pomocy technicznej i nadaj mu kod błędu.
 
-Uzyskać więcej informacji dotyczących kodów błędów OSE zobacz [Udostępnianie błędy w programie SharePoint i OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+Aby uzyskać więcej informacji na temat kodów błędów OSE, zobacz [udostępnianie błędów w programie SharePoint i OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

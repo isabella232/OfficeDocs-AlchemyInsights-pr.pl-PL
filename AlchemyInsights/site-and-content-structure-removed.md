@@ -1,26 +1,26 @@
 ---
-title: Witryny i struktury zawartości usunięty
-ms.author: kirks
+title: Usunięto strukturę witryny i zawartości.
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 55060d5c-fb1c-4812-bc66-181a7aa2cdea
-ms.openlocfilehash: 4cb7bd92ab2833d746da308277e3b2117fa1bb57
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c4301fd892e82f2d41c69f0e65b319b92f676be2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502277"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749486"
 ---
-# <a name="site-and-content-structure-removed"></a>Witryny i struktury zawartości usunięty
+# <a name="site-and-content-structure-removed"></a>Usunięto strukturę witryny i zawartości.
 
-Począwszy od października 2018, strony zawartość i strukturę strony będą nie są już obsługiwane lub otrzymywanie aktualizacji funkcji. Łącze ustawienia na stronie SiteManager.aspx zostanie usunięta z programu SharePoint w trybie Online i bezpośredni dostęp będzie ograniczony do administratorów zbioru witryn do marca 2019 roku, w czasie których strony zawartość i struktura witryny zostanie całkowicie wycofana. 
+Począwszy od października 2018, strona zawartość i struktura witryny nie będzie już obsługiwana ani nie otrzyma aktualizacji funkcji. Łącze ustawienia do strony SiteManager. aspx zostaną usunięte z programu SharePoint w trybie online i bezpośredni dostęp będzie ograniczony do administratorów zbioru witryn do 2019 marca, w tym czasie strony zawartości i struktury witryny zostanie całkowicie wycofane. 
 
-Uwaga: Jako rozwiązanie alternatywne dopóki funkcja jest całkowicie wycofana, Administratorzy zbioru witryn mogą uzyskać dostęp do portalu Office 365-> kliknij przycisk SharePoint sąsiadująco - > dołączone lub Edytuj adres URL przez zastąpienie "/ Sharepoint.aspx" z "/ Sitemanager.aspx". 
+Uwaga: jako obejście, dopóki funkcja nie zostanie w pełni wycofana, Administratorzy zbioru witryn mogą nawigować do centrum administracyjnego Microsoft 365, wybierać kafelek programu SharePoint i dołączać lub edytować adres URL, zastępując '/SharePoint.aspx ' za pomocą '/SiteManager.aspx '. 
 
 
-Użyj Przenieś plik i skopiować do zarządzania zawartością i strukturą witryny. Aby uzyskać więcej informacji zobacz [Kopiowanie plików i folderów między OneDrive oraz witryn programu SharePoint](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
+Za pomocą narzędzia Przenieś i Kopiuj plik Zarządzaj zawartością i strukturą witryny. Aby uzyskać więcej informacji, zobacz [Kopiowanie plików i folderów między OneDrive i witryn programu SharePoint](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
 
-Więcej informacji można znaleźć w [pracy z zawartością i strukturą witryny](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).
+Aby uzyskać więcej informacji, zapoznaj się [Praca z zawartością witryny i struktury](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).

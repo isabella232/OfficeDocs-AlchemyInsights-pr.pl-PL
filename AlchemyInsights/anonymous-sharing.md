@@ -1,6 +1,6 @@
 ---
-title: Udostępnianie anonimowych
-ms.author: kirks
+title: Anonimowe udostępnianie
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: 01971c5bb52b9ee7a679dbae84632d777f29952a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eaf958932ee1c1b4e33bd5dae96a48c37505739e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512469"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747839"
 ---
-# <a name="anonymous-sharing"></a>Udostępnianie anonimowych
+# <a name="anonymous-sharing"></a>Anonimowe udostępnianie
 
- **Włącz dostęp anonimowy**
+ **Włączanie dostępu anonimowego**
   
-W nowym Centrum administracji programu SharePoint kliknij przycisk **Udostępnianie** w lewym okienku. 
+W nowym centrum administracyjnym programu SharePoint kliknij **udostępnianie** w lewym okienku. 
   
-- Zaznacz następujące opcje: **Zezwalaj na udostępnianie dla uwierzytelnionych użytkowników zewnętrznych i przy użyciu dostępu anonimowego.**
+- Wybierz następujące opcje: **Zezwalaj na udostępnianie uwierzytelnionym użytkownikom zewnętrznym i korzystanie z dostępu anonimowego.**
   
-(Opcjonalnie, można skonfigurować łącza do wygaśnie w czasie określonej liczby dni, a następnie wybierz sposób odbiorcy można użyć łącza.)
+(Opcjonalnie można ustawić, aby łącza wygasły w ciągu określonej liczby dni, a następnie wybrać sposób, w jaki odbiorcy mogą korzystać z łączy).
     
- **Udostępnianie pliku lub folderu anonimowo**
+ **Anonimowo udostępniaj plik lub folder**
   
 - Zaznacz plik lub folder, który chcesz udostępnić, a następnie kliknij przycisk **Udostępnij**. 
     
-- Który chcesz to łącze, aby pracować dla? Kliknij **ktoś.**
+- Kto chciałby, aby ten link działał? Kliknij **dowolną osobę.**
   
- **Uwaga**: **każdy użytkownik** tworzy łącze, które każdy może używać do uzyskania dostępu do dokumentu lub folderu, nawet jeśli ich nie jesteś zalogowany usłudze Office 365 lub OneDrive. Służy do udostępniania z nikim, wewnątrz lub na zewnątrz firmy. To łącze, mogą być przekazywane wokół nikomu. 
+ **Uwaga**: **każdy** tworzy link, który każdy może użyć, aby uzyskać dostęp do dokumentu lub folderu, nawet jeśli nie jest zalogowany do pakietu Office 365 lub OneDrive. Użyj tego, aby podzielić się z kimkolwiek, wewnątrz lub na zewnątrz firmy. Ten link może być również przesyłane do każdego. 
     
 

@@ -1,5 +1,5 @@
 ---
-title: 1800014 set up e-mail na program Outlook Mobile
+title: 1800014 Konfigurowanie poczty e-mail w aplikacji mobilnej Outlook
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509190"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734175"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a>Konfigurowanie poczty e-mail w programie Outlook aplikacji mobilnej
+# <a name="set-up-email-in-the-outlook-mobile-app"></a>Konfigurowanie poczty e-mail w aplikacji mobilnej Outlook
 
-1. Wybierz **Rozpoczęcie pracy** , jeśli to Twój pierwszy raz konfigurujesz wiadomości e-mail w aplikacji mobilnej. W przeciwnym wypadku wybierz **Menu** , a następnie wybierz **Ustawienia** \> **Dodaj konto** \> **Dodaj konto E-mail**.
+1. Wybierz **pozycję Rozpocznij,** Jeśli po raz pierwszy konfigurowaniu poczty e-mail w aplikacji mobilnej. W przeciwnym razie naciśnij **menu** , a następnie wybierz **Ustawienia** \> **Dodaj** \> konto **e-mail Dodaj**konto.
 
-2. Wpisz pełny adres e-mail, a następnie wybierz przycisk **Dalej** lub **Dodaj konto**.
+2. Wpisz swój pełny adres e-mail i dotknij **Kontynuuj** lub **Dodaj konto**.
 
-3. Wprowadź hasło do konta e-mail, a następnie wybierz polecenie **Zarejestruj** lub **Dalej**.
+3. Wprowadź hasło do konta e-mail i stuknij opcję **Zaloguj** lub **dalej**.
 
-4. Jeśli jest włączone [uwierzytelnianie wieloczynnikowe](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) , sprawdź metodami, które można skonfigurować (6-cyfrowy kod, rozmowa telefoniczna lub aplikacja Microsoft Authenticator).
+4. Jeśli włączono [uwierzytelnianie wieloskładnikowe](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) , sprawdź, czy używasz metody, którą ustawisz (6-cyfrowy kod, rozmowa telefoniczna lub aplikacja Microsoft Authenticator).
 
-5. W przypadku dodatkowych zasad administratora IT w miejscu, wybierz polecenie **Uaktywnij** , aby włączyć je.
+5. Jeśli dodatkowe zasady administratora IT są na miejscu, stuknij pozycję **Aktywuj** , aby je włączyć.
 
-6. Program Outlook może zażądać uprawnień do dostępu do kalendarza, kontaktów i innych informacji. Wybierz **Tak** , lub **Zezwalaj**.
+6. Program Outlook może zażądać uprawnień dostępu do kalendarza, kontaktów i innych informacji. Wybierz opcję **tak** lub **Zezwól**.
 
-Uzyskać szczegółowe instrukcje konfigurowania dotyczące [programu Outlook dla Androida](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) lub [Outlook dla iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) tutaj.
+Uzyskaj szczegółowe instrukcje konfigurowania dla [programu Outlook dla systemu Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) lub [Outlook dla systemu iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) tutaj.
   
  **Potrzebujesz pomocy?**
   
-- [Rozwiązywanie problemów z instalacji e-mail na telefon komórkowy](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [Rozwiązywanie problemów z konfiguracją poczty e-mail na urządzeniach przenośnych](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [Uzyskiwanie pomocy w aplikacji dla programu Outlook dla iOS i Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [Uzyskaj pomoc w aplikacji dla programu Outlook dla systemów iOS i Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

@@ -1,5 +1,5 @@
 ---
-title: ADFS federacyjnej Wygasający certyfikat
+title: Wygasający certyfikat Federacji programu ADFS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: c9922258c2d203cc07c1a1055ffa36c23a756115
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eafd31e91340b41b7948fb1fe62889731b816d9a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499901"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737199"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>ADFS federacyjnej Wygasający certyfikat
+# <a name="adfs-federation-certificate-expiring"></a>Wygasający certyfikat Federacji programu ADFS
 
 Aby rozwiązać ten problem, wykonaj następujące kroki:
   
-1. Zainstaluj Microsoft Azure Active Directory moduł dla środowiska Windows PowerShell na komputerze (jeśli jeszcze nie jest zainstalowany moduł). Aby to zrobić, przejdź do [Zarządzaj Azure AD przy użyciu środowiska Windows PowerShell](https://aka.ms/aadposh).
+1. Zainstaluj Microsoft Azure Active Directory moduł dla środowiska Windows PowerShell na komputerze (Jeśli moduł nie jest jeszcze zainstalowany). Aby to zrobić, przejdź do [zarządzania Azure AD przy użyciu środowiska Windows PowerShell](https://aka.ms/aadposh).
 
-2. Postępuj zgodnie z instrukcjami "scenariusz 1: wygasł certyfikat podpisywania tokenu programu AD FS" sekcja [błąd "Wystąpił problem z dostępem do witryny" w programie AD FS podczas użytkownika federacyjnego zarejestruje się w usłudze Office 365, Azure lub Windows Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. Wykonaj kroki opisane w sekcji "scenariusz 1: certyfikat podpisywania tokenu usług AD FS wygasł" błąd "wystąpił [problem podczas uzyskiwania dostępu do witryny" z usług AD FS, gdy użytkownik federacyjny loguje się do pakietu Office 365, Azure lub Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
 
-3. Postępuj zgodnie z instrukcjami [jak zaktualizować lub naprawa ustawień federacyjnych domeny w usłudze Office 365, Azure lub Windows Intune](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).
+3. Wykonaj kroki opisane w [Aktualizowanie lub naprawianie ustawień domeny federacyjnej w pakiecie Office 365, Azure lub Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
 
-    Aby dowiedzieć się więcej na temat odnawiania certyfikatów federacyjnej, zobacz [Odnawianie certyfikatów Federacji dla usługi Office 365 i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    Aby dowiedzieć się więcej na temat odnawiania certyfikatów federacyjnych, zobacz [Odnawianie certyfikatów federacyjnych dla pakietu Office 365 i usługi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).

@@ -1,5 +1,5 @@
 ---
-title: Nowoczesne witryny jako witryny głównej
+title: Nowoczesna Strona jako Strona główna
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: d5ea73c967013822854dbd408d4628d991c90378
-ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
+ms.openlocfilehash: a3cf44d52a3948634fc0eed64c852ff17515fd9b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620769"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753914"
 ---
-# <a name="modern-site-as-root-site"></a>Nowoczesne witryny jako witryny głównej
+# <a name="modern-site-as-root-site"></a>Nowoczesna Strona jako Strona główna
 
-Rozpoczęliśmy do rozmieszczenia nową funkcję, która pozwoli Ci o zamianę klasycznej strony głównej witrynie z nowoczesnymi witryny. Użyj [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) Aby zamienić lokalizację witryny z innej witryny podczas archiwizowania oryginalnej witryny. Dostępne zarówno dla (nie połączeni z grupą) witryny zespołu i witryny komunikacji. 
+Zaczęliśmy wdrożyć nową funkcję, która pozwoli Ci [zamienić swoją klasyczną stronę główną witryny z nowoczesną stroną](https://docs.microsoft.com/sharepoint/modern-root-site). Użyj [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) do zamiany lokalizacji witryny z innej witryny podczas archiwizacji oryginalnej witryny. Dostępne zarówno dla witryny zespołu (niepołączonej z grupą), jak i witryny komunikacyjnej.
 
 >[!Important]
-> Nie należy usuwać klasyczny głównej witrynie do tworzenia nowoczesnych witryny komunikacji. Nie jest to obsługiwane przez firmę Microsoft. Usunięcie katalogu głównego witryny spowoduje, że wszystkie witryny programu SharePoint w organizacji niedostępne dla wszystkich użytkowników, dopóki Przywracanie witryny lub utworzyć nową witrynę o takim samym adresie URL. Firma Microsoft będzie komunikować się tej funkcji za pośrednictwem Centrum wiadomości. Należy się spodziewać funkcji należy włączyć w dzierżawie wkrótce.
+> Nie usuwaj klasycznej witryny głównej, aby utworzyć nowoczesną witrynę komunikacyjną. Nie jest to obsługiwane przez firmę Microsoft. Usunięcie witryny głównej spowoduje, że wszystkie witryny programu SharePoint w organizacji będą niedostępne dla wszystkich użytkowników, dopóki nie przywrócisz witryny lub nie utworzysz nowej witryny pod tym samym adresem URL. Będziemy komunikować tę funkcję za pośrednictwem centrum wiadomości. Należy się spodziewać funkcji, które mają być włączone w dzierżawie wkrótce.
 
-## <a name="known-issues-with-swapping-sites"></a>Znane problemy związane z zamiana stron
-- Witryna docelowa może zwrócić "nie znaleziono" błąd (HTTP 404) krótki okres czasu.
-- Zawartość będzie musiał być wykonane ponowne przeszukiwanie indeksu wyszukiwania. Nie procesu ręcznego tutaj, ten odbywa się automatycznie.
-- Wszystko zależy od "static" łączy (na przykład pliki synchronizacji plików i program OneNote) będzie musiał ręcznie korygowana.
-- Project Server witryn może muszą zostać zatwierdzone do zapewnienia, że są nadal skojarzona poprawnie. 
+## <a name="known-issues-with-swapping-sites"></a>Znane problemy z zamianę witryn
+- Witryna docelowa może zwracać błąd "nie znaleziono" (HTTP 404) przez krótki okres czasu.
+- Aby zaktualizować indeks wyszukiwania, konieczne będzie ponowne zaindeksowanie zawartości. Tu jest nie ręczny krok wymagany tutaj, ten mają być sporządzony mechanicznie.
+- Wszystko, co jest zależne od "statyczne" łącza (takie jak pliki synchronizacji plików i OneNote) należy ręcznie skorygować.
+- Witryny programu Project Server może wymagać sprawdzania poprawności, aby upewnić się, że są nadal skojarzone poprawnie. 

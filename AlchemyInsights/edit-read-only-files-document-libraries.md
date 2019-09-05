@@ -1,6 +1,6 @@
 ---
 title: Edytowanie pliku tylko do odczytu
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,26 +8,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: f36a87488c3c470f92038a92f68519a7e38323c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bdfd516dd151addf874ea6ee4d9d7c6f23aa1da6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528129"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756110"
 ---
 # <a name="edit-a-read-only-file"></a>Edytowanie pliku tylko do odczytu
 
-Może się okazać, że otwierając pliki, otworzyć jako tylko do odczytu. W niektórych przypadkach to aby zwiększyć bezpieczeństwo, takie jak otwierając pliki z Internetu, a innym razem, mogą występować z powodu ustawienia, które mogą być zmieniane. W artykule [Dlaczego Moje otwarte w pliku tylko do odczytu](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) opisujemy, w niektórych scenariuszach, gdy plik zostanie otwarty tylko do odczytu i czynności, jakie można podjąć, aby to zmienić.
+Może się okazać, że podczas otwierania plików, otwierają się jako tylko do odczytu. W niektórych przypadkach jest to dla dodatkowych zabezpieczeń, takich jak podczas otwierania plików z Internetu, a inne czasy, może być ze względu na ustawienie, które mogą być zmieniane. W artykule [Dlaczego mój plik otwarty w Read tylko](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) możemy zarys niektórych scenariuszy, w których plik otwiera tylko do odczytu i kilka kroków, które można podjąć, aby zmienić.
 
-Poniżej przedstawiono sposób otwarcia plików pakietu office do edycji.
+Poniżej przedstawiono sposób otwierania plików pakietu Office do edycji.
 
-Zamiast klikać tytuł dokumentu, kliknij **Otwórz Menu** (trzy kropki), a następnie kliknij przycisk **Edytuj**.
+Zamiast klikać tytuł dokumentu, kliknij przycisk **Otwórz menu** (trzy kropki), a następnie kliknij przycisk **Edytuj**.
 
-Uwagi:
+Notatki:
 
-- Jeśli masz czy raczej otworzyć do edycji w pakiecie Office po kliknięciu tytułu dokumentów, można ustawić skład biblioteki w tym (o ile ma uprawnienia do zmieniania ustawień biblioteki).
+- Jeśli wolisz mieć dokumenty otwarte do edycji w pakiecie Office po kliknięciu tytułu, można skonfigurować bibliotekę, aby to zrobić (tak długo, jak masz uprawnienia do zmiany ustawień biblioteki).
 
-- Jeśli masz bibliotek z realizacji transakcji, wymagane kolumny lub kiedy tylko użytkownicy, którzy mogą edytować w ustawieniach wersji programu SharePoint, biblioteka dokumentów, elementy te zostaną zsynchronizowane jako tylko do odczytu.
+- Jeśli masz bibliotek z wyewidencjonowania, wymagane kolumny lub gdy tylko użytkownicy, którzy mogą edytować w ustawieniach wersji biblioteki dokumentów programu SharePoint, te elementy zostaną zsynchronizowane jako tylko do odczytu.
 
-- Dokument pakietu Office zostanie otwarty w widoku chronionym nawet, jeśli zostanie włączone ustawienie zasad "Dokumenty Office otwórz jako odczytu/zapisu podczas przeglądania". Aby uzyskać więcej informacji, proszę odnoszą się do tego [artykułu.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
+- Dokument pakietu Office zostanie otwarty w widoku chronionym, nawet jeśli włączysz ustawienie zasad "Otwórz dokumenty pakietu Office jako odczyt/zapis podczas przeglądania". Aby uzyskać więcej informacji, zapoznaj się z tym [artykułem.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
 

@@ -11,27 +11,27 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 4a98c08eb785b1406c661fb84b5b3e6981c31826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538481"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734715"
 ---
 # <a name="network-migration"></a>Migracja sieci
 
-Dzierżawcy O365 ewentualnie wiąże się z wielu sieci Yammer w dzierżawie 1: wiele konfiguracji sieci. Uruchamianie 16 października 2018 Yammer nie będzie już obsługiwał wiele sieci Yammer skojarzonych z jednym dzierżawcy usługi Office 365. Można przeprowadzić migrację sieci aby dostać się do preferowanej konfiguracji 1:1.
+Dzierżawy usługi 365 jest prawdopodobnie skojarzony z wieloma sieciami Yammer w dzierżawie 1: wiele konfiguracji sieci. Począwszy od 16 października 2018, Yammer nie będzie już obsługiwać wiele sieci Yammer skojarzonych z jednego dzierżawcy pakietu Office 365. Migrację sieciową można wykonać, aby uzyskać preferowaną konfigurację 1:1.
   
-- Aby wyświetlić listę sieci związane z dzierżawcy, zaloguj się na Yammer jako Administrator globalny Office 365 i przejdź do **Administratora sieci w organizacji**, następnie **Migracji sieci**. Wybierz przycisk **Dalej**.
+- Aby wyświetlić listę sieci skojarzonych z dzierżawą, zaloguj się do Yammer jako administratora globalnego pakietu Office 365 i przejdź do **administratora sieci**, a następnie **migracji sieci**. Wybierz przycisk **Dalej**.
 
-- Jeśli wiele sieci wymienione na krok 2 z 3, masz wiele sieci Yammer skojarzone z dzierżawcy O365.
+- Jeśli widzisz wiele sieci wymienionych w kroku 2 z 3, a następnie masz wiele sieci Yammer skojarzone z dzierżawą usługi 365.
 
-- Aby rozwiązać problem konfiguracji, aby konfiguracja 1:1, nadal używać narzędzia migracji sieci.
+- Aby skorygować konfigurację do konfiguracji 1:1, Kontynuuj korzystanie z narzędzia migracji sieciowej.
 
-- Aby uzyskać więcej informacji na temat migracji sieci zobacz [sieciowy migracją: konsolidowania wielu sieci Yammer](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)
+- Aby uzyskać więcej informacji dotyczących migracji sieci, zobacz [migracja sieci: Konsolidacja wielu sieci Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
-Uwaga:
+Należy pamiętać, że:
   
-- **Migracja sieci migruje tylko aktywne i oczekujące użytkowników.** Wraz z aktywnych użytkowników użytkowników informacje, takie jak nazwa i zdjęcie profilu, również podlega migracji. Dowolna zawartość sieci, łącznie z grupami, nie jest migrowana.
+- **Migracja sieci migruje tylko aktywnych i oczekujących użytkowników.** Wraz z aktywnymi użytkownikami są również migrowane informacje o użytkownikach, takie jak nazwa i zdjęcie profilowe. Żadna zawartość sieciowa, w tym grupy, nie jest migrowana.
 
-- **Nie można cofnąć migracji sieci.** Nie można uzyskać dostęp do sieci uzupełniającej wraz z zawartością po migracji. Dlatego przed podjęciem decyzji o migracji, chcesz starannie zaplanować.
+- **Migracja sieci nie może być odwrócona.** Po zakończeniu migracji nie będzie można uzyskać dostępu do sieci zależnej i jej zawartości. Więc zanim weźmiemy pod uwagę migracji, chcesz zaplanować ostrożnie.

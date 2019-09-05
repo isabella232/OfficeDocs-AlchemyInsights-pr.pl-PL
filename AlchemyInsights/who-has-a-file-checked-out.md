@@ -1,6 +1,6 @@
 ---
 title: Kto ma wyewidencjonowany plik?
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: fc718d6a5907fd97d0a7fc55c5dc8a31d4959d13
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 56aa04f7866227c4b5a1e1828d3c10ea3746d00a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531032"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748334"
 ---
 # <a name="who-has-a-file-checked-out"></a>Kto ma wyewidencjonowany plik?
 
-Aby zobaczyć, kto ma plik wyewidencjonowany z programu SharePoint, można wykonać jedną z następujących czynności:
+Aby zobaczyć, kto ma plik wyewidencjonowany w programie SharePoint, można wykonać jedną z następujących czynności:
   
-1. Umieść wskaźnik myszy **Wyewidencjonował** aby zobaczyć wskazówkę, która informuje, który otworzył plik wyewidencjonowany. 
+1. Ustaw kursor nad **wyewidencjonowany** , aby wyświetlić etykietkę narzędzia informujące, kto ma wyewidencjonowany plik. 
     
-2. Dodaj kolumnę **Wyewidencjonowane przez** domyślny widok biblioteki. Dzięki temu każdy może łatwo sprawdzić, kto ma wyewidencjonowanie dokumentu. 
+2. Dodaj kolumnę **wyewidencjonowane przez** do domyślnego widoku biblioteki. W ten sposób każdy może łatwo zobaczyć, kto ma wyewidencjonowany dokument. 
     
-Aby dowiedzieć się, jak dodać kolumnę wyewidencjonowane przez w programie SharePoint, zobacz [Tworzenie kolumny w liście lub bibliotece](https://go.microsoft.com/fwlink/?linkid=2019591). 
+Aby dowiedzieć się, jak dodać kolumnę wyewidencjonowany przez w programie SharePoint, zobacz [Tworzenie kolumny na liście lub w bibliotece](https://go.microsoft.com/fwlink/?linkid=2019591). 
   
-Zobacz więcej często zadawane pytania dotyczące wyboru w lub sprawdź, zobacz [Najważniejsze pytania na temat wyewidencjonowanie zaewidencjonowania](https://go.microsoft.com/fwlink/?linkid=2018786).
+Zobacz najczęściej zadawane pytania dotyczące zameldowania lub wymeldowania, zobacz [najważniejsze pytania dotyczące wyewidencjonować, zaewidencjonować](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

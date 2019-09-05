@@ -1,5 +1,5 @@
 ---
-title: Czułość etykiety nie pojawia się
+title: Etykiety czułości nie pojawiają się
 ms.author: stephow
 author: stephow-MSFT
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: be5fac4cf4f1516575b8310347dd1d1948010538
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504545"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744831"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Czułość etykiety nie pojawia się
+# <a name="sensitivity-labels-not-appearing"></a>Etykiety czułości nie pojawiają się
 
-Etykiety czułości pozwalają sklasyfikować i ochrony poufnej zawartości. Aby dowiedzieć się więcej o tej funkcji, zobacz [Omówienie etykiet czułości](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Etykiety czułości pozwalają klasyfikować i chronić poufne treści. Aby dowiedzieć się więcej na temat tej funkcji, zobacz [Omówienie etykiet czułości](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
-Jeśli skonfigurowany etykiety czułości, ale nie są one wyświetlane w aplikacjach pakietu Office, sprawdź następujące elementy:
+Jeśli skonfigurowano etykiety czułości, ale nie są wyświetlane w aplikacjach pakietu Office, sprawdź następujące elementy:
 
-- Upewnij się, że etykieta czułości zostało [opublikowane](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) do użytkowników i grup, które mają.
+- Potwierdź, że etykieta czułości została [opublikowana](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) dla użytkowników i grup, które mają.
 
-- Potwierdzić, że użytkownik korzysta z aplikacji, która obsługuje czułość etykiety — zobacz [Czułość etykiet w dokumencie](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
+- Potwierdź, że użytkownik korzysta z aplikacji obsługującej etykiety czułości — zobacz [etykiety czułości w dokumencie](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
 
-- Jeśli [Migracja etykiety ochrony informacji Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), należy pamiętać o zagadnienia wymienione [w tym miejscu](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
+- Jeśli [migrujesz etykiety usługi Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), należy pamiętać o zagadnienia wymienione w [tym miejscu](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
-- Zapobieganie utracie danych (DLP) obsługują: obecnie tylko retencji etykiety może służyć jako warunek zasady DLP.  Wsparcie dla etykiet czułość w zasadzie DLP nie jest jeszcze dostępne, ale pracujemy nad jej.
+- Obsługa zapobiegania utracie danych (DLP): obecnie tylko etykiety przechowywania mogą być użyte jako warunek w zasadach DLP.  Obsługa etykiet czułości w zasadach DLP nie jest jeszcze dostępna, ale pracujemy nad nim.
 
-Aby uzyskać więcej informacji o możliwych problemach zobacz [znane problemy z etykietami czułości](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc?ui=en-US&rs=en-US&ad=US).
+Aby uzyskać więcej informacji na temat możliwych problemów, zobacz [znane problemy z etykietami czułości](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

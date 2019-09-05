@@ -1,46 +1,46 @@
 ---
-title: Zapisz jako szablon witryny lub listy
-ms.author: kirks
+title: Zapisywanie witryny lub listy jako szablonu
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: a74d14f1743b9a016346f7bf0943523b1ab21f91
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1fe0a2f5bf65ef4e8cabf3d05a701c8eff966435
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551641"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752042"
 ---
-# <a name="save-site-or-list-as-a-template"></a>Zapisz jako szablon witryny lub listy
+# <a name="save-site-or-list-as-a-template"></a>Zapisywanie witryny lub listy jako szablonu
 
-Szablony witryn programu SharePoint są wbudowane definicje została zaprojektowana dla określonych potrzeb biznesowych. Aby uzyskać więcej informacji zobacz [Używanie szablonów do tworzenia różnego rodzaju witryny programu SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+Szablony witryn programu SharePoint są wstępnie skompilowanymi definicjami zaprojektowanymi wokół konkretnej potrzeby biznesowej. Aby uzyskać więcej informacji, zobacz [za pomocą szablonów do tworzenia różnych rodzajów witryn programu SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
 
-Poniżej przedstawiono typowe problemy/rozwiązania dotyczące zapisywania witryny lub listy jako szablonu w dokumentacji Online programu SharePoint.
+Oto kilka typowych problemów/rozwiązań dotyczących zapisywania witryny lub listy jako szablon w programie SharePoint Online.
 
-**Zapisz witrynę/lista przycisk Szablon nie jest dostępne lub brak**. 
+**Przycisk Zapisz szablon witryny/listy nie jest dostępny lub brak**. 
 
-- Administratorzy należy umożliwić niestandardowego skryptu do włączenia funkcji szablonu. Aby uzyskać szczegółowe instrukcje, przykłady i uwagi dotyczące zobacz [Zezwalaj lub zapobiegania niestandardowy skrypt](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
-
-
-- Zapisz witrynę jako szablon, polecenie nie jest obsługiwane i może być przyczyną problemów w witrynach, które używają publikowania infrastruktury serwera programu SharePoint.
+- Administratorzy będą musieli zezwolić na skrypt niestandardowy, aby włączyć funkcje szablonu. Szczegółowe kroki, przykłady i zagadnienia zobacz [Zezwalaj lub zapobieganie skryptu niestandardowego](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 
 
-**Nie można utworzyć szablon witryny lub nie działa prawidłowo**
-
-- Szablon może brakować [funkcji](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) i nie aktywuje. Jeśli funkcja nie jest dostępna uaktywnić w bieżącym zbiorze witryn, nie można użyć szablonu witryny do tworzenia witryny.
+- Polecenie Zapisz witrynę jako szablon nie jest obsługiwane i może powodować problemy w witrynach, które korzystają z infrastruktury publikowania programu SharePoint Server.
 
 
-- Sprawdź, jeśli list ani bibliotek przekraczają [Próg Limit widoku listy](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) 5000 pozycji jak to zablokowanie tworzenia szablonu witryny.
+**Nie można utworzyć szablonu witryny lub nie działa poprawnie**
+
+- Szablon może brakować [funkcji](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) i nie uaktywni się. Jeśli funkcja nie jest dostępna do aktywowania w bieżącym zbiorze witryn, nie można użyć szablonu witryny do utworzenia witryny.
 
 
-- Witryny mogą używać zbyt wiele zasobów i w związku z tym szablon witryny przekracza limit 50 megabajtów (MB).
+- Sprawdź, czy wszystkie listy lub biblioteki przekraczają [próg limitu widoku listy](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) 5000 elementów, ponieważ może to blokować Tworzenie szablonu witryny.
 
 
-- Istnieją problemy z wyświetlaniem danych z listy, która jest używana kolumna odnośnika. Aby uzyskać więcej informacji zobacz temat [generowany szablon listy nie są wyświetlane dane z listy wyszukiwania poprawne w dokumentacji Online programu SharePoint](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).
+- Witryna może używać zbyt wielu zasobów i dlatego szablon witryny przekracza limit 50 megabajtów (MB).
 
 
-Aby uzyskać szczegółowe informacje na temat typowych problemów i rozwiązań prosimy o odniesienie, [tworzenia i stosowania szablonów witryn](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+- Istnieją problemy z wyświetlaniem danych z listy, która używa kolumny odnośnika. Aby uzyskać więcej informacji, zobacz [Lista wygenerowana przez szablon nie wyświetla danych z listy wyszukiwania poprawne w programie SharePoint w trybie online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
+
+
+Aby uzyskać bardziej szczegółowe informacje na temat typowych problemów i rozwiązań, należy odwoływać się, [tworzyć i używać szablonów witryn](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
 

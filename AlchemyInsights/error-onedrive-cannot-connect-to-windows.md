@@ -1,6 +1,6 @@
 ---
-title: Błąd OneDrive nie może nawiązać połączenia systemu Windows
-ms.author: kirks
+title: Błąd OneDrive nie może połączyć się z systemem Windows
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 69957735-7ae3-4622-b3cf-607c816f3651
-ms.openlocfilehash: 165fb1e1574eaff61c2f25a1476bce7da382aefa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 59dc1035aba94f59ee111dfcf08ff15e5e2ebd10
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527032"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755930"
 ---
-# <a name="error-onedrive-cannot-connect-to-windows"></a>Błąd: Nie można połączyć OneDrive do systemu Windows
+# <a name="error-onedrive-cannot-connect-to-windows"></a>Błąd: OneDrive nie może nawiązać połączenia z systemem Windows
 
-Aby rozwiązać komunikat o błędzie, należy wyszukać plik cldflt.sys, aby sprawdzić, czy jest uruchomiona, a jeśli tak nie jest, włącz je. 
+Aby rozwiązać ten komunikat o błędzie, Wyszukaj plik cldflt. sys, aby sprawdzić, czy jest uruchomiony, a jeśli nie, włącz go. 
   
-Aby uzyskać dodatkowe informacje dotyczące sposobu włączania pliku cldflt.sys, zobacz [OneDrive nie można podłączyć do systemu Windows "błąd podczas uzyskiwania dostępu do plików w OneDrive.](https://go.microsoft.com/fwlink/?Linkid=2031032)
+Aby uzyskać dodatkowe informacje dotyczące włączania pliku cldflt. sys, zobacz [OneDrive nie może połączyć się z systemem Windows "błąd podczas uzyskiwania dostępu do plików w OneDrive.](https://go.microsoft.com/fwlink/?Linkid=2031032)
   
 

@@ -1,6 +1,6 @@
 ---
-title: Brak przepływu pracy nie powiodła się Aktywacja
-ms.author: kirks
+title: Brak przepływu pracy nie można aktywować
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/3/2018
 ms.audience: ITPro
@@ -8,37 +8,37 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
-ms.openlocfilehash: 44fd3c2d1e8b278b47c0fde6d48c7cbcbaa5c324
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f03d7e1441465050c4b0608f4100f217b183d2e2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543935"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753806"
 ---
-# <a name="missing-workflow-failed-to-activate"></a>Brak przepływu pracy nie powiodła się Aktywacja
+# <a name="missing-workflow-failed-to-activate"></a>Brak przepływu pracy nie można aktywować
 
-W zbiorze witryn programu Microsoft SharePoint do wielokrotnego użytku globalnego przepływu pracy (na przykład "Zatwierdzanie — SharePoint 2010") nie można dodać do listy lub biblioteki.
+W zbiorze witryn programu Microsoft SharePoint nie można dodać globalnego przepływu pracy wielokrotnego użytku (na przykład "zatwierdzanie-SharePoint 2010") do listy lub biblioteki.
   
 Aby rozwiązać ten problem, wykonaj następujące kroki: 
   
-1. Otwórz witrynę głównego zbioru witryn programu SharePoint Designer 2013.
+1. Otwórz stronę główną witryny sieci Web zbioru witryn w programie SharePoint Designer 2013.
   
-2. W obszarze **Obiekty lokacji**zaznacz **przepływów pracy**. 
+2. W obszarze **obiekty lokacji**wybierz pozycję **przepływy pracy**. 
   
-3. W sekcji **Nowy** wstążki **przepływów pracy** wybierz **Przepływ pracy wielokrotnego użytku**. 
+3. W **Nowa** sekcja na Wstążce **przepływy pracy** , wybierz **przepływu pracy wielokrotnego użytku**. 
   
-4. W formularzu **Tworzenie przepływu pracy wielokrotnego użytku** , wprowadź nazwę ** *Repair2010* **. Dla **Typu platformy**kliknij **Przepływu pracy programu SharePoint 2010**, a następnie kliknij przycisk **OK**. 
+4. W formularzu **Tworzenie przepływu pracy wielokrotnego użytku** wprowadź nazwę * * *Repair2010* * *. Dla **typu platformy**, kliknij przycisk **przepływu pracy programu SharePoint 2010**, a następnie kliknij przycisk **OK**. 
   
-1. W sekcji **Zapisywanie** na wstążce **przepływu pracy** wybierz **Publikowanie**. 
+1. W **Zapisz** sekcji na Wstążce **przepływu pracy** , wybierz **publikowania**. 
   
-2. W sekcji **Zarządzanie** na wstążce **przepływu pracy** wybierz **Publikowanie na całym świecie**. W oknie dialogowym potwierdzenia wybierz przycisk **OK**. 
+2. W sekcji **Zarządzaj** na Wstążce **przepływu pracy** wybierz **publikowania globalnie**. W wyświetlonym oknie dialogowym potwierdzenia wybierz **przycisk OK**. 
   
-3. W przeglądarce sieci web zlokalizuj witryny głównego zbioru witryn, a następnie uzyskać dostęp do **Ustawień witryny** \> **Funkcje zbioru witryn**. Następnie przełącz funkcja **przepływów pracy** : 
+3. W przeglądarce sieci Web zlokalizuj głównej witryny sieci Web zbioru witryn, a następnie dostęp do \> **funkcji zbioru witryn** **Ustawienia witryny** . Następnie Przełącz funkcję **przepływy pracy** : 
   
-· Jeśli funkcja jest *aktywowany* , kliknij przycisk **Dezaktywuj,** a następnie kliknij przycisk **Uaktywnij**. 
+· Jeśli funkcja jest *aktywna* , kliknij przycisk **Dezaktywuj,** a następnie kliknij przycisk **Aktywuj**. 
   
-· Jeśli funkcja jest *zdezaktywowane* , kliknij przycisk **Uaktywnij**. 
+· Jeśli funkcja jest *dezaktywowana* , kliknij przycisk **Aktywuj**. 
   
-Więcej informacji można znaleźć w następującym [artykule](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
+Aby uzyskać więcej informacji, zapoznaj się z następującym [artykułem](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   
 

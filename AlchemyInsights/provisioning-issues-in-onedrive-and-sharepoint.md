@@ -1,24 +1,21 @@
 ---
 title: Inicjowanie obsługi administracyjnej problemów w OneDrive i SharePoint
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
-ms.date: 9/21/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: b9b129996837f646c951f2d0b29c28dd1ecb0728
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9dd38f3db7e74a82748e6db526f48b8e1c28c63d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422388"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752474"
 ---
 # <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Inicjowanie obsługi administracyjnej problemów w OneDrive i SharePoint
 
-Gdy użytkownik jest dodawany do istniejącej dzierżawy usługi Office 365, może zobaczyć Online programu SharePoint lub OneDrive dla ikon biznesowych wymienione jako "Setting up" do momentu zakończenia procesu zastrzegania. Dla nowo tworzonego konta użytkownicy muszą zalogować się do portalu Office 365 własne konto, a następnie kliknij OneDrive, aby ręcznie uruchomić świadczenia w witrynie OneDrive.
+Gdy użytkownik jest dodawany do istniejącej dzierżawy 365 pakietu Office, mogą zobaczyć SharePoint Online lub OneDrive dla firm ikony wymienione jako "Konfigurowanie", dopóki proces inicjowania obsługi administracyjnej zostało zakończone. W przypadku nowo utworzonych kont użytkownicy muszą zalogować się do centrum administracyjnego Microsoft 365 przy użyciu własnego konta, a następnie kliknąć pozycję OneDrive, aby ręcznie uruchomić Udostępnianie witryny OneDrive.
   
-Jeśli więcej niż 24 godziny minęło po raz pierwszy zobaczył ten problem, należy zalogować się przypadek pomocy technicznej. W wielu przypadkach już pracujemy nad rozwiązaniem. Podaj co najmniej 24 godziny, aby ukończyć rozwiązania.
+Jeśli minęło więcej niż 24 godziny od pierwszego zobaczyłem ten problem, należy zalogować się w przypadku pomocy technicznej. W wielu przypadkach pracujemy już nad rozwiązaniem. Proszę dać nam co najmniej 24 godziny, aby zakończyć rozwiązanie.
   
-

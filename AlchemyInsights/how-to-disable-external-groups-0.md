@@ -1,5 +1,5 @@
 ---
-title: Jak wyłączyć grup zewnętrznych
+title: Jak wyłączyć grupy zewnętrzne
 ms.author: pebaum
 author: pebaum
 ms.date: 8/1/2018
@@ -11,24 +11,24 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a467cc5deea6ae3a6f12832d238928daf4800039
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541235"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739575"
 ---
-# <a name="how-to-disable-external-groups"></a>Jak wyłączyć grup zewnętrznych
+# <a name="how-to-disable-external-groups"></a>Jak wyłączyć grupy zewnętrzne
 
-Istnieją cztery sposoby zewnętrznych użytkowników sieci Yammer.
+Istnieją cztery sposoby użytkownicy zewnętrzni mogą uzyskiwać dostęp do sieci w Yammer.
   
-1. **Użytkownicy-goście** - Yammer Administratorzy mogą zaprosić kontakty z domen zewnętrznych jako użytkownicy w sieci domowej. Ci użytkownicy będą widzieć wszystkie firmy pasz i dołączyć do innych grup w sieci, jak również.
+1. **Gość** -Administratorzy Yammer mogą zapraszać kontakty z zewnętrznych domen jako użytkowników w sieci domowej. Użytkownicy ci zobaczą kanał wszystkie firmy i mogą dołączyć do innych grup w sieci.
 
-2. **Użytkowników zewnętrznych w grupę** - grup zewnętrznych czy zezwolić użytkownikom zewnętrznym. Zakres dostępu użytkowników zewnętrznych jest ograniczone do grupy zewnętrznej. Za pomocą zewnętrznych grup można zaprosić tylko kontakty z sieci Yammer, których użytkownicy mogą uczestniczyć w rozmowach zewnętrznych.
+2. **Użytkownicy zewnętrzni w grupie** zewnętrznej — grupy zewnętrzne umożliwiają użytkownikom zewnętrznym. Zakres dostępu użytkownika zewnętrznego jest ograniczony do grupy zewnętrznej. W przypadku grup zewnętrznych można zapraszać tylko kontakty z sieci Yammer, które umożliwiają użytkownikom uczestnictwo w konwersacjach zewnętrznych.
 
-3. **Użytkowników zewnętrznych w rozmowie Yammer w wewnętrznych grupy** — ta opcja umożliwia uczestników zewnętrznych, które mają zostać dodane do wybranej konwersacji. Uczestników zewnętrznych mogą uczestniczyć tylko w rozmowach, które zostali wyraźnie zaproszeni do i wszelkie załączniki w tej konwersacji. Oni dostęp do tych rozmów za pośrednictwem skrzynki odbiorczej Yammer (w sieci). Nie mają dostępu do pozostałej części sieci.
+3. **Użytkownicy zewnętrzni w konwersacji Yammer w grupie wewnętrznej** — ta opcja umożliwia dodanie uczestników zewnętrznych do konkretnej konwersacji. Uczestnicy zewnętrzni mogą uczestniczyć tylko w rozmowach, które zostały wyraźnie zaproszone do wszelkich załączników w tej rozmowie. Dostęp do tych rozmów za pośrednictwem ich Yammer skrzynki odbiorczej (w sieci). Nie mają dostępu do pozostałej części sieci.
 
-4. **Sieci zewnętrzne** - ta opcja pozwala zaprosić użytkowników zewnętrznych do zewnętrznej sieci sprawdzono, czy Administratorzy mogą tworzyć w sieci. Ta opcja jest najlepiej nadaje się do obsługi zewnętrznych Wspólnoty.
+4. **Sieci zewnętrzne** — ta opcja umożliwia Zapraszanie użytkowników zewnętrznych do sieci zewnętrznej, która zweryfikowana Administratorzy mogą tworzyć w sieci. Opcja ta najlepiej nadaje się do hostingu społeczności zewnętrznych.
 
-Aby uzyskać więcej informacji zobacz [Dodawanie uczestników wiadomości zewnętrznych do konwersacji Yammer](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US) i [Zewnętrznych Messaging — często zadawane pytania (Yammer)](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)
+Aby uzyskać więcej informacji, zobacz [Dodawanie zewnętrznych uczestników wiadomości do konwersacji Yammer](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) i [zewnętrznych wiadomości — często zadawane pytania (Yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
   

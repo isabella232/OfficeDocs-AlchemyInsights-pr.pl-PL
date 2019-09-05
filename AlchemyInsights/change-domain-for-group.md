@@ -1,5 +1,5 @@
 ---
-title: Zmiana domeny dla grupy usługi Office 365
+title: Zmień domenę dla pakietu Office 365 grupy
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 2d08c3b4091274daee8e47527b14865574715176
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d897efdfb03832179e46f04f5ae6a1986d60e86f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519741"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736839"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Zmienić domenę dla grupa Office 365
+# <a name="change-the-domain-for-office-365-group"></a>Zmienianie domeny dla pakietu Office 365 Group
 
-Jeśli chcesz zmienić domenę dla grupę Office 365 podczas tworzenia, wykonaj kroki w [Wybierz domeny do użycia podczas tworzenia grupy usługi Office 365](https://support.office.com/article/7cf5655d-e523-4bc3-a93b-3ccebf44a01a.aspx).
+Jeśli chcesz zmienić domenę dla grupy 365 pakietu Office podczas tworzenia, wykonaj kroki opisane w [Wybierz domenę do użycia podczas tworzenia grupy 365 pakietu Office](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
   
-Utworzona grupa Office 365 jest już istnieje obecnie sposób aby zmienić domenę. Jedynym sposobem jest utworzenie nowej grupy Office 365 i usuń starą, jeśli to konieczne (dodatkowe adresy e-mail można dodać za pomocą [Centrum administracyjnego programu Exchange](https://outlook.office365.com/ecp.aspx)).
+Po utworzeniu pakietu Office 365 Group obecnie nie ma możliwości zmiany domeny. Jedynym sposobem jest utworzenie nowej grupy 365 pakietu Office i usunięcie starego w razie potrzeby (dodatkowe adresy e-mail można dodać za pośrednictwem [Centrum administracyjnego programu Exchange](https://outlook.office365.com/ecp.aspx)).

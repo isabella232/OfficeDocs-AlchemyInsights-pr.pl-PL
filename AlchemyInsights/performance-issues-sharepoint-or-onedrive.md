@@ -1,6 +1,6 @@
 ---
-title: Wydajność problemów programu SharePoint lub OneDrive
-ms.author: kirks
+title: Problemy z wydajnością-SharePoint lub OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -12,20 +12,20 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 2f32319f5ffc2af8c7f260b8405d164d1195a6e5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 706d4b830710b2ecaa5877777003852d3d4bc95c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666742"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752726"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint lub OneDrive wolno, niedostępne lub niedostępny dla wielu użytkowników
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint lub OneDrive powolne, niedostępne lub niedostępne dla wielu użytkowników
 
-SharePoint lub OneDrive może być powolne, niedostępne lub niedostępny z kilku powodów:
+SharePoint lub OneDrive może być powolne, niedostępne lub niedostępne z kilku powodów:
   
-- Jeśli witryna programu SharePoint lub OneDrive jest powolne lub opóźnione dla wielu użytkowników, może istnieć problem tymczasowej usługi gdzie są osiągane sporadycznych opóźnień lub błędów nawigacyjnych podczas uzyskiwania dostępu do witryny programu SharePoint lub OneDrive zawartości. Sprawdź [pulpit nawigacyjny kondycji usługi](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , by zobaczyć, jeśli dotyczy to organizacji.
+- Jeśli witryny programu SharePoint lub OneDrive jest powolne lub opóźnione dla wielu użytkowników, może być problem tymczasowy usługi, gdzie użytkownicy wystąpić sporadyczne opóźnienia lub błędy nawigacji podczas uzyskiwania dostępu do witryn programu SharePoint lub zawartości OneDrive. Sprawdź [pulpit nawigacyjny kondycji usługi](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , aby zobaczyć, jeśli Twoja organizacja ma wpływ.
   
-- Jeśli wydajność jest niska z **klasycznym** witryny programu SharePoint lub strony, wykorzystywać [Narzędzie diagnostyczne strony](https://aka.ms/perftool) analizowanie stron.
+- Jeśli wydajność jest niska w **klasycznej** witrynie lub na stronie programu SharePoint, należy użyć [narzędzia Diagnostyka strony](https://aka.ms/perftool) do analizowania stron.
   
-- Jeśli nadal występują ogólne niska wydajność, przejrzyj zasoby u dołu tego artykułu: [Wprowadzenie do dostrajania wydajności dla programu SharePoint w trybie Online](https://go.microsoft.com/fwlink/?linkid=2024334)
+- Jeśli nadal występują ogólne niska wydajność, zapoznaj się z zasobami na dole tego artykułu: [wprowadzenie do dostrajania wydajności programu SharePoint w trybie online](https://go.microsoft.com/fwlink/?linkid=2024334)
   

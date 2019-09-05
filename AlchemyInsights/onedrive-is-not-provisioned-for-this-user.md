@@ -1,6 +1,6 @@
 ---
-title: OneDrive nie jest obsługiwana administracyjnie dla tego użytkownika
-ms.author: kirks
+title: OneDrive nie jest obsługiwana dla tego użytkownika
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/21/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
-ms.openlocfilehash: 1506e6cbb2cee20f25f9df49626cc56f45346683
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a059c1d743b7b1c1ba19025a81049c6a8363bcde
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543642"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753374"
 ---
-# <a name="onedrive-is-not-provisioned-for-this-user"></a>OneDrive nie jest obsługiwana administracyjnie dla tego użytkownika
+# <a name="onedrive-is-not-provisioned-for-this-user"></a>OneDrive nie jest obsługiwana dla tego użytkownika
 
-Dla nowo tworzonego konta użytkownicy muszą zalogować się do portalu Office 365 własne konto i kliknij przycisk OneDrive, aby ręcznie uruchomić świadczenia w witrynie OneDrive.
+W przypadku nowo utworzonych kont użytkownicy muszą zalogować się do centrum administracyjnego Microsoft 365 z własnym kontem i kliknąć opcję OneDrive, aby ręcznie uruchomić Udostępnianie witryny OneDrive.
   
-Jednakże jeśli już po kliknięciu OneDrive i ich witryn osobistych nie jest zaopatrzona w ciągu 24 godzin, należy zalogować się pomocy technicznej, aby uzyskać dalszą pomoc.
+Jednak jeśli użytkownik już kliknął OneDrive i ich witryny osobistej nie jest obsługiwana w ciągu 24 godzin, należy zalogować bilet pomocy technicznej w celu uzyskania dalszej pomocy.
   
 

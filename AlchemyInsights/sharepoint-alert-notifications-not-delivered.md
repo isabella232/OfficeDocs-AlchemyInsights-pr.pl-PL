@@ -1,5 +1,5 @@
 ---
-title: Nie dostarczane powiadomienia o alertach programu SharePoint
+title: Powiadomienia alertów programu SharePoint nie są dostarczane
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f389785fcd1029ae5a47e07c723874f9f214109d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504473"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744651"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>Nie dostarczane powiadomienia o alertach programu SharePoint
+# <a name="sharepoint-alert-notifications-not-delivered"></a>Powiadomienia alertów programu SharePoint nie są dostarczane
 
-Sprawdź folder wiadomości-ŚMIECI w wiadomości e-mail, czasem alertów może tam.
+Proszę sprawdzić folder wiadomości-śmieci w wiadomości e-mail, ponieważ czasami alerty mogą tam iść.
 
-Ustalić, czy **wszystkie alerty nie są dostarczane** lub **poszczególnych alertów** z określonego pliku lub biblioteki nie zostanie dostarczona.
+Określić, czy **wszystkie alerty nie są dostarczane** lub jeśli **pojedynczy alert** z określonego pliku lub biblioteki nie jest dostarczany.
 
-- **Poszczególne alerty nie są wyświetlane**: Jeżeli poszczególnych alert z określonego pliku lub biblioteki nie zostanie dostarczona, można spróbować usunąć i utworzyć ponownie. Zobacz [Manage wyświetlić, lub usunąć alerty programu SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online) , aby ponownie utworzyć alert.
-- **Wszystkie alerty nie są dostarczane**: Jeśli wszystkie alerty z wielu plików lub biblioteki nie są dostarczane, odwiedź [pulpitu nawigacyjnego kondycji usług](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , aby sprawdzić, czy wszystkie klasyfikatory/incydentów, które może mieć miejsce z programu SharePoint lub programu Exchange. Ten problem może być z możliwości alertu programu SharePoint lub opóźnienia w wiadomości e-mail za pośrednictwem programu Exchange. Będzie też pamiętać, czy inne wiadomości e-mail jest dostarczana, a jeśli nie, problem jest najprawdopodobniej opóźnienia programu Exchange.
+- **Poszczególne alerty nie są dostarczane**: Jeśli pojedynczy alert z określonego pliku lub biblioteki nie zostanie dostarczony, można spróbować usunąć i odtworzyć go. Zobacz [Zarządzanie, wyświetlanie lub usuwanie alertów programu SharePoint,](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) aby odtworzyć alert.
+- **Wszystkie alerty nie są dostarczane**: Jeśli wszystkie alerty z wielu plików lub bibliotek nie są dostarczane, odwiedź [pulpit nawigacyjny kondycji usługi](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , aby sprawdzić, czy nie ma żadnych porad/incydentów, które mogą występować w programie SharePoint lub Exchange. Problem może być z funkcji alertu programu SharePoint lub opóźnienia w wiadomościach e-mail za pośrednictwem programu Exchange. Ważne będzie również, aby pamiętać, czy inne wiadomości e-mail są dostarczane, a jeśli nie, problem jest prawdopodobne z opóźnień Exchange.
 
-Często zadawane pytania na temat alertów dotyczących:
+FAQ na temat alertów:
 
-- Nie jest możliwe do wysyłania alertów do grupy dystrybucyjnej, tylko zabezpieczeń i grupy O365 są obsługiwane.
-- Nie można dostosowywać szablony wiadomości e-mail alertu; należy użyć do osiągnięcia tych FLOW firmy Microsoft lub przepływu pracy programu SharePoint Designer.
+- Nie jest możliwe wysyłanie alertów do grupy dystrybucyjnej, obsługiwane są tylko grupy zabezpieczeń i 365.
+- Nie można dostosować szablony wiadomości e-mail alertu; należy użyć przepływu pracy programu Microsoft FLOW lub SharePoint Designer do osiągnięcia tych.
 
 Więcej informacji:
 
-- **Konfiguracja alertów**: Aby uzyskać więcej informacji na temat konfigurowania alertów, zobacz [Create alert, aby otrzymywać powiadomienia, gdy plik lub folder, zmiany w programie SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Rozwiązywanie problemów z alertów**: Aby uzyskać więcej informacji dotyczących rozwiązywania problemów z alertów, zobacz [Użytkownicy nie otrzymywać powiadomienia o alertach programu SharePoint w trybie Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Zaawansowane zasady alertów zgodności O365**: Aby uzyskać więcej informacji o ustawianiu tych alertów, zobacz [Alert zasady zgodności](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **Dzienniki inspekcji OneDrive i SharePoint**: Aby uzyskać więcej informacji dotyczących sposobu pobierania tych zdarzeń, zobacz [Wyszukiwanie dziennika inspekcji](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Alerty wysyłane przez Zaawansowana ochrona przed zagrożeniami**: zobacz [ATP dla programu SharePoint i OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Zasady alerty wysyłane przez zapobieganie utracie danych**: zobacz [powiadomienia E-mail dla zasady DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- **Ustawienia alertów**: Aby uzyskać więcej informacji na temat konfigurowania alertów, zobacz [Tworzenie alertu, aby otrzymywać powiadomienia, gdy plik lub folder zmieni się w programie SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
+- **Rozwiązywanie problemów z alertami**: Aby uzyskać więcej informacji na temat rozwiązywania problemów z alertami, zobacz [Użytkownicy nie otrzymują powiadomienia alertów online programu SharePoint](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
+- **Zaawansowane zasady alertów zgodności**z programem 365: Aby uzyskać więcej informacji na temat konfigurowania tych alertów, zobacz [zasady alertów zgodności](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+- **Dzienniki inspekcji programu SharePoint i OneDrive**: Aby uzyskać więcej informacji dotyczących sposobu pobierania tych zdarzeń, zobacz [przeszukiwanie dziennika inspekcji](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+- **Alerty wysyłane przez zaawansowaną ochronę przed zagrożeniami**: zobacz [ATP dla programu SharePoint i OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+- **Alerty wysyłane przez zasady zapobiegania utracie danych**: zobacz [powiadomienia E-mail dotyczące zasad DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Tematy pokrewne
 
-Czy chcesz spróbować Flow Microsoft w dokumentacji Online programu SharePoint?
+Chcesz wypróbować usługi Microsoft Flow w usłudze SharePoint Online?
 
-- [Utworzyć przepływ](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+- [Utwórz przepływ](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint i przepływu](https://flow.microsoft.com/en-us/blog/sharepoint-and-flow/)
+- [SharePoint i przepływu](https://flow.microsoft.com//blog/sharepoint-and-flow/)

@@ -1,6 +1,6 @@
 ---
-title: Nowe funkcje programu SharePoint ogłosił
-ms.author: kirks
+title: Ogłoszono nowe funkcje programu SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/27/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: 7aecd959cd2fca7049dfb55c1f18d593a95712a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4640873c2bd75773aad129b6556fbe4ab270162
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508541"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751322"
 ---
-# <a name="sharepoint-new-features-announced"></a>Nowe funkcje programu SharePoint ogłosił
+# <a name="sharepoint-new-features-announced"></a>Ogłoszono nowe funkcje programu SharePoint
 
-Na konferencji Ignite 2018 firma Microsoft poinformowała, innowacyjne rozwiązania w SharePoint, w tym nowe funkcje dla nowoczesnych portali, nowe składniki web Part, wiele udoskonaleń witryn koncentratora, łącze wiadomości, określania docelowych odbiorców, dostępność nowych aplikacji mobilnych, połączenie z Zespoły i więcej...
+Na konferencji Ignite 2018, Microsoft ogłosił nowe innowacje dla SharePoint, w tym nowe funkcje dla nowoczesnych portali, nowych części internetowych, liczne ulepszenia do centrum witryn, link News, kierowanie odbiorców, dostępność nowych aplikacji mobilnych, połączenie z Drużyny i inne...
   
-Aby uzyskać więcej informacji o tych funkcjach, zobacz blogu [innowacji w programie SharePoint &amp; Microsoft 365 dostarczania energii elektrycznej i prostota zawartości współpracy.](https://go.microsoft.com/fwlink/?linkid=2026502)
+Aby uzyskać więcej informacji na temat tych funkcji, zobacz blogu [nowe innowacje w programie &amp; SharePoint Microsoft 365 dostarczaj energię i prostotę do współpracy z treścią.](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-Organizacji można wziąć udział w programie Release ukierunkowane na początku dostęp do nowych funkcji. Zobacz [Konfigurowanie opcji wersji Standard lub ukierunkowane w usłudze Office 365](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365).
+Organizacja może przyłączyć się do programu docelowa wersja, aby mieć wcześniejszy dostęp do nowych funkcji. Zobacz [Konfigurowanie opcji wersji standardowej lub docelowej w pakiecie Office 365](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365).

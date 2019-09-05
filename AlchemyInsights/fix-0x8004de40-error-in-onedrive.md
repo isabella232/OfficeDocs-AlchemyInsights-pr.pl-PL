@@ -1,6 +1,6 @@
 ---
-title: Naprawianie błędu 0x8004de40 w OneDrive
-ms.author: kirks
+title: Napraw błąd 0x8004de40 w usłudze OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: d436184bdc0e283db217ea734fb2c8e05f85b4e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: aa0e0a63ac1e365a7cdce018626740446040a664
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525069"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755858"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>Naprawianie błędu 0x8004de40 w OneDrive
+# <a name="fix-0x8004de40-error-in-onedrive"></a>Napraw błąd 0x8004de40 w usłudze OneDrive
 
-Jeśli komunikat o błędzie 0x8004de40 z OneDrive:
+Jeśli zostanie wyświetlony błąd 0x8004de40 z OneDrive:
 
-- Uruchom ponownie dotyczy komputera podłączonego do domeny katalogu substancje czynne.
-- Jeśli ponowny rozruch nie rozwiąże problemu, odłączyć i ponownie dołączyć urządzenie z Azure AD. 
+- Uruchom ponownie komputer, którego dotyczy problem, po podłączeniu do domeny katalogu Acitve.
+- Jeśli ponowne uruchomienie nie rozwiąże problemu, odłączenie i ponowne dołączenie urządzenia z usługi Azure AD. 
 
-**Uwaga**: należy zachować w sieci firmowej podczas wykonywania tych kroków. Nie wykonanie tych kroków, gdy nie są w stanie nawiązać połączenia sieci firmowej infrastruktury (na przykład podczas podróży). 
+**Uwaga**: podczas wykonywania tych czynności powinieneś być w sieci firmowej. Nie wykonuj tych czynności, gdy nie możesz nawiązać połączenia z infrastrukturą firmową (na przykład podczas podróży). 
 
 - Otwórz wiersz polecenia z podwyższonym poziomem uprawnień. 
-- Aby otworzyć wiersz polecenia, kliknij przycisk - **Start**, kliknij prawym przyciskiem myszy **Wiersz polecenia**, a następnie kliknij **Uruchom jako administrator**.
-- *Dsregcmd /leave* i naciśnij klawisz **Enter**.
-- Po zakończeniu, *wpisz/JOIN dsregcmd* i naciśnij klawisz **Enter**.
-- Po zakończeniu zamknij okno wiersza polecenia.
-- Uruchom ponownie komputer i zaloguj się do OneDrive.
+- Aby otworzyć wiersz polecenia z podwyższonym poziomem uprawnień, kliknij przycisk **Start**, kliknij prawym przyciskiem myszy **wiersz polecenia**, a następnie kliknij polecenie **Uruchom jako administrator**.
+- Wpisz *polecenie dsregcmd/Leave* i naciśnij **Enter**.
+- Po zakończeniu wpisz *polecenie dsregcmd/Join* i naciśnij **Enter**.
+- Po zakończeniu Zamknij wiersz polecenia.
+- Uruchom ponownie komputer i zaloguj się do usługi OneDrive.

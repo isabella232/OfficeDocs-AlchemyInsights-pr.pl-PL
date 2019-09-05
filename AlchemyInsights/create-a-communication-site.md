@@ -1,6 +1,6 @@
 ---
-title: Utwórz witrynę komunikacji
-ms.author: kirks
+title: Tworzenie witryny komunikacyjnej
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/13/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: 0ab2877a6192af1bf88016ca9cff5ec0aa967e5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ffc67fd4aae62862167784c676d6d80390f5617e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516286"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755426"
 ---
-# <a name="create-a-communication-site"></a>Utwórz witrynę komunikacji
+# <a name="create-a-communication-site"></a>Tworzenie witryny komunikacyjnej
 
-Aby utworzyć witrynę komunikacji w dokumentacji Online programu SharePoint, należy wykonać następujące czynności: 
+Aby utworzyć witrynę komunikacji w programie SharePoint Online, wykonaj następujące kroki: 
   
-1. W lewym górnym rogu strony kliknij przycisk Uruchom aplikację i zaznacz opcję Podziel programu SharePoint. Jeśli nie widzisz sąsiadująco programu SharePoint, kliknięcie **witryn** lub **wszystkie aplikacje** programu SharePoint nie jest widoczny. 
+1. W lewym górnym rogu strony kliknij przycisk uruchamiania aplikacji i wybierz kafelek programu SharePoint. Jeśli nie widzisz kafelka programu SharePoint, kliknij przycisk **witryny** lub **wszystkie aplikacje** Jeśli program SharePoint nie jest widoczny. 
     
-2. U góry strony programu SharePoint kliknij przycisk **Utwórz witrynę** i wybierz **Witrynę komunikacji**. Wykonaj kroki w kreatorze tworzenia witryn. 
+2. W górnej części strony programu SharePoint, kliknij przycisk **Tworzenie witryny** i wybierz polecenie **witryny komunikacji**. Postępuj zgodnie z instrukcjami Kreatora tworzenia witryny. 
     
- **Uwaga**: Jeśli nie widzisz opcji **Tworzenie**witryny samoobsługowego tworzenia witryn może być wyłączona w usłudze Office 365. Skontaktuj się z osobą, administrowania usługą Office 365 w organizacji, aby utworzyć witrynę zespołu. Jeśli jesteś administratorem dzierżawy, zobacz [Zarządzanie tworzenia witryn programu SharePoint online, aby włączyć samoobsługowe tworzenie witryn dla danej organizacji.](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **Uwaga**: Jeśli nie widzisz opcji **tworzenia witryny**, samoobsługowe tworzenie witryn może być wyłączone w pakiecie Office 365. Skontaktuj się z osobą zarządzającej pakietem Office 365 w swojej organizacji, aby utworzyć witrynę zespołu. Jeśli jesteś administratorem dzierżawy, zobacz [Zarządzanie tworzeniem witryn w usłudze SharePoint Online, aby umożliwić samoobsługowe tworzenie witryn dla organizacji.](https://go.microsoft.com/fwlink/?linkid=2018780)
   
- **Uwaga:** Jeśli próbujesz utworzyć witrynę komunikacji i adres URL jest coraz dołączany do liczbami losowymi, najprawdopodobniej witryny z tym samym adresem URL już istnieje w środowisku programu SharePoint lub został usunięty i nadal istnieje w witrynach usunięty (Kosz). Użyj [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) do oceny Kosza i [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) Aby usunąć witrynę z Kosza. 
+ **Uwaga:** Jeśli próbujesz utworzyć witrynę komunikacyjną, a adres URL jest coraz dołączany do liczb losowych, prawdopodobnie witryna o tym samym adresie URL już istnieje w środowisku SharePoint lub została usunięta i nadal istnieje w usuniętych witrynach (Recycle Bin). Służy [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) do oceny kosza i [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) usunąć witrynę z kosza. 
   
 
