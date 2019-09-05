@@ -10,12 +10,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: 423
 ms.assetid: f93a7a44-0cdf-4387-b428-53e1a48f63ce
-ms.openlocfilehash: 82389dfe7cd1ea3baf5549b11f72a02c1a2c00ee
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e141366c3130c529b1b4322813100002b220c9da
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32393695"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734499"
 ---
 # <a name="compromised-email-accounts"></a>Naruszone konta e-mail
 
@@ -27,4 +27,4 @@ Można zrobić kilka rzeczy, aby zwiększyć bezpieczeństwo w organizacji usłu
 
 - **Włączanie dzienników inspekcji skrzynki pocztowej**: Dzienniki inspekcji skrzynki pocztowej ułatwiają śledzenie tego, co się stało, jeśli konto użytkownika zostanie naruszone.
 
-Aby uzyskać więcej informacji, zobacz [Najlepsze rozwiązania dotyczące zabezpieczeń dla usługi Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
+Aby uzyskać więcej informacji, zobacz [Office 365 security roadmap (Plan zabezpieczeń usługi Office 365)](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).

@@ -13,12 +13,12 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: a18878032c2da76c930c6d4d3fa572f46350de39
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031b79da47892b4449bfd3d6f1157d1c41e60473
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523377"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739791"
 ---
 # <a name="having-email-delivery-issues"></a>Występują problemy z dostarczaniem poczty e-mail?
 
@@ -26,9 +26,8 @@ Wykryliśmy, że użytkownicy nie mogą otrzymywać wiadomości wysłanych do na
   
 {HealthCheckString}
   
-Rekordy NS lub MX w ustawieniach domeny (DNS) nie są prawidłowo skonfigurowane na potrzeby dostarczania poczty e-mail do Twojej usługi Office 365. Aby uzyskać szczegółowe instrukcje, zapoznaj się z artykułem [Aktualizowanie rekordów DNS w usłudze Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx).
+Rekordy NS lub MX w ustawieniach domeny (DNS) nie są prawidłowo skonfigurowane na potrzeby dostarczania poczty e-mail do Twojej usługi Office 365. Aby uzyskać szczegółowe instrukcje, zobacz [Tworzenie rekordów DNS dla usługi Office 365 u dowolnego dostawcy hostingu DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
   
 Aby rozwiązać problem i skorzystać z pomocy, przejdź do strony [Domeny](https://admin.microsoft.com/adminportal/home#/Domains) w centrum administracyjnym platformy Microsoft 365.
   
-Aby uzyskać informacje na temat innych typowych rozwiązań, zajrzyj do [często zadawanych pytań dotyczących domen](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx).
   
