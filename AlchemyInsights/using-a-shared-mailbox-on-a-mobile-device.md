@@ -1,5 +1,5 @@
 ---
-title: 1800014 za pomocą współdzielonej skrzynki pocztowej na urządzeniu przenośnym
+title: 1800014 korzystanie z udostępnionej skrzynki pocztowej na urządzeniu przenośnym
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -15,20 +15,20 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: d2f0090270e0d93ddacbc4556209e7c94fb53566
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da35b257bb6aad9e3994dba562f9b8e86d08a693
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531873"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741843"
 ---
-# <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Za pomocą współdzielonej skrzynki pocztowej na urządzeniu przenośnym
+# <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Używanie udostępnionej skrzynki pocztowej na urządzeniu przenośnym
 
-Nie można uzyskać dostępu współdzielonej skrzynki pocztowej z aplikacji programu Outlook, który jest zainstalowany na urządzeniu przenośnym. Chcesz korzystać z tej funkcji? Niech przez zespół inżynierów programu Outlook wiedzieć. [Głosowanie w tym miejscu](https://go.microsoft.com/fwlink/?linked=862116)!
+Nie można uzyskać dostępu udostępnionej skrzynki pocztowej z aplikacji Outlook, która jest zainstalowana na urządzeniu przenośnym. Chcesz korzystać z tej funkcji? Niech zespół inżynierów programu Outlook wie. [Zagłosuj tutaj](https://go.microsoft.com/fwlink/?linked=862116)!
   
-Współdzielonej skrzynki pocztowej można użyć tylko na urządzeniu przenośnym, otwierając przeglądarkę, rejestrowanie programie Office 365, a następnie przechodząc do programu Outlook w sieci web. Aby uzyskać instrukcje zobacz [Dodawanie udostępnionej skrzynki pocztowej w programie Outlook w sieci web](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
+Udostępnionej skrzynki pocztowej można używać tylko na urządzeniu przenośnym, otwierając przeglądarkę, logując się do pakietu Office 365, a następnie przechodząc do programu Outlook w sieci Web. Aby uzyskać instrukcje, zobacz [Dodawanie udostępnionej skrzynki pocztowej w programie Outlook w sieci Web](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
   
-Należy przejść do udostępnionych skrzynek pocztowych przy użyciu aplikacji Outlook na urządzeniu przenośnym, należy rozważyć utworzenie grupę Office 365, zamiast korzystać z udostępnionej skrzynki pocztowej. Aby uzyskać więcej informacji zobacz [Porównanie grup](https://support.office.com/article/758759ad-63ee-4ea9-90a3-39f941897b7d.aspx).
+Jeśli musisz uzyskać dostęp do udostępnionych skrzynek pocztowych za pomocą aplikacji Outlook na urządzeniu przenośnym, rozważ utworzenie grupy 365 pakietu Office zamiast korzystania z udostępnionej skrzynki pocztowej. Aby uzyskać więcej informacji, zobacz [porównywanie grup](https://docs.microsoft.com/office365/admin/create-groups/compare-groups).
   
-Dowiedz się więcej: [Uzyskaj pomoc w aplikacji dla programu Outlook dla iOS i Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Więcej informacji: [Uzyskiwanie pomocy w aplikacji dla programu Outlook dla systemów iOS i Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   

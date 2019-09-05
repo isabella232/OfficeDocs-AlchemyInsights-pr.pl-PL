@@ -1,5 +1,5 @@
 ---
-title: Zewnętrzne udostępnianie Online w programie SharePoint
+title: Udostępnianie zewnętrzne w programie SharePoint Online
 ms.author: efrene
 author: efrene
 ms.date: 8/07/2019
@@ -8,47 +8,47 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 31db17a45814355f9594a340881660ba7010b1a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f8772f614b3d33c4eb73c7645c9b09971619bcc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504257"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744507"
 ---
-# <a name="external-sharing-in-sharepoint-online"></a>Zewnętrzne udostępnianie Online w programie SharePoint
+# <a name="external-sharing-in-sharepoint-online"></a>Udostępnianie zewnętrzne w programie SharePoint Online
 
-Jeśli organizacji wykonuje pracę, która obejmuje udostępnianie dokumentów lub współpracuje bezpośrednio z dostawców, klientów lub klienci, następnie można użyć [funkcji programu SharePoint Online udostępniania zewnętrznych](https://docs.microsoft.com/sharepoint/external-sharing-overview) do udostępniania zawartości z osobami spoza sieci organizacja.
+Jeśli organizacja wykonuje pracę polegającą na udostępnianiu dokumentów lub współpracy bezpośrednio z dostawcami, klientami lub klientami, można użyć [funkcji udostępniania zewnętrznego programu SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) , aby udostępnić zawartość osobom spoza Organizacji.
 
-Aby uzyskać więcej informacji na temat udostępniania zewnętrznych można znaleźć łącza poniżej.
+Aby uzyskać więcej informacji o udostępnianiu zewnętrznym, odwiedź poniższe linki.
 
-- [Co to jest to użytkownik zewnętrzny?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [Co to jest użytkownik zewnętrzny?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [Co się dzieje, kiedy udostępniam witryny lub dokumentu?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [Co się stanie, gdy udostępnię witrynę lub dokument?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
 
 - [Włączanie i wyłączanie udostępniania zewnętrznego dla usługi SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [Włączanie zewnętrznego lub wyłączyć udostępnianie w witrynie](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Włączanie i wyłączanie udostępniania zewnętrznego dla witryny](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Domyślne ustawienia udostępniania na typ witryny](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
+- [Domyślne ustawienia udostępniania dla danego typu witryny](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
 
-- [Użyj programu Sharepoint w trybie Online jako rozwiązanie ekstranetu między firmami (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Korzystanie z usługi SharePoint Online jako rozwiązania ekstranetowego Business-to-Business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [Udostępnianie plików programu SharePoint lub folder](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Udostępnianie plików lub folderów programu SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [Zatrzymywanie udostępniania OneDrive lub SharePoint plików lub folderów lub zmienić uprawnienia](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Zatrzymywanie udostępniania plików lub folderów w usłudze OneDrive lub SharePoint lub Zmienianie uprawnień](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
-- [Dostęp gościa w Teams firmy Microsoft](https://docs.microsoft.com/MicrosoftTeams/guest-access)
+- [Dostęp dla Gości w Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
 
-- [Gość Microsoft udostępnianie ustawień odniesienia (Azure usługi Active Directory, Microsoft 365 i programu SharePoint w trybie Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings) 
+- [Informacje o ustawieniach udostępniania gościa Microsoft (Azure Active Directory, Microsoft 365 i SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings) 
 
 
 
-Błąd z użytkownik zewnętrzny? &nbsp;Sprawdź poniższe łącza.
+Otrzymujesz błąd z użytkownikiem zewnętrznym? &nbsp;Sprawdź poniższe linki.
 
-- [Komunikat o błędzie, gdy użytkownik zewnętrzny akceptuje zaproszenie programu SharePoint w trybie Online przy użyciu innego konta](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0- )
+- [Komunikat o błędzie, gdy użytkownik zewnętrzny akceptuje zaproszenie programu SharePoint w trybie online przy użyciu innego konta](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Odmowa dostępu do folderu udostępnionego](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de)
+- [Odmowa dostępu do folderu udostępnionego](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
-- [OSE udostępnianie błędy w programie Sharepoint i OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [OSE udostępnianie błędów w programie SharePoint i OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

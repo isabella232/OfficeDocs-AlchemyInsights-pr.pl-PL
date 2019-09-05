@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z pomocą Otwórz w Eksploratorze
+title: Rozwiązywanie problemów z użyciem funkcji Otwórz w Eksploratorze
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 6e67c2916e0c5739f6126064d45e175a7fd6f8d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500225"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742743"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>Rozwiązywanie problemów z Otwórz w Eksploratorze
+# <a name="fix-problems-with-open-with-explorer"></a>Rozwiązywanie problemów z programem Otwórz w Eksploratorze
 
-Rozwiązywanie typowych problemów z otwieraniem biblioteki dokumentów programu SharePoint lub za pomocą polecenia **Otwórz w Eksploratorze** OneDrive: 
+Rozwiązywanie typowych problemów z otwieraniem biblioteki dokumentów w programie SharePoint lub OneDrive za pomocą polecenia **Otwórz za pomocą Eksploratora** : 
   
-- Użyj programu Internet Explorer 10 lub Internet Explorer 11. **Otwórz w Eksploratorze** jest niezgodna z Edge firmy Microsoft, Google Chrome, Firefox i innych. **Otwórz w Eksploratorze** jest wyłączona we wszystkich przeglądarkach oprócz programu Internet Explorer. 
+- Użyj programu Internet Explorer 10 lub Internet Explorer 11. **Otwórz w Eksploratorze** nie jest kompatybilny z Microsoft Edge, Google Chrome, Firefox i innych. **Otwórz za pomocą Eksploratora** jest wyłączony we wszystkich przeglądarkach z wyjątkiem programu Internet Explorer. 
     
-- **Otwórz w Eksploratorze** jest niedostępna w nowoczesne doświadczenie dla bibliotek programu SharePoint. Użyj zamiast tego **widoku w Eksploratorze plik** . Wybierz **Opcje widoku** \> **Widok w Eksploratorze plik**. Widok w Eksploratorze plik jest niezgodny z Microsoft Edge, Google Chrome, Firefox i inne. **Wyświetlanie w Eksploratorze plików** w dostępne tylko w programie Internet Explorer. 
+- **Otwórz za pomocą Eksploratora** nie jest dostępna w nowoczesnych środowisko dla bibliotek programu SharePoint. Zamiast tego użyj **widoku w Eksploratorze plików** . Wybierz widok **opcji** \> widoku **w Eksploratorze plików**. Widok w Eksploratorze plików nie jest kompatybilny z Microsoft Edge, Google Chrome, Firefox i innych. **Widok w Eksploratorze plików** dostępny tylko w programie Internet Explorer. 
     
-- Upewnij się, że jest uruchomiona usługa WebClient. W polu wyszukiwania systemu Windows, typ uruchomienia, wybierz aplikację pulpitu, uruchom, wpisz services.msc i naciśnij klawisz Enter. Przewiń w dół do usługi WebClient i upewnij się, że w kolumnie **Stan** wyświetlana "Działa". Jeśli tak nie jest, kliknij dwukrotnie usługę, kliknij przycisk **Start**, a następnie kliknij **OK**. (Być może trzeba najpierw włączyć usługę przez wybranie w polu **Typ uruchomienia** **Ręczny** lub **Automatyczny** ). 
+- Upewnij się, że usługa WebClient jest uruchomiona. W polu wyszukiwania systemu Windows wpisz Uruchom, wybierz Uruchom aplikację pulpitu, wpisz Services. msc, a następnie naciśnij Enter. Przewiń w dół do usługi WebClient i upewnij się, że w kolumnie **stan** jest wyświetlana "uruchomiona". Jeśli nie, kliknij dwukrotnie usługę, kliknij przycisk **Start**, a następnie kliknij przycisk **OK**. (Najpierw należy włączyć tę usługę, wybierając opcję **ręczny** lub **automatyczny** w polu **Typ uruchomienia** ). 
     
 > [!NOTE]
-> Otwieranie biblioteki w Eksploratorze plik jest przydatny, jeśli trzeba kopiować lub przenosić wiele plików lub folderów po, ale jeśli chcesz regularnie pracują w bibliotece, firma Microsoft zaleca synchronizację. Rozwiązywać problemy z otwieraniem w Eksploratorze plików, zobacz temat [Otwórz w Eksploratorze](https://go.microsoft.com/fwlink/?linkid=871665). Aby uzyskać informacje dotyczące konfigurowania synchronizacji zobacz [pliki synchronizacji programu SharePoint z nowego klienta synchronizacji OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).
+> Otwarcie biblioteki w Eksploratorze plików jest przydatne, jeśli trzeba skopiować lub przenieść wiele plików i folderów raz, ale jeśli chcesz regularnie pracować w bibliotece, zalecamy synchronizację. Aby rozwiązać problemy z otwieraniem w Eksploratorze plików, zobacz [Otwórz w Eksploratorze](https://go.microsoft.com/fwlink/?linkid=871665). Aby uzyskać informacje o konfigurowaniu synchronizacji, zobacz [synchronizowanie plików programu SharePoint z nowym klientem synchronizacji OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Zobacz artykuł [sposób korzystania z polecenia "Otwórz z Eksploratora" rozwiązywania problemów w dokumentacji Online programu SharePoint](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) , aby uzyskać więcej informacji. 
+Zapoznaj się z artykułem [jak używać polecenia "Otwórz w Eksploratorze" rozwiązywać problemy w programie SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) Aby uzyskać więcej informacji. 
   
 

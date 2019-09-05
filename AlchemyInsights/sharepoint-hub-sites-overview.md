@@ -1,34 +1,34 @@
 ---
-title: Omówienie lokacji koncentratora programu SharePoint
-ms.author: kirks
+title: Omówienie witryn programu SharePoint Hub
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: ace1b7adac2f1a15b8d39411f98b23df74eb29b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 585f3d06c358adffd267d76a2a31ea9b2135cccc
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508325"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751466"
 ---
-# <a name="sharepoint-hub-sites-overview"></a>Omówienie lokacji koncentratora programu SharePoint
+# <a name="sharepoint-hub-sites-overview"></a>Omówienie witryn programu SharePoint Hub
 
-Spełnienia potrzeb organizacji poprzez łączenie i organizowanie witryn SharePoint koncentrator witryny Pomoc na podstawie projektu, dział, podział, region, itp., dzięki czemu łatwiej:
+Witryny programu SharePoint Hub ułatwiają zaspokajanie potrzeb organizacji poprzez łączenie i organizowanie witryn w oparciu o projekt, dział, podział, region itp., co ułatwia:
 
-- Odkryj powiązanej z nią zawartości, takich jak wiadomości i inne działania witryny.
-
-
-- Zastosowanie wspólnych nawigacji i znakowanie na powiązanych stronach.
+- Odkrywaj powiązane treści, takie jak wiadomości i inne działania w witrynie.
 
 
-- Przeszukiwać wszystkie strony.
+- Zastosuj wspólną nawigację i znakowanie w powiązanych witrynach.
 
 
-Aby uzyskać więcej informacji dotyczących sposobu tworzenia lokacji centralnej z nowego Centrum administracyjnego lub Microsoft PowerShell, zobacz [Tworzenie lokacji centralnej w dokumentacji Online programu SharePoint](https://docs.microsoft.com/sharepoint/create-hub-site) . 
+- Szukaj we wszystkich powiązanych witrynach.
 
-Aby uzyskać więcej informacji o tym, jak skojarzyć istniejące witryny do lokacji centralnej z nowego Centrum administracyjnego lub środowiska PowerShell, zobacz [skojarzyć witryny programu SharePoint z lokalizacji centralnej](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) .  
 
-Aby uzyskać więcej informacji dotyczących sposobu usuwania istniejącej lokacji centralnej z nowego Centrum administracyjnego lub środowiska PowerShell, zobacz [Usuwanie lokacji centralnej](https://docs.microsoft.com/sharepoint/remove-hub-site) . 
+Zobacz [Tworzenie witryny Centrum w programie SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site) Aby uzyskać więcej informacji dotyczących sposobu tworzenia lokacji centralnej z nowego centrum administracyjnego lub programu Microsoft PowerShell. 
+
+Zobacz [kojarzenie witryny programu SharePoint z witryną centrum](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) , aby uzyskać więcej informacji na temat kojarzenia istniejących witryn z witryną centrum z nowego centrum administracyjnego lub programu PowerShell.  
+
+Zobacz [usuwanie lokacji centralnej](https://docs.microsoft.com/sharepoint/remove-hub-site) , aby uzyskać więcej informacji dotyczących sposobu usuwania istniejącej lokacji centralnej z nowego centrum administracyjnego lub programu PowerShell. 

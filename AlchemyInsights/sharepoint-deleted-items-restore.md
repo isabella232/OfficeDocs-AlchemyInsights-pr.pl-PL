@@ -12,18 +12,18 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 544e65430cce72329933933927883521b2d79e7c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d68581fed677d2578e92b667e1fd29ee27c53336
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666130"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744579"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Przywracanie usuniętych elementów z programu SharePoint
 
-Usunięcie elementu lub witryny z programu SharePoint nie jest natychmiast usuwane. Elementy usunięte przejść do kosza przez pewien okres czasu. W tym czasie można przywrócić elementy usunięte do ich pierwotnej lokalizacji. Aby uzyskać więcej informacji, prosimy odwiedzić poniższe linki.
+Po usunięciu elementu lub witryny z programu SharePoint, nie jest natychmiast usuwane. Elementy usunięte przejść do kosza przez pewien okres czasu. W tym czasie można przywrócić elementy usunięte do ich pierwotnej lokalizacji. Aby uzyskać więcej informacji, prosimy odwiedzić poniższe linki.
 
-- [Przywracanie elementów w koszu witryny programu SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Przywracanie elementów w koszu witryny programu SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
 - [Przywracanie usuniętych plików lub folderów w usłudze OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
@@ -37,8 +37,8 @@ Usunięcie elementu lub witryny z programu SharePoint nie jest natychmiast usuwa
 
 **Funkcja przywracania plików**
 
-Jeśli wiele plików w usłudze OneDrive lub SharePoint zostanie usuniętych, nadpisanych, uszkodzonych lub zainfekowanych złośliwym oprogramowaniem, można przywrócić całą bibliotekę OneDrive lub SharePoint do poprzedniej godziny za pomocą funkcji przywracania plików.
+Jeśli wiele plików w usłudze OneDrive lub SharePoint zostanie usuniętych, zastąpionych, uszkodzonych lub zainfekowanych złośliwym oprogramowaniem, można przywrócić całą bibliotekę OneDrive lub SharePoint do poprzedniej godziny za pomocą funkcji przywracania plików.
 
 - [Przywracanie biblioteki usługi OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 
-- [Przywracanie biblioteki dokumentów](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Przywracanie biblioteki dokumentów](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)

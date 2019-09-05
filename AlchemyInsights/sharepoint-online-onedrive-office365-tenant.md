@@ -1,24 +1,24 @@
 ---
-title: Online programu SharePoint lub OneDrive "Konfigurowanie"
-ms.author: kirks
+title: SharePoint Online lub OneDrive "Konfigurowanie"
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: 814e2157147b192d9a23084ed6d9715777a4dc3d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f461759a8f9a1f98ea7c5937a9d79e8bc4ebbbda
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535156"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750458"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>Online programu SharePoint lub OneDrive "Konfigurowanie"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online lub OneDrive "Konfigurowanie"
 
-Gdy użytkownik jest dodawany do istniejącej dzierżawy usługi Office 365, może zobaczyć Online programu SharePoint lub OneDrive dla ikon biznesowych wymienione jako "Setting up" do momentu zakończenia procesu zastrzegania.
+Gdy użytkownik jest dodawany do istniejącej dzierżawy 365 pakietu Office, mogą zobaczyć SharePoint Online lub OneDrive dla firm ikony wymienione jako "Konfigurowanie", dopóki proces inicjowania obsługi administracyjnej zostało zakończone.
 
-Jeśli więcej niż 24 godziny minęło po raz pierwszy zobaczył ten problem, należy zalogować się przypadek pomocy technicznej.
+Jeśli minęło więcej niż 24 godziny od pierwszego zobaczyłem ten problem, należy zalogować się w przypadku pomocy technicznej.
 
-Rozumiemy, że 24 godziny może wydawać się bardzo długo. W wielu przypadkach już pracujemy nad rozwiązaniem. Podaj co najmniej 24 godziny, aby ukończyć rozwiązania.
+Rozumiemy, że 24 godziny może wydawać się długi czas. W wielu przypadkach pracujemy już nad rozwiązaniem. Proszę dać nam co najmniej 24 godziny, aby zakończyć rozwiązanie.
 

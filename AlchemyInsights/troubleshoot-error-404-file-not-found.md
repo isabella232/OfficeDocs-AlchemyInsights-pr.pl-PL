@@ -1,32 +1,32 @@
 ---
-title: Rozwiązywanie błędu 404 Nie znaleziono pliku
-ms.author: kirks
+title: Rozwiązywanie problemów z błędem 404, nie znaleziono pliku
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 3c5de2f9dc75b4da4db888c53be21710423b35df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 45e7269d474d51569a216e94c0175f0b1c72b220
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507281"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749018"
 ---
-# <a name="troubleshoot-error-404-file-not-found"></a>Rozwiązywanie błędu 404 Nie znaleziono pliku
+# <a name="troubleshoot-error-404-file-not-found"></a>Rozwiązywanie problemów z błędem 404, nie znaleziono pliku
 
-Odebrano błąd 404, gdy użytkownicy próbują uzyskać dostęp do strony lub pliku w programie SharePoint lub OneDrive. Jest to często spowodowane przez witryny lub pliku lub grupy coraz, zmieniono jego nazwę, przeniesiony lub usunięty. Na przykład: użytkownicy napotkają błąd 404 próby dostępu głównego zbioru witryn i został usunięty.
+Błąd 404 jest odbierany, gdy użytkownicy próbują uzyskać dostęp do witryny lub pliku w programie SharePoint lub OneDrive. Jest to często spowodowane przez witrynę lub plik lub grupę, która otrzymuje nazwę, została przeniesiona lub usunięta. Na przykład: użytkownicy będą doświadczać błąd 404 próby dostępu do głównego zbioru witryn i został usunięty.
 
-Aby rozwiązać błąd 404 dla strony, która została zmieniona, przeniesiony lub usunięty:
+Aby rozwiązać błąd 404 dla witryny, która została zmieniona, przeniesiona lub usunięta:
 
-Dla klasycznych stron, które występują w Centrum administracyjnego Classic zobacz [Przywracanie usuniętych zaufany](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
+W przypadku klasycznych witryn, które istnieją w klasycznym centrum administracyjnym, zobacz [Przywracanie usuniętego zbioru witryn](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
 
-Dla nowoczesnych witryn (komunikacji, podłączone do grupy, lub innych witryn) istniejące w Centrum administracyjnego programu SharePoint zobacz [View i przywracanie usunięte witryny w Centrum administracyjnego programu SharePoint](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
+W przypadku nowoczesnych witryn (komunikacji, połączonych z grupą lub innych witryn), które istnieją w nowym centrum administracyjnym programu SharePoint, zobacz [Wyświetlanie i przywracanie usuniętych witryn w nowym centrum administracyjnym programu SharePoint](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
-Aby rozwiązać błąd 404 dla pliku (lub inny element), który został przeniesiony, przeniesiony lub usunięty:
+Aby rozwiązać błąd 404 dla pliku (lub innego elementu), który został zmieniony, przeniesiony lub usunięty:
 
-Przejdź do witryny programu SharePoint lub OneDrive i wyświetlić Kosz z zawartości witryny. Zobacz, [Przywracanie elementów z Kosza witryny programu SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
+Przejdź do witryny programu SharePoint lub OneDrive i wyświetlić Kosz z zawartości witryny. Zobacz, [przywracanie elementów w koszu witryny programu SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
 
-Jeśli nadal nie można znaleźć elementu można przeszukiwać dziennik inspekcji, jeśli rejestrowanie jest włączone zobacz [wyszukiwania dziennika inspekcji w & zabezpieczeń usługi Office 365 Centrum zgodności](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).
+Jeśli nadal nie można znaleźć elementu można przeszukiwać dziennik inspekcji, jeśli rejestrowanie jest włączone Zobacz, [Wyszukaj dziennik inspekcji w Office 365 Security & Compliance Center](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).

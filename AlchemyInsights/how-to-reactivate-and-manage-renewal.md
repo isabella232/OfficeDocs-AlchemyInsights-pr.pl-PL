@@ -1,5 +1,5 @@
 ---
-title: Jak uaktywnić i zarządzać odnowienia
+title: Jak ponownie aktywować i zarządzać odnawianiem
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,37 +13,37 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5b9674920eb28cd48805ecab72cdf6f4149d62e3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663970"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739323"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Jak uaktywnić i zarządzać cykliczną
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Jak ponownie aktywować i zarządzać rozliczeniami cyklicznymi
 
-Wygląda jak masz subskrypcję, którego ważność wygasła. Jeśli chcesz ponownie uaktywnić to, tutaj sposób.
+Wygląda na to, że masz subskrypcję, która wygasła. Jeśli chcesz go ponownie uaktywnić, Oto jak to zrobić.
   
-1. W Centrum administracyjnym przejdź do **fakturowania** \> stronę [produktów & usług](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. W centrum administracyjnym przejdź na stronę usługi **fakturowania** \> [produktów _amp_](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Znajdź subskrypcję, którą chcesz ponownie uaktywnić. W sekcji **płatności** wybierz **ponownie uaktywnić**.
+2. Znajdź subskrypcję, którą chcesz ponownie uaktywnić. W sekcji **rozliczenia** wybierz opcję **Aktywuj ponownie**.
 
-    Jeśli nie widzisz **reaktywować** jako opcja, użyj przycisku "Potrzebujesz pomocy", aby porozmawiać z pracownikiem pomocy technicznej, aby ponownie aktywować swoją subskrypcję.
+    Jeśli nie widzisz opcji **reaktywuj** jako opcję, użyj przycisku "potrzebujesz pomocy", aby porozmawiać z pracownikiem pomocy technicznej, aby ponownie aktywować subskrypcję.
 
-3. Potwierdź szczegóły płatności. Można zaktualizować istniejące informacje o płatności w tym miejscu. Po zakończeniu wprowadzania metodę płatności wybierz **ponownie uaktywnić**.
+3. Potwierdź szczegóły płatności. Możesz zaktualizować istniejące informacje o płatności tutaj. Po zakończeniu wprowadzania metody płatności wybierz opcję **Aktywuj ponownie**.
 
-Aby dowiedzieć się więcej, zobacz temat [ponownie aktywować swoją subskrypcję](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Aby dowiedzieć się więcej, zobacz temat [Ponowne uaktywnianie subskrypcji](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
-Do zarządzania, monthly lub yearly fakturowania można przełączyć **rozliczenia cykliczny** lub wyłączyć.
+Aby zarządzać fakturą miesięczną lub roczną, możesz włączyć lub wyłączyć **rozliczenia cykliczne** .
   
-1. W Centrum administracyjnym przejdź do **fakturowania** \> stronę [produktów & usług](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. W centrum administracyjnym przejdź na stronę usługi **fakturowania** \> [produktów _amp_](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Wybierz subskrypcję, dla którego chcesz zarządzać cykliczną.
+2. Wybierz subskrypcję, dla której chcesz zarządzać rozliczeniami cyklicznymi.
 
-3. W obszarze **fakturowania**, obok **Data odnowienia** lub **wygasa na**wybierz polecenie **Edytuj**.
+3. W obszarze **rozliczenia**obok pozycji **odnawianie** lub **wygasanie**wybierz pozycję **Edytuj**.
 
-4. W okienku **ustawień rozliczeniowych cykliczny** wybierz opcję **Wyłącz,** Aby wyłączyć tę funkcję. Jeśli cykliczną już jest wyłączona, wybierz **miesiąc** lub **raz** ją włączyć.
+4. W okienku **Ustawienia rozliczeń cyklicznych** **Wybierz pozycję Wyłącz,** aby ją wyłączyć. Jeśli rozliczanie cykliczne jest już wyłączone, wybierz opcję **co miesiąc** lub **raz** , aby włączyć tę funkcję.
 
 5. Wybierz opcję **Prześlij zmiany**.
 
-Aby dowiedzieć się więcej, zobacz tematy [Włączanie cykliczne faktury lub wyłączyć](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Aby dowiedzieć się więcej, zobacz [Włączanie lub wyłączanie rozliczeń cyklicznych](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

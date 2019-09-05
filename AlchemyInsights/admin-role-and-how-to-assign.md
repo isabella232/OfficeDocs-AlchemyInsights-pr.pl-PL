@@ -1,5 +1,5 @@
 ---
-title: Rola administratora i przypisywania
+title: Rola administratora i sposób przypisywania
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,20 +13,20 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: ebab0e09aa2eb4a1605a44a670489fbe5660be32
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493926"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737092"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Co to są role administratora i jak można je przypisać?
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Co to są role administratora i jak je przypisać?
 
-Wygląda na niektóre pytania dotyczące ról administratora. Artykuły te należy odpowiedzieć na wszystkie pytania.
+Wygląda na to, masz kilka pytań dotyczących ról administratora. Te artykuły powinny odpowiedzieć na wszystkie pytania.
   
-- [Role administratora usługi Office 365  informacje](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
+- [Informacje o rolach administratorów](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
 
-- [Przypisywanie ról administratora](https://support.office.com/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
+- [Przypisywanie ról administratora](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
 
-Nie odpowie na pytanie? Nie ma sprawy! Opcja "Daj nam Ciebie zadzwonić" aby porozmawiać z pracownikiem pomocy technicznej.
+Nie odpowiedzieli na Twoje pytanie? Nie ma sprawy! Użyj opcji "Pozwól nam zadzwonić do Ciebie", aby porozmawiać z pracownikiem pomocy technicznej.
   

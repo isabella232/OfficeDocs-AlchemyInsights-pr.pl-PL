@@ -1,5 +1,5 @@
 ---
-title: Konfigurowanie subskrypcji O365 Business Essentials
+title: Konfigurowanie subskrypcji usługi 365 Business Essentials
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 5/3/2018
@@ -8,39 +8,39 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: c6c98b6fcfef6ca6f84810eb92ec0d1b90ff3379
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e6b2d98f166e3af5eb9786106e5c117c3ffd109f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508901"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744723"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>Konfigurowanie subskrypcji O365 Business Essentials
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>Konfigurowanie subskrypcji usługi 365 Business Essentials
 
-Tworzenie kont usługi Office 365 i dodawania domeny
+Tworzenie kont pakietu Office 365 i Dodawanie domeny
   
-- W tym kroku używasz Kreatora instalacji do tworzenia kont usługi Office 365 dla użytkowników i dodawać własnej domeny. Kreator umożliwia spersonalizowanie każdy identyfikator użytkownika i adres e-mail dla Twojej firmy, takich jak [rob@contoso.com](mailto:rob@contoso.com).
+- W tym kroku kreator instalacji służy do tworzenia kont użytkowników pakietu Office 365 i dodawania własnej domeny. Kreator umożliwia personalizację identyfikatora użytkownika i adresu e-mail dla firmy, na przykład [Rob@contoso.com](mailto:rob@contoso.com).
     
-- Przejdź do [Centrum administracyjnego usługi Microsoft 365](https://login.partner.microsoftonline.cn/).
+- Przejdź do [Centrum administracyjnego Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- Aby uruchomić kreatora, wybierz polecenie **Przejdź do instalacji**. Aby dowiedzieć się więcej, zobacz [Dodawanie użytkowników i domeny do usługi Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+- Aby uruchomić kreatora, wybierz **Przejdź do konfiguracji**. Aby dowiedzieć się więcej, zobacz [Dodawanie domeny do pakietu Office 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
     
-Import wiadomości e-mail
+Importowanie wiadomości e-mail
   
-- Przenieść do istniejącej wiadomości e-mail i kontaktów z innymi systemami poczty e-mail do skrzynki pocztowej usługi Office 365 tak aby był widoczny w jednym miejscu. Dla opcji migracji, [Migracja wiadomości e-mail i kontaktów do usługi Office 365](https://support.office.com/Article/Migrate-email-and-contacts-to-Office-365-a3e3bddb-582e-4133-8670-e61b9f58627e).
+- Przenieś istniejący adres e-mail i kontakty z innych systemów poczty e-mail do skrzynki pocztowej 365 pakietu Office, dzięki czemu można zobaczyć wszystko w jednym miejscu. W przypadku opcji migracji [Przeprowadź migrację poczty e-mail i kontaktów do pakietu Office 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
     
 - Łączenie kont e-mail
     
-  - Oprócz zarządzania adres e-mail usługi Office 365 w programie Outlook, inne konta e-mail do programu Outlook, można połączyć także, takich jak konta Gmail i Yahoo. Dzięki temu można zarządzać wszystkie wiadomości e-mail w jednym miejscu. Można podłączyć maksymalnie 5 konta e-mail do programu Outlook. Więcej szczegółów znajdziesz [Połącz konta e-mail w programie Outlook w sieci web (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - Oprócz zarządzania pocztą e-mail 365 pakietu Office w programie Outlook można również łączyć inne konta e-mail z programem Outlook, takie jak konta Gmail i Yahoo. Dzięki temu można zarządzać wszystkich wiadomości e-mail w jednym miejscu. Do programu Outlook można podłączyć maksymalnie 5 kont e-mail. Zobacz [Łączenie kont e-mail w programie Outlook w sieci Web (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) , aby uzyskać więcej informacji. 
     
-Zainstaluj usługę Skype dla firm
+Instalowanie programu Skype dla firm
   
-- Wszystkich członków zespołu można [pobrać i zainstalować program Skype dla firmy](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) na wszystkie komputery PC, Mac, tabletki i telefony. Następnie będzie można zobaczyć stan online współpracowników, zacznij rozmowy z innych aplikacji pakietu Office i hosta wideo spotkania z udziałem do 250 osób. 
+- Ty i Twoi członkowie zespołu możesz [pobrać i zainstalować Skype'a dla firm](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) na wszystkich swoich komputerach PC, Mac, tabletach i telefonach. Następnie będziesz mógł zobaczyć status online współpracowników, rozpoczynać rozmowy z innych aplikacji pakietu Office i organizować spotkania wideo z maksymalnie 250 osobami. 
     
-Przechowywanie plików w trybie online
+Przechowywanie plików online
   
-- Aby dowiedzieć się, jakich lokalizacjach przechowywania są najlepsze dla Twojej firmy, zobacz [przechowywania plików w usłudze Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Każdy ma miejsce przechowywania chmury **OneDrive** automatycznie podczas tworzenia konta w usłudze Office 365 dla nich. OneDrive umożliwia dostęp do plików między komputerami, telefonami i tabletki. 
+- Aby dowiedzieć się, które lokalizacje przechowywania są najlepsze dla Twojej firmy, zobacz [gdzie można przechowywać pliki w pakiecie Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Każdy Pobiera lokalizację magazynu w chmurze **usługi OneDrive** automatycznie podczas tworzenia kont pakietu Office 365 dla nich. Dzięki usłudze OneDrive możesz uzyskiwać dostęp do plików na komputerach, telefonach i tabletach. 
     
-W [tym artykule](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials)znajdują się szczegółowe informacje na temat konfiguracji.
+Szczegółowe kroki konfiguracji można znaleźć w [tym artykule](https://docs.microsoft.com/office365/admin/setup/setup).
   
 

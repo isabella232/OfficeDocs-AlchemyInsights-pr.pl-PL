@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: c73358ebfbdede5b4e43ca2c35146f6611958e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c41bfd9d25c8aa946a4ec5156be6d2424f4e2133
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495869"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737487"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Rozwiązywanie problemów z bibliotekami programu SharePoint mapowane dyski sieciowe
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Rozwiązywanie problemów z bibliotekami programu SharePoint zamapowanymi na dyski sieciowe
 
-Podczas przechodzenia do zmapowanego dysku sieciowego, może zostać wyświetlony jeden z następujących komunikatów:
+Podczas przeglądania zamapowanego dysku sieciowego może zostać wyświetlony jeden z następujących komunikatów:
   
-- **\\Ścieżka nie jest dostępny. Nie masz uprawnień do używania tego zasobu sieciowego. Skontaktuj się z administratorem tego serwera, aby dowiedzieć się, czy masz uprawnienia dostępu.**
+- **\\Ścieżka nie jest dostępna. Być może nie masz uprawnień do korzystania z tego zasobu sieciowego. Skontaktuj się z administratorem tego serwera, aby dowiedzieć się, czy masz uprawnienia dostępu.**
 
-- **Odmowa dostępu. Przed otwarciem plików w tej lokalizacji, należy najpierw dodać witrynę sieci web do listy zaufanych witryn, przejdź do witryny sieci web i wybrać opcję logowania automatycznego.**
+- **Odmowa dostępu. Przed otwarciem plików w tej lokalizacji należy najpierw dodać witrynę sieci Web do listy zaufanych witryn, przejść do witryny sieci Web i wybrać opcję automatycznego logowania.**
 
-[Pomoc, rozwiązywanie problemów z zmapowanych dysków sieciowych](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+[Uzyskaj pomoc w rozwiązywaniu problemów z mapowanymi dyskami sieciowymi](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
-Mapowanie biblioteki jako dysk sieciowy jest tymczasowy i obsługiwane tylko w programie Internet Explorer. Zamiast tego, [Zsynchronizuj pliki programu SharePoint z nowego klienta synchronizacji OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) zawierający [Pliki na żądanie](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Dostęp do wszystkich plików w OneDrive bez użycia lokalnej pamięci masowej.
+Mapowanie biblioteki jako dysku sieciowego jest tymczasowe i obsługiwane tylko w programie Internet Explorer. Zamiast tego [Synchronizuj pliki programu SharePoint z nowym klientem synchronizacji OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , który zawiera [pliki na żądanie](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Dostęp do wszystkich plików w usłudze OneDrive bez użycia lokalnego miejsca do magazynowania.
   

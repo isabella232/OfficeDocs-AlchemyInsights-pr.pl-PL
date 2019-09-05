@@ -1,22 +1,22 @@
 ---
-title: OneDrive witryny Provisioning
-ms.author: kirks
+title: Aprowizacja witryny OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: 47442a6e557e8a06e14898ea77b8faa9b01b0024
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5f8e57185da938d10b86f0617182c28526f47f63
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543179"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753122"
 ---
-# <a name="onedrive-site-provisioning"></a>OneDrive witryny Provisioning
+# <a name="onedrive-site-provisioning"></a>Aprowizacja witryny OneDrive
 
-Dla nowo tworzonego konta użytkownicy muszą zalogować się do portalu Office 365 własne konto i kliknij ikonę OneDrive, aby ręcznie uruchomić świadczenia w witrynie OneDrive.
+W przypadku nowo utworzonych kont użytkownicy muszą zalogować się do centrum administracyjnego Microsoft 365 z własnym kontem i kliknąć ikonę OneDrive, aby ręcznie uruchomić Udostępnianie witryny OneDrive.
 
-Jednakże jeśli już po kliknięciu ikony OneDrive i jego witryny osobistej nie jest zaopatrzona w ciągu 24 godzin, należy zalogować się pomocy technicznej, aby uzyskać dalszą pomoc.
+Jeśli jednak użytkownik kliknie ikonę OneDrive, a jego osobista witryna nie zostanie zainicjowana w ciągu 24 godzin, należy zalogować bilet pomocy technicznej, aby uzyskać dalszą pomoc.
 

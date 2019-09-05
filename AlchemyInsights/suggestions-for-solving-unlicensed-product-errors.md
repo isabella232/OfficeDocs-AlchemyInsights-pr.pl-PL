@@ -1,5 +1,5 @@
 ---
-title: Sugestie dotyczące rozwiązywania błędów "Produkt bez licencji"
+title: Sugestie dotyczące rozwiązywania problemów z błędami "produkt nielicencjonowany"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501053"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743283"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Sugestie dotyczące rozwiązywania błędów "Produkt bez licencji"
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Sugestie dotyczące rozwiązywania błędów "produkt nielicencjonowany"
 
-Upewnij się, że masz subskrypcję, który pozwala klientów licencje, takie jak Office 365 Business lub Business Premium i [Upewnij się, że użytkownik ma licencję przypisane](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Dezaktywuj instalację](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) do sprawdzania, czy przekroczono liczbę instalacji obsługiwane w ramach subskrypcji.
+Upewnij się, że masz subskrypcję, która zezwala na licencje klienta, takie jak Office 365 Business lub Business Premium, i upewnij się, że [użytkownik ma przypisaną licencję](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Dezaktywuj instalację](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) , aby sprawdzić, czy przekroczyłeś liczbę instalacji obsługiwanych przez twoją subskrypcję.
   
-Upewnij się, że użytkownik jest logowanie przy użyciu tego samego konta, który ma Licencja przypisana.
+Upewnij się, że użytkownik jest logowanie przy użyciu tego samego konta, które ma przypisaną licencję.
   
-Uruchomić [Rozwiązywanie problemów z aktywacją](https://aka.ms/SARA-OfficeActivation-Alchemy).
+Uruchom [Narzędzie do rozwiązywania problemów z aktywacją](https://aka.ms/SARA-OfficeActivation-Alchemy).
   
-Sprawdź, czy Twój status subskrypcji wygasł
+Sprawdź, czy stan subskrypcji wygasł
   
-Sprawdź [strony kondycji usługi Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) , aby sprawdzić, czy są wszelkie znane problemy z usługą.
+Sprawdź [Office 365 usługi kondycji strony](https://docs.microsoft.com/office365/enterprise/view-service-health) , aby sprawdzić, czy są znane problemy z usługą.
   
-[Wykonać naprawy pakietu Office w trybie Online](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
+[Przeprowadzić naprawę online pakietu Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-Aby uzyskać dodatkowe rozwiązania problemów, zobacz: [produkt bez licencji i błędów aktywacji pakietu Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+Aby uzyskać dodatkowe rozwiązania dotyczące rozwiązywania problemów, zobacz: [nielicencjonowane produkty i błędy aktywacji w pakiecie Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   

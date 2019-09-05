@@ -1,6 +1,6 @@
 ---
-title: Są zaprzestano publicznych witryn internetowych programu SharePoint
-ms.author: kirks
+title: Usługi SharePoint Online publicznych witryn sieci Web są wycofane
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 1/2/2019
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 079a63defe8b5e21d84f042ef32231a2e34d1c2c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a499e71407df388ef30b0bdd4d2c46184f13d0e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534609"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750314"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>Publicznych witryn internetowych programu SharePoint nie jest już dostępny.
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>Usługi SharePoint Online publicznych witryn sieci Web zostały wycofane
 
-Publicznych witryn internetowych programu SharePoint zostały wycofane.
+Usługi SharePoint Online publicznych witryn sieci Web zostały przerwane.
 
-Jeśli utworzono programu SharePoint Online publicznej witryny sieci Web, udało Ci się jej nadal używać przez 31 marca 2018. Jeśli chcesz nadal masz publicznych witryn sieci Web, należy utworzyć nową z nowego dostawcy. Usunięto zawartość na publicznej witryny programu SharePoint w trybie Online.
+Jeśli utworzono publiczną witrynę sieci Web programu SharePoint Online, można było kontynuować korzystanie z niej przez 31 marca 2018. Jeśli chcesz kontynuować publiczną witrynę sieci Web, musisz utworzyć nową z nowym dostawcą. Zawartość witryny publicznej w usłudze SharePoint Online została usunięta.
 
-Aby informacji o zaprzestaniu publicznych witryn sieci Web zobacz [szczegółowe informacje dotyczące procesu przerwania funkcji](https://go.microsoft.com/fwlink/?linkid=866980).
+Aby uzyskać informacje o przerwaniu publicznej witryny sieci Web, zobacz [szczegóły dotyczące procesu przerwania funkcji](https://go.microsoft.com/fwlink/?linkid=866980).

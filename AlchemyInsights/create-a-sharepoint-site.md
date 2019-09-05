@@ -14,27 +14,27 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 96780bd2f4182c1385406ec2a31cd62745137985
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515817"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738207"
 ---
 # <a name="create-a-sharepoint-site"></a>Tworzenie witryny programu SharePoint
 
-Można wyświetlić następujące informacje dla informacji na temat tworzenia witryn programu SharePoint:
-- [Zarządzanie witrynami w Centrum administracyjnego programu SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation): Dowiedz się więcej o opcji tworzenia witryny, w tym sposobu tworzenia klasyczne witryny lub witryny zespołów, który nie zawiera grupę w usłudze Office 365.
-- [Utwórz witrynę zespołu w programie SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US): Dowiedz się, jak utworzyć witrynę zespołu.
-- [Utwórz witrynę komunikacji w dokumentacji Online programu SharePoint](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Dowiedz się, jak utworzyć witrynę komunikacji.
-- [Zarządzanie witrynami w Centrum administracyjnego programu SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Dowiedz się, jak utworzyć klasyczne witryny lub witryny zespołu, który nie zawiera grupę w usłudze Office 365.
+Można wyświetlić następujące informacje dotyczące tworzenia witryny programu SharePoint:
+- [Zarządzaj witrynami w nowym centrum administracyjnym programu SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation): Dowiedz się więcej o opcjach tworzenia witryny, w tym o sposobie tworzenia klasycznej witryny lub witryny zespołów, która nie zawiera grupy 365 pakietu Office.
+- [Tworzenie witryny zespołu w programie SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d): Dowiedz się, jak utworzyć witrynę zespołu.
+- [Tworzenie witryny komunikacji w programie SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Dowiedz się, jak utworzyć witrynę komunikacji.
+- [Zarządzaj witrynami w nowym centrum administracyjnym programu SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Dowiedz się, jak utworzyć klasyczną witrynę lub witrynę zespołu, która nie zawiera grupy 365 pakietu Office.
 
 
   
-> [! Porady]
-> - Nie można utworzyć witryny z tego samego adresu URL istniejącej witryny. Jeśli usunięte z witryny i chcą ponownie użyć adresu URL, jest możliwe, usunięte strony nadal istnieje w obszarze **witryny elementów usuniętych**. Aby zarządzać usunięte witryn, zobacz [Usuwanie witryny](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Aby całkowicie usunąć witryny przy użyciu programu Powershell, zobacz przykład polecenia cmdlet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-> - Niektórym użytkownikom nie można utworzyć lokację. Zobacz [Tworzenie witryny Zarządzanie w dokumentacji Online programu SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation).
-> - Jest możliwe, witryna zostanie wyświetlone zatrzymany na **Tworzenie** dłużej, niż oczekiwano. Jeśli więcej niż 24 godziny minęło po raz pierwszy zobaczył ten problem, należy zalogować się do pomocy technicznej. W wielu przypadkach już pracujemy nad rozwiązaniem. Podaj co najmniej 24 godziny, aby ukończyć rozwiązania.
-> - Jeśli zachodzi konieczność utworzenia nowej witryny zespołu, który nie zawiera grupę usługi Office 365 
+> [! Wskazówki
+> - Nie można utworzyć witryny o tym samym adresie URL istniejącej witryny. Jeśli usunięto witrynę i chcą ponownie użyć adresu URL, jest możliwe, że usunięte witryny nadal istnieje w obszarze **usuniętych witryn**. Aby zarządzać usuniętymi witrynami, zobacz [usuwanie witryny](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Aby całkowicie usunąć witrynę za pomocą programu PowerShell, zobacz przykład polecenia cmdlet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
+> - Niektórzy użytkownicy mogą nie być w stanie utworzyć witryny. Zobacz [Zarządzanie tworzeniem witryn w usłudze SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+> - Jest możliwe, że witryna pojawia się zatrzymany na **Tworzenie** dłużej niż oczekiwano. Jeśli minęło więcej niż 24 godziny od pierwszego zobaczyłem ten problem, należy zalogować bilet pomocy technicznej. W wielu przypadkach pracujemy już nad rozwiązaniem. Proszę dać nam co najmniej 24 godziny, aby zakończyć rozwiązanie.
+> - Jeśli musisz utworzyć nową witrynę zespołu, która nie zawiera grupy 365 pakietu Office, 
 
 

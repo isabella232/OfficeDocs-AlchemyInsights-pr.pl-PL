@@ -1,5 +1,5 @@
 ---
-title: Nazwa wyświetlana zmiana 959
+title: 959 zmiana nazwy wyświetlanej
 ms.author: pdigia
 author: pebaum
 ms.date: 7/17/2018
@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519813"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736731"
 ---
-# <a name="change-your-display-name"></a>Zmiana nazwy wyświetlanej
+# <a name="change-your-display-name"></a>Zmienianie nazwy wyświetlanej
   
-Aby zmienić nazwy wyświetlanej w programie Outlook, wykonaj następujące kroki.
+Aby zmienić nazwę wyświetlaną w programie Outlook, wykonaj następujące kroki.
   
-1. W programie Outlook, wybierz **plik** \> **Ustawienia konta** \> **Ustawienia konta**.
+1. W programie Outlook wybierz Ustawienia konta **pliku** \> **Ustawienia** \> **konta.**
 
-2. Zaznacz konto e-mail, a następnie wybierz **zmianę**.
+2. Wybierz konto e-mail, a następnie wybierz pozycję **Zmień**.
 
     > [!NOTE]
-    > Jeśli opcja zmiany nazwy wyświetlanej nie jest widoczny, prawdopodobnie używasz konta e-mail programu Microsoft Exchange. W takim przypadku należy skontaktować się z administratorem, aby zmienić nazwę wyświetlaną. Zobacz [Zmienianie nazwy użytkownika i adres e-mail w usłudze Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).
+    > Jeśli nie widzisz opcji zmiany nazwy wyświetlanej, prawdopodobnie korzystasz z konta e-mail programu Microsoft Exchange. W takim przypadku należy skontaktować się z administratorem, aby zmienić nazwę wyświetlaną. Zobacz [Zmienianie nazwy użytkownika i adresu e-mail w pakiecie Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
-3. Po zmianie nazwy wyświetlanej, kliknij przycisk **OK** , aby zapisać zmiany. To może potrwać kilka godzin zmiany odzwierciedlają w całej organizacji.
+3. Po zmianie nazwy wyświetlanej kliknij przycisk **OK** , aby zapisać zmiany. Może potrwać kilka godzin, aby zmiany odzwierciedlały w całej organizacji.
 
-Aby uzyskać więcej informacji zobacz temat [Zmienianie nazwy wyświetlanej, zobacz adresatów wiadomości e-mail](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
+Aby uzyskać więcej informacji, zobacz [Zmienianie nazwy wyświetlanej, którą widzą Adresaci poczty e-mail](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
   

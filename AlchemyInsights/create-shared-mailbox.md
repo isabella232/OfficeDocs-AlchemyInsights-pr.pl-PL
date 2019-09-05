@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2329ee5-86b7-4803-990e-f4222120faf2
-ms.openlocfilehash: 82c3d79554db65161f55486003c3299ef1e160ec
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: b6ad094a291169bfc76d4c46e8fac1f268684fe6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631832"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740943"
 ---
 # <a name="create-a-shared-mailbox"></a>Tworzenie udostępnionej skrzynki pocztowej
 
-Współdzielonej skrzynki pocztowej umożliwia więcej niż jedna osoba, wysyłanie i odbieranie wiadomości e-mail dla danego aliasu, takich jak sales@contoso.com, bez przypisywania innej licencji. 
+Udostępniona skrzynka pocztowa pozwala więcej niż jednej osobie wysyłać i odbierać wiadomości e-mail dla aliasu, na przykład sales@contoso.com, bez przypisywania innej licencji. 
 
-Zobacz [Tworzenie udostępnionej skrzynki pocztowej](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) dla porady i więcej informacji o korzystaniu z udostępnionej skrzynki pocztowej. 
+Zobacz artykuł [Tworzenie udostępnionej skrzynki pocztowej](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) porady i więcej informacji na temat korzystania z udostępnionej skrzynki pocztowej. 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Ustawianie lub zmienianie uprawnień do folderu publicznego
+title: Ustawianie lub Zmienianie uprawnień do folderów publicznych
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: 3f891beeba8303b05d6730f608034e22b2bcdb92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1015c2203406e15d6b418c387b6632a182d6d2ff
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550165"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734679"
 ---
-# <a name="permissions-and-public-folders"></a>Uprawnienia i folderów publicznych
+# <a name="permissions-and-public-folders"></a>Uprawnienia i foldery publiczne
 
-Można zmienić uprawnienia na folderów publicznych za pomocą programu Outlook, Centrum administracyjnego programu Exchange (EAC) lub środowiska PowerShell:
+Uprawnienia do folderów publicznych można zmienić za pomocą programu Outlook, centrum administracyjnego programu Exchange (EAC) lub programu PowerShell:
   
 - Aby uzyskać instrukcje programu Outlook, [kliknij tutaj](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
     
-- SKK można znaleźć [w tym artykule](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) , aby uzyskać instrukcje. Możesz kliknąć [tutaj](https://support.office.com/article/ https://outlook.office365.com/ecp/.aspx) , aby przejść do SKK. 
+- Dla EAC, zapoznaj się z [tym artykułem](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) , aby uzyskać instrukcje. 
     
-- Powershell można znaleźć w [tym artykule](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) instrukcje dotyczące używania apletu Dodaj-PublicFolderClientPermission. Jeśli potrzebujesz instrukcji w celu połączenia do środowiska PowerShell programu Exchange, kliknij [tutaj](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
+- Dla programu PowerShell, odnoszą się do [tego artykułu](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) , aby uzyskać instrukcje dotyczące korzystania z apletu Dodaj PublicFolderClientPermission. Jeśli potrzebujesz instrukcji nawiązywania połączenia z programem Exchange PowerShell, kliknij [tutaj](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
     
-Jeśli **Użytkownicy zewnętrzni nie można wysłać wiadomości e-mail do folderu publicznego z włączoną obsługą poczty e-mail**, przyczyna może być zobowiązany że folder publiczny jest brak uprawnienia do dostarczania poczty zewnętrznej. Można to naprawić, zgodnie z instrukcjami programu Outlook [tutaj](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)lub instrukcje programu PowerShell [w tym miejscu](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).
+Jeśli **użytkownicy zewnętrzni nie mogą wysyłać wiadomości e-mail do folderu publicznego z włączoną obsługą poczty**e-mail, powodem może być brak uprawnień wymaganych do dostarczania zewnętrznej poczty elektronicznej w folderze publicznym. Można to naprawić za pomocą instrukcji programu Outlook w tym [miejscu](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)lub instrukcje programu PowerShell [tutaj](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).
   
 

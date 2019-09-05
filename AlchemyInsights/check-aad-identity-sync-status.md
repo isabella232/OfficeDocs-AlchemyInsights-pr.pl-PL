@@ -1,5 +1,5 @@
 ---
-title: Sprawdź stan synchronizacji tożsamości AAD
+title: Sprawdź stan synchronizacji tożsamości usługi AAD
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: eb69643f1760aa69ee45637b2099220ce4359692
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520569"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738531"
 ---
-# <a name="check-aad-identity-sync-status"></a>Sprawdź stan synchronizacji tożsamości AAD
+# <a name="check-aad-identity-sync-status"></a>Sprawdź stan synchronizacji tożsamości usługi AAD
 
 Sprawdzanie stanu synchronizacji jest łatwe:
   
-- Zaloguj się do Centrum administracyjnego usługi Microsoft 365 i wybierz **Stan DirSync** na stronie głównej.
+- Zaloguj się do centrum administracyjnego Microsoft 365 i wybierz opcję **stan DirSync** na stronie głównej.
 
-- Alternatywnie, można przejść do użytkowników \> aktywnych użytkowników, a na stronie aktywnych użytkowników, wybierz polecenie więcej \> synchronizacji katalogów.
+- Alternatywnie można przejść do użytkowników \> aktywnych użytkowników, a na stronie aktywnych użytkowników, wybierz polecenie więcej \> synchronizacji katalogów.
 
-- W okienku synchronizacji katalogów wybierz polecenie Przejdź do zarządzania DirSync.
+- W okienku Synchronizacja katalogów wybierz pozycję Przejdź do zarządzania programem DirSync.
 
-Jeśli występuje problem z Twoim synchronizacji katalogów, błędy są wymienione na tej stronie. Aby uzyskać więcej informacji na temat różnych błędów, które mogą wystąpić zobacz [Identyfikowanie błędy synchronizacji katalogu w usłudze Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
+Jeśli występuje problem z synchronizacją katalogów, błędy są wyświetlane na tej stronie. Aby uzyskać więcej informacji na temat różnych błędów, które mogą wystąpić, zobacz [wyświetlanie błędów synchronizacji katalogów w pakiecie Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

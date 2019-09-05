@@ -13,12 +13,12 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 0edb3f738f55406ba97872311f1bde907e0ed6c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501701"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743355"
 ---
 # <a name="solutions-for-error-30068-39"></a>Rozwiązania dla błędu 30068-39
 
@@ -26,14 +26,14 @@ Wypróbuj te rozwiązania, aby naprawić błąd [30068-39](https://support.offic
   
 - Uruchom ponownie komputer i spróbuj [zainstalować pakiet Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Sprawdź, czy **Moduł Szybka instalacja Microsoft**[Usługa jest wyłączona](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) , a jeśli jest ono wyłączone, należy zmienić stan na **Ręczny** lub **Automatyczny**.
+- Sprawdź, czy usługa **szybka szybka Microsoft** [jest wyłączona](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) , a jeśli jest wyłączona, Zmień stan na **ręczny** lub **automatyczny**.
 
-- Pobierz i zainstaluj [wsparcia i Asystenta](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Pobierz i zainstaluj [asystenta pomocy technicznej i odzyskiwania](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Po jego otwarciu, z **produktów Odinstaluj pakiet Office** zaznacz wersję, którą chcesz odinstalować, a następnie wybierz przycisk **Dalej**.
+1. Po otwarciu, z **odinstalować produkty pakietu Office** wybierz wersję, którą chcesz odinstalować i wybierz **dalej**.
 
-2. Kontynuuj przechodzenie przez ekrany i uruchom ponownie komputer po wyświetleniu monitu.
+2. Kontynuuj przeglądanie ekranów i ponownie uruchom komputer po wyświetleniu monitu.
 
-    Po ponownym uruchomieniu komputera, pomoc techniczną i Asystenta automatycznie ponownie otwiera aby zakończyć proces odinstalowywania.
+    Po ponownym uruchomieniu asystent pomocy technicznej i odzyskiwania automatycznie otworzy się ponownie, aby ukończyć proces dezinstalacji.
 
-3. Wykonaj pozostałe monity i [ponowne zainstalowanie pakietu Office](https://portal.office.com/OLS/MySoftware.aspx) lub zamknąć Asystenta.
+3. Wykonaj pozostałe monity i [Zainstaluj ponownie pakiet Office](https://portal.office.com/OLS/MySoftware.aspx) lub Zamknij asystenta.

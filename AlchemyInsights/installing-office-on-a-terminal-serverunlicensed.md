@@ -1,5 +1,5 @@
 ---
-title: Instalowanie pakietu office na serwerze terminali - bez licencji
+title: Instalowanie pakietu Office na serwerze terminali — bez licencji
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,44 +11,44 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498425"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735399"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Instalowanie pakietu Office na serwerze terminali
 
-Do wdrażania pakietu Office 365 ProPlus na serwerze systemu Windows za pomocą usług pulpitu zdalnego (RDS), dawniej usług terminalowych:
+Aby wdrożyć pakiet Office 365 ProPlus w systemie Windows Server przy użyciu usług pulpitu zdalnego (RDS), dawniej nazywanych usługami terminalowymi:
   
-- Musi mieć plan Office 365, który uwzględnia Office 365 ProPlus, takich jak Office 365 Enterprise E3 lub Enterprise E5. Nie obejmują Office 365 ProPlus planów Office 365 Business i Office 365 Business Premium.
+- Musi mieć plan 365 pakietu Office, który zawiera pakiet Office 365 ProPlus, takich jak Office 365 Enterprise E3 lub Enterprise E5. Plany Office 365 Business i Office 365 Business Premium nie zawierają pakietu Office 365 ProPlus.
 
-- Musisz włączyć [aktywacją udostępnionego komputera](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Należy włączyć [aktywację udostępnionego komputera](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Jeśli chcesz zainstalować Office 365 ProPlus na licencji RDS z portalu Office 365, ***który używa domyślnych ustawień instalacji***, wykonaj następujące kroki:
+Jeśli chcesz zainstalować pakiet Office 365 ProPlus na RDS z centrum administracyjnego Microsoft 365, ***który używa domyślnych ustawień instalacji***, wykonaj następujące kroki:
   
-1. Sprawdź, jaki masz plan Office 365. [Dowiedz się, jak](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Sprawdź, co masz plan 365 Office. [Dowiedz się, jak](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Jeśli jest planowane konieczne, przełącz się do innej usługi Office 365. [Dowiedz się, jak](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Jeśli to konieczne, przełącz się do innego pakietu Office 365 plan. [Dowiedz się, jak](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. Jeśli pakiet Office jest już zainstalowany na serwerze usług pulpitu zdalnego za pomocą innych planów usługi Office 365, należy go odinstalować. Na przykład, przechodząc do panelu sterowania \> Odinstalowywanie programu. Należy odinstalować, przy użyciu [pomocy technicznej firmy Microsoft i Asystenta](https://aka.ms/SARA-OfficeUninstall-Alchemy) , jeśli pracujesz w kwestii.
+3. Jeśli pakiet Office jest już zainstalowany na serwerze usług pulpitu zdalnego przy użyciu innych planów pakietu Office 365, odinstaluj go. Na przykład, przechodząc do panelu \> sterowania Odinstaluj program. Odinstaluj, korzystając z [pomocy technicznej firmy Microsoft i asystenta odzyskiwania](https://aka.ms/SARA-OfficeUninstall-Alchemy) , jeśli masz problemy z uruchamianiem.
 
-4. Na serwerze usług pulpitu zdalnego należy zalogować się do portalu Office 365 z konta administratora i [zainstalować Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
+4. Na serwerze RDS Zaloguj się do centrum administracyjnego Microsoft 365 z kontem administratora i [Zainstaluj pakiet Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Po zainstalowaniu pakietu Office, ***nie otwieraj ani Zaloguj się*** do dowolnych aplikacji pakietu Office.
+5. Po zainstalowaniu pakietu Office ***nie otwieraj ani nie logujesz*** się do żadnych aplikacji pakietu Office.
 
-6. Na serwerze usług pulpitu zdalnego Włącz aktywację udostępnionego komputera przez edycję rejestru, wykonaj następujące czynności:
+6. Na serwerze usług pulpitu zdalnego Włącz aktywację udostępnionego komputera, edytując rejestr, wykonując następujące kroki:
 
-1. Kliknij prawym przyciskiem myszy przycisk okna w lewym dolnym rogu ekranu, a następnie wybierz polecenie Uruchom. W polu Otwórz wpisz **regedit**, a następnie wybierz przycisk OK.
+1. Kliknij prawym przyciskiem myszy przycisk Windows w lewym dolnym rogu ekranu i wybierz polecenie Uruchom. W polu Otwórz wpisz **regedit**, a następnie wybierz przycisk OK.
 
-2. Wybierz tak, gdy pojawi się monit, aby umożliwić Edytora rejestru dokonywać zmian w urządzeniu.
+2. Wybierz opcję tak po wyświetleniu monitu, aby zezwolić edytorowi rejestru na wprowadzanie zmian w urządzeniu.
 
-3. W Edytorze rejestru, Dodaj wartość ciągu **SharedComputerLicensing** o ustawienie 1 pod HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+3. W Edytorze rejestru Dodaj wartość ciągu **Sharedcomputerlicensing** z ustawieniem 1 pod HKEY_LOCAL_MACHINE\Software\Microsoft \Office\ClickToRun\Configuration.
 
-7. Na serwer RDS, ***Zaloguj się jako użytkownik końcowy*** i [Sprawdź, czy aktywacją udostępnionego komputera jest włączone dla Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Na serwerze usług pulpitu zdalnego ***Zaloguj się jako użytkownik końcowy*** i [Sprawdź, czy aktywacja udostępnionego komputera jest włączona dla pakietu Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
-Aby uzyskać więcej informacji dotyczących wymagań wstępnych, Instalator instrukcje i wytyczne na dostosowanej instalacji przy użyciu narzędzia do wdrażania pakietu Office zobacz [Wdrażanie pakietu Office 365 ProPlus za pomocą usług pulpitu zdalnego](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Aby uzyskać więcej informacji na temat wymagań wstępnych, instrukcje instalacji i wskazówki dotyczące instalacji dostosowanych za pomocą narzędzia wdrażania pakietu Office, zobacz [wdrażanie pakietu office 365 ProPlus przy użyciu usług pulpitu zdalnego](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
-Aby naprawić błędy związane z aktywacją udostępnionego komputera, zobacz [Rozwiązywanie problemów z aktywacją udostępnionego komputera pakietu Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Aby naprawić błędy związane z aktywacją komputera udostępnionego, zobacz [Rozwiązywanie problemów z aktywacją komputera udostępnionego dla pakietu Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
   

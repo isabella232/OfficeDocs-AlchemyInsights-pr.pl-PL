@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z konfiguracją dla strumienia - Zarządzanie licencjonowaniem strumienia
+title: Rozwiązywanie problemów z konfiguracją dla strumienia — Zarządzanie licencjonowaniem strumienia
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 7c1a870c8dff53c937e98bc3f690b237762b1638
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559203"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742635"
 ---
-# <a name="managing-microsoft-stream-licenses"></a>Zarządzanie licencjami Stream firmy Microsoft
+# <a name="managing-microsoft-stream-licenses"></a>Zarządzanie licencjami Microsoft Stream
 
-**Ważne:** Musisz być w roli administracji dzierżawczej, aby wykonać czynności opisane w tym temacie.
+**Ważne:** Musisz być w roli administratora dzierżawy do wykonywania operacji opisanych w tym temacie.
 
-Użytkownik musi być administratorem globalnym lub administrator zarządzania użytkownikami. Aby uzyskać więcej informacji zobacz [temat usługi Office 365 admin ról](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d).
+Musisz być administratorem globalnym lub administratorem zarządzania użytkownikami. Aby uzyskać więcej informacji, zobacz [temat role administratorów](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).
 
-Można przypisać [licencje do kont użytkowników przy użyciu programu PowerShell programu Office 365](https://go.microsoft.com/fwlink/p/?linkid=850410).
+Licencje można przypisywać [do kont użytkowników za pomocą programu Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).
