@@ -1,5 +1,5 @@
 ---
-title: Przenoszenie wiadomości e-mail do skrzynki pocztowej archiwum
+title: Przenoszenie wiadomości e-mail do archiwalnej skrzynki pocztowej
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,26 +12,26 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: ce52df446fc4c23c06476e8836ade6a6810d158f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5592bc7d4566e3498c33bbf9488db7f46ec58842
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549013"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822172"
 ---
-# <a name="move-email-to-the-archive-mailbox"></a>Przenoszenie wiadomości e-mail do skrzynki pocztowej archiwum
+# <a name="move-email-to-the-archive-mailbox"></a>Przenoszenie wiadomości e-mail do archiwalnej skrzynki pocztowej
 
-1. Upewnij się, że **archiwum skrzynki pocztowej** zostało włączone. Jeśli tak nie jest, wykonaj kroki w [tym artykule](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) , aby umożliwić archiwum skrzynki pocztowej.
+1. Potwierdź, że została włączona **archiwalna skrzynka pocztowa** . Jeśli nie, wykonaj kroki opisane w [tym artykule](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) , aby włączyć archiwalną skrzynkę pocztową.
 
-2. Aby zarchiwizować wiadomości automatycznie do archiwum skrzynki pocztowej, tag przechowywania za pomocą operacji **Przenieś do archiwum** musi być równa **stosowane automatycznie do znaczników całej skrzynki pocztowej (ustawienie domyślne)**. Wykonaj kroki w tym miejscu, aby utworzyć znacznik: [domyślne archiwum tag](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Foffice365%2Fsecuritycompliance%2Fset-up-an-archive-and-deletion-policy-for-mailboxes%23create-a-custom-archive-default-policy-tag&data=04%7C01%7Cstephow%40microsoft.com%7C89934e16dbd84ebdef6708d6b319b348%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636893320296576506%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C-1&sdata=UibWi%2BtrO3ITZ6iF%2FtKQj5JyxzEb9Mu9frBJPT6FNFI%3D&reserved=0).
+2. Aby automatycznie archiwizować wiadomości w archiwalnej skrzynce pocztowej, znacznik przechowywania z akcją **Przenieś na archiwizację** musi być ustawiony na **automatycznie zastosowany do całej skrzynki pocztowej (domyślnie)**. Wykonaj poniższe kroki, aby utworzyć znacznik: [Archive default tag](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
-3. Następnie należy dodać tag **archiwum** do zasad przechowywania. W Centrum administracyjnego programu Exchange, wybierz **Zasady przechowywania** > dodać **Przenieś do archiwum tag** do > zasady **zapisywania**.
+3. Następnie Dodaj tag **archiwum** do zasad przechowywania. W centrum administracyjnego programu Exchange wybierz **zasady przechowywania** > Dodaj **Przenieś do archiwum tag** do zasady > **Zapisz**.
 
-4. Teraz [Przypisywanie zasad przechowywania](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) do skrzynki pocztowej danego użytkownika. Takie same zasady zostaną zastosowane do **podstawowego** i **archiwum** skrzynki pocztowej.
+4. Teraz [Przypisz zasady przechowywania](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) do skrzynki pocztowej określonego użytkownika. Te same zasady zostaną zastosowane zarówno do **podstawowej** , jak i **archiwalnej** skrzynki pocztowej.
 
-Może być konieczne wymuszenie zarządzanych folderów Asystenta (MFA) do uruchomienia i Zastosuj nowe ustawienia do skrzynki pocztowej danego użytkownika. Uruchom następujące polecenie podczas [podłączony do środowiska PowerShell EKSO](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) uruchomić Asystenta folderów zarządzanych w konkretnej skrzynce pocztowej:
+Może być konieczne wymuszenie Asystenta folderów zarządzanych (MFA), aby uruchomić i zastosować nowe ustawienia do skrzynki pocztowej użytkownika. Uruchom następujące polecenie podczas [połączenia z EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) , aby uruchomić Asystenta folderów zarządzanych dla określonej skrzynki pocztowej:
   
-Start-ManagedFolderAssistant-tożsamości<name of the mailbox>
+Start-ManagedFolderAssistant-tożsamość<name of the mailbox>
 
-Aby uzyskać więcej informacji o konfigurowaniu zasad archiwizacji zobacz [Konfigurowanie zasad archiwizacji i usuwania dla skrzynek pocztowych](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Aby uzyskać więcej informacji o konfigurowaniu zasad archiwizacji, zobacz [Konfigurowanie zasad archiwizacji i usuwania dla skrzynek pocztowych](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   

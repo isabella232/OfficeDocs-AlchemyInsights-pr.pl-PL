@@ -1,5 +1,5 @@
 ---
-title: Powiadomienia Facebook Hotmail
+title: Outlook.com powiadomienia na Facebooku
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 80ddadfedb5a8a0dff2a7b9cf371e03fae58bdff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e389deb7347e13c0e4ba658da4d355ffe11049c
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536985"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822115"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>Powiadomienia Facebook za pomocą Hotmail
+# <a name="facebook-notifications-using-outlookcom"></a>Powiadomienia na Facebooku za pomocą Outlook.com
 
-Jeśli nie chcesz otrzymywać powiadomienia o z serwisem Facebook, możesz zmienić [Ustawienia Facebook](https://www.facebook.com/settings?tab=notifications) lub skonfigurować reguły skrzynki odbiorczej.
+Jeśli nie chcesz otrzymywać powiadomień z Facebooka, możesz zmienić [ustawienia Facebooka](https://aka.ms/facebook-notifications-settings) lub skonfigurować regułę skrzynki odbiorczej.
 
-1. Przejdź do [ustawień zasad](https://outlook.live.com/mail/options/mail/rules/inboxRules).
+1. Przejdź do [ustawień reguł](https://outlook.live.com/mail/options/mail/rules/inboxRules).
 1. Wybierz **Dodaj nową regułę**.
-1. Nazwa reguły "Facebook".
-1. Dodaj warunek "Od", aby wprowadzić "notification@facebookmail.com"
-1. Dodaj akcję "Usuń". Wybranie Usuń wiadomości oznacza, że pozostają w Twoim folderze Elementy usunięte i mogą być odzyskane. Jeśli wybierzesz opcję "Oznacz jako wiadomości-śmieci", wiadomości będą automatycznie usuwane i nie mogą być odzyskane.
+1. Nazwij regułę "Facebook".
+1. Dodaj warunek "od" i wpisz "notification@facebookmail.com"
+1. Dodaj akcję "Usuń". Wybranie opcji Usuń oznacza, że wiadomości pozostaną w usuniętych elementach i można je odzyskać. Jeśli wybierzesz opcję "Oznacz jako spam", wiadomości zostaną automatycznie usunięte i nie będzie można ich odzyskać.
 1. Wybierz pozycję **Zapisz**.

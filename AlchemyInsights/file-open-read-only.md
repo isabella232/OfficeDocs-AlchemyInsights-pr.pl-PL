@@ -1,5 +1,5 @@
 ---
-title: Otwieranie pliku tylko do odczytu
+title: Plik otwarty tylko do odczytu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,43 +9,46 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 5c28d5f1c6951971aab329060e24b8458e848dd7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "765"
+- "2200014"
+ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525681"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822244"
 ---
-# <a name="file-open-read-only"></a>Otwieranie pliku tylko do odczytu
+# <a name="file-open-read-only"></a>Plik otwarty tylko do odczytu
 
-Może się okazać, że otwierając pliki, otworzyć jako tylko do odczytu. W niektórych przypadkach to aby zwiększyć bezpieczeństwo, takie jak otwierając pliki z Internetu, a innym razem, mogą występować z powodu ustawienia, które mogą być zmieniane. Poniżej przedstawiono kilka scenariuszy, w którym plik zostanie otwarty tylko do odczytu i czynności, jakie można podjąć, aby to zmienić.
+Może się okazać, że podczas otwierania plików, otwierają się jako tylko do odczytu. W niektórych przypadkach jest to dla dodatkowych zabezpieczeń, takich jak podczas otwierania plików z Internetu, a inne czasy, może być ze względu na ustawienie, które mogą być zmieniane. Oto kilka scenariuszy, w których plik otwiera tylko do odczytu i niektóre kroki można podjąć, aby zmienić.
   
- **Mój program antywirusowy jest przyczyną je otworzyć tylko do odczytu**
+ **Mój program antywirusowy powoduje otwarcie tylko do odczytu**
   
-Niektóre programy antywirusowe mogą chronić potencjalnie niebezpiecznych plików przez otwarcie ich jako tylko do odczytu. Należy skontaktować się z dostawcą oprogramowania antywirusowego, aby dowiedzieć się, jak dostosować te ustawienia. BitDefender, na przykład ma zawartość na dodanie wykluczeń aplikacji tutaj: [jak dodać aplikację lub wykluczenia procesu w centrum sterowania Bitdefender](https://www.bitdefender.com/support/how-to-add-application-or-process-exclusions-in-bitdefender-control-center-1119.mdl).
+Niektóre programy antywirusowe mogą chronić Cię przed potencjalnie niebezpiecznymi plikami, otwierając je tylko do odczytu. Aby dowiedzieć się, jak dostosować te ustawienia, konieczne może być sprawdzenie u dostawcy oprogramowania antywirusowego. Na przykład BitDefender zawiera treści dotyczące dodawania wykluczeń aplikacji tutaj: [jak dodać wykluczenia aplikacji lub procesu w BitDefender Control Center](https://aka.ms/AA6098i).
   
- **Właściwości pliku ustawiono atrybut tylko do odczytu?**
+ **Czy właściwości pliku są ustawione na tylko do odczytu?**
   
-Można sprawdzić właściwości pliku prawym przyciskiem myszy plik i wybierz polecenie Właściwości. Jeśli atrybut tylko do odczytu jest zaznaczone, można usunąć jego zaznaczenie i kliknij OK.
+Właściwości pliku można sprawdzić, klikając prawym przyciskiem myszy plik i wybierając polecenie Właściwości. Jeśli atrybut tylko do odczytu jest zaznaczony, można odznaczyć go i kliknij przycisk OK.
   
  **Zawartość jest w widoku chronionym**
   
-Pliki z Internetu i innych potencjalnie niebezpiecznych lokalizacjach mogą zawierać wirusy, robaki lub inne rodzaje złośliwego oprogramowania, które mogą uszkodzić komputer. Jest to również często z załączników wiadomości e-mail lub pliki pobrane. Aby pomóc w ochronie tego komputera, pliki z lokalizacji tych potencjalnie niebezpieczne są otwierane w widoku chronionym. Za pomocą widoku chronionego, można czytać pliku i wyświetlić jego zawartość przy jednoczesnym zmniejszeniu ryzyka. Aby uzyskać więcej informacji w widoku chronionym i sposobu zmieniania ustawień, w tym artykule: [Co to jest widok chroniony?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Pliki z Internetu i z innych potencjalnie niebezpiecznych lokalizacji mogą zawierać wirusy, robaki lub inne rodzaje złośliwego oprogramowania, które może uszkodzić komputer. Jest to również często w przypadku załączników e-mail lub pobranych plików. Aby ułatwić ochronę komputera, pliki z tych potencjalnie niebezpiecznych lokalizacji są otwierane w widoku chronionym. Za pomocą widoku chronionego można odczytać plik i wyświetlić jego zawartość, jednocześnie zmniejszając ryzyko. Aby uzyskać więcej informacji o widoku chronionym i sposobie zmieniania ustawień, zobacz ten artykuł: [co to jest Widok chroniony?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **OneDrive jest zapełniony?**
+ **Czy usługa OneDrive jest pełna?**
   
-Jeśli plik jest przechowywany na OneDrive i z przestrzeni magazynowania jest pełny, nie można zapisać dokumentu, dopóki nie są pod przydzielonego miejsca. Wolne miejsce na dysku OneDrive można sprawdzić, klikając ikonę OneDrive w Centrum powiadomień i wybierając polecenie Zarządzanie magazynem, lub możesz przejść do [http://onedrive.live.com](http://onedrive.live.com), zaloguj się i zanotuj ilość zajętego miejsca w dolnym lewym rogu ekranu.
+Jeśli plik jest przechowywany w usłudze OneDrive, a przestrzeń dyskowa usługi OneDrive jest zapełcona, nie będzie można zapisać dokumentu, dopóki nie znajdujesz się pod wyznaczonym miejscem. Możesz sprawdzić swoje wolne miejsce w OneDrive, klikając ikonę OneDrive w centrum powiadomień i wybierając Zarządzaj magazynem, lub możesz przejść do [http://onedrive.live.com](http://onedrive.live.com), zaloguj się i Zanotuj ilość używanego miejsca w lewym dolnym rogu ekranu.
   
- **Urząd jest aktywowany?**
+ **Czy pakiet Office jest aktywowany?**
   
-Jeśli pakietu Office nie jest aktywowany lub jeśli Twoja subskrypcja wygasła, może być w trybie tylko do odczytu trybie zmniejszonej funkcjonalności. Szczegółowe informacje na temat aktywacji pakietu Office: [produkt bez licencji i błędów aktywacji pakietu Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Jeśli pakiet Office nie jest aktywowany lub subskrypcja wygasła, może być w trybie ograniczonej funkcjonalności tylko do odczytu. Aby uzyskać informacje dotyczące sposobu aktywowania pakietu Office, zobacz: [nielicencjonowane produkty i błędy aktywacji w pakiecie Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
- **Jeśli wszystkie inne źródła zawiodą...**
+ **Jeśli wszystko inne zawiedzie...**
   
 - Spróbuj ponownie uruchomić komputer
     
-- Zainstaluj aktualizacje pakietu Office
+- Instalowanie aktualizacji pakietu Office
     
-- Wykonać naprawy w trybie Online pakietu Office
+- Przeprowadź naprawę online pakietu Office
     
 

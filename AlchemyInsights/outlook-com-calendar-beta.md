@@ -1,5 +1,5 @@
 ---
-title: 9000198 Kalendarz Hotmail w wersji Beta
+title: 9000198 Outlook.com kalendarz beta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 8e76edd920a86445b2edc4745d39538233413c04
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75622ce992347e11dee57b3ba1b080bc498cda5b
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548149"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821992"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nowy kalendarz doświadczeń, przybywających do Hotmail
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nowy kalendarz doświadczeń przybywających do Outlook.com
 
-Nowy wygląd przynosi najlepsze projekty i wiedza z poczty doświadczenie w kalendarzu.
+Nowy wygląd przynosi najlepsze projekty i wiedza z doświadczenia mail do kalendarza.
 
-Docenisz Nowoczesny projekt, który upraszcza wizualne i daje szybsze sposobów nawigacji kalendarza. Jest również ułatwia znajdowanie interesujących kalendarzy do swoich ulubionych zajęć — od TV pokazuje klubów sportowych i wydarzenia.
+Będziesz cieszyć się nowoczesnym designie, który redukuje bałagan wizualny i daje szybsze sposoby poruszania się po kalendarzu. Łatwiej jest również znaleźć interesujące kalendarze dla swoich ulubionych zajęć — od programów telewizyjnych po drużyny sportowe i wydarzenia.
 
-Możemy rozwinięta nasz zbiór ikony zdarzeń i aktualizacja wygląd istniejących — i teraz automatycznie dodawać ikony do wydarzeń, więc można łatwo zobaczyć, co się dzieje na pierwszy rzut oka.
+Rozszerzyliśmy naszą kolekcję ikon zdarzeń i Zaktualizowaliśmy wygląd istniejących-a teraz automatycznie dodajemy odpowiednie ikony do wydarzeń, dzięki czemu można łatwo zobaczyć, co się dzieje na pierwszy rzut oka.
 
-Można przesłać opinię na temat nowych funkcji za pośrednictwem [kanału UserVoice Kalendarz Hotmail](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197).
+Można przekazać opinię na temat nowych funkcji za pośrednictwem [Outlook.com Calendar UserVoice kanału](https://go.microsoft.com/fwlink/?linkid=2103075).
