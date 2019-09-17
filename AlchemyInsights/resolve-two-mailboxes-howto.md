@@ -1,5 +1,5 @@
 ---
-title: 1374 rozwiązać dwa poradniki skrzynek pocztowych
+title: 1374 Rozwiązywanie dwóch skrzynek pocztowych HOWTO
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,16 @@ ms.custom:
 - "1374"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 10fae9040b1d5d75a318721f0300ba722361e8c7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1307e13bf76e0b2afc9038333533d708f5d12f7f
+ms.sourcegitcommit: 16f08d051afca3c6d0de32826324f91cf63ab5ba
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369855"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36992079"
 ---
 # <a name="a-user-has-two-mailboxes"></a>Użytkownik ma dwie skrzynki pocztowe
 
-Środowiskach hybrydowych, które używają Azure Active Directory Connect (Połącz AAD) lub DirSync przypadkowo może spowodować użytkownik powinien mieć dwóch skrzynek pocztowych: jeden w organizacji lokalnej, a drugi w chmurze.
+Środowisk hybrydowych, które używają Azure Active Directory Connect (AAD Connect) lub DirSync może przypadkowo spowodować, że użytkownik ma dwie skrzynki pocztowe: jeden lokalnie i jeden w chmurze. Zduplikowaną skrzynkę pocztową można utworzyć w dowolnym miejscu.
 
-Aby rozwiązać ten problem, zobacz [Trwale wyczyść poprzednie skrzynki pocztowej Info](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/).
+Aby rozwiązać ten problem, zobacz [Jak odzyskać, gdy skrzynka pocztowa istnieje w programie Exchange Online i lokalnie](https://docs.microsoft.com/en-us/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Jeśli chcesz dowiedzieć się więcej o tym, jak tego uniknąć w przyszłości, zobacz [mój użytkownik ma skrzynkę pocztową zarówno lokalnie, jak i w programie Exchange Online. Pomoc!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+
