@@ -1,5 +1,5 @@
 ---
-title: Aby zezwolić na określone wiadomości do filtrowania spamu bypass 2637?
+title: 2637 pomijanie filtrowania spamu, aby zezwolić na określone wiadomości?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -8,15 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 2637
+ms.custom:
+- "2637"
+- "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 6a6a119f6ba32df474d44421f0571e882d1fe6ee
-ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
+ms.openlocfilehash: 8d8c9b56c61c17be1001bf9723bc4b5ecbfba031
+ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36406554"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37122172"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a><span data-ttu-id="86bc6-102">Pomijanie filtrowanie spamu, aby umożliwić określonych wiadomości?</span><span class="sxs-lookup"><span data-stu-id="86bc6-102">Bypass spam filtering to allow specific messages?</span></span>
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a><span data-ttu-id="fb0c4-102">Czy pominąć filtrowanie spamu, aby zezwolić na określone wiadomości?</span><span class="sxs-lookup"><span data-stu-id="fb0c4-102">Bypass spam filtering to allow specific messages?</span></span>
 
-<span data-ttu-id="86bc6-103">Firma Microsoft zaleca [ostrożność](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) podczas tworzenia listy dozwolonych.</span><span class="sxs-lookup"><span data-stu-id="86bc6-103">We recommend [caution](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) when you create an allow list.</span></span> <span data-ttu-id="86bc6-104">Na przykład jeśli zezwolisz na własnej domeny, złośliwe nadawców będzie mógł sfałszować i Wyślij jako domeny.</span><span class="sxs-lookup"><span data-stu-id="86bc6-104">For example, if you allow your own domain, malicious senders will be able to spoof and send as your domain.</span></span>  <span data-ttu-id="86bc6-105">Zamiast tego zaleca się to [wyniki fałszywie dodatnie przewodnik rozwiązywania problemów](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), co pomoże określić, dlaczego uzasadniony wiadomość została oznaczona jako spam i co można zrobić, aby bezpiecznie umożliwić dostarczenie wiadomości.</span><span class="sxs-lookup"><span data-stu-id="86bc6-105">Instead, we recommend this [false positives troubleshooting guide](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), which will help you to determine why a legitimate message was marked as spam, and what you can do to safely allow delivery of the message.</span></span>
+<span data-ttu-id="fb0c4-103">Zaleca się [ostrożność](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) podczas tworzenia listy dozwolonych.</span><span class="sxs-lookup"><span data-stu-id="fb0c4-103">We recommend [caution](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) when you create an allow list.</span></span> <span data-ttu-id="fb0c4-104">Na przykład, Jeśli zezwolisz na własną domenę, złośliwi nadawcy będą mogli podszyzać się i wysyłać jako domenę.</span><span class="sxs-lookup"><span data-stu-id="fb0c4-104">For example, if you allow your own domain, malicious senders will be able to spoof and send as your domain.</span></span>  <span data-ttu-id="fb0c4-105">Zamiast tego zalecamy ten [Przewodnik rozwiązywania problemów z fałszywymi pozytywnymi](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), który pomoże Ci ustalić, dlaczego wiarygodna wiadomość została oznaczona jako spam, i co możesz zrobić, aby bezpiecznie zezwolić na dostarczanie wiadomości.</span><span class="sxs-lookup"><span data-stu-id="fb0c4-105">Instead, we recommend this [false positives troubleshooting guide](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), which will help you to determine why a legitimate message was marked as spam, and what you can do to safely allow delivery of the message.</span></span>
