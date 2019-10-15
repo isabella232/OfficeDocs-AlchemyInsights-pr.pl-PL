@@ -1,5 +1,5 @@
 ---
-title: Dużych list programu SharePoint
+title: Duże listy programu SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,16 +13,33 @@ ms.custom:
 - "407"
 - "530001"
 ms.assetid: ee07bf74-7aeb-4c47-8f5d-f496d6c09d79
-ms.openlocfilehash: f900287067e7f570de770f7e2098ba62b8086ef8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 222ad554de0d94dcfd4e34e9a2c6aa8ab4e6f81f
+ms.sourcegitcommit: d7e1b097d3866782f508527c797426dc56c6ba17
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508577"
+ms.lasthandoff: 10/14/2019
+ms.locfileid: "37488527"
 ---
-# <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>Praca z dużymi listami i bibliotekami programu SharePoint
+# <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>Praca z dużymi list i bibliotek w programie SharePoint
 
-List programu SharePoint i bibliotek może zawierać maksymalnie 30 milionów elementów, ale kiedy mają ponad 5000 pozycji, może wystąpić błąd dotyczący próg widoku listy podczas pracy z nimi. Próg ten jest w celu utrzymania odpowiedniej wydajności usługi. Nie można zmienić. Aby uniknąć uderzenia ten próg, możesz [dodać indeks](https://go.microsoft.com/fwlink/?linkid=867784), [filtry użytkownika, aby zmienić widok](https://go.microsoft.com/fwlink/?linkid=867786), organizowanie elementów w folderach lub pracy z bibliotekami dokumentów zsynchronizowanych lokalnie na komputerze.
-  
-[Więcej porad dotyczących pracy w ramach próg widoku listy](https://go.microsoft.com/fwlink/?linkid=867787)
-  
+Listy programu SharePoint i bibliotek może zawierać maksymalnie 30 000 000 elementów, ale gdy mają więcej niż 5 000 elementów, może zostać wyświetlony próg widoku listy błąd podczas próby pracy z nimi. Próg ten jest w miejscu, aby utrzymać wydajność usługi. Nie można go zmienić. Aby uniknąć uderzenia w ten próg:
+
+**Korzystaj z nowoczesnych**
+
+Widoki przedstawiające wiele elementów działają najlepiej w nowoczesnym doświadczeniu. [Korzystaj z nowoczesnych doświadczeń](https://support.office.com/article/66dac24b-4177-4775-bf50-3d267318caa9) , aby uniknąć błędów, które mogą być widoczne w klasycznym doświadczeniu.
+
+**Dodawanie indeksów**
+
+Podczas filtrowania lub sortowania według kolumny, która nie ma indeksu, może zostać wyświetlony komunikat o błędzie. [Dodaj indeks](https://support.office.com/article/f3f00554-b7dc-44d1-a2ed-d477eac463b0) ręcznie z **Ustawienia listy** w menu ustawień, a następnie **kolumny indeksowane**.
+
+**Edycja widoku listy**
+
+Jeśli wystąpi błąd podczas pracy z dużą listą, [Edytuj widok listy](https://support.office.com/article/15916903-e79a-423f-b4e2-02d37e1ff372).
+
+Następujące cztery zmiany usunie błędy próg widoku listy. Dokonaj wszystkich czterech zmian, aby usunąć wszystkie błędy. Jeśli nadal otrzymujesz błędy, sprawdź [Zarządzaj dużymi listami i bibliotekami](https://support.office.com/article/B8588DAE-9387-48C2-9248-C24122F07C59).
+
+1. Wybierz opcję **Brak** z obu **pierwszego sortowania według kolumny** , a **następnie Sortuj według kolumny**.
+2. Wybierz **Brak** z obu **pierwszej grupy przez kolumnę** , a **następnie Grupuj według kolumny**.
+3. Wybierz opcję **Brak** dla wszystkich kolumn w sekcji **sumy** .
+4. Odznacz wszystkie oprócz jednej kolumny do wyświetlenia w sekcji **kolumny** .
+
