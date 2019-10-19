@@ -1,5 +1,5 @@
 ---
-title: Wdrażanie bezszwowe rejestracji jednokrotnej
+title: Wdrażanie bezproblemowego logowania jednokrotnego
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
 ms.openlocfilehash: 0d91638e3b4f3ab0912730dbda47c42d9ae19c16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36512793"
 ---
-# <a name="enable-seamless-sso"></a><span data-ttu-id="3eb72-102">Włączanie rejestracji Jednokrotnej bez szwu</span><span class="sxs-lookup"><span data-stu-id="3eb72-102">Enable Seamless SSO</span></span>
+# <a name="enable-seamless-sso"></a><span data-ttu-id="0c3b2-102">Włącz bezproblemowe logowanie jednokrotne</span><span class="sxs-lookup"><span data-stu-id="0c3b2-102">Enable Seamless SSO</span></span>
 
-<span data-ttu-id="3eb72-103">Azure usługi Active Directory (Azure AD) bez szwu rejestracji jednokrotnej (SSO bez szwu) automatycznie zaloguje się użytkowników, gdy znajdują się one na ich komputerami firmowymi, które są podłączone do sieci firmowej.</span><span class="sxs-lookup"><span data-stu-id="3eb72-103">Azure Active Directory (Azure AD) Seamless Single Sign-On (Seamless SSO) automatically signs in users when they are on their corporate desktops that are connected to your corporate network.</span></span>
+<span data-ttu-id="0c3b2-103">Azure Active Directory (Azure AD) bezproblemowe logowanie jednokrotne (bezproblemowe logowanie jednokrotne) automatycznie loguje się użytkowników, gdy są one na ich firmowych pulpitów, które są podłączone do sieci firmowej.</span><span class="sxs-lookup"><span data-stu-id="0c3b2-103">Azure Active Directory (Azure AD) Seamless Single Sign-On (Seamless SSO) automatically signs in users when they are on their corporate desktops that are connected to your corporate network.</span></span>
   
-[<span data-ttu-id="3eb72-104">Wykonaj kroki opisane w tym artykule, aby umożliwić płynną usługi rejestracji Jednokrotnej</span><span class="sxs-lookup"><span data-stu-id="3eb72-104">Follow the steps in this article to enable Seamless SSO</span></span>](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
+[<span data-ttu-id="0c3b2-104">Wykonaj kroki opisane w tym artykule, aby włączyć bezproblemowe logowanie jednokrotne</span><span class="sxs-lookup"><span data-stu-id="0c3b2-104">Follow the steps in this article to enable Seamless SSO</span></span>](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   
 

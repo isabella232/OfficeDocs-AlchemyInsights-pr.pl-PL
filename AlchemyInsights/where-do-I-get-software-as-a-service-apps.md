@@ -1,5 +1,5 @@
 ---
-title: Gdzie uzyskać oprogramowanie jako usługa (SaaS) aplikacji?
+title: Gdzie mogę uzyskać oprogramowanie jako usługa (SaaS) Apps?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,12 +13,12 @@ ms.custom:
 - "9000562"
 - "2421"
 ms.openlocfilehash: 6788a534d19521db98eb3ba59536cebeb02e190c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558555"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a><span data-ttu-id="dec38-102">Gdzie uzyskać aplikacje oprogramowania jako usługi (SaaS) dla partnerów firmy Microsoft?</span><span class="sxs-lookup"><span data-stu-id="dec38-102">Where do I get software-as-a-service (SaaS) apps from Microsoft partners?</span></span>
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a><span data-ttu-id="5d210-102">Gdzie mogę uzyskać aplikacje oprogramowanie jako usługa (SaaS) od partnerów firmy Microsoft?</span><span class="sxs-lookup"><span data-stu-id="5d210-102">Where do I get software-as-a-service (SaaS) apps from Microsoft partners?</span></span>
 
-<span data-ttu-id="dec38-103">Klienci mogą wyszukiwać, badań i zakup aplikacji SaaS z [AppSource](http://www.appsource.com/).</span><span class="sxs-lookup"><span data-stu-id="dec38-103">Customers can search for, research, and purchase SaaS apps from [AppSource](http://www.appsource.com/).</span></span>
+<span data-ttu-id="5d210-103">Klienci mogą wyszukiwać, badać i kupować aplikacje SaaS w usłudze [AppSource](http://www.appsource.com/).</span><span class="sxs-lookup"><span data-stu-id="5d210-103">Customers can search for, research, and purchase SaaS apps from [AppSource](http://www.appsource.com/).</span></span>

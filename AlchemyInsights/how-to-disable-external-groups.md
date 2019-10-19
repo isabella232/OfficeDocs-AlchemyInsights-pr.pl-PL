@@ -12,23 +12,23 @@ ms.custom:
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
 ms.openlocfilehash: b2328ea85d3ff6ec722cc56d8a46395d8438f79c
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36739503"
 ---
-# <a name="how-to-disable-external-groups"></a><span data-ttu-id="3d532-102">Jak wyłączyć grupy zewnętrzne</span><span class="sxs-lookup"><span data-stu-id="3d532-102">How to disable External Groups</span></span>
+# <a name="how-to-disable-external-groups"></a><span data-ttu-id="38d7d-102">Jak wyłączyć grupy zewnętrzne</span><span class="sxs-lookup"><span data-stu-id="38d7d-102">How to disable External Groups</span></span>
 
-<span data-ttu-id="3d532-103">Yammer wiadomości zewnętrznych stosuje zasady transportu Exchange (ETRs), zestaw aktywnych formantów, aby zapobiec udostępnianiu informacji o firmie.</span><span class="sxs-lookup"><span data-stu-id="3d532-103">Yammer external messaging applies Exchange Transport Rules (ETRs), a set of proactive controls to prevent company information from being shared.</span></span> <span data-ttu-id="3d532-104">Aby ograniczyć użytkownikom tworzenie grup zewnętrznych, należy skonfigurować regułę transportu programu Exchange (ETR), a następnie skonfigurować Yammer do używania reguły transportu programu Exchange do blokowania wiadomości zewnętrznych.</span><span class="sxs-lookup"><span data-stu-id="3d532-104">In order to restrict users from creating external groups, you need to configure an Exchange transport rule (ETR), and then configure Yammer to use the Exchange Transport rule to block external messaging.</span></span>
+<span data-ttu-id="38d7d-103">Yammer wiadomości zewnętrznych stosuje zasady transportu Exchange (ETRs), zestaw aktywnych formantów, aby zapobiec udostępnianiu informacji o firmie.</span><span class="sxs-lookup"><span data-stu-id="38d7d-103">Yammer external messaging applies Exchange Transport Rules (ETRs), a set of proactive controls to prevent company information from being shared.</span></span> <span data-ttu-id="38d7d-104">Aby ograniczyć użytkownikom tworzenie grup zewnętrznych, należy skonfigurować regułę transportu programu Exchange (ETR), a następnie skonfigurować Yammer do używania reguły transportu programu Exchange do blokowania wiadomości zewnętrznych.</span><span class="sxs-lookup"><span data-stu-id="38d7d-104">In order to restrict users from creating external groups, you need to configure an Exchange transport rule (ETR), and then configure Yammer to use the Exchange Transport rule to block external messaging.</span></span>
   
-<span data-ttu-id="3d532-105">Po utworzeniu reguły w centrum administracyjnym programu Exchange Online, wykonaj następujące kroki, aby ustawić ETR do zastosowania w Yammer:</span><span class="sxs-lookup"><span data-stu-id="3d532-105">Once you have created a rule in Exchange Online admin center, follow these steps to set ETR to apply in Yammer:</span></span>
+<span data-ttu-id="38d7d-105">Po utworzeniu reguły w centrum administracyjnym programu Exchange Online, wykonaj następujące kroki, aby ustawić ETR do zastosowania w Yammer:</span><span class="sxs-lookup"><span data-stu-id="38d7d-105">Once you have created a rule in Exchange Online admin center, follow these steps to set ETR to apply in Yammer:</span></span>
   
-- <span data-ttu-id="3d532-106">Zaloguj się do Yammer jako zweryfikowanego administratora, a w **centrum administracyjnym Yammer**przejdź do **zawartości C i ustawienia \> zabezpieczeń zabezpieczeń.**</span><span class="sxs-lookup"><span data-stu-id="3d532-106">Log on to Yammer as a verified admin, and in the **Yammer admin center**, go to C **Content and Security \> Security Settings.**</span></span>
+- <span data-ttu-id="38d7d-106">Zaloguj się do Yammer jako zweryfikowanego administratora, a w **centrum administracyjnym Yammer**przejdź do **zawartości C i ustawienia \> zabezpieczeń zabezpieczeń.**</span><span class="sxs-lookup"><span data-stu-id="38d7d-106">Log on to Yammer as a verified admin, and in the **Yammer admin center**, go to C **Content and Security \> Security Settings.**</span></span>
 
-- <span data-ttu-id="3d532-107">W obszarze **wiadomości zewnętrznych**, wybierz opcję **Wymuszaj Exchange Online Exchange Transport Rules (ETRs) w Yammer.**</span><span class="sxs-lookup"><span data-stu-id="3d532-107">Under **External Messaging**, select **Enforce your Exchange Online Exchange Transport Rules (ETRs) in Yammer.**</span></span>
+- <span data-ttu-id="38d7d-107">W obszarze **wiadomości zewnętrznych**, wybierz opcję **Wymuszaj Exchange Online Exchange Transport Rules (ETRs) w Yammer.**</span><span class="sxs-lookup"><span data-stu-id="38d7d-107">Under **External Messaging**, select **Enforce your Exchange Online Exchange Transport Rules (ETRs) in Yammer.**</span></span>
 
-- <span data-ttu-id="3d532-108">Wybierz pozycję **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="3d532-108">Choose **Save**.</span></span>
+- <span data-ttu-id="38d7d-108">Wybierz pozycję **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="38d7d-108">Choose **Save**.</span></span>
 
-<span data-ttu-id="3d532-109">Aby uzyskać więcej informacji, zobacz [wyłączanie obsługi wiadomości zewnętrznych w sieci Yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span><span class="sxs-lookup"><span data-stu-id="3d532-109">For more information, see [Disable external messaging in a Yammer network](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span></span>
+<span data-ttu-id="38d7d-109">Aby uzyskać więcej informacji, zobacz [wyłączanie obsługi wiadomości zewnętrznych w sieci Yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span><span class="sxs-lookup"><span data-stu-id="38d7d-109">For more information, see [Disable external messaging in a Yammer network](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span></span>
   
