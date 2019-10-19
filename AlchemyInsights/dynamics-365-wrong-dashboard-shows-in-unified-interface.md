@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 - niewłaściwy pulpitu nawigacyjnego zawiera w jednolity interfejs Dynamics 365
+title: Dynamics 365-niewłaściwy pulpit nawigacyjny pokazuje w Dynamics 365 Unified Interface
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,34 +10,34 @@ ms.custom:
 - "1484"
 - "6200024"
 ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528561"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Niewłaściwy pulpitu nawigacyjnego zawiera w jednolity interfejs Dynamics 365
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Niewłaściwa pokazuje pulpit nawigacyjny w systemie Dynamics 365 ujednoliconego interfejsu
 
-Istnieje kilka powodów, dla których widzisz pulpitu nawigacyjnego inny niż oczekujesz:
+Istnieje kilka powodów, dla których może zostać wyświetlony inny pulpit nawigacyjny niż ten, którego oczekujesz:
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>Użytkownik ma ustawiony domyślny pulpit nawigacyjny użytkownika 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>Użytkownik ustawił domyślny pulpit nawigacyjny użytkownika 
 
-Zazwyczaj można zidentyfikować użytkownika domyślnego pulpitu nawigacyjnego jest ustawiona, jeśli przycisk **Ustaw jako domyślny** nie jest wyświetlany w pasku poleceń pulpitu nawigacyjnego. Domyślny pulpit nawigacyjny użytkownika zastępują wszystkie inne domyślne pulpity nawigacyjne, nawet jeśli domyślny pulpit nawigacyjny użytkownika nie znajduje się w bieżącej aplikacji.
+Zazwyczaj można zidentyfikować domyślnego pulpitu nawigacyjnego użytkownika jest ustawiona, jeśli przycisk **Ustaw jako domyślne** nie jest wyświetlane na pasku poleceń pulpitu nawigacyjnego. Domyślny pulpit nawigacyjny użytkownika zastąpi wszystkie inne domyślne pulpity nawigacyjne, nawet jeśli domyślny pulpit nawigacyjny użytkownika nie znajduje się w bieżącej aplikacji.
 
-Należy użyć następującego obejścia do odłączenia ich domyślnego pulpitu nawigacyjnego.
+Aby cofnąć ustawienie domyślnego pulpitu nawigacyjnego, należy użyć następującego obejścia.
 
 1. Utwórz nowy osobisty pulpit nawigacyjny.
 
-2. Ustaw ten nowy pulpit nawigacyjny jako domyślnie wybranego przez użytkownika.
+2. Ustaw nowy pulpit nawigacyjny jako domyślny użytkownik.
 
-3. Usunięcie tego pulpitu nawigacyjnego.
+3. Usuń ten pulpit nawigacyjny.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>Pulpit nawigacyjny jest ustawiona w mapie witryny
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>Pulpit nawigacyjny jest ustawiony w mapie witryny
 
-Może ustawiono domyślnego pulpitu nawigacyjnego organizacji zaznaczając pulpitu nawigacyjnego i wybierając opcję "Ustaw jako domyślną" w obszarze "Dostosować System". Ale zdefiniowanego w Projektancie mapy witryny pulpitu nawigacyjnego mają wyższy priorytet niż ten pulpit nawigacyjny, jeśli użytkownik ma dostęp do niego.
+Być może ustawisz domyślny pulpit nawigacyjny organizacji, wybierając pulpit nawigacyjny i wybierając opcję "Ustaw jako domyślne" w obszarze "Dostosuj system". Jednak pulpit nawigacyjny zdefiniowany w projektancie mapy witryny będzie miał pierwszeństwo przed tym panelem nawigacyjnym, jeśli użytkownik ma do niego dostęp.
 
-Aby użytkownicy Zobacz Pulpit nawigacyjny, który został ustawiony jako domyślny organizacji, można:
+Aby użytkownicy zobaczyli pulpit nawigacyjny ustawiony jako domyślny organizacji, możesz:
 
-* Ustaw ten pulpit nawigacyjny mapy witryny
+* Ustawianie tego pulpitu nawigacyjnego w mapie witryny
 
-* Usuwanie dostępu do pulpitu nawigacyjnego mapy witryny zdefiniowane dla tych użytkowników
+* Usuwanie dostępu do pulpitu nawigacyjnego zdefiniowanego w mapie witryny dla tych użytkowników

@@ -1,5 +1,5 @@
 ---
-title: Alchemy - nie można zarejestrować usłudze Hotmail
+title: Alchemia-nie mogę się zalogować do Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 79595b9d-ce9b-44e5-b142-8d6df9cbb427
 ms.openlocfilehash: 6c13c50e66dc8575c5b1803e83b8842c0481511e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36493961"
 ---
-# <a name="cant-sign-in-to-outlookcom"></a>Nie można zarejestrować usłudze Hotmail
+# <a name="cant-sign-in-to-outlookcom"></a>Nie można zalogować się do Outlook.com
 
-Jeśli występują problemy podczas logowania do konta, upewnij się, że Twoje konto nie został nieaktywny dłużej niż 365 dni. Po 365 dni braku aktywności wiadomości e-mail zostaną usunięte i nie będzie można odzyskać.
+Jeśli masz problemy z zalogowaniem się na swoje konto, upewnij się, że Twoje konto nie jest nieaktywne przez więcej niż 365 dni. Po 365 dni bezczynności wiadomość e-mail zostanie usunięta i nie będzie można jej odzyskać.
   
-Twoje konto może być tymczasowo zablokowany, ponieważ Zauważyliśmy nietypową aktywność logowanie. Jeśli Twoje konto zostało zablokowane, przeczytaj porady [Odblokuj mojego konta Hotmail](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx). 
+Twoje konto może zostać tymczasowo zablokowane, ponieważ zauważyliśmy nietypową aktywność logowania. Jeśli Twoje konto jest zablokowane, Przeczytaj, jak [odblokować konto Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx). 
   
-Jeśli podejrzewasz, że włamania się swojego konta Hotmail, zobacz [włamania się konta Hotmail Mój](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).
+Jeśli podejrzewasz, że Twoje konto Outlook.com zostało zhakowane, zobacz [Moje konto Outlook.com zostało zhackowane](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).
   
-Jeśli zapomniane lub nie pamiętasz hasła, możesz [zresetować swoje hasło](https://go.microsoft.com/fwlink/p/?LinkID=242804).
+Jeśli zapomniałeś lub zgubiłeś hasło, możesz [zresetować hasło](https://go.microsoft.com/fwlink/p/?LinkID=242804).
   
-Przeczytaj więcej o [gdy nie możesz się zarejestrować do swojego konta Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Dowiedz się więcej o tym [, kiedy nie możesz zalogować się do swojego konta Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).
   
 

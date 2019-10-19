@@ -1,5 +1,5 @@
 ---
-title: 9000199 plików PST w Hotmail
+title: 9000199 pliki PST w Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,14 +14,14 @@ ms.custom:
 - "1771"
 - "9000199"
 ms.openlocfilehash: 6b4b5bdf5921153c99c4d1eb109ea0579c08eb37
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36535617"
 ---
-# <a name="pst-data-files-in-outlookcom"></a>Pliki danych PST w Hotmail
+# <a name="pst-data-files-in-outlookcom"></a>Pliki danych PST w Outlook.com
 
-Nie jest możliwe do importowania do programu Outlook. Plik danych PST do swojego konta Hotmail za pomocą przeglądarki.
+Importowanie programu Outlook nie jest możliwe. Plik danych PST do konta Outlook.com za pomocą przeglądarki.
 
-Aby zaimportować. Plik danych PST, należy użyć aplikacji pulpitu programu Outlook. Aby dowiedzieć się więcej, przeczytaj [zaimportować wiadomości e-mail, kontaktów i kalendarza z pst programu Outlook.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
+Aby zaimportować. Plik danych PST, należy użyć aplikacji komputerowej Outlook. Aby dowiedzieć się więcej, Przeczytaj [Importowanie wiadomości e-mail, kontaktów i kalendarza z pliku pst programu Outlook](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy) .

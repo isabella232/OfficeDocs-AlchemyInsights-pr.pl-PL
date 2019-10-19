@@ -1,5 +1,5 @@
 ---
-title: Pojawi się czarne tło lub formatowanie komórek nie wygląda właściwie
+title: Pojawia się czarne tło lub formatowanie komórek nie wygląda dobrze
 ms.author: dludwig
 author: dludwig
 manager: jecon
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
 ms.openlocfilehash: 879e482ed3cd80f2918e3cc56f2ba555bccc6f45
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495977"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Pojawi się czarne tło lub formatowanie komórek nie wygląda właściwie
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Pojawia się czarne tło lub formatowanie komórek nie wygląda dobrze
 
-W programie Excel 2016 można zaobserwować nieoczekiwane czarne tło lub mogą być widoczne komórka formatowania, które nie jest wyświetlana prawidłowo. Może się to zdarzyć po dodaniu do nagłówka lub stopki w widoku układu strony i stosowanie wypełnienia wzorkiem do komórki. Ten problem został rozwiązany w wersji 1708 (budować 8431.2094). Aby rozwiązać ten problem, należy zaktualizować do najnowszej wersji pakietu Office. Zaznacz **plik** \> **konta** \> **Aktualizowanie opcji** \> **Aktualizuj teraz**.
+W programie Excel 2016 może pojawić się nieoczekiwane czarne tło lub może zostać wyświetlony formatowanie komórek, które nie są wyświetlane poprawnie. Może się to zdarzyć po dodaniu nagłówka lub stopki w widoku układu strony i zastosowaniu wypełnienia deseniem do komórki. Ten problem został rozwiązany w wersji 1708 (kompilacja 8431,2094). Aby rozwiązać ten problem, należy zaktualizować do najnowszej wersji pakietu Office. Wybierz **** \> **** \> **** opcje \> aktualizacji konta pliku **Aktualizuj teraz**.
   
 

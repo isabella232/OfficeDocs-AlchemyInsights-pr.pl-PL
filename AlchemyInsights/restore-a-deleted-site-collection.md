@@ -1,5 +1,5 @@
 ---
-title: Przywracanie usuniętych witryny
+title: Przywracanie usuniętej witryny
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
 ms.openlocfilehash: 9e4e9ade058c60ecd7a6ce1b2a40c4996ac5676f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552485"
 ---
-# <a name="restore-a-deleted-site"></a>Przywracanie usuniętych witryny
+# <a name="restore-a-deleted-site"></a>Przywracanie usuniętej witryny
 
-Gdy administrator usunie witryny, jest umieszczony w zbiorze witryn Kosza, gdzie jest przechowywany 93 dni, zanim zostanie trwale usunięty. Aby przywrócić witryny:
+Gdy administrator usunie witrynę, zostanie umieszczona w koszu zbioru witryn, gdzie jest przechowywana przez 93 dni, zanim zostanie trwale usunięta. Aby przywrócić witrynę:
   
-1. W nowym Centrum administracji programu SharePoint kliknij przycisk **Kosz** na Wstążce. 
+1. W nowym centrum administracyjnym programu SharePoint kliknij **Kosz** na Wstążce. 
     
-2. Zaznacz pole wyboru obok tego zbioru witryn, które chcesz przywrócić.
+2. Zaznacz pole wyboru obok zbioru witryn, który chcesz przywrócić.
     
-3. Kliknij **Przywracanie elementów usuniętych**.
+3. Kliknij przycisk **Przywróć usunięte elementy**.
     
-Aby odtworzyć witrynę usuniętych komunikacji, można użyć Centrum administracyjnego programu SharePoint. W przeciwnym wypadku należy użyć Microsoft PowerShell. Aby przywrócić witryny, która należy do grupy usługi Office 365, należy przywrócić grupy w Centrum administracyjnego programu Exchange. Grupy można przywrócić w ciągu 30 dni od zostaną usunięte.
+Aby przywrócić usuniętą witrynę komunikacyjną, można użyć nowego centrum administracyjnego programu SharePoint. W przeciwnym razie należy użyć programu Microsoft PowerShell. Aby przywrócić witrynę należącą do grupy 365 pakietu Office, należy przywrócić grupę w centrum administracyjnym programu Exchange. Grupy można przywracać przez 30 dni po ich usunięciu.
   
 

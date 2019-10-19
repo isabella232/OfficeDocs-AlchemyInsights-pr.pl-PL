@@ -1,5 +1,5 @@
 ---
-title: Udostępnianie w programie SharePoint
+title: Udostępnij w programie SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
 ms.openlocfilehash: e9b05de875969ac8fa1876898069f134e2bd96bb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549481"
 ---
-# <a name="how-to-share-in-sharepoint-online"></a>Jak udostępniać w dokumentacji Online programu SharePoint
+# <a name="how-to-share-in-sharepoint-online"></a>Jak udostępniać w programie SharePoint Online
 
-Aby udostępnić witryny:
+Aby udostępnić witrynę:
   
-1. Otwórz witrynę w przeglądarce sieci web.
+1. Otwórz witrynę w przeglądarce sieci Web.
     
-2. Jeśli witryna należy do grupy usługi Office 365, kliknij ikonę ustawienia w prawym górnym rogu, a następnie kliknij **uprawnienia witryny**. Kliknij przycisk **Zaproś osoby**, a następnie wybierz można dodać członków do grupy usługi Office 365 lub udostępnić tylko witryny. 
+2. Jeśli witryna należy do grupy 365 pakietu Office, kliknij ikonę ustawienia w prawym górnym rogu, a następnie kliknij pozycję **uprawnienia witryny**. Kliknij przycisk **Zaproś osoby**, a następnie wybierz dodać członków do grupy 365 pakietu Office lub udostępnić tylko witryny. 
     
-    Dla witryny komunikacji kliknij **witrynę udziału** w prawym górnym rogu, wprowadź nazwisko osoby, a następnie wybierz poziom uprawnień (Odczyt, Edycja lub Pełna kontrola). 
+    W przypadku witryny komunikacyjnej kliknij opcję **Udostępnij witrynę** w prawym górnym rogu, wprowadź imię i nazwisko osoby, a następnie wybierz poziom uprawnień (odczyt, Edycja lub pełna kontrola). 
     
-    W przypadku witryny zespołu classic w prawym górnym rogu kliknij przycisk **Udostępnij** . Wprowadź nazwę osoby, którą chcesz zaprosić, lub wpisz Wszyscy, aby udostępnić wszystkim osobom w organizacji. Kliknij przycisk **Udostępnij**.
+    W przypadku klasycznej witryny zespołu kliknij opcję **Udostępnij** w prawym górnym rogu. Wprowadź nazwę osoby, którą chcesz zaprosić, lub wpisz wszyscy, aby udostępnić ją wszystkim w organizacji. Kliknij przycisk **Udostępnij**.
     
 [Dowiedz się, jak udostępnić plik lub folder](https://go.microsoft.com/fwlink/?linkid=511430)
   

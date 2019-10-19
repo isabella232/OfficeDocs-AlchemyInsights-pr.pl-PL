@@ -1,5 +1,5 @@
 ---
-title: Jak zmienić język w Hotmail
+title: Jak zmienić język w Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,18 +14,18 @@ ms.custom:
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
 ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36541676"
 ---
-# <a name="change-your-language"></a>Zmienianie języka
+# <a name="change-your-language"></a>Zmiana języka
 
-1. Aby chang języka w programie Outlook, przejdź do ustawień [**językowych i czasu**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Ustawienia** \> **wyświetlić wszystkie ustawienia programu Outlook** > **Ogólne** > **języka i czas**).
+1. Aby Chang język w programie Outlook, przejdź do ustawienia [**języka i czasu**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Ustawienia** \> **Wyświetl wszystkie ustawienia** > programu Outlook**ogólny** > **język i czas**).
 
 2. Wybierz swój język.
 
 3. Wybierz pozycję **Zapisz**.
 
-Aby dowiedzieć się więcej, zobacz [Zmienianie stref czasowych i ustawień języka w Hotmail](https://go.microsoft.com/fwlink/p/?linkid=873132).
+Aby dowiedzieć się więcej, zobacz [Zmienianie ustawień strefy czasowej i języka w Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).

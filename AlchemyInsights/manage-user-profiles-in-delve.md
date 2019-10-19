@@ -1,5 +1,5 @@
 ---
-title: Zarządzanie profilami użytkowników w Wkrocz
+title: Zarządzanie profilami użytkowników w Delve
 ms.author: ponincev
 author: pebaum
 ms.date: 9/12/2018
@@ -9,27 +9,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
 ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497201"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Zarządzanie profilami użytkowników w Wkrocz
+# <a name="manage-user-profiles-in-delve"></a>Zarządzanie profilami użytkowników w Delve
 
-Wkrocz pakietu Office umożliwia użytkownikom zarządzanie profilu użytkownika usługi Office 365. Użytkownicy mogą:
+Pakiet Office Delve umożliwia użytkownikom zarządzanie ich profilem użytkownika pakietu Office 365. Użytkownicy mogą:
   
-- Przeglądanie i aktualizowanie ich informacji
+- Wyświetlanie i aktualizowanie informacji
     
-- Zachowaj niektóre informacje prywatne
+- Zachowaj pewne informacje prywatne
     
-- Zmień swój profil lub przykryciem obraz
+- Zmienianie profilu lub obrazu okładki
     
-- Zmiana formatu języka i czasu dla Wkrocz
+- Zmień język i format czasu dla Delve
     
 > [!NOTE]
-> Jeśli użytkownik zaktualizowany ich obraz profilu, a zmiany nie są wyświetlane w programie SharePoint lub OneDrive, poproś o Otwórz przeglądarkę sieci web, [Przejdź do witryny Office.com](https://www.office.com), zaloguj się przy użyciu swojej pracy lub szkolne, konta, a następnie kliknij fragment OneDrive lub w programie SharePoint. To polecenie Obraz profilu do synchronizacji. Użytkownik może być konieczne ponowić wykonanie tych kroków z prywatnej wersji ich przeglądarki. 
+> Jeśli użytkownik zaktualizował swoje zdjęcie profilowe i zmiana nie jest wyświetlana w programie SharePoint lub OneDrive, poproś o otwarcie przeglądarki sieci Web, [Przejdź do Office.com](https://www.office.com), zaloguj się przy użyciu swojego konta służbowego, a następnie kliknij kafelek OneDrive lub SharePoint. Spowoduje to wyświetlenie monitu o zsynchronizowanie zdjęcia profilowego. Użytkownik może być konieczne wykonanie tych kroków z prywatnej wersji przeglądarki. 
   
-[Dowiedz się więcej o aktualizowanie profilów w Wkrocz](https://go.microsoft.com/fwlink/?linkid=735070)
+[Dowiedz się więcej o aktualizowaniu profilów w programie Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

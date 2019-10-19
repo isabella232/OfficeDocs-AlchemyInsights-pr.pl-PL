@@ -1,5 +1,5 @@
 ---
-title: Otwórz za pomocą Eksploratora przycisk Brak
+title: Brak przycisku Otwórz za pomocą Eksploratora
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
 ms.openlocfilehash: 35b12036dfa056b4c5928223133e58259d7edc3e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36543071"
 ---
-# <a name="the-open-with-explorer-button-is-missing"></a>Brakuje przycisku Otwórz w Eksploratorze
+# <a name="the-open-with-explorer-button-is-missing"></a>Brak przycisku Otwórz w Eksploratorze
 
-**Otwórz w Eksploratorze** przycisk nie pojawia się w nowoczesne doświadczenia programu SharePoint i OneDrive. Aby otworzyć bibliotekę dokumentów w Eksploratora plików, przejdź do niego w programie Internet Explorer i wybierz menu Widok \> **Widok w Eksploratorze plik**. Opcja **Widok w Eksploratorze plik** nie jest dostępny w Microsoft Edge, Google Chrome lub Firefox. 
+Przycisk **Otwórz za pomocą Eksploratora** nie jest wyświetlany w nowoczesnym doświadczeniu programu SharePoint i OneDrive. Aby otworzyć bibliotekę dokumentów w Eksploratorze plików, przejdź do niej w programie Internet Explorer i wybierz Widok menu \> widoku **w Eksploratorze plików**. Opcja **Widok w Eksploratorze plików** jest niedostępna w przeglądarce Microsoft Edge, Google Chrome lub Firefox. 
   
 > [!NOTE]
-> Otwórz w Eksploratorze jest obsługiwany tylko w programie Internet Explorer. Zamiast tego, [Zsynchronizuj pliki programu SharePoint z nowego klienta synchronizacji OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , który zawiera [Pliki na żądanie](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Dostęp do wszystkich plików w OneDrive bez użycia lokalnej pamięci masowej. 
+> Otwórz za pomocą Eksploratora jest obsługiwana tylko przez program Internet Explorer. Zamiast tego [Synchronizuj pliki programu SharePoint z nowym klientem synchronizacji OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , który dostarcza [pliki na żądanie](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Dostęp do wszystkich plików w usłudze OneDrive bez użycia lokalnego miejsca do magazynowania. 
   
 

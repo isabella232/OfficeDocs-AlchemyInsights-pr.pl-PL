@@ -1,5 +1,5 @@
 ---
-title: Uprawnienia konta Hotmail połączony 8000093
+title: 8000093 Outlook.com uprawnienia do połączonego konta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ ms.custom:
 - "1431"
 - "8000093"
 ms.openlocfilehash: 86200f95686e9249499e3c387776d26fdbbd8fc1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546900"
 ---
-# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Jak naprawić "Wygląda jak nie mamy uprawnienia"
+# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Jak naprawić "Wygląda na to, że nie mamy uprawnień"
 
-Jeśli zostanie wyświetlony komunikat o błędzie "to wygląda jak nie mamy uprawnienia, aby uzyskać adres e-mail dla..." wykonaj następujące czynności:
+Jeśli widzisz komunikat o błędzie "Wygląda na to, że nie mamy uprawnień do uzyskania wiadomości e-mail..." wykonaj następujące czynności:
 
-1. Otwórz [Ustawienia konta połączone](https://outlook.live.com/mail/options/mail/accounts) i usunąć lub usunąć połączone konto wymieniony w błąd.
-2. Dodaj ponownie połączone konto.
-3. Przejdź [Wstecz do skrzynki pocztowej](https://outlook.live.com/mail/inbox).
+1. Otwórz [Ustawienia połączonego konta](https://outlook.live.com/mail/options/mail/accounts) i Usuń lub Usuń połączone konto wymienione w błąd.
+2. Ponownie Dodaj połączone konto.
+3. Wróć [do skrzynki pocztowej](https://outlook.live.com/mail/inbox).
 
-Może upłynąć trochę czasu, wszystkie wiadomości e-mail ponownie zsynchronizować z połączonego konta.
+Ponowna synchronizacja wszystkich e-maili z połączonego konta może zająć trochę czasu.
 
-Więcej informacji o [Usuwanie](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) i [Dodawanie](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) połączonych kont.
+Dowiedz się więcej o [usuwaniu](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) i [dodawaniu](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) połączonych kont.

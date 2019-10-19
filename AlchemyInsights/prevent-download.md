@@ -1,5 +1,5 @@
 ---
-title: Zapobiegać pobieraniu z programu SharePoint lub OneDrive pliki
+title: Zapobieganie pobieraniu plików z programu SharePoint lub OneDrive
 ms.author: efrene
 author: efrene
 manager: matteva
@@ -12,18 +12,18 @@ ms.custom:
 - "2523"
 - "9000213"
 ms.openlocfilehash: 85db8d7525effc0ea84179b575d9f7aa56bb0e54
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554718"
 ---
-# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Zapobiegać pobieraniu z programu SharePoint lub OneDrive pliki
+# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Zapobieganie pobieraniu plików z programu SharePoint lub OneDrive
 
-Istnieją różne metody, które mogą być użyte w celu zapobieżenia lub blokowania pobierania z występujących. Poniższe łącza, aby odpowiednich metod, odwiedź:
+Istnieją różne metody, które mogą być używane do zapobiegania lub blokowania pobrań z występujących. Proszę odwiedzić poniższe linki dla odpowiednich metod:
 
-- [Pobieranie pliku bloku z dostępem warunkowym Azure AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Blokowanie pobierania plików z dostępem warunkowym usługi Azure AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
 - [Sterowanie dostępem z poziomu urządzeń niezarządzanych](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-- [Konfigurowanie zasad usługi IRM w bibliotekach dokumentów programu SharePoint, aby ograniczyć pobieranie zawartości](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)
+- [Konfigurowanie zasad IRM w bibliotekach dokumentów programu SharePoint w celu ograniczenia pobierania zawartości](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)

@@ -14,17 +14,17 @@ ms.custom:
 - "2004"
 ms.assetid: ''
 ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36556539"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Jak usunąć folder w programie Outlook w sieci web
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Jak usunąć folder w programie Outlook w sieci Web
 
 1. W okienku folderów kliknij prawym przyciskiem myszy folder lub podfolder, który chcesz usunąć.
-2. Wybierz polecenie **Usuń folder**.
+2. Wybierz **Usuń folder**.
 3. Wybierz **OK** , aby potwierdzić.
 
-Aby dowiedzieć się więcej, zobacz [Praca z folderów wiadomości w programie Outlook w sieci web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Aby dowiedzieć się więcej, zobacz [Praca z folderami wiadomości w programie Outlook w sieci Web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
 

@@ -1,5 +1,5 @@
 ---
-title: Poziomy uprawnień programu SharePoint w trybie Online
+title: Poziomy uprawnień programu SharePoint Online
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
 ms.openlocfilehash: 7c9170093797d7bdb27ef1c9ee3519ae228a54dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36534897"
 ---
-# <a name="sharepoint-online-permission-levels"></a>Poziomy uprawnień programu SharePoint w trybie Online
+# <a name="sharepoint-online-permission-levels"></a>Poziomy uprawnień programu SharePoint Online
 
-Program SharePoint zawiera niektóre domyślne poziomy uprawnień, które można użyć, takich jak program Contribute, a tylko widok. Jeśli ich nie odpowiadają Twoim potrzebom, można utworzyć poziomy uprawnień dodatkowych. To najłatwiejszy do śledzenia uprawnień Jeśli nie edytować lub usuwać domyślnych poziomów i jeśli Dodawanie osób do grup i przypisywać poziomy uprawnień do tych grup zamiast przypisywania poziomy uprawnień dla poszczególnych użytkowników.
+Program SharePoint jest dostarczany z pewnymi domyślnymi poziomami uprawnień, których można używać, na przykład Contribute i tylko wyświetlanie. Jeśli nie odpowiadają Twoim potrzebom, możesz utworzyć dodatkowe poziomy uprawnień. Najłatwiej jest śledzić uprawnienia, jeśli nie edytujesz lub nie usuwasz poziomów domyślnych, a jeśli dodasz odbiorców do grup i przypiszesz im poziomy uprawnień do tych grup, zamiast przypisywać poziomy uprawnień poszczególnym użytkownikom.
   
-- [Opis poziomów uprawnień](https://go.microsoft.com/fwlink/?linkid=867071)
+- [Omówienie poziomów uprawnień](https://go.microsoft.com/fwlink/?linkid=867071)
     
-- [Jak utworzyć i edytować poziomy uprawnień](https://go.microsoft.com/fwlink/?linkid=867072)
+- [Jak tworzyć i edytować poziomy uprawnień](https://go.microsoft.com/fwlink/?linkid=867072)
     
 

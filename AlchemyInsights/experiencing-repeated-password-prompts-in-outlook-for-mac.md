@@ -1,5 +1,5 @@
 ---
-title: Problem powtarza monitów o hasło w programie Outlook dla komputerów Mac?
+title: Doświadczanie powtarzających się monitów o hasło w programie Outlook dla komputerów Macintosh?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
 ms.openlocfilehash: 7da849fbacbbc32272731cf5829b26437983af4e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36526617"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Problem powtarza monitów o hasło w programie Outlook dla komputerów Mac?
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Doświadczanie powtarzających się monitów o hasło w programie Outlook dla komputerów Macintosh?
 
-Możemy pomóc zapewnić bardziej wyspecjalizowanych programu Outlook dla Mac pomocy bezpośrednio z aplikacji.
+Możemy pomóc zapewnić bardziej specjalistyczne programu Outlook dla komputerów Macintosh pomocy bezpośrednio z aplikacji.
   
-Przejdź do użytkownika podlegającego usterce Mac, Otwórz program Outlook, a następnie kliknij polecenie **Pomoc** \> **Kontakt z pomocą techniczną**.
+Przejdź do komputera Mac, którego dotyczy problem, Otwórz program Outlook i kliknij **Pomoc** \> **skontaktuj się z pomocą techniczną**.
   
-Aby dowiedzieć się więcej na temat korzystania z programu Outlook do obsługi klienta w aplikacji Mac, zobacz ten artykuł: [funkcja obsługuje nowy kontakt w Outlook 2016 dla komputerów Macintosh](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+Aby dowiedzieć się więcej na temat korzystania z programu Outlook dla komputerów Macintosh w aplikacji obsługi klienta, zobacz ten artykuł: [nowe wsparcie kontakt funkcja w programie outlook 2016 dla komputerów Macintosh](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
   
 

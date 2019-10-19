@@ -11,10 +11,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
 ms.openlocfilehash: 6092a1222734666807509dff0d86b8a822f37922
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754094"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Masz problemy z usługą w chmurze?
@@ -23,5 +23,5 @@ Jeśli występują problemy z usługą w chmurze, można sprawdzić [kondycję u
 
 **Zasady powiadamiania**
 
-W przypadku wystąpienia incydentu serwisowego firma Microsoft uznaje, że terminowa, ukierunkowana i dokładna komunikacja jest krytyczna dla klientów. Firma Microsoft powiadamia administratorów 365 pakietu Office, aktualizując [pulpit nawigacyjny kondycji usługi](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) specyficzne dla dzierżawy w witrynie Office 365 Admin Portal. Aktualizacje incydentu serwisowego są dostarczane na godzinę kadencji lub, jeśli wymagana jest inna kadencja, zostanie ona podana w komunikacie komunikacji SHD. Aby uzyskać więcej informacji, zobacz [Jak sprawdzić Office 365 Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health).
+W przypadku wystąpienia incydentu serwisowego firma Microsoft uznaje, że terminowa, ukierunkowana i dokładna komunikacja jest krytyczna dla klientów. Firma Microsoft powiadamia administratorów 365 pakietu Office, aktualizując [pulpit nawigacyjny kondycji usługi](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) specyficzne dla dzierżawy w witrynie Office 365 Admin Portal. Aktualizacje zdarzeń serwisowych są dostarczane na godzinę kadencji lub, jeśli wymagana jest inna kadencja, zostanie ona podana w komunikacie SHD. Aby uzyskać więcej informacji, zobacz [Jak sprawdzić Office 365 Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

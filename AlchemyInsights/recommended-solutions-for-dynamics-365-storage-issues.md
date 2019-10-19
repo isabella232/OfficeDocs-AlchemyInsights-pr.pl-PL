@@ -1,5 +1,5 @@
 ---
-title: Proponowanie rozwiązań dla problemów magazynowania Dynamics 365
+title: Poleć rozwiązania dla Dynamics 365 problemy z pamięcią masową
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,20 +10,20 @@ ms.custom:
 - "1429"
 - "6200006"
 ms.openlocfilehash: c3d1ce1f0da0710772456baeb63ba2cf1b834fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36509876"
 ---
-# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Proponowanie rozwiązań dla problemów magazynowania Dynamics 365
+# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Zalecanie rozwiązań problemów z pamięcią masową Dynamics 365
 
-* Administrator globalny Zobacz Podział magazynu na środowisko, 10 najlepszych tabel i inne
+* Jako Administrator globalny Zobacz podział magazynu według środowiska, 10 najlepszych tabel i więcej
 
-* [Magazyn pytania rozliczeń i subskrypcji](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
+* [Pytania dotyczące rozliczeń i subskrypcji magazynu](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
-* [Dynamics 365 cen i licencjonowania przewodnik](https://dynamics.microsoft.com/pricing/)
+* [Przewodnik po cenach i licencjonowaniu Dynamics 365](https://dynamics.microsoft.com/pricing/)
 
-* [Jak kupić więcej licencji](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
+* [Jak zakupić więcej miejsca](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
-* [Jak zwolnić pamięć](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
+* [Jak zwolnić pamięć masową](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)

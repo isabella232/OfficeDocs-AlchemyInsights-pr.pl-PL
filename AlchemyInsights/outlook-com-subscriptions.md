@@ -1,5 +1,5 @@
 ---
-title: 9000215 subskrypcje Hotmail
+title: 9000215 Outlook.com subskrypcje
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
 ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511821"
 ---
 # <a name="subscriptions-and-unsubscribing"></a>Subskrypcje i anulowanie subskrypcji
 
-Jeśli chcesz przestać otrzymywać biuletyny lub promocje, istnieją dwa sposoby, które można zrezygnować w Hotmail:
+Jeśli chcesz przestać otrzymywać biuletyny lub promocje, możesz zrezygnować z subskrypcji w Outlook.com na dwa sposoby:
 
-1. W skrzynce odbiorczej wybierz biuletynu lub promocyjnych wiadomości e-mail. U góry okienka odczytu wybierz pozycję **Anuluj subskrypcję**.
-2. Otwórz [Ustawienia subskrypcji Hotmail](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Ustawienia** > **wyświetlić wszystkie ustawienia programu Outlook** > **E-mail** > **Subskrypcje**) i wybierz polecenie **Anuluj subskrypcję**.
+1. W skrzynce odbiorczej wybierz biuletyn lub promocyjną wiadomość e-mail. W górnej części okienka odczytu wybierz opcję **Anuluj subskrypcję**.
+2. Otwórz swoje [Ustawienia subskrypcji Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Ustawienia** > **Wyświetl wszystkie** > **** > **subskrypcje**e-mail ustawienia programu Outlook) i wybierz opcję **Anuluj subskrypcję**.
 
 Uwagi:
 
 - Nie wszyscy klienci mogą korzystać z tej funkcji w tej chwili.
-- Tylko zobaczysz tę funkcję, jeśli Otrzymałeś wiadomość e-mail od firmy wysyłania subskrybowanego.
+- Ta funkcja jest widoczna tylko w przypadku otrzymania wiadomości e-mail od firmy wysyłającej subskrybowane wiadomości e-mail.
