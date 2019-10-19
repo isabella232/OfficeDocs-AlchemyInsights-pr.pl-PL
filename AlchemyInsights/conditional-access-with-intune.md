@@ -1,5 +1,5 @@
 ---
-title: Warunkowy dostęp z Windows Intune
+title: Dostęp warunkowy z usługą Intune
 ms.author: pebaum
 author: pebaum
 ms.date: 10/11/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505004"
 ---
-# <a name="conditional-access-with-intune"></a>Warunkowy dostęp z Windows Intune
+# <a name="conditional-access-with-intune"></a>Dostęp warunkowy z usługą Intune
 
-Przy użyciu **Dostępu warunkowego** w usłudze Intune wymaga 3 kroki: 
+Korzystanie z **dostępu warunkowego** w usłudze Intune wymaga 3 kroków: 
   
-- Utwórz **Zasadę warunkową dostępu** , który definiuje, jakie zasoby są chronione, a co warunki muszą być spełnione, aby uzyskać dostęp do tych zasobów. Na przykład urządzenie musi być zgodny, przed uzyskaniem dostępu do firmowych wiadomości e-mail. 
+- Utwórz **zasadę dostępu warunkowego** , która określa, jakie zasoby są chronione i jakie warunki muszą być spełnione, aby uzyskać dostęp do tych zasobów. Na przykład urządzenie musi być zgodne przed uzyskaniem dostępu do firmowej poczty e-mail. 
     
-- Tworzy **Zasady zgodności** do definiowania ustawień, które muszą być spełnione, zanim urządzenie zostanie uznana za zgodną. Na przykład urządzenie musi mieć co najmniej 6 cyfr numeru pin zostanie uznany za zgodny z. 
+- Utwórz **zasadę zgodności** , aby zdefiniować ustawienia, które muszą zostać spełnione, zanim urządzenie zostanie uznane za zgodne. Na przykład urządzenie musi mieć PIN co najmniej 6 cyfr, zanim zostanie uznane za zgodne. 
     
-- Zapewnienie zarówno **Zasady dostępu warunkowego** , jak i **Zasady zgodności** są kierowane do żądanej grupy użytkowników. To może być konieczne utworzenie określonych grup użytkowników w usłudze Active Directory Azure. 
+- Zapewnienie, że zarówno **zasady zgodności** , jak i **zasady dostępu warunkowego** są kierowane do żądanych grup użytkowników. Może to wymagać utworzenia określonych grup użytkowników w usłudze Azure Active Directory. 
     
-Dowiedz się więcej:
+Czytaj więcej:
   
-- [Warunkowy dostęp do najlepszych praktyk](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [Najważniejsze wskazówki dotyczące dostępu warunkowego](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [Wprowadzenie do dostępu warunkowego](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [Rozpoczynanie korzystania z dostępu warunkowego](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

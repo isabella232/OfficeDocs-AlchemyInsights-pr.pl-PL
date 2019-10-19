@@ -1,5 +1,5 @@
 ---
-title: Zmiana OneDrive dla firmy przydziału miejsca do magazynowania
+title: Zmienianie przydziału magazynu dla firm w usłudze OneDrive
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
 ms.openlocfilehash: 52d8fd39b21b2ac8f1a9965981e8fdc536ea18f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519273"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Zmienianie domyślnego OneDrive miejsca dla użytkowników
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Zmienianie domyślnego miejsca do magazynowania w usłudze OneDrive dla użytkowników
 
-1. Przejdź do [strony magazynu Centrum administracyjnego usługi OneDrive](https://admin.onedrive.com/?v=StorageSettings).
+1. Przejdź do [strony magazynu w centrum administracyjnym usługi OneDrive](https://admin.onedrive.com/?v=StorageSettings).
     
-2. Wprowadź kwotę domyślny magazyn (w GB) w polu **Domyślna lokalizacja** , a następnie kliknij przycisk **Zapisz**.
+2. Wprowadź domyślną kwotę magazynu (w GB) w polu **domyślny magazyn** , a następnie kliknij przycisk **Zapisz**.
     
-To ustawienie miejsca składowania stosuje się do wszystkich użytkowników, dla których nie można ustawić limity określonego magazynu. Aby zmienić miejsce przechowywania dla określonych użytkowników, musisz PowerShell firmy Microsoft. Na temat sposobu wykonywania tej czynności zobacz [Użytkownicy zmiany magazynu przestrzeni przy użyciu programu PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+To ustawienie miejsca do magazynowania ma zastosowanie do wszystkich użytkowników, dla których nie ustawiono określonych limitów magazynowania. Aby zmienić miejsce do magazynowania dla określonych użytkowników, należy użyć programu Microsoft PowerShell. Aby uzyskać informacje o tym, jak to zrobić, zobacz [Zmienianie miejsca na dysku OneDrive użytkowników przy użyciu programu PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
   
 

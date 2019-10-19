@@ -1,5 +1,5 @@
 ---
-title: Utwórz witrynę zespołu nowoczesny
+title: Tworzenie witryny nowoczesnego zespołu
 ms.author: clake
 author: spowriter
 ms.date: 11/9/2018
@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
 ms.openlocfilehash: caeb3d464ecb528f3ffc87cf75be4a3f9b410798
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36516327"
 ---
-# <a name="create-an-office-365-group-connected-team-site"></a>Utwórz witrynę zespołu połączony grupy usługi Office 365
+# <a name="create-an-office-365-group-connected-team-site"></a>Tworzenie witryny zespołu połączonego z grupą pakietu Office 365
 
-1. Kliknij przycisk Uruchom aplikację w lewym górnym rogu i wybierz **programu SharePoint**. Jeśli nie widzisz programu SharePoint kliknij opcję **wszystkie aplikacje**.
+1. Kliknij przycisk uruchamiania aplikacji w lewym górnym rogu i wybierz **SharePoint**. Jeśli kafelek programu SharePoint nie jest widoczny, kliknij pozycję **wszystkie aplikacje**.
     
-2. W górnej części strony głównej programu SharePoint kliknij przycisk **Utwórz witrynę** i wybierz opcję **witryny zespołu** . 
+2. W górnej części strony głównej programu SharePoint, kliknij przycisk **Tworzenie witryny** i wybierz opcję **witryny zespołu** . 
     
     > [!NOTE]
-    > Jeśli nie widzisz polecenia Utwórz witrynę, tworzenia witryn może nie być włączona w Twojej organizacji. Aby ją włączyć, zobacz [Manage tworzenia witryn](https://go.microsoft.com/fwlink/?linkid=2009644). 
+    > Jeśli nie widzisz polecenia Utwórz witrynę, tworzenie witryny może nie być włączone w organizacji. Aby ją włączyć, zobacz [Zarządzanie tworzeniem witryn](https://go.microsoft.com/fwlink/?linkid=2009644). 
   
-3. Postępuj zgodnie z instrukcjami na ekranie, aby nadać nazwę witrynie i utworzyć adres e-mail dla grupy usługi Office 365, a następnie kliknij przycisk **Dalej**. Można również dodać inne grupy Właściciele i członków. Kliknij przycisk **Zakończ**.
+3. Postępuj zgodnie z instrukcjami na ekranie, aby nazwać witrynę i utworzyć adres e-mail dla grupy 365 pakietu Office, a następnie kliknij przycisk **dalej**. Można również dodać innych właścicieli i członków grupy. Kliknij przycisk **Zakończ**.
   
- **Uwaga:** Aby utworzyć witrynę zespołu bez grupy podłączony, wykonaj kroki powyżej, ale zamiast wybierania witryny zespołu w kroku 2. Wybierz inne opcje. To poprowadzi Cię przez proces tworzenia witryny zespołu bez grupy. 
+ **Uwaga:** Aby utworzyć witrynę zespołu bez połączonej grupy, wykonaj powyższe kroki, ale zamiast wybierania witryny zespołu w kroku 2. Wybierz opcję inne opcje. To poprowadzi Cię przez tworzenie witryny zespołu bez grupy. 
     
 

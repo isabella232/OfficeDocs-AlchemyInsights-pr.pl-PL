@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z rejestrowanie urządzeń iOS w Microsoft Intune
+title: Rozwiązywanie problemów z rejestrowanie urządzeń z systemem iOS w usłudze Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,30 +10,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
 ms.openlocfilehash: bdbfe7bae00a4c5cfa0edbe9a37522cc98e52401
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36507013"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Rozwiązywanie problemów z rejestrowanie urządzeń iOS w Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Rozwiązywanie problemów z rejestrowanie urządzeń z systemem iOS w usłudze Microsoft Intune
 
 Przejrzyj zasoby wymienione poniżej, aby rozwiązać problem teraz. 
   
 Niektóre typowe komunikaty o błędach i kroki rozwiązania:
   
-- **Cap urządzeń osiągnięty** Użytkownik ma więcej urządzeń zarejestrowanych niż limit urządzenia. Dokonują przeglądu tych dokumentów, aby [usunąć urządzenie](https://docs.microsoft.com/intune/devices-wipe) lub [zmienić limit urządzenia](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+- **Osiągnięto limit urządzenia** Użytkownik ma więcej urządzeń zarejestrowanych niż limit urządzenia. Przejrzyj te dokumenty, aby [usunąć urządzenie](https://docs.microsoft.com/intune/devices-wipe) lub [zmienić limit urządzenia](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
     
-- **Ta usługa nie jest obsługiwana. Nie zasady rejestracji:** Apple Push powiadomień usługi (APN) musi być skonfigurowany lub odnowiony. Przegląd [Ten dokument](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) instrukcje, jak to zrobić. 
+- **Ta usługa nie jest obsługiwana. Brak zasad rejestracji:** usługa powiadomień wypychanych firmy Apple (APNS) musi być skonfigurowana lub odnawiana. Zapoznaj się z [tym dokumentem](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) , aby uzyskać instrukcje, jak to zrobić. 
     
-- **Nieprawidłowy typ licencji użytkownika ani nazwy użytkownika nie rozpoznany:** Użytkownik musi być przypisany licencji pakietu Windows Intune lub EMS. Dokonują przeglądu tych dokumentów przypisać jedną licencję do: [Witryna Office Admin Center](https://docs.microsoft.com/intune/licenses-assign) lub [portalu Azure](https://docs.microsoft.com/azure/active-directory/license-users-groups).
+- **Typ licencji użytkownika nieprawidłowy lub nie rozpoznano nazwy użytkownika:** Użytkownik musi mieć przypisaną licencję usługi Intune lub EMS. Przejrzyj te dokumenty, aby przypisać licencję za pośrednictwem: [Office Admin Center](https://docs.microsoft.com/intune/licenses-assign) lub [Azure Portal](https://docs.microsoft.com/azure/active-directory/license-users-groups).
     
-Dodatkowe zasoby w celu rozwiązania problemu:
+Dodatkowe zasoby ułatwiające rozwiązanie problemu:
   
-1. Korzystać z [Portalu rozwiązywania problemów Windows Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) , aby zdiagnozować i rozwiązać typowe błędy rejestracji. Przegląd [tego dokumentu](https://docs.microsoft.com/intune/help-desk-operators) , aby uzyskać więcej informacji. 
+1. Używaj [portalu rozwiązywania problemów z usługą Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) do diagnozowania i rozwiązywania typowych błędów rejestracji. Zapoznaj się z [tym dokumentem](https://docs.microsoft.com/intune/help-desk-operators) , aby uzyskać więcej informacji. 
     
-2. Dokonują przeglądu tych dokumentów, listę typowe błędy, które uniemożliwiają rejestracji i rozwiązania do każdego: [Podręcznik rozwiązywania problemów](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) i [Rozwiązywanie problemów doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+2. Przejrzyj te dokumenty, aby uzyskać listę typowych błędów, które uniemożliwiają rejestrowanie i rozwiązania dla każdego: [Przewodnik rozwiązywania problemów](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) i [dokument dotyczący rozwiązywania problemów](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
     
-3. [Informacje o sposobie rejestrowania urządzeń iOS w usłudze Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).
+3. [Dowiedz się, jak rejestrować urządzenia z systemem iOS w usłudze Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).
     
 

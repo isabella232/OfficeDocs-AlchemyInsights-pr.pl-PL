@@ -1,5 +1,5 @@
 ---
-title: Nowoczesne witryny jako witryny głównej
+title: Nowoczesna Strona jako Strona główna
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,22 +7,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ''
-ms.openlocfilehash: 7f481110d37bed6660c5a220ac230284d613c976
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.assetid:
+- "9000153"
+- "1692"
+ms.openlocfilehash: 6f55f1c63551027cc5522d296cb3f3f342356d95
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503501"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36576696"
 ---
-# <a name="modernize-your-classic-sharepoint-site"></a>Modernizacji klasyczne witryny programu SharePoint
+# <a name="modernize-your-classic-sharepoint-site"></a>Modernizacja klasycznej witryny programu SharePoint
 
-Zobacz następujące szczegółowe informacje o korzystaniu z nowe doświadczenie Nowoczesny:
+Aby przełączyć się do nowoczesnego interfejsu użytkownika, należy skupić się na następujących:
 
-- Przegląd krok po kroku modernizacji witryn programu SharePoint klasyczne nowoczesne doświadczenie zobacz [Modernize klasyczny witryn programu SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Przenoszenie **list i bibliotek** w celu korzystania z nowoczesnego interfejsu użytkownika (nazywanych również nowoczesną listą i doświadczeniem biblioteki).
+- Przekształcanie **stron witryny** z klasycznych stron typu wiki i Web Part na nowoczesne strony po stronie klienta.
+- Tworzenie **nowoczesnych witryn** (witryny zespołu lub witryny komunikacyjnej).
 
-- Do optymalnego wykorzystania nowoczesnego interfejsu użytkownika dla stron witryny i strony listy i biblioteki, zobacz [Modernize interfejsu użytkownika](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface). 
+Zmodernizuj swoje doświadczenie:
+- [Włączanie list i bibliotek do pokazywania w nowoczesnym interfejsie użytkownika](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) przez zastąpienie dostosowań, usuwanie niezgodnych kolumn z używanych widoków lub (w ostateczności) przenoszenie danych do nowoczesnego typu listy zgodnego z interfejsem użytkownika.
+- [Połączenie witryny z grupą 365 pakietu Office](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group), która zapewnia witrynie nowoczesną stronę główną i umożliwia korzystanie z witryny, na przykład skrzynki pocztowej lub programu Microsoft Planner. Umożliwia to korzystanie z nowoczesnej wersji listy kalendarzy i zadań.
+- [Tworzenie nowoczesnych stron](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec), to świetny sposób, aby dzielić się pomysłami za pomocą obrazów, Excel, Word i PowerPoint dokumentów, wideo i więcej.
+- [Tworzenie nowoczesnych stron po stronie klienta](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) i skonfigurowanie ich jako "podobnych" do klasycznych stron wiki i Web Part. Programowe przekształcenie strony należy zrobić dla kluczowych stron witryny, jak przekształcanie wszystkich stron jest intensywnie korzysta z zasobów i często nie są potrzebne. Aby pomóc w tym Triage, skaner modernizacji programu SharePoint może dać informacje o użyciu bieżących stron wiki i strony składników Web Part.
+- [Tworzenie nowoczesnych witryn](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d). Czy należy utworzyć witrynę zespołu lub witrynę komunikacyjną?
 
-- Aby dowiedzieć się więcej na temat sposobu odblokowywania list i bibliotek przy użyciu interfejsu użytkownika nowoczesnych, zobaczyć [Maksymalizuj wykorzystanie nowoczesnych list i bibliotek](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+Dodatkowe informacje: 
+- Omówienie krok po kroku modernizacji klasycznych witryn programu SharePoint do nowoczesnych doświadczeń, zobacz [zmodernizować klasycznych witryn programu SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Zobacz przewodnik po [nowoczesnym doświadczeniu](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).
+- Zobacz [SharePoint Classic i nowoczesnych doświadczeń](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f). 
 
-- Aby uzyskać więcej informacji na temat łączenia się z grupą usługi Office 365 i wykonując połączenia grupy zobacz [Łączenie z grupą usługi Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+
+
+

@@ -1,5 +1,5 @@
 ---
-title: Utworzyć witrynę w dokumentacji Online programu SharePoint
+title: Tworzenie witryny w programie SharePoint Online
 ms.author: stevhord
 author: spowriter
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
 ms.openlocfilehash: 5bd43255bf3978ebb7f2405fba5c01437d32ceb7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515925"
 ---
 # <a name="create-a-site"></a>Tworzenie witryny
 
-W dokumentacji Online programu SharePoint można utworzyć różnych typów witryn. Aby dowiedzieć się, jak to zrobić w Centrum administracyjnego programu SharePoint, zobacz [Tworzenie lokacji](https://go.microsoft.com/fwlink/?linkid=866295). Aby uzyskać informacje o zezwalaniu użytkownikom na tworzenie własnych witryn zobacz [Zarządzaj tworzenia witryn programu SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+W usłudze SharePoint Online można tworzyć różne typy witryn. Aby dowiedzieć się, jak to zrobić w nowym centrum administracyjnym programu SharePoint, zobacz [Tworzenie witryny](https://go.microsoft.com/fwlink/?linkid=866295). Aby uzyskać informacje o zezwalaniu użytkownikom na tworzenie własnych witryn, zobacz [Zarządzanie tworzeniem witryn w programie SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
  
-Informacji o nowych typów witryn zobacz [grupy podłączony witryny zespołu](https://go.microsoft.com/fwlink/?linkid=866292) lub [witryny komunikacyjne](https://go.microsoft.com/fwlink/?linkid=866294).
+Aby uzyskać informacje o nowych typach witryn, zobacz [Grupa połączonych witryn zespołów](https://go.microsoft.com/fwlink/?linkid=866292) lub [witryn komunikacyjnych](https://go.microsoft.com/fwlink/?linkid=866294).
     
 
 

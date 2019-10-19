@@ -1,5 +1,5 @@
 ---
-title: Alchemy - Utwórz wiadomość e-mail podpisów
+title: Alchemy-Tworzenie podpisów email
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 563c1541-b4d3-4f7a-aaec-8b3b1477e517
 ms.openlocfilehash: 32b4cdb51aaf065d7da5a1021b6970d50815cc9e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505553"
 ---
 # <a name="create-email-signatures"></a>Tworzenie podpisów e-mail
 
-Tematy te ułatwią tworzenie podpisów e-mail:
+Te tematy pomogą Ci utworzyć podpisy e-mail:
   
-- Tworzenie podpisu e-mail dla własnych komunikatów: [Tworzenie i dodawanie podpisu do wiadomości](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) lub [Tworzenie i dodać podpis wiadomości e-mail w programie Outlook Web App](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx).
+- Utwórz podpis e-mail dla własnych wiadomości: [Utwórz i Dodaj podpis do wiadomości](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) lub [Utwórz i Dodaj podpis E-mail w programie Outlook Web App](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx).
     
-- Utwórz podpis e-mail globalne dla wszystkich wiadomości wysyłanych z firmy (wyłączenie): [zastrzeżenia wiadomość w całej organizacji, podpisów, stopek lub nagłówki w usłudze Office 365](https://go.microsoft.com/fwlink/p/?linkid=391096).
+- Utwórz globalny podpis e-mail dla wszystkich wiadomości wysyłanych z firmy (znanej także jako zastrzeżenie): [zastrzeżenia dotyczące wiadomości w całej organizacji, podpisy, stopki lub nagłówki w pakiecie Office 365](https://go.microsoft.com/fwlink/p/?linkid=391096).
     
 

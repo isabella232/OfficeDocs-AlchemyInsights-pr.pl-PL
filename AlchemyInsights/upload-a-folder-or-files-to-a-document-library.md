@@ -1,5 +1,5 @@
 ---
-title: Przekaż folder lub pliki do biblioteki dokumentów
+title: Przekazywanie folderu lub plików do biblioteki dokumentów
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: 8f97f905f2db71cff299ee27d78138f254ed32f6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36532629"
 ---
 # <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Przekaż folder lub pliki do biblioteki dokumentów programu SharePoint
 
-Przesłać folderu, musisz użyć Edge firmy Microsoft, Google Chrome lub Mozilla FireFox. Nie można przekazać folderów w doświadczenie klasyczny biblioteki lub za pomocą programu Internet Explorer 10 lub 11.
+Aby przesłać folder, musisz użyć Microsoft Edge, Google Chrome lub Mozilla FireFox. Nie można przesłać foldery w bibliotece klasyczne środowisko lub za pomocą programu Internet Explorer 10 lub 11.
   
-1. Otwórz bibliotekę dokumentów, w której chcesz przesłać pliki lub folder.
+1. Otwórz bibliotekę dokumentów, w której chcesz przesłać folder lub pliki.
     
-2. Otwórz okno Eksploratora plików na komputerze i przejdź do folderu lub pliki, które chcesz przekazać.
+2. Otwórz Eksploratora plików na komputerze i przejdź do folderu lub plików, które chcesz przesłać.
     
-3. Przeciągnij folder lub pliki do biblioteki dokumentów. Jeśli nie widać elementy, które przesłałeś pojawiają się w bibliotece, Odśwież stronę. 
+3. Przeciągnij folder lub pliki do biblioteki dokumentów. Jeśli przesłane elementy nie są widoczne w bibliotece, Odśwież stronę. 
     
-Jeśli nie chcesz przekazać przez przeciąganie elementów pomiędzy systemu windows umożliwia także przycisk **Przekaż** w bibliotece dokumentów do wybierz folder lub pliki, które chcesz przekazać. 
+Jeśli nie chcesz przesyłać przez przeciąganie elementów między oknami, możesz również użyć przycisku **Przekaż** w bibliotece dokumentów, aby wybrać folder lub pliki, które chcesz przesłać. 
   
 

@@ -9,33 +9,33 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
 ms.openlocfilehash: e3e18f7ee5315b076e9059feaeda8b445d89c476
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36531945"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Uprawnienia użytkownika w programie SharePoint i OneDrive
 
-Jeśli użytkownik w danej organizacji nie ma dostępu do programu SharePoint lub OneDrive, upewnij się, że posiadają licencję, która obejmuje programu SharePoint i OneDrive. 
+Jeśli użytkownik w organizacji nie jest w stanie uzyskać dostępu do programu SharePoint lub OneDrive, upewnij się, że mają licencję, która obejmuje SharePoint i OneDrive. 
   
-1. Przejdź do [strony Użytkownicy aktywni w Centrum administracyjnym usługi Microsoft 365](https://portal.office.com/adminportal/home#/users) i wybierz użytkownika. 
+1. Przejdź do [strony aktywnych użytkowników w centrum administracyjnym Microsoft 365](https://portal.office.com/adminportal/home#/users) i wybierz użytkownika. 
     
-2. Upewnij się, że **licencje produktu**przypisany licencji i **Programu SharePoint w trybie Online** jest zaznaczone. 
+2. Upewnij się, że w obszarze **licencje produktu**, licencja jest przypisany i **SharePoint Online** jest zaznaczone. 
     
- Aby nadać użytkownikowi uprawnienia do dostępu do witryny programu SharePoint: 
+ Aby udzielić użytkownikowi uprawnienia dostępu do witryny programu SharePoint: 
   
-1. Otwórz witrynę w przeglądarce sieci web.
+1. Otwórz witrynę w przeglądarce sieci Web.
     
-2. Jeśli witryna należy do grupy usługi Office 365, kliknij ikonę ustawienia w prawym górnym rogu, a następnie kliknij **uprawnienia witryny**. Kliknij przycisk **Zaproś osoby**, a następnie wybierz można dodać członków do grupy usługi Office 365 lub udostępnić tylko witryny. 
+2. Jeśli witryna należy do grupy 365 pakietu Office, kliknij ikonę ustawienia w prawym górnym rogu, a następnie kliknij pozycję **uprawnienia witryny**. Kliknij przycisk **Zaproś osoby**, a następnie wybierz dodać członków do grupy 365 pakietu Office lub udostępnić tylko witryny. 
     
-    Dla witryny komunikacji kliknij **witrynę udziału** w prawym górnym rogu, wprowadź nazwisko osoby, a następnie wybierz poziom uprawnień (Odczyt, Edycja lub Pełna kontrola). 
+    W przypadku witryny komunikacyjnej kliknij opcję **Udostępnij witrynę** w prawym górnym rogu, wprowadź imię i nazwisko osoby, a następnie wybierz poziom uprawnień (odczyt, Edycja lub pełna kontrola). 
     
-    W przypadku witryny zespołu classic w prawym górnym rogu kliknij przycisk **Udostępnij** . Wprowadź nazwę osoby, którą chcesz zaprosić, lub wpisz Wszyscy, aby udostępnić wszystkim osobom w organizacji. Kliknij przycisk **Udostępnij**.
+    W przypadku klasycznej witryny zespołu kliknij opcję **Udostępnij** w prawym górnym rogu. Wprowadź nazwę osoby, którą chcesz zaprosić, lub wpisz wszyscy, aby udostępnić ją wszystkim w organizacji. Kliknij przycisk **Udostępnij**.
     
 > [!NOTE]
-> Jeśli jesteś członkiem witryny, ale nie jest właścicielem, można zaprosić użytkowników do witryny, ale zaproszenie generuje żądanie dostępu, który może być zatwierdzone lub odrzucone przez właściciela witryny. 
+> Jeśli jesteś członkiem witryny, ale nie jest właścicielem, możesz zaprosić osoby do witryny, ale zaproszenie wygeneruje żądanie dostępu, które może zostać zatwierdzone lub odrzucone przez właściciela witryny. 
   
-[Dowiedz się, jak udostępnić plik lub folder użytkownika](https://go.microsoft.com/fwlink/?linkid=533408)
+[Dowiedz się, jak udostępnić plik lub folder użytkownikowi](https://go.microsoft.com/fwlink/?linkid=533408)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Grupy dystrybucji {AimKIObject} nie pokazuje się na liście grupy po minutach {AimKITimeElapsed}
+title: Grupa dystrybucyjna "{AimKIObject}" nie jest wyświetlana na liście grupy po {AimKITimeElapsed} minut
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
 ms.openlocfilehash: af6f3e2040ebf2966f7bf7c4ffe796fa31106ecf
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530505"
 ---
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Grupa dystrybucji "{AimKIObject}" nie pokazuje się na liście grupy po minutach {AimKITimeElapsed}
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Grupa dystrybucyjna "{AimKIObject}" nie jest wyświetlana na liście grupy po {AimKITimeElapsed} minut
 
-Grupy "{AimKIObject}" został utworzony ponizej {AimKITimeElapsed}. Zwykle nie trzeba więcej niż 60 minut dla nowej grupy dystrybucji do stawienia się w Centrum administracyjnym.
+Twoja grupa "{AimKIObject}" została utworzona {AimKITimeElapsed} minut temu. Zwykle nie zajmie więcej niż 60 minut, aby nowa grupa dystrybucyjna pojawiały się w centrum administracyjnym.
   
-Możesz można używać funkcji grupy odbiorców > w [Centrum administracyjnego programu Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) , aby zarządzać grupą teraz lub użyj opcji "Daj nam Ciebie zadzwonić", aby porozmawiać z pracownikiem pomocy technicznej. 
+Można użyć funkcji adresatów > grup w [centrum administracyjnym programu Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) do zarządzania grupą teraz lub użyj opcji "Pozwól nam zadzwonić", aby porozmawiać z pracownikiem pomocy technicznej. 
   
 

@@ -1,5 +1,5 @@
 ---
-title: 1385-office-365-alert zasady
+title: 1385-Office-365-alert-zasady działalności
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,35 +13,35 @@ ms.custom:
 - "3200002"
 ms.assetid: ''
 ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661306"
 ---
-# <a name="office-365-alert-policies"></a>Zasady alertów usługi Office 365
+# <a name="office-365-alert-policies"></a>Zasady alertów pakietu Office 365
 
-_AMP_ zabezpieczeń usługi Office 365 oferuje Centrum zgodności [domyślne zasady alertów](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) wyzwalające alarmy dla organizacji z subskrypcją usługi Office 365 Enterprise lub Office 365 NAS Rząd E1/G1, E3/G3 lub E5/G5. W związku z tym administratorzy mogą odbierać powiadomienia e-mail alertu wysyłane przez Office365Alerts@microsoft.com z wierszem tematu takie jak "powiadomienie o niskiej ważności: *Nazwa alertu zasady*". Alert powiadomienia są wysyłane alerty są wyzwalane do wykonywania typowych działań, takich jak, kiedy użytkownicy:
+Office 365 Security & Compliance Center oferuje [domyślne zasady alertów](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) , które wyzwalają alerty dla organizacji z subskrypcją Office 365 Enterprise lub Office 365 US Government E1/G1, E3/G3 lub E5/G5. W związku z tym administratorzy mogą otrzymywać powiadomienie e-mail alert wysłane przez Office365Alerts@microsoft.com z wiersza tematu, takie jak "alert o niskiej ważności: *Nazwa alertu zasad*". Powiadomienia alertów są wysyłane, gdy alerty są wyzwalane dla typowych działań, takich jak gdy użytkownicy:
 
-- Tworzenie reguł skrzynki odbiorczej, które przesyłają dalej wiadomości e-mail.
-- Przypisywanie uprawnień skrzynek pocztowych.
-- Udostępnianie lub usuwanie dużej liczby plików w udostępniania plików programu SharePoint.
-- Tworzenie wyszukiwania zbierania elektronicznych materiałów dowodowych i eksportowanie wyników wyszukiwania.
+- Utwórz reguły skrzynki odbiorczej, które przekazują wiadomości e-mail.
+- Przypisz uprawnienia do skrzynki pocztowej.
+- Udostępnij lub Usuń dużą liczbę plików w udostępnianie plików programu SharePoint.
+- Tworzenie zbierania elektronicznych materiałów dowodowych wyszukuje i eksportuje wyniki wyszukiwania.
 
-Aby przejrzeć i działają na alert:
+Aby przejrzeć i postępować zgodnie z ostrzeżą:
 
-1. Przejdź do witryny [Centrum zgodności & zabezpieczeń](https://protection.office.com) i zaloguj się.
-2. Kliknij opcję **alerty** > **Wyświetl alerty**.
-3. Kliknij alert, aby wyświetlić stronę wysuwane z informacji o alercie.
+1. Przejdź do [Centrum zgodności zabezpieczeń &](https://protection.office.com) i zaloguj się.
+2. Kliknij **alerty** > **Wyświetlanie alertów**.
+3. Kliknij alert, aby wyświetlić stronę wysuwany z informacjami o alercie.
 
-Można podjąć działania na alert, takie jak [Usuwanie reguły podejrzane skrzynki odbiorczej](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Lub alertu można po prostu zamknąć, klikając przycisk **rozwiązać** na stronie wysuwane alertu.
+Możesz wykonać akcję na alercie, na przykład [usunąć podejrzaną regułę skrzynki odbiorczej](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Możesz też po prostu zamknąć alert, klikając przycisk **Rozwiąż** na stronie wysuwania alertu.
 
-Aby uzyskać więcej informacji o konfigurowaniu i zarządzanie zasadami alertów zobacz [Ten artykuł](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+Aby uzyskać więcej informacji o konfigurowaniu zasad alertów i zarządzaniu nimi, zobacz [ten artykuł](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
 
-**Ważne**: powiadomienia alertów e-mail od firmy Microsoft nigdy nie prosi o wykonaj następujące czynności:
+**Ważne**: powiadomienia e-mail alertów od firmy Microsoft nigdy nie poprosi o wykonaj następujące czynności:
 
 - Podaj hasło
-- Sprawdź szczegóły swojego konta zabezpieczeń
-- Ponownego uwierzytelnienia
+- Weryfikowanie szczegółów zabezpieczeń konta
+- Ponownie uwierzytelniać się
 
-Jeśli możesz otrzymywać wiadomości e-mail tak, nie została wysłana przez firmę Microsoft i należy uznać na phishing. Jeśli tak się stanie, należy [to zgłosić do firmy Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Jeśli otrzymasz wiadomość e-mail tak, to nie został wysłany przez firmę Microsoft i należy uznać za oszustwo phishingowe. Jeśli tak się stanie, [Zgłoś to firmie Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).

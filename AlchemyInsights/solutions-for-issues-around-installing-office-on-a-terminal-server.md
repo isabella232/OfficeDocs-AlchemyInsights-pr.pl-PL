@@ -1,5 +1,5 @@
 ---
-title: Rozwiązania problemów wokół instalacji pakietu office na serwerze terminali
+title: Rozwiązania problemów związanych z instalacją pakietu Office na serwerze terminali
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,34 +10,34 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
 ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36501485"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Rozwiązania problemów wokół instalacji pakietu office na serwerze terminali
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Rozwiązania problemów związanych z instalacją pakietu Office na serwerze terminali
 
-Aby użyć aktywacją udostępnionego komputera, musi mieć plan Office 365, który uwzględnia Office 365 ProPlus.
+Aby korzystać z aktywacji współużytkowanej komputera, musisz mieć plan Office 365, który zawiera pakiet Office 365 ProPlus.
   
-- Sprawdź, czy aktywacją udostępnionego komputera jest włączone dla Office 365 ProPlus
+- Sprawdź, czy Aktywacja komputera udostępnionego jest włączona dla pakietu Office 365 ProPlus
     
-- Sprawdź, czy aktywacji pakietu Office 365 ProPlus powiodło się.
+- Sprawdź, czy Aktywacja dla pakietu Office 365 ProPlus powiodło się
     
-- Przejrzyj komunikaty o błędach dla aktywacji współużytkowanego komputera:
+- Przejrzyj komunikaty o błędach dotyczące aktywacji współużytkowanej komputera:
     
-  - "Produkty, które okazało się na swoim koncie nie umożliwia aktywację pakietu Office w scenariuszach komputer udostępniony"
+  - "Produkty, które znaleźliśmy na Twoim koncie, nie mogą zostać użyte do aktywowania pakietu Office w scenariuszach udostępnionych komputerów"
   
-Ten błąd oznacza, że nie masz planu usługi Office 365, który zawiera Office 365 ProPlus.
+Ten błąd oznacza, że nie masz planu Office 365, który zawiera pakiet Office 365 ProPlus.
     
-  - "Produkt bez licencji"
+  - "Produkt nielicencjonowany"
     
-  - Sprawdź, czy użytkownik jest przypisany licencji pakietu Office 365 ProPlus.
+  - Sprawdź, czy użytkownik ma przypisaną licencję dla pakietu Office 365 ProPlus.
     
-  - Sprawdź, że użytkownik zarejestruje się przy użyciu swojego konta użytkownika usługi Office 365
+  - Sprawdź, czy użytkownik loguje się za pomocą swojego konta użytkownika dla pakietu Office 365
     
-  - Sprawdź, że istnieje łączność między udostępnionego komputera i Internetu.
+  - Sprawdź, czy istnieje łączność między komputerem udostępnionym a Internetem.
     
-Inne porady dotyczące rozwiązywania problemów, zobacz: [Rozwiązywanie problemów z aktywacją udostępnionego komputera pakietu Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+Aby uzyskać inne wskazówki dotyczące rozwiązywania problemów, zobacz: [Rozwiązywanie problemów z aktywacją komputera udostępnionego dla pakietu Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
   
 
