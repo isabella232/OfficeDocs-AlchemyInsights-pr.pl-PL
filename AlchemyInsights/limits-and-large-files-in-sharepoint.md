@@ -1,5 +1,5 @@
 ---
-title: Limity i dużych plików w programie SharePoint
+title: Limity i duże pliki w programie SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497597"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a><span data-ttu-id="a35d7-102">Pliki, które można przekazać do programu SharePoint w trybie Online</span><span class="sxs-lookup"><span data-stu-id="a35d7-102">Files that can't be uploaded to SharePoint Online</span></span>
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a><span data-ttu-id="c2edc-102">Pliki, które nie mogą być przesłane do programu SharePoint w trybie online</span><span class="sxs-lookup"><span data-stu-id="c2edc-102">Files that can't be uploaded to SharePoint Online</span></span>
 
-<span data-ttu-id="a35d7-103">Jeśli plik nie będą przesyłane do programu SharePoint w trybie Online, sprawdź:</span><span class="sxs-lookup"><span data-stu-id="a35d7-103">If a file won't upload to SharePoint Online, make sure:</span></span>
+<span data-ttu-id="c2edc-103">Jeśli plik nie zostanie przesłane do programu SharePoint w trybie online, upewnij się, że:</span><span class="sxs-lookup"><span data-stu-id="c2edc-103">If a file won't upload to SharePoint Online, make sure:</span></span>
   
-- <span data-ttu-id="a35d7-104">Jest mniej niż 15 GB w rozmiarze.</span><span class="sxs-lookup"><span data-stu-id="a35d7-104">It's less than 15 GB in size.</span></span>
+- <span data-ttu-id="c2edc-104">Rozmiar jest mniejszy niż 15 GB.</span><span class="sxs-lookup"><span data-stu-id="c2edc-104">It's less than 15 GB in size.</span></span>
     
-- <span data-ttu-id="a35d7-105">Całą ścieżkę, łącznie z nazwą pliku jest mniej niż 400 znaków.</span><span class="sxs-lookup"><span data-stu-id="a35d7-105">The entire path, including the file name, is fewer than 400 characters.</span></span>
+- <span data-ttu-id="c2edc-105">Cała ścieżka, łącznie z nazwą pliku, jest mniejsza niż 400 znaków.</span><span class="sxs-lookup"><span data-stu-id="c2edc-105">The entire path, including the file name, is fewer than 400 characters.</span></span>
     
-- <span data-ttu-id="a35d7-106">Nazwa pliku nie zawiera znaków " \* : \< \> ?</span><span class="sxs-lookup"><span data-stu-id="a35d7-106">The file name doesn't contain the characters " \* : \< \> ?</span></span> <span data-ttu-id="a35d7-107">/ \ | i nie jest na liście [nieprawidłowych nazw](https://go.microsoft.com/fwlink/?linkid=866430).</span><span class="sxs-lookup"><span data-stu-id="a35d7-107">/ \ | and isn't on the list of [invalid names](https://go.microsoft.com/fwlink/?linkid=866430).</span></span>
+- <span data-ttu-id="c2edc-106">Nazwa pliku nie zawiera znaków " \* :? \< \></span><span class="sxs-lookup"><span data-stu-id="c2edc-106">The file name doesn't contain the characters " \* : \< \> ?</span></span> <span data-ttu-id="c2edc-107">/ \ | i nie znajduje się na liście [nieprawidłowych nazw](https://go.microsoft.com/fwlink/?linkid=866430).</span><span class="sxs-lookup"><span data-stu-id="c2edc-107">/ \ | and isn't on the list of [invalid names](https://go.microsoft.com/fwlink/?linkid=866430).</span></span>
     
-<span data-ttu-id="a35d7-108">Jeśli próbujesz przekazać plik przy użyciu na komputerze aplikację, zobacz [ograniczenia i podczas synchronizacji plików i folderów](http://go.microsoft.com/fwlink/p/?LinkID=717734) lub [OneDrive rozwiązać problemy z synchronizacją](https://go.microsoft.com/fwlink/?linkid=866431).</span><span class="sxs-lookup"><span data-stu-id="a35d7-108">If you're trying to upload the file by using the OneDrive desktop app, see [Restrictions and limitations when you sync files and folders](http://go.microsoft.com/fwlink/p/?LinkID=717734) or [Fix OneDrive sync problems](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
+<span data-ttu-id="c2edc-108">Jeśli próbujesz przesłać plik za pomocą aplikacji komputerowej OneDrive, zobacz [ograniczenia i ograniczenia podczas synchronizowania plików i folderów](http://go.microsoft.com/fwlink/p/?LinkID=717734) lub [Napraw problemy z synchronizacją OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).</span><span class="sxs-lookup"><span data-stu-id="c2edc-108">If you're trying to upload the file by using the OneDrive desktop app, see [Restrictions and limitations when you sync files and folders](http://go.microsoft.com/fwlink/p/?LinkID=717734) or [Fix OneDrive sync problems](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
   
 

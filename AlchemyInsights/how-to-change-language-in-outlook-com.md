@@ -1,5 +1,5 @@
 ---
-title: Jak zmienić język w Hotmail
+title: Jak zmienić język w Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,18 +14,18 @@ ms.custom:
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
 ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36541676"
 ---
-# <a name="change-your-language"></a><span data-ttu-id="d2188-102">Zmienianie języka</span><span class="sxs-lookup"><span data-stu-id="d2188-102">Change your language</span></span>
+# <a name="change-your-language"></a><span data-ttu-id="b7b9e-102">Zmiana języka</span><span class="sxs-lookup"><span data-stu-id="b7b9e-102">Change your language</span></span>
 
-1. <span data-ttu-id="d2188-103">Aby chang języka w programie Outlook, przejdź do ustawień [**językowych i czasu**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Ustawienia** \> **wyświetlić wszystkie ustawienia programu Outlook** > **Ogólne** > **języka i czas**).</span><span class="sxs-lookup"><span data-stu-id="d2188-103">To chang the language in Outlook, go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
+1. <span data-ttu-id="b7b9e-103">Aby Chang język w programie Outlook, przejdź do ustawienia [**języka i czasu**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Ustawienia** \> **Wyświetl wszystkie ustawienia** > programu Outlook**ogólny** > **język i czas**).</span><span class="sxs-lookup"><span data-stu-id="b7b9e-103">To chang the language in Outlook, go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
 
-2. <span data-ttu-id="d2188-104">Wybierz swój język.</span><span class="sxs-lookup"><span data-stu-id="d2188-104">Choose your language.</span></span>
+2. <span data-ttu-id="b7b9e-104">Wybierz swój język.</span><span class="sxs-lookup"><span data-stu-id="b7b9e-104">Choose your language.</span></span>
 
-3. <span data-ttu-id="d2188-105">Wybierz pozycję **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="d2188-105">Select **Save**.</span></span>
+3. <span data-ttu-id="b7b9e-105">Wybierz pozycję **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="b7b9e-105">Select **Save**.</span></span>
 
-<span data-ttu-id="d2188-106">Aby dowiedzieć się więcej, zobacz [Zmienianie stref czasowych i ustawień języka w Hotmail](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="d2188-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
+<span data-ttu-id="b7b9e-106">Aby dowiedzieć się więcej, zobacz [Zmienianie ustawień strefy czasowej i języka w Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="b7b9e-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
