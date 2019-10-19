@@ -1,5 +1,5 @@
 ---
-title: Udzielanie użytkownikom dostępu do programu SharePoint i OneDrive
+title: Zapewnienie użytkownikom dostępu do programu SharePoint i usługi OneDrive
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
 ms.openlocfilehash: 1be9763ce7766c6261f0c1dae78ced6727c7a88d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36523773"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Udzielanie użytkownikom dostępu do programu SharePoint i OneDrive
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Zapewnienie użytkownikom dostępu do programu SharePoint i usługi OneDrive
 
 > [!NOTE]
-> Jeśli witryny programu SharePoint lub OneDrive nie jest dostępny dla wielu użytkowników, którzy uprzednio uzyskiwała dostęp, może to być problem tymczasowy usługi. [Sprawdź pulpit nawigacyjny kondycji usługi](https://portal.office.com/adminportal/home#/servicehealth)
+> Jeśli witryna OneDrive lub SharePoint nie jest dostępna dla wielu użytkowników, którzy wcześniej mieli dostęp, może to być problem tymczasowy usługi. [Sprawdź pulpit nawigacyjny kondycji usługi](https://portal.office.com/adminportal/home#/servicehealth)
   
-Jeśli chcesz osób w organizacji, aby być w stanie zarejestrować i korzystać z programu SharePoint i OneDrive, należy dodać konta dla nich i upewnij się, że posiadają licencję, która daje im dostęp do programu SharePoint i OneDrive. Najprostszym sposobem dodania użytkowników jest w Centrum administracyjnym usługi Microsoft 365.
+Jeśli chcesz, aby osoby w organizacji mogły logować się i używać programu SharePoint i usługi OneDrive, musisz dodać do nich konta i upewnić się, że mają licencję, która daje im dostęp do programu SharePoint i usługi OneDrive. Najprostszym sposobem dodawania użytkowników znajduje się w centrum administracyjnym Microsoft 365.
   
-1. Przejdź do [strony Użytkownicy aktywni w Centrum administracyjnym usługi Microsoft 365](https://portal.office.com/adminportal/home#/users), a następnie kliknij przycisk **Dodaj użytkownika**.
+1. Przejdź do [strony aktywnych użytkowników w centrum administracyjnym Microsoft 365](https://portal.office.com/adminportal/home#/users), a następnie kliknij przycisk **Dodaj użytkownika**.
     
-2. Wprowadź informacje dla użytkownika i upewnij się, że **licencje produktu**przypisany licencji i **Programu SharePoint w trybie Online** jest zaznaczone. 
+2. Wypełnij informacje dla użytkownika i upewnij się, że w obszarze **licencje produktu**, licencja jest przypisany i **SharePoint Online** jest zaznaczone. 
     
-Należy zauważyć, że jeśli Ci Zezwól na udostępnianie w organizacji, udostępniania zawartości programu SharePoint i OneDrive z osobami spoza organizacji. Nie musisz podać te licencje użytkowników zewnętrznych. Również nie trzeba dodać konta do nich, chyba że udostępnianie jest ustawiona na "Tylko istniejących zewnętrznych użytkowników." W takim przypadku jeśli ludzie nie są w katalogu firmy, musisz dodać je jako goście w Centrum administracyjnym usługi Azure AD.
+Należy pamiętać, że Jeśli zezwolisz na udostępnianie zewnętrzne w organizacji, użytkownicy mogą udostępniać zawartość programu SharePoint i usługi OneDrive osobom spoza organizacji. Nie musisz udzielać tych licencji użytkownikom zewnętrznym. Nie trzeba też dodawać kont dla nich, chyba że udostępnianie jest ustawione na "tylko istniejący użytkownicy zewnętrzni". W takim przypadku jeśli ludzie nie są w katalogu organizacji, należy dodać je jako gość w centrum administracyjnym usługi Azure AD.
   
 

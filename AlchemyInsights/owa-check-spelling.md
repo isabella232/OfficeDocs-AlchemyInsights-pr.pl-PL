@@ -1,5 +1,5 @@
 ---
-title: Sprawdzanie pisowni w programie Outlook w sieci web
+title: Sprawdzanie pisowni w programie Outlook w sieci Web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,12 +13,12 @@ ms.custom:
 - "8000007"
 - "1992"
 ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510561"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>Sprawdzanie pisowni za pomocą przeglądarki
+# <a name="use-your-browser-to-check-spelling"></a>Sprawdź pisownię za pomocą przeglądarki
 
-Nie ma żadnych opcji wyboru pisowni w programie Outlook w sieci web. Aby sprawdzić pisownię, będziesz musiał użyć przeglądarki sieci web. Sprawdzanie pisowni jest dostępny w Microsoft Edge, Internet Explorer 10 i nowszych wersjach i aktualne wersje przeglądarki Firefox, Chrome i Safari. Sprawdź opcje przeglądarki sieci web dowiedzieć się więcej o sprawdzaniu pisowni.
+W programie Outlook w sieci Web nie ma opcji sprawdzania pisowni. Aby sprawdzić pisownię, musisz użyć przeglądarki internetowej. Sprawdzanie pisowni jest dostępne w przeglądarkach Microsoft Edge, Internet Explorer 10 i nowszych oraz w aktualnych wersjach przeglądarek Firefox, Chrome i Safari. Sprawdź opcje przeglądarki internetowej, aby dowiedzieć się, jak sprawdzić pisownię.
