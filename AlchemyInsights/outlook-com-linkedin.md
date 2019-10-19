@@ -1,5 +1,5 @@
 ---
-title: Problemy z śmieci, twierdząc, że z LinkedIn
+title: Problemy z wiadomościami-śmieciami, które twierdzą, że są z LinkedIn
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.custom:
 - "1276"
 - "8000079"
 ms.openlocfilehash: e0c2029ce40e4c105c7a4790f15555f9cd3b1fee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36536517"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a><span data-ttu-id="1e036-102">Problemy z śmieci, twierdząc, że z LinkedIn</span><span class="sxs-lookup"><span data-stu-id="1e036-102">Issues with junk email claiming to be from LinkedIn</span></span>
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a><span data-ttu-id="d4a2a-102">Problemy z wiadomościami-śmieciami, które twierdzą, że są z LinkedIn</span><span class="sxs-lookup"><span data-stu-id="d4a2a-102">Issues with junk email claiming to be from LinkedIn</span></span>
 
-<span data-ttu-id="1e036-103">Zdajemy sobie sprawę, że niektórzy użytkownicy otrzymują śmieci, która twierdzi, że z LinkedIn.</span><span class="sxs-lookup"><span data-stu-id="1e036-103">We're aware that some users are receiving junk email which claims to be from LinkedIn.</span></span>
+<span data-ttu-id="d4a2a-103">Jesteśmy świadomi, że niektórzy użytkownicy otrzymują wiadomości-śmieci, które twierdzi, że z LinkedIn.</span><span class="sxs-lookup"><span data-stu-id="d4a2a-103">We're aware that some users are receiving junk email which claims to be from LinkedIn.</span></span>
 
-<span data-ttu-id="1e036-104">Firma Microsoft zaleca użycie reguły skrzynki odbiorczej w celu odfiltrowania tych wiadomości e-mail.</span><span class="sxs-lookup"><span data-stu-id="1e036-104">We recommend using an inbox rule to filter these emails.</span></span>
+<span data-ttu-id="d4a2a-104">Zalecamy użycie reguły skrzynki odbiorczej do filtrowania tych wiadomości e-mail.</span><span class="sxs-lookup"><span data-stu-id="d4a2a-104">We recommend using an inbox rule to filter these emails.</span></span>
 
-<span data-ttu-id="1e036-105">Aby uzyskać więcej informacji, przeczytaj jak [używać reguł skrzynki odbiorczej w Hotmail](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="1e036-105">For more information, read how to [use inbox rules in Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="d4a2a-105">Aby uzyskać więcej informacji, Przeczytaj, jak [używać reguł skrzynki odbiorczej w Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="d4a2a-105">For more information, read how to [use inbox rules in Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
