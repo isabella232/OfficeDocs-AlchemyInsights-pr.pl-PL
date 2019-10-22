@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: b3ed180bd6ad8ba0fc9a1e7c9ede9926b705f002
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 0fff4563d97b4b9bbcf0775f7ab5dad19e3e736a
+ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36748226"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "37611743"
 ---
 # <a name="intermittent-delays-with-workflow-progress"></a>Sporadyczne opóźnienia z postępem przepływu pracy
 
-Jeśli przepływ pracy nie jest uruchamianie, może być problem tymczasowy usługi, gdzie użytkownicy mogą wystąpić sporadyczne opóźnienia z postępu przepływu pracy. Sprawdź [pulpit nawigacyjny kondycji usługi]("https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , aby sprawdzić, czy Twoja organizacja ma wpływ. 
+Jeśli przepływ pracy nie jest uruchamianie, może być problem tymczasowy usługi, gdzie użytkownicy mogą wystąpić sporadyczne opóźnienia z postępu przepływu pracy. Sprawdź [pulpit nawigacyjny kondycji usługi](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , aby sprawdzić, czy Twoja organizacja ma wpływ. 
 
 Jeśli minęło więcej niż 24 godziny od pierwszego zobaczyłem ten problem, należy zalogować bilet pomocy technicznej. W wielu przypadkach pracujemy już nad rozwiązaniem. Proszę dać nam co najmniej 24 godziny, aby zakończyć rozwiązanie.
 
