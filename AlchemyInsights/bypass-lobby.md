@@ -11,16 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: de665ca6defcd0d00d227435473e5a4ccf61bc82
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
+ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376765"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637787"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Sterowanie ustawieniami lobby i poziomem uczestnictwa
 
-Te ustawienia kontrolują, którzy uczestnicy spotkania czekają w lobby, zanim zostaną przyjęci na spotkanie i poziom uczestnictwa, jaki są dozwolone na spotkaniu. Można użyć programu PowerShell, aby zaktualizować ustawienia zasad spotkania, które nie zostały jeszcze wdrożone (oznaczone jako "wkrótce") w centrum administracyjnym zespołów.  Poniżej przedstawiono przykładowe polecenie cmdlet programu PowerShell, które pozwala wszystkim użytkownikom ominąć lobby.  
+Jeśli chcesz zezwolić wszystkim, w tym telefonowania, zewnętrzni i anonimowi użytkownicy ominąć lobby, można użyć programu PowerShell, aby to zrobić. Oto przykład modyfikowania globalnych zasad spotkania dla organizacji:
+
+`Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
+
+To polecenie cmdlet obecnie wymaga użycia programu Skype dla modułu Business PowerShell. Aby pobrać Instalatora, aby użyć tego polecenia cmdlet, zapoznaj się zarządzanie zasadami za pomocą programu PowerShell.
+
+Można skonfigurować nowe zasady, które następnie należy zastosować do użytkowników. W przypadku zmodyfikowania zasad globalnych będzie ona automatycznie stosowana do użytkowników. W przypadku każdej zmiany zasad należy poczekać co najmniej 4 godziny i do 24 godzin, aby zasady zostały uwzględnione.
+
+Przed wprowadzeniem tych zmian należy zapoznać się z poniższą dokumentacją, aby dokładnie zrozumieć, co to pozwala.
+
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Opis formantów zasad lobby spotkań zespołów
 
 - [Automatycznie przyznać](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) , że ludzie to zasady na organizatora, który kontroluje, czy ludzie przyłączyć się do spotkania bezpośrednio lub poczekać w lobby, dopóki nie zostaną dopuszczone przez uwierzytelnionego użytkownika.
 
@@ -30,15 +40,4 @@ Te ustawienia kontrolują, którzy uczestnicy spotkania czekają w lobby, zanim 
 
 - [Pozwól organizatorom na zastąpienie ustawień lobby](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) **(wkrótce**) jest to zasada dla organizatora, która kontroluje, czy organizator spotkania może zastąpić ustawienia lobby, które admin ustawiają **automatycznie przyznać ludziom** i zezwolić na **telefonowania użytkownikom na ominięcie lobby** podczas planowania nowego spotkania.
 
-**Uwaga:** Przeczytaj [Zarządzanie zasadami spotkania w zespołach](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) , aby uzyskać pełny przegląd zasad dotyczących spotkań w programie Microsoft Teams. 
-
-
-**Przykład programu Powershellpowershell example**
-
-Jeśli chcesz zezwolić wszystkim, w tym użytkownikom zewnętrznym lub anonimowym, ominąć lobby, możesz również użyć programu PowerShell, aby wykonać to zadanie.  Oto przykład modyfikowania globalne zasady spotkania dla organizacji.   
-
-(Przed wprowadzeniem tych zmian zapoznaj się z dokumentacją powyżej, aby dokładnie zrozumieć, co to pozwala).
-
-Zestaw CsTeamsMeetingPolicy-tożsamość globalny-AutoAdmittedUsers "Wszyscy"-AllowPSTNUsersToBypassLobby $True
-
-Aby uzyskać więcej informacji, zobacz [zestaw CsTeamsMeetingPolicy](https://docs.microsoft.com/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps).
+**Uwaga:** Przeczytaj [Zarządzanie zasadami spotkania w zespołach](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) , aby uzyskać pełny przegląd zasad dotyczących spotkań w programie Microsoft Teams.
