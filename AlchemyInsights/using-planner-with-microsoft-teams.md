@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2653"
 - "9000727"
-ms.openlocfilehash: 0a66d2b39e77284edb8539c22121598183c9bce4
-ms.sourcegitcommit: 3a7c40c232294878ac0c91302e86599ec6f5209e
+ms.openlocfilehash: 04a0bcff06c9a52db4bc7ff55799a1cef8fd1eca
+ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37373268"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37681716"
 ---
 # <a name="using-planner-with-microsoft-teams"></a>Korzystanie z programu Planner z zespołami Microsoft Teams
 
 Uporządkuj swoje zadania, dodając jedną lub więcej kart Planner do kanału Teams: 
 
 - [Dodaj kartę Planner do kanału zespołowego](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). Użytkownik, który dodaje kartę musi być członkiem zespołu, a nie tylko właścicielem. Możesz dodać użytkownika jako członka za pośrednictwem interfejsu Microsoft Teams.
-- [Dodaj istniejący plan do programu Microsoft Teams](https:/techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463).
+- [Dodaj istniejący plan do programu Microsoft Teams](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463).
 - [Usuń kartę Planner lub Usuń plan](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan). Usuniętych planów nie można odzyskać w zespołach. Jeśli grupa zostanie już usunięta, można [odzyskać usunięte plany i grupy](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups).
 - [Włączanie lub wyłączanie powiadomień o przypisaniu planisty w zespołach](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams).
 

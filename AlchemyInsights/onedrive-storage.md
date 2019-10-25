@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661054"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658303"
 ---
 # <a name="manage-your-onedrive-storage"></a>Zarządzanie magazynem w usłudze OneDrive
 
-Aby zmienić domyślny magazyn dla nowych i istniejących użytkowników usługi OneDrive:
-  
-- Przejdź do [strony magazynu centrum administracyjnego usługi OneDrive](https://admin.onedrive.com/?v=StorageSettings), a następnie wprowadź nową kwotę w GB.
+Miejsce na dysku OneDrive nie jest wliczane do ogólnego przydziału dzierżawy. 
 
-To ustawienie miejsca do magazynowania ma zastosowanie do wszystkich użytkowników, dla których nie ustawiono określonych limitów magazynowania. Aby zmienić miejsce do magazynowania dla określonych użytkowników, należy użyć programu Microsoft PowerShell. Aby uzyskać informacje, jak to zrobić, zobacz [Zmienianie miejsca dyskowego OneDrive użytkowników przy użyciu programu PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). Aby sprawdzić, ile miejsca jest używane w usłudze OneDrive, zobacz [Zarządzanie magazynem usługi OneDrive dla firm](https://go.microsoft.com/fwlink/?linkid=866429). Aby uzyskać informacje o magazynie, który pochodzi z każdego planu, zobacz [OneDrive dla Business Opis usługi](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Dowiedz się, [jak przydzielana jest przestrzeń dyskowego OneDrive na użytkownika/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
+
+Dowiedz się [, ile pamięci masowej używasz w usłudze OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
+
+Dowiedz się, [jak uzyskać przydział miejsca w usłudze OneDrive przy użyciu programu PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
+
+Firma Microsoft będzie początkowo dostarczać 1 TB na użytkownika, które Administratorzy mogą zwiększyć do maksymalnie 5 TB na użytkownika. Dowiedz się [, jak ustawić domyślne miejsce do magazynowania dla użytkowników usługi OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space).
+
+Dowiedz się [, jak zmienić przestrzeń dyskowe określonego użytkownika w usłudze OneDrive](https://docs.microsoft.com/onedrive/change-user-storage).
+
+Dowiedz się, [jak Administratorzy globalni mogą ustawiać przydział miejsca w usłudze OneDrive dla wszystkich użytkowników korzystających z programu PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
   

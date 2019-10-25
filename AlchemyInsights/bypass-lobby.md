@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
+ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637787"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37654266"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Sterowanie ustawieniami lobby i poziomem uczestnictwa
 
@@ -24,7 +24,7 @@ Jeśli chcesz zezwolić wszystkim, w tym telefonowania, zewnętrzni i anonimowi 
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-To polecenie cmdlet obecnie wymaga użycia programu Skype dla modułu Business PowerShell. Aby pobrać Instalatora, aby użyć tego polecenia cmdlet, zapoznaj się zarządzanie zasadami za pomocą programu PowerShell.
+To polecenie cmdlet obecnie wymaga użycia programu Skype dla modułu Business PowerShell. Aby uzyskać Instalator, aby użyć tego polecenia cmdlet, zapoznaj się z [zasadami zarządzania za pomocą programu PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 Można skonfigurować nowe zasady, które następnie należy zastosować do użytkowników. W przypadku zmodyfikowania zasad globalnych będzie ona automatycznie stosowana do użytkowników. W przypadku każdej zmiany zasad należy poczekać co najmniej 4 godziny i do 24 godzin, aby zasady zostały uwzględnione.
 
