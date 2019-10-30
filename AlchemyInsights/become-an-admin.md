@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: d43ada137a906f0a4dade37bf6b30b597fd64576
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 16f99b3bfce3513ada0e0c14ee8e3106cb7565d7
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36736911"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768378"
 ---
-# <a name="become-an-admin"></a><span data-ttu-id="d681d-102">Zostań administratorem</span><span class="sxs-lookup"><span data-stu-id="d681d-102">Become an Admin</span></span>
+# <a name="become-an-admin"></a><span data-ttu-id="d935a-102">Zostań administratorem</span><span class="sxs-lookup"><span data-stu-id="d935a-102">Become an Admin</span></span>
 
-<span data-ttu-id="d681d-103">Aby założyć rolę administratora dla tej organizacji, należy przejąć dzierżawę.</span><span class="sxs-lookup"><span data-stu-id="d681d-103">To assume the admin role for this organization, you need to take over the tenant.</span></span>
+<span data-ttu-id="d935a-103">Aby założyć rolę administratora dla organizacji, należy przejąć dzierżawę w pakiecie Office 365.</span><span class="sxs-lookup"><span data-stu-id="d935a-103">To assume the admin role for your organization, you need to take over the tenant in Office 365.</span></span>
   
-<span data-ttu-id="d681d-104">Postępuj zgodnie z instrukcjami w tym przewodniku: [czy przejęcie administratora w pakiecie Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span><span class="sxs-lookup"><span data-stu-id="d681d-104">Follow the instructions in this guide: [Do an admin takeover in Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span></span>
+<span data-ttu-id="d935a-104">Postępuj zgodnie z instrukcjami w tym przewodniku: [czy przejęcie administratora w pakiecie Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span><span class="sxs-lookup"><span data-stu-id="d935a-104">Follow the instructions in this guide: [Do an admin takeover in Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span></span>

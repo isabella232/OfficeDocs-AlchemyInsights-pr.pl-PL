@@ -1,9 +1,8 @@
 ---
-title: 714 zezwalanie nadawców zewnętrznych do listy dystrybucyjne poczty e-mail
+title: 714 Zezwalanie zewnętrznym nadawcom na listy dystrybucyjne poczty e-mail
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 1978e27e605c124299e5737315e7e2926e7238c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506561"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768234"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a><span data-ttu-id="c527c-102">Zezwalaj na nadawców zewnętrznych do wysyłania wiadomości do grupy dystrybucyjne</span><span class="sxs-lookup"><span data-stu-id="c527c-102">Allow external senders to send messages to distribution groups</span></span>
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a><span data-ttu-id="b138f-102">Zezwalaj zewnętrznym nadawcom na wysyłanie wiadomości do grup dystrybucyjnych</span><span class="sxs-lookup"><span data-stu-id="b138f-102">Allow external senders to send messages to distribution groups</span></span>
 
-<span data-ttu-id="c527c-103">Jeśli użytkownicy spoza organizacji błędów podczas wysyłania wiadomości do grup dystrybucyjnych lub chcesz zweryfikować, czy grup dystrybucyjnych są skonfigurowane do odbierania poczty od nadawców zewnętrznych, wykonaj następujące kroki:</span><span class="sxs-lookup"><span data-stu-id="c527c-103">If users outside of your organization receive errors when they send messages to your distribution groups, or you want to verify that your distribution groups are configured to receive mail from external senders, follow these steps:</span></span>
+<span data-ttu-id="b138f-103">Jeśli użytkownicy spoza organizacji otrzymają błędy podczas wysyłania wiadomości do grup dystrybucyjnych lub chcesz sprawdzić, czy grupy dystrybucyjne są skonfigurowane do odbierania poczty od nadawców zewnętrznych, wykonaj następujące kroki:</span><span class="sxs-lookup"><span data-stu-id="b138f-103">If users outside of your organization receive errors when they send messages to your distribution groups, or you want to verify that your distribution groups are configured to receive mail from external senders, follow these steps:</span></span>
 
-1. <span data-ttu-id="c527c-104">Przejdź do węzła **grupy** w [portal administratorów usługi Office 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="c527c-104">Go to the **Groups** node in the [Office 365 admin portal](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="b138f-104">W centrum administracyjnym pakietu Office 365 przejdź > [na stronę](https://portal.office.com/adminportal/home#/groups) grupy **grup.**</span><span class="sxs-lookup"><span data-stu-id="b138f-104">In the Office 365 admin center, go to the **Groups** > [Groups](https://portal.office.com/adminportal/home#/groups) page.</span></span>  
 
-2. <span data-ttu-id="c527c-105">Wybierz grupę dystrybucji, a w grupie właściwości Poleć pojawiający się, kliknij przycisk **Edytuj** w sekcji zawierającej **Zezwalaj na nadawców zewnętrznych**.</span><span class="sxs-lookup"><span data-stu-id="c527c-105">Select the distribution group, and in the group properties fly out that appears, click **Edit** in the section that contains **Allow external senders**.</span></span>
+2. <span data-ttu-id="b138f-105">Wybierz grupę dystrybucyjną, a następnie w okienku właściwości grupy wybierz kartę **Ustawienia** .</span><span class="sxs-lookup"><span data-stu-id="b138f-105">Select the distribution group, and in the group properties pane, select the **Settings** tab.</span></span>
 
-3. <span data-ttu-id="c527c-106">W **Edytowanie szczegółów** out Przylot, który pojawi się, sprawdź, czy **umożliwić osób spoza mojej organizacji do wysyłania wiadomości e-mail do tej grupy dystrybucyjnej.**</span><span class="sxs-lookup"><span data-stu-id="c527c-106">In the **Edit details** fly out that appears, verify that **Allow people outside of my organization to send email to this distribution group.**</span></span> <span data-ttu-id="c527c-107">znajduje się **na**, a następnie kliknij przycisk **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="c527c-107">is **On**, and then click **Save**.</span></span>
+3. <span data-ttu-id="b138f-106">Wybierz pozycję **Zezwalaj zewnętrznym nadawcom na wiadomości e-mail tej grupy**, a następnie wybierz pozycję **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="b138f-106">Select **Allow external senders to email this group**, and then select **Save**.</span></span>
