@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754202"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768811"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Rozwiązywanie problemów — nie można odnaleźć użytkownika w katalogu
 
-Jeśli użytkownicy otrzymują komunikat o błędzie "nie można odnaleźć użytkownika" w katalogu. Proszę spróbować ponownie gdzie typ problemu jest użytkownik nie w katalogu.
+Jeśli użytkownicy otrzymują komunikat o błędzie "nie można znaleźć użytkownika" w katalogu, spróbuj ponownie, gdzie typ problemu jest użytkownik nie w katalogu.
 
 Aby rozwiązać ten problem, można wykonać następujące czynności.
 
@@ -29,7 +29,7 @@ Aby uzyskać więcej informacji, zobacz [jak zarządzać aliasami konta</a> Micr
 
 Dodaj "/_layouts/15/People.aspx/MembershipGroupId = 0" (w cudzysłowie) na końcu adresu URL witryny. 
 
-Przykład: https://_LT_ "contoso">. SharePoint. com/_layouts/15/People. aspx/membershipGroupId = 0.
+Przykład: https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Wybierz użytkownika z listy.
 

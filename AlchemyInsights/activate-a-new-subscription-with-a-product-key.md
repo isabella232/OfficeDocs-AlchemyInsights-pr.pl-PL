@@ -1,9 +1,8 @@
 ---
-title: Aktywacja nowych subskrypcji z kluczem produktu
+title: Aktywowanie nowej subskrypcji za pomocą klucza produktu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: e371f550f7dd8e1716f55cbabfff2ae598c9a47d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495653"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766397"
 ---
-# <a name="activate-a-new-subscription-with-a-product-key"></a>Aktywacja nowych subskrypcji z kluczem produktu
+# <a name="activate-a-new-subscription-with-a-product-key"></a>Aktywowanie nowej subskrypcji za pomocą klucza produktu
 
-1. Aby uaktywnić nowej subskrypcji z kluczem produktu, przejdź do [https://office.com/setupkey](https://office.com/setupkey) strony.
+1. Aby aktywować nową subskrypcję pakietu Office 365 z kluczem produktu, przejdź do [https://office.com/setupkey](https://office.com/setupkey).
 
-2. Wprowadź klucz produktu Office 365 i postępuj zgodnie z monitami, aby aktywować swoją subskrypcję. Jeśli masz problemy z aktywacją, zapoznaj się z [listą typowych błędów dotyczących klucza produktu i sposobów ich naprawiania](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).
+2. Wprowadź klucz produktu pakietu Office 365 i postępuj zgodnie z wyświetlanymi monitami, aby aktywować subskrypcję. Jeśli masz problemy z aktywacją, zapoznaj się z [listą typowych błędów dotyczących klucza produktu i sposobów ich naprawiania](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).

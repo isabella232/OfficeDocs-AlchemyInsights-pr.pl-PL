@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1926"
 - "6200018"
-ms.openlocfilehash: cbdedd2c5fcf5517243e60e36d86479d6c3f7814
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 3cdd2175083e864b3bffc57a70bb6c6220843fad
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36529029"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769349"
 ---
 # <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>Zdarzenie OnChange nie występuje, jeśli pole jest zmieniane programowo
 
-Zdarzenie *OnChange* nie występuje, jeśli pole jest zmieniane programowo przy użyciu *atrybutu.* [setValue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) metody. Jeśli chcesz, aby programy obsługi zdarzeń dla zdarzenia *OnChange* były uruchamiane po ustawieniu wartości, należy użyć *atrybutu formcontext. Data. Entity.* [Fireonchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) Metoda w kodzie.
+Zdarzenie *OnChange* nie występuje, jeśli pole jest zmieniane programowo przy użyciu *atrybutu.* [setValue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) metody. Jeśli chcesz obsługi zdarzeń *OnChange* zdarzenie, aby uruchomić po ustawieniu wartości należy użyć *formcontext. Data. Entity atrybutu* [fireonchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) metody w kodzie.
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange)

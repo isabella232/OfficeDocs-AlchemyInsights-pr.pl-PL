@@ -1,9 +1,8 @@
 ---
-title: 713 Dodawanie dodatkowy adres e-mail do listy dystrybucyjnej
+title: 713 Dodawanie dodatkowego adresu e-mail do listy dystrybucyjnej
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 5bf91d9ff6824fd5ee10510c4a5f0c85edf4be7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c51ed54fcbdf131605995b95bd0619d877e96b29
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494789"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766217"
 ---
-# <a name="add-an-email-address-for-a-distribution-group"></a>Dodaj adres e-mail do grupy dystrybucyjnej
+# <a name="add-an-email-address-for-a-distribution-group"></a>Dodawanie adresu e-mail dla grupy dystrybucyjnej
 
-Aby dodać adresy e-mail dla istniejącej grupy dystrybucji, wykonaj następujące kroki:
+Aby dodać adresy e-mail dla istniejącej grupy dystrybucyjnej, wykonaj następujące kroki:
 
-1. W [Centrum administracyjnego programu Exchange](https://outlook.office365.com/ecp/), przejdź do **adresatów** \> **grup**.
+1. W [Centrum administracyjnego programu Exchange](https://outlook.office365.com/ecp/)przejdź do grupy **adresatów** \> ****.
 
-2. Wybierz grupę dystrybucji, którą chcesz zmodyfikować, a następnie kliknij przycisk **Edytuj**.
+2. Wybierz grupę dystrybucyjną, którą chcesz zmodyfikować, a następnie kliknij przycisk **Edytuj**.
 
-3. We właściwościach grupy przejdź do karty **Opcje poczty E-mail** , aby dodać adresy e-mail. 
+3. We właściwościach grupy przejdź na zakładkę **Opcje e-mail** , aby dodać adresy e-mail. 
 
-Aby uzyskać więcej informacji zobacz temat [Opcje poczty E-mail](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).
+Aby uzyskać więcej informacji, zobacz [Opcje poczty e-mail](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).

@@ -2,7 +2,6 @@
 title: Użytkownik zewnętrzny nie może zaakceptować zaproszenia do udostępniania
 ms.author: efrene
 author: efrene
-ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +11,16 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ebbd33fdff837c02b5f9220b3e895679041330bd
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36735903"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769133"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Użytkownik zewnętrzny nie może zaakceptować zaproszenia do udostępniania
 
-Jeśli użytkownik zewnętrzny nie może zaakceptować zaproszenia do udostępniania, spróbuj odwiedzić poniższe linki: 
+Jeśli użytkownik zewnętrzny nie może zaakceptować zaproszenia do udostępniania programu SharePoint lub OneDrive, spróbuj odwiedzić poniższe łącza: 
 
 - ["Odmowa dostępu", "musisz mieć uprawnienia dostępu do tej witryny" lub "nie można odnaleźć użytkownika w katalogu" błędy w programie SharePoint Online i OneDrive dla firm](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - ["Zasady organizacji nie zezwalają na udostępnianie tych użytkowników" błąd podczas udostępniania elementu lub witryny w programie SharePoint w trybie online lub OneDrive dla firm](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
