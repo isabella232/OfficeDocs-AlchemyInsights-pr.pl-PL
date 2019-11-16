@@ -14,19 +14,19 @@ ms.custom:
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
 ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36737092"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="9bbfb-102">Co to są role administratora i jak je przypisać?</span><span class="sxs-lookup"><span data-stu-id="9bbfb-102">What are admin roles and how do you assign them?</span></span>
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="ae1d2-102">Co to są role administratora i jak je przypisać?</span><span class="sxs-lookup"><span data-stu-id="ae1d2-102">What are admin roles and how do you assign them?</span></span>
 
-<span data-ttu-id="9bbfb-103">Wygląda na to, masz kilka pytań dotyczących ról administratora.</span><span class="sxs-lookup"><span data-stu-id="9bbfb-103">Looks like you have some questions about admin roles.</span></span> <span data-ttu-id="9bbfb-104">Te artykuły powinny odpowiedzieć na wszystkie pytania.</span><span class="sxs-lookup"><span data-stu-id="9bbfb-104">These articles should answer all your questions.</span></span>
+<span data-ttu-id="ae1d2-103">Wygląda na to, masz kilka pytań dotyczących ról administratora.</span><span class="sxs-lookup"><span data-stu-id="ae1d2-103">Looks like you have some questions about admin roles.</span></span> <span data-ttu-id="ae1d2-104">Te artykuły powinny odpowiedzieć na wszystkie pytania.</span><span class="sxs-lookup"><span data-stu-id="ae1d2-104">These articles should answer all your questions.</span></span>
   
-- [<span data-ttu-id="9bbfb-105">Role administratora — informacje</span><span class="sxs-lookup"><span data-stu-id="9bbfb-105">About admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+- [<span data-ttu-id="ae1d2-105">Role administratora — informacje</span><span class="sxs-lookup"><span data-stu-id="ae1d2-105">About admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
 
-- [<span data-ttu-id="9bbfb-106">Przypisywanie ról administratora</span><span class="sxs-lookup"><span data-stu-id="9bbfb-106">Assign admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
+- [<span data-ttu-id="ae1d2-106">Przypisywanie ról administratora</span><span class="sxs-lookup"><span data-stu-id="ae1d2-106">Assign admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
 
-<span data-ttu-id="9bbfb-107">Nie odpowiedzieli na Twoje pytanie?</span><span class="sxs-lookup"><span data-stu-id="9bbfb-107">Didn't answer your question?</span></span> <span data-ttu-id="9bbfb-108">Nie ma sprawy!</span><span class="sxs-lookup"><span data-stu-id="9bbfb-108">No problem!</span></span> <span data-ttu-id="9bbfb-109">Użyj opcji "Pozwól nam zadzwonić do Ciebie", aby porozmawiać z pracownikiem pomocy technicznej.</span><span class="sxs-lookup"><span data-stu-id="9bbfb-109">Use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="ae1d2-107">Nie odpowiedzieli na Twoje pytanie?</span><span class="sxs-lookup"><span data-stu-id="ae1d2-107">Didn't answer your question?</span></span> <span data-ttu-id="ae1d2-108">Nie ma sprawy!</span><span class="sxs-lookup"><span data-stu-id="ae1d2-108">No problem!</span></span> <span data-ttu-id="ae1d2-109">Użyj opcji "Pozwól nam zadzwonić do Ciebie", aby porozmawiać z pracownikiem pomocy technicznej.</span><span class="sxs-lookup"><span data-stu-id="ae1d2-109">Use the "Let us call you" option to talk to a support engineer.</span></span>
   

@@ -14,23 +14,23 @@ ms.custom:
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
 ms.openlocfilehash: 4cb14da2358c4c97814b881de63214fe97f0c2ee
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36738747"
 ---
-# <a name="change-the-alternate-email-address-for-billing-notification"></a><span data-ttu-id="d419e-102">Zmienianie alternatywnego adresu e-mail dla powiadomień o rozliczeniach</span><span class="sxs-lookup"><span data-stu-id="d419e-102">Change the alternate email address for billing notification</span></span>
+# <a name="change-the-alternate-email-address-for-billing-notification"></a><span data-ttu-id="0569c-102">Zmienianie alternatywnego adresu e-mail dla powiadomień o rozliczeniach</span><span class="sxs-lookup"><span data-stu-id="0569c-102">Change the alternate email address for billing notification</span></span>
 
-<span data-ttu-id="d419e-103">Zmiana alternatywnego adresu e-mail dla powiadomień o rozliczeniach jest prosta.</span><span class="sxs-lookup"><span data-stu-id="d419e-103">Changing the alternate email address for billing notification is easy.</span></span> <span data-ttu-id="d419e-104">Po prostu wykonaj następujące kroki:</span><span class="sxs-lookup"><span data-stu-id="d419e-104">Just follow these steps:</span></span>
+<span data-ttu-id="0569c-103">Zmiana alternatywnego adresu e-mail dla powiadomień o rozliczeniach jest prosta.</span><span class="sxs-lookup"><span data-stu-id="0569c-103">Changing the alternate email address for billing notification is easy.</span></span> <span data-ttu-id="0569c-104">Po prostu wykonaj następujące kroki:</span><span class="sxs-lookup"><span data-stu-id="0569c-104">Just follow these steps:</span></span>
   
-1. <span data-ttu-id="d419e-105">W centrum administracyjnym Microsoft 365 przejdź na \>stronę [powiadomienia](https://go.microsoft.com/fwlink/p/?linkid=853212) rozliczeniowe. \*\*\*\*  </span><span class="sxs-lookup"><span data-stu-id="d419e-105">In the Microsoft 365 admin center, go to the **Billing** \>  [Billing Notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) page.</span></span>
+1. <span data-ttu-id="0569c-105">W centrum administracyjnym Microsoft 365 przejdź na \>stronę [powiadomienia](https://go.microsoft.com/fwlink/p/?linkid=853212) rozliczeniowe. \*\*\*\*  </span><span class="sxs-lookup"><span data-stu-id="0569c-105">In the Microsoft 365 admin center, go to the **Billing** \>  [Billing Notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) page.</span></span>
 
-2. <span data-ttu-id="d419e-106">Wybierz nazwę z listy.</span><span class="sxs-lookup"><span data-stu-id="d419e-106">Select a name from the list.</span></span>
+2. <span data-ttu-id="0569c-106">Wybierz nazwę z listy.</span><span class="sxs-lookup"><span data-stu-id="0569c-106">Select a name from the list.</span></span>
 
-3. <span data-ttu-id="d419e-107">W polu **alternatywny adres e-mail** wpisz alternatywny adres e-mail.</span><span class="sxs-lookup"><span data-stu-id="d419e-107">In the **Alternative email address** box, type the alternate email address.</span></span>
+3. <span data-ttu-id="0569c-107">W polu **alternatywny adres e-mail** wpisz alternatywny adres e-mail.</span><span class="sxs-lookup"><span data-stu-id="0569c-107">In the **Alternative email address** box, type the alternate email address.</span></span>
 
-4. <span data-ttu-id="d419e-108">Wybierz **Zapisz** i gotowe!</span><span class="sxs-lookup"><span data-stu-id="d419e-108">Select **Save** and you're done!</span></span>
+4. <span data-ttu-id="0569c-108">Wybierz **Zapisz** i gotowe!</span><span class="sxs-lookup"><span data-stu-id="0569c-108">Select **Save** and you're done!</span></span>
 
-<span data-ttu-id="d419e-109">Aby uzyskać więcej szczegółów i kroków z zrzutami ekranu, zobacz [zmienianie adresów rozliczeniowych dla pakietu Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).</span><span class="sxs-lookup"><span data-stu-id="d419e-109">For more details and steps with screen shots, see [Change your billing addresses for Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).</span></span>
+<span data-ttu-id="0569c-109">Aby uzyskać więcej szczegółów i kroków z zrzutami ekranu, zobacz [zmienianie adresów rozliczeniowych dla pakietu Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).</span><span class="sxs-lookup"><span data-stu-id="0569c-109">For more details and steps with screen shots, see [Change your billing addresses for Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).</span></span>
   
