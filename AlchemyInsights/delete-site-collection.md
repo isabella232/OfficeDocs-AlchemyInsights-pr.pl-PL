@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
 ms.openlocfilehash: bc91c02f4f7b09f8ec6c3288319afa6c6c3bc400
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36512829"
 ---
-# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="f7454-102">Usuwanie witryny programu SharePoint</span><span class="sxs-lookup"><span data-stu-id="f7454-102">Delete a SharePoint site</span></span>
+# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="16515-102">Usuwanie witryny programu SharePoint</span><span class="sxs-lookup"><span data-stu-id="16515-102">Delete a SharePoint site</span></span>
 
-1. <span data-ttu-id="f7454-103">W nowym centrum administracyjnym programu SharePoint na stronie witryny kliknij pole wyboru obok witryny, którą chcesz usunąć.</span><span class="sxs-lookup"><span data-stu-id="f7454-103">In the new  SharePoint admin center, on the Sites page, click the check box next to the site you wish to delete.</span></span>
+1. <span data-ttu-id="16515-103">W nowym centrum administracyjnym programu SharePoint na stronie witryny kliknij pole wyboru obok witryny, którą chcesz usunąć.</span><span class="sxs-lookup"><span data-stu-id="16515-103">In the new  SharePoint admin center, on the Sites page, click the check box next to the site you wish to delete.</span></span>
     
-2. <span data-ttu-id="f7454-104">Na pasku narzędzi wstążki kliknij przycisk **Usuń**.</span><span class="sxs-lookup"><span data-stu-id="f7454-104">On the ribbon toolbar, click **Delete**.</span></span>
+2. <span data-ttu-id="16515-104">Na pasku narzędzi wstążki kliknij przycisk **Usuń**.</span><span class="sxs-lookup"><span data-stu-id="16515-104">On the ribbon toolbar, click **Delete**.</span></span>
     
 

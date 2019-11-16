@@ -12,12 +12,12 @@ ms.custom:
 - "8000046"
 - "2507"
 ms.openlocfilehash: c2ce75066631e822c4cda2f7fa4019e20632cea0
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36547933"
 ---
-# <a name="unable-to-print"></a><span data-ttu-id="58181-102">Nie można drukować</span><span class="sxs-lookup"><span data-stu-id="58181-102">Unable to print</span></span>
+# <a name="unable-to-print"></a><span data-ttu-id="b06e8-102">Nie można drukować</span><span class="sxs-lookup"><span data-stu-id="b06e8-102">Unable to print</span></span>
 
-<span data-ttu-id="58181-103">Wiemy o problemie, w którym niektórzy użytkownicy nie mogą drukować podczas korzystania z przeglądarek Safari lub Edge.</span><span class="sxs-lookup"><span data-stu-id="58181-103">We're aware of an issue where some users can't print when using Safari or Edge browsers.</span></span> <span data-ttu-id="58181-104">Chociaż pracujemy nad poprawkami do tego, użyj innej przeglądarki.</span><span class="sxs-lookup"><span data-stu-id="58181-104">While we work on a fix for this, please use another browser.</span></span> <span data-ttu-id="58181-105">Przepraszamy za niedogodności.</span><span class="sxs-lookup"><span data-stu-id="58181-105">We apologize for the inconvenience.</span></span>
+<span data-ttu-id="b06e8-103">Wiemy o problemie, w którym niektórzy użytkownicy nie mogą drukować podczas korzystania z przeglądarek Safari lub Edge.</span><span class="sxs-lookup"><span data-stu-id="b06e8-103">We're aware of an issue where some users can't print when using Safari or Edge browsers.</span></span> <span data-ttu-id="b06e8-104">Chociaż pracujemy nad poprawkami do tego, użyj innej przeglądarki.</span><span class="sxs-lookup"><span data-stu-id="b06e8-104">While we work on a fix for this, please use another browser.</span></span> <span data-ttu-id="b06e8-105">Przepraszamy za niedogodności.</span><span class="sxs-lookup"><span data-stu-id="b06e8-105">We apologize for the inconvenience.</span></span>
