@@ -13,10 +13,10 @@ ms.custom:
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
 ms.openlocfilehash: cebeea438ac881d9930eecb9bcb031f9a6e92977
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36499649"
 ---
 # <a name="inbox-rules"></a>Reguły skrzynki odbiorczej
@@ -27,4 +27,4 @@ Aby uzyskać więcej informacji na temat używania reguł skrzynki odbiorczej we
 
 - [Zarządzanie wiadomościami za pomocą reguł skrzynki odbiorczej w programie Outlook w sieci Web](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
 
-Można również zarządzać regułami skrzynki odbiorczej w programie Exchange Online PowerShell. Aby uzyskać więcej informacji, [Zobacz Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (widok), [Nowy InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (Tworzenie), [Usuń InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Usuń), [zestaw InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modyfikowanie istniejących), [Wyłącz-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (Wyłącz istniejący) i [Włącz-InboxRule ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(Włącz istniejący).
+Można również zarządzać regułami skrzynki odbiorczej w programie Exchange Online PowerShell. Aby uzyskać więcej informacji, [Zobacz Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (widok) [, nowy InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (Tworzenie), [Usuń InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Delete), [zestaw InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modyfikowanie istniejących), [disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (Wyłącz istniejące) i [enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (Włącz istniejący).
