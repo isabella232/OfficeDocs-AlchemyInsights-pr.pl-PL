@@ -10,12 +10,12 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
-ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
+ms.openlocfilehash: ec8fb91dfe77cb251579ce23eb0579b114b101d9
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37207271"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627856"
 ---
 # <a name="data-location"></a>Lokalizacja danych
 
@@ -30,7 +30,7 @@ Można wyświetlić lokalizację dzierżawy pakietu Office 365 w centrum adminis
 
 **Powershell:**
 1. Połącz się z usługą Exchange Online przy użyciu programu Windows PowerShell.
-2. Wykonanie [Get-OrganizationalUnit](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) polecenia cmdlet, aby wyświetlić listę właściwości dzierżawy. 
+2. Wykonanie [Get-OrganizationalUnit](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) polecenia cmdlet, aby wyświetlić listę właściwości dzierżawy. 
 3. Spójrz na Właściwość OrganizationId.
 
 Jeśli masz lokalizację danych dla EXO i SPO, można określić lokalizację danych dla innych usług, które mogą być używane z [gdzie znajdują się dane](https://products.office.com/where-is-your-data-located).

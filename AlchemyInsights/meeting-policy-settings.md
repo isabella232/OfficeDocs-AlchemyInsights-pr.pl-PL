@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2657"
 - "9000734"
-ms.openlocfilehash: dac06690b51459ca166c15a5ef0f4c7e7a6d36f0
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376760"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627584"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Zarządzanie zasadami spotkania w programie Microsoft Teams
 
@@ -24,7 +24,7 @@ Zasady spotkania są używane do kontrolowania funkcji, które są dostępne dla
 
 Aby uzyskać więcej informacji na temat zasad spotkania zobacz następujące zasoby:
 
-- Aby dowiedzieć się więcej na temat tworzenia zasad, wprowadzania zmian i przypisywania użytkowników do zasad, zobacz [Zarządzanie zasadami spotkania w zespołach](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams).
+- Aby dowiedzieć się więcej na temat tworzenia zasad, wprowadzania zmian i przypisywania użytkowników do zasad, zobacz [Zarządzanie zasadami spotkania w zespołach](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
 - Aby wprowadzić zmiany zasad za pomocą poleceń cmdlet programu PowerShell, zobacz [Omówienie programu PowerShell zespołów](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
     - Należy użyć programu [Skype dla modułu Business PowerShell](https://www.microsoft.com/download/details.aspx?id=39366) dla zespołów spotkań zasad. 

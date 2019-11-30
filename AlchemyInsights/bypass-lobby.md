@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768450"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626358"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Sterowanie ustawieniami lobby i poziomem uczestnictwa
 
@@ -24,7 +24,7 @@ Jeśli chcesz zezwolić wszystkim, w tym telefonowania, zewnętrznych i anonimow
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-To polecenie cmdlet obecnie wymaga użycia programu Skype dla modułu Business PowerShell. Aby uzyskać Instalator, aby użyć tego polecenia cmdlet, zapoznaj się z [zasadami zarządzania za pomocą programu PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+To polecenie cmdlet obecnie wymaga użycia programu Skype dla modułu Business PowerShell. Aby uzyskać Instalator, aby użyć tego polecenia cmdlet, zapoznaj się z [zasadami zarządzania za pomocą programu PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 Można skonfigurować nowe zasady, które następnie należy zastosować do użytkowników. W przypadku zmodyfikowania zasad globalnych będzie ona automatycznie stosowana do użytkowników. W przypadku każdej zmiany zasad należy poczekać co najmniej 4 godziny i do 24 godzin, aby zasady zostały uwzględnione.
 
@@ -36,8 +36,8 @@ Przed wprowadzeniem tych zmian należy zapoznać się z poniższą dokumentacją
 
 - [Zezwalaj osobom anonimowym na rozpoczęcie spotkania](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) to zasada na organizatora, która kontroluje, czy osoby anonimowe, w tym B2B i użytkownicy federacyjni, mogą przyłączyć się do spotkania użytkownika bez uwierzytelnionego użytkownika z organizacji w obecności.
 
-- [Zezwalaj użytkownikom telefonowania na ominięcie lobby](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**wkrótce**) jest to zasada dla organizatora, która kontroluje, czy osoby, które telefonują przez telefon przyłączyć się do spotkania bezpośrednio lub poczekać w lobby, niezależnie od **automatycznie przyznać ustawienie osób** .
+- [Zezwalaj użytkownikom telefonowania na ominięcie lobby](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**wkrótce**) jest to zasada dla organizatora, która kontroluje, czy osoby, które telefonują przez telefon przyłączyć się do spotkania bezpośrednio lub poczekać w lobby, niezależnie od **automatycznie przyznać ustawienie osób** .
 
 - [Pozwól organizatorom na zastąpienie ustawień lobby](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) **(wkrótce**) jest to zasada dla organizatora, która kontroluje, czy organizator spotkania może zastąpić ustawienia lobby, które admin ustawiają **automatycznie przyznać ludziom** i **zezwolić użytkownikom telefonowania ominąć lobby** podczas planowania nowego spotkania.
 
-**Uwaga:** Przeczytaj [Zarządzanie zasadami spotkania w zespołach](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) , aby uzyskać pełny przegląd zasad dotyczących spotkań w programie Microsoft Teams.
+**Uwaga:** Przeczytaj [Zarządzanie zasadami spotkania w zespołach](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) , aby uzyskać pełny przegląd zasad dotyczących spotkań w programie Microsoft Teams.
