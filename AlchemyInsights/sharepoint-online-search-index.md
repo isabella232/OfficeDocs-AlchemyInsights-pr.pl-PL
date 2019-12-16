@@ -1,37 +1,37 @@
 ---
-title: Wyszukaj w trybie Online w programie SharePoint
-ms.author: efrene
-author: efrene
+title: Wyszukiwanie w programie SharePoint Online
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c4ff98f0cf928834c803542340b32da15a40d583
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507641"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044053"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Zawartości przeszukiwania i indeksowania w dokumentacji Online programu SharePoint
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Indeksowanie zawartości i indeksowania w programie SharePoint Online
 
-Zawartość musi przeszukanych i dodane do indeksu wyszukiwania użytkownikom znajdowanie, czego szukają w dokumentacji Online programu SharePoint. Automatycznie przeszukiwania zawartości oparty na harmonogram przeszukiwania wstępnie zdefiniowane (nie można zmienić harmonogram przeszukiwania). Przeszukiwarka odbierze zawartość, która została zmieniona od czasu ostatniego przeszukiwania i aktualizuje indeks. Aby zapewnić przeszukiwania zawartości i aktualizacji indeksu, należy zauważyć, że:
+Zawartość musi być przeszukiwany i dodawany do indeksu wyszukiwania dla użytkowników, aby znaleźć to, czego szukają w programie SharePoint Online. Zawartość jest automatycznie przeszukiwany na podstawie wstępnie zdefiniowanego harmonogramu przeszukiwania (nie można zmienić harmonogramu przeszukiwania). Przeszukiwarka przejmuje zawartość, która zmieniła się od czasu ostatniego przeszukiwania i aktualizuje indeks. Aby upewnić się, że zawartość jest przeszukowana, a indeks jest aktualizowany, należy zwrócić uwagę na następujące elementy:
 
-- Upewnij się, że zawartość znajduje się poprzez [przeszukiwanie zawartości witryny](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
+- Upewnij się, że zawartość może zostać znaleziona poprzez [przeszukanie zawartości witryny](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
-- Po zmianie właściwości zarządzanej lub po zmianie mapowanie przeszukany i zarządzane właściwości witryny musi być przeszukane ponownie, zanim wprowadzone zmiany zostaną odzwierciedlone w indeksie wyszukiwania. 
+- Po zmianie właściwości zarządzanej lub zmianie mapowania właściwości przeszukanych i zarządzanych lokacja musi zostać ponownie przeszukana, zanim zmiany zostaną odzwierciedlone w indeksie wyszukiwania. 
 
-    Ponieważ Twoje zmiany zostaną wprowadzone w schematu wyszukiwania, a nie do rzeczywistej witryny przeszukiwarka nie zostaną automatycznie ponowne indeksowanie witryny. 
+    Ponieważ zmiany są wprowadzane w schemacie wyszukiwania, a nie do rzeczywistej witryny, przeszukiwarka nie będzie automatycznie ponownie indeksować witryny. 
 
-    Aby uzyskać więcej informacji zobacz temat [ręcznie zażądać i ponownego indeksowania danej witryny, listy lub biblioteki](https://docs.microsoft.com/sharepoint/crawl-site-conten).
+    Aby uzyskać więcej informacji, zobacz [Ręczne żądanie indeksowania i ponownego indeksowania witryny, biblioteki lub listy](https://docs.microsoft.com/sharepoint/crawl-site-conten).
 
-- Odczekaj co najmniej 24 godziny po zażądaniu ręcznie przeszukiwania i pełne ponowne indeksowanie aby zobaczyć, czy nadal występują problemu. 
+- Poczekaj co najmniej 24 godziny po ręcznym zażądaniu indeksowania i pełnego ponownego indeksowania, aby sprawdzić, czy nadal występuje problem. 
 
-    Jeśli więcej niż 24 godziny upłynęło od momentu zainicjowania przeszukiwania i pełne ponowne indeksowanie, należy zalogować się przypadek pomocy technicznej. W wielu przypadkach już pracujemy nad rozwiązaniem. Podaj co najmniej 24 godziny, aby ukończyć rozwiązania.
+    Jeśli upłynęło więcej niż 24 godziny od zainicjowania indeksowania i pełnego ponownego indeksowania, należy zalogować się w przypadku pomocy technicznej. W wielu przypadkach pracujemy już nad rozwiązaniem. Proszę dać nam co najmniej 24 godziny, aby zakończyć rozwiązanie.
 
 > [!IMPORTANT]
-> Jeśli witryna, dokument (Biblioteka) lub listę został usunięty i nadal wyświetlany w wynikach wyszukiwania, użytkownik powinien otrzymać **Błąd 404 Nie można odnaleźć pliku** podczas próby dostępu do niego. Ten problem powinny być rejestrowane jako przypadek pomocy technicznej w odniesieniu do dalszych badań. 
+> Jeśli witryna, dokument (Biblioteka) lub lista zostały usunięte i nadal są wyświetlane w wynikach wyszukiwania, użytkownicy powinni otrzymać **błąd 404 nie można odnaleźć pliku** podczas próby uzyskania do niego dostępu. Ten problem powinien być rejestrowane jako przypadek pomocy technicznej do dalszego dochodzenia. 
 
 
 
