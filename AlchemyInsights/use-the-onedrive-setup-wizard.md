@@ -1,7 +1,7 @@
 ---
-title: Użyj Kreatora konfiguracji OneDrive
-ms.author: kaarins
-author: kaarins
+title: Korzystanie z Kreatora konfiguracji usługi OneDrive
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 3/2/2018
 ms.audience: Admin
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b711af6-3d0e-4334-ae67-8b3cb76293de
-ms.openlocfilehash: 8709a72c30d6a856774dfbac7b2cbe454e8dcfa5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 54d36f7b557ac948ff2746b77cc6c51220d50559
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532449"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049455"
 ---
-# <a name="set-up-onedrive"></a><span data-ttu-id="f9fa9-102">Konfigurowanie usługi OneDrive</span><span class="sxs-lookup"><span data-stu-id="f9fa9-102">Set up OneDrive</span></span>
+# <a name="set-up-onedrive"></a><span data-ttu-id="65c12-102">Konfigurowanie usługi OneDrive</span><span class="sxs-lookup"><span data-stu-id="65c12-102">Set up OneDrive</span></span>
 
-<span data-ttu-id="f9fa9-103">Aby szybko skonfigurować OneDrive dla danej organizacji, [Użyj Kreatora konfiguracji OneDrive](https://portal.office.com/onboarding/odfbquickstartguide).</span><span class="sxs-lookup"><span data-stu-id="f9fa9-103">To set up OneDrive quickly for your organization, [use the OneDrive setup wizard](https://portal.office.com/onboarding/odfbquickstartguide).</span></span>
+<span data-ttu-id="65c12-103">Aby szybko skonfigurować usługę OneDrive w organizacji, [Użyj Kreatora konfiguracji usługi OneDrive](https://portal.office.com/onboarding/odfbquickstartguide).</span><span class="sxs-lookup"><span data-stu-id="65c12-103">To set up OneDrive quickly for your organization, [use the OneDrive setup wizard](https://portal.office.com/onboarding/odfbquickstartguide).</span></span>
   
 

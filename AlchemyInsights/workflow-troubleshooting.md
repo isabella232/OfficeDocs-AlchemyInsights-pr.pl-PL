@@ -1,7 +1,7 @@
 ---
-title: Rozwiązywanie problemów z przepływu pracy
-ms.author: efrene
-author: efrene
+title: Rozwiązywanie problemów z przepływem pracy
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,24 +12,24 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: d156c414d741003f2ebddc63b2bc95167027169d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bda58c3e7f186fec2057258ed17747690c7a3248
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558087"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049311"
 ---
-# <a name="workflow-troubleshooting"></a><span data-ttu-id="8ebed-102">Rozwiązywanie problemów z przepływu pracy</span><span class="sxs-lookup"><span data-stu-id="8ebed-102">Workflow troubleshooting</span></span>
+# <a name="workflow-troubleshooting"></a><span data-ttu-id="dbcff-102">Rozwiązywanie problemów z przepływem pracy</span><span class="sxs-lookup"><span data-stu-id="dbcff-102">Workflow troubleshooting</span></span>
 
-<span data-ttu-id="8ebed-103">Informacje debugowania przepływów pracy programu SharePoint należy przejrzeć następujące czynności:</span><span class="sxs-lookup"><span data-stu-id="8ebed-103">For information about debugging SharePoint workflows, review the following:</span></span>
-- <span data-ttu-id="8ebed-104">Debugowanie przepływy pracy przypomina poprzednie wersje.</span><span class="sxs-lookup"><span data-stu-id="8ebed-104">Debugging workflows resembles that of previous versions.</span></span>  <span data-ttu-id="8ebed-105">Aby uzyskać więcej informacji zobacz [debugowanie programu SharePoint przepływy pracy](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span><span class="sxs-lookup"><span data-stu-id="8ebed-105">For more information, see [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span></span>
-- <span data-ttu-id="8ebed-106">Aby uzyskać więcej informacji na temat rozwiązywania problemów Zobacz [Rozwiązywanie problemów z programu SharePoint Server błędy sprawdzania poprawności przepływu pracy](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).</span><span class="sxs-lookup"><span data-stu-id="8ebed-106">For more information about troubleshooting, see [Troubleshoot SharePoint Server workflow validation errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).</span></span>
+<span data-ttu-id="dbcff-103">Aby uzyskać informacje o debugowaniu przepływów pracy programu SharePoint, przejrzyj następujące elementy:</span><span class="sxs-lookup"><span data-stu-id="dbcff-103">For information about debugging SharePoint workflows, review the following:</span></span>
+- <span data-ttu-id="dbcff-104">Debugowanie przepływów pracy przypomina poprzedniej wersji.</span><span class="sxs-lookup"><span data-stu-id="dbcff-104">Debugging workflows resembles that of previous versions.</span></span>  <span data-ttu-id="dbcff-105">Aby uzyskać więcej informacji, zobacz [debugowanie przepływów pracy programu SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span><span class="sxs-lookup"><span data-stu-id="dbcff-105">For more information, see [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span></span>
+- <span data-ttu-id="dbcff-106">Aby uzyskać więcej informacji na temat rozwiązywania problemów, zobacz [Rozwiązywanie problemów z błędami sprawdzania poprawności przepływu pracy programu SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).</span><span class="sxs-lookup"><span data-stu-id="dbcff-106">For more information about troubleshooting, see [Troubleshoot SharePoint Server workflow validation errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).</span></span>
  
 
-## <a name="related-topics"></a><span data-ttu-id="8ebed-107">Tematy pokrewne</span><span class="sxs-lookup"><span data-stu-id="8ebed-107">Related topics</span></span>
-<span data-ttu-id="8ebed-108">Czy chcesz spróbować Flow Microsoft w dokumentacji Online programu SharePoint?</span><span class="sxs-lookup"><span data-stu-id="8ebed-108">Want to try Microsoft Flow in SharePoint Online?</span></span>
-- [<span data-ttu-id="8ebed-109">Utworzyć przepływ</span><span class="sxs-lookup"><span data-stu-id="8ebed-109">Create Flow</span></span>](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [<span data-ttu-id="8ebed-110">SharePoint i przepływu</span><span class="sxs-lookup"><span data-stu-id="8ebed-110">SharePoint and Flow</span></span>](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+## <a name="related-topics"></a><span data-ttu-id="dbcff-107">Tematy pokrewne</span><span class="sxs-lookup"><span data-stu-id="dbcff-107">Related topics</span></span>
+<span data-ttu-id="dbcff-108">Chcesz wypróbować usługi Microsoft Flow w usłudze SharePoint Online?</span><span class="sxs-lookup"><span data-stu-id="dbcff-108">Want to try Microsoft Flow in SharePoint Online?</span></span>
+- [<span data-ttu-id="dbcff-109">Utwórz przepływ</span><span class="sxs-lookup"><span data-stu-id="dbcff-109">Create Flow</span></span>](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [<span data-ttu-id="dbcff-110">SharePoint i przepływu</span><span class="sxs-lookup"><span data-stu-id="dbcff-110">SharePoint and Flow</span></span>](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
 
