@@ -1,7 +1,7 @@
 ---
-title: Monitorowanie działań i użycie OneDrive i SharePoint
-ms.author: kaarins
-author: kaarins
+title: Monitorowanie użycia i aktywności usługi OneDrive i programu SharePoint
+ms.author: pebaum
+author: pebaum
 ms.date: 6/10/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,18 +11,18 @@ ms.custom:
 - "865"
 - "5300020"
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 4a8194848977c05dd39b510285a70b8efc1609c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0eae0f18067d99fdc6bd9a61fcd97b4d690bc946
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543699"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052587"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Wyświetlanie raportów dotyczących OneDrive i SharePoint i korzystaniem z
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Wyświetlanie raportów dotyczących aktywności i użycia usługi OneDrive i programu SharePoint
 
-Przejdź do [strony raporty użycia w Centrum administracyjnym usługi Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). W obszarze, **Zaznacz raport**wybrać OneDrive lub SharePoint raport aktywności lub obciążenie.
+Przejdź do [strony raporty użycia w centrum administracyjnym Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). W obszarze **Wybierz raport**, wybierz polecenie OneDrive lub SharePoint działania lub użycia raportu.
   
-[Więcej informacji na temat raportów OneDrive](https://go.microsoft.com/fwlink/?linkid=875239)
+[Więcej informacji o raportach usługi OneDrive](https://go.microsoft.com/fwlink/?linkid=875239)
   
-[Więcej informacji na temat raportów programu SharePoint](https://go.microsoft.com/fwlink/?linkid=875240)
+[Więcej informacji o raportach programu SharePoint](https://go.microsoft.com/fwlink/?linkid=875240)
   

@@ -1,7 +1,7 @@
 ---
-title: Nie jest wysyłany e-mail przepływu pracy
-ms.author: efrene
-author: efrene
+title: E-mail przepływu pracy nie jest wysyłany
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.date: 7/25/2019
 ms.audience: Admin
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 76b64323c9d34d49e9c6bd77c2cc7eff6d7c5402
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530894"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049383"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>E-mail przepływu pracy nie jest wysyłany do listy programu SharePoint lub biblioteki
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Wiadomości e-mail przepływu pracy nie są wysyłane do listy programu SharePoint lub biblioteki
 
-1. Wiadomości e-mail z przepływów pracy nie są wysyłane do wszystkich użytkowników lub tylko określonych użytkowników lub widać, że błąd **wiadomość e-mail nie może zostać wysłana. Upewnić się, czy wiadomość e-mail ma prawidłowego adresata**.
+1. Wiadomości e-mail z przepływów pracy nie są wysyłane do wszystkich użytkowników lub tylko określonych użytkowników lub zostanie wyświetlony błąd **nie można wysłać wiadomości e-mail. Upewnij się, że wiadomość e-mail ma prawidłowego adresata**.
 
-    Sprawdź, czy użytkownik istnieje w grupie uprawnienia **Wszystkich osób** (Lista informacji o użytkownikach) dla tego zbioru witryn.  Przykładowe bezpośredni adres URL: https://<tenant>.sharepoint.com/sites/<sitename>/_layouts/15/people.aspx? MembershipGroupId = 0
+    Sprawdź, czy użytkownik istnieje w grupie uprawnienia **wszystkich osób** (lista informacji o użytkowniczek) dla tego zbioru witryn.  Przykładowy bezpośredni adres URL:<tenant>https://.<sitename>SharePoint.com/sites//_layouts/15/People.aspx? MembershipGroupId = 0
 
-    - Jeśli użytkownik nie istnieje, upewnij się, że użytkownik jest zalogowany w stronę. 
-    - Jeśli jest to użytkownik zewnętrzny, upewnij się, że ich zaproszenie zostało zaakceptowane.
-    - Jeśli użytkownik istnieje w grupie uprawnień, upewnij się, że adres e-mail jest poprawny.
-    - Jeśli adres e-mail użytkownika nie jest ustawiona w tym polu, następnie utworzyć przykładowy alert dla tego użytkownika, co zmusza synchronizacji tego konta użytkownika z profilów użytkownika programu SharePoint do tego zbioru witryn.
+    - Jeśli użytkownik nie istnieje, upewnij się, że użytkownik jest zalogowany na stronie. 
+    - Jeśli jest to użytkownik zewnętrzny, upewnij się, że zaproszenie zostało zaakceptowane.
+    - Jeśli użytkownik nie istnieje w grupie uprawnień, upewnij się, że adres e-mail jest poprawny.
+    - Jeśli adres e-mail użytkowników nie jest ustawiony w tym miejscu, Utwórz przykładowy alert dla tego użytkownika, który wymusza synchronizację tego konta użytkownika z profilów użytkowników programu SharePoint do tego zbioru witryn.
  
-2. Wiadomości e-mail z przepływów pracy są wysyłane do administratorów zbioru witryn, ale nie do innych użytkowników i wyświetlany jest błąd **HTTP zabrania się <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
+2. Wiadomości e-mail z przepływów pracy są wysyłane do administratorów zbioru witryn, ale nie do innych użytkowników i Zobacz błąd **http zabronione <span>https:</span>/URL/_vti_bin/Client.XVC.Sp.Utilities.Utility.SendEmail**.
  
 
-    Zobacz, [Odmowa dostępu podczas wysyłania wiadomości e-mail do grupy programu SharePoint](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
+    Zobacz [odmowa dostępu podczas wysyłania wiadomości e-mail do grupy programu SharePoint](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
-    Sprawdź także, że funkcji zbioru witryn **Tryb blokowania uprawnień ograniczony dostęp użytkownika** nie jest aktywne.
+    Ponadto sprawdź, czy funkcja zbioru witryn **trybu blokowania uprawnień ograniczonego dostępu użytkownika** nie jest aktywna.
 
 
 ## <a name="related-topics"></a>Tematy pokrewne
-Czy chcesz spróbować Flow Microsoft w dokumentacji Online programu SharePoint?
-- [Utworzyć przepływ](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+Chcesz wypróbować usługi Microsoft Flow w usłudze SharePoint Online?
+- [Utwórz przepływ](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint i przepływu](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

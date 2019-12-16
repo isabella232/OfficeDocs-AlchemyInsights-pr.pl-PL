@@ -1,7 +1,7 @@
 ---
-title: Problemy podczas migrowania danych do programu SharePoint w trybie Online
-ms.author: efrene
-author: efrene
+title: Problemy podczas migracji danych do programu SharePoint w trybie online
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: d8bdf0ac6c3a65b72e8c92a3f5960cb72b6cfd99
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504365"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051759"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemy podczas migrowania danych do programu SharePoint w trybie Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemy podczas migracji danych do programu SharePoint w trybie online
 
-Wydaje się, że ponad 100 TB danych są migrowane do programu SharePoint w trybie Online. Wykonaj poniższe kroki, więc firma Microsoft może pomóc tak szybko, jak to możliwe. 
+Wydaje się, że są migrowane ponad 100 TB danych do programu SharePoint w trybie online. Proszę postępować zgodnie z poniższymi wskazówkami, abyśmy mogli pomóc Ci tak szybko, jak to możliwe. 
 
-1. Wybierz **żądanie nowej usługi**, a następnie **zażądać nowej usługi**. 
-2. Pozostaw tytuł i opis jako **migracji programu SharePoint ponad 100 TB**.
-3. Po złożeniu bilet, zaktualizuj go z następującymi informacjami: 
+1. Wybierz **nowe żądanie usługi**, a następnie **nowe żądanie usługi**. 
+2. Zostaw tytuł i opis jako **migrację SharePoint ponad 100TB**.
+3. Po przesłeniu biletu zaktualizuj go, postępując zgodnie z poniższymi informacjami: 
 
     - Szacowany rozmiar migracji.
-    - Oszacowanie, kiedy ma się rozpocząć i ukończyć migrację.
-    - Opisują, gdzie podczas migrowania zawartości, na przykład programu SharePoint Server, pole, GDrive, udziały plików, itd...
+    - Szacunki, Kiedy chcesz rozpocząć i ukończyć migrację.
+    - Opisz, gdzie jest przeprowadzana migracja zawartości, na przykład SharePoint Server, Box, GDrive, udziały plików itp.
 
 
   

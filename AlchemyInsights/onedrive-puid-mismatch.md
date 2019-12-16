@@ -1,7 +1,7 @@
 ---
-title: Niezgodność OneDrive PUID
-ms.author: efrene
-author: efrene
+title: Niezgodność z usługą OneDrive PUID
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,21 +12,21 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cbf508a1a031b7dbe60d9b060df2f08211a3dc17
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 58fe40f0fe29b75ea3e736d447d626d2fdf5391a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521361"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049095"
 ---
-# <a name="onedrive-puid-mismatch"></a>Niezgodność OneDrive PUID
-Wydaje się, że występuje [niezgodność PUID](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) w OneDrive dla firmy. Wykonaj poniższe kroki, więc firma Microsoft może pomóc jak najszybciej:
+# <a name="onedrive-puid-mismatch"></a>Niezgodność z usługą OneDrive PUID
+Wydaje się, że występują [niezgodności PUID](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) w OneDrive dla firmy. Proszę postępować zgodnie z poniższymi wskazówkami, abyśmy mogli pomóc Ci jak najszybciej:
 
-1. Kliknij przycisk **skontaktuj się z obsługą**, a następnie **zażądać nowej usługi**.
-2. Pozostaw tytuł i opis jako **PUID niezgodność w witrynie OneDrive**.
-3. Po złożeniu bilet, zaktualizuj go z następującymi informacjami:
-    - OneDrive adres URL witryny, którego dotyczy.
-    - Główna nazwa użytkownika (UPN) użytkownika, którego dotyczy luka.
+1. Kliknij przycisk **skontaktuj się z obsługą**, a następnie **nowe żądanie usługi**.
+2. Zostaw tytuł i opis jako **niezgodność PUID w witrynie OneDrive**.
+3. Po przesłeniu biletu zaktualizuj go, postępując zgodnie z poniższymi informacjami:
+    - Adres URL witryny OneDrive, którego dotyczy problem.
+    - Główna nazwa użytkownika (UPN) użytkownika, którego dotyczy problem.
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Outlook.com Settings (Ustawienia)
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386375"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053271"
 ---
 # <a name="settings-in-outlookcom"></a>Ustawienia w Outlook.com
 
-Jeśli odbiorca jest wewnętrzny lub zewnętrzny do organizacji i jeśli są one za pomocą Office 365 lub konto e-mail Outlook.com, następujące klienci nie powinni robić nic specjalnego, aby otworzyć wiadomość: **outlook 2016, Outlook w sieci Web/Outlook Web App, Aplikacja mobilna Outlook**
+Jeśli odbiorca jest wewnętrzny lub zewnętrzny do organizacji i jeśli są one za pomocą 365 Office lub konto e-mail Outlook.com, następujących klientów nie należy robić nic specjalnego, aby otworzyć wiadomość: **program outlook 2016, Outlook w sieci Web/Outlook Web App, aplikacja mobilna Outlook**
 
 **Delegaci** użytkowników, do których został wysłany chroniony adres e-mail, nie mogą otwierać chronionych wiadomości. Tylko pierwotnemu odbiorcy (osobie, do której wysłano chronioną wiadomość e-mail) można wyświetlić informacje zawarte w wiadomości e-mail.
 

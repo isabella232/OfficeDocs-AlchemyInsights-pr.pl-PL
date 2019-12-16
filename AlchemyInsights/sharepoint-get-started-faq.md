@@ -1,7 +1,7 @@
 ---
 title: Typowe problemy i rozwiązania dotyczące programu SharePoint Online
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 32657303d7f2176eb6840269daffe5825d24478c
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744075"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051543"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>Typowe problemy i rozwiązania dotyczące programu SharePoint Online
 
@@ -31,6 +31,6 @@ Oto niektóre często zadawane tematy dotyczące problemów programu SharePoint 
 
 - Zmiana nazwy **dzierżawcy**: zobacz [Zmienianie nazwy domeny programu SharePoint](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) , aby uzyskać więcej informacji.
 
-- **Modernizacja programu SharePoint**: Przejrzyj [Przewodnik po nowoczesnych doświadczeń w programie SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) i [zmodernizować klasycznych witryn programu SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) , aby rozpocząć przenoszenie.
+- **Modernizacja programu SharePoint**: Przejrzyj [Przewodnik po nowoczesnych doświadczeniach w programie SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) i [Zmodernizuj klasyczne witryny programu SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) , aby rozpocząć przenoszenie.
 
 - **Rozpoczęcie**: Dowiedz się, jak rozpocząć [pracę z programem SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) za pomocą strategii zarządzania witryną.

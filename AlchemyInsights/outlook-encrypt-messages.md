@@ -1,7 +1,7 @@
 ---
 title: S/MIME w programie Outlook w sieci Web
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -9,12 +9,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 6915470655b85922f6f97e8ca6fac353224b1ae0
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 33e94eac6a2982b8036e13d17bf60015f244f2cb
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752870"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053235"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Szyfruj wiadomości e-mail w Outlooku
 
@@ -22,7 +22,7 @@ Szyfrowanie wiadomości pakietu Office 365 jest zbudowany na Microsoft Azure Rig
 
 Na podstawie opinii klientów nie będzie już włączania reguł przepływu poczty programu Exchange do automatycznego szyfrowania wychodzących wiadomości e-mail zawierających określony typ poufnych informacji w dzierżawie domyślnie. Zamiast tego, zapewniamy szczegółowe instrukcje, jak można to zrobić sami. Aby uzyskać dodatkowe informacje dotyczące sposobu tworzenia reguły transportu do szyfrowania poufnych informacji, zobacz w [tym artykule](https://aka.ms/OmeEtr).
 
-- Jeśli korzystasz z programu Outlook w sieci Web (dawniej **owa**): podczas tworzenia wiadomości e-mail, po prostu kliknij przycisk **Chroń** w programie OWA. Spowoduje to zastosowanie uprawnienia "nie przesyłam dalej". Kliknij opcję **Zmień uprawnienie** i **** wybierz opcję Szyfruj, aby zaszyfrować tylko wiadomość.
+- Jeśli korzystasz z programu Outlook w sieci Web (dawniej **owa**): podczas tworzenia wiadomości e-mail, po prostu kliknij przycisk **Chroń** w programie OWA. Spowoduje to zastosowanie uprawnienia "nie przesyłam dalej". Kliknij opcję **Zmień uprawnienie** i wybierz opcję **Szyfruj** , aby zaszyfrować tylko wiadomość.
 
 - W przypadku korzystania z **klienta programu Outlook**: aby wysłać zaszyfrowaną wiadomość z programu Outlook 2013 lub 2016 lub Outlook 2016 dla komputerów Macintosh **, wybierz opcję** > **uprawnienia**, a następnie wybierz opcję ochrony, której potrzebujesz.
 

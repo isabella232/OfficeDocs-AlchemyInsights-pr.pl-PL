@@ -1,7 +1,7 @@
 ---
-title: Kroki w celu utworzenia przepływu pracy programu SharePoint
-ms.author: efrene
-author: efrene
+title: Kroki, aby utworzyć przepływ pracy programu SharePoint
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,29 +12,29 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "1718"
-ms.openlocfilehash: 5d346c68490fb6fde4bd86c24947e2e56d88fb15
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ee76edc1ab5d4b174d72e61f432f3ff7fe07e0c5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559639"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053559"
 ---
-# <a name="steps-to-create-a-sharepoint-workflow"></a>Kroki w celu utworzenia przepływu pracy programu SharePoint
+# <a name="steps-to-create-a-sharepoint-workflow"></a>Kroki, aby utworzyć przepływ pracy programu SharePoint
 
-- Jeśli nie jest możliwe dodanie przepływu pracy programu SharePoint 2010 zatwierdzania, zobacz [nie można dodać domyślny przepływ pracy zatwierdzania 2010](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow).
+- Jeśli nie można dodać przepływu pracy zatwierdzania 2010 programu SharePoint, zobacz [nie można dodać domyślnego przepływu pracy zatwierdzania 2010](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow).
 - Jak tworzyć przepływy pracy:
-    - [2013 przepływu pracy z programu SharePoint Designer](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
-    - [2010 przepływu pracy z programu SharePoint Designer](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
+    - [2013 przepływ pracy z programu SharePoint Designer](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
+    - [2010 przepływ pracy z programu SharePoint Designer](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
     - [Wprowadzenie do przepływu pracy programu SharePoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
 
-- Przepływ pracy rozwiązywania problemów i debugowania:
-    - Debugowanie przepływy pracy przypomina poprzednie wersje.  Aby uzyskać więcej informacji zobacz [debugowanie programu SharePoint przepływy pracy](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-    - Aby uzyskać więcej informacji na temat rozwiązywania problemów Zobacz [Rozwiązywanie problemów z programu SharePoint Server błędy sprawdzania poprawności przepływu pracy](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+- Rozwiązywanie problemów z przepływem pracy i debugowanie:
+    - Debugowanie przepływów pracy przypomina poprzedniej wersji.  Aby uzyskać więcej informacji, zobacz [debugowanie przepływów pracy programu SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+    - Aby uzyskać więcej informacji na temat rozwiązywania problemów, zobacz [Rozwiązywanie problemów z błędami sprawdzania poprawności przepływu pracy programu SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
 
 ## <a name="related-topics"></a>Tematy pokrewne
-Czy chcesz spróbować Flow Microsoft w dokumentacji Online programu SharePoint?
-- [Utworzyć przepływ](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+Chcesz wypróbować usługi Microsoft Flow w usłudze SharePoint Online?
+- [Utwórz przepływ](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint i przepływu](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

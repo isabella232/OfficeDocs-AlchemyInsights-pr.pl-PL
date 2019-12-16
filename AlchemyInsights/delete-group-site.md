@@ -1,7 +1,7 @@
 ---
-title: Usuwanie grupy witryny
-ms.author: kaarins
-author: kaarins
+title: Usuń witrynę grupy
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 1/24/2019
 ms.audience: Admin
@@ -14,21 +14,21 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: d1677fe1734386e38992811ec994c62286510eaa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d8f49cb780156de2e26d7fa19b79b567d94b8281
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513729"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053055"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Usuwanie witryny programu SharePoint, który należy do grupy usługi Office 365
+# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Usuwanie witryny programu SharePoint należącej do grupy 365 pakietu Office
 
-Globalne i Administratorzy programu SharePoint teraz usunąć witryny, które należą do grupy Office 365. Usunięcie tych witryn spowoduje usunięcie grupy i wszystkie jego zasobów, w tym skrzynki pocztowej programu Outlook i kalendarz i żadnych kanałów zespołów.
+Administratorzy globalni i Administratorzy programu SharePoint mogą teraz usuwać witryny należące do grupy 365 pakietu Office. Usunięcie tych witryn spowoduje usunięcie grupy i wszystkich jej zasobów, w tym skrzynki pocztowej i kalendarza programu Outlook oraz wszystkich kanałów w programie Teams.
   
 Ważne:
 
-- Można odzyskać usuniętych stron 93 dni. Aby uzyskać więcej informacji zobacz temat wyświetlanie i przywracanie usuniętych stron. Należy zauważyć, że usuniętej grupy musi zostać przywrócony w ciągu 30 dni.
-- Jeśli witryna jest częścią zasad przechowywania, nie można go usunąć, dopóki witryna jest usuwany z [Security &amp; Centrum administracyjnego zgodności](https://protection.office.com/?rfr=AdminCenter#/retention). Aby uzyskać więcej informacji, zobacz [Omówienie zasad przechowywania](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) .
+- Usunięte witryny można odzyskać przez 93 dni. Aby uzyskać więcej informacji, zobacz Wyświetlanie i przywracanie usuniętych witryn. Należy pamiętać, że usunięte grupy muszą zostać przywrócone w ciągu 30 dni.
+- Jeśli witryna jest częścią zasady przechowywania, może nie być możliwe usunięcie go do momentu usunięcia witryny z [Centrum administracyjnego zgodności zabezpieczeń &amp; ](https://protection.office.com/?rfr=AdminCenter#/retention). Aby uzyskać więcej informacji, zobacz [Omówienie zasad przechowywania](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) .
   
-Do [widoku i przywróć usunięte witryny w Centrum administracyjnego programu SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)wybierz **usunąć witryny**. Wybierz serwis, który został usunięty i wybierz polecenie Przywróć lub Usuń (co spowoduje trwałe usunięcie witryny). Aby usunąć aktywną witrynę, zaznacz **aktywne** witryny, zaznacz witrynę i wybierz polecenie **Usuń**. Aby uzyskać więcej informacji zobacz [Zarządzanie witrynami w Centrum administracyjnego programu SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+Aby [wyświetlić i przywrócić usunięte witryny w nowym centrum administracyjnym programu SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), wybierz pozycję **usunięte witryny**. Wybierz witrynę, która została usunięta i wybierz opcję Przywróć lub Usuń (która trwale usunie witrynę). Aby usunąć aktywną witrynę, wybierz pozycję **aktywne** witryny, wybierz witrynę i wybierz pozycję **Usuń**. Aby uzyskać więcej informacji, zobacz [Zarządzanie witrynami w nowym centrum administracyjnym programu SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   

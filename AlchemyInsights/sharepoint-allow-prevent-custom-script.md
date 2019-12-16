@@ -1,7 +1,7 @@
 ---
-title: Zezwalaj na niestandardowy skrypt, aby włączyć funkcje
-ms.author: efrene
-author: efrene
+title: Zezwalaj na skrypt niestandardowy, aby włączyć funkcje
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: cc39fd3e840ac17af2aea242551015074eb985cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4fe0384a97e2f40c8d0dd12bafd84d19edaeb386
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548905"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051795"
 ---
-# <a name="allow-custom-script-to-enable-features"></a>Zezwalaj na niestandardowy skrypt, aby włączyć funkcje
+# <a name="allow-custom-script-to-enable-features"></a>Zezwalaj na skrypt niestandardowy, aby włączyć funkcje
 
-Aby włączyć niektóre funkcje Administratorzy mogą muszą **Umożliwić niestandardowego skryptu** . Na przykład może wystąpić błąd 403 podczas nawiązywania połączenia programu SharePoint z programu SharePoint Designer. Szczegółowe kroki i przykłady, zobacz Uwagi dotyczące [Zezwalaj lub zapobiegania niestandardowy skrypt](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Administratorzy mogą potrzebować **zezwolić na skrypt niestandardowy** , aby włączyć niektóre funkcje. Na przykład użytkownicy mogą odbierać błąd 403 podczas nawiązywania połączenia z programem SharePoint Designer. Szczegółowe kroki, przykłady i zagadnienia zobacz [Zezwalaj lub zapobieganie skryptu niestandardowego](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 
-Jeśli użytkownicy występuje **błąd 403** , programu SharePoint lub OneDrive, możesz sprawdzić [pulpitu nawigacyjnego kondycji usług](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , aby ustalić, czy jest to znany problem z rozdzielczością w toku przed wywołania obsługi technicznej lub poświęcać czasu na rozwiązywanie problemów. Ten problem może być bardzo tymczasowe i już określone przez firmę Microsoft, ale może być upływie w czasie pomiędzy identyfikacji problemu i księgowania w służbie zdrowia pulpitu nawigacyjnego. Przejdź do sprawdzania kondycji usług pulpitu nawigacyjnego na kolejne aktualizacje.
+Jeśli użytkownicy występują **błąd 403** z programu SharePoint lub OneDrive, można sprawdzić [kondycji usługi pulpitu nawigacyjnego](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , aby ustalić, czy jest to znany problem z rozdzielczością w toku przed wywołaniem pomocy technicznej lub spędzać czas rozwiązywania problemów. Problem może być bardzo tymczasowe i już zidentyfikowane przez firmę Microsoft, ale może być wygasa w czasie między identyfikacji problemu i księgowania na pulpicie nawigacyjnym kondycji usługi. Kontynuuj Sprawdzanie kondycji usługi pulpitu nawigacyjnego, aby uzyskać dalsze aktualizacje.
 
