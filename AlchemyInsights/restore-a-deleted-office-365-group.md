@@ -1,7 +1,7 @@
 ---
-title: Przywracanie usuniętych grupy usługi Office 365
-ms.author: kaarins
-author: kaarins
+title: Przywracanie usuniętej grupy 365 pakietu Office
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 3/23/2018
 ms.audience: Admin
@@ -13,20 +13,20 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: e1f0ecaeca3154096c952c0a5018805ac46d8d3f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2e89b479f8cfc0ee0e590b64d09abae8a678e1cc
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509263"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048842"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>Przywracanie usuniętych grupy usługi Office 365
+# <a name="restore-a-deleted-office-365-group"></a>Przywracanie usuniętej grupy 365 pakietu Office
 
-Usuniętej grupy są zachowywane przez 30 dni. Aby przywrócić usunięte grupy:
+Usunięte grupy są zachowywane przez 30 dni. Aby przywrócić usuniętą grupę:
   
-1. W [Centrum administracyjnego programu Exchange](https://outlook.office365.com/ecp/)wybierz **adresatów** w lewym okienku, a następnie wybierz **grupy**. Jeśli grupa została usunięta mniej niż 30 dni temu, to pojawi się na liście, a w kolumnie Stan będzie lista datę usunięcia.
+1. W [Centrum administracyjnego programu Exchange](https://outlook.office365.com/ecp/)wybierz **adresatów** w lewym okienku, a następnie wybierz **grupy**. Jeśli grupa została usunięta mniej niż 30 dni temu, pojawi się na liście, a w kolumnie Stan zostanie wyświetlona data usunięcia.
 
-2. Wybierz grupę i kliknij przycisk **Przywróć** na pasku poleceń lub kliknij łącze "Kliknij tutaj, aby przywrócić", w okienku szczegółów.
+2. Zaznacz grupę, a następnie kliknij przycisk **Przywróć** na pasku poleceń lub kliknij łącze "kliknij tutaj, aby przywrócić" w okienku szczegółów.
 
-Aby uzyskać więcej informacji lub aby dowiedzieć się, jak przywrócić grupy za pomocą środowiska PowerShell zobacz [Przywracanie usuniętej grupy usługi Office 365](https://go.microsoft.com/fwlink/?linkid=867802).
+Aby uzyskać więcej informacji lub dowiedzieć się, jak przywrócić grupy przy użyciu programu PowerShell, zobacz [przywracanie usuniętej grupy 365 pakietu Office](https://go.microsoft.com/fwlink/?linkid=867802).
   

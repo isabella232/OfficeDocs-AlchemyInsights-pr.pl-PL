@@ -1,7 +1,7 @@
 ---
-title: Wyłącz OneDrive
-ms.author: efrene
-author: efrene
+title: Wyłączanie usługi OneDrive
+ms.author: pebaum
+author: pebaum
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -12,28 +12,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 9ca8190cd90bc199e6f18734bb6607e47b877edd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 712004b2dfb36396707e0a39419e566fbfc6a751
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512901"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052947"
 ---
-# <a name="disable-onedrive"></a>Wyłącz OneDrive
+# <a name="disable-onedrive"></a>Wyłączanie usługi OneDrive
 
-Istnieje kilka sposobów, w zależności od potrzeb firmy można wyłączyć dostęp do OneDrive i jego usług:
+Istnieje kilka sposobów, aby wyłączyć dostęp do usługi OneDrive i jej usług w zależności od potrzeb biznesowych:
 
-[Rozłącz, ukrywanie lub odinstalować aplikację OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+[Odłączanie, ukrywanie lub odinstalowywanie aplikacji OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
 
-[Zezwalaj tylko na synchronizację dla określonej organizacji](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+[Zezwalaj tylko na synchronizację dla określonych organizacji](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
 
 [Wyłącz tworzenie witryny OneDrive dla niektórych użytkowników](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 
 [Kontrolowanie dostępu do danych usług SharePoint Online i OneDrive na podstawie zdefiniowanej lokalizacji sieciowej](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-[Wyłączanie synchronizacji OneDrive osobistych](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+[Wyłącz osobistą synchronizację OneDrive](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
 
-[Zarządzanie połączeniami z urządzenia z systemem Windows do OneDrive i innych usług](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+[Zarządzanie połączeniami z urządzeń z systemem Windows do usługi OneDrive i innych usług](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 
