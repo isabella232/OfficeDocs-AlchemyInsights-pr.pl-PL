@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
+ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626358"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889092"
 ---
-# <a name="control-lobby-settings-and-level-of-participation"></a>Sterowanie ustawieniami lobby i poziomem uczestnictwa
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Kontrolowanie ustawień lobby i poziomu uczestnictwa w zespołach
 
-Jeśli chcesz zezwolić wszystkim, w tym telefonowania, zewnętrznych i anonimowych użytkowników ominąć lobby w Microsoft Teams, można użyć programu PowerShell, aby to zrobić. Oto przykład modyfikowania globalnych zasad spotkania dla organizacji:
+Jeśli chcesz zezwolić wszystkim, w tym telefonowania, zewnętrzni i anonimowi użytkownicy, aby **ominąć lobby**, użyj programu PowerShell, aby wykonać to zadanie. Oto przykład modyfikowania globalne zasady spotkania dla organizacji.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-To polecenie cmdlet obecnie wymaga użycia programu Skype dla modułu Business PowerShell. Aby uzyskać Instalator, aby użyć tego polecenia cmdlet, zapoznaj się z [zasadami zarządzania za pomocą programu PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+To polecenie cmdlet obecnie wymaga użycia programu Skype dla modułu Business PowerShell. Aby uzyskać skonfigurowane do używania tego polecenia cmdlet, zapoznaj się z [zasadami zarządzania za pomocą programu PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Można skonfigurować nowe zasady, które następnie należy zastosować do użytkowników. W przypadku zmodyfikowania zasad globalnych będzie ona automatycznie stosowana do użytkowników. W przypadku każdej zmiany zasad należy poczekać co najmniej 4 godziny i do 24 godzin, aby zasady zostały uwzględnione.
+Po skonfigurowaniu zasad należy ją zastosować do użytkowników; lub, jeśli zmodyfikowano politykę globalną, będzie ona automatycznie stosowana do użytkowników. W przypadku każdej zmiany zasad należy poczekać co najmniej **4 godziny do 24 godzin** , aby zasady zostały uwzględnione. 
 
 Przed wprowadzeniem tych zmian należy zapoznać się z poniższą dokumentacją, aby dokładnie zrozumieć, co to pozwala.
 
+
 ## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Opis formantów zasad lobby spotkań zespołów
+
+Te ustawienia kontrolują, którzy uczestnicy spotkania czekają w lobby, zanim zostaną przyjęci na spotkanie i poziom uczestnictwa, jaki są dozwolone na spotkaniu. Można użyć programu PowerShell, aby zaktualizować ustawienia zasad spotkania, które nie zostały jeszcze wdrożone (etykietą "wkrótce") w centrum administracyjnym zespołów. Poniżej przedstawiono przykładowe polecenie cmdlet programu PowerShell, które pozwala wszystkim użytkownikom ominąć lobby.
 
 - [Automatycznie przyznać](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) , że ludzie to zasady na organizatora, który kontroluje, czy ludzie przyłączyć się do spotkania bezpośrednio lub poczekać w lobby, dopóki nie zostaną dopuszczone przez uwierzytelnionego użytkownika.
 
