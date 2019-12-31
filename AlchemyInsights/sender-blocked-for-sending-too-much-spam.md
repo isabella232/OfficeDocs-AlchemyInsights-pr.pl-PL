@@ -12,20 +12,15 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ca5dc9041bad4da9353601bdc39ecf986356f1b1
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 8aa9ab5e6db0d434c13ed9e2d325d28552b7caeb
+ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741042"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40886411"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>Konto jest zablokowane z powodu wysyłania zbyt dużej ilości spamu
 
-Jeśli konto pakietu Office 365 jest zablokowane z powodu wysyłania zbyt dużej ilości spamu, być może doszło do naruszenia konta wysyłającego. Musisz wykonać poniższe czynności:
-  
-1. [Ustal, czy doszło do naruszenia konta](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account#symptoms-of-a-compromised-office-365-email-account). Jeśli konto zostało naruszone, wykonaj czynności w ramach [reagowania na naruszenie konta e-mail w usłudze Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+Jeżeli jednemu z Twoich użytkowników zablokowano możliwość wysyłania wiadomości e-mail, jako administrator możesz [samodzielnie odblokować konto](https://protection.office.com/?hash=/restrictedusers) **bez otwierania zgłoszenia do pomocy technicznej**. Użytkownik będzie mógł wysyłać wiadomości e-mail w ciągu godziny od usunięcia blokady.
 
-2. Aby **[odblokować konto](https://protection.office.com/?hash=/restrictedusers)**, przejdź do obszaru Użytkownicy z ograniczonymi uprawnieniami w sekcji Bezpieczeństwo w &amp; Centrum zgodności. Po zakończeniu wysyłanie wiadomości powinno być możliwe w przeciągu *1 godziny*.
-
-3. Aby zapobiec naruszeniom konta w przyszłości, zapoznaj się z zaleceniami zamieszczonymi w artykule [Office 365 security roadmap (Plan zabezpieczeń usługi Office 365)](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).
-  
+Usługa zapobiega wysyłaniu wiadomości e-mail przez użytkownika po wykryciu dowodów na złamanie zabezpieczeń konta i/lub odnotowanie wychodzącego spamu. Dla bezpieczeństwa wykonaj czynności opisane w sekcji [Reagowanie na naruszenie konta e-mail w usłudze Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) dotyczące użytkownika.
