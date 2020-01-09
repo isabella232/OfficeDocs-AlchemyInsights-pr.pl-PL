@@ -38,6 +38,6 @@ ms.locfileid: "37921824"
 
 **Rozwiązywanie problemów**
 
-Jeśli wystąpią problemy z ładowaniem strony, spróbuj otworzyć stronę internetową w innej przeglądarce lub otworzyć stronę w prywatnym oknie przeglądarki, na przykład w oknie InPrivate w przeglądarce Microsoft Edge lub w oknie incognito w przeglądarce Google Chrome. 
+Jeśli wystąpią problemy z ładowaniem strony internetowej, spróbuj otworzyć ją w innej przeglądarce lub w prywatnym oknie przeglądarki, na przykład w oknie InPrivate w przeglądarce Microsoft Edge lub w oknie incognito w przeglądarce Google Chrome. 
 
 Aby uzyskać więcej informacji, zobacz [Dodawanie, aktualizowanie lub usuwanie karty kredytowej bądź konta bankowego w usłudze Office 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) i [Rozwiązywanie problemów z kartami kredytowymi i kontami bankowymi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
