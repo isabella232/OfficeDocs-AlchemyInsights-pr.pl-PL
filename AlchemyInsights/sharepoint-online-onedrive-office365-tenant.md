@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online lub OneDrive "Konfigurowanie"
+title: Konfigurowanie usługi SharePoint Online lub OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,18 +10,18 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 80013581485a5932bfbec79bb88d1f4e46b0609b
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 214e148420519b47253a317a8bec8239ee985e34
+ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053739"
+ms.lasthandoff: 01/28/2020
+ms.locfileid: "41571343"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online lub OneDrive "Konfigurowanie"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>"Konfigurowanie" programu SharePoint Online lub OneDrive
 
-Gdy użytkownik jest dodawany do istniejącej dzierżawy 365 pakietu Office, mogą zobaczyć SharePoint Online lub OneDrive dla firm ikony wymienione jako "Konfigurowanie", dopóki proces inicjowania obsługi administracyjnej zostało zakończone.
+Gdy użytkownik zostanie dodany do istniejącej dzierżawy usługi Office 365, mogą zobaczyć ikony usługi SharePoint Online lub OneDrive dla Firm wymienione jako "Konfigurowanie", dopóki proces inicjowania obsługi administracyjnej nie zostanie zakończony.
+Aby uzyskać pomoc, postępuj zgodnie z tym [przewodnikiem dotyczącym rozwiązywania problemów.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
 
-Jeśli minęło więcej niż 24 godziny od pierwszego zobaczyłem ten problem, należy zalogować się w przypadku pomocy technicznej.
+Jeśli od pierwszego ostrzeżenia ten problem upłynęło więcej niż 24 godziny, zaloguj sprawę pomocy technicznej.
 
-Rozumiemy, że 24 godziny może wydawać się długi czas. W wielu przypadkach pracujemy już nad rozwiązaniem. Proszę dać nam co najmniej 24 godziny, aby zakończyć rozwiązanie.
-
+Rozumiemy, że 24 godziny mogą wydawać się długie. W wielu przypadkach pracujemy już nad rozwiązaniem. Proszę dać nam co najmniej 24 godziny na uzupełnienie rozwiązania.
