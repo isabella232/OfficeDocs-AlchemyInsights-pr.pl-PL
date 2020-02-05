@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 320216b234eeee13345590add994bbca9a882991
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800514"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771081"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a><span data-ttu-id="4d403-102">Nie można utworzyć oceny zgodności</span><span class="sxs-lookup"><span data-stu-id="4d403-102">Can't create a compatibility assessment</span></span>
+# <a name="cant-create-a-compatibility-assessment"></a><span data-ttu-id="b2740-102">Nie można utworzyć oceny zgodności</span><span class="sxs-lookup"><span data-stu-id="b2740-102">Can't create a compatibility assessment</span></span>
 
-<span data-ttu-id="4d403-103">Menedżer konfiguracji pomyślnym skonfigurowaniu urządzenia, ale Analytics pulpitu nie może utworzyć oceny zgodności.</span><span class="sxs-lookup"><span data-stu-id="4d403-103">Configuration Manager successfully configured the device, but Desktop Analytics can't create a compatibility assessment.</span></span> <span data-ttu-id="4d403-104">To nie ma kompletny zestaw danych dla konfiguracji urządzenia (spisu) lub zainstalowanych aplikacji (zapasy).</span><span class="sxs-lookup"><span data-stu-id="4d403-104">It doesn't have a complete data set for the device's configuration (census) or installed apps (inventory).</span></span>
+<span data-ttu-id="b2740-103">Program Microsoft Endpoint Configuration Manager pomyślnie skonfigurował urządzenie, ale usługa Desktop Analytics nie może utworzyć oceny zgodności.</span><span class="sxs-lookup"><span data-stu-id="b2740-103">Microsoft Endpoint Configuration Manager successfully configured the device, but Desktop Analytics can't create a compatibility assessment.</span></span> <span data-ttu-id="b2740-104">Nie ma pełnego zestawu danych dla konfiguracji urządzenia (spisu) lub zainstalowanych aplikacji (spisu).</span><span class="sxs-lookup"><span data-stu-id="b2740-104">It doesn't have a complete data set for the device's configuration (census) or installed apps (inventory).</span></span>
 
-<span data-ttu-id="4d403-105">Ten problem często rozwiązany automatycznie, gdy urządzenie ponownych prób.</span><span class="sxs-lookup"><span data-stu-id="4d403-105">This issue is often fixed automatically when the device retries.</span></span> <span data-ttu-id="4d403-106">Jeśli problem ustąpi, upewnij się, że urządzenie mogą komunikować się z usługą.</span><span class="sxs-lookup"><span data-stu-id="4d403-106">If it persists, make sure the device can communicate with the service.</span></span> <span data-ttu-id="4d403-107">Aby uzyskać więcej informacji zobacz temat [punktów końcowych](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) i [Brakujących danych](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).</span><span class="sxs-lookup"><span data-stu-id="4d403-107">For more information, see [Endpoints](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) and [Missing Data](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).</span></span>
+<span data-ttu-id="b2740-105">Ten problem jest często naprawiany automatycznie podczas ponownego próby urządzenia.</span><span class="sxs-lookup"><span data-stu-id="b2740-105">This issue is often fixed automatically when the device retries.</span></span> <span data-ttu-id="b2740-106">Jeśli będzie się powtarzać, upewnij się, że urządzenie może komunikować się z usługą.</span><span class="sxs-lookup"><span data-stu-id="b2740-106">If it persists, make sure the device can communicate with the service.</span></span> <span data-ttu-id="b2740-107">Aby uzyskać więcej informacji, zobacz [Punkty końcowe](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) i [Brakujące dane](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).</span><span class="sxs-lookup"><span data-stu-id="b2740-107">For more information, see [Endpoints](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) and [Missing data](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).</span></span>

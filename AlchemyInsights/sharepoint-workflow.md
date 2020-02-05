@@ -1,5 +1,5 @@
 ---
-title: Rozpoczynanie pracę z programem SharePoint Online
+title: Wprowadzenie do usługi SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050931"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770469"
 ---
-# <a name="workflows-in-sharepoint"></a><span data-ttu-id="69c4e-102">Przepływy pracy w programie SharePoint</span><span class="sxs-lookup"><span data-stu-id="69c4e-102">Workflows in SharePoint</span></span>
+# <a name="workflows-in-sharepoint"></a><span data-ttu-id="51a67-102">Przepływy pracy w programie SharePoint</span><span class="sxs-lookup"><span data-stu-id="51a67-102">Workflows in SharePoint</span></span>
 
-<span data-ttu-id="69c4e-103">Przepływy pracy programu SharePoint to wstępnie zaprogramowane mini aplikacje, które usprawniają i automatyzują szeroką gamę procesów biznesowych.</span><span class="sxs-lookup"><span data-stu-id="69c4e-103">SharePoint workflows are pre-programmed mini-applications that streamline and automate a wide variety of business processes.</span></span> <span data-ttu-id="69c4e-104">Przepływy pracy mogą wahają się od zbierania podpisów, opinii lub zatwierdzeń dla planu lub dokumentu, aby śledzić bieżący stan procedury rutynowej.</span><span class="sxs-lookup"><span data-stu-id="69c4e-104">Workflows can range from collecting signatures, feedback, or approvals for a plan or document, to tracking the current status of a routine procedure.</span></span>
+<span data-ttu-id="51a67-103">Przepływy pracy programu SharePoint to wstępnie zaprogramowane aplikacje, które usprawniają szeroki zakres procesów biznesowych.</span><span class="sxs-lookup"><span data-stu-id="51a67-103">SharePoint workflows are pre-programmed apps that streamline a wide variety of business processes.</span></span> <span data-ttu-id="51a67-104">Zobacz linki poniżej, aby uzyskać więcej informacji.</span><span class="sxs-lookup"><span data-stu-id="51a67-104">See the links below for more info.</span></span>
 
-<span data-ttu-id="69c4e-105">**Rozpoczęcie:** Jeśli dopiero rozpoczynasz pracę z przepływami pracy programu SharePoint, zobacz [wprowadzenie do przepływów pracy programu SharePoint, aby uzyskać więcej informacji](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).</span><span class="sxs-lookup"><span data-stu-id="69c4e-105">**Getting Started:** If you're just getting started with SharePoint workflows, see [Introduction to SharePoint workflows for more info](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).</span></span>
+## <a name="getting-started"></a><span data-ttu-id="51a67-105">Wprowadzenie</span><span class="sxs-lookup"><span data-stu-id="51a67-105">Getting Started</span></span>
 
-<span data-ttu-id="69c4e-106">**Microsoft Flow**: Rozważ użycie usługi Microsoft Flow zamiast klasycznych rozwiązań przepływu pracy programu SharePoint.</span><span class="sxs-lookup"><span data-stu-id="69c4e-106">**Microsoft Flow**: Consider using Microsoft Flow instead of the classic SharePoint workflow solutions.</span></span> <span data-ttu-id="69c4e-107">Aby uzyskać więcej informacji, zobacz [Tworzenie przepływu dla listy lub biblioteki w programie SharePoint Online lub OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)</span><span class="sxs-lookup"><span data-stu-id="69c4e-107">For more info, see [Create a flow for a list or library in SharePoint Online or OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)</span></span>
+<span data-ttu-id="51a67-106">Jeśli dopiero zaczynasz korzystać z przepływów pracy programu SharePoint, zobacz [Wprowadzenie do przepływów pracy programu SharePoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).</span><span class="sxs-lookup"><span data-stu-id="51a67-106">If you're just getting started with SharePoint workflows, see [Intro to SharePoint workflows](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).</span></span>
 
-<span data-ttu-id="69c4e-108">**Rozwiązywanie problemów z przepływem pracy i debugowanie**:</span><span class="sxs-lookup"><span data-stu-id="69c4e-108">**Workflow Troubleshooting and Debugging**:</span></span>
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a><span data-ttu-id="51a67-107">Rozwiązywanie problemów i debugowanie przepływu pracy programu SharePoint</span><span class="sxs-lookup"><span data-stu-id="51a67-107">Troubleshoot and Debug a SharePoint Workflow</span></span>
 
-<span data-ttu-id="69c4e-109">Debugowanie przepływów pracy przypomina poprzedniej wersji.</span><span class="sxs-lookup"><span data-stu-id="69c4e-109">Debugging workflows resembles that of previous versions.</span></span> <span data-ttu-id="69c4e-110">Aby uzyskać więcej informacji, zobacz [debugowanie przepływów pracy programu SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span><span class="sxs-lookup"><span data-stu-id="69c4e-110">For more info, see [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span></span> <span data-ttu-id="69c4e-111">Aby uzyskać więcej informacji na temat rozwiązywania problemów, zobacz [Rozwiązywanie problemów z błędami sprawdzania poprawności przepływu pracy programu SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).</span><span class="sxs-lookup"><span data-stu-id="69c4e-111">For more info on troubleshooting, see [Troubleshoot SharePoint Server workflow validation errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).</span></span>
+<span data-ttu-id="51a67-108">Zobacz [Rozwiązywanie problemów z błędami sprawdzania poprawności przepływu pracy programu SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) i [debugowaniem przepływów pracy programu SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span><span class="sxs-lookup"><span data-stu-id="51a67-108">See [Troubleshoot SharePoint workflow validation errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) and [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span></span>
 
+## <a name="power-automate"></a><span data-ttu-id="51a67-109">Automatyzacja zasilania</span><span class="sxs-lookup"><span data-stu-id="51a67-109">Power Automate</span></span>
+
+<span data-ttu-id="51a67-110">Rozważ użycie [power automatyzu](https://docs.microsoft.com/power-automate/modern-approvals) zamiast klasycznych rozwiązań przepływu pracy programu SharePoint.</span><span class="sxs-lookup"><span data-stu-id="51a67-110">Consider using [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) instead of the classic SharePoint workflow solutions.</span></span>
