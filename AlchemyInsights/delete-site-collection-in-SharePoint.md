@@ -1,5 +1,5 @@
 ---
-title: Usuwanie zbioru witryn w programie SharePoint
+title: Usuwanie witryny
 ms.author: pebaum
 author: pebaum
 ms.date: 6/20/2019
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: e15682af9069f8cd9e8f2893100a0044a51b2f04
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053019"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770397"
 ---
-# <a name="delete-a-site-collection"></a>Usuwanie zbioru witryn
+# <a name="delete-a-site"></a>Usuwanie witryny
 
-Gdy użytkownik, jako Administrator globalny lub SharePoint w pakiecie Office 365, Usuń witrynę (wcześniej zwaną "kolekcją witryn"), zostanie przeniesiona do kosza zbioru witryn i zachowana przez 93 dni. 
+Po usunięciu witryny zostanie ona przeniesiona do [usuniętych witryn](https://admin.microsoft.com/sharepoint) i zachowana przez 93 dni. Aby usunąć witrynę, przejdź do [witryny aktywne](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
-Po usunięciu witryny wszystkie elementy w nim usuwane, w tym:
+Po usunięciu witryny wszystko w niej jest usuwane, w tym:
 
-- Bibliotek dokumentów i plików.
-- Wyświetla listę i dane listy.
-- Ustawienia witryny i historia.
-- Wszelkie podstrony i ich zawartość.
+- Dokumenty bibliotek i plików.
+- Listy i dane listy.
+- Ustawienia i historia witryny.
+- Wszelkie podwitryny i ich zawartość.
 
-Przed usunięciem witryny należy powiadomić administratorów witryny i właścicieli podwitryn, aby mogli przenosić swoje dane do innej lokalizacji, a także informować użytkowników, kiedy witryny zostaną usunięte. 
+Przed usunięciem witryny należy powiadomić administratorów witryny i właścicieli podwitryn, aby mogli przenieść swoje dane do innej lokalizacji, a także poinformować użytkowników, kiedy witryny zostaną usunięte.
 
-Aby uzyskać więcej informacji, zobacz [Usuwanie zbioru witryn](https://docs.microsoft.com/sharepoint/delete-site-collection). 
+Aby uzyskać więcej informacji, zobacz [Usuwanie witryny](https://docs.microsoft.com/sharepoint/delete-site-collection).

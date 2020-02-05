@@ -1,5 +1,5 @@
 ---
-title: Zmień urząd MDM
+title: Zmienianie uprawnień mdm
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 12/4/2018
@@ -8,27 +8,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 91ccb74e00ab6d2b5e78c7b0f5a0b1c4790defb8
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36519309"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770973"
 ---
-# <a name="change-intune-mdm-authority"></a>Zmienianie urzędu MDM usługi Intune
+# <a name="change-intune-mdm-authority"></a>Zmienianie uprawnień usługi MDM usługi Intune
 
-Można zmienić urzędu MDM bez otwierania sprawy pomocy technicznej. Instrukcje znajdują się w następujących dokumentach:
+Możesz zmienić uprawnienia MDM bez otwierania sprawy pomocy technicznej. Instrukcje można znaleźć w następujących dokumentach:
   
-- [Zmienianie urzędu MDM z programu Configuration Manager do autonomicznej usługi Intune](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [Zmienianie urzędu mdm z programu Configuration Manager na Autonomiczne usługi Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Zmienianie urzędu MDM z autonomicznej usługi Intune do programu Configuration Manager](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [Zmienianie urzędu mdm z autonomicznej usługi Intune na Menedżer konfiguracji](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
     
  **Współistnienie urzędu MDM**
   
-- Oba urzędy MDM mogą być aktywne równocześnie, jeśli masz już włączoną usługę MDM dla pakietu Office 365, ale chcesz spróbować skorzystać z usługi Intune MDM.
+- Oba urzędy mdm mogą być aktywne jednocześnie, jeśli masz już włączoną usługę Office 365 MDM, ale chcesz wypróbować usługę Intune MDM.
     
-- Administratorzy, którzy już mają Active 365 MDM, mogą po prostu oznaczyć usługę Intune MDM jako aktywną w witrynie Azure Portal.
+- Administratorzy, którzy mają już aktywne usługi O365 MDM, mogą po prostu oznaczyć usługę Intune MDM jako aktywną z witryny Azure portal.
     
-- Jeśli masz usługę Intune MDM, ale chcesz skorzystać z pakietu Office 365 MDM: Otwórz bilet poniżej, a agent pomocy technicznej pomoże Ci włączyć tę funkcję.
+- Jeśli masz usługę Intune MDM, ale chcesz skorzystać z usługi Office 365 MDM: otwórz poniższy bilet, a agent pomocy technicznej pomoże ci to włączyć.
     
 

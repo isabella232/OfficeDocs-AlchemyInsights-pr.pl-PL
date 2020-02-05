@@ -13,24 +13,24 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049419"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771153"
 ---
 # <a name="why-cant-i-edit-files"></a>Dlaczego nie mogę edytować plików?
 
-Jeśli dokument, arkusz lub prezentacja są zablokowane do edycji i nie można ich otworzyć w aplikacjach klasycznych systemu Windows, może to być, że plik jest już edytowany przez kogoś innego lub mają wyewidencjonowany plik. Przyjrzyjmy się szybko niektórym przyczynach, dla których [Edytowanie pliku może nie być możliwe](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Zapoznaj się z niektórymi powodami, dla [których edytowanie pliku może nie być możliwe.](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)
 
-Jeśli masz bibliotek z **wyewidencjonowania, wymagane** lub **sprawdzania poprawności** kolumn lub metadane lub gdy wersja **robocza zabezpieczenia elementu** jest ustawiona na **tylko użytkownicy, którzy mogą edytować** lub **tylko użytkownicy, którzy mogą zatwierdzać elementy** w ustawieniach wersji biblioteki:
+Jeśli masz biblioteki z kolumnami lub metadanymi **wyewidencjonowania, wymagane** lub **sprawdzające sprawdzanie** poprawności lub gdy zabezpieczenia **elementu roboczego** są ustawione **tylko dla użytkowników, którzy mogą edytować,** lub **tylko użytkownicy, którzy mogą zatwierdzać elementy** w ustawieniach wersji biblioteki:
 
-- Dla bibliotek dokumentów programu SharePoint te elementy będą synchronizowane jako tylko do odczytu.
+- W przypadku bibliotek dokumentów programu SharePoint te elementy będą synchronizowane jako tylko do odczytu.
 
-- W przypadku bibliotek usługi OneDrive w usłudze OneDrive będzie widoczna ikona kłódki (ikona zablokowanego pliku usługi OneDrive) obok stanu synchronizacji, a użytkownik nie będzie mógł zsynchronizować biblioteki, dopóki wspomniane ustawienia nie zostaną usunięte. 
+- W przypadku bibliotek usługi OneDrive usługa OneDrive wyświetli ikonę blokady (ikonę zablokowanego pliku usługi OneDrive) obok stanu synchronizacji, a użytkownik nie będzie mógł zsynchronizować biblioteki, dopóki nie zostaną usunięte wymienione ustawienia. 
 
-Aby uzyskać więcej informacji dotyczących zablokowanych plików dla programu Word lub Excel, należy odwołać się do poniższych artykułów.
+Aby uzyskać więcej informacji dotyczących zablokowanych plików dla programu Word lub Excel, zapoznaj się z poniższymi artykułami.
 
 - [Plik programu Excel jest zablokowany do edycji przez innego użytkownika](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 

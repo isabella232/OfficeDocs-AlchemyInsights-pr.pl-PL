@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1555"
 - "9000080"
-ms.openlocfilehash: 2f0e24054312f20d0b8302904ad465beafb101b4
-ms.sourcegitcommit: 4ed431b2e1aed26d07bd7eba282531537d29ad0e
+ms.openlocfilehash: 94edbc3eb9bfa42367566792f231eab464d6d63f
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40910384"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771009"
 ---
-# <a name="hybrid-mdm"></a>Hybrydowe rozwiązanie MDM
+# <a name="hybrid-mdm"></a>Hybrydowy MDM
 
-Aby dowiedzieć się więcej o rozwiązaniu Hybrid MDM z programem Configuration Manager i Microsoft Intune, zobacz [Konfigurowanie hybrydowego zarządzania urządzeniami przenośnymi za pomocą programu Configuration Manager i usługi Microsoft Intune](https://docs.microsoft.com/sccm/mdm/deploy-use/setup-hybrid-mdm).
+Aby dowiedzieć się więcej o hybrydowym programie MDM z programem Microsoft Endpoint Configuration Manager i microsoft Intune, zobacz [Konfigurowanie hybrydowego programu MDM za pomocą programu Configuration Manager i usługi Microsoft Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm).

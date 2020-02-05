@@ -1,5 +1,5 @@
 ---
-title: Urządzenia są w stanie Oczekujące na rejestracji
+title: Urządzenia znajdują się w stanie Oczekująca rejestracja
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: 46bb390bd89d82bab8099f15f086746800cb4261
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 52592a8f4ebac0a9b6c8105721e121a7e560853b
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800509"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770325"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Urządzenia są w stanie "Oczekujące na rejestrowanie"
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Urządzenia znajdują się w stanie "Oczekująca rejestracja"
 
-Analytics pulpitu nie ma danych diagnostycznych dla tego urządzenia. 
+Usługa Desktop Analytics nie ma danych diagnostycznych dla tego urządzenia. 
 
-Ten problem może występować, ponieważ ostatnio dodane urządzenie do kolekcji docelowej i nie wysłano jeszcze danych. Może to także znaczyć, urządzenie nie jest poprawnie komunikowania się z usługą, a najnowsze dane diagnostyczne jest więcej niż 28 dni.
+Ten problem może wystąpić, ponieważ niedawno dodano urządzenie do kolekcji docelowej i nie wysłało jeszcze danych. Może to również oznaczać, że urządzenie nie komunikuje się prawidłowo z usługą, a najnowsze dane diagnostyczne mają więcej niż 28 dni.
 
-Upewnij się, że urządzenie mogą komunikować się z usługą. Aby uzyskać więcej informacji zobacz [punkty końcowe](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints).
+Upewnij się, że urządzenie może komunikować się z usługą. Aby uzyskać więcej informacji, zobacz [Punkty końcowe](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
 
-Aby uzyskać więcej informacji na temat stanu rejestracji awainting zobacz [Monitorowanie stanu połączenia](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+Aby uzyskać więcej informacji na temat stanu rejestracji oczekującej, zobacz [Monitorowanie kondycji połączenia](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).

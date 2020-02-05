@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 320216b234eeee13345590add994bbca9a882991
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800514"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771081"
 ---
 # <a name="cant-create-a-compatibility-assessment"></a>Nie można utworzyć oceny zgodności
 
-Menedżer konfiguracji pomyślnym skonfigurowaniu urządzenia, ale Analytics pulpitu nie może utworzyć oceny zgodności. To nie ma kompletny zestaw danych dla konfiguracji urządzenia (spisu) lub zainstalowanych aplikacji (zapasy).
+Program Microsoft Endpoint Configuration Manager pomyślnie skonfigurował urządzenie, ale usługa Desktop Analytics nie może utworzyć oceny zgodności. Nie ma pełnego zestawu danych dla konfiguracji urządzenia (spisu) lub zainstalowanych aplikacji (spisu).
 
-Ten problem często rozwiązany automatycznie, gdy urządzenie ponownych prób. Jeśli problem ustąpi, upewnij się, że urządzenie mogą komunikować się z usługą. Aby uzyskać więcej informacji zobacz temat [punktów końcowych](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) i [Brakujących danych](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).
+Ten problem jest często naprawiany automatycznie podczas ponownego próby urządzenia. Jeśli będzie się powtarzać, upewnij się, że urządzenie może komunikować się z usługą. Aby uzyskać więcej informacji, zobacz [Punkty końcowe](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) i [Brakujące dane](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).

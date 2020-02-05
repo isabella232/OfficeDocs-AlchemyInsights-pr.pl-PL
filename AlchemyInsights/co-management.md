@@ -11,27 +11,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: fe7dcebf847fbd7d91632e93e2253bf62ac659aa
-ms.sourcegitcommit: 4ed431b2e1aed26d07bd7eba282531537d29ad0e
+ms.openlocfilehash: bd19ae3bfdf5005fe4e495e78749a393128a2184
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40910386"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770901"
 ---
 # <a name="co-management"></a>Współzarządzanie
 
-**Wymagania wstępne dotyczące migracji z programu config Manager Hybrid do usługi Intune**
+**Wymagania wstępne migracji z hybrydowego menedżera konfiguracji do usługi Intune**
 
-- Zapoznaj się z [tym artykułem](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
+- Przejrzyj [ten artykuł](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
 - [Dodaj licencję usługi Intune do użytkowników](https://docs.microsoft.com/intune/licenses-assign).
-- Użyj [przeglądarki Edge](https://www.microsoft.com/windows/microsoft-edge) podczas konfigurowania współzarządzania.
+- Podczas konfigurowania współzarządzania należy używać [przeglądarki Edge.](https://www.microsoft.com/windows/microsoft-edge)
 
-**Jak zainstalować klienta Menedżer konfiguracji na urządzeniach zarządzanych przez usługę Intune**
+**Jak zainstalować klienta Menedżera konfiguracji na urządzeniach zarządzanych przez usługę Intune**
 
-Zobacz [urządzenia z systemem Windows MDM zarządzane przez usługę Intune](https://docs.microsoft.com/sccm/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Zobacz [Urządzenia z systemem Windows zarządzane przez usługę Intune zarządzanych przez mdm](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
 
-**Co zrobić, jeśli chcę tylko zmienić urząd MDM?**
+**Co zrobić, jeśli chcę tylko zmienić uprawnienia MDM?**
 
-Urząd MDM można zmienić bez otwierania sprawy pomocy technicznej. Zapoznaj się z poniższą dokumentacją, aby pomóc w zmianie urzędu MDM:
-- [Zmienianie urzędu MDM z Menedżera konfiguracji do autonomicznej usługi Intune](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
-- [Zmienianie urzędu MDM z autonomicznej usługi Intune do Menedżera konfiguracji](https://docs.microsoft.com/intune-classic/deploy-use/prerequisites-for-enrollment#what-to-do-if-you-choose-the-wrong-mdm-authority-setting)
+Urząd MDM można zmienić bez otwierania sprawy pomocy technicznej. Zapoznaj się z poniższą dokumentacją, aby pomóc w zmianie uprawnienia MDM:
+
+- [Zmienianie urzędu mdm z programu Configuration Manager na Autonomiczne jednych i Administracyjnych](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [Zmienianie uprawnień usługi MDM z autonomicznej usługi Intune na Menedżer konfiguracji](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)

@@ -1,9 +1,9 @@
 ---
-title: Nie otrzymujesz alertów programu SharePoint i OneDrive
+title: Opóźnienia w otrzymywaniu alertów programu SharePoint i onedrive
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/25/19
+ms.date: 02/04/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 80423791ad558fc414d50608c73f823036432e14
-ms.sourcegitcommit: 5e6a805fb0b41d714ca1cf90e23b8e2daa90f90e
+ms.openlocfilehash: 0bc9f614047e06e8654a9b3ff64e87427f33139f
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37205543"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771225"
 ---
-# <a name="not-receiving-sharepoint-and-onedrive-alerts"></a>Nie otrzymujesz alertów programu SharePoint i OneDrive
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Opóźnienia w otrzymywaniu alertów programu SharePoint i onedrive
 
-Najpierw sprawdź folder wiadomości-śmieci lub spam w wiadomości e-mail.
-
-Następnie należy określić, czy **wszystkie alerty nie są dostarczane** lub jeśli **pojedynczy alert** z określonego pliku lub biblioteki nie jest dostarczany.
-
-- Jeśli **wszystkie alerty z wielu plików lub bibliotek nie są dostarczane**, odwiedź [pulpit nawigacyjny kondycji usługi](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fadmin.microsoft.com%2FAdminPortal%2FHome%23%2Fservicehealth&data=02%7C01%7Cv-todmc%40microsoft.com%7C2cd2037aa7304711d2bc08d741fae254%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637050418099632638&sdata=35FUOTleK0Sc0z%2B7N7Vm0tOgXplyeOe3LcIzqRziGXc%3D&reserved=0) , aby sprawdzić, czy nie ma żadnych porad/incydentów, które mogą występować w programie SharePoint lub Exchange. Problem może być z funkcji alertu programu SharePoint lub opóźnienia w wiadomościach e-mail za pośrednictwem programu Exchange. Należy również zwrócić uwagę, czy inne wiadomości e-mail są dostarczane — Jeśli nie, problem jest prawdopodobnie z opóźnienia programu Exchange.
-- Jeśli **pojedynczy alert z określonego pliku lub biblioteki nie zostanie dostarczony**, spróbuj go usunąć i odtworzyć. Zobacz [Zarządzanie, wyświetlanie lub usuwanie alertów programu SharePoint,](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.office.com%2Farticle%2Fmanage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2%3Fui%3Den-US%26rs%3D%26ad%3DUS%23ID0EAADAAA%3DOnline&data=02%7C01%7Cv-todmc%40microsoft.com%7C2cd2037aa7304711d2bc08d741fae254%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637050418099632638&sdata=AkE%2BjiG6%2BA59llp2DGcg4uHHUjaUDUnAlK5ax%2Fepn3E%3D&reserved=0) aby odtworzyć alert.
+- Najpierw sprawdź folder Wiadomości-śmieci lub spam w wiadomości e-mail.
+- Jeśli **wszystkie alerty z wielu plików lub bibliotek są opóźnione,** odwiedź [pulpit nawigacyjny kondycji usługi,](https://nam06.safelinks.protection.outlook.com/?url=https://admin.microsoft.com/AdminPortal/Home%23/servicehealth&data=02%7c01%7cv-todmc%40microsoft.com%7c2cd2037aa7304711d2bc08d741fae254%7c72f988bf86f141af91ab2d7cd011db47%7c1%7c0%7c637050418099632638&sdata=35FUOTleK0Sc0z%2B7N7Vm0tOgXplyeOe3LcIzqRziGXc%3D&reserved=0) aby sprawdzić, czy nie ma żadnych porad/incydentów, które mogą wystąpić w programie SharePoint lub exchange. Problem może dotyczyć funkcji alertów programu SharePoint lub opóźnień w wiadomościach e-mail za pośrednictwem programu Exchange. Zwróć również uwagę, czy inne wiadomości e-mail są dostarczane — jeśli nie, problem jest prawdopodobnie z opóźnieniami programu Exchange.
+- Jeśli **pojedynczy alert z określonego pliku lub biblioteki nie zostanie dostarczony,** spróbuj go usunąć i odtworzyć. Zobacz [Zarządzanie alertami programu SharePoint, wyświetlanie lub usuwanie,](https://nam06.safelinks.protection.outlook.com/?url=https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui%3Den-US%26rs%3D%26ad%3DUS%23ID0EAADAAA%3DOnline&data=02%7c01%7cv-todmc%40microsoft.com%7c2cd2037aa7304711d2bc08d741fae254%7c72f988bf86f141af91ab2d7cd011db47%7c1%7c0%7c637050418099632638&sdata=AkE%2BjiG6%2BA59llp2DGcg4uHHUjaUDUnAlK5ax/epn3E%3D&reserved=0) aby ponownie utworzyć alert.
 
 > [!NOTE]
-> - Nie można wysyłać alertów do grupy dystrybucyjnej. Obsługiwane są tylko grupy zabezpieczeń i 365.
-> - Nie można dostosować szablony wiadomości e-mail alertu. Aby osiągnąć te cele, należy użyć przepływu pracy programu Microsoft Flow lub programu SharePoint Designer.
+> - Alertów nie można wysyłać do grupy dystrybucyjnej. Obsługiwane są tylko grupy zabezpieczeń i o365.
+> - Nie można dostosować szablonów wiadomości e-mail alertów. Aby je osiągnąć, należy użyć przepływu pracy programu Microsoft Flow lub SharePoint Designer.
