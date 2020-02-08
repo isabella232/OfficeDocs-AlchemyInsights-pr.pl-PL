@@ -1,5 +1,5 @@
 ---
-title: Wykonaj lub usuń następujące witryny programu SharePoint
+title: Obserwowanie witryny programu SharePoint lub cofanie ich
 ms.author: pebaum
 author: v-miegge
 ms.date: 6/20/2019
@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611707"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855561"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="19db5-102">Wykonaj lub usuń następujące witryny programu SharePoint</span><span class="sxs-lookup"><span data-stu-id="19db5-102">Follow or un-follow a SharePoint site</span></span>
+# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="0df78-102">Obserwowanie witryny programu SharePoint lub cofanie ich</span><span class="sxs-lookup"><span data-stu-id="0df78-102">Follow or un-follow a SharePoint site</span></span>
 
-<span data-ttu-id="19db5-103">Istnieje wiele sposobów, aby znaleźć i śledzić witryn, wiadomości i treści, które Cię interesuje w programie SharePoint.</span><span class="sxs-lookup"><span data-stu-id="19db5-103">There are multiple ways to find and follow sites, news and content that interests you in SharePoint.</span></span> <span data-ttu-id="19db5-104">Pozwoli to łatwo znaleźć informacje na liście i pozwalają zobaczyć aktywność z SharePoint.</span><span class="sxs-lookup"><span data-stu-id="19db5-104">This will allow you to find the information easily in your list, and allow you to see activity from SharePoint.</span></span>
+<span data-ttu-id="0df78-103">Jeśli użytkownicy występują problemy z przestrzeganiem lub niepełnieniem zasobów programu SharePoint, wykonaj następujące kroki:</span><span class="sxs-lookup"><span data-stu-id="0df78-103">If users are experiencing issues following or unfollowing SharePoint resources, complete these steps:</span></span>
 
-<span data-ttu-id="19db5-105">Obejrzyj film, aby [znaleźć i śledzić witryny i wiadomości](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span><span class="sxs-lookup"><span data-stu-id="19db5-105">Watch the video to [Find and follow sites and news](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span></span>
-
-<span data-ttu-id="19db5-106">Jeśli nie możesz śledzić lub nie śledzić witryny, wiadomości lub treści i uważasz, że wyniki nie są oczekiwane, sprawdź, czy problem jest związany z pojedynczym użytkownikiem lub wszystkimi użytkownikami w organizacji.</span><span class="sxs-lookup"><span data-stu-id="19db5-106">If you are unable to follow or un-follow a site, news or content and feel the results aren't what is expected, see if the issue is related to a single user or all users within your organization.</span></span> <span data-ttu-id="19db5-107">Jeśli problem wystąpi przez wszystkich użytkowników, może to być problem tymczasowy usługi.</span><span class="sxs-lookup"><span data-stu-id="19db5-107">If the issue is encountered by all users, there may be a temporary service issue.</span></span>
-
-<span data-ttu-id="19db5-108">Sprawdź [pulpit nawigacyjny kondycji usługi](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , aby sprawdzić, czy Twoja organizacja ma wpływ.</span><span class="sxs-lookup"><span data-stu-id="19db5-108">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+* <span data-ttu-id="0df78-104">Poproś użytkownika o wylogowanie się i wylogowanie się z powrotem do programu SharePoint i spróbuj wykonać te same czynności/cofnąć działania w zasobie programu SharePoint.</span><span class="sxs-lookup"><span data-stu-id="0df78-104">Ask the user to sign-out and sign back into SharePoint and try the same steps to follow/unfollow the SharePoint resource.</span></span>
+* <span data-ttu-id="0df78-105">Określ, czy problem dotyczy określonej witryny, czy wszystkich witryn.</span><span class="sxs-lookup"><span data-stu-id="0df78-105">Determine if the issue is with a specific site or all sites.</span></span> <span data-ttu-id="0df78-106">Jeśli wystąpi problem z określonymi witrynami, upewnij się, że funkcja "Następujące treści" jest aktywna dla witryny, przechodząc do **ustawień witryny > zarządzanie funkcjami witryny > po zawartości**.</span><span class="sxs-lookup"><span data-stu-id="0df78-106">If the issue occurs with specific sites, ensure the “Following Content” feature is active for the site by going to **Site Settings > Manage Site Features > Following Content**.</span></span> <span data-ttu-id="0df78-107">Jeśli funkcja jest ustawiona na Aktywny, spróbuj ponownie dezaktywować i aktywować operację witryny.</span><span class="sxs-lookup"><span data-stu-id="0df78-107">If the feature is set to Active, try deactivating and activating the feature again for the site.</span></span>
+* <span data-ttu-id="0df78-108">Poproś użytkownika o wypróbowanie innej przeglądarki internetowej, aby sprawdzić, czy problem jest specyficzny dla przeglądarki użytkownika.</span><span class="sxs-lookup"><span data-stu-id="0df78-108">Ask the user to try a different Internet browser to see if the issue is specific to the user’s browser.</span></span>
+* <span data-ttu-id="0df78-109">Jeśli u wszystkich użytkowników i wszystkich witryn występuje ten sam problem, sprawdź [pulpit nawigacyjny kondycji usługi,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) aby sprawdzić, czy ma to wpływ na organizację.</span><span class="sxs-lookup"><span data-stu-id="0df78-109">If all users and all sites are experiencing the same issue, check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
