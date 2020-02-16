@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 8915d97852c5aa3be55a55ea008040e136e6016e
+ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770397"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42042890"
 ---
 # <a name="delete-a-site"></a>Usuwanie witryny
 
-Po usunięciu witryny zostanie ona przeniesiona do [usuniętych witryn](https://admin.microsoft.com/sharepoint) i zachowana przez 93 dni. Aby usunąć witrynę, przejdź do [witryny aktywne](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+Po usunięciu witryny zostanie ona przeniesiona do [usuniętych witryn](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) i zachowana przez 93 dni. Aby usunąć witrynę, przejdź do [witryny aktywne](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
 Po usunięciu witryny wszystko w niej jest usuwane, w tym:
 

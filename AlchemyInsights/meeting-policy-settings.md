@@ -9,25 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "2657"
 - "9000734"
-ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+- "2657"
+ms.openlocfilehash: 509bd0c686830c04ed27f97372411677c0a7f4a4
+ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627584"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42042854"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>Zarządzanie zasadami spotkania w programie Microsoft Teams
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>Zarządzanie zasadami spotkań w usłudze Microsoft Teams
 
-Zasady spotkania są używane do kontrolowania funkcji, które są dostępne dla uczestników spotkania dla spotkań, które są zaplanowane przez użytkowników w organizacji. Niektóre funkcje zasad spotkania mogą nie zostać wdrożone w centrum administracyjnym zespołów jeszcze (są one oznaczone jako "wkrótce" w dokumentacji). W tym przypadku lub jeśli otrzymujesz błąd, takich jak "Firma Microsoft nie można zaktualizować zasady teraz, ale spróbuj ponownie później" w centrum administracyjnego programu Teams firmy Microsoftzaleca się używanie programu PowerShell do tworzenia lub modyfikowania zespołów zasad spotkania. 
+**Uwaga: Wprowadzenie zmian zasad dla użytkowników może potrwać do 24 godzin.** Może nie być możliwe natychmiastowe wprowadzenie zmian w nowo utworzonych zasadach; poczekaj 4 godziny i spróbuj ponownie zmodyfikować nowo utworzone zasady.
 
-Aby uzyskać więcej informacji na temat zasad spotkania zobacz następujące zasoby:
+Zasady spotkania służą do kontrolowania funkcji dostępnych dla uczestników spotkania na spotkania, które są zaplanowane przez użytkowników w organizacji. Niektóre funkcje zasad spotkania mogą nie zostać jeszcze zaimplementowane w centrum administracyjnym zespołów (są one oznaczone jako "wkrótce" w dokumentacji). W takim przypadku lub jeśli pojawia się błąd, taki jak "Nie możemy zaktualizować zasad teraz, ale spróbuj go ponownie później" w centrum administracyjnym programu Microsoft Teams, zaleca się używanie programu PowerShell do tworzenia lub modyfikowania zasad spotkań w programie Teams. 
 
-- Aby dowiedzieć się więcej na temat tworzenia zasad, wprowadzania zmian i przypisywania użytkowników do zasad, zobacz [Zarządzanie zasadami spotkania w zespołach](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Aby uzyskać więcej informacji na temat zasad spotkania, zobacz następujące zasoby:
 
-- Aby wprowadzić zmiany zasad za pomocą poleceń cmdlet programu PowerShell, zobacz [Omówienie programu PowerShell zespołów](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - Należy użyć programu [Skype dla modułu Business PowerShell](https://www.microsoft.com/download/details.aspx?id=39366) dla zespołów spotkań zasad. 
-    - Przejrzyj [dokumentację poleceń cmdlet *-csteamsmeetingpolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) , aby uzyskać więcej informacji.
+- Aby dowiedzieć się więcej o tworzeniu zasad, wprowadzaniu zmian i przypisywaniu użytkowników do zasad, zobacz [Zarządzanie zasadami spotkań w aplikacji Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
-**Uwaga:** Może potrwać do 24 godzin, aby zmiany zasad zostały uwzględnione dla użytkowników. Może nie być możliwe natychmiastowe wprowadzenie zmian w nowo utworzonych zasadach; Poczekaj 4 godziny i spróbuj ponownie zmodyfikować nowo utworzoną zasadę. Jeśli nadal występują problemy, Wypróbuj program PowerShell.  
+- Aby wprowadzić zmiany zasad przy użyciu pozsów cmdlet programu PowerShell, zobacz [Omówienie programu Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
+    - Należy użyć [modułu programu Skype dla firm PowerShell](https://www.microsoft.com/download/details.aspx?id=39366) dla zasad spotkań w zespołach. 
+    - Aby uzyskać więcej informacji, zapoznaj się z [dokumentacją pozorów cmdlet *-CsTeamsMeetingPolicy.](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps)
+
