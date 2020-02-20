@@ -11,21 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 9ae5014aef14dc6478282348cf89f75062129ab7
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
+ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42033899"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42162922"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>Zbieranie elektronicznych materiałów dowodowych w sieciach yammer
 
 Teraz można przeprowadzić wyszukiwanie zbierania elektronicznych materiałów dowodowych zawartości usługi Yammer w usłudze Office 365.  Wyszukiwanie lub eksportowanie zbierania elektronicznych materiałów dowodowych w zawartości usługi Yammer wymaga następujących elementów:
 
-1. Najpierw należy przeprowadzić migrację sieci Yammer Enterprise Network do trybu natywnego, aby wiadomości i pliki usługi Yammer były wykrywalne.
-
-   > [!NOTE] 
-   >Jeśli jesteś nowym klientem usługi Office 365 od 9 stycznia 2020 r., a sieć usługi Yammer jest już w trybie natywnym, dane są teraz wykrywalne za pomocą zbierania elektronicznych materiałów dowodowych.
+1. Najpierw należy przeprowadzić migrację sieci Yammer Enterprise Network do trybu natywnego, aby wiadomości i pliki usługi Yammer były wykrywalne. **Uwaga: jeśli jesteś nowym klientem usługi Office 365 od 9 stycznia 2020 r., a sieć usługi Yammer jest już w trybie natywnym, dane są teraz wykrywalne za pomocą zbierania elektronicznych materiałów dowodowych.**
 
 2. W przypadku zamykania klientów zbieranie elektronicznych materiałów dowodowych dla usługi Yammer będzie dostępne po zwolnieniu narzędzia Wyrównanie trybu macierzystego i zakończeniu migracji trybu macierzystego dla usługi Yammer w dzierżawie.
 
