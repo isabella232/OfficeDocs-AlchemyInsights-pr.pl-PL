@@ -1,5 +1,5 @@
 ---
-title: Hotmail brakujące foldery
+title: Outlook.com Brakujące foldery
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536193"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260252"
 ---
-# <a name="find-missing-folders"></a><span data-ttu-id="65768-102">Znajdź brakujące foldery</span><span class="sxs-lookup"><span data-stu-id="65768-102">Find missing folders</span></span>
+# <a name="find-missing-folders"></a><span data-ttu-id="b014f-102">Znajdowanie brakujących folderów</span><span class="sxs-lookup"><span data-stu-id="b014f-102">Find missing folders</span></span>
 
-<span data-ttu-id="65768-103">Jeśli nie można wyświetlić foldery, sprawdź, czy foldery nie są zwinięte.</span><span class="sxs-lookup"><span data-stu-id="65768-103">If you can't see your folders, check that your folders aren't collapsed.</span></span> <span data-ttu-id="65768-104">Wybierz strzałkę obok **folderów** w okienku po lewej stronie.</span><span class="sxs-lookup"><span data-stu-id="65768-104">Select the arrow next to **Folders** in the left pane.</span></span>
-  
-<span data-ttu-id="65768-105">Jeśli folder zostanie przypadkowo usunięty, można odzyskać, jeśli jest jeszcze w folderze Elementy usunięte.</span><span class="sxs-lookup"><span data-stu-id="65768-105">If you accidentally delete a folder, you can recover it if it's still in your Deleted Items folder.</span></span> <span data-ttu-id="65768-106">Aby dowiedzieć się więcej, przeczytaj [Przywracanie usuniętych wiadomości e-mail w Hotmail](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="65768-106">To learn more, read [Restoring deleted email messages in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
-  
-<span data-ttu-id="65768-107">Istnieje znany problem gdzie brakuje folderów.</span><span class="sxs-lookup"><span data-stu-id="65768-107">There is a known issue where folders are missing.</span></span> <span data-ttu-id="65768-108">Chcemy rozwiązać ten problem.</span><span class="sxs-lookup"><span data-stu-id="65768-108">We're working to fix this.</span></span> <span data-ttu-id="65768-109">Nadal można znaleźć elementów zapisanych w ramach brakujące foldery **w wyszukiwaniu**</span><span class="sxs-lookup"><span data-stu-id="65768-109">You can still find items saved within the missing folders using **Search**</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' /><span data-ttu-id="65768-110">, i może pomóc, jeśli się wylogować i zalogować ponownie.</span><span class="sxs-lookup"><span data-stu-id="65768-110">, and it may help if you sign out and then sign in again.</span></span> [<span data-ttu-id="65768-111">Kliknij tutaj, aby się wylogować.</span><span class="sxs-lookup"><span data-stu-id="65768-111">Click here to sign out.</span></span>](https://login.live.com/logout.srf)
+<span data-ttu-id="b014f-103">Niektórzy użytkownicy mogą nie być w stanie zobaczyć lewego okienka folderu podczas wyświetlania na małym ekranie.</span><span class="sxs-lookup"><span data-stu-id="b014f-103">Some users may not be able to see the left folder pane when viewing on a small screen.</span></span>
+
+- <span data-ttu-id="b014f-104">Rozwiń okienko folderu tylko wtedy, gdy jest potrzebne.</span><span class="sxs-lookup"><span data-stu-id="b014f-104">Expand the folder pane only when you need it.</span></span> <span data-ttu-id="b014f-105">Wybierz ikonę trzech linii na lewym pasku bocznym, aby wyświetlić lub ukryć foldery.</span><span class="sxs-lookup"><span data-stu-id="b014f-105">Select the three line icon in the left side bar to show or hide folders.</span></span>
+- <span data-ttu-id="b014f-106">Otwórz [ustawienia układu](https://outlook.live.com/mail/options/mail/layout) i wybierz pozycję **Ukryj okienko odczytu,** a następnie **zapisz**.</span><span class="sxs-lookup"><span data-stu-id="b014f-106">Open [layout settings](https://outlook.live.com/mail/options/mail/layout) and select **Hide reading pane** and then **Save**.</span></span> <span data-ttu-id="b014f-107">Dzięki temu ekran będzie miał więcej miejsca na wyświetlanie folderów.</span><span class="sxs-lookup"><span data-stu-id="b014f-107">This will give the screen more space to show folders.</span></span>
+
+<span data-ttu-id="b014f-108">Jeśli przypadkowo usuniesz folder, możesz go odzyskać, jeśli nadal znajduje się w folderze Elementy usunięte.</span><span class="sxs-lookup"><span data-stu-id="b014f-108">If you accidentally delete a folder, you can recover it if it's still in your Deleted Items folder.</span></span> <span data-ttu-id="b014f-109">Aby dowiedzieć się więcej, przeczytaj [Przywracanie usuniętych wiadomości e-mail w Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).</span><span class="sxs-lookup"><span data-stu-id="b014f-109">To learn more, read [Restoring deleted email messages in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).</span></span>
