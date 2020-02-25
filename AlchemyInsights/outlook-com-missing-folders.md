@@ -1,5 +1,5 @@
 ---
-title: Hotmail brakujące foldery
+title: Outlook.com Brakujące foldery
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536193"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260252"
 ---
-# <a name="find-missing-folders"></a>Znajdź brakujące foldery
+# <a name="find-missing-folders"></a>Znajdowanie brakujących folderów
 
-Jeśli nie można wyświetlić foldery, sprawdź, czy foldery nie są zwinięte. Wybierz strzałkę obok **folderów** w okienku po lewej stronie.
-  
-Jeśli folder zostanie przypadkowo usunięty, można odzyskać, jeśli jest jeszcze w folderze Elementy usunięte. Aby dowiedzieć się więcej, przeczytaj [Przywracanie usuniętych wiadomości e-mail w Hotmail](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
-  
-Istnieje znany problem gdzie brakuje folderów. Chcemy rozwiązać ten problem. Nadal można znaleźć elementów zapisanych w ramach brakujące foldery **w wyszukiwaniu** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />, i może pomóc, jeśli się wylogować i zalogować ponownie. [Kliknij tutaj, aby się wylogować.](https://login.live.com/logout.srf)
+Niektórzy użytkownicy mogą nie być w stanie zobaczyć lewego okienka folderu podczas wyświetlania na małym ekranie.
+
+- Rozwiń okienko folderu tylko wtedy, gdy jest potrzebne. Wybierz ikonę trzech linii na lewym pasku bocznym, aby wyświetlić lub ukryć foldery.
+- Otwórz [ustawienia układu](https://outlook.live.com/mail/options/mail/layout) i wybierz pozycję **Ukryj okienko odczytu,** a następnie **zapisz**. Dzięki temu ekran będzie miał więcej miejsca na wyświetlanie folderów.
+
+Jeśli przypadkowo usuniesz folder, możesz go odzyskać, jeśli nadal znajduje się w folderze Elementy usunięte. Aby dowiedzieć się więcej, przeczytaj [Przywracanie usuniętych wiadomości e-mail w Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).
