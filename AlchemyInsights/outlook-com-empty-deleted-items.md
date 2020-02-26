@@ -1,8 +1,9 @@
 ---
-title: Opróżnij folder Elementy usunięte w Outlook.com
+title: Opróżnianie folderu Elementy usunięte w Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768702"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277941"
 ---
-# <a name="empty-the-deleted-items-folder"></a>Opróżnij folder Elementy usunięte
+# <a name="empty-the-deleted-items-folder"></a>Opróżnianie folderu Elementy usunięte
 
- Aby wyczyścić wszystkie usunięte wiadomości programu Outlook, przejdź do [folderu Elementy usunięte](https://outlook.live.com/mail/deleteditems)i wybierz **pusty folder**, a następnie wybierz **Odzyskaj elementy usunięte z tego folderu** powyżej listy wiadomości i wybierz **pusty folder** ponownie.
+1. Otwórz folder Elementy usunięte i wybierz pozycję **Pusty folder**.
+2. Wybierz **pozycję Elementy do odzyskania** u góry strony i ponownie wybierz pozycję **Opróżnij folder.**
 
-Jeśli usunięto wiele wiadomości, może to zająć trochę czasu, zanim elementy zostaną przesuniete lub usunięte z folderu Elementy usunięte. Pozostaw otwarte okno przeglądarki, dopóki elementy nie zostaną usunięte.
+**Nie można opróżnić folderu Elementy usunięte**
 
-Jeśli wiadomości nie powiodą się poprawnie, spróbuj usunąć mniejszą liczbę wiadomości.
+- Jeśli usuniesz wiele wiadomości e-mail, przeniesienie tych elementów do folderu Elementy usunięte może zająć trochę czasu. Pozostaw otwarte okno przeglądarki podczas usuwania.
+- Jeśli wiadomość e-mail nadal nie może usunąć poprawnie, wybierz mniejszą partię do usunięcia.
+- Jeśli usunięta wiadomość e-mail powróci, może to być spowodowane tym, że ostatnio usunięto wiele wiadomości e-mail. Spróbuj ponownie później.
