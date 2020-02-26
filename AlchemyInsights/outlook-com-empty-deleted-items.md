@@ -1,8 +1,9 @@
 ---
-title: Opróżnij folder Elementy usunięte w Outlook.com
+title: Opróżnianie folderu Elementy usunięte w Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768702"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277941"
 ---
-# <a name="empty-the-deleted-items-folder"></a><span data-ttu-id="7fa7c-102">Opróżnij folder Elementy usunięte</span><span class="sxs-lookup"><span data-stu-id="7fa7c-102">Empty the Deleted Items folder</span></span>
+# <a name="empty-the-deleted-items-folder"></a><span data-ttu-id="8509a-102">Opróżnianie folderu Elementy usunięte</span><span class="sxs-lookup"><span data-stu-id="8509a-102">Empty the Deleted Items folder</span></span>
 
-<span data-ttu-id="7fa7c-103"> Aby wyczyścić wszystkie usunięte wiadomości programu Outlook, przejdź do [folderu Elementy usunięte](https://outlook.live.com/mail/deleteditems)i wybierz **pusty folder**, a następnie wybierz **Odzyskaj elementy usunięte z tego folderu** powyżej listy wiadomości i wybierz **pusty folder** ponownie.</span><span class="sxs-lookup"><span data-stu-id="7fa7c-103">To purge all your deleted Outlook messages, go to your [Deleted Items folder](https://outlook.live.com/mail/deleteditems) and select **Empty folder**, then select **Recover items deleted from this folder** above the message list and select **Empty folder** again.</span></span>
+1. <span data-ttu-id="8509a-103">Otwórz folder Elementy usunięte i wybierz pozycję **Pusty folder**.</span><span class="sxs-lookup"><span data-stu-id="8509a-103">Open your Deleted Items folder and select **Empty folder**.</span></span>
+2. <span data-ttu-id="8509a-104">Wybierz **pozycję Elementy do odzyskania** u góry strony i ponownie wybierz pozycję **Opróżnij folder.**</span><span class="sxs-lookup"><span data-stu-id="8509a-104">Select **Recoverable items** at the top of the page and select **Empty folder** again.</span></span>
 
-<span data-ttu-id="7fa7c-104">Jeśli usunięto wiele wiadomości, może to zająć trochę czasu, zanim elementy zostaną przesuniete lub usunięte z folderu Elementy usunięte.</span><span class="sxs-lookup"><span data-stu-id="7fa7c-104">If you've deleted a lot of messages, it may take some time for those items to move to or be purged from the Deleted Items folder.</span></span> <span data-ttu-id="7fa7c-105">Pozostaw otwarte okno przeglądarki, dopóki elementy nie zostaną usunięte.</span><span class="sxs-lookup"><span data-stu-id="7fa7c-105">Please leave the browser window open until the items are deleted.</span></span>
+<span data-ttu-id="8509a-105">**Nie można opróżnić folderu Elementy usunięte**</span><span class="sxs-lookup"><span data-stu-id="8509a-105">**Unable to empty the Deleted Items folder**</span></span>
 
-<span data-ttu-id="7fa7c-106">Jeśli wiadomości nie powiodą się poprawnie, spróbuj usunąć mniejszą liczbę wiadomości.</span><span class="sxs-lookup"><span data-stu-id="7fa7c-106">If messages fail to delete properly, try deleting a smaller number of messages.</span></span>
+- <span data-ttu-id="8509a-106">Jeśli usuniesz wiele wiadomości e-mail, przeniesienie tych elementów do folderu Elementy usunięte może zająć trochę czasu.</span><span class="sxs-lookup"><span data-stu-id="8509a-106">If you've deleted a lot of email, it may take some time for those items to move to or be deleted from the Deleted Items folder.</span></span> <span data-ttu-id="8509a-107">Pozostaw otwarte okno przeglądarki podczas usuwania.</span><span class="sxs-lookup"><span data-stu-id="8509a-107">Leave the browser window open while the deleting takes place.</span></span>
+- <span data-ttu-id="8509a-108">Jeśli wiadomość e-mail nadal nie może usunąć poprawnie, wybierz mniejszą partię do usunięcia.</span><span class="sxs-lookup"><span data-stu-id="8509a-108">If the email still fails to delete properly, select a smaller batch to delete.</span></span>
+- <span data-ttu-id="8509a-109">Jeśli usunięta wiadomość e-mail powróci, może to być spowodowane tym, że ostatnio usunięto wiele wiadomości e-mail.</span><span class="sxs-lookup"><span data-stu-id="8509a-109">If deleted email comes back, it could be because you've deleted a lot of email recently.</span></span> <span data-ttu-id="8509a-110">Spróbuj ponownie później.</span><span class="sxs-lookup"><span data-stu-id="8509a-110">Please try again later.</span></span>
