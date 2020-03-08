@@ -1,5 +1,5 @@
 ---
-title: Kondycja usługi usługi Microsoft 365
+title: Kondycja usługi Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: bd36391f0536b2fe951926eceab02e6411b54f3d
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
+ms.openlocfilehash: 14de391dd1f020e29beb4b432e288b46bee3dd9a
+ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371700"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42558843"
 ---
-# <a name="microsoft-365-service-health"></a>Kondycja usługi usługi Microsoft 365
+# <a name="microsoft-365-service-health"></a>Kondycja usługi Microsoft 365
 
 
-Sprawdź kondycję usługi dowolnej usługi z pulpitu nawigacyjnego kondycji usługi. Wybierając **nowe centrum administracyjne** w prawym górnym rogu, zobaczysz nowe opcje kondycji usługi.
+Sprawdź kondycję usługi dowolnej usługi z [pulpitu nawigacyjnego kondycji usługi](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Po wybraniu **opcji Nowe centrum administracyjne** w prawym górnym rogu zobaczysz nowe opcje kondycji usługi.
 
-- Wybierz **preferencje,** aby otrzymywać **powiadomienia e-mail**o kondycji usługi .
+- Wybierz **pozycję Preferencje,** aby otrzymywać **powiadomienia e-mail**dotyczące kondycji usługi .
 
-- Wybierz **pozycję Zgłoś problem,** jeśli występuje problem z usługą.
+- Wybierz **zgłoś problem,** jeśli występuje problem z usługą.
 
 - Wybierz **pozycję Historia,** aby przejrzeć historię kondycji usługi w organizacji. 
 
