@@ -1,5 +1,5 @@
 ---
-title: Poproś administratora o włączenie programu Microsoft Teams
+title: Poproś administratora o włączenie usługi Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962307"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573142"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Tracisz! Poproś administratora o włączenie programu Microsoft Teams
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Tracisz! Poproś administratora o włączenie usługi Microsoft Teams
 
-Czy wykładowcy i pracownicy mogą uzyskiwać dostęp do zespołów, ale studenci nie mogą lub czy użytkownicy licencjonowani f1 nie mogą uzyskać dostępu do zespołów?
+Jeśli masz dzierżawę EDU, musisz ręcznie włączyć usługę Microsoft Teams. Aby to zrobić, przejdź do centrum administracyjnego usługi > **i dodatki usługi**Microsoft Teams > w usłudze Microsoft 365 . Jeśli korzystasz z nowego centrum administracyjnego usługi Teams, musisz wyłączyć **Wypróbuj nowe centrum** administracyjne, aby znaleźć **usługi i dodatki**. 
 
-Zespoły muszą być jawnie włączone dla studentów i licencji F1. Bardziej szczegółowe instrukcje dotyczące włączania aplikacji Zespoły dla twojej szkoły można znaleźć w sekcji [Konfigurowanie zespołów dla szkół](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+**WAŻNE**: Na wprowadzenie zmian konieczne może być odczekanie do 24 godzin.
