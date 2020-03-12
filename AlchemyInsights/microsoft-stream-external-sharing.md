@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: 06ec178a2012872a0a4d5462b795229aeca67016
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
+ms.openlocfilehash: 74aa7e926604e62054100b8a99d62fe403dd3b16
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371672"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600538"
 ---
 # <a name="microsoft-stream-external-sharing"></a>Udostępnianie zewnętrzne usługi Microsoft Stream
 
-Usługa Microsoft Stream nie obsługuje jeszcze scenariuszy udostępniania zewnętrznego dla gości lub osób spoza organizacji. Wiemy, że te funkcje są bardzo potrzebne i pracujemy nad planami tworzenia tych funkcji.
+Usługa Microsoft Stream nie obsługuje jeszcze zewnętrznych scenariuszy udostępniania dla gości lub osób spoza organizacji. Wiemy, że te funkcje są bardzo potrzebne i pracujemy nad planami tworzenia tych funkcji.
 
-- [Udostępnianie zewnętrzne w strumieniu](https://docs.microsoft.com/en-us/stream/portal-share-video#external-sharing)
+- [Udostępnianie zewnętrzne w strumieniu](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
-- [Udostępnianie filmów w usłudze Microsoft Stream](https://docs.microsoft.com/en-us/stream/portal-share-video)
+- [Udostępnianie klipów wideo w usłudze Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
