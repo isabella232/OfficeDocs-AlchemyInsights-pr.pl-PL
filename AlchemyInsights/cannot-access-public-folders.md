@@ -11,23 +11,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a9305b175e1ca0b992c014a73705447d67e037bc
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
+ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959504"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42891759"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Program Outlook nie może nawiązać połączenia z folderami publicznymi
+# <a name="outlook-cannot-connect-to-public-folders"></a>Program Outlook nie może łączyć się z folderami publicznymi
 
-Jeśli dostęp do folderu publicznego nie działa w przypadku kilku użytkowników, wypróbuj następujące czynności:
+Jeśli dostęp do folderów publicznych nie działa dla niektórych użytkowników, spróbuj wykonać następujące czynności:
 
-Połącz się z programu PowerShell EXO i skonfiguruj DefaultPublicFolderMailbox na konto użytkownika problem, aby dopasować jeden na konto użytkownika pracy.
+Połącz się z exo powershell i skonfiguruj parametr DefaultPublicFolderMailbox na koncie użytkownika problematycznych, aby dopasować go do parametru na działającym koncie użytkownika.
 
 Przykład:
 
-Get-Skrzynka pocztowa WorkingUser | FT DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
+Get-MailBox WorkingUser | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox ft DefaultPublicFolderMailbox
 
-Zestaw-Mailbox Problemużytkownik-DefaultPublicFolderMailbox \<wartość z poprzedniego polecenia>
+Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<wartość z poprzedniego polecenia>
 
-Poczekaj co najmniej jedną godzinę, aby zmiany zostały uwzględnione.
+Poczekaj co najmniej godzinę, aż zmiana wejdzie w życie.
+
+Jeśli problem występuje, wykonaj [tę procedurę,](https://aka.ms/pfcte) aby rozwiązać problemy z dostępem do folderów publicznych za pomocą programu Outlook.
