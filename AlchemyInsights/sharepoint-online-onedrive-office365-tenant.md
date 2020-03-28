@@ -1,5 +1,5 @@
 ---
-title: Konfigurowanie usługi SharePoint Online lub OneDrive
+title: SharePoint Online lub OneDrive "Konfigurowanie"
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,18 +10,17 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 214e148420519b47253a317a8bec8239ee985e34
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: 9cd49502102ee89df0e714d0bca86e87733cb6b3
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571343"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030374"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>"Konfigurowanie" programu SharePoint Online lub OneDrive
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online lub OneDrive "Konfigurowanie"
 
-Gdy użytkownik zostanie dodany do istniejącej dzierżawy usługi Office 365, mogą zobaczyć ikony usługi SharePoint Online lub OneDrive dla Firm wymienione jako "Konfigurowanie", dopóki proces inicjowania obsługi administracyjnej nie zostanie zakończony.
-Aby uzyskać pomoc, postępuj zgodnie z tym [przewodnikiem dotyczącym rozwiązywania problemów.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
+Gdy użytkownik zostanie dodany do istniejącej dzierżawy usługi Office 365, mogą zobaczyć ikony usługi SharePoint Online lub OneDrive dla Firm wymienione jako "Konfigurowanie" lub "Nadal pracujemy nad instalacją plików", dopóki proces inicjowania obsługi administracyjnej nie zostanie zakończony. Aby uzyskać pomoc, postępuj zgodnie z tym [przewodnikiem po rozwiązywaniu problemów.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
 
-Jeśli od pierwszego ostrzeżenia ten problem upłynęło więcej niż 24 godziny, zaloguj sprawę pomocy technicznej.
+Jeśli od pierwszego zobaczenia tego problemu minęło więcej niż 24 godziny, zarejestruj sprawę pomocy technicznej.
 
-Rozumiemy, że 24 godziny mogą wydawać się długie. W wielu przypadkach pracujemy już nad rozwiązaniem. Proszę dać nam co najmniej 24 godziny na uzupełnienie rozwiązania.
+Rozumiemy, że 24 godziny mogą wydawać się długim czasem. W wielu przypadkach już pracujemy nad rozwiązaniem. Daj nam co najmniej 24 godziny na uzupełnienie rozwiązania.
