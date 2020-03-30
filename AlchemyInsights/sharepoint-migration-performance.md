@@ -11,18 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: 812444589d5a5bf766bbc6f466077d4ca829d79f
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: ae62607bf5991eb8fd8764ebad64da040389df6b
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932244"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958764"
 ---
 # <a name="sharepoint-migration-performance"></a>Wydajność migracji w programie SharePoint
 
-**Ważne**: wielu klientów usług SharePoint Online i OneDrive używa aplikacji o krytycznym znaczeniu, na które wpływają usługi wykonywane w tle. Obejmuje to rozwiązania do migracji treści, ochrony przed utratą danych (DLP) czy do tworzenia kopii zapasowych. W tych bezprecedensowych czasach podejmujemy kroki mające na celu zapewnienie, że usługi SharePoint Online oraz OneDrive pozostają dostępne i działają niezawodnie dla użytkowników, którzy bardziej niż kiedykolwiek polegają na nich przy pracy zdalnej.
-
-Aby móc realizować ten cel, wprowadziliśmy ściślejsze limity ograniczania dla aplikacji działających w tle (migracji, funkcji DLP i rozwiązań do tworzenia kopii zapasowych) w godzinach pracy w dni robocze. W tym czasie należy spodziewać się, że w tych godzinach aplikacje te uzyskają bardzo ograniczoną przepływność. Natomiast w godzinach wieczornych oraz w weekendy w danym regionie usługa będzie gotowa do przetwarzania znacznie większej liczby żądań z aplikacji w tle.
+**Ważne**: w tych niespotykanych czasach podejmujemy kroki zapewniające stałą wysoką dostępność usług SharePoint Online i OneDrive. Aby uzyskać więcej informacji, zapoznaj się z [tymczasowymi zmianami funkcji usługi SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 **Wydajność migracji**
 

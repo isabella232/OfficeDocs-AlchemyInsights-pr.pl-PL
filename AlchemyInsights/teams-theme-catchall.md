@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856477"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030410"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Znane problemy i rozwiązania dotyczące aplikacji Teams
+
+**Ważne**: ze względu na obserwowany w ostatnim czasie wzrost użycia usługi Teams pełne skonfigurowanie użytkownika po przypisaniu mu licencji usługi Teams może potrwać około 24 godzin. Do tego czasu użytkownik może nie mieć dostępu do niektórych funkcji aplikacji Teams, takich jak połączenia i konferencje głosowe, i nie będzie można przypisać mu zasad usługi Teams.
+
+**Znane problemy i rozwiązania**
 
 Aby uzyskać bardziej szczegółowe informacje, spróbuj inaczej sformułować pytanie, aby uwzględnić w nim błędy, które wyświetlają się na Twoim ekranie, lub funkcje aplikacji Teams, z których korzystasz.
 
