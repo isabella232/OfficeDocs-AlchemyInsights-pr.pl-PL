@@ -1,5 +1,5 @@
 ---
-title: 182 Proszę uruchomić SaRA, aby zdiagnozować i rozwiązać problemy z uwierzytelnianiem programu Outlook
+title: 182 Uruchom program SaRA w celu zdiagnozowania i rozwiązania problemów z uwierzytelnianiem programu Outlook
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,13 +12,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: e2339130cd8a0e1668bf678c3b99b81099a220fd
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 150a64e110a6e2e013952d97d811f0e791803d39
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36752654"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059818"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Używanie SaRA do diagnozowania i rozwiązywania problemów z uwierzytelnianiem programu Outlook
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Diagnozowanie i rozwiązywanie problemów z uwierzytelnianiem programu Outlook za pomocą programu SaRA
 
-Zdecydowanie zalecamy używanie programu [Outlook utrzymuje prosząc o moje hasło](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostyczne na komputerze, którego dotyczy problem rozwiązywać problemy, w którym program Outlook stale monituje o hasło. Ta Diagnostyka [SaRA](https://diagnostics.office.com/#/) zautomatyzowanych kontroli i zwraca możliwe rozwiązania do użycia w celu rozwiązania wszelkich wykrytych problemów.
+**Uwaga:** Sprawdź, czy [domyślne ustawienia zabezpieczeń](http://aka.ms/securitydefaults) są włączone w organizacji. Jeśli dzierżawa została utworzona po 21 października 2019 r., a program Outlook wielokrotnie prosi o hasło, w dzierżawie mogą być włączone **ustawienia domyślne zabezpieczeń.**
+
+Zdecydowanie zalecamy użycie [programu Outlook z prośbą o](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostykę hasła na komputerze, którego dotyczy problem, aby rozwiązać problemy, w których program Outlook stale monituje o hasło. Ta [diagnostyka SaRA](https://diagnostics.office.com/#/) przeprowadza automatyczne kontrole i zwraca możliwe rozwiązania, których można użyć do rozwiązania wykrytych problemów.
