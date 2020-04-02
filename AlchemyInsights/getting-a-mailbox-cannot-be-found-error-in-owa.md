@@ -1,5 +1,5 @@
 ---
-title: 126 coraz skrzynki pocztowej nie można odnaleźć błędu w programie OWA?
+title: 126 Nie można odnaleźć błędu skrzynki pocztowej w aplikacji OWA?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,17 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 136337c2791c69bf97ffd6a1498917015d348f8d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e061ad6b74b27e3f0d597586cb2c8e31b8fa5d23
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523881"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105249"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Uzyskiwanie skrzynki pocztowej nie znaleziono błąd w programie Outlook w sieci web?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Nie znaleziono błędu skrzynki pocztowej w aplikacji Outlook w sieci Web?
 
-Jeśli używasz programu Outlook w sieci web, pojawi się błąd **nie można znaleźć skrzynki pocztowej dla** konta, które jest używane do łączenia z programem Outlook w sieci web nie ma licencji programu Exchange Online i w związku z tym nie skrzynka pocztowa jest skojarzona z kontem. Administrator może przypisać jedną licencję do konta wykonaj następujące czynności:
+Jeśli używasz programu Outlook w sieci Web i **nie można znaleźć skrzynki pocztowej z** powodu błędu, konto używane do łączenia się z programem Outlook w sieci Web nie ma licencji usługi Exchange Online i dlatego żadna skrzynka pocztowa nie jest skojarzona z kontem. Administrator może przypisać licencję do twojego konta, wykonując następujące czynności:
 
-1. Otwórz [Centrum administracyjnego usługi Microsoft 365](https://portal.office.com/adminportal/home#/homepage) i obszarze **aktywnych użytkowników**, wybierz polecenie **Edytuj użytkownika**.
+1. Otwórz [centrum administracyjne usługi Microsoft 365](https://portal.office.com/adminportal/home#/homepage) i przejdź do **sekcji Aktywni użytkownicy** w sekcji **Użytkownicy** i wybierz użytkownika, który widzi błąd.
 
-2. Na stronie **Edytowanie użytkownika** zostanie otwarte wybierz użytkownika. Na stronie właściwości użytkownika zostanie otwarty kliknij przycisk **Edytuj** dla **licencji na produkt**.
-
-3. Na stronie **licencji na produkt** , który otwiera, wybierz odpowiednią wartość **lokalizacji** i przypisać licencję, który zawiera Exchange Online (rozwiń licencji, aby wyświetlić jego szczegóły). Po zakończeniu kliknij przycisk **Zapisz**.
+2. Na otwartej stronie użytkownika przejdź do sekcji **Licencje i aplikacje,** wybierz odpowiednią wartość **Lokalizacji** i przypisz licencję zawierającą program Exchange Online (rozwiń licencję, aby wyświetlić jej szczegóły). Po zakończeniu kliknij przycisk **Zapisz zmiany**.
