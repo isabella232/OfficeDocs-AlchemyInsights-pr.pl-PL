@@ -10,33 +10,47 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
+ms.sourcegitcommit: f1e9db2f762a4197c2922a0c8eaa77a3f482e38a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736299"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43132621"
 ---
 # <a name="enable-an-archive-mailbox"></a>Włączanie archiwalnej skrzynki pocztowej
 
-Archiwizowanie skrzynek pocztowych w pakiecie Office 365 (nazywanych również *archiwami online*) zapewnia użytkownikom dodatkową przestrzeń dyskową. Użytkownicy mogą przenosić lub kopiować elementy do ich archiwalnej skrzynki pocztowej, a administratorzy mogą utworzyć zasadę archiwizacji, która automatycznie przenosi elementy do archiwalnych skrzynek pocztowych.
+Archiwalne skrzynki pocztowe w usłudze Office 365 (nazywane również *archiwami online* lub *archiwami w miejscu)* zapewniają użytkownikom dodatkowy magazyn poczty e-mail. Użytkownicy mogą przenosić lub kopiować elementy do archiwalnej skrzynki pocztowej, a administratorzy mogą tworzyć zasady archiwizacji, które automatycznie przenoszą elementy do archiwalnych skrzynek pocztowych.
   
-Oto jak utworzyć archiwalną skrzynkę pocztową:
+Aby utworzyć archiwalnej skrzynki pocztowej:
   
 1. Przejdź do witryny [https://protection.office.com](https://protection.office.com).
 
-2. Zaloguj się do pakietu Office 365 przy użyciu konta administratora.
+2. Zaloguj się do usługi Office 365 przy użyciu konta administratora.
 
-3. &amp; W lewym okienku Centrum zgodności zabezpieczeń wybierz pozycję **archiwum** **zarządzania** \> danymi.
+3. W lewym okienku Centrum &amp; zgodności zabezpieczeń wybierz pozycję **Archiwum** **nadzoru informacji** \> .
 
-4. Wybierz użytkownika, którego archiwalna skrzynka pocztowa ma zostać włączona.
+4. Wybierz użytkownika, którego archiwalnej skrzynki pocztowej chcesz włączyć.
 
-5. W okienku szczegółów po prawej stronie wybierz pozycję **Włącz** , a następnie wybierz pozycję **tak** w komunikacie ostrzegawczym, aby włączyć archiwalną skrzynkę pocztową.
+5. W okienku szczegółów po prawej stronie kliknij pozycję **Włącz,** a następnie kliknij przycisk **Tak** w wiadomości ostrzegawczej, aby włączyć archiwają skrzynkę pocztową.
 
-Można również zbiorczo włączyć archiwalne skrzynki pocztowe, zaznaczając wielu użytkowników (za pomocą **SHIFT** lub **Ctrl** klucze), a następnie wybierając **włączyć** w okienku szczegółów.
+Można również włączyć zbiorczo archiwalne skrzynki pocztowe, zaznaczając wielu użytkowników (za pomocą klawiszy **Shift** lub **Ctrl),** a następnie klikając **pozycję Włącz** w okienku szczegółów.
   
+### <a name="shared-mailboxes"></a>Udostępnione skrzynki pocztowe
+
+Aby włączyć archiwum dla udostępnionej skrzynki pocztowej, wymagana jest licencja planu 2 usługi Exchange Online lub licencja planu 1 usługi Exchange Online z licencją na archiwizację usługi Exchange Online.  
+
+Aby włączyć archiwum udostępnionej skrzynki pocztowej:
+
+1. Przejdź do [centrum administracyjnego programu Exchange](https://outlook.office365.com/ecp) i zaloguj się przy użyciu konta administratora.
+
+2. Przejdź do **adresatów** > **udostępnionych**.
+
+3. Wybierz udostępnioną skrzynkę pocztową.
+
+4. W okienku szczegółów po prawej stronie w obszarze **Archiwum w miejscu**kliknij pozycję **Włącz**, a następnie kliknij przycisk **Tak,** aby włączyć archiwajną skrzynkę pocztową.
+
 Aby uzyskać więcej informacji, zobacz:
   
-- [Włącz archiwalne skrzynki pocztowe w pakiecie Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Włączanie archiwalnych skrzynek pocztowych w usłudze Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Konfigurowanie zasad archiwizacji i usuwania w pakiecie Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Konfigurowanie zasad archiwizacji i usuwania w usłudze Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
