@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 66c9cb9f95ff83df9e50189971411d82484b7707
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 4b131f7d0cd39070bbc878823a47496bd6b3c99b
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034282"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43143005"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Wprowadzenie do wydarzeń na żywo w aplikacji Teams
 
@@ -24,7 +24,7 @@ Wydarzenia na żywo w aplikacji Microsoft Teams to rozszerzenie spotkań w aplik
 
 Aby utworzyć wydarzenie na żywo, potrzebne są następujące elementy:
 
-- Licencja usługi [Office 365 Enterprise E1, E3 lub E5 bądź Office 365 A3 lub A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses).
+- Licencja usługi [Office 365 Enterprise E1, E3 lub E5 bądź Office 365 A3 lub A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Uwaga**: ze względu na obserwowany w ostatnim czasie wzrost użycia usługi Teams pełne skonfigurowanie użytkownika po przypisaniu mu licencji usługi Teams może potrwać około 24 godzin. Do tego czasu użytkownik może nie mieć dostępu do niektórych funkcji aplikacji Teams, takich jak połączenia i konferencje głosowe, i nie będzie można przypisać mu zasad usługi Teams.
 
 - Uprawnienie do [tworzenia wydarzeń na żywo w centrum administracyjnym usługi Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 
