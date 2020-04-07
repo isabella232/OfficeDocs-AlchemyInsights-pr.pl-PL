@@ -11,25 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "3564"
 - "9001506"
-ms.openlocfilehash: dc4c4f55a16fb14dd76f47e23672dc04073fbe61
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 3fadef232adfbb71769c089bb5a0d3ae9c70711d
+ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42164150"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43160826"
 ---
-# <a name="update-or-add-a-new-payment-method"></a>Aktualizowanie lub dodawanie nowej metody płatności
+# <a name="payment-declined"></a>Płatność odrzucona
 
-1. Przejdź do<a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">strony</a> **Płatności za** > **rachunki & płatności.** > 
-2. Wybierz **pozycję Dodaj metodę płatności** lub wybierz kartę lub konto bankowe, aby zaktualizować i wybierz pozycję **Edit**.
-3. Zaktualizuj informacje o metodzie płatności (imię i nazwisko na karcie lub koncie bankowym, adres rozliczeniowy, numer telefonu lub data wygaśnięcia), a następnie wybierz **pozycję Zapisz**.
-4. Pamiętaj, aby zmienić sposób płacenia za subskrypcje na tę nową metodę płatności. Instrukcje, jak to zrobić, znajdują się w następnej sekcji.
+Firma Microsoft podejmie próbę wielokrotnego obciążenia karty w ciągu 3-4 tygodni po dacie wystawienia faktury.  Jeśli użytkownik otrzymał tylko jedno lub dwa powiadomienia o odrzuceniu w tym okresie rozliczeniowym, firma Microsoft automatycznie podejmie próbę ponownego obciążenia instrumentu płatniczego.  
 
-Jeśli dodano nową kartę i nadal otrzymujesz powiadomienie o odmów na starej karcie kredytowej, może być konieczne skojarzenie tej nowej karty z subskrypcją.
+**Ważne:** Jeśli dodano nową kartę i nadal otrzymujesz powiadomienie o odrzuceniu starej karty kredytowej, może być konieczne powiązanie tej nowej karty z subskrypcją.
 
-1. Przejdź do<a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">usługi & produktów</a> **rozliczeniowych** > 
-2. Wybierz subskrypcję, którą chcesz zapłacić nową kartą lub kontem bankowym. W sekcji **Rozliczenia** obok metody płatności wybierz pozycję **Edit**.
-3. Wybierz **pozycję Zmień** obok bieżącej metody płatności.
+1. Przejdź do **usługi & [produktów](https://go.microsoft.com/fwlink/p/?linkid=842054)>** rozliczeń .
+
+2. Wybierz subskrypcję, którą chcesz zapłacić za pomocą nowej karty lub konta bankowego. W sekcji **Rozliczenia** obok metody płatności kliknij pozycję **Edytuj**.
+
+3. Kliknij **pozycję Zmień** obok bieżącej metody płatności.
+
 4. Z menu rozwijanego wybierz alternatywną metodę płatności lub dodaj nową metodę płatności.
 
-[Dodawanie, aktualizowanie lub usuwanie metod płatności](https://go.microsoft.com/fwlink/?linkid=2118133)
+**Aktualizowanie lub dodawanie nowej metody płatności**
+
+1. Przejdź do strony Metody płatności **> rachunki rozliczeniowe & [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) płatności >** płatności.
+
+2. Kliknij **pozycję Dodaj metodę płatności**, wybierz kartę lub konto bankowe, aby zaktualizować, a następnie kliknij pozycję **Edytuj**.
+
+3. Zaktualizuj informacje o metodzie płatności (imię i nazwisko na karcie lub koncie bankowym, adres rozliczeniowy, numer telefonu lub datę ważności), a następnie kliknij przycisk **Zapisz**.
+
+4. Pamiętaj, aby zmienić sposób płacenia za subskrypcje na tę nową metodę płatności. Aby uzyskać więcej informacji, zobacz [Dodawanie, aktualizowanie i usuwanie form płatności](https://go.microsoft.com/fwlink/?linkid=2118133). 
