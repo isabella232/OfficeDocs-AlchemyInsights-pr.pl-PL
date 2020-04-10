@@ -1,5 +1,5 @@
 ---
-title: Rozszerzyć wersję próbną pakietu Office 365 dla firm
+title: Rozszerzanie wersji próbnej usługi Office 365 dla firm
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,23 +12,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad9b06d5a14e48b4a03963b0e8fe606a58269623
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665014"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207347"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Przedłużanie okresu próbnego usługi Office 365 dla firm
 
-Jeśli subskrypcji wersji próbnej jest w ciągu 15 dni upływającego i badania klinicznego nie został przedłużony przed, można rozszerzyć na kolejny okres 30-dniowej wersji próbnej. Możesz to zrobić tylko jeden raz.
+Możesz przedłużyć okres próbny o kolejne 30 dni. Możesz to zrobić tylko jeden raz.
   
-1. W Centrum administracyjnym przejdź do **fakturowania** \> stronę [produktów & usług](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. W centrum administracyjnym przejdź do pozycji **Produkty rozliczeniowe** \> [& usług](https://portal.office.com/adminportal/home#/subscriptions).
 
-2. Wybierz opcję subskrypcji wersji próbnej, który chcesz rozszerzyć.
+2. Wybierz subskrypcję próbną, którą chcesz rozszerzyć.
 
-3. W sekcji **& sekcje akcje** wybierz polecenie **Powiększ wersji próbnej** i wykonaj pozostałe kroki.
+3. Kliknij **pozycję Rozszerz wersję próbną** i wykonaj kroki kreatora.
 
-4. Należy podać dane karty kredytowej, aby rozszerzyć swoją wersję próbną. Możemy nie obciąży Twojej karty kredytowej kwotą badanie rozszerzenie.
+4. Aby przedłużyć wersję próbną, musisz podać informacje o karcie kredytowej. Nie obciążymy Twojej karty kredytowej przedłużeniem okresu próbnego.
 
-Aby dowiedzieć się więcej, zobacz [Rozszerzanie wersji próbnej programu Office 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Aby dowiedzieć się więcej o rozszerzaniu wersji próbnej lub w instrukcjach krok po kroku, zobacz [Rozszerzanie wersji próbnej dla usługi Office 365 dla firm.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)
