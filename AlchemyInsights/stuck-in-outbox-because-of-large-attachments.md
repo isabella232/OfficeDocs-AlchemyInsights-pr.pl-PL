@@ -13,28 +13,28 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 35fe9ae76ca77faa43796b288af09be8525cb6df
-ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
+ms.openlocfilehash: 4f69de167dc51961fa7cf71b4d73ca7ee3ed4d55
+ms.sourcegitcommit: 57fb994ddd3854d06faa67680c971b003b06bf83
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/12/2020
-ms.locfileid: "43232640"
+ms.lasthandoff: 04/13/2020
+ms.locfileid: "43241262"
 ---
 # <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Naprawianie wiadomości, które utknęły w skrzynce nadawczej
 
-Zaleca się, aby rozpocząć od uruchomienia [scenariusza "Mam problemy z wysyłaniem, odbieraniem lub znajdowaniem wiadomości e-mail"](https://aka.ms/SaRA-OutlookSendReceive) z narzędzia [Pomocy technicznej i odzyskiwania firmy Microsoft](https://diagnostics.office.com/#/) na komputerze, którego dotyczy problem.
+Zaleca się rozpoczęcie od uruchomienia scenariusza ["Mam problemy z wysyłaniem, odbieraniem lub znajdowaniem wiadomości e-mail"](https://aka.ms/SaRA-OutlookSendReceive) z narzędzia [Microsoft Support and Recovery Assistant.](https://diagnostics.office.com/#/)
 
 Gdy wiadomość utknie w skrzynce nadawczej, najbardziej prawdopodobną przyczyną jest duży załącznik lub opcja "Wyślij natychmiast po podłączeniu" nie jest włączona.
 
 **Usuń duży załącznik**
 
-1. Kliknij **pozycję Wyślij / Odbierz** > pracę w**trybie offline**. 
-2. W okienku nawigacji kliknij pozycję **Skrzynka nadawcza**. W tym miejscu możesz: 
-    - Usuń wiadomość. Wystarczy go **zaznaczyć**i kliknąć usuń .
-    - Przeciągnij wiadomość do **folderu wersji roboczych,** kliknij dwukrotnie, aby otworzyć wiadomość, i usuń załącznik (kliknij go i kliknij przycisk **Usuń**).
-3. Jeśli błąd informuje, że program Outlook próbuje przesłać wiadomość, zamknij program Outlook. Może upłynąć kilka chwil, aby wyjść. Jeśli program Outlook nie zostanie zamknięty, naciśnij **klawisze Ctrl+Alt+Delete** i kliknij pozycję **Rozpocznij Menedżera zadań**. W Menedżerze zadań wybierz kartę **Procesy,** przewiń w dół do programu outlook.exe i kliknij pozycję **Zakończ proces**.
-4. Po zamknięciu programu Outlook uruchom ponownie program Outlook i powtórz kroki 2-3. 
-5. Po usunięciu załącznika kliknij przycisk **Wyślij / Odbierz** > **pracę w trybie offline,** aby usunąć zaznaczenie przycisku i wznowić pracę w trybie online. 
+1. W programie Outlook wybierz pozycję **Wyślij / Odbierz** > **pracę w trybie offline**. 
+2. W okienku nawigacji wybierz pozycję **Skrzynka nadawcza**. W tym miejscu możesz: 
+    - Usuń wiadomość (zaznacz ją, a następnie wybierz pozycję **Usuń**).
+    - Przeciągnij wiadomość do folderu Wersje robocze, kliknij dwukrotnie, aby ją otworzyć, a następnie usuń zaznacz załącznik, a następnie wybierz pozycję **Usuń**).
+3. Jeśli pojawi się błąd informujący, że program Outlook próbuje przesłać wiadomość, zamknij program Outlook. Może upłynąć kilka chwil, aby wyjść. Jeśli program Outlook nie zostanie zamknięty, naciśnij klawisze Ctrl+Alt+Delete i wybierz pozycję **Rozpocznij Menedżera zadań**. W Menedżerze zadań wybierz kartę **Procesy,** przewiń w dół do programu outlook.exe i wybierz pozycję **Zakończ proces**.
+4. Po zamknięciu programu Outlook uruchom go ponownie i powtórz kroki 2 i 3. 
+5. Po usunięciu załącznika kliknij przycisk **Wyślij / Odbierz** > **pracę w trybie offline,** aby wznowić pracę w trybie online. 
 
 Wiadomości utkną również w skrzynce nadawczej po **kliknięciu przycisku Wyślij**, ale nie masz połączenia. Kliknij **przycisk Wyślij / Odbierz** i spójrz na przycisk Praca w **trybie offline.** Jeśli jest niebieski, jesteś rozłączony. Kliknij go, aby się połączyć (przycisk zmieni kolor na biały) i kliknij przycisk **Wyślij wszystko**.
  

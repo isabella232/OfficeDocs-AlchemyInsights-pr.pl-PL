@@ -1,5 +1,5 @@
 ---
-title: Wymaganie silnego hasła zmiany
+title: Zmień wymagania dotyczące silnego hasła
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: f8790a26ec7c5de57f5dbfc9e1c162767c599f03
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 21f80a7cc8b00ac56acdb05add1e1bfdfac9d827
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518769"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286288"
 ---
-# <a name="change-strong-password-requirement"></a>Wymaganie silnego hasła zmiany
+# <a name="change-strong-password-requirement"></a>Zmiana wymagań dotyczących silnego hasła
 
-Firma Microsoft wymaga silnych haseł domyślnie. 
+Firma Microsoft domyślnie wymaga silnych haseł. 
 
-Przy użyciu programu PowerShell, można wyłączyć silnych haseł dla określonych użytkowników, przy użyciu tego polecenia:<br>
-*Cmdlettogether — UserPrincipalName <UserPrincipalName> -StrongPasswordRequired $false*
+Za pomocą programu PowerShell można wyłączyć silne hasła dla określonych użytkowników za pomocą tego polecenia:<br>
+*Set-MsolUser –UserPrincipalName <UserPrincipalName> –StrongPasswordRequired $false*
 
 - [Więcej informacji na temat zasad haseł](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
-- [Jak podłączyć do usługi Office 365 przy użyciu programu PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
-- [Więcej informacji na temat poleceń programu PowerShell MsolUser](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
+- [Jak połączyć się z pakietem Office 365 za pomocą programu PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
+- [Więcej informacji o poleceniach programu PowerShell MsolUser](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
+- [Konfigurowanie haseł użytkowników, aby nigdy nie wygasały](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
