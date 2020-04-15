@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002358"
 - "4584"
-ms.openlocfilehash: 676deacd28a1c544e605120a5dccd331531c5684
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
+ms.openlocfilehash: 60abad9281ab440cd19b7cd7c9caa51151170bfa
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158653"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286360"
 ---
 # <a name="stuck-on-processing-order"></a>Zatrzymanie na przetwarzaniu zamówienia
 
-Jeśli chcesz subskrypcję uaktualnić subskrypcję platformy Microsoft 365, ale zamówienie zatrzymuje się na komunikacie „Przetwarzanie zamówienia”, zapoznaj się z [pulpitem nawigacyjnym kondycji usług](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/servicehealth), wpis **SP207374**. Proces uaktualniania dzierżawy będzie wymagać inicjowania, co może się opóźnić. Oczekujemy, że proces zostanie ukończony w ciągu 24 godzin, jednak czasami przetwarzanie żądania może potrwać do 48 godzin. Jeśli przetwarzanie zamówienia trwa dłużej niż 48 godzin, należy otworzyć żądanie usługi.
+Jeśli postanowisz uaktualnić subskrypcję usługi Microsoft 365, ale zamówienie zostało zablokowane na etapie „Przetwarzanie zamówienia” przez pewien czas, należy cierpliwie zaczekać. Proces uaktualniania dzierżawy będzie wymagać inicjowania, co może się opóźnić. W tym czasie nie będzie można uzyskać dostępu do Centrum administracyjnego, ale wszystkie inne obszary usługi Microsoft 365 będą dostępne. Oczekujemy, że proces zostanie **ukończony w ciągu 24 godzin**, jednak czasami przetwarzanie żądania może **potrwać do 48 godzin**. Jeśli przetwarzanie zamówienia trwa **dłużej niż 48 godzin**, należy otworzyć żądanie usługi.
