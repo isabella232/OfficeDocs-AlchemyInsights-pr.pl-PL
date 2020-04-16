@@ -1,5 +1,5 @@
 ---
-title: Jak zweryfikować domenę za pomocą pakietu Office 365
+title: Jak zweryfikować domenę za pomocą usługi Office 365
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,16 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 7e6586f4ba0b7f65fe16a040208ff56ec4ca1985
-ms.sourcegitcommit: 52605656a92e31d3bf65f90ba427f56e87d6a221
+ms.openlocfilehash: ade67097172464fdf213b8af7af6639a25d48315
+ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36851730"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43529614"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a>Jak zweryfikować domenę za pomocą pakietu Office 365
+# <a name="how-to-verify-your-domain-with-office-365"></a>Jak zweryfikować domenę za pomocą usługi Office 365
 
-Aby zweryfikować domenę, musisz dodać do rejestratora domeny rekord TXT, aby zweryfikować, czy jesteś właścicielem domeny. Najpierw postępuj zgodnie z [Kreatora dodawania domeny](https://portal.office.com/adminportal/home#/Domains) , wybierając pozycję **Ustawienia** \> **domen**, a następnie **Dodaj domenę**.
+Aby zweryfikować domenę, musisz dodać rekord TXT do rejestratora domen, aby sprawdzić, czy jesteś właścicielem domeny. Najpierw postępuj zgodnie z [kreatorem Dodaj domenę,](https://portal.office.com/adminportal/home#/Domains/Wizard) klikając pozycję **Ustawienia** \> **domen,** a następnie **dodaj domenę**.
   
-Postępuj zgodnie z instrukcjami wyświetlanymi w [tworzenie rekordów DNS w dowolnym dostawcy hostingu DNS dla pakietu Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) , aby dodać rekord TXT, aby zweryfikować domenę.
-  
+Postępuj zgodnie z instrukcjami w [obszarze Tworzenie rekordów DNS u dowolnego dostawcy hostingu DNS dla usługi Office 365,](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) aby dodać rekord TXT w celu zweryfikowania domeny.
+
+W przypadku innych problemów z domenami wypróbuj [często zadawane pytania dotyczące domen](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
