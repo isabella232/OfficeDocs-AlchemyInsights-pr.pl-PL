@@ -1,5 +1,5 @@
 ---
-title: Opcje udostępniania są wyszarzone
+title: Linki udostępniania są wyszarzone
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: df9158f314ca32bdd5ade827caaa43e619f1e550
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: d0b080e853c59802da20982db948bb825f240239
+ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183192"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43529686"
 ---
-# <a name="sharing-options-are-grayed-out"></a><span data-ttu-id="e2bf5-102">Opcje udostępniania są wyszarzone</span><span class="sxs-lookup"><span data-stu-id="e2bf5-102">Sharing options are grayed out</span></span>
+# <a name="sharing-links-are-grayed-out"></a><span data-ttu-id="54da3-102">Linki udostępniania są wyszarzone</span><span class="sxs-lookup"><span data-stu-id="54da3-102">Sharing links are grayed out</span></span>
 
-<span data-ttu-id="e2bf5-103">Jeśli podczas próby udostępnienia z usługi SharePoint Online lub OneDrive opcje udostępniania są wyszarzone, zapoznaj się z tematem [Opcje udostępniania są wyszarzone podczas udostępniania z usługi SharePoint Online lub OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span><span class="sxs-lookup"><span data-stu-id="e2bf5-103">If particular sharing options are grayed out when attempting to share from SharePoint Online or OneDrive, please review [Sharing options are grayed out when sharing from SharePoint Online or OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span></span>
+<span data-ttu-id="54da3-103">Jeśli podczas próby udostępnienia z usługi SharePoint Online lub OneDrive opcje udostępniania są wyszarzone, zapoznaj się z tematem [Opcje udostępniania są wyszarzone podczas udostępniania z usługi SharePoint Online lub OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span><span class="sxs-lookup"><span data-stu-id="54da3-103">If particular sharing options are grayed out when attempting to share from SharePoint Online or OneDrive, please review [Sharing options are grayed out when sharing from SharePoint Online or OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span></span>
