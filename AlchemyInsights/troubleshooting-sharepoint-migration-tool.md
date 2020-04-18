@@ -13,16 +13,14 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 6432d32a4424c13f38077b37aa5f689a573a876e
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: c634596b42e672f635bb50d080429c94fe2da258
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541790"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552895"
 ---
 # <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Rozwiązywanie problemów z narzędziem migracji programu SharePoint i błędów
-
-**Ważne**: w tych niespotykanych czasach podejmujemy kroki zapewniające stałą wysoką dostępność usług SharePoint Online i OneDrive. Aby uzyskać więcej informacji, zapoznaj się z [tymczasowymi zmianami funkcji usługi SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 Podczas korzystania z narzędzia sharepoint migration tool (SPMT) mogą wystąpić typowe problemy i błędy. Aby uzyskać więcej informacji, zapoznaj się z poniższymi linkami.
 

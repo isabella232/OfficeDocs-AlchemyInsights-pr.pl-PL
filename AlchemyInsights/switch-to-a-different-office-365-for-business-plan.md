@@ -1,5 +1,5 @@
 ---
-title: Przełącz się do innej usługi Office 365 dla Biznesplan
+title: Przełączanie do innego planu usługi Office 365 dla firm
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,25 +12,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 2374f8e0c38b63bb45921ba78a2b56ad065ed49c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
+ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665986"
+ms.lasthandoff: 04/17/2020
+ms.locfileid: "43548008"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Przełącz się do innej usługi Office 365 dla Biznesplan
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>Przełączanie do innego planu usługi Office 365 dla firm
 
-Gdy zmienia się charakter działalności, lub potrzeba więcej funkcji usługi Office 365, można uaktualnić do nowego planu.
+Gdy twoja firma ulegnie zmianie lub potrzebujesz więcej funkcji usługi Office 365, możesz uaktualnić do nowego planu.
   
-1. W Centrum administracyjnym przejdź do **fakturowania** \> stronę [produktów & usług](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. W centrum administracyjnym przejdź do pozycji **Produkty rozliczeniowe \> [& usługi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
 2. Wybierz subskrypcję, którą chcesz uaktualnić.
 
-3. Na stronie Szczegóły subskrypcji wybierz **Uaktualnij**.
+3. Na [stronie szczegółów subskrypcji](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702)wybierz pozycję **Uaktualnij**.
 
-4. Znajdź planu, który chcesz uaktualnić, a następnie kliknij przycisk **Uaktualnij** .
+4. Znajdź plan, do którego chcesz uaktualnić, a następnie wybierz przycisk **Uaktualnij.**
 
-5. Wprowadź numer licencji, których potrzebują wybierz, czy chcesz zapłacić w każdym miesiącu lub na cały rok, a następnie wybierz opcję **Realizacja transakcji**.
+5. Wprowadź liczbę potrzebnych licencji, wybierz, czy chcesz płacić co miesiąc, czy za cały rok, a następnie wybierz pozycję **Wyewidencjonuj**.
 
-Aby dowiedzieć się więcej, zobacz [uaktualnienia do innego planu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+Aby dowiedzieć się więcej, zobacz [Uaktualnianie do innego planu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
