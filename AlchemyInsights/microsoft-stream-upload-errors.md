@@ -17,7 +17,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591616"
+ms.locfileid: "43599363"
 ---
 # <a name="microsoft-stream-upload-errors"></a>Błędy przekazywania usługi Microsoft Stream
 
