@@ -1,5 +1,5 @@
 ---
-title: Przełączanie do innego planu usługi Office 365 dla firm
+title: Przełączanie do innego planu microsoft 365 dla firm
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43548008"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763803"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Przełączanie do innego planu usługi Office 365 dla firm
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Przełączanie do innej subskrypcji usługi Microsoft 365 dla firm
 
-Gdy twoja firma ulegnie zmianie lub potrzebujesz więcej funkcji usługi Office 365, możesz uaktualnić do nowego planu.
+Gdy twoja firma ulegnie zmianie lub potrzebujesz więcej funkcji, możesz uaktualnić do nowego planu.
   
 1. W centrum administracyjnym przejdź do pozycji **Produkty rozliczeniowe \> [& usługi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 

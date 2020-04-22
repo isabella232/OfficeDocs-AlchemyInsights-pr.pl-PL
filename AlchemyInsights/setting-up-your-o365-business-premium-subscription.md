@@ -1,5 +1,5 @@
 ---
-title: Konfigurowanie subskrypcji O365 Business Premium
+title: Konfigurowanie subskrypcji usługi O365 Business Premium
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.assetid: a9192d32-8a5a-459d-808a-d18ce0e397da
 ms.custom:
 - "31"
 - "1600002"
-ms.openlocfilehash: 8fa6b04cef7a7c9df72c1b51462f80e489622f0b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5abc69c06b71d9984ebcbcf948112bf3553219ac
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666166"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767763"
 ---
-# <a name="setting-up-your-o365-business-premium-subscription"></a>Konfigurowanie subskrypcji O365 Business Premium
+# <a name="setting-up-your-o365-business-premium-subscription"></a>Konfigurowanie subskrypcji usługi O365 Business Premium
 
-Jeśli potrzebujesz pomocy przy konfigurowaniu subskrypcja usługi Office 365, postępuj zgodnie z instrukcjami w [tym artykule](https://docs.microsoft.com/office365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) pobrać swój została ukończona.
+Jeśli potrzebujesz pomocy w konfigurowaniu subskrypcji usługi Microsoft 365, wykonaj czynności opisane w [tym artykule,](https://docs.microsoft.com/office365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) aby zakończyć konfigurację.
   

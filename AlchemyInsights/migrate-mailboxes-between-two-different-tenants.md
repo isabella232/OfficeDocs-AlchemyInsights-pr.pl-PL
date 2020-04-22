@@ -1,9 +1,9 @@
 ---
-title: Migracja skrzynek pocztowych między dwoma różnymi dzierżawcami
+title: Migrowanie skrzynek pocztowych między dwoma różnymi dzierżawcami
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2bfce9766552fd55159fb87433ae4ff791c2e814
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734463"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762291"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a>Migracja skrzynek pocztowych między dwoma różnymi dzierżawcami
+# <a name="migrate-mailboxes-between-two-different-tenants"></a>Migrowanie skrzynek pocztowych między dwoma różnymi dzierżawcami
 
-Może być konieczne migrację skrzynek pocztowych między dwoma różnymi dzierżawcami w pakiecie Office 365, na przykład, gdy istnieją połączenia organizacji. Te migracje powinny być starannie zaplanowane. Zapoznaj się z poniższymi wskazówkami:
+Może być konieczne migrowanie skrzynek pocztowych między dwoma różnymi dzierżawcami, na przykład w przypadku fuzji organizacji. Migracje te powinny być starannie zaplanowane. Zapoznaj się z następującymi wskazówkami:
   
-[Jak migrować skrzynki pocztowe z jednego dzierżawcy pakietu Office 365 do innego](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+[Jak migrować skrzynki pocztowe z jednej dzierżawy do drugiej](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

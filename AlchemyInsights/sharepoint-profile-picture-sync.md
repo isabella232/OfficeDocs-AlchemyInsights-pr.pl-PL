@@ -10,24 +10,24 @@ ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
 ms.custom:
 - "1828"
 - "9000231"
-ms.openlocfilehash: 93caa0973ab4a960c9395c726a45a441609d2dac
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: fc784c8d2cbb87656be776e20d4b6ee4fbdeb62f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051147"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758504"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kiedy mój profil zmienia synchronizację z aplikacją profilu użytkownika programu SharePoint?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kiedy zmiany profilu są synchronizowane z aplikacją profilu użytkownika programu SharePoint?
 
-Synchronizacja obrazu profilu w programie SharePoint Online wymaga działania użytkownika, aby zainicjować synchronizację fotografii. Nie ma automatycznej synchronizacji zdjęć do programu SharePoint w trybie online. Usługa SharePoint Online synchronizuje tylko zdjęcia z programu Exchange Online, a nie usługi Azure Active Directory.
+Synchronizacja zdjęć profilowych w usłudze SharePoint Online wymaga podjęcia przez użytkownika działania w celu zainicjowania synchronizacji zdjęcia. Nie ma automatycznej synchronizacji zdjęć z usługą SharePoint Online. Usługa SharePoint Online synchronizuje tylko zdjęcia z usługi Exchange Online, a nie z usługi Azure Active Directory.
 
-Jeśli użytkownik nigdy nie wykonał akcję, która monituje synchronizacji lub zaktualizowali swoje zdjęcie profilowe, a nowy nie pojawia się w programie SharePoint w trybie online, użytkownik może być konieczne monitowanie o synchronizację. Oto jak mogą to zrobić:
+Jeśli użytkownik nigdy nie wykonał akcji, która monitowałaby o synchronizację lub zaktualizowała swoje zdjęcie profilowe, a nowe nie jest wyświetlane w usłudze SharePoint Online, może być konieczne wyświetlenie monitu o jego synchronizację. Oto jak mogą to zrobić:
 
-1. Otwórz przeglądarkę internetową w sesji in-private lub incognito i [Przejdź do Office.com](http://www.office.com/).
+1. Otwórz przeglądarkę internetową w sesji prywatnej lub incognito i [przejdź do Office.com](https://www.office.com/).
 
-2. Zaloguj się przy użyciu konta służbowego lub szkolnego i kliknij kafelek OneDrive lub SharePoint.
+2. Zaloguj się przy pomocy konta służbowego i kliknij kafelek usługi OneDrive lub SharePoint.
 
-3. [Dodaj swoje zdjęcie profilowe do pakietu Office 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+3. [Dodaj swoje zdjęcie profilowe do usługi Microsoft 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
-[Informacje o synchronizacji obrazu profilu w pakiecie Office 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
+[Informacje o synchronizacji zdjęć profilowych w usłudze Microsoft 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
 

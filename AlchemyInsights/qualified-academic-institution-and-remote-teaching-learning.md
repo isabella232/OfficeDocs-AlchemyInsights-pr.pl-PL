@@ -10,12 +10,12 @@ ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: 9097ce5af41c14cef3ed499b8b67877f5e1dad62
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: e2ca0e13aa569536d9d529aaa1eef05bb0fa49d2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42954000"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764702"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Instytucje edukacyjne zatwierdzone przez firmę Microsoft a zdalne prowadzenie zajęć i uczenie się
 
@@ -31,4 +31,4 @@ Po zatwierdzeniu uprawnień możesz przejść do karty [Zakup usług](https://ad
 
 Przeczytaj artykuł [Zdalna edukacja w usłudze Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), aby zapoznać się z najnowszymi wskazówkami dotyczącymi konfigurowania szkoły, planowania lekcji, wirtualnych spotkań i udostępniania treści uczniom i studentom.
 
-Więcej wskazówek dotyczących kwestii informatycznych znajdziesz w artykułach [Rozpoczynanie pracy z aplikacją Microsoft Teams na potrzeby zdalnego uczenia się](https://docs.microsoft.com/pl-PL/MicrosoftTeams/remote-learning-edu) i [Przechodzenie na nauczanie zdalne](https://www.microsoft.com/education/remote-learning).
+Więcej wskazówek dotyczących kwestii informatycznych znajdziesz w artykułach [Rozpoczynanie pracy z aplikacją Microsoft Teams na potrzeby zdalnego uczenia się](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) i [Przechodzenie na nauczanie zdalne](https://www.microsoft.com/education/remote-learning).

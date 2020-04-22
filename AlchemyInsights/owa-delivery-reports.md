@@ -1,5 +1,5 @@
 ---
-title: Raporty o niedostarczeniu w programie Outlook w sieci Web
+title: Raporty o niedostarczeniu w aplikacji Outlook w sieci Web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,15 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 2741f309a786ad04801ba2dd7a5b75cb30697b75
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e103af4765c658bdd2650dd51ead7191a8f587e9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768666"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768555"
 ---
-# <a name="issues-with-email-delivery"></a>Problemy z dostarczaniem poczty e-mail
+# <a name="issues-with-email-delivery"></a>Problemy z dostarczaniem wiadomości e-mail
 
-Gdy wystąpił problem z dostarczeniem wysłanej wiadomości e-mail, pakiet Office 365 wyśle wiadomość e-mail z potwierdzeniem. Otrzymasz wiadomość e-mail z powiadomieniem o stanie dostarczenia, znanym również jako DSN lub komunikat o odrzuceniu. Najczęstszym typem jest nazywany raportem o niedostarczeniu (NDR), który informuje, że wiadomość nie została dostarczona. Niedostarczenie może nastąpić z tak prostego powodu, jak literówka w adresie e-mail. Raporty NDR zawierają kod błędu wskazujący, dlaczego nie dostarczono wiadomości e-mail, rozwiązania ułatwiające dostarczenie wiadomości e-mail, łącze do większej pomocy w sieci Web oraz szczegóły techniczne dotyczące administratorów.
+Jeśli wystąpi problem z dostarczeniem wysłanej wiadomości e-mail, usługa Microsoft 365 wysyła wiadomość e-mail z powiadomieniem. Otrzymywana wiadomość e-mail jest powiadomieniem o stanie dostawy, znanym również jako dsn lub wiadomość bounce. Najczęstszym typem jest raport o niedostarczeniu (NDR), który informuje, że wiadomość nie została dostarczona. Niedostarczenie może nastąpić z tak prostego powodu, jak literówka w adresie e-mail. Raporty o niedoinstracji zawierają kod błędu, który wskazuje, dlaczego wiadomość e-mail nie została dostarczona, rozwiązania ułatwiające dostarczenie wiadomości e-mail, link do większej pomocy w internecie oraz szczegóły techniczne administratorów.
 
-Aby wyświetlić listę raportów o niedostarczeniu i dowiedzieć się, dlaczego nie dostarczono wiadomości, zobacz [wiadomości e-mail dotyczące braku dostarczania w programie Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+Aby wyświetlić listę raportów o niedostarczeniu i dowiedzieć się, dlaczego wiadomość nie została dostarczona, zobacz [Raporty o niedostarczeniu wiadomości e-mail w usłudze Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).

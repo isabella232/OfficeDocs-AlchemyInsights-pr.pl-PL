@@ -1,9 +1,9 @@
 ---
-title: Rozwiązywanie problemów z zasady Intune i profile
+title: Rozwiązywanie problemów z zasadami i profilami usługi Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 19d2bf0e85e83b9e1a7fbdc24a4b3d21abf34941
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533637"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766683"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Rozwiązywanie problemów z zasady Intune i profile
+# <a name="troubleshooting-intune-policy-and-profiles"></a>Rozwiązywanie problemów z zasadami i profilami usługi Intune
 
-Aby wyświetlić istniejące zasady rozwiązywania konfliktów, przejrzyj dane dziennika i zobacz często zadawane pytania i problemy, mogą pomóc następujące przewodniki.
+Aby wyświetlić istniejące zasady, rozwiązywać konflikty, przeglądać dane dziennika i wyświetlać typowe pytania i problemy, pomocne mogą być poniższe przewodniki.
 
-- [Rozwiązywanie problemów z profilów w Windows Intune i zasady](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Rozwiązywanie problemów z zasadami i profilami w usłudze Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 
-- [Typowe pytania, problemy i rozwiązania z zasady dotyczące urządzeń i profile w Windows Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Typowe pytania, problemy i rozwiązania z zasadami i profilami urządzeń w usłudze Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Monitorowanie profili konfiguracji urządzeń i wyświetlić konflikty w Windows Intune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Monitorowanie profilów konfiguracji urządzeń i konfliktów widoku w usłudze Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Rozwiązywanie problemów dotyczących zgodności urządzenia i dostępu warunkowego w usłudze Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Rozwiązywanie problemów ze zgodnością urządzeń i dostępem warunkowym w usłudze Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Zasady zgodności monitorowania i Wyświetl konflikty w Windows Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Monitorowanie zasad zgodności i konfliktów wyświetlania w usłudze Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Wyślij dane dziennika Intune do magazynu Azure, centra zdarzeń lub dziennika analytics](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Wysyłanie danych dziennika usługi Intune do magazynu platformy Azure, centrów zdarzeń lub analizy dzienników](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-Zobacz Omówienie [konfigurowania urządzeń](https://docs.microsoft.com/intune/device-profiles) lub [użyć zasady zgodności](https://docs.microsoft.com/intune/device-compliance-get-started).
+Zobacz omówienie, aby [skonfigurować urządzenia](https://docs.microsoft.com/intune/device-profiles) lub [użyć zasad zgodności](https://docs.microsoft.com/intune/device-compliance-get-started).

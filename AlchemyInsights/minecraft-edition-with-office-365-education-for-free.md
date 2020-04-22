@@ -1,9 +1,9 @@
 ---
-title: Darmowe edukacji dla Minecraft Edition z pakietem Office 365
+title: Minecraft Edition z bezpłatną funkcją Office 365 Education
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 11/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: e4e88f315b94e4b1318fada8abde8413233c41a6
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: aa65e494dce09d4cb54fea29b5b37d6f54c4a089
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389658"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762075"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>Darmowe edukacji dla Minecraft Edition z pakietem Office 365
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition z bezpłatną funkcją Office 365 Education
 
-[Darmowe edukacji dla Minecraft Edition z pakietem Office 365](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[Minecraft Edition z bezpłatną funkcją Office 365 Education](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- **Minecraft: Education Edition** wymaga 10 systemu Windows
+- **Minecraft: Education Edition** wymaga systemu Windows 10
 
-- Prób lub subskrypcje z **Minecraft: Education Edition** są oferowane na rzecz wynajmujących mieszkanie wykształcenia, które są zarządzane przez usługę Azure Active Directory (Azure AD)
+- Wersje próbne lub subskrypcje **gry Minecraft: Education Edition** są oferowane dzierżawcom edukacyjnym zarządzanym przez usługę Azure Active Directory (Azure AD)
 
-  - Jeśli szkoły nie ma dzierżawy usługi Azure AD [IT administrator może je założyć](https://docs.microsoft.com/education/windows/school-get-minecraft) jako część procesu pobierania **Minecraft: Education Edition**.
+  - Jeśli twoja szkoła nie ma dzierżawy usługi Azure AD, [administrator IT może ją skonfigurować](https://docs.microsoft.com/education/windows/school-get-minecraft) w ramach procesu uzyskiwania gry **Minecraft: Education Edition**.
 
-  - Office 365 edukacji, która zawiera aplikacje pakietu Office plus 1 TB pamięci masowej online w wersji online jest bezpłatna dla nauczycieli i studentów. [Zarejestruj swoją szkołą Office 365 Education](https://products.office.com/academic/office-365-education-plan).
+  - Usługa Office 365 Education, która zawiera wersje online aplikacji pakietu Office oraz 1 TB magazynu online, jest bezpłatna dla nauczycieli i uczniów. [Zarejestruj swoją szkołę w usłudze Office 365 Education](https://products.office.com/academic/office-365-education-plan).
 
-  - Jeśli Twoja szkoła ma subskrypcję usługi Office 365 Education, zawiera bezpłatne Azure AD subskrypcji. [Rejestr wolna Azure AD subskrypcji](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
+  - Jeśli twoja szkoła ma subskrypcję usługi Office 365 Education, zawiera bezpłatną subskrypcję usługi Azure AD. [Zarejestruj bezpłatną subskrypcję usługi Azure AD](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
 
-[Dowiedz się, jak nauczyciele mogą uzyskać i rozprowadzać Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
+[Dowiedz się, jak nauczyciele mogą uzyskać i dystrybuować grę Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
   
-[Dowiedz się, jak Administratorzy IT mogą uzyskać i rozprowadzać Minecraft: Edycja kształcenia](https://docs.microsoft.com/education/windows/school-get-minecraft)oraz jak zarządzać uprawnieniami dla Minecraft.
+[Dowiedz się, jak administratorzy IT mogą uzyskać i rozpowszechniać grę Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft)oraz jak zarządzać uprawnieniami do gry Minecraft.

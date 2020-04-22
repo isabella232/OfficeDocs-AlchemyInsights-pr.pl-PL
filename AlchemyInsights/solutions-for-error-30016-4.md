@@ -1,9 +1,9 @@
 ---
-title: Rozwiązania dotyczące błędów 30016 4
+title: Rozwiązania błędu 30016-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/11/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: d6190c1686389f8c77ad5fea587212cc2700e9d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa9dfb5916768863004b5533fd8148e0ec478e24
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501953"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757031"
 ---
-# <a name="solutions-for-error-30016-4"></a>Rozwiązania dotyczące błędów 30016 4
+# <a name="solutions-for-error-30016-4"></a>Rozwiązania błędu 30016-4
 
-Podczas próby odinstalowania pakietu Office 365 ProPlus z komputera, a otrzymasz komunikat o błędzie, **odbyła się niewłaściwy 30016-4**, oznacza to, że dysk **% temp %** jest mapowany na dysk inny niż **% ProgramFiles %**.
+Podczas próby odinstalowania aplikacji Microsoft 365 dla przedsiębiorstw z komputera i pojawia się komunikat o błędzie, **Coś poszło nie tak 30016-4**, oznacza to, że dysk **%temp%** jest mapowany na dysk inny niż **%ProgramFiles%**.
   
-Aby rozwiązać problem, należy pobrać i zainstalować [obsługę i Asystenta](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+Aby naprawić, pobierz i zainstaluj [Asystenta pomocy technicznej i odzyskiwania](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-1. Po jego otwarciu, z **produktów Odinstaluj pakiet Office** zaznacz wersję, którą chcesz odinstalować, a następnie wybierz przycisk **Dalej**.
+1. Po otwarciu z **pozycji Odinstaluj produkty pakietu Office** wybierz wersję, którą chcesz odinstalować, a następnie wybierz pozycję **Dalej**.
 
-2. Kontynuuj przechodzenie przez ekrany i uruchom ponownie komputer po wyświetleniu monitu.
+2. Kontynuuj przechodzenie przez kolejne ekrany i uruchom ponownie komputer po wyświetleniu monitu.
 
-    Po ponownym uruchomieniu komputera, pomoc techniczną i Asystenta automatycznie ponownie otwiera aby zakończyć proces odinstalowywania.
+    Po ponownym uruchomieniu Asystent pomocy technicznej i odzyskiwania automatycznie zostanie ponownie otwarty, aby zakończyć proces odinstalowywania.
 
-3. Wykonaj pozostałe monity i [ponowne zainstalowanie pakietu Office](https://portal.office.com/OLS/MySoftware.aspx) lub zamknąć Asystenta.
+3. Postępuj zgodnie z pozostałymi monitami i [zainstaluj ponownie pakiet Office](https://portal.office.com/OLS/MySoftware.aspx) lub zamknij asystenta.

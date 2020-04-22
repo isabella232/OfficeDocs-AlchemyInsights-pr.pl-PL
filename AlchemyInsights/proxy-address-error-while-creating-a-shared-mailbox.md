@@ -1,8 +1,8 @@
 ---
-title: Błąd adresu serwera proxy podczas tworzenia współdzielonej skrzynki pocztowej
+title: Błąd adresu serwera proxy podczas tworzenia udostępnionej skrzynki pocztowej
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/21/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
 ms.custom:
 - "19"
 - "6"
-ms.openlocfilehash: cd3236c71868c2b625de407a9e4f160a8d47ddd1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a02c57da97e76cec1cd3bdcd84b92c73530bdfa1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554198"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767907"
 ---
-# <a name="proxy-address-error-while-creating-a-shared-mailbox"></a>Błąd adresu serwera proxy podczas tworzenia współdzielonej skrzynki pocztowej
+# <a name="proxy-address-error-while-creating-a-shared-mailbox"></a>Błąd adresu serwera proxy podczas tworzenia udostępnionej skrzynki pocztowej
 
-Jeśli próbował utworzyć współdzielonej skrzynki pocztowej i taki błąd "Adres serwera proxy, które"SMTP:alias@domain.com"jest już używany...", wybrany adres e-mail jest już zajęta przez inną skrzynkę pocztową w organizacji.
+Jeśli próbowano utworzyć udostępnioną skrzynkę pocztową i odebrano ten błąd "Adres serwera proxy "SMTP:alias@domain.com" jest już używany...", wybrany adres e-mail jest już pobierany przez inną skrzynkę pocztową w organizacji.
   
-Należy znaleźć użytkownika, grupy lub udostępnionej skrzynki pocztowej, która ma ten adres e-mail i usuń go lub zmień jego adres e-mail. Następnie można utworzyć współdzielonej skrzynki pocztowej do adresu e-mail zwolnionej. Znajdź go przy użyciu funkcji Wyszukaj na stronie głównej.
+Musisz znaleźć użytkownika, grupę lub udostępnioną skrzynkę pocztową, która ma ten adres e-mail, i usunąć go lub zmienić jego adres e-mail. Następnie można utworzyć udostępnioną skrzynkę pocztową z uwolnionym adresem e-mail. Użyj funkcji Wyszukaj na stronie głównej, aby ją znaleźć.
   
-Jeśli nie chcesz usunąć istniejący adres e-mail, wybierz nowy adres e-mail dla udostępnionych skrzynek pocztowych.
+Jeśli nie chcesz usuwać istniejącego adresu e-mail, wybierz nowy adres e-mail udostępnionej skrzynki pocztowej.
   

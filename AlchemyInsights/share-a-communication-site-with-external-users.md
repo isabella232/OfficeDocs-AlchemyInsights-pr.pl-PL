@@ -2,31 +2,31 @@
 title: Udostępnianie witryny komunikacyjnej użytkownikom zewnętrznym
 ms.author: pebaum
 author: pebaum
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 393ee0bb9c5ac01f2d948b1a772c7b9915caed87
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 38eaa55db49f3c6f38da42605f4180e60ebb6349
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054171"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767511"
 ---
 # <a name="share-a-communication-site-with-external-users"></a>Udostępnianie witryny komunikacyjnej użytkownikom zewnętrznym
 
-Aby włączyć udostępnianie użytkowników zewnętrznych dla witryn komunikacyjnych, wykonaj następujące kroki: 
+Aby włączyć udostępnianie użytkowników zewnętrznych w witrynach komunikacyjnych, wykonaj następujące czynności: 
   
-1. Otwórz **nowoczesne centrum administracyjne** — Jeśli jesteś w klasycznym centrum administracyjnym zobaczysz **Wypróbuj teraz** lub * * wypróbuj przycisk podglądu * * w prawym górnym rogu. Spowoduje to podjęcie do nowoczesnego centrum administracyjnego. 
+1. Otwórz **Nowoczesne Centrum administracyjne** — jeśli znajdujesz się w klasycznym Centrum administracyjnym, zobaczysz przycisk **Wypróbuj teraz** lub ** Wypróbuj przycisk podglądu ** od prawej do góry. Spowoduje to, że doniesz do Nowoczesnego Centrum Administracyjnego. 
   
-2. Wybierz pozycję **aktywne witryny.**
+2. Wybierz **pozycję Aktywne witryny.**
   
-3. Wybierz witrynę, która ma **szablon witryny komunikacji**. 
+3. Wybierz witrynę z **szablonem witryny komunikacyjnej**. 
   
-4. Wybierz przycisk **udostępniania** z górnego menu. 
+4. Wybierz przycisk **Udostępnianie** z górnego menu. 
   
- **Uwaga:** Jeśli zaznaczono więcej niż jedną witrynę, przycisk **udostępniania** zostanie wyłączony. Wybierz tylko jedną witrynę. 
+ **Uwaga:** Jeśli wybrano więcej niż jedną witrynę, przycisk **Udostępnianie** zostanie wyłączony. Wybierz tylko jedną witrynę. 
   
 

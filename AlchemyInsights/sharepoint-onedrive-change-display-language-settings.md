@@ -2,26 +2,26 @@
 title: SharePoint Online lub OneDrive "Konfigurowanie"
 ms.author: pebaum
 author: pebaum
-ms.date: 9/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: b450eb76d438e027d2d6fa938f685fb65ac357ac
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f7f23a05260ff72fe2591ae56dec80e49c02d687
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051399"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758619"
 ---
 # <a name="change-display-language-settings-in-sharepoint-or-onedrive"></a>Zmienianie ustawień języka wyświetlania w programie SharePoint lub OneDrive 
 
-Nie można zmienić domyślnych ustawień języka dla programu SharePoint lub OneDrive, ponieważ te ustawienia zostały zdefiniowane podczas tworzenia subskrypcji pakietu Office 365. Można jednak zmienić ustawienia języka wyświetlania.
+Nie można zmienić domyślnych ustawień językowych programu SharePoint lub OneDrive, ponieważ te ustawienia zostały zdefiniowane podczas tworzenia subskrypcji usługi Microsoft 365. Można jednak zmienić ustawienia języka wyświetlania.
 
-Aby zmienić ustawienia osobiste, zobacz [Zmienianie ustawień języka i regionu](https://support.office.com/article/Change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
+Aby zmienić ustawienia osobiste, zobacz [Zmienianie ustawień języka osobistego i regionu](https://support.office.com/article/Change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
 
-Aby zmienić interfejs użytkownika witryny, zobacz [Wybieranie języków, które mają być dostępne dla interfejsu użytkownika witryny](https://support.office.com/article/choose-the-languages-you-want-to-make-available-for-a-site-s-user-interface-16d3a83c-05ab-4b50-8fbb-ff576a3351e8).
+Aby zmienić interfejs użytkownika witryny, zobacz [Wybieranie języków, które chcesz udostępnić interfejsowi użytkownika witryny](https://support.office.com/article/choose-the-languages-you-want-to-make-available-for-a-site-s-user-interface-16d3a83c-05ab-4b50-8fbb-ff576a3351e8).
 
-Aby uzyskać więcej informacji na temat rozwiązywania problemów z ustawieniami języka, zobacz [nie można zmienić domyślny język zbioru witryn programu SharePoint w trybie online](https://docs.microsoft.com/sharepoint/support/sites/change-default-language-site-collection).
+Aby uzyskać więcej informacji na temat rozwiązywania problemów z ustawieniami języka, zobacz [Nie można zmienić domyślnego języka zbioru witryn usługi SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/change-default-language-site-collection).
 

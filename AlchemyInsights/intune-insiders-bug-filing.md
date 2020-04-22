@@ -1,9 +1,9 @@
 ---
-title: Zgłoszenie błędu w usłudze Intune Insider
+title: Zgłaszanie błędów programu Intune Insider
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 11/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: beca7f1b13492997c3c0568f77afee308635e5cb
-ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
+ms.openlocfilehash: 1c95c7cc4e758d649717df25ecffb87650dff1c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663601"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765963"
 ---
-# <a name="intune-insider-bug-filing"></a>Zgłoszenie błędu w usłudze Intune Insider
+# <a name="intune-insider-bug-filing"></a>Zgłaszanie błędów programu Intune Insider
 
-Dziękujemy za zainteresowanie programem Insiders usługi Intune. Jeśli jesteś już onboarded dla programu Insiders usługi Intune i trzeba złożyć wniosek o pomoc techniczną, a następnie:
+Dziękujemy za zainteresowanie programem Intune Insiders. Jeśli program Intune Insiders jest już włączony i musisz złożyć żądanie pomocy technicznej, wówczas:
 
 1. Opisz problem w powyższym polu.
-2. Utwórz nowe zlecenie serwisowe, korzystając z poniższych opcji.
+2. Utwórz nowe żądanie usługi przy użyciu poniższych opcji.
 
-Inżynier pomocy technicznej usługi Intune skontaktuje się z Tobą.
+Skontaktuje się z Tobą inżynier pomocy technicznej usługi Intune.
 
-Jeśli nie jesteś w programie Insiders usługi Intune, Dziękujemy za zainteresowanie. Obecnie nie Rekrutujemy nowych uczestników.
+Jeśli nie jesteś w programie Intune Insiders, dziękujemy za zainteresowanie. Obecnie nie rekrutujemy nowych uczestników.

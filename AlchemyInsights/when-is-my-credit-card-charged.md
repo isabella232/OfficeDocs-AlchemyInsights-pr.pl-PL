@@ -1,9 +1,9 @@
 ---
-title: Kiedy jest obciążona mojej karty kredytowej?
+title: Kiedy jest obciążana moja karta kredytowa?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: ba7ee6b1b683c04454e024e9c167fbdc91ea66b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558411"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765279"
 ---
-# <a name="when-is-my-credit-card-charged"></a>Kiedy jest obciążona mojej karty kredytowej?
+# <a name="when-is-my-credit-card-charged"></a>Kiedy jest obciążana moja karta kredytowa?
 
-Przy pierwszym zakupie może potrwać do dwóch dni za opłatą występuje.
+Przy pierwszym zakupie może upłynąć do dwóch dni, aby opłata wystąpiła.
   
-Cykliczne opłat zdarzyć w ciągu jednego dnia faktury tworzony.
+Opłaty cykliczne nalicza się w ciągu jednego dnia od utworzenia faktury.
   
-Jeśli opłata nie powiedzie się, system będzie próbował rozliczyć saldo w ciągu najbliższych kilku tygodni. Istnieje możliwość aktualizacji Twoich informacji o płatności w dowolnym momencie, aby zapewnić, że następny bezpłatnie próba zakończy się pomyślnie. Aby uzyskać więcej informacji zobacz [Dodawanie, aktualizowanie i usuwanie karty kredytowej lub konta bankowego w usłudze Office 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Jeśli opłata nie powiedzie się, system będzie nadal próbował rozliczyć saldo w ciągu najbliższych kilku tygodni. W każdej chwili możesz dokonać aktualizacji informacji o płatności, aby upewnić się, że kolejna próba obciążenia zakończy się pomyślnie. Aby uzyskać więcej informacji, zobacz [Dodawanie, aktualizowanie lub usuwanie karty kredytowej lub konta bankowego w usłudze Microsoft 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

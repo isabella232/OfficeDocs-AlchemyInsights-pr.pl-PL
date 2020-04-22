@@ -1,9 +1,9 @@
 ---
-title: Co dzieje się moje dane i dostępu, gdy kończy się Moja subskrypcja Office 365 dla firmy?
+title: Co się stanie z moimi danymi i dostępem po zakończeniu subskrypcji usługi Microsoft 365 dla firm?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 162b6b1d84b41a62b56a800a1b41fc47b305097a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 746f9b1553336e66f0c2bcb9e59b75e49b41d3b0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531261"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766215"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>Co dzieje się moje dane i dostępu, gdy kończy się Moja subskrypcja Office 365 dla firmy?
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Co się stanie z moimi danymi i dostępem po zakończeniu subskrypcji usługi Microsoft 365 dla firm?
 
-Gdy subskrypcja usługi Office 365 kończy się — ponieważ jej wygaśnięcia lub zdecydować anulować — dostęp do usługi Office 365, aplikacji i danych klienta przejść przez kilka Państw przed subskrypcji jest całkowicie wyłączony lub *deprovisioned*  . Jeśli są świadomi tej progresji, będzie lepiej wyposażone, aby powrócić do stanu aktywnego subskrypcji, zanim będzie za późno, lub — Jeśli wyjeżdżasz Office 365 — kopii zapasowej danych przed usunięciem ostatecznie.
+Jeśli subskrypcja zostanie zakończona — ponieważ wygasa lub zdecydujesz się anulować — dostęp do usług, aplikacji i danych klientów przechodzi przez wiele stanów, zanim subskrypcja zostanie całkowicie wyłączona lub *anulowana.* Jeśli wiesz o tym postępie, będziesz lepiej przygotowany do przywrócenia subskrypcji do stanu aktywnego, zanim będzie za późno lub — jeśli opuścisz firmę Microsoft — sprzez zapas danych, zanim zostaną ostatecznie usunięte.
   
-Przed subskrypcji faktycznie osiąga jego datą ważności, masz kilka opcji do **zarządzania cykliczne faktury dla subskrypcji**.
+Zanim subskrypcja faktycznie osiągnie datę wygaśnięcia, masz kilka opcji **zarządzania rozliczeniami cyklicznymi dla subskrypcji**.
   
-- **Cykliczne płatności** jest już włączona, nie trzeba podejmować żadnych działań. Twoja subskrypcja zostanie naliczony na jego datę **faktury cykliczne** i obciąży Cię o dodatkowy rok lub miesiąc, w zależności od Twojego Bieżąca częstotliwość płatności. Jeśli z jakiegokolwiek powodu została wyłączona **cykliczne płatności** , możesz zawsze [włączyć powtarzających się płatności na](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+- Jeśli **rozliczenia cykliczne** są już włączone, nie musisz podejmować żadnych działań. Opłata za subskrypcję zostanie naliczona w dniu **płatności cyklicznych,** a opłata zostanie naliczona za dodatkowy rok lub miesiąc, w zależności od bieżącej częstotliwości płatności. Jeśli z jakiegoś powodu wyłączyłeś **rozliczenia cykliczne,** zawsze możesz [włączyć rozliczenia cykliczne.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)
 
-- Jeśli jesteś klientem licencjonowania zbiorowego Open z przedpłat, roczną subskrypcję, skontaktuj się z partnerem do zakupu nowego klucza produktu. Otrzymasz instrukcje za pośrednictwem poczty e-mail, aby aktywować swój klucz w [Centrum usług licencjonowania zbiorowego](https://go.microsoft.com/fwlink/p/?LinkID=282016). Aby dowiedzieć się, jak znaleźć nowego partnera lub partnerów, który już pracował w przeszłości, zobacz [Znajdowanie partnerem Office 365 lub sprzedawcą](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).
+- Jeśli jesteś klientem licencjonowania zbiorowego typu Open z przedpłaconą roczną subskrypcją, skontaktuj się z partnerem, aby kupić nowy klucz produktu. Otrzymasz instrukcje za pośrednictwem poczty e-mail, aby aktywować klucz w [Centrum usług licencjonowania zbiorowego](https://go.microsoft.com/fwlink/p/?LinkID=282016). Aby dowiedzieć się, jak znaleźć nowego partnera lub partnera, z którym pracowałeś w przeszłości, zobacz [Znajdowanie partnera lub sprzedawcy usługi Microsoft 365.](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller)

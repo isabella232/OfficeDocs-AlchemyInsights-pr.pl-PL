@@ -1,5 +1,5 @@
 ---
-title: 607 wolny/zajęty narzędzie do rozwiązywania problemów
+title: 607 Narzędzie do rozwiązywania problemów z trybem wolnym/zajętym
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,14 +12,14 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 707ead2a324374b6496c995855fd7d2400afaa17
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664870"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765062"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Problemy oglądanie informacji wolny/zajęty kalendarza
+# <a name="issues-seeing-calendar-freebusy-information"></a>Problemy z wyświetlaniem informacji o kalendarzu wolny/zajęty
 
-Jeśli nie widzisz informacji o czasie wolnym/zajętym w swoim kalendarzu lub innych kalendarzach albo jeśli inne osoby nie widzą tych informacji w Twoim kalendarzu, użyj [Asystenta odzyskiwania i pomocy technicznej firmy Microsoft dla usługi Office 365](https://diagnostics.office.com/).
+Jeśli w innych kalendarzach nie widzisz informacji o kalendarzu wolny/zajęty lub jeśli inne osoby nie widzą informacji wolnych/zajętych w kalendarzu, skorzystaj z [Asystenta pomocy technicznej i odzyskiwania firmy Microsoft](https://diagnostics.office.com/).
   

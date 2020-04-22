@@ -1,5 +1,5 @@
 ---
-title: Weryfikowanie domeny za pomocą godaddy
+title: Weryfikowanie domeny za pomocą aplikacji GoDaddy
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 21bfa44d5b4a1c851207be6d5c983f77690ac406
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: 3effadb7fcd509c557beffccafc2ba3394bac88f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42326218"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766287"
 ---
-# <a name="verify-your-domain-with-godaddy"></a>Weryfikowanie domeny za pomocą godaddy
+# <a name="verify-your-domain-with-godaddy"></a>Weryfikowanie domeny za pomocą aplikacji GoDaddy
 
 Aby zweryfikować domenę, musisz dodać rekord TXT do rejestratora domen, aby sprawdzić, czy jesteś właścicielem domeny. 
 
-Najpierw postępuj zgodnie [z kreatorem Dodaj domenę,](https://portal.office.com/adminportal/home#/Domains) wybierając pozycję **Ustawienia** \> **Domeny**, a następnie **dodaj domenę**.
+Najpierw postępuj zgodnie z [kreatorem Dodaj domenę,](https://portal.office.com/adminportal/home#/Domains) wybierając pozycję **Ustawienia** \> **domen,** a następnie **dodaj domenę**.
   
-Aby uzyskać instrukcje krok po kroku, zobacz [Tworzenie rekordów DNS w usłudze GoDaddy dla usługi Office 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy)
+Aby uzyskać instrukcje krok po kroku, zobacz [Tworzenie rekordów DNS w witrynie GoDaddy dla usługi Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy)

@@ -1,9 +1,9 @@
 ---
-title: 9000203 filtry Outlook.com
+title: Filtry Outlook.com 9000203
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/27/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,17 +14,17 @@ ms.custom:
 - "1793"
 - "9000203"
 - "9000215"
-ms.openlocfilehash: 4835b3996651ccdbd390a1ece2555ffe7f0fe430
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: ce1c46c316ffec0f2ecb339268fd32b7128895d9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36546694"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760314"
 ---
 # <a name="filtering-in-outlookcom"></a>Filtrowanie w Outlook.com
 
-Możesz filtrować wiadomości e-mail na wiele sposobów w Outlook.com:
+Wiadomości e-mail można filtrować na wiele sposobów w Outlook.com:
 
-1. [Zmienianie sposobu sortowania wiadomości e-mail](https://support.office.com/article/e650ae23-b558-4fbf-bdd1-73268f6852b7?wt.mc_id=Office_Outlook_com_Alchemy)
+1. [Zmienianie sposobu sortowania poczty e-mail](https://support.office.com/article/e650ae23-b558-4fbf-bdd1-73268f6852b7?wt.mc_id=Office_Outlook_com_Alchemy)
 2. [Blokowanie adresu e-mail lub domeny poczty e-mail](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
-3. [Użyj zaawansowanego wyszukiwania zapytań, aby udoskonalić wyniki](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)
+3. [Uściślić wyniki za pomocą zaawansowanego wyszukiwania zapytań](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)

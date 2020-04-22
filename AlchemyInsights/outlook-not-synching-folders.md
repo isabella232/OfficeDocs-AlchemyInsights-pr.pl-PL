@@ -1,9 +1,9 @@
 ---
-title: Program Outlook nie są synchronizowane foldery
+title: Program Outlook nie synchronizuje folderów
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: a3cf9193e9c9494ed6f00e3001dd57af591a9ff0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5868a5a614ce44d3007c7c5894e2dc9940153533
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557340"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768699"
 ---
-# <a name="outlook-not-synching-folders"></a>Program Outlook nie są synchronizowane foldery
+# <a name="outlook-not-synching-folders"></a>Program Outlook nie synchronizuje folderów
 
-Jeśli program Outlook nie jest synchronizacja folderów zgodnie z oczekiwaniami, istnieje kilka rzeczy, można spróbować go naprawić.
+Jeśli program Outlook nie synchronizuje folderów zgodnie z oczekiwaniami, możesz spróbować je naprawić.
 
-1. Zmniejsz liczbę folderów w podstawowym lub udostępnionej skrzynki pocztowej. [Problemy z wydajnością Zobacz Outlook podczas istnieje zbyt wiele elementów lub folderów w ost tryb buforowany lub folderu pliku pst](https://support.microsoft.com/help/2768656).
-2. Wyłącz buforowanie wszystkie foldery udostępnione.
-3. Zmiana konfiguracji pomocniczy skrzynki pocztowej programu Exchange do drugiego konta programu Exchange w swoim profilu.
+1. Zmniejsz liczbę folderów w podstawowej lub udostępnionej skrzynce pocztowej. [Zobacz Problemy z wydajnością programu Outlook, gdy w folderze pliku ost lub pst w trybie buforowanym znajduje się zbyt wiele elementów lub folderów](https://support.microsoft.com/help/2768656).
+2. Wyłącz buforowanie wszystkich folderów udostępnionych.
+3. Zmień konfigurację pomocniczej skrzynki pocztowej programu Exchange na drugie konto programu Exchange w profilu.
 
-Aby uzyskać więcej informacji zobacz [problemy z wydajnością i synchronizacji podczas pracy z folderami w pomocniczego skrzynki pocztowej w programie Outlook](https://support.microsoft.com/help/3115602).
+Aby uzyskać więcej informacji, zobacz [Problemy z wydajnością i synchronizacją podczas pracy z folderami w pomocniczej skrzynce pocztowej w programie Outlook](https://support.microsoft.com/help/3115602).
