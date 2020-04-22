@@ -2,39 +2,39 @@
 title: Uprawnienia użytkownika
 ms.author: mikeplum
 author: MikePlumleyMSFT
-ms.date: 5/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e3e18f7ee5315b076e9059feaeda8b445d89c476
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36531945"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710525"
 ---
-# <a name="user-permissions-in-sharepoint-and-onedrive"></a>Uprawnienia użytkownika w programie SharePoint i OneDrive
+# <a name="user-permissions-in-sharepoint-and-onedrive"></a>Uprawnienia użytkowników w programie SharePoint i OneDrive
 
-Jeśli użytkownik w organizacji nie jest w stanie uzyskać dostępu do programu SharePoint lub OneDrive, upewnij się, że mają licencję, która obejmuje SharePoint i OneDrive. 
+Jeśli użytkownik w organizacji nie może uzyskać dostępu do programu SharePoint lub onedrive, upewnij się, że ma licencję obejmującą program SharePoint i onedrive. 
   
-1. Przejdź do [strony aktywnych użytkowników w centrum administracyjnym Microsoft 365](https://portal.office.com/adminportal/home#/users) i wybierz użytkownika. 
+1. Przejdź do [strony Aktywni użytkownicy w centrum administracyjnym usługi Microsoft 365](https://portal.office.com/adminportal/home#/users) i wybierz użytkownika. 
     
-2. Upewnij się, że w obszarze **licencje produktu**, licencja jest przypisany i **SharePoint Online** jest zaznaczone. 
+2. Upewnij się, że w obszarze **Licencje produktów**jest przypisana licencja i wybrano opcję **SharePoint Online.** 
     
- Aby udzielić użytkownikowi uprawnienia dostępu do witryny programu SharePoint: 
+ Aby udzielić użytkownikowi uprawnień dostępu do witryny programu SharePoint: 
   
-1. Otwórz witrynę w przeglądarce sieci Web.
+1. Otwórz witrynę w przeglądarce internetowej.
     
-2. Jeśli witryna należy do grupy 365 pakietu Office, kliknij ikonę ustawienia w prawym górnym rogu, a następnie kliknij pozycję **uprawnienia witryny**. Kliknij przycisk **Zaproś osoby**, a następnie wybierz dodać członków do grupy 365 pakietu Office lub udostępnić tylko witryny. 
+2. Jeśli witryna należy do grupy usługi Office 365, kliknij ikonę Ustawienia w prawym górnym rogu, a następnie kliknij pozycję **Uprawnienia witryny**. Kliknij pozycję **Zaproś osoby**, a następnie wybierz opcję dodania członków do grupy usługi Office 365 lub udostępnienia tylko witryny. 
     
-    W przypadku witryny komunikacyjnej kliknij opcję **Udostępnij witrynę** w prawym górnym rogu, wprowadź imię i nazwisko osoby, a następnie wybierz poziom uprawnień (odczyt, Edycja lub pełna kontrola). 
+    W przypadku witryny komunikacyjnej kliknij pozycję **Udostępnij witrynę** w prawym górnym rogu, wprowadź jej imię i nazwisko, a następnie wybierz poziom uprawnień (Odczyt, Edycja lub Pełna kontrola). 
     
-    W przypadku klasycznej witryny zespołu kliknij opcję **Udostępnij** w prawym górnym rogu. Wprowadź nazwę osoby, którą chcesz zaprosić, lub wpisz wszyscy, aby udostępnić ją wszystkim w organizacji. Kliknij przycisk **Udostępnij**.
+    W przypadku klasycznej witryny zespołu kliknij pozycję **Udostępnij** w prawym górnym rogu. Wprowadź nazwę osoby, którą chcesz zaprosić, lub wpisz pozycję Wszyscy, którą chcesz udostępnić wszystkim osobom w organizacji. Kliknij **pozycję Udostępnij**.
     
 > [!NOTE]
-> Jeśli jesteś członkiem witryny, ale nie jest właścicielem, możesz zaprosić osoby do witryny, ale zaproszenie wygeneruje żądanie dostępu, które może zostać zatwierdzone lub odrzucone przez właściciela witryny. 
+> Jeśli jesteś członkiem witryny, ale nie właścicielem, możesz zaprosić do niej inne osoby, ale zaproszenie wygeneruje żądanie dostępu, które może zostać zatwierdzone lub odrzucone przez właściciela witryny. 
   
 [Dowiedz się, jak udostępnić plik lub folder użytkownikowi](https://go.microsoft.com/fwlink/?linkid=533408)
   

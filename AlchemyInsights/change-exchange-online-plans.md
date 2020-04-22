@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002450"
 - "4766"
-ms.openlocfilehash: bc95cabc61266643b49777d21f4829fb1fcc1ea3
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: c83fa35f948456d0ee2a53621e9b4e7ad63b84f2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286765"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706873"
 ---
 # <a name="change-exchange-online-plans"></a>Zmienianie planów usługi Exchange Online
 
@@ -24,7 +24,7 @@ Administratorzy muszą ręcznie przełączyć plany. Aby zapoznać się z komple
 
 1. Kup nowy plan subskrypcji. W centrum administracyjnym usługi Microsoft 365 wybierz pozycje **Rozliczenia > [Zakup usług](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Najłatwiej jest użyć pola wyszukiwania do znalezienie planów programu Exchange.
 
-2. Sprawdź swoją nową subskrypcję i licencje. W Centrum administracyjnym usługi Microsoft 365 przejdź do pozycji **Rozliczenia > [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Jeśli na liście nie ma nowej subskrypcji lub nie jest ona aktywna, sprawdź [tutaj](https://docs.microsoft.com/en-us/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#the-new-subscription-isnt-listed-or-isnt-active).
+2. Sprawdź swoją nową subskrypcję i licencje. W Centrum administracyjnym usługi Microsoft 365 przejdź do pozycji **Rozliczenia > [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Jeśli na liście nie ma nowej subskrypcji lub nie jest ona aktywna, sprawdź [tutaj](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#the-new-subscription-isnt-listed-or-isnt-active).
 
 3. Ponownie przypisz licencje do użytkowników. W Centrum administracyjnym usługi Microsoft 365 przejdź do pozycji **Użytkownicy > [Aktywni użytkownicy](https://go.microsoft.com/fwlink/p/?linkid=834822)** i przypisz licencje.
 

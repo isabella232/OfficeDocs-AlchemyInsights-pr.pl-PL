@@ -3,7 +3,7 @@ title: Verify your domain
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 3dd96a9731cfd75882dd3bb397005b19d471c882
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2c4d8e075d2cf7214b5ef005b856daf7fb0ed53c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531369"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710453"
 ---
 # <a name="verify-your-domain"></a>Verify your domain
 
- **Rekord prawdopodobnie nie aktualizowany przez Internet.**
+ **Rekord prawdopodobnie nie został zaktualizowany w Internecie.**
   
 Zazwyczaj możemy zobaczyć nowy rekord już po kilku minutach, ale w niektórych przypadkach może to potrwać nawet kilka godzin. 
   
-- Po odczekaniu który już długo, sprawdź już skopiowany i wklejony dokładną wartość do rekordu TXT weryfikacji na hoście DNS. Jednym z typowych problemów jest pominięcie części „MS=" rekordu. Ta część jest również potrzebna!
+- Jeśli już tak długo czekałeś, sprawdź, czy skopiowano i wkleiłeś dokładną wartość do rekordu weryfikacji TXT na hoście DNS. Jednym z typowych problemów jest pominięcie części „MS=" rekordu. Ta część jest również potrzebna!
 
-- W przypadku niektórych hostów DNS musisz wykonać dodatkowy krok w celu zapisania pliku strefy (w którym jest przechowywany dany rekord DNS), aby został zaktualizowany w Internecie. Upewnij się, że zmiany zostały zapisane, tak aby usługa Office 365 mogła zobaczyć i zweryfikować rekord.
+- W przypadku niektórych hostów DNS musisz wykonać dodatkowy krok w celu zapisania pliku strefy (w którym jest przechowywany dany rekord DNS), aby został zaktualizowany w Internecie. Upewnij się, że zmiany zostały zapisane, aby firma Microsoft mogła zobaczyć i zweryfikować rekord.

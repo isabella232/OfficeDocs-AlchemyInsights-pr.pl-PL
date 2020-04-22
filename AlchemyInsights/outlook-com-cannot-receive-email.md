@@ -3,7 +3,7 @@ title: Outlook.com nie może odbierać wiadomości e-mail
 ms.author: lpyfer
 author: lpyfer
 manager: joallard
-ms.date: 10/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "9000252"
 - "1842"
-ms.openlocfilehash: c63d93347db194cbe10d4bc6d806b7af6a6e0681
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 5271860c99cd4911cf3cce4a3dca6ec725dde86d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37698152"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710849"
 ---
 # <a name="unable-to-receive-email"></a>Nie można odbierać wiadomości e-mail
 
 Jeśli masz problemy z Outlook.com, najpierw sprawdź [stan usługi](https://go.microsoft.com/fwlink/p/?linkid=837482).
 
-1. Sprawdź swoją **drugą** skrzynkę odbiorczą. Aby dowiedzieć się, jak wyłączyć funkcję koncentruje się Skrzynka odbiorcza, zobacz [wyłączanie ukierunkowanych skrzynek odbiorczych](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2). 
-2. Poszukaj w folderze wiadomości [ **-śmieci** ](https://outlook.live.com/mail/junkemail). Jeśli skrzynka odbiorcza jest zapełona, nie będziesz otrzymywać nowych wiadomości. Aby zrobić pokój w skrzynce odbiorczej, spróbuj opróżnić folder wiadomości-śmieci, klikając prawym przyciskiem **myszy pozycję** > **Usuń wszystkie**.
+1. Sprawdź **inną** skrzynkę odbiorczą. Aby dowiedzieć się, jak wyłączyć skoncentrowane skrzynki odbiorczej, zobacz [Wyłącz pole wyboru Koncentruje się w skrzynce odbiorczej](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2). 
+2. Poszukaj w [folderze **Wiadomości-śmieci** ](https://outlook.live.com/mail/junkemail). Jeśli twoja skrzynka odbiorcza jest pełna, nie będziesz otrzymywać nowych wiadomości. Aby zrobić miejsce w skrzynce odbiorczej, spróbuj opróżnić folder wiadomości-śmieci, klikając prawym przyciskiem myszy **pozycję Niepotrzebne wiadomości e-mail** > **Usuń wszystkie**.
 3. Sprawdź **filtry skrzynki odbiorczej**. 
-    1. Aby filtrować, przejdź do górnej części listy wiadomości i wybierz opcję **Filtruj** > **wszystko**.
-    2. Aby sortować, wybierz **Filtruj** > **według** > **daty** lub **od**.
-4. Sprawdź listę [zablokowanych nadawców](https://outlook.live.com/mail/options/mail/junkEmail) i bezpiecznych nadawców.
+    1. Aby filtrować, przejdź do górnej części listy wiadomości i wybierz pozycję **Filtruj** > **wszystkie**.
+    2. Aby sortować, wybierz opcję **From** > **Filtruj sortowanie według** > **daty** lub od . **Filter**
+4. Sprawdź listy [zablokowanych nadawców](https://outlook.live.com/mail/options/mail/junkEmail) i bezpiecznych nadawców.
 5. Sprawdź [reguły skrzynki odbiorczej](https://outlook.live.com/mail/options/mail/rules).
-6. Twoje konto może zostać tymczasowo zablokowane, ponieważ zauważyliśmy nietypową aktywność logowania. Zobacz [Odblokowywanie konta Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4).
+6. Twoje konto może zostać tymczasowo zablokowane, ponieważ zauważyliśmy nietypową aktywność logowania. Zobacz [Odblokuj konto Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4).
 
-Dowiedz się więcej o tym, jak [naprawić problemy z synchronizacją wiadomości e-mail Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
+Dowiedz się więcej o [rozwiązywaniu problemów z synchronizacją Outlook.com wiadomości e-mail](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).

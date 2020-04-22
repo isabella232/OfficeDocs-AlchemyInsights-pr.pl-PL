@@ -1,9 +1,9 @@
 ---
-title: Aktywowanie subskrypcji usługi Microsoft Office 365 woluminu licencji
+title: Aktywowanie subskrypcji licencji zbiorczej firmy Microsoft
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661198"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708769"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktywowanie subskrypcji usługi Microsoft Office 365 woluminu licencji
+# <a name="activating-a-microsoft-volume-license-subscription"></a>Aktywowanie subskrypcji licencji zbiorczej firmy Microsoft
 
-1. Zaloguj się do witryny [portalu woluminu Licensing Service Center (VLSC)](http://go.microsoft.com/fwlink/p/?LinkId=329762).
+1. Zaloguj się do [portalu Centrum usług licencjonowania zbiorowego (VLSC).](https://go.microsoft.com/fwlink/p/?LinkId=329762)
 
-2. Przejdź do subskrypcji usługi Office 365 i wybierz polecenie **Uaktywnij**.
+2. Przejdź do subskrypcji i wybierz pozycję **Aktywuj**.
 
-3. Zostanie wysłana wiadomość e-mail do kontaktu Online Services (OLS).
+3. Wiadomość e-mail zostanie wysłana do kontaktu z usługami online (OLS).
 
-4. Aktywacja wiadomości e-mail zostanie wyświetlony monit z dwoma opcjami: **Zarejestruj się**lub **Zaloguj**. Jeśli wcześniej utworzono wersję próbną, wybierz **Zaloguj się**. Jeśli nie masz jeszcze dzierżawcy usługi Office 365, wybierz polecenie **Zarejestruj się**.
+4. E-mail aktywacyjny zapewni Ci dwie opcje: **Zarejestruj się**lub Zaloguj **się.** Jeśli wcześniej utworzono wersję próbną, wybierz pozycję **Zaloguj się**. Jeśli nie masz jeszcze dzierżawy usługi Microsoft 365, wybierz pozycję **Zarejestruj się**.
 
-5. Zaloguj się do Centrum administracyjnego usługi Microsoft 365 ([https://admin.microsoft.com](https://admin.microsoft.com)) przy użyciu istniejących poświadczeń administratora usługi Office 365. Po pomyślnym zalogowaniu, otrzymasz innej e-mail z potwierdzeniem zakupu.
+5. Zaloguj się do centrum administracyjnego usługi[https://admin.microsoft.com](https://admin.microsoft.com)Microsoft 365 ( ) przy użyciu istniejących poświadczeń administratora. Po pomyślnym zalogowaniu otrzymasz kolejną wiadomość e-mail z potwierdzeniem zakupu.
 
-6. Po zalogowaniu, można przejść do **fakturowania** \> stronę [produktów usług &](https://go.microsoft.com/fwlink/p/?linkid=842054) , aby sprawdzić, czy zakupione subskrypcji pakietu Office 365, są aktywne w dzierżawie. (Również można na karcie **subskrypcji** w centrum VLSC, aby wyświetlić szczegóły weryfikowanie subskrypcji został złożony.)
+6. Po zalogowaniu się możesz przejść do strony Produkty **&** \> [rozliczeń,](https://go.microsoft.com/fwlink/p/?linkid=842054) aby sprawdzić, czy zakupione subskrypcje są aktywowane w dzierżawie. (Można również wybrać kartę **Subskrypcja** w vlsc, aby wyświetlić szczegóły weryfikacji, czy subskrypcja została zdeponowana).)

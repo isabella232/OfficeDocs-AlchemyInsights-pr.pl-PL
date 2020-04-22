@@ -1,8 +1,8 @@
 ---
-title: 1800029 połączone konta nie są obsługiwane w programie Outlook w sieci Web
+title: 1800029 Połączone konta nie są obsługiwane w aplikacji Outlook w sieci Web
 ms.author: daeite
 author: daeite
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b26f9b62ec3c379eb875426c7744a39fca6decc1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36821812"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705851"
 ---
 # <a name="connected-accounts-are-no-longer-supported"></a>Połączone konta nie są już obsługiwane
 
-Firma Microsoft usunęła możliwość dodawania nowych kont do programu Outlook w sieci Web za pomocą funkcji połączonych kont 15 września 2018 i zatrzyma synchronizację istniejących kont w dniu 30 października 2018, które były połączone przed 15 września 2018. 15 listopada opcja połączone konta ( **Ustawienia** \> **** \> **kont**pocztowych) zostanie usunięta z programu Outlook w sieci Web.Aby uzyskać więcej informacji, zobacz [połączone konta nie jest już obsługiwana w programie Outlook w sieci Web (Office 365 dla kont biznesowych)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
+Firma Microsoft usunęła możliwość dodawania nowych kont do programu Outlook w sieci Web przy użyciu funkcji Połączone konta 15 września 2018 r. i przestanie synchronizować istniejące konta 30 października 2018 r., które zostały połączone przed 15 września 2018 r. 15 listopada opcja Połączone konta **(Ustawienia** \> **kont pocztowych)** **Mail** \> zostanie usunięta z aplikacji Outlook w sieci Web.Aby uzyskać więcej informacji, zobacz [Połączone konta nie są już obsługiwane w aplikacji Outlook w sieci Web (konta microsoft 365 dla firm)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
   
-Aby nadal widzieć pocztę e-mail z innych kont: nadal możesz przesyłać wiadomości e-mail z tych kont do programu Outlook w sieci Web. Aby uzyskać więcej informacji, zobacz:
+Aby nadal widzieć wiadomości e-mail z innych kont: nadal możesz przesyłać dalej wiadomości e-mail z tych kont do aplikacji Outlook w sieci Web. Aby uzyskać więcej informacji, zobacz:
   
-[Włączanie i wyłączanie automatycznego przesyłania dalej w Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
+[Włączanie lub wyłączanie automatycznego przekazywania w Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
   
-[Automatyczne przekazywanie wiadomości z Gmaila na inne konto](https://aka.ms/forward-gmail-messages)
+[Automatyczne przesyłanie dalej wiadomości z Gmaila na inne konto](https://aka.ms/forward-gmail-messages)
   
-[Automatyczne przekazywanie wiadomości e-mail w poczcie Yahoo](https://aka.ms/yahoo-email-forwarding)
+[Automatyczne przekazywanie poczty e-mail w yahoo mail](https://aka.ms/yahoo-email-forwarding)
   

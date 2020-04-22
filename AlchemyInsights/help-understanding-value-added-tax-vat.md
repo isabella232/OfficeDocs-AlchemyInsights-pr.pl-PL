@@ -1,9 +1,9 @@
 ---
-title: Pomoc zrozumienie wartości dodanej (VAT)
+title: Pomoc w zrozumieniu podatku od wartości dodanej (VAT)
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: a8512f753e4d74a274f30bf5191495ffcaf3a23b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: cfe38fa8406980c45bcf3604acd0b666dfe1ee7c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390522"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710129"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Pomoc zrozumienie wartości dodanej (VAT)
+# <a name="help-understanding-value-added-tax-vat"></a>Pomoc w zrozumieniu podatku od wartości dodanej (VAT)
 
-Jeśli jesteś w kraju, który korzysta z podatku od wartości dodanej (VAT), takich jak Wielka Brytania, Invoicing Microsoft oblicza podatek VAT dla Ciebie i dotyczą kwoty faktury.
+Jeśli użytkownik znajduje się w kraju, w który stosuje się podatek dodatkowy (VAT), na przykład w Wielkiej Brytanii, fakturowanie microsoft oblicza podatek VAT dla Ciebie i stosuje kwotę do faktur.
   
-Dla celów podatkowych należy także określić numer rejestracyjny VAT w oknie Ustawienia dla fakturowania.
+Ze względów podatkowych należy również określić numer rejestracyjny VAT w ustawieniach fakturowania.
   
-Nie można dodać lub usunąć stawki podatku VAT, ale można zmienić domyślny stawka podatku VAT w ustawieniach. Domyślnie Fakturowanie używa usługi, aby sprawdzić poprawność numeru NIP, ale zaleca się przeczytanie [zastrzeżenie VIES](https://go.microsoft.com/fwlink/?LinkID=841741) opublikowane przez Komisję Europejską. Jeśli użytkownik zdecyduje się wyłączyć usługę, należy sprawdzić wszystkie numery NIP.
+Nie można dodawać ani usuwać stawek VAT, ale w ustawieniach można zmienić domyślną stawkę VAT. Domyślnie fakturowanie korzysta z usługi do sprawdzania poprawności numerów rejestracyjnych VAT, ale zalecamy zapoznanie się z [oświadczeniem VIES](https://go.microsoft.com/fwlink/?LinkID=841741) opublikowanym przez Komisję Europejską. Jeśli zdecydujesz się wyłączyć usługę, musisz zweryfikować wszystkie numery rejestracyjne VAT.

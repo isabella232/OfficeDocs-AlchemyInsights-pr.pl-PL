@@ -1,9 +1,9 @@
 ---
-title: Tworzenie formantu grup
+title: Sterowanie tworzeniem grup
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/23/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 5af9236bfb208dd4c2f2a60e8122b3392a4eb222
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07b205224b494f377fc92654a67fa9237f78bbdb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516681"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705635"
 ---
-# <a name="control-creation-of-office-365-groups"></a>Tworzenie formantu grup usługi Office 365
+# <a name="control-creation-of-office-365-groups"></a>Sterowanie tworzeniem grup usługi Office 365
 
-Domyślnie wszyscy użytkownicy w firmie będą mogli tworzyć grupy. W razie potrzeby, są w stanie zmienić, a następnie przypisać prawa do utworzenia grupy do wielu osób pracujących w firmie. Należy zauważyć, że będzie to miało wpływ na tworzenie grup w dowolnej usłudze Office 365 (takich jak Outlook, zespoły, planowania i tak dalej).
+Domyślnie wszyscy użytkownicy w firmie mogą tworzyć grupy. W razie potrzeby możesz to zmienić i przypisać prawo do tworzenia grup do grupy osób w firmie. Należy zauważyć, że będzie to miało wpływ na tworzenie grup z dowolnej usługi Microsoft 365 (takich jak Outlook, Teams, Planner i tak dalej).
   
-Instrukcje: [Zarządzanie, kto może tworzyć grupy usługi Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
+Instrukcje: [zarządzanie tym, kto może tworzyć grupy usługi Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)

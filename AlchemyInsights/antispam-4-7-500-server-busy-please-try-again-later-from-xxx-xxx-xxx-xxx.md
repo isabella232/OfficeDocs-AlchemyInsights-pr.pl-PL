@@ -1,9 +1,9 @@
 ---
-title: Serwer ochrony przed wirusami 4.7.500 1050 jest zajęty. Spróbuj ponownie później z [XXX.XXX.XXX.XXX]
+title: 1050 Antispam 4.7.500 Serwer zajęty. Spróbuj ponownie później z [XXX.XXX.XXX.XXX]
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "1050"
 - "3100024"
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
-ms.openlocfilehash: 7f6a8bee1417741e7a8145778f03bf6fd8c9bdcd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1f6d7d6db0b229c116de79ae66bac48ef81bac8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494321"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707957"
 ---
-# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 serwer jest zajęty, spróbuj ponownie później
+# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 Serwer zajęty, spróbuj ponownie później
 
-Ten błąd występuje, gdy nasilenie ruchu e-mail ze źródłowego adresu IP przekracza limit oparty na reputację (lub braku reputacji) źródłowego adresu IP.
+Ten błąd występuje, gdy ilość ruchu e-mail ze źródłowego adresu IP przekracza limit oparty na reputacji (lub braku reputacji) źródłowego adresu IP.
 
-Blokowanie wiadomości e-mail z adresu IP źródłowego wygaśnie w ciągu godziny. Źródłowy adres IP w przypadku lokalnego serwera e-mail danego użytkownika, sprawdź konfigurację łącznika przepływu poczty. Jeśli zachowanie trwa ponad godzinę, skontaktuj się z obsługą na żądanie wyjątek dla źródłowego adresu IP.
+Blokowanie wiadomości e-mail ze źródłowego adresu IP wygaśnie w ciągu godziny. Jeśli źródłowy adres IP jest lokalnym serwerem poczty e-mail należącym do Ciebie, sprawdź konfigurację łącznika przepływu poczty. Jeśli zachowanie trwa dłużej niż godzinę, skontaktuj się z pomocą techniczną, aby zażądać wyjątku dla źródłowego adresu IP.

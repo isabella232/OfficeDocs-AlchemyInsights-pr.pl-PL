@@ -2,27 +2,27 @@
 title: Wyświetlanie historii wersji
 ms.author: toresing
 author: tomresing
-ms.date: 6/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 34c73c42-e4a0-41ab-8eb8-a834d4bb04c4
-ms.openlocfilehash: 816638036f2374f13b62f7f87fffce1090338fd7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c9cdc5065e3f54fd996611d82aa0479b79a634ca
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531297"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707269"
 ---
-# <a name="view-version-history-of-a-file-or-list-item"></a>Wyświetlanie historii wersji elementu listy lub pliku
+# <a name="view-version-history-of-a-file-or-list-item"></a>Wyświetlanie historii wersji elementu pliku lub listy
 
-1. Przejdź do witryny programu SharePoint i Otwórz listę lub bibliotekę, z paska Szybkie uruchamianie. Jeżeli nazwa listy lub biblioteki nie jest wyświetlana, kliknij przycisk **zawartość witryny** lub **Wyświetl całą zawartość witryny**, a następnie kliknij nazwę.
+1. Przejdź do witryny programu SharePoint i otwórz listę lub bibliotekę na pasku Szybkie uruchamianie. Jeśli nazwa listy lub biblioteki nie jest wyświetlana, kliknij pozycję **Zawartość witryny** lub **Wyświetl całą zawartość witryny,** a następnie kliknij jej nazwę.
     
-2. Kliknij prawym przyciskiem myszy odstęp między towaru lub nazwa dokumentu i daty, a następnie kliknij **Historia wersji** z menu. Może być konieczne przewijać menu, aby wyświetlić **Historię wersji**. Jeśli nie widzisz, kliknij przycisk wielokropka (...) w oknie dialogowym, a następnie kliknij **Historia wersji**.
+2. Kliknij prawym przyciskiem myszy odstęp między nazwą elementu lub dokumentu a datą, a następnie z menu kliknij polecenie **Historia wersji.** Może być konieczne przewinięcie menu, aby wyświetlić **historię wersji**. Jeśli go nie widzisz, kliknij wielokropek (...) w oknie dialogowym, a następnie kliknij pozycję **Historia wersji**.
     
-3. Wskaż wersję widoku i kliknij strzałkę w dół po prawej stronie, aby uzyskać listę opcji w oknie dialogowym Historia wersji. Kliknij przycisk **Wyświetl**.
+3. W oknie dialogowym Historia wersji wskaż odpowiednią wersję widoku i kliknij strzałkę w dół po prawej stronie, aby uzyskać listę opcji. Kliknij **pozycję Widok**.
     
-[Więcej informacji na temat historii wersji](https://go.microsoft.com/fwlink/?linkid=875709)
+[Dowiedz się więcej o historii wersji](https://go.microsoft.com/fwlink/?linkid=875709)
   
 

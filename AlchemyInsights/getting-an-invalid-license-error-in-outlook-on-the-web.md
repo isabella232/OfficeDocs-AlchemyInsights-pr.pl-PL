@@ -1,9 +1,9 @@
 ---
-title: 125 błąd Nieprawidłowa licencja programu Outlook w sieci web?
+title: 125 Wystąpił nieprawidłowy błąd licencji w aplikacji Outlook w sieci Web?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: d0f3fa354eb63c5a5f92d017694623c36fc6df30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9324726709423aeb290fcc1866ade5517f71c1ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523809"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708841"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Błąd nieprawidłowa licencja jest wyświetlany w programie Outlook w sieci web?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Wystąpił nieprawidłowy błąd licencji w aplikacji Outlook w sieci Web?
 
-Jeśli używasz programu Outlook w sieci web i Pobierz **wszystko poszło** błąd zawiera **X-OWA-błąd: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, licencja Exchange Online nie jest prawidłowo przypisywane lub niedawno wygasła. Twój administrator można przypisać jedną licencję do można wykonać następujące czynności:
+Jeśli używasz programu Outlook w sieci Web i pojawia się błąd **Coś poszło nie tak,** który zawiera **X-OWA-Error: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, twoja licencja Exchange Online nie jest poprawnie przypisana lub niedawno wygasła. Administrator może przypisać ci licencję, wykonując następujące czynności:
   
-1. Otwórz [Centrum administracyjnego usługi Microsoft 365](https://portal.office.com/adminportal/home#/homepage) i obszarze **aktywnych użytkowników**, wybierz polecenie **Edytuj użytkownika**.
+1. Otwórz [centrum administracyjne usługi Microsoft 365](https://portal.office.com/adminportal/home#/homepage) i w obszarze **Aktywni użytkownicy**wybierz pozycję **Edytuj użytkownika**.
 
-2. Na stronie **Edytowanie użytkownika** zostanie otwarte wybierz użytkownika. Na stronie właściwości użytkownika zostanie otwarty kliknij przycisk **Edytuj** dla **licencji na produkt**.
+2. Na **otwartej** stronie Edytowanie użytkownika wybierz użytkownika. Na otwartej stronie właściwości użytkownika kliknij pozycję **Edytuj** dla **licencji produktu**.
 
-3. Na stronie **licencji na produkt** , który otwiera, wybierz odpowiednią wartość **lokalizacji** i przypisać licencję, który zawiera Exchange Online (rozwiń licencji, aby wyświetlić jego szczegóły). Po zakończeniu kliknij przycisk **Zapisz**.
+3. Na **otwartej** stronie Licencje produktów wybierz odpowiednią wartość **Lokalizacja** i przypisz licencję zawierającą program Exchange Online (rozwiń licencję, aby wyświetlić jej szczegóły). Po zakończeniu kliknij przycisk **Zapisz**.

@@ -1,9 +1,9 @@
 ---
-title: Alchemia-diagnozowanie i rozwiązywanie problemów z łącznością programu Outlook
+title: Alchemia - Diagnozowanie i rozwiązywanie problemów z łącznością programu Outlook
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: c1ea5e6b457b0ea7ee4656ee6e4b4ff2f77e2cb9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 1c55dd357cbcdb3f9ff634e96f17139c3aeb56ba
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664618"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708423"
 ---
 # <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Diagnozowanie i rozwiązywanie problemów z łącznością programu Outlook
 
-Aby zdiagnozować i rozwiązać problemy z łącznością programu Outlook, można uruchomić [Narzędzie łączności programu Outlook](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) na komputerze, którego dotyczy luka.
+Aby zdiagnozować i rozwiązać problemy z łącznością programu Outlook, można uruchomić [narzędzie łączności programu Outlook](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) na komputerze, którego dotyczy problem.
   
-To narzędzie przeprowadzi testy diagnostyczne i zasugeruje możliwe rozwiązania problemu z łącznością w programie Outlook.
+To narzędzie przeprowadzi testy diagnostyczne i zasugeruje możliwe rozwiązania problemu z łącznością programu Outlook.
   

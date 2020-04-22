@@ -10,20 +10,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: 7eb6e1463b95e01554722dd4790ab334371c86d9
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a1bb502f7afdbd700a6c247046dc2033a9ab065b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050247"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706909"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>Zmienianie nazwy domeny w usłudze SharePoint Online
 
-Niestety nie można zmienić nazwy domeny programu SharePoint Online dla organizacji w pakiecie Office 365. Jeśli na przykład nazwa organizacji zmieni się z "contoso" na "czwarta kawa", nie można zmienić contoso.sharepoint.com na fourthcoffee.sharepoint.com.
+Niestety nie można zmienić nazwy domeny usługi SharePoint Online w organizacji. Jeśli na przykład nazwa organizacji zmieni się z "Contoso" na "Czwarta kawa", nie można zmienić contoso.sharepoint.com na fourthcoffee.sharepoint.com.
   
-Aby użyć nazwy domeny fourthcoffee.sharepoint.com, musisz zakupić nową subskrypcję pakietu Office 365 i przenieść wszystkie wiadomości e-mail, pliki i inne dane, które chcesz zachować w nowej subskrypcji.
+Aby użyć fourthcoffee.sharepoint.com nazwy domeny, musisz zakupić nową subskrypcję i przenieść wszystkie wiadomości e-mail, pliki i inne dane, które chcesz zachować, do nowej subskrypcji.
   
- **Uwaga**: na przykład, aby zmienić nazwę witryny z https://contoso.sharepoint.com/sites/sample1 do https://contoso.sharepoint.com/sites/sample2, postępuj zgodnie z instrukcjami w [tym artykule](https://docs.microsoft.com/sharepoint/change-site-address). 
+ **Uwaga:** Na przykład, aby zmienić https://contoso.sharepoint.com/sites/sample1 nazwę https://contoso.sharepoint.com/sites/sample2witryny z na , postępuj zgodnie z instrukcjami w [tym artykule](https://docs.microsoft.com/sharepoint/change-site-address). 
   
-Aby uzyskać informacje o przenoszeniem elementów w bibliotekach dokumentów, zobacz [przenoszenie lub kopiowanie elementów z biblioteki dokumentów programu SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).
+Aby uzyskać informacje dotyczące przenoszenia elementów w bibliotekach dokumentów, zobacz [Przenoszenie lub kopiowanie elementów z biblioteki dokumentów programu SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).
   

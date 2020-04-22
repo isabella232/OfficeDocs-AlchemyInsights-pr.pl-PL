@@ -1,9 +1,9 @@
 ---
-title: 1800001 Usuń profil
+title: 1800001 Usuwanie profilu
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 8/29/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,30 +13,30 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: da0897bf834c7b96eb5e6035457ef664c486c7ae
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b3822a7b90048cb8f0447eeb80ca1c457a17918e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513225"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704843"
 ---
 # <a name="delete-a-profile"></a>Usuwanie profilu
 
-Aby usunąć profil, wykonaj następujące kroki.
+Aby usunąć profil, należy wykonać następujące czynności.
   
-1. W programie Outlook, wybierz **plik** \> **Ustawienia konta** \> **Zarządzania profilami**.
+1. W programie Outlook wybierz pozycję **Zarządzanie profilami w ustawieniach** \> **Manage Profiles**konta **plików** \> .
 
-2. Wybierz opcję **Pokaż profile**.
+2. Wybierz **pozycję Pokaż profile**.
 
-3. W oknie dialogowym **poczty** należy wybrać profil, który chcesz usunąć, a następnie kliknij przycisk **Usuń**.
+3. W oknie dialogowym **Poczta** wybierz profil, który chcesz usunąć, a następnie kliknij przycisk **Usuń**.
 
     > [!NOTE]
-    > Program Outlook może wyświetlić ostrzeżenie, że usunięcie profilu spowoduje usunięcie danych w trybie offline. Nie utracisz wszelkie dane zapisane w pliki danych programu Outlook (pst) lub wszelkie informacje przechowywane w kontach internetowych, na przykład Hotmail, Exchange lub Office 365 kont.
+    > Program Outlook może ostrzec, że usunięcie profilu spowoduje usunięcie danych w trybie offline. Nie utracisz żadnych informacji przechowywanych w plikach danych programu Outlook (pst) ani żadnych informacji przechowywanych na kontach online, na przykład Outlook.com kontach programu Exchange lub Microsoft 365.
   
-Za zarządzanie profil **programu Outlook dla komputerów Macintosh** zobacz [Zarządzanie profilami lub tożsamości w programie Outlook dla komputerów Macintosh](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) lub wykonaj następujące kroki.
+W przypadku zarządzania profilami **programu Outlook dla komputerów Mac** zobacz Zarządzanie [profilami lub tożsamościami w programie Outlook dla komputerów Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) lub wykonać następujące czynności.
   
-1. W Finderze Otwórz folder **aplikacji** .
+1. W finderze otwórz folder **Aplikacje.**
 
-2. CTRL + kliknięcie lub kliknij prawym przyciskiem myszy **Program Microsoft Outlook**i następnie wybierz polecenie **Pokaż zawartość pakietu**.
+2. Naciśnij klawisz Ctrl i kliknij lub kliknij prawym przyciskiem myszy pozycję **Microsoft Outlook**, a następnie wybierz polecenie Pokaż **zawartość pakietu**.
 
-3. Zaznacz **zawartość** \> **Shared Support**, a następnie należy uruchomić **Menedżera profilów programu Outlook**.
+3. Wybierz **pozycję Udostępniona** \> **obsługa zawartości,** a następnie uruchom **program Outlook Profile Manager**.

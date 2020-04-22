@@ -1,9 +1,9 @@
 ---
-title: Migracja do programu SharePoint Online za pośrednictwem Menedżera migracji
+title: Migrowanie od usługi SharePoint za pośrednictwem Menedżera migracji
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: 551d56473457727d082f53eac89d1475edae86af
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 0595ba72414dc1b94229706220715139f126c91a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964258"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707197"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migracja do programu SharePoint Online za pośrednictwem Menedżera migracji
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migrowanie od usługi SharePoint za pośrednictwem Menedżera migracji
 
-Menedżer migracji, znajdujący się w nowoczesnym centrum administracyjnym programu SharePoint, prowadzi użytkownika przez konfigurację klientów i tworzenie zadań. Można określić ustawienia poziomu globalnego lub zadania, wyświetlić postęp zadania w całości i pobrać zagregowane raporty podsumowujące i na poziomie zadań.
+Menedżer migracji dostępny w nowoczesnym centrum administracyjnym programu SharePoint przeprowadzi Cię przez proces konfigurowania klientów i tworzenia zadań. Można określić ustawienia na poziomie globalnym lub poziomie zadania, wyświetlić postęp zadań całościowych oraz pobrać zagregowane raporty sumaryczne i raporty na poziomie zadania.
 
-* [Rozpocznij pracę z menedżerem migracji](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-* [Konfigurowanie klientów Menedżera migracji](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-* [Ustawienia Menedżera migracji](https://docs.microsoft.com/sharepointmigration/mm-settings)
+* [Wprowadzenie do Menadżera migracji](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+* [Konfiguracja klientów Menadżera migracji](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
+* [Ustawienia Menadżera migracji

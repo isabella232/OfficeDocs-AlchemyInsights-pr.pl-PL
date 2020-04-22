@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 4453a9d62a63e980a9f9f56eb6ff2551c58e3e2b
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286669"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706211"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Znane problemy i rozwiązania dla usług ADFS
 
@@ -28,4 +28,4 @@ Konfigurację domeny federacyjnej można zaktualizować zgodnie z następującym
 
 - [2647020](https://support.microsoft.com/help/2647020) Błąd „Przykro nam, że występują problemy z zalogowaniem” oraz „80041317” lub „80043431”, gdy użytkownik federacyjny próbuje zalogować się do usługi Office 365, na platformie Azure lub do usługi Intune.
 
-Aby uzyskać więcej informacji, zobacz [Aktualizowanie lub naprawianie ustawień domeny federacyjnej w usłudze Office 365, na platformie Azure lub usłudze Intune](https://docs.microsoft.com/pl-PL/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+Aby uzyskać więcej informacji, zobacz [Aktualizowanie lub naprawianie ustawień domeny federacyjnej w usłudze Office 365, na platformie Azure lub usłudze Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).

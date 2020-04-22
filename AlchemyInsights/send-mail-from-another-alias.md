@@ -1,9 +1,9 @@
 ---
-title: Wysłać wiadomość z innego aliasu
+title: Wysyłanie poczty z innego aliasu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: c84e56a7b8077698f20ca269218f684fba23f191
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d10446576aa9fd79175671db8bdd560041480b6d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551533"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709201"
 ---
-# <a name="send-email-from-an-alias-or-secondary-address"></a>Wysyłanie wiadomości e-mail z alias lub adres pomocniczego
+# <a name="send-email-from-an-alias-or-secondary-address"></a>Wysyłanie wiadomości e-mail z aliasu lub adresu pomocniczego
 
-Office 365 aktualnie nie obsługuje wysyłania wiadomości e-mail przez alias lub adres e-mail pomocniczego. Aliasy e-mail może służyć do odbierania wiadomości e-mail tylko. Jeśli chcesz wysłać wiadomości e-mail z innego adresu e-mail, należy utworzyć współdzielonej skrzynki pocztowej. Współdzielonej skrzynki pocztowej daje inny adres e-mail, bez konieczności innej licencji.
+Usługa Microsoft 365 nie obsługuje obecnie wysyłania wiadomości e-mail z aliasu lub pomocniczego adresu e-mail. Aliasy e-mail mogą być używane tylko do odbierania wiadomości e-mail. Jeśli chcesz wysłać wiadomość e-mail z innego adresu e-mail, musisz utworzyć udostępnioną skrzynkę pocztową. Udostępniona skrzynka pocztowa poda ci inny adres e-mail, bez konieczności posiadania innej licencji.
   
-- [Kliknij tutaj, aby utworzyć współdzielonej skrzynki pocztowej](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [Przejdź tutaj, aby utworzyć udostępnioną skrzynkę pocztową](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-Można również przeczytać artykuł [Tworzenie udostępnionej skrzynki pocztowej](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) , która pozwala sprawdzić, wszystko, co musisz wiedzieć o udostępnionych skrzynek pocztowych, w tym sposobu ich używania.
+Możesz również przeczytać artykuł [Utwórz udostępnioną skrzynkę pocztową,](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) który powie Ci wszystko, co musisz wiedzieć o udostępnionych skrzynkach pocztowych, w tym sposób ich używania.

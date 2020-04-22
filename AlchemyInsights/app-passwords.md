@@ -3,7 +3,7 @@ title: 500 haseł aplikacji
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,25 +14,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 735e8f1db5107b502c5624689cb38abfbec04502
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f924f15a29864543c221265e734a5eec7aa2ba2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517797"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707849"
 ---
 # <a name="app-passwords"></a>Hasła aplikacji
 
-Hasło aplikacji jest kodem, który daje aplikacji lub urządzenia uprawnień konta służbowego dostęp usługi Office 365. Jeśli Twoje konto wymaga uwierzytelnianie wieloskładnikowe (MFA), a aplikacja łączy się z konta, należy wygenerować hasło do aplikacji, to aplikacja do połączenia się z usługi Office 365. Na przykład Outlook 2016 i starszych wersjach programu Outlook z wymagać hasła do aplikacji.
+Hasło aplikacji to kod, który daje aplikacji lub urządzeniu uprawnienia dostępu do konta służbowego firmy Microsoft. Jeśli twoje konto wymaga uwierzytelniania wieloskładnikowego (MFA), a aplikacja łączy się z Twoim kontem, musisz wygenerować hasło aplikacji, aby aplikacja mogła połączyć się z firmą Microsoft. Na przykład program Outlook 2016 i starsze wersje programu Outlook wymagają hasła aplikacji.
 
- **Uwaga**: zanim spróbujesz następujące kroki zweryfikować z administratorem oprogramowania Office 365 że MFA jest wymagane dla konta. Jeśli tak nie jest, nie będzie dostępne opcje opisano w krokach.
+ **Uwaga:** Przed wypróbowaniem poniższych kroków należy sprawdzić u administratora usługi Microsoft 365, czy usługa MFA jest wymagana dla Twojego konta. Jeśli tak nie jest, opcje opisane w krokach nie będą dostępne dla Ciebie.
 
-1. Zaloguj się w usłudze Office 365 z pracy lub szkolnego konta i hasła.
+1. Zaloguj się za pomocą konta służbowego i hasła.
 
-2. Wybierz **teraz skonfigurować**.
+2. Wybierz **pozycję Ustaw go teraz**.
 
-3. Wybierz metodę uwierzytelniania, a następnie postępuj zgodnie z instrukcjami.
+3. Wybierz metodę uwierzytelniania i postępuj zgodnie z instrukcjami.
 
-4. Po zweryfikowaniu alternatywna metoda kontaktu, wybierz **Następny**.
+4. Po zweryfikowaniu alternatywnej metody kontaktu wybierz pozycję **Dalej**.
 
-5. Otrzymasz hasło aplikacji korzystających z programu Outlook, Apple Mail i inne aplikacje, które tego wymagają. Wybierz polecenie **Kopiuj** , aby skopiować hasło, więc można je wkleić w innym miejscu (nie musisz zapamiętywać).
+5. Otrzymasz hasło aplikacji, którego możesz używać w programie Outlook, Apple Mail i innych aplikacjach, które tego wymagają. Wybierz **pozycję Kopiuj,** aby skopiować hasło, aby można je było wkleić w innym miejscu (nie trzeba go zapamiętywać).

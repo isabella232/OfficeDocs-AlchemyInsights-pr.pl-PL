@@ -1,9 +1,9 @@
 ---
-title: Zmiana ilości licencji aplikacji
+title: Zmienianie ilości licencji aplikacji
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 9914a95ddbebf376e740b2d7b3d88ae58aed4a45
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36519777"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707053"
 ---
-# <a name="change-app-license-quantity"></a>Zmiana ilości licencji aplikacji
+# <a name="change-app-license-quantity"></a>Zmienianie ilości licencji aplikacji
 
-Możesz wyświetlić lub zmienić liczbę posiadanych licencji i przypisać je do użytkowników w centrum administracyjnym Microsoft 365. 
+Można wyświetlić lub zmienić liczbę posiadanych licencji i przypisać je do użytkowników w centrum administracyjnym usługi Microsoft 365. 
 
 ## <a name="to-change-license-quantity"></a>Aby zmienić ilość licencji
 
-1. Przejdź na stronę produkty do **rozliczeń** > [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) , a następnie wybierz zakładkę **aplikacje** .
+1. Przejdź do strony Produkty **&** > [rozliczeń,](https://go.microsoft.com/fwlink/p/?linkid=842054) a następnie wybierz kartę **Aplikacje.**
 
 2. Znajdź i wybierz aplikację, którą chcesz zarządzać.  
 
-3. Wybierz opcję **Dodaj/Usuń licencje**.
+3. Wybierz **pozycję Dodaj/usuń licencje**.
 
-4. Wprowadź nową liczbę potrzebnych licencji. Jeśli na przykład masz obecnie 5 licencji i potrzebujesz tylko 4, wpisz 4 w polu **całkowita liczba licencji** . Jeśli masz obecnie 5 licencji i potrzebujesz 10 licencji ogółem, wpisz 10 w polu **całkowita liczba** licencji.
+4. Wprowadź nową liczbę potrzebnych licencji. Jeśli na przykład masz obecnie 5 licencji i potrzebujesz tylko 4, wprowadź 4 w polu **Łączna liczba licencji.** Jeśli masz obecnie 5 licencji i potrzebujesz 10 licencji, wpisz 10 w polu **Łączna liczba licencji.**
 
 ## <a name="to-assign-app-licenses"></a>Aby przypisać licencje aplikacji
 
-1. Przejdź na stronę produkty do **rozliczeń** > [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) , a następnie wybierz zakładkę **aplikacje** .
+1. Przejdź do strony Produkty **&** > [rozliczeń,](https://go.microsoft.com/fwlink/p/?linkid=842054) a następnie wybierz kartę **Aplikacje.**
 
 2. Znajdź i wybierz aplikację, którą chcesz zarządzać.  
 
-3. W obszarze **ustawienia & akcje**, wybierz łącze do **zarządzania w portalu wydawcy**.
+3. W obszarze **Ustawienia & akcje**wybierz łącze Zarządzanie w portalu **wydawcy**.

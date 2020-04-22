@@ -1,9 +1,9 @@
 ---
-title: Edytuj profil rozliczeniowy dla aplikacji
+title: Edytowanie profilu rozliczeń dla aplikacji
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: 6edfe19d9b4f75f93e80fac3f36d6b94b40f661a
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606853"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703905"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Edytuj profil rozliczeniowy dla aplikacji
+# <a name="edit-billing-profile-for-apps"></a>Edytowanie profilu rozliczeń dla aplikacji
 
-## <a name="to-change-the-billing-profile-on-apps"></a>Aby zmienić profil rozliczeniowe na aplikacje
+## <a name="to-change-the-billing-profile-on-apps"></a>Aby zmienić profil rozliczeń w aplikacjach
 
-1. Przejdź do **fakturowania** > [produktów & usług](https://go.microsoft.com/fwlink/p/?linkid=842054) strony, a następnie wybierz kartę **aplikacje** .
+1. Przejdź do strony Produkty **&** > [rozliczeń,](https://go.microsoft.com/fwlink/p/?linkid=842054) a następnie wybierz kartę **Aplikacje.**
 
 2. Znajdź i wybierz aplikację, którą chcesz zarządzać.  
 
-3. Obok **profil płatności**kliknij przycisk **Edytuj** i wybierz rozliczeń profil, który chcesz skojarzyć z aplikacji.
+3. Obok **pozycji Profil rozliczeniowy**wybierz pozycję **Edytuj** i wybierz profil rozliczeniowy, który chcesz skojarzyć z aplikacją.
 
-## <a name="edit-billing-profiles"></a>Edytuj profile rozliczeń
+## <a name="edit-billing-profiles"></a>Edytowanie profilów rozliczeniowych
 
-1. Przejdź do **fakturowania** > [rachunki płatności &](https://go.microsoft.com/fwlink/p/?linkid=848039) strona, a następnie wybierz **Profile fakturowania**.
+1. Przejdź do strony **Rachunki rozliczeniowe** > [& płatności,](https://go.microsoft.com/fwlink/p/?linkid=848039) a następnie wybierz pozycję **Profile rozliczeń**.
 
-2. Wybierz profil, rozliczeń z listy, aby edytować.
+2. Wybierz profil rozliczeniowy z listy do edycji.

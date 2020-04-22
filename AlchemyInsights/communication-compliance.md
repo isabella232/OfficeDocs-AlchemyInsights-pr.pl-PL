@@ -11,33 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: e612c1fb9c0a1b1f6e9a53a2b9eefeed0583dc9e
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274944"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706175"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Zgodność komunikacji w Microsoft 365
+# <a name="communication-compliance-in-microsoft-365"></a>Zgodność z komunikacją w usłudze Microsoft 365
 
-Zgodność komunikacji to nowe rozwiązanie do zapewniania zgodności z wymaganiami firmy Microsoft 365, które pomaga organizacjom spełniać wymogi dotyczące zgodności z wymogami nadzoru i zminimalizować ryzyko związane z komunikacją. Jest on oparty na funkcji nadzoru w pakiecie Office 365 i zawiera nowe ulepszenia, w tym:
+Zgodność z komunikacją to nowe rozwiązanie zgodności usługi Microsoft 365, które pomaga organizacjom spełniać wymagania dotyczące zgodności z przepisami nadzoru i zminimalizować ryzyko związane z komunikacją. Jest on oparty na funkcji Nadzoru i zawiera nowe ulepszenia, w tym:
 
-- Inteligentne, dostosowywane szablony
-- Elastyczne przepływy pracy z rekultywacją
-- Praktyczne spostrzeżenia
+- Inteligentne szablony z możliwością dostosowania
+- Elastyczne przepływy pracy korygowania
+- Spostrzeżenia z zasysanymi
 
-Jeśli obecnie korzystasz z [zasad nadzoru w pakiecie Office 365](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), zalecamy teraz używanie nowej zgodności komunikacji w celu zaspokojenia potrzeb regulacyjnych.
+Jeśli obecnie korzystasz z [zasad nadzoru,](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)zalecamy teraz użycie nowej zgodności z komunikatem w celu zaspokojenia potrzeb regulacyjnych.
 
-Aby skonfigurować zgodność komunikacji, zobacz [Konfigurowanie zgodności komunikacji](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+Aby skonfigurować zgodność z komunikacją, zobacz [Konfigurowanie zgodności komunikacji](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
-Aby zbadać, przejrzyj i korygowania zgodności komunikacji, zobacz [zbadać i korygować alerty zgodności komunikacji](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
+Aby zbadać, przejrzeć i skorygować zgodność z [komunikatami, zobacz Badanie i korygowanie alertów zgodności komunikacji.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)
 
-Aby zapoznać się z omówieniem funkcji zgodności komunikacji, zobacz [zgodność komunikacji w Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
+Aby zapoznać się z omówieniem funkcji zgodności komunikacji, zobacz [Zgodność komunikacji w usłudze Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
 
 Wymagania licencyjne: Użytkownicy monitorowani przez zasady komunikacji muszą mieć jedną z następujących czynności:
 
-- Licencja Microsoft 365 E5 Compliance
-- Licencja pakietu Office 365 Enterprise E3 z dodatkiem Advanced Compliance
-- Subskrypcja Office 365 Enterprise E5
+- Licencja na zgodność usługi Microsoft 365 E5
+- Licencja usługi Office 365 Enterprise E3 z dodatkiem Advanced Compliance
+- Subskrypcja usługi Office 365 Enterprise E5
 
-Jeśli nie masz żadnego z powyższych i chcesz wypróbować zgodność komunikacji, **[zarejestruj się w wersji próbnej pakietu Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Jeśli nie masz żadnego z powyższych i chcesz spróbować zgodności z **[komunikatem, Zarejestruj się, aby wypróbować wersję próbną usługi Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.

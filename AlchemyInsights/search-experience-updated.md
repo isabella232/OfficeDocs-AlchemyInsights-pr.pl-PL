@@ -1,8 +1,8 @@
 ---
-title: Aktualizacja 414 wyników wyszukiwania
+title: 414 Zaktualizowano środowisko wyszukiwania
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: a4ecb6fcdd33b871f971a788ffe2afa8e7c50ba6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8602a1e0c9374e8c772d91b4721c1435fec4bea1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551497"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709309"
 ---
-# <a name="search-experience-updated"></a>Aktualizacja wyników wyszukiwania
+# <a name="search-experience-updated"></a>Zaktualizowano doświadczenie wyszukiwania
 
-Wyszukiwanie jest obecnie znajdujący się na dole okna aplikacji. Naciśnięcie go daje bezpośredni dostęp do najwyższego kontakty, planów podróży nadchodzących, dostawy przesyłki i ostatnie załączniki. Możesz wyszukiwać wiadomości e-mail, plików oraz kontaktów w różnych kont z jednego pola wyszukiwania pojedynczego lub skorzystaj z nowych filtrów, aby zawęzić wyszukiwanie.
+Wyszukiwanie znajduje się teraz w dolnej części aplikacji. Dotknięcie go zapewnia bezpośredni dostęp do najlepszych kontaktów, nadchodzących tras podróży, dostaw paczek i ostatnich załączników. Możesz wyszukiwać wiadomości e-mail, pliki i kontakty na dowolnym kontach z jednego pola wyszukiwania lub użyć naszych nowych filtrów, aby zawęzić wyszukiwanie.
