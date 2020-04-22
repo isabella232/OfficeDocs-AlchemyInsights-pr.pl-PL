@@ -1,5 +1,5 @@
 ---
-title: Dostęp do usług emerytalnych
+title: Przejście na emeryturę usług dostępu
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,26 +10,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: cb8123583b68e945ef878fdbaf211fd1d8205bb3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 977bd5887ef58b328463a9befcd6b47ac55f5a85
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050499"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687268"
 ---
-# <a name="access-services-retirement"></a>Dostęp do usług emerytalnych
+# <a name="access-services-retirement"></a>Przejście na emeryturę usług dostępu
 
-Jak pierwotnie ogłosiliśmy w MC97576, w marcu 2017, i nadal komunikować się w ciągu ostatnich lat Access Services są wycofane z pakietu Office 365. Następnym etapem w tym procesie będzie usunięcie baz danych programu Access w sieci Web, które używają list SharePoint jako ich podstawowej pamięci masowej.
+Jak pierwotnie ogłosiliśmy w MC97576, w marcu 2017 r., i nadal komunikować się w ciągu ostatniego roku Usługi dostępu są na emeryturze. Następną fazą tego procesu będzie usunięcie baz danych sieci Web programu Access, które używają list programu SharePoint jako bazowego magazynu danych.
 
 **Jak to wpływa na mnie?**
 
-Począwszy od czerwca 2019, firma będzie zatrzymać tworzenie nowych baz danych programu Access w programie SharePoint Online i zamknąć usługę i wszystkie pozostałe aplikacje do kwietnia 2020.
+Od czerwca 2019 r. przestaniemy tworzenie nowych baz danych programu Access w usłudze SharePoint Online i do kwietnia 2020 r. wyłączymy usługę i wszystkie pozostałe aplikacje.
 
 **Co muszę zrobić, aby przygotować się do tej zmiany?**
 
-Zachęcamy do utworzenia planu przejściowego dla baz danych programu Access w organizacji. Administratorzy mogą używać [skanera aplikacji programu SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) do uzyskiwania spisu aplikacji programu Access korzystających z witryn.
+Zachęcamy do utworzenia planu przejścia dla baz danych sieci Web programu Access w organizacji. Administratorzy mogą korzystać ze [skanera aplikacji programu SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) w celu uzyskania spisu aplikacji programu Access używanych przez witryny.
 
-Istnieje kilka sposobów migracji danych programu Access w sieci Web:
+Istnieje kilka sposobów migracji danych baz danych sieci Web programu Access:
 
 - Importowanie do lokalnej bazy danych programu Access (. ACCDB) lub do pliku programu Excel.
-- Zalecamy również Eksplorowanie usługi Microsoft PowerApps jako alternatywnej platformy do tworzenia niekodowych rozwiązań biznesowych dla sieci Web i urządzeń przenośnych.
+- Zalecamy również zbadanie usługi Microsoft PowerApps jako alternatywnej platformy do tworzenia rozwiązań biznesowych bez kodu dla urządzeń sieci Web i urządzeń przenośnych.

@@ -1,29 +1,29 @@
 ---
-title: Włącz ATP Office 365 dla programu SharePoint, OneDrive i zespołów firmy Microsoft
+title: Włączanie usługi Office 365 ATP dla programu SharePoint, usługi OneDrive i usługi Microsoft Teams
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: ae2f574663ae3233a056589c2d5a578171f3b2f4
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fdfdc97a198898051a3388672d01994d96dd5e97
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403043"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703436"
 ---
-# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Włącz pakietu Office 365 zaawansowaną ochronę przed zagrożeniami dla programu SharePoint w trybie Online, OneDrive i zespołów firmy Microsoft
+# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Włączanie zaawansowanej ochrony przed zagrożeniami usługi Office 365 dla usługi SharePoint Online, OneDrive i Microsoft Teams
 
-1. Przejdź do https://protection.office.com i zaloguj się.
-2. Wybierz opcję **Zarządzanie zagrożeniami** > **zasad** > **Bezpieczne załączniki**.
-3. Wybierz opcję **Włącz ATP, SharePoint, usługi i zespoły pracowników firmy Microsoft**, a następnie kliknij przycisk **Zapisz**.
-4. (Zalecane) Jako administratora globalnego lub administratora programu SharePoint w trybie Online należy uruchomić polecenie cmdlet [Set SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) z parametrem **DisallowInfectedFileDownload** ustawionym na *wartość true*.
-5. (Zalecane) [Ustaw alerty](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) dla wykrytych plików.
+1. Przejdź https://protection.office.com do i zaloguj się.
+2. Wybierz pozycję Bezpieczne załączniki**zasad** >  **zarządzania zagrożeniami** > .**Safe Attachments**
+3. Wybierz **pozycję Włącz atp dla programu SharePoint, OneDrive i Microsoft Teams**, a następnie kliknij przycisk **Zapisz**.
+4. (Zalecane) Jako administrator globalny lub administrator usługi SharePoint Online uruchom polecenie cmdlet [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) z parametrem **Nieustawianie InfectedFileDownload** ustawionym na *wartość true*.
+5. (Zalecane) [Skonfiguruj alerty](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) dotyczące wykrytych plików.
 
 > [!NOTE]
-> ATP będzie nto skanowania każdy pojedynczy plik programu SharePoint w trybie Online, OneDrive lub Teams firmy Microsoft. Pliki są skanowane asynchronicznie, poprzez proces, który używa udostępniania i Gość zdarzeń aktywności, wraz z heurystyki inteligentnego i sygnały zagrożenie do identyfikacji szkodliwych plików. Zobacz [https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+> Narzędzie ATP będzie skanować każdy plik w usłudze SharePoint Online, OneDrive lub usłudze Microsoft Teams. Pliki są skanowane asynchronicznie, za pośrednictwem procesu, który używa udostępniania i zdarzeń aktywności gościa, wraz z inteligentną heurystyką i sygnałami zagrożeń do identyfikacji złośliwych plików. Zobacz [https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).

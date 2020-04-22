@@ -1,9 +1,9 @@
 ---
-title: Zwrot/kredytu
+title: Kredyt/zwrot
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 7/11/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 72b765ddd33d01be03c5dbd44600670fd26e5370
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 717e6e7547c9b60d9ddc490f66bcc4b689bbb2ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389222"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705311"
 ---
-# <a name="creditrefund"></a>Zwrot/kredytu
+# <a name="creditrefund"></a>Kredyt/zwrot
 
-**Anulowanie**
+**Anulowania**
   
-Podczas anulowania subskrypcji, otrzymasz końcowa faktura z ulgi ze względu na następnej daty rozliczenia. Może to potrwać do 30 dni otrzymasz od daty, którą subskrypcja została anulowana.
+Podczas anulowania subskrypcji otrzymasz fakturę końcową z płatnością wymaganą w następnym dniu rozliczeniowym. Otrzymanie subskrypcji może potrwać do 30 dni od daty anulowania subskrypcji.
   
-**Zmiana siedzenia**
+**Zmiana miejsca**
   
-Gdy licencje zostaną usunięte z subskrypcji, niewykorzystany czas na te licencje zostaną zastosowane jako kredyt na następnej fakturze. Może to potrwać do 30 dni otrzymasz od daty, którą licencje są usuwane.
+Gdy licencje zostaną usunięte z subskrypcji, niewykorzystany czas na tych licencjach zostanie zastosowany jako kredyt na następnym rachunku. Może to potrwać do 30 dni od daty usunięcia licencji.

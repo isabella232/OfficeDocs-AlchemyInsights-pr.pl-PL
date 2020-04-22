@@ -1,8 +1,8 @@
 ---
-title: Włącz wieloczynnikowe uwierzytelnianie
+title: Włącz uwierzytelnianie wieloskładnikowe
 ms.author: pebaum
 author: pebaum
-ms.date: 12/5/2017
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527481"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703472"
 ---
-# <a name="enable-multi-factor-authentication"></a>Włącz wieloczynnikowe uwierzytelnianie
+# <a name="enable-multi-factor-authentication"></a>Włączanie uwierzytelniania wieloskładnikowego
 
-Aby włączyć uwierzytelnianie wieloskładnikowe w Centrum administracyjnym usługi Microsoft 365:
+Aby włączyć uwierzytelnianie wieloskładnikowe w centrum administracyjnym usługi Microsoft 365:
 
-1. Przejdź do **użytkowników** \> stronę **aktywnych użytkowników** .
+1. Przejdź do strony **Użytkownicy aktywni** \> **użytkownicy.**
     
-2. U góry strony wybierz opcję **uwierzytelnianie wieloczynnikowe**. 
+2. U góry strony wybierz pozycję **Uwierzytelnianie wieloskładnikowe**. 
     
-3. Znajdź użytkownika lub użytkowników, którzy powinni Włącz wieloczynnikowe uwierzytelnianie. Aby wyświetlić wszystkich użytkowników, może być konieczne zmienić filtr **stanu wieloczynnikowe uwierzytelnianie** u góry.
+3. Znajdź użytkownika lub użytkowników, których chcesz włączyć w celu uwierzytelniania wieloskładnikowego. Aby wyświetlić wszystkich użytkowników, może być konieczna zmiana **filtru stanu Auth wieloczynnikowego** u góry.
     
-4. Zaznacz pole wyboru obok użytkowników, które chcesz włączyć.
+4. Zaznacz pole wyboru obok użytkowników, których chcesz włączyć.
     
-5.  W okienku informacyjnym prawo użytkownika w obszarze **Szybkie kroki**zaznacz opcję **Włącz**. 
+5.  W prawym okienku informacji o użytkowniku w obszarze **Szybkie kroki**wybierz pozycję **Włącz**. 
     
-6. W wyświetlonym oknie dialogowym zaznacz pole wyboru **Włącz wieloczynnikowe uwierzytelnianie**. 
+6. W oknie dialogowym, które się otworzy, wybierz **włącz auth wieloczynnikowych**. 
     
 

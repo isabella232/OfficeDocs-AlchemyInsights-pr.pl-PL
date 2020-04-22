@@ -3,7 +3,7 @@ title: Przedpłacone odnowienie
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,26 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: bc477ddfc30c987ba25627b7b095c6d8592b8808
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666706"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666787"
 ---
-# <a name="prepaid-office-365-renewal"></a>Prepaid Office 365 odnowienie
+# <a name="prepaid-microsoft-365-renewal"></a>Przedpłacone odnowienie usługi Microsoft 365
 
-1. W centrum administracyjnym przejdź na stronę usługi **fakturowania** \> [produktów _amp_](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. W centrum administracyjnym przejdź do strony **Rozliczenia** \> [Produkty i usługi](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Znajdź subskrypcję, którą chcesz rozszerzyć. W sekcji **rozliczenia** wybierz opcję **Wydłuż datę końcową**.
+2. Znajdź subskrypcję, którą chcesz rozszerzyć. W sekcji **Rozliczenia** wybierz pozycję **Rozszerz datę zakończenia**.
 
-3. W okienku **rozszerzanie subskrypcji** wybierz pozycję **Użyj nowego i nieużywanego klucza produktu**, a następnie wybierz pozycję **dalej**.
+3. W okienku **Rozszerzanie subskrypcji** wybierz pozycję **Użyj nowego i nieużytego klucza produktu**, a następnie wybierz pozycję **Dalej**.
 
-4. Wprowadź klucz produktu, a następnie wybierz pozycję **dalej**.
+4. Wprowadź klucz produktu, a następnie wybierz przycisk **Dalej**.
 
 > [!NOTE]
-> Jeśli masz więcej niż jeden klucz produktu, możesz wybrać opcję **Dodaj inny klucz produktu** , aby je wprowadzić.
+> Jeśli masz więcej niż jeden klucz produktu, możesz wybrać **dodaj inny klucz produktu,** aby je wprowadzić.
 
-5. Przejrzyj szczegóły zamówienia, a następnie wybierz **** opcję Zrealizuj.
+5. Przejrzyj szczegóły zamówienia, a następnie wybierz pozycję **Zrealizuj**.
 
-Aby dowiedzieć się więcej, zobacz [Dodawanie licencji lub rozszerzanie subskrypcji opłaconej za pomocą klucza produktu](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Aby dowiedzieć się więcej, zobacz [Dodawanie licencji do subskrypcji lub rozszerzanie subskrypcji opłaconej przy użyciu klucza produktu](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

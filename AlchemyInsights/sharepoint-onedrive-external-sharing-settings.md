@@ -1,5 +1,5 @@
 ---
-title: Włączanie lub wyłączanie udostępniania zewnętrznego dla programu SharePoint
+title: Włączanie lub wyłączanie udostępniania zewnętrznego w programie SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e652fc1ae0a7212f4c7f092fc3b184ef1bc13d0d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053919"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692883"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Komunikat ostrzegawczy: zasady organizacji nie zezwalają na udostępnianie tych użytkowników
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Komunikat ostrzegawczy: zasady organizacji nie zezwalają na udostępnianie tym użytkownikom
 
-Użytkownicy mogą napotkać komunikat ostrzegawczy podczas próby udostępnienia użytkownikom zewnętrznym w organizacji. Komunikat jest **zasad organizacji nie pozwalają na udostępnianie tych użytkowników. Przejdź do udostępnianie zewnętrzne w centrum administracyjnym pakietu Office 365, aby je włączyć**. Często zdarza się to po raz pierwszy próba udostępnienia użytkownikom zewnętrznym lub podczas udostępniania z nowymi użytkownikami zewnętrznymi.
+Użytkownicy mogą wystąpić komunikat ostrzegawczy podczas próby udostępnienia z zewnętrznymi użytkownikami w organizacji. Komunikat jest **zasadami organizacji, które nie zezwalają na udostępnianie tym użytkownikom. Przejdź do pozycji Udostępnianie zewnętrzne w centrum administracyjnym usługi Microsoft 365, aby włączyć go**. Często dzieje się tak przy pierwszej próbie udostępnienia użytkownikom zewnętrznym lub podczas udostępniania nowym użytkownikom zewnętrznym.
 
-Sprawdź **Ustawienia udostępniania zewnętrznego w programie SharePoint i usłudze OneDrive** w organizacji.
+Sprawdź **ustawienia udostępniania zewnętrznego programu SharePoint i usługi OneDrive** dla organizacji.
 
-1. W [centrum administracyjnym Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)wybierz pozycję **SharePoint**.
-3. Wybierz opcję **udostępnianie** , aby wyświetlić ustawienia udostępniania zewnętrznego.
+1. W [Centrum administracyjnym usługi Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)wybierz pozycję **SharePoint**.
+3. Wybierz **pozycję Udostępnianie,** aby wyświetlić ustawienia udostępniania zewnętrznego.
 
-Sprawdź **Ustawienia udostępniania zewnętrznego** dla konkretnej witryny.
+Sprawdź **ustawienia udostępniania zewnętrznego** dla określonej witryny.
 
-1. W [centrum administracyjnym Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)wybierz pozycję **SharePoint**.
-2. Wybierz pozycję **aktywne witryny** , aby wyświetlić dostępne witryny.
-3. Wybierz witrynę, którą chcesz sprawdzić, a następnie wybierz przycisk **udostępniania** , który jest wyświetlany na pasku menu, aby zweryfikować ustawienia witryny.
+1. W [Centrum administracyjnym usługi Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)wybierz pozycję **SharePoint**.
+2. Wybierz **aktywne witryny,** aby wyświetlić dostępne witryny.
+3. Wybierz witrynę, którą chcesz sprawdzić, a następnie wybierz przycisk **Udostępnianie** wyświetlany na pasku menu, aby zweryfikować ustawienia witryny.
 
 Aby uzyskać więcej informacji, zobacz [Omówienie udostępniania zewnętrznego](https://docs.microsoft.com/sharepoint/external-sharing-overview).

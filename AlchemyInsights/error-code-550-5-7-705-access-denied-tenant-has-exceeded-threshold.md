@@ -1,8 +1,8 @@
 ---
-title: Kod błędu 550 5.7.705 odmowa dostępu, dzierżawcy przekroczył próg
+title: Kod błędu 550 5.7.705 Odmowa dostępu, dzierżawca przekroczyła próg
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527229"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703000"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>Odmowa dostępu 550 5.7.705, Dzierżawca został przekroczony próg
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Odmowa dostępu, dzierżawca przekroczyła próg
 
-Ten komunikat występuje, gdy miejsce blok wychodzącej poczty, a za dużo spamu lub luzem poczty została wysłana przez organizację.
-Typowe przyczyny są zagrożone na lokalnych serwerach lub złamany admin kont, które były używane do Tworzenie łączników. Albo warunek można zezwolić spamu przechodzić w organizacji.
+Ta wiadomość pojawia się, gdy organizacja wysłała zbyt dużo spamu lub poczty zbiorczej, a my umieszczamy blok na poczcie wychodzącej.
+Typowe przyczyny są zagrożone na serwerach lokalnych lub przejęte konta administratora, które zostały użyte do tworzenia łączników. Każdy warunek może pozwolić na przekazywanie spamu przez twoją organizację.
 
-Aby usunąć ten blok, trzeba zrozumieć i wyjaśnić przyczyny z pracownikiem pomocy technicznej, a także rozwiązać problem uniemożliwiający zmianę.
-Gdy będziesz gotowy, kliknij opcję poniżej **skontaktuj się z nami** .
+Aby usunąć ten blok, musisz zrozumieć i wyjaśnić przyczynę agentowi pomocy technicznej, a także rozwiązać podstawowy problem.
+Kliknij **skontaktuj się z nami** poniżej, gdy będziesz gotowy.

@@ -1,9 +1,9 @@
 ---
-title: Dodawanie stanowisk do subskrypcji przedpłaconej
+title: Dodawanie miejsc do subskrypcji przedpłaconej
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,28 +13,28 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e2d9c25b12a11e933cf0ff40436c717172621af7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661018"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671467"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a>Dodawanie stanowisk do subskrypcji przedpłaconej
+# <a name="add-seats-to-a-prepaid-subscription"></a>Dodawanie miejsc do subskrypcji przedpłaconej
 
-Licencje prepaid Office 365 są wydawane jako 25-znakowy kod alfanumeryczny. Po zakupie potrzebnych licencji możesz dodać je do swojej subskrypcji. 
+Przedpłacone licencje są przekazywane jako 25-znakowe kody alfanumeryczne. Po zakupie potrzebnych licencji możesz dodać je do subskrypcji. 
 
-1. W centrum administracyjnym przejdź na stronę **rozliczenia** > [produktów & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. W centrum administracyjnym przejdź do strony Usługi & produktów **rozliczeniowych.** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-2. Znajdź subskrypcję, do której chcesz dodać licencje. W sekcji **licencje** wybierz **Dodaj więcej licencji**.
+2. Znajdź subskrypcję, do której chcesz dodać licencje. W sekcji **Licencje** wybierz pozycję **Dodaj więcej licencji**.
 
-3. W okienku **Dodaj więcej licencji** wybierz pozycję **Użyj nowego i nieużywanego klucza produktu**, a następnie wybierz pozycję **dalej**.
+3. W okienku **Dodaj więcej licencji** wybierz pozycję Użyj nowego i **nieużytego klucza produktu**, a następnie wybierz pozycję **Dalej**.
 
-4. Wprowadź klucz produktu, a następnie wybierz pozycję **dalej**.
+4. Wprowadź klucz produktu, a następnie wybierz przycisk **Dalej**.
 
     > [!NOTE]
-    > Jeśli masz więcej niż jeden klucz produktu, możesz wybrać opcję **Dodaj inny klucz produktu** , aby je wprowadzić.
+    > Jeśli masz więcej niż jeden klucz produktu, możesz wybrać **dodaj inny klucz produktu,** aby je wprowadzić.
 
-5. Przejrzyj szczegóły zamówienia, a następnie wybierz opcję **Zrealizuj**.
+5. Przejrzyj szczegóły zamówienia, a następnie wybierz pozycję **Zrealizuj**.
 
-Aby dowiedzieć się więcej, zobacz [Dodawanie licencji lub rozszerzanie subskrypcji opłaconej za pomocą klucza produktu](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Aby dowiedzieć się więcej, zobacz [Dodawanie licencji do subskrypcji lub rozszerzanie subskrypcji opłaconej przy użyciu klucza produktu](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

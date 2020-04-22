@@ -1,5 +1,5 @@
 ---
-title: Zmienianie uprawnień do skrzynki pocztowej
+title: Zmienianie uprawnień w skrzynce pocztowej
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: fa226612a9b9bfa8e6ca0b287fc51969d95e3469
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734391"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692523"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a>Zmienianie uprawnień do skrzynki pocztowej
+# <a name="changing-permissions-on-a-mailbox"></a>Zmienianie uprawnień w skrzynce pocztowej
 
-Jeśli użytkownicy potrzebują dostępu do pakietu Office 365 skrzynek pocztowych innych niż własne, muszą mieć uprawnienia do pracy z tych skrzynek pocztowych. Sposób przypisywania tych uprawnień zależy od typu skrzynki pocztowej. Jeśli użytkownicy potrzebują dostępu do:
+Jeśli użytkownicy potrzebują dostępu do skrzynek pocztowych innych niż własne, muszą mieć uprawnienia do pracy z tymi skrzynkami pocztowymi. Sposób przypisywania tych uprawnień zależy od typu skrzynki pocztowej. Jeśli użytkownicy potrzebują dostępu do:
   
-- Skrzynki pocztowe innych użytkowników — zobacz [udzielić uprawnień do skrzynki pocztowej innemu użytkownikowi w pakiecie Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Skrzynki pocztowe innych użytkowników — zobacz [Nadaj uprawnienia skrzynek pocztowych innemu użytkownikowi.](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user)
     
-- Udostępnionej skrzynki pocztowej — zobacz [Dodawanie lub usuwanie członków z udostępnionej skrzynki pocztowej](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Udostępniona skrzynka pocztowa — zobacz [Dodawanie lub usuwanie członków ze udostępnionej skrzynki pocztowej](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
-Jeśli uprawnienia nie działają poprawnie po wykonaniu powyższych kroków, przejdź do centrum administracyjnego programu Exchange i spróbuj ustawić uprawnienia stamtąd (zobacz [Zarządzanie uprawnieniami dla adresatów](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Jeśli uprawnienia nie działają poprawnie po wykonanie powyższych czynności, przejdź do centrum administracyjnego programu Exchange i spróbuj ustawić uprawnienia (zobacz [Zarządzanie uprawnieniami adresatów](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   

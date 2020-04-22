@@ -2,46 +2,46 @@
 title: Ograniczanie dostępu w programie SharePoint lub OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 242388af3ae8887616fc123f24502a8e5ac8dfbe
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 39aa8cd6e649eca4a1e196eeb589a825364d0977
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053775"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692775"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Ograniczanie dostępu w programie SharePoint lub OneDrive
 
-Istnieje wiele sposobów ograniczania dostępu do usług SharePoint Online/OneDrive. Te różne metody ograniczania dostępu są opisane poniżej. 
+Istnieje wiele sposobów ograniczania dostępu do usług usługi SharePoint Online/OneDrive. Te różne metody ograniczeń dostępu są opisane poniżej. 
 
 **Ograniczenie uprawnień**
 
-W programie SharePoint Online i OneDrive dla firm możemy ograniczyć dostęp do elementów, takich jak witryny, pliki i foldery, udzielając tylko dostępu do tych grup/osób, które powinny mieć dostęp.
+W usłudze SharePoint Online i usłudze OneDrive dla Firm ograniczamy dostęp do elementów, takich jak witryny, pliki i foldery, przyznając dostęp tylko tym grupom/osobom, które powinny mieć dostęp.
 
 - [Dostosowywanie uprawnień do listy lub biblioteki programu SharePoint](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
 - [Dostosowywanie uprawnień witryny programu SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-- [Zmienianie uprawnień do podfolderu](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
+- [Zmienianie uprawnień w podfolderze](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
 - [Sterowanie dostępem z poziomu urządzeń niezarządzanych](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-Jako administrator programu SharePoint lub globalnego w pakiecie Office 365, można zablokować lub ograniczyć dostęp do zawartości programu SharePoint i OneDrive z niezarządzanych urządzeń (te nie hybrydowy AD przyłączony lub zgodny w usłudze Intune).
+Jako administrator programu SharePoint lub administrator globalny możesz blokować lub ograniczać dostęp do zawartości programu SharePoint i OneDrive z urządzeń niezarządzanych (tych, które nie są przyłączone do usługi AD hybrydowej lub są zgodne w usłudze Intune).
 
 **Ograniczenie lokalizacji sieciowej**
 
-Administrator IT może kontrolować dostęp do zasobów programu SharePoint i usługi OneDrive na podstawie zdefiniowanych zaufanych lokalizacji sieciowych. Jest to również nazywane zasadami opartymi na lokalizacji. Aby uzyskać więcej informacji, zobacz [Kontrola dostępu do usługi SharePoint Online i OneDrive danych w oparciu o lokalizację sieciową](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+Jako administrator IT możesz kontrolować dostęp do zasobów programu SharePoint i OneDrive na podstawie zaufanych lokalizacji sieciowych. Jest to również znane jako zasady oparte na lokalizacji. Aby uzyskać więcej informacji, zobacz [Kontrolowanie dostępu do danych usługi SharePoint Online i OneDrive na podstawie lokalizacji sieciowej](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
 **Ograniczenie blokady witryny** 
 
-W programie SharePoint Online masz możliwość blokowania zbioru witryn, więc nikt nie ma dostępu. Jest to ustawiane za pomocą programu PowerShell i [powłoki zarządzania programu SharePoint Online](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) za pomocą właściwości [Set-sposite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -lockstate.
+W usłudze SharePoint Online masz możliwość zablokowania zbioru witryn, więc nikt nie ma do niego dostępu. Jest to ustawiane za pośrednictwem programu PowerShell i [powłoki zarządzania usługi SharePoint Online](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) przy użyciu właściwości [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -LockState.
 
-**Ograniczanie użytkownikom możliwości tworzenia witryn lub podwitryn**
+**Ograniczanie użytkownikom tworzenia witryn lub podwitryn**
 
-Jako administrator programu SharePoint lub Office 365 globalnego administratora, możesz pozwolić użytkownikom na tworzenie i administrowanie własnymi witrynami programu SharePoint, określić, jakiego rodzaju witryn mogą tworzyć i określić lokalizację witryn. Aby uzyskać więcej informacji, zobacz [Zarządzanie tworzeniem witryny w programie SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
+Jako administrator programu SharePoint lub administrator globalny możesz pozwolić użytkownikom tworzyć własne witryny programu SharePoint i administrować nimi, określać, jakiego rodzaju witryny mogą tworzyć, oraz określać lokalizację witryn. Aby uzyskać więcej informacji, zobacz [Zarządzanie tworzeniem witryny w usłudze SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 

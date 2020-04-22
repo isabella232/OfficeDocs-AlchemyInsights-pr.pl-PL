@@ -1,9 +1,9 @@
 ---
-title: 1245-import-PST-usługi
+title: 1245-Import-PST-Usługi
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496366"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687772"
 ---
-# <a name="office-365-import-service"></a>Usługi Office 365 importu
+# <a name="microsoft-365-import-service"></a>Usługa importowania usługi Microsoft 365
 
-Usługi Office 365 importowania umożliwia importu zbiorczego wielu plików PST do skrzynek pocztowych programu Exchange w trybie Online.
+Usługa importowania usługi Microsoft 365 umożliwia zbiorcze importowanie wielu plików PST do skrzynek pocztowych usługi Exchange Online.
 
-Aby uzyskać dostęp do usługi importu i rozpoczynanie procesu importu:
+Aby uzyskać dostęp do usługi Importuj i rozpocząć proces importowania:
 
-1. Przejdź do [& zabezpieczeń Centrum zgodności](https://protection.office.com) i zaloguj się przy użyciu poświadczeń dla konta administratora w organizacji usługi Office 365.
+1. Przejdź do [Centrum zgodności & zabezpieczeń](https://protection.office.com) i zaloguj się przy użyciu poświadczeń dla konta administratora w organizacji.
 
-2. W lewym okienku **& zabezpieczeń Centrum zgodności**kliknij przycisk **> zarządzania danych importu**.
+2. W lewym okienku **Centrum zgodności & zabezpieczeń**kliknij pozycję **Zarządzanie danymi > Importowanie**.
 
-3. Na stronie **Import** kliknij przycisk **Importuj nowe zadanie**.
+3. Na stronie **Importowanie** kliknij pozycję **Nowe zadanie importu**.
 
-4. Aby wykonać kroki w kreatorze, wykonaj następujące [instrukcje krok po kroku](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+4. Aby wykonać kroki opisane w kreatorze, postępuj zgodnie [z instrukcjami krok po kroku](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
 
-**Ważne**: dostęp strony **przywozu** w & zabezpieczeń Centrum zgodności, zostały przypisane [odpowiednie uprawnienia](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
+**Ważne:** Aby uzyskać dostęp do strony **Importuj** w Centrum zgodności & zabezpieczeń, przypisano [odpowiednie uprawnienia](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
 
-Jeśli chcesz zaimportować pliku PST do skrzynki pocztowej, w [tym](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)artykule.
+Jeśli chcesz tylko zaimportować pst do skrzynki pocztowej, zobacz [ten artykuł](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).

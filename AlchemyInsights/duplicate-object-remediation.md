@@ -1,9 +1,9 @@
 ---
-title: Korygowanie zduplikowany obiekt 1314
+title: 1314 Korygowanie zduplikowanych obiektów
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: a37114097dbe7e3a3c8c13e9ddc53dc5c6b24a78
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 138ba305b872e8c0508ba673fb59324672d14997
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529444"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703977"
 ---
-# <a name="duplicate-object-synchronization-errors"></a>Błędy synchronizacji duplikat obiektu
+# <a name="duplicate-object-synchronization-errors"></a>Błędy synchronizacji zduplikowanych obiektów
 
-Jeśli zostanie wyświetlony jeden z następujących błędów podczas synchronizacji:
+Jeśli podczas synchronizacji zostanie wyświetlony jeden z następujących błędów:
 
-- Synchronizowanego obiektu z tym samym adresem proxy już istnieje w katalogu programu Microsoft Online Services.
+- Zsynchronizowany obiekt o tym samym adresie serwera proxy już istnieje w katalogu usług Online Services firmy Microsoft.
 
-- Podobny komunikat UserPrincipalName.
+- Podobny komunikat dla UserPrincipalName.
 
-Użyj nowej diagnostyki zdrowia AADConnect Aby rozwiązać błędy duplikat obiektu. Aby uzyskać więcej informacji, zobacz [Diagnozuj i korygować błędy synchronizacji zduplikowany atrybut](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
+Użyj nowej diagnostyki AADConnect Health, aby rozwiązać błędy zduplikowanych obiektów. Aby uzyskać więcej informacji, zobacz [Diagnozowanie i korygowanie błędów synchronizacji zduplikowanych atrybutów](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).

@@ -1,9 +1,9 @@
 ---
-title: Odrzucone karty kredytowej
+title: Odrzucona karta kredytowa
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: d02f2cfdc867e54896945a8c9efd119a9b87a5d3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665213"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705095"
 ---
-# <a name="declined-credit-card"></a>Odrzucone karty kredytowej
+# <a name="declined-credit-card"></a>Odrzucona karta kredytowa
 
-Jeśli płacisz kartą kredytową i karta zostanie odrzucona, otrzymasz wiadomość e-mail informującą o tym fakcie. Upewnij się, że są wyświetlane [Szczegóły karty kredytowej](https://go.microsoft.com/fwlink/p/?linkid=842054) — numer karty, Data ważności, nazwy na karty kredytowej i adresu, także Miasto, stan i kod POCZTOWY — dokładnie tak, jak na karcie kredytowej i wyciągu z karty kredytowej. Można zaktualizować dane karty kredytowej i natychmiast przesłać płatność za pomocą opcji **rozliczyć saldo** na stronie [usług & produktów](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
+Jeśli płacisz kartą kredytową i karta zostanie odrzucona, otrzymasz wiadomość e-mail informującą o tym fakcie. Sprawdź, czy [dane karty kredytowej](https://go.microsoft.com/fwlink/p/?linkid=842054) - numer karty, data ważności, imię i nazwisko na karcie kredytowej oraz adres, w tym miasto, stan i kod pocztowy - są wyświetlane dokładnie tak, jak na karcie kredytowej i wyciągu z karty kredytowej. Możesz zaktualizować informacje o karcie kredytowej i natychmiast przesłać płatność, korzystając z opcji **Rozlicz saldo** na stronie [Usługi & produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054) 
 
-Aby dowiedzieć się więcej, zobacz "co zrobić, jeśli Moja karta kredytowa wygasła i Moje płatność jest opóźniona?" w [zapłacić za swoje usługi Office 365 business subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Aby dowiedzieć się więcej, zobacz "Co zrobić, jeśli moja karta kredytowa wygasła, a moja płatność jest zaległa?" w [sekcji Zapłać za subskrypcję usługi Microsoft 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
-Jeśli nadal jest wyświetlany komunikat "odrzucone", skontaktuj się z bankiem. Jest możliwe, że Twoja karta kredytowa nie jest aktywne — na przykład, jeżeli ostatnio pojawił się karty kredytowej w korespondencji z datą wygaśnięcia, nadal konieczne może być go uaktywnić. Bank może także określić Jeśli Twoja karta kredytowa nie jest dopuszczony do transakcji online, międzynarodowych lub cyklicznych.
+Jeśli nadal widzisz komunikat "Odrzucone", skontaktuj się ze swoim bankiem. Możliwe, że karta kredytowa nie jest aktywna — na przykład jeśli niedawno otrzymałasz kartę kredytową w wiadomości e-mail ze zaktualizowaną datą ważności, może być konieczna jej aktywacja. Bank może również sprawdzić, czy Twoja karta kredytowa nie jest zatwierdzona do transakcji online, międzynarodowych lub cyklicznych.
   
-Aby uzyskać dodatkowe informacje, zobacz [Rozwiązywanie problemów z kart kredytowych i rachunków bankowych](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Aby uzyskać dodatkowe informacje, zobacz [Rozwiązywanie problemów z kartami kredytowymi i kontami bankowymi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

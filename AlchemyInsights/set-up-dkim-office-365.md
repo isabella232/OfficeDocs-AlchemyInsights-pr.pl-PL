@@ -1,5 +1,5 @@
 ---
-title: Instalator DKIM w usłudze Office 365
+title: Konfiguracja DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,43 +9,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: dd908db6a4bc1739b3c1cff059387034d67e093d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666274"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43645682"
 ---
-# <a name="setup-dkim-in-office-365"></a>Instalator DKIM w usłudze Office 365
+# <a name="setup-dkim"></a>Konfiguracja DKIM
 
-Kompletne instrukcje dotyczące konfigurowania DKIM dla domen niestandardowych w usłudze Office 365 są [tutaj](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+Pełne instrukcje konfigurowania DKIM dla domen niestandardowych w usłudze Microsoft 365 znajdują [się tutaj](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
 
-1. Dla **każdej** domeny niestandardowe należy utworzyć **dwa** rekordy DKIM CNAME w usłudze hostingowej DNS domeny (zazwyczaj rejestratora domen). Na przykład contoso.com i fourthcoffee.com wymagają cztery rekordy DKIM CNAME: dwa dla domeny contoso.com i dwa dla fourthcoffee.com.
+1. Dla **każdej** domeny niestandardowej należy utworzyć **dwa** rekordy CNAME DKIM w usłudze hostingu DNS domeny (zazwyczaj rejestratora domen). Na przykład contoso.com i fourthcoffee.com wymagać czterech rekordów CNAME DKIM: dwóch dla contoso.com i dwóch dla fourthcoffee.com.
 
-   Rekordy DKIM CNAME dla **każdej** domeny niestandardowe użyć następujących formatów:
+   Rekordy CNAME DKIM dla **każdej** domeny niestandardowej używają następujących formatów:
 
    - **Nazwa hosta**:`selector1._domainkey.<CustomDomain>`
 
-     **Wskazuje adres lub wartość**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
+     **Wskazuje na adres lub wartość:**`selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
    - **Nazwa hosta**:`selector2._domainkey.<CustomDomain>`
 
-     **Wskazuje adres lub wartość**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **Wskazuje na adres lub wartość:**`selector2-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
-   \<DomainGUID\> tekst z lewej strony jest `.mail.protection.outlook.com` w dostosowanych rekord MX dla domeny niestandardowej (na przykład `contoso-com` dla domeny contoso.com). \<InitialDomain\> jest domena używana podczas rejestrowania się w usłudze Office 365 (na przykład contoso.onmicrosoft.com).
+   \<DomainGUID\> to tekst znajdujący `.mail.protection.outlook.com` się po lewej stronie w dostosowanym rekordzie MX dla domeny niestandardowej (na przykład `contoso-com` dla domeny contoso.com). \<InitialDomain\> to domena używana podczas konfigurowania usługi Microsoft 365 (na przykład contoso.onmicrosoft.com).
 
-2. Po utworzeniu rekordy CNAME dla domen niestandardowych, należy wykonać następujące instrukcje:
+2. Po utworzeniu rekordów CNAME dla domen niestandardowych wykonaj następujące instrukcje:
 
-   . [Zaloguj się do usługi Office 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) , potrzebne do tego będzie Twoje konto służbowe.
+   A. [zaloguj się do usługi Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) za pomocą konta służbowego.
 
-   b. Wybierz ikonę Uruchamianie aplikacji w lewym górnym rogu i wybierz pozycję **Administrator**.
+   B. Wybierz ikonę Uruchamianie aplikacji w lewym górnym rogu i wybierz pozycję **Administrator**.
 
-   c. W lewym dolnym nawigacji rozwiń **Admin** i wybierz **Exchange**.
+   C. W lewym dolnym lewym przycisku nawigacji rozwiń pozycję **Administrator** i wybierz pozycję **Exchange**.
 
-   d. Przejdź do **ochrony** > **DKIM**.
+   D. Przejdź do **ochrony** > **DKIM**.
 
-   e. Wybierz domenę, a następnie wybierz polecenie **Włącz** **znak**wiadomości dla tej domeny z podpisami DKIM. Powtórz ten krok dla każdej domeny niestandardowej.
+   E. Wybierz domenę, a następnie wybierz pozycję **Włącz** dla **sygnatariuszy wiadomości dla tej domeny z podpisami DKIM**. Powtórz ten krok dla każdej domeny niestandardowej.

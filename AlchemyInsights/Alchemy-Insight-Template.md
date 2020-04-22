@@ -1,9 +1,9 @@
 ---
-title: tak samo jak nazwa pliku jest Najlepsza
+title: tak samo jak nazwa pliku jest najlepsza
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
-ms.date: 4/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,30 +11,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e2dcca1295e37007593b34c2d818ad1d1133e4a1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "35800055"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676543"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Wymagane Alchemy header H1, H2 nie działają.
-Sprawdzone metody i wskazówki dotyczące tworzenia treści Alchemy:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Wymagane Alchemy Header H1, H2 nie działa.
+Najlepsze praktyki i wytyczne dotyczące tworzenia alchemii:
 
-1. **Nie zagnieżdżać Alchemy Insights w folderach**-spowoduje to przerwanie struktury URL. Patrzymy na naprawienie tego.
-1. Pliki w folderze **Alchemyinsights** powinny mieć małe nazwy plików z myślkami dla spacji ex. ***jak-wobec-umożliwiać-sądowym-Hold***.
-    1. Dołącz Identyfikator reguły lub identyfikator zasobnika z [portalu partnera Alchemy](https://alchemyportal.azurewebsites.net) w polu MS. Custom. Ex. ***MS. zwyczaj: 100021***
-1. Użyj pozostałej części metadanych w górnej części tego pliku jako szablonu.
-1. W [portalu dla partnerów Alchemy](https://alchemyportal.azurewebsites.net)przejdź w dół do sekcji **Customer Insight title:** i wykorzystaj to jako punkt wyjścia dla swojego tytułu H1 dla wglądu. 
+1. **Nie zagnieżdżaj Alchemy Insights w folderach**- spowoduje to przerwanie struktury adresów URL. Szukamy rozwiązania tego problemu.
+1. Pliki w folderze **AlchemyInsights** powinny zawierać małe nazwy plików z myślnikami dla spacji ex. ***how-to-enable-litigation-hold***.
+    1. W polu ms.custom należy uwzględnić identyfikator reguły lub identyfikator zasobnika z [portalu partnera alchemii.](https://alchemyportal.azurewebsites.net) Ex. ***ms.custom: 100021***
+1. Użyj pozostałych metadanych w górnej części tego pliku jako szablonu.
+1. W [portalu Alchemy Partner](https://alchemyportal.azurewebsites.net)przejdź do sekcji **Customer Insight Title:** i użyj tego jako punktu wyjścia dla swojego tytułu H1, aby uzyskać wgląd. 
     > [!NOTE]
-    > Alchemy Insights musi mieć tylko jeden H1 na górze lub będą one złamać w produkcji. H2s nie renderuje tak więc Użyj **pogrubienie** lub inne konwencje oznaczają oddzielne sekcje.
-1. Następnie wypełnij tekst treści za pomocą materiałów roboczych w sekcji Customer Insights na stronie reguła alchemii.
-    1. Listy wypunktowane są w porządku
-    1. Listy numerowane zbyt
-    1. **Pogrubienie** i *kursywa* są-OK
-    1. Łącza zawsze powinny być albo **"łącza do sieci Web"/External** lub **Deep-łącza do elementów interfejsu użytkownika**, a nie wewnętrzne łącza.
-    1. Zdjęcia nie są oficjalnie wspierane w tej chwili, ale to na planie.
+    > Alchemy Insights musi mieć tylko jeden H1 na górze lub będą one przerwy w produkcji. H2s nie renderują tak używać **pogrubienia** lub innych konwencji, aby oznaczać oddzielne sekcje.
+1. Następnie wypełnij tekst podstawowy, korzystając z projektu materiału w sekcji Customer Insights na stronie Reguła alchemii
+    1. Listy punktowane są w porządku
+    1. Ponumerowane listy też
+    1. **Pogrubienie** i *kursywa* są ok
+    1. Linki powinny być zawsze **albo "linki do sieci"/ zewnętrzne** lub **głębokie linki do elementów interfejsu użytkownika,** a nie linki wewnętrzne.
+    1. Zdjęcia nie są oficjalnie obsługiwane w tej chwili, ale jest na mapie drogowej.
 
-I to jest naprawdę już trochę za długo. Najlepsze praktyki jest około 400 znaków---------------------------------
+I to jest naprawdę już trochę za długo. Najlepszą praktyką jest około 400 znaków ---------------------------------
 
-Gdy zawartość będzie gotowa, pociągnij ją do gałęzi na żywo. Następnie przejdź do [portalu partnera Alchemy](https://alchemyportal.azurewebsites.net) i wprowadź nazwę pliku w polu URL. 
+Gdy zawartość będzie gotowa, przeciągnij ją do gałęzi na żywo. Następnie przejdź do [portalu Partner Alchemy](https://alchemyportal.azurewebsites.net) i wprowadź nazwę pliku w polu adresu URL. 

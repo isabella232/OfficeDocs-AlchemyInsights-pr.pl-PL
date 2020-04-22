@@ -1,9 +1,9 @@
 ---
-title: 1575 PowerApp oraz planowane rozszerzenie Flow firmy Microsoft
+title: Rozszerzenie planu 1575-PowerApps i Microsoft Flow
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 03/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: fbb0088756590e73d3236a46051e489b35e0ced5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18a73855a31cb1a701a3f3559156793ee5a80ecf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554736"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43667039"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Rozszerzenie planu PowerApp i Flow firmy Microsoft
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Rozszerzenie planu usługi PowerApps i usługi Microsoft Flow
 
-Jeśli zamierzasz żądania rozszerzenie planu **Przepływu firmy Microsoft** lub **PowerApp** i dzierżawcy ma już aktywnych użytkowników w jednej z następujących funkcji, nie ma w pliku żądania pomocy technicznej.
+Jeśli zamierzasz zażądać rozszerzenia planu dla **usługi Microsoft Flow** lub **PowerApps,** a dzierżawa ma już aktywnych użytkowników jednej z następujących funkcji, nie ma potrzeby składania żądania pomocy technicznej.
 
-- Tworzenie i publikację łączników niestandardowych w PowerApp i Flow firmy Microsoft
-- Akcje niestandardowe HTTP zintegrowane przepływu spoza programu SharePoint i OneDrive
-- Integracja danych lokalnych za pośrednictwem bramy danych lokalnych
+- Tworzenie i publikowanie łączników niestandardowych w aplikacjach PowerApps i Microsoft Flow
+- Akcje niestandardowe HTTP zintegrowane z programem Flow poza programem SharePoint i w usłudze OneDrive
+- Integracja danych lokalnych za pośrednictwem lokalnej bramy danych
 
-Otrzymają klienci z aktywnych użytkowników tych funkcji automatyczne przedłużenie aż do 31 stycznia 2020 r. lub po upływie terminu ich istniejących subskrypcji usługi Office 365, zależności, która wartość jest dłuższy.
+Klienci z aktywnymi użytkownikami tych funkcji otrzymają automatyczne przedłużenie do 31 stycznia 2020 r. lub wygaśnięcie istniejącego okresu subskrypcji usługi Microsoft 365, w zależności od tego, który z tych okresów jest dłuższy.
