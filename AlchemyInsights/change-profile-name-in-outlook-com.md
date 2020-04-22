@@ -1,9 +1,9 @@
 ---
-title: 8000006 zmiana nazwy profilu w Hotmail
+title: 8000006 Zmiana nazwy profilu w Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000006
 ms.assetid: 0e32c516-a5ff-4deb-9bf8-485febd3def8
-ms.openlocfilehash: 597d8ca1a468b2620f97d3c4a0a2a3ebf5e8df00
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 71ccabc7b4e75d462d59dcfd4907aedafeacad4b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518805"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706607"
 ---
-# <a name="change-your-profile-name"></a><span data-ttu-id="a832b-102">Zmiana nazwy profilu</span><span class="sxs-lookup"><span data-stu-id="a832b-102">Change your profile name</span></span>
+# <a name="change-your-profile-name"></a><span data-ttu-id="3d1fa-102">Zmienianie nazwy profilu</span><span class="sxs-lookup"><span data-stu-id="3d1fa-102">Change your profile name</span></span>
 
-1. <span data-ttu-id="a832b-103">Przejdź do [Microsoft Twoje informacje o koncie](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="a832b-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
+1. <span data-ttu-id="3d1fa-103">Przejdź do [informacji o koncie Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="3d1fa-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
     
-2. <span data-ttu-id="a832b-104">Wybierz polecenie **Edytuj nazwę**.</span><span class="sxs-lookup"><span data-stu-id="a832b-104">Select **Edit name**.</span></span> 
+2. <span data-ttu-id="3d1fa-104">Wybierz **pozycję Edytuj nazwę**.</span><span class="sxs-lookup"><span data-stu-id="3d1fa-104">Select **Edit name**.</span></span> 
     
-3. <span data-ttu-id="a832b-105">Wprowadź imię i nazwisko i wybierz przycisk **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="a832b-105">Enter a first name and last name, and select **Save**.</span></span> 
+3. <span data-ttu-id="3d1fa-105">Wprowadź imię i nazwisko, a następnie wybierz pozycję **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="3d1fa-105">Enter a first name and last name, and select **Save**.</span></span> 
     
-<span data-ttu-id="a832b-106">Może potrwać do 24 godzin dla zmiany nazwy profilu zostały wprowadzone.</span><span class="sxs-lookup"><span data-stu-id="a832b-106">Please allow up to 24 hours for changes to your profile name to take effect.</span></span>
+<span data-ttu-id="3d1fa-106">Prosimy o doczekać się do 24 godzin na wprowadzenie zmian w nazwie profilu.</span><span class="sxs-lookup"><span data-stu-id="3d1fa-106">Please allow up to 24 hours for changes to your profile name to take effect.</span></span>
   
-<span data-ttu-id="a832b-107">Aby dowiedzieć się więcej, zobacz [Zmienianie profilu fotografii lub nazwę w Hotmail](https://go.microsoft.com/fwlink/?linkid=873110).</span><span class="sxs-lookup"><span data-stu-id="a832b-107">To learn more, see [Change your profile photo or name in Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).</span></span>
+<span data-ttu-id="3d1fa-107">Aby dowiedzieć się więcej, zobacz [Zmienianie zdjęcia lub imienia i nazwiska w Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).</span><span class="sxs-lookup"><span data-stu-id="3d1fa-107">To learn more, see [Change your profile photo or name in Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).</span></span>
   
 

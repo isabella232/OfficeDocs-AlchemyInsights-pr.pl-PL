@@ -3,7 +3,7 @@ title: Usuwanie elementów lub opróżnianie Kosza witryny programu SharePoint
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3175"
-ms.openlocfilehash: 1766b9c54c0c9eb1574ab70f672f2fdec8cc3959
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: f035104d3a9c2a3d5c82d9753497fa5f4c9e6319
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922384"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704879"
 ---
-# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a><span data-ttu-id="2aa01-102">Usuwanie elementów lub opróżnianie Kosza witryny programu SharePoint</span><span class="sxs-lookup"><span data-stu-id="2aa01-102">Delete items or empty the Recycle Bin of a SharePoint site</span></span> 
+# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a><span data-ttu-id="1d7a4-102">Usuwanie elementów lub opróżnianie Kosza witryny programu SharePoint</span><span class="sxs-lookup"><span data-stu-id="1d7a4-102">Delete items or empty the Recycle Bin of a SharePoint site</span></span> 
 
-<span data-ttu-id="2aa01-103">Po usunięciu elementu z biblioteki dokumentów programu SharePoint lub listy, nie jest natychmiast usuwane z programu SharePoint.</span><span class="sxs-lookup"><span data-stu-id="2aa01-103">When you delete an item from a SharePoint document library or list, it isn’t immediately removed from SharePoint.</span></span> <span data-ttu-id="2aa01-104">Elementy usunięte przejdź do kosza witryny przez pewien okres czasu.</span><span class="sxs-lookup"><span data-stu-id="2aa01-104">Deleted items go into the site Recycle Bin for a period of time.</span></span> <span data-ttu-id="2aa01-105">W tym czasie można przywrócić elementy usunięte do ich pierwotnej lokalizacji lub usunąć je, aby zwolnić miejsce na dysku.</span><span class="sxs-lookup"><span data-stu-id="2aa01-105">During that time, you can restore the items you deleted to their original location, or remove them to free up storage space.</span></span>
+<span data-ttu-id="1d7a4-103">Usunięcie elementu z biblioteki lub listy dokumentów programu SharePoint nie jest natychmiast usuwane z programu SharePoint.</span><span class="sxs-lookup"><span data-stu-id="1d7a4-103">When you delete an item from a SharePoint document library or list, it isn’t immediately removed from SharePoint.</span></span> <span data-ttu-id="1d7a4-104">Usunięte elementy trafiają do Kosza na miejscu na pewien czas.</span><span class="sxs-lookup"><span data-stu-id="1d7a4-104">Deleted items go into the site Recycle Bin for a period of time.</span></span> <span data-ttu-id="1d7a4-105">W tym czasie można przywrócić usunięte elementy do ich pierwotnej lokalizacji lub usunąć je, aby zwolnić miejsce do magazynowania.</span><span class="sxs-lookup"><span data-stu-id="1d7a4-105">During that time, you can restore the items you deleted to their original location, or remove them to free up storage space.</span></span>
 
-[<span data-ttu-id="2aa01-106">Usuwanie elementów lub opróżnianie Kosza witryny programu SharePoint</span><span class="sxs-lookup"><span data-stu-id="2aa01-106">Delete items or empty the Recycle Bin of a SharePoint site</span></span>](https://support.office.com/article/delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site-2e713599-d13e-40d6-96dc-66f0a366f74e?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online)
+[<span data-ttu-id="1d7a4-106">Usuwanie elementów lub opróżnianie Kosza witryny programu SharePoint</span><span class="sxs-lookup"><span data-stu-id="1d7a4-106">Delete items or empty the Recycle Bin of a SharePoint site</span></span>](https://support.office.com/article/2e713599-d13e-40d6-96dc-66f0a366f74e)

@@ -1,9 +1,9 @@
 ---
-title: Użycie niestandardowych profili Windows Intune
+title: Używanie profilów niestandardowych w usłudze Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: def82b1a49afebd89e9b3cdca163f4159faf7972
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c7908ef11a26fd83ca83e8c134708687f6d750f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531765"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710489"
 ---
-# <a name="using-custom-policy-in-intune"></a><span data-ttu-id="43160-102">Za pomocą niestandardowych zasad w Windows Intune</span><span class="sxs-lookup"><span data-stu-id="43160-102">Using custom policy in Intune</span></span>
+# <a name="using-custom-policy-in-intune"></a><span data-ttu-id="cc3c6-102">Korzystanie z zasad niestandardowych w usłudze Intune</span><span class="sxs-lookup"><span data-stu-id="cc3c6-102">Using custom policy in Intune</span></span>
 
-<span data-ttu-id="43160-103">Windows Intune zawiera wiele wbudowane ustawienia dla urządzeń Android, iOS, Mac OS i Windows.</span><span class="sxs-lookup"><span data-stu-id="43160-103">Intune has many settings built-in for Android, iOS, macOS and Windows devices.</span></span> <span data-ttu-id="43160-104">Można również utworzyć niestandardowy profil, a następnie wdrożyć te ustawienia niestandardowe do urządzeń za pomocą Windows Intune.</span><span class="sxs-lookup"><span data-stu-id="43160-104">You can also create a custom profile, and then deploy these custom settings to your devices using Intune.</span></span> <span data-ttu-id="43160-105">Profile niestandardowe są przeznaczone do dodać ustawienia urządzenia i funkcje, które nie są wbudowane usługi Intune.</span><span class="sxs-lookup"><span data-stu-id="43160-105">Custom profiles are designed to add device settings and features that aren't built in to Intune.</span></span>
+<span data-ttu-id="cc3c6-103">Usługa Intune ma wiele ustawień wbudowanych dla urządzeń z systemem Android, iOS, macOS i Windows.</span><span class="sxs-lookup"><span data-stu-id="cc3c6-103">Intune has many settings built-in for Android, iOS, macOS and Windows devices.</span></span> <span data-ttu-id="cc3c6-104">Można również utworzyć profil niestandardowy, a następnie wdrożyć te ustawienia niestandardowe na urządzeniach przy użyciu usługi Intune.</span><span class="sxs-lookup"><span data-stu-id="cc3c6-104">You can also create a custom profile, and then deploy these custom settings to your devices using Intune.</span></span> <span data-ttu-id="cc3c6-105">Profile niestandardowe służą do dodawania ustawień urządzenia i funkcji, które nie są wbudowane w usługę Intune.</span><span class="sxs-lookup"><span data-stu-id="cc3c6-105">Custom profiles are designed to add device settings and features that aren't built in to Intune.</span></span>
 
-[<span data-ttu-id="43160-106">Niestandardowe ustawienia dla android w Windows Intune</span><span class="sxs-lookup"><span data-stu-id="43160-106">Custom settings for Android devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android)
+[<span data-ttu-id="cc3c6-106">Ustawienia niestandardowe dla urządzeń z systemem Android w usłudze Intune</span><span class="sxs-lookup"><span data-stu-id="cc3c6-106">Custom settings for Android devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android)
 
-[<span data-ttu-id="43160-107">Niestandardowe ustawienia dla urządzenia Android Enterprise w Windows Intune</span><span class="sxs-lookup"><span data-stu-id="43160-107">Custom settings for Android Enterprise devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[<span data-ttu-id="cc3c6-107">Ustawienia niestandardowe dla urządzeń z systemem Android Enterprise w usłudze Intune</span><span class="sxs-lookup"><span data-stu-id="cc3c6-107">Custom settings for Android Enterprise devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-[<span data-ttu-id="43160-108">Niestandardowe ustawienia dla urządzeń iOS w Windows Intune</span><span class="sxs-lookup"><span data-stu-id="43160-108">Custom settings for iOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-ios)
+[<span data-ttu-id="cc3c6-108">Ustawienia niestandardowe dla urządzeń z systemem iOS w usłudze Intune</span><span class="sxs-lookup"><span data-stu-id="cc3c6-108">Custom settings for iOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[<span data-ttu-id="43160-109">Niestandardowe ustawienia dla urządzenia macOS w Windows Intune</span><span class="sxs-lookup"><span data-stu-id="43160-109">Custom settings for macOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-macos)
+[<span data-ttu-id="cc3c6-109">Ustawienia niestandardowe dla urządzeń z systemem macOS w usłudze Intune</span><span class="sxs-lookup"><span data-stu-id="cc3c6-109">Custom settings for macOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[<span data-ttu-id="43160-110">Niestandardowe ustawienia dla urządzenia systemu Windows 10 w Windows Intune</span><span class="sxs-lookup"><span data-stu-id="43160-110">Custom settings for Windows 10 devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[<span data-ttu-id="cc3c6-110">Ustawienia niestandardowe dla urządzeń z systemem Windows 10 w usłudze Intune</span><span class="sxs-lookup"><span data-stu-id="cc3c6-110">Custom settings for Windows 10 devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[<span data-ttu-id="43160-111">Niestandardowe ustawienia dla Windows podrabianego dla urządzeń firmy w Windows Intune</span><span class="sxs-lookup"><span data-stu-id="43160-111">Custom settings for Windows Holographic for Business devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[<span data-ttu-id="cc3c6-111">Ustawienia niestandardowe dla urządzeń holograficznych systemu Windows dla firm w usłudze Intune</span><span class="sxs-lookup"><span data-stu-id="cc3c6-111">Custom settings for Windows Holographic for Business devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
