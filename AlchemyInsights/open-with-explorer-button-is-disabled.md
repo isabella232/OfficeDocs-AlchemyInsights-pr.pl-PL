@@ -1,9 +1,9 @@
 ---
-title: Przycisku Otwórz w Eksploratorze jest wyłączona.
+title: Przycisk Otwórz za pomocą Eksploratora jest wyłączony
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/19/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 9483dbaa45c8c3a5c59fb8a318bf6564dd7b1b6f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dd23a4228c930cc7c934c2943cc1e1080da253df
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548365"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713116"
 ---
-# <a name="the-open-with-explorer-button-is-disabled"></a>Przycisku Otwórz w Eksploratorze jest wyłączona.
+# <a name="the-open-with-explorer-button-is-disabled"></a>Przycisk Otwórz z Eksploratorem jest wyłączony
 
-- Przejdź do lokalizacji programu SharePoint lub OneDrive w programie Internet Explorer 10 lub Internet Explorer 11. Ten przycisk nie jest zgodna z innych przeglądarek sieci web.
+- Przejdź do lokalizacji programu SharePoint lub OneDrive w programie Internet Explorer 10 lub Internet Explorer 11. Przycisk nie jest zgodny z innymi przeglądarkami internetowymi.
     
 > [!NOTE]
-> Otwieranie biblioteki w Eksploratorze plik jest przydatny, jeśli trzeba kopiować lub przenosić wiele plików lub folderów po, ale jeśli chcesz regularnie pracują w bibliotece, firma Microsoft zaleca synchronizację. Aby uzyskać dodatkową pomoc i Rozwiązywanie innych problemów z otwieraniem w Eksploratorze plików Zobacz [Otwórz w Eksploratorze](https://go.microsoft.com/fwlink/?linkid=871665). Aby uzyskać informacje dotyczące konfigurowania synchronizacji zobacz [pliki synchronizacji programu SharePoint z nowego klienta synchronizacji OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Otwieranie biblioteki w Eksploratorze plików jest przydatne, jeśli chcesz raz skopiować lub przenieść wiele plików i folderów, ale jeśli chcesz regularnie pracować w bibliotece, zalecamy jej synchronizację. Aby uzyskać więcej pomocy i rozwiązać inne problemy z otwieraniem się w Eksploratorze plików, zobacz [Otwieranie w Eksploratorze](https://go.microsoft.com/fwlink/?linkid=871665). Aby uzyskać informacje dotyczące konfigurowania synchronizacji, zobacz [Synchronizowanie plików programu SharePoint z nowym klientem synchronizacji usługi OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

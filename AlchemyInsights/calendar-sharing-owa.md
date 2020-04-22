@@ -1,5 +1,5 @@
 ---
-title: Udostępnianie kalendarza 616
+title: 616 Udostępnianie kalendarza
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,19 +12,19 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: e3ebeaef819945562d1e7e4d6a41430a9525d69d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c0e444f0e87748aff172d3070c25e0ed02682b0a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665626"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712001"
 ---
-# <a name="isues-with-calendar-sharing-in-outlook"></a>Isues z programu Outlook do udostępniania kalendarza
+# <a name="isues-with-calendar-sharing-in-outlook"></a>Isues z udostępnianiem kalendarza w programie Outlook
 
-- Jeśli nie widzisz informacji o czasie wolnym/zajętym w swoim kalendarzu lub innych kalendarzach albo jeśli inne osoby nie widzą tych informacji w Twoim kalendarzu, użyj [Asystenta odzyskiwania i pomocy technicznej firmy Microsoft dla usługi Office 365](https://diagnostics.office.com/).
+- Jeśli w innych kalendarzach nie widzisz informacji o kalendarzu wolny/zajęty lub jeśli inne osoby nie widzą informacji wolnych/zajętych w kalendarzu, użyj Asystenta pomocy technicznej i odzyskiwania firmy [Microsoft dla usługi Microsoft 365](https://diagnostics.office.com/).
 
 **Dodatkowe zasoby:**
 
 - [Udostępnianie kalendarza programu Outlook innym osobom](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-- [Udostępnianie kalendarza w programie Outlook w sieci web dla firm](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Udostępnianie kalendarza w aplikacji Outlook dla firm w sieci Web](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)

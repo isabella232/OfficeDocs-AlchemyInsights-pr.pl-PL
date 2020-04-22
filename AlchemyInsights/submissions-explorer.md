@@ -1,22 +1,22 @@
 ---
-title: Nowa funkcja 2554 do diagnozowania podniesienie poziomu uprawnień i ATP
+title: 2554 Nowa funkcja ułatwiające diagnozowanie EOP i ATP
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2554
 ms.assetid: ''
-ms.openlocfilehash: 0d7990f78864882b3714b5e0bdacd6ecf7f373d4
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: e5beb273d598ba81fe54e150f54d870c80f5eb22
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391433"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43718167"
 ---
-# <a name="new-feature-to-help-diagnose-eop-and-atp"></a>Nowa funkcja, aby pomóc w zdiagnozowaniu podniesienie poziomu uprawnień i ATP
+# <a name="new-feature-to-help-diagnose-eop-and-atp"></a>Nowa funkcja ułatwiające diagnozowanie EOP i ATP
 
-Jako administrator możesz teraz łatwo zgłosić podejrzanych wiadomościach e-mail, adresy URL i zawartości do firmy Microsoft w [Eksploratorze zgłoszeń](https://protection.office.com/reportsubmission). Można nawet użyć ułatwi zrozumienie, dlaczego uzasadniony wiadomość została oflagowana niepoprawnie. Aby uzyskać więcej informacji zobacz ten [anons](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).
+Jako administrator możesz teraz łatwo zgłaszać podejrzane wiadomości e-mail, adresy URL i zawartość do firmy Microsoft w [Eksploratorze przesyłania](https://protection.office.com/reportsubmission). Można go nawet użyć, aby zrozumieć, dlaczego legalna wiadomość została oflagowana niepoprawnie. Aby uzyskać więcej informacji, zobacz to [ogłoszenie](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).

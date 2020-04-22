@@ -1,9 +1,9 @@
 ---
-title: Wystąpił błąd podczas wysyłania wiadomości e-mail zablokowanych przez SpamHaus
+title: Błąd podczas wysyłania wiadomości e-mail zablokowany przez SpamHaus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "255"
 - "3100003"
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: 39213f6f1b96c2bef9ea071f43c38766debf64d1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ff4f7a155fe74f5b42a1bd43e67ef0a751d7fbd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527151"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714268"
 ---
-# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Wystąpił błąd podczas wysyłania poczty e-mail: klient host blokowane przy użyciu Spamhaus
+# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Błąd podczas wysyłania wiadomości e-mail: Host klienta zablokowany za pomocą spamhausu
 
-Adres IP, który wysłał wiadomość jest na liście zablokowanych posiadanych przez [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245). Powody blokowana przez Spamhaus obejmują dotyczących konta, zagrożone maszyn dzielenie publiczny adres IP, a zasady dostawcy usług internetowych (ISP). Ewentualnych poprawek są:
+Adres IP, który wysłał wiadomość, znajduje się na liście zablokowanych należącej do [spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245). Przyczyny zablokowania przez spamhaus obejmują przejęte konta, przejęte maszyny udostępniające publiczny adres IP oraz zasady dostawcy usług internetowych (ISP). Możliwe poprawki to:
   
-- Zablokowane wiadomości przychodzących do której Kontrola źródłowego serwera e-mail usługi Office 365 należy ustalić przyczynę i Usuń blok z Spamhaus witryny sieci Web.
+- W przypadku zablokowanych wiadomości przychodzących, w których użytkownik kontroluje źródłowy serwer poczty e-mail, należy ustalić przyczynę i usunąć blok ze strony internetowej Spamhaus.
 
-- Zablokowane wiadomości przychodzących do usługi Office 365, gdy źródłowy adres IP należy do kogoś innego właściciel adres musi blokada została usunięta z witryny Spamhaus. Jeśli adres IP jest na liście bloku zasad (PBL), właściciel można przypisać różne statyczny adres IP lub usunąć adres z PBL.
+- W przypadku zablokowanych wiadomości przychodzących, w których źródłowy adres IP należy do innej osoby, właściciel adresu musi usunąć blok ze strony internetowej Spamhaus. Jeśli adres IP znajduje się na liście blokowania zasad (PBL), właściciel może przypisać inny statyczny adres IP lub usunąć adres z PBL.
 
-- Zablokowane wiadomości wychodzących z domeny usługi Office 365 można otrzymać ten błąd, jeśli wiadomości są routowane przez 3 usługa firmy. Można użyć narzędzia wyszukiwania WHOIS odnaleźć właściciela zablokowanych adresów IP.
+- W przypadku zablokowanych wiadomości wychodzących z domeny połączonej z firmą Microsoft ten błąd może być wyświetlony, jeśli wiadomości są kierowane za pośrednictwem usługi innej firmy. Można użyć narzędzia wyszukiwania WHOIS, aby znaleźć zablokowanego właściciela adresu IP.

@@ -1,9 +1,9 @@
 ---
-title: Zablokować otrzymywanie wiadomości do folderu wiadomości-śmieci wiadomości E-mail w Hotmail
+title: Zatrzymywać wiadomości przed przejściem do folderu Wiadomości-śmieci w Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/16/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 062a0d9bfbd83ed40457f603cc739e3a916c7045
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1da0c7b67c1f09f6ed6589848ddd2d4e5a5775a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511929"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710957"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Zablokować otrzymywanie wiadomości do folderu wiadomości-śmieci wiadomości E-mail
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Zatrzymywać przechodzenie wiadomości do folderu Wiadomości-śmieci
 
-Jeśli użytkownik odkryje, że wiadomości e-mail w folderze wiadomości-śmieci programu Hotmail nie jest wiadomości-śmieci:
+Jeśli odkryjesz, że wiadomość e-mail w folderze Wiadomości-śmieci w Outlook.com nie jest śmieciowa:
 
-1. Otwórz [folder wiadomości-śmieci wiadomości E-mail](https://outlook.live.com/mail/junkemail).
-1. Zaznacz wiadomość. (*Uwaga:* elementów w folderze wiadomości-śmieci wiadomości E-mail są usuwane po 30 dniach.)
-1. Powyżej liście wiadomości zaznacz **Wiadomość niebędąca śmieciem** > **Wiadomość niebędąca śmieciem**.
+1. Otwórz [folder Wiadomości-śmieci](https://outlook.live.com/mail/junkemail).
+1. Wybierz wiadomość. (*Uwaga:* Elementy w folderze Wiadomości-śmieci są usuwane po 30 dniach).
+1. Nad listą wiadomości wybierz pozycję **Nie śmieci** > **nie są śmieciami.**
 
-Jeśli chcesz uniemożliwić wszystkie wiadomości od nadawcy, przechodząc do folderu wiadomości-śmieci wiadomości E-mail, należy dodać nadawcę do listy bezpiecznych nadawców:
+Jeśli chcesz uniemożliwić wysyłaniu wiadomości od nadawcy do folderu Wiadomości-śmieci, dodaj nadawcę do listy bezpiecznych nadawców:
 
-1. Otwórz [Ustawienia poczty e-mail wiadomości-śmieci](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. W obszarze **bezpiecznych nadawców i domen**wybierz opcję **Dodaj**, wpisz adres e-mail lub domenę, którą chcesz dodać i wybierz przycisk **Zapisz**.
+1. Otwórz [ustawienia wiadomości-śmieci](https://go.microsoft.com/fwlink/?linkid=2035804).
+1. W obszarze **Bezpieczni nadawcy i domeny**wybierz pozycję **Dodaj**, wprowadź adres e-mail lub domenę, którą chcesz dodać, a następnie wybierz pozycję **Zapisz**.
 
-Aby dowiedzieć się więcej, przeczytaj [oznaczyć wiadomości e-mail jako wiadomości-śmieci lub blok nadawców w Hotmail](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Aby dowiedzieć się więcej, przeczytaj [opcję Oznaczanie wiadomości e-mail jako wiadomości-śmieci lub blokowanie nadawców w Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

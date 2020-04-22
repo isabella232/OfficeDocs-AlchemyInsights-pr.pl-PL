@@ -1,9 +1,9 @@
 ---
-title: Office 365 dla rządu plany i ceny
+title: Plany i ceny usługi Office 365 dla instytucji rządowych
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9efe8473b56f1483076f86fe19c2af52201155bc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522129"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713368"
 ---
-# <a name="office-365-government-plans"></a>Plany Office 365 dla instytucji rządowych
+# <a name="office-365-government-plans"></a>Plany usługi Office 365 dla instytucji rządowych
 
-Plany usługi Office 365 Rząd Stanów Zjednoczonych są przeznaczone do szczególnych potrzeb organizacji rządowych USA. Zapewniają one wszystkie funkcje i możliwości usługi Office 365 we Wspólnocie chmury Rząd podzielonej na segmenty, co umożliwia organizacjom spełniają normy bezpieczeństwa i zgodności z przepisami USA.
+Plany usługi Office 365 U.S. Government są przeznaczone do wyjątkowych potrzeb organizacji rządowych STANÓW Zjednoczonych. Zapewniają one wszystkie funkcje i możliwości usług Office 365 w podzielonej na segmenty społeczności chmury rządowej, która umożliwia organizacjom spełnianie standardów zgodności i zabezpieczeń w USA.
   
 - [Przegląd planów rządu](https://products.office.com/government/compare-office-365-government-plans)
 
-- [Porównaj wszystkie plany usługi Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Porównaj wszystkie subskrypcje usługi Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)

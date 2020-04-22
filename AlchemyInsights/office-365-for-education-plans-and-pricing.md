@@ -1,9 +1,9 @@
 ---
-title: Office 365 dla edukacji plany i ceny
+title: Plany i ceny usługi Office 365 dla szkół wyższych
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: d18a38cfd18c053313ed43ecfbf0f7fdc2a5dd19
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 01a75079f56c5ff91e54e2a085d9969521bab82c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389478"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713404"
 ---
-# <a name="get-office-365-free-for-your-entire-school"></a>Uzyskaj bezpłatne Office 365 dla całej szkoły
+# <a name="get-microsoft-365-free-for-your-entire-school"></a>Uzyskaj usługę Microsoft 365 za darmo dla całej szkoły
 
-Poprawy współpracy w klasie i szkole z bezpłatne narzędzia ułatwiające pracę. Należy sprawdzić, czy jesteś akredytowanej instytucji akademickich, aby skorzystać z tych ofert.
+Usprawnij współpracę w klasie i szkole dzięki bezpłatnym narzędziom zwiększającym produktywność. Aby skorzystać z tych ofert, musisz sprawdzić, czy jesteś akredytowanym instytucją akademicką.
   
-- [Przegląd planów edukacji](https://products.office.com/academic/compare-office-365-education-plans)
+- [Zapoznaj się z planami edukacyjnym](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [Porównaj wszystkie plany usługi Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Porównaj wszystkie subskrypcje usługi Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)

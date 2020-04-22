@@ -1,9 +1,9 @@
 ---
-title: Identyfikowanie Usuń wiadomość zdarzeń w dziennikach inspekcji
+title: Identyfikowanie zdarzeń usuwania wiadomości w dziennikach inspekcji
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: b358b7944b82182a8551d64701e6879a01816524
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539219"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716506"
 ---
-# <a name="audit-logs-for-deleted-email-messages"></a>Dzienniki inspekcji dla usunięte wiadomości e-mail
+# <a name="audit-logs-for-deleted-email-messages"></a>Dzienniki inspekcji usuniętych wiadomości e-mail
 
-Począwszy od stycznia 2019, Microsoft jest włączenie rejestrowania domyślnie inspekcji skrzynki pocztowej. W przeciwnym razie Aby przejrzeć delete komunikat zdarzenia dla określonego użytkownika, należy ręcznie włączyć akcje usuwania w celu prowadzenia inspekcji. Jeśli skrzynka pocztowa inspekcji rejestrowanie jest już włączone dla danej organizacji lub dla określonego użytkownika, wykonaj następujące kroki.
+Począwszy od stycznia 2019 r., firma Microsoft domyślnie włącza rejestrowanie inspekcji skrzynek pocztowych. W przeciwnym razie, aby przejrzeć zdarzenia usuwania wiadomości dla określonego użytkownika, należy ręcznie włączyć akcje usuwania do inspekcji. Jeśli rejestrowanie inspekcji skrzynki pocztowej jest już włączone dla twojej organizacji lub dla określonego użytkownika, wykonaj poniższe czynności.
 
-1. Zaloguj się do [Centrum zgodności Office 365 zabezpieczeń &](https://protection.office.com/)
+1. Zaloguj się do [Centrum zgodności & zabezpieczeń usługi Microsoft 365](https://protection.office.com/)
 
-2. Kliknij przycisk **Wyszukaj i dochodzenia** i wybierz **Przeszukiwania dzienników inspekcji**.
+2. Kliknij **pozycję Wyszukaj i przeszukuj** i wybierz pozycję **Wyszukiwanie dziennika inspekcji**.
 
-3. Wybierz zakres dat w polach **Data początkowa** i **Data końcowa** . Umożliwia określenie nazwy użytkownika dla użytkownika, który chcesz zbadać (użytkownik, który elementy usunięte). W dziedzinie **działalności** wybierz opcję **usunięte wiadomości z folderu Elementy usunięte** i **wiadomości przenoszonych do folderu Elementy usunięte**.
+3. Wybierz zakres dat w polach **Data rozpoczęcia** i **Data zakończenia.** Określ nazwę użytkownika, który chcesz zbadać (użytkownik, który usunął elementy). W polu **Działania** wybierz folder **Usunięte wiadomości z folderu Elementy usunięte** i folder **Przeniesiono wiadomości do folderu Elementy usunięte**.
 
-4. Kliknij przycisk **Wyszukaj**.
+4. Kliknij **pozycję Wyszukaj**.
 
-W wynikach wybierz rekord audytu. W menu wysuwane Szczegóły kliknij przycisk **Więcej informacji**. Dodatkowe informacje o usunięty element (na przykład, wiersz tematu i lokalizacji elementu, gdy został usunięty) jest wyświetlana w polu **AffectedItems** . Właściwość **ClientInfoString** pokaże, czy usunięcie pojawił się w programie Outlook, program Outlook w sieci web (dawniej znany jako aplikacji sieci Web programu Outlook) lub inne urządzenie.
+W wynikach wybierz rekord inspekcji. W wysu wysu wysu wysunął szczegóły kliknij pozycję **Więcej informacji**. Dodatkowe informacje o usuniętym elemencie (na przykład wiersz tematu i lokalizacja elementu, gdy został usunięty) są wyświetlane w polu **AffectedItems.** **Właściwość ClientInfoString** zostanie wyświetlena, jeśli usunięcie nastąpiło w programie Outlook, w programie Outlook w sieci Web (wcześniej znanej jako outlook web app) lub na jakimkolwiek innym urządzeniu.
 
-Aby uzyskać więcej informacji zobacz [Określanie, która skonfigurowała przekazywanie dla skrzynki pocztowej wiadomości e-mail](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
+Aby uzyskać więcej informacji, zobacz [Określanie, kto skonfigurował przekazywanie poczty e-mail dla skrzynki pocztowej](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
 
-**Uwaga**: nie można pobrać elementy usunięte za pomocą funkcji dziennika inspekcji. Aby odzyskać usunięte wiadomości w programie Outlook w sieci web, zobacz [Odzyskiwanie usuniętych elementów w programie Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
+**Uwaga:** Nie można pobrać usuniętych elementów przy użyciu funkcji dziennika inspekcji. Aby pobrać usunięte wiadomości w aplikacji Outlook w sieci Web, zobacz [Odzyskiwanie usuniętych elementów w aplikacji Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

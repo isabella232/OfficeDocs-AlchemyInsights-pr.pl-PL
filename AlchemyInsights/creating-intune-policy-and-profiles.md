@@ -1,9 +1,9 @@
 ---
-title: Tworzenie profili Windows Intune i profile
+title: Tworzenie zasad i profili usługi Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 11516232e7ad1fb1d54f07bccd31d586d5c04d42
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fac2a9e41449b4eb9b87d21d4cba4f6f5192d9c6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514773"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715406"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Tworzenie zasady Intune i profile
+# <a name="creating-intune-policy-and-profiles"></a>Tworzenie zasad i profili usługi Intune
 
-W usłudze Intune można utworzyć zasady i profile, które to różne rzeczy.
+W usłudze Intune można tworzyć zasady i profile, które wykonują różne czynności.
 
-- **Profile rejestracji**: wstępnie skonfigurować urządzenia przez platformę, Włącz koligacji użytkownika, użyj wieloczynnikowe uwierzytelnianie i więcej.
+- **Profile rejestracji**: Wstępnie skonfiguruj urządzenia według platformy, włącz koligację użytkownika, użyj uwierzytelniania wieloskładnikowego i nie tylko.
 
-  [Co to jest rejestracja urządzenia](https://docs.microsoft.com/intune/device-enrollment)i utworzyć profile rejestracji dla [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [Mac OS](https://docs.microsoft.com/intune/macos-enroll)i [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) są dobre zasobów.
+  [Co to jest rejestracja urządzeń](https://docs.microsoft.com/intune/device-enrollment)i tworzenie profili rejestracji dla [systemu Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll)i [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) są dobrymi zasobami.
 
-- **Zasady zgodności**: Definiowanie reguł i ustawień, które urządzenia należy wykonać, aby być zgodne. Można także użyć zasady zgodności urządzeń i powiadamiania użytkowników o niezgodności.
+- **Zasady zgodności:** Zdefiniuj reguły i ustawienia, których urządzenia muszą przestrzegać, aby były zgodne. Można również użyć zasad zgodności do monitorowania urządzeń i powiadamiania użytkowników o niezgodności.
 
-  Zacznij korzystać z [zasady zgodności urządzeń](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Zasady dostępu warunkowego**: Pomoc bezpieczne zasobów organizacji, w zależności od warunków, które należy wprowadzić. Na przykład w przypadku urządzeń, które nie są zgodne z korzystać z dostępu warunkowego do ograniczania dostępu do poczty e-mail i programu SharePoint.
+  Wprowadzenie do [zasad zgodności urządzeń](https://docs.microsoft.com/intune/device-compliance-get-started).
+- **Zasady dostępu warunkowego**: Pomóż zabezpieczyć zasoby organizacyjne, w zależności od wprowadzonych warunków. Na przykład w przypadku urządzeń, które nie są zgodne, użyj dostępu warunkowego, aby ograniczyć dostęp do poczty e-mail i programu SharePoint.
 
-  [Co to jest dostępu warunkowego](https://docs.microsoft.com/intune/conditional-access) i [Typowe sposoby użycia dostępu warunkowego](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) są dobre zasobów Rozpoczęcie pracy.
+  [Co to jest dostęp warunkowy](https://docs.microsoft.com/intune/conditional-access) i [typowe sposoby korzystania z dostępu warunkowego](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) są dobre zasoby, aby rozpocząć.
 
-- **Profile konfiguracji**: Zarządzanie funkcjami i ustawienia urządzeń, w tym ustawienia poczty e-mail, dodawanie sieci Wi-Fi, Użyj wbudowanych szablonów, funkcje kontroli iOS i macOS urządzenia i inne.
+- Profile konfiguracji : Zarządzanie **funkcjami**i ustawieniami na urządzeniach, w tym ustawieniami poczty e-mail, dodawanie sieci Wi-Fi, używanie wbudowanych szablonów, sterowanie funkcjami urządzeń z systemem iOS i macOS i inne.
 
-  Rozpocznij z [profilów konfiguracji urządzenia](https://docs.microsoft.com/intune/device-profiles).
+  Rozpocznij pracę w [profilach konfiguracji urządzenia](https://docs.microsoft.com/intune/device-profiles).
 
-Przydatne łącza:
+Pomocne linki:
 
-- [Typowe pytania, problemy i rozwiązania z zasady dotyczące urządzeń i profile w Windows Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Typowe pytania, problemy i rozwiązania z zasadami i profilami urządzeń w usłudze Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Rozwiązywanie problemów z profilów w Windows Intune i zasady](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Rozwiązywanie problemów z zasadami i profilami w usłudze Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)

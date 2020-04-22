@@ -1,8 +1,8 @@
 ---
-title: Identyfikator reguły wdrażania aplikacji Windows Intune 991
+title: Identyfikator reguły wdrażania aplikacji usługi Intune 991
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: eb425bfc9fcc16a3a5b144794ced1f81209ef30e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498281"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714016"
 ---
-# <a name="intune-app-deployment"></a>Wdrażanie aplikacji Windows Intune
+# <a name="intune-app-deployment"></a>Wdrażanie aplikacji usługi Intune
 
-Wdrażanie aplikacji za pomocą Windows Intune jest się z trzech etapów:
+Wdrażanie aplikacji za pomocą usługi Intune jest procesem trzyetapowym:
   
-1. **Dodawanie aplikacji** - można dodać aplikację App Store lub przekazać aplikację działalności.
+1. **Dodawanie aplikacji** — możesz dodać aplikację ze Sklepu App Store lub przesłać aplikację business.
 
-2. **Przypisywanie aplikacji** — Określanie zakresu wdrażania aplikacji.
+2. **Przypisywanie aplikacji** — określa zakres wdrażania aplikacji.
 
-3. **Aplikacje do monitorowania** - wyświetlanie stanu instalacji aplikacji, lista wykrytych aplikacji i zarządzanie aplikacjami w sklepie z aplikacji.
+3. **Monitorowanie aplikacji** — wyświetlanie stanu instalacji aplikacji, wyświetlanie listy odnalezionych aplikacji i zarządzanie aplikacjami zakupionymi w sklepach z aplikacjami.
 
-Przeczytaj [Co to jest zarządzanie aplikacjami Windows Intune](https://docs.microsoft.com/intune/app-management) instruktaże i informacji na temat konfigurowania i ochrona aplikacji.
+Przeczytaj, [co to jest Zarządzanie aplikacjami usługi Intune,](https://docs.microsoft.com/intune/app-management) aby zapoznać się z przewodnikami i informacjami na temat konfigurowania i ochrony aplikacji.
   

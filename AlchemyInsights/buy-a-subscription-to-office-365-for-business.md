@@ -1,5 +1,5 @@
 ---
-title: Kupowanie subskrypcji usługi Office 365 dla firm
+title: Kup subskrypcję usługi Microsoft 365 dla firm w ramach bezpłatnej wersji próbnej
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: a8f44428363a2e507003b524b98a94748bdf5505
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218190"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712217"
 ---
-# <a name="buy-a-subscription-to-office-365-for-business"></a>Kupowanie subskrypcji usługi Office 365 dla firm
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Kup subskrypcję usługi Microsoft 365 w ramach bezpłatnej wersji próbnej
 
-Po wypróbowaniu usługi Office 365 chcesz dokonać zakupu. Przy zakupie usługi Office 365 z wersji próbnej dostępne są dwie opcje:
+Próbowałeś microsoftu 365, a teraz możesz kupić. Przy zakupie usługi Microsoft 365 z wersji próbnej dostępne są dwie opcje:
   
  **Kupowanie tego samego planu, z którego korzystano w wersji próbnej**
   
@@ -35,7 +35,7 @@ Po wypróbowaniu usługi Office 365 chcesz dokonać zakupu. Przy zakupie usługi
 
 3. Znajdź subskrypcję, którą chcesz kupić, wybierz pozycję **Kup**i postępuj zgodnie z instrukcjami, aby to sprawdzić.
 
-Aby dowiedzieć się więcej, zobacz [Kupowanie subskrypcji usługi Office 365 dla firm z bezpłatnej wersji próbnej](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Aby dowiedzieć się więcej, zobacz [Kupowanie subskrypcji usługi Microsoft 365 dla firm z bezpłatnej wersji próbnej](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
 
 **Rozwiązywanie problemów**
 

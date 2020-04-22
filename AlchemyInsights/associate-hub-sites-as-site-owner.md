@@ -1,9 +1,9 @@
 ---
-title: Kojarzenie lokacji centrum jako właściciela witryny
+title: Skojarz witryny centrum jako właściciel witryny
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000717"
 - "2638"
-ms.openlocfilehash: ecf505a0a3a7851c919f3949321c6b048b904780
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: fa9813ad8dd99777fb9c3c33b1bf83217f3e1c64
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122483"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712504"
 ---
-# <a name="associate-hub-sites-as-site-owner"></a>Kojarzenie lokacji centrum jako właściciela witryny
+# <a name="associate-hub-sites-as-site-owner"></a>Skojarz witryny centrum jako właściciel witryny
 
-[Centrum wiadomości 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) udostępnione jak dołączenie do centrum programu SharePoint mogą być teraz wykonywane przez właścicieli witryn. Jeśli organizacja chce zarządzać konkretnymi osobami, które można skojarzyć z koncentratorem, wykonaj następujące kroki: 
+[Centrum wiadomości 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) udostępniło sposób dołączania do centrum programu SharePoint przez właścicieli witryn. Jeśli twoja organizacja chce zarządzać określonymi osobami, które mogą skojarzyć z koncentratorem, wykonaj następujące kroki: 
 
-1. Zaloguj się do pakietu Office 365[https://portal.office.com](https://portal.office.com)() z uprawnieniami administratora.
-2. Wybierz program **uruchamiający aplikacje** (ikonę z dziewięcioma kwadratami) w lewym górnym rogu ekranu, a następnie wybierz pozycję **administrator**.
-3. Wybierz **Centrum administracyjnego** z menu po lewej stronie ekranu, a następnie wybierz **SharePoint**.
-4. Na niebieskim transparencie u góry ekranu wybierz pozycję **Uruchom aplikację teraz** , aby wyświetlić nowe centrum administracyjne programu SharePoint.
-5. Na wyświetlaczu po lewej stronie ekranu wybierz **witryny** z menu, a następnie wybierz **aktywne witryny**.
-6. Sprawdź witrynę koncentratora, w której chcesz zmienić ustawienia.
-7. Wybierz **koncentrator** w menu u góry ekranu i wybierz **Edytuj ustawienia witryny centrum**.
-8. Określ użytkowników lub grup zabezpieczeń, które chcesz zezwolić na pracę z elementu "Użytkownicy, którzy mogą skojarzyć witryny z tego centrum".
-9. Wybierz **Zapisz** u dołu ekranu.
+1. Zaloguj się[https://portal.office.com](https://portal.office.com)do ( ) z uprawnieniami administratora.
+2. Wybierz **ikonę uruchamiania aplikacji** (ikonę z dziewięcioma kwadratami) w lewym górnym rogu ekranu, a następnie wybierz **pozycję Administrator**.
+3. Wybierz **pozycję Centrum administracyjne** z menu po lewej stronie ekranu, a następnie wybierz pozycję **SharePoint**.
+4. W niebieskim baneru u góry ekranu wybierz pozycję **Uruchom aplikację teraz,** aby wyświetlić nowe centrum administracyjne programu Sharepoint.
+5. Na wyświetlaczu po lewej stronie ekranu wybierz **pozycję Witryny** z menu, a następnie wybierz **pozycję Aktywne witryny**.
+6. Sprawdź witrynę centrum, w której chcesz zmienić ustawienia.
+7. Wybierz **pozycję Centrum** z menu u góry ekranu i wybierz pozycję Edytuj ustawienia **witryny centrum**.
+8. Określ użytkowników lub grupy zabezpieczeń, z którymi chcesz zezwolić na pracę w elemencie "Użytkownicy, którzy mogą skojarzyć witrynę z tym centrum".
+9. Wybierz **pozycję Zapisz** u dołu ekranu.
 
-Aby uzyskać więcej informacji, zobacz [kojarzenie witryny programu SharePoint z witryną koncentratora](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05). 
+Aby uzyskać więcej informacji, zobacz [Kojarzenie witryny programu SharePoint z witryną centrum](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05). 

@@ -1,8 +1,8 @@
 ---
-title: Zdarzenia usługi w toku
+title: Incydent usługi w toku
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -17,19 +17,19 @@ ms.custom:
 - "1600014"
 - "1600017"
 - "1600018"
-ms.openlocfilehash: 4c139d72ca6370af1b28bfa9883669a7a1d4da88
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c9ce8d5cb969f20233565f778f3970b3ae77bd9c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551029"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716254"
 ---
-# <a name="service-incident-in-progress"></a>Zdarzenia usługi w toku
+# <a name="service-incident-in-progress"></a>Incydent usługi w toku
 
-Możesz może być dotknięte zdarzeniem usługi lub doradczych który jest aktualnie analizowany. Najnowszy stan można sprawdzić, przechodząc do strony [Kondycji usługi](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Incydent lub poradnik usługi, który jest obecnie badany, może mieć wpływ na incydent usługi lub doradztwo. Możesz sprawdzić najnowszy stan, przechodząc do [usługi kondycji](https://admin.microsoft.com/adminportal/home#/servicehealth) strony.
   
-Dla wygody można znaleźć podsumowanie tego incydentu poniżej:
+Dla Twojej wygody, można znaleźć podsumowanie tego incydentu poniżej:
   
-> **Numer zdarzenia:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Numer zdarzenia:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
  
-> Wpływ na opis: {ImpactDescription}
+> Opis wpływu: {ImpactDescription}

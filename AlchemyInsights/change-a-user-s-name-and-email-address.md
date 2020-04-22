@@ -12,17 +12,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 6a33ce3662680ed5940db94161b7f925670e397f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 833e4142356a02b23e2465273bf63c42ee7e4f5b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665410"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715786"
 ---
 # <a name="change-a-users-name-and-email-address"></a>Zmienianie nazwy użytkownika i adresu e-mail
 
-Zmiana nazwy użytkownika i adresu e-mail w pakiecie Office 365 jest łatwa. Przejdź do **** \> strony użytkowników [aktywnych użytkowników](https://go.microsoft.com/fwlink/p/?linkid=834822) i wybierz użytkownika, aby edytować ich informacje. Możesz również użyć tego artykułu, aby uzyskać instrukcje krok po kroku:
+Zmiana nazwy użytkownika i adresu e-mail w usłudze Microsoft 365 jest prosta. Przejdź do strony **Użytkownicy aktywni** \> [użytkownicy](https://go.microsoft.com/fwlink/p/?linkid=834822) i wybierz użytkownika, aby edytować swoje informacje. Możesz również użyć tego artykułu, aby uzyskać instrukcje krok po kroku:
   
-[Zmienianie nazwy użytkownika i adresu e-mail w pakiecie Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+[Zmienianie nazwy użytkownika i adresu e-mail w usłudze Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
- **Uwaga**: Jeśli zmienisz główny adres e-mail użytkownika, ich stary adres e-mail nadal będzie ważny do odbierania wiadomości e-mail (dzieje się to automatycznie). Ponadto jeśli organizacja jest w stanie hybrydowy, wszystkie zmiany nazwy użytkownika i e-mail muszą być wykonane w lokalnej usłudze Active Directory, a następnie zsynchronizowane z chmurą.
+ **Uwaga:** Jeśli zmienisz główny adres e-mail użytkownika, jego stary adres e-mail będzie nadal ważny do odbierania wiadomości e-mail (dzieje się to automatycznie). Ponadto jeśli organizacja jest w stanie hybrydowym, wszystkie zmiany adresu e-mail i nazwy użytkownika muszą być wykonywane w lokalnej usłudze Active Directory, a następnie synchronizowane z chmurą.

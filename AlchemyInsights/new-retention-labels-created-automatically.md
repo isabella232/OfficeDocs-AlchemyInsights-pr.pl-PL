@@ -1,9 +1,9 @@
 ---
-title: Nowe etykiety przechowywania tworzone automatycznie
+title: Nowe etykiety przechowywania utworzone automatycznie
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 6e43edeedf443d8866817f604f6b41708e7284e6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054676"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713512"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Nowe etykiety przechowywania tworzone automatycznie
+# <a name="new-retention-labels-created-automatically"></a>Nowe etykiety przechowywania utworzone automatycznie
 
-Mogą zostać wyświetlone [trzy nowe etykiety przechowywania pakietu Office 365](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) utworzone automatycznie w organizacji w obszarze **etykiety przechowywania** w centrum administracyjnym zabezpieczeń lub zgodności. Nazwy etykiet są:
+W obszarze **Etykiety przechowywania** w centrum administracyjnym zabezpieczeń lub zgodności mogą zostać wyświetlone trzy nowe [etykiety przechowywania](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) utworzone automatycznie w organizacji. Nazwy etykiet to:
 
 - Procedura operacyjna
-- Ogólne informacje o biznesie
-- Umowa kontrakta
+- Ogólnie rzecz biorąc,
+- Umowa o pracę
 
-Nastąpi to po raz pierwszy wybrać **Plan pliku** , jeśli nie ma żadnych innych etykiet przechowywania utworzone. Etykiety te są tworzone automatycznie i, jeśli to konieczne, mogą zostać usunięte, jeśli nie zostały jeszcze zastosowane do zawartości. Aby usunąć etykiety:
+Nastąpi to przy pierwszym **wybraniu planu plików,** jeśli nie ma żadnych innych etykiet przechowywania. Etykiety te są tworzone automatycznie i, jeśli to konieczne, można je usunąć, jeśli nie zostały jeszcze zastosowane do zawartości. Aby usunąć etykiety:
 
-1. W centrum administracyjnym zabezpieczeń lub zgodności wybierz kartę **klasyfikacje** > **** > **przechowywania** etykiet.
+1. W centrum administracyjnym zabezpieczeń lub zgodności wybierz kartę**Przechowywanie** **etykiet** >  **klasyfikacji.** > 
 
-1. Wybierz etykiety przechowywania, które chcesz usunąć > **Usuń etykietę** > **tak** , aby usunąć etykietę.
+1. Zaznacz etykiety przechowywania, które chcesz usunąć > **Usuń etykietę** > **Tak,** aby usunąć etykietę.
 
-Za pomocą Menedżera planów plików można zarządzać etykietami i zasadami przechowywania w organizacji — Aby uzyskać więcej informacji, zobacz [Omówienie Menedżera planów plików](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).
+Za pomocą Menedżera planów plików można zarządzać etykietami i zasadami przechowywania w organizacji — aby uzyskać więcej informacji, zobacz [Omówienie Menedżera planów plików](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).

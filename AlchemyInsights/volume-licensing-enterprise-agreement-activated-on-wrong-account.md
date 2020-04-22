@@ -1,9 +1,9 @@
 ---
-title: Aktywowana na niewłaściwe konto umowy enterprise licencjonowania zbiorowego
+title: Umowa enterprise z licencjonowania zbiorowego aktywowana na niewłaściwym koncie
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "463"
 - "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: 1387a2ab32d57881ce7d4842dd5d278e789a5d0e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: eeff05f8dff1fec44b1eba9a7977309c66ba45fc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387506"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716218"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a>Aktywowana na niewłaściwe konto umowy enterprise licencjonowania zbiorowego
+# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a>Umowa enterprise z licencjonowania zbiorowego aktywowana na niewłaściwym koncie
 
-Jeśli okaże się, że subskrypcje zakupić w ramach umowy Enterprise licencji zbiorczej zostały aktywowane w nieodpowiednim dzierżawy, użyj opcji "Daj nam Ciebie zadzwonić" aby porozmawiać z pracownikiem pomocy technicznej.
+Jeśli okaże się, że subskrypcje zakupione w ramach umowy Enterprise Agreement licencjonowania zbiorowego zostały aktywowane w niewłaściwej dzierżawie, użyj opcji "Zadzwoń do Ciebie", aby porozmawiać z inżynierem pomocy technicznej.

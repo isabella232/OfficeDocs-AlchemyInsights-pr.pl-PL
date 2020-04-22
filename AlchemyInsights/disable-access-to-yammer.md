@@ -1,8 +1,8 @@
 ---
-title: Wyłącz dostęp do Yammer
+title: Wyłączanie dostępu do usługi Yammer
 ms.author: pebaum
 author: pebaum
-ms.date: 5/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ ms.custom:
 - "722"
 - "6000004"
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
-ms.openlocfilehash: 6e7947afed1223fa55a2aa5710573c03cd804416
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 297b4665fcce0821dd2dea7f4412724943ca6862
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740367"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715242"
 ---
-# <a name="disable-access-to-yammer"></a>Wyłącz dostęp do Yammer
+# <a name="disable-access-to-yammer"></a>Wyłączanie dostępu do usługi Yammer
 
-Rozwiązanie, aby wyłączyć dostęp Yammer jest blokowanie i cofanie przypisania licencji Yammer dla użytkowników pakietu Office 365. Aby uzyskać więcej informacji, zapoznaj się z następującym artykułem.
+Rozwiązaniem wyłączanym dostępem usługi Yammer jest blokowanie i odsłanianie licencji usługi Yammer dla użytkowników w organizacji. Aby uzyskać więcej informacji, zapoznaj się z poniższym artykułem.
   
-- [Wyłącz dostęp Yammer dla użytkowników pakietu Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)
+- [Wyłączanie dostępu do usługi Yammer](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)
