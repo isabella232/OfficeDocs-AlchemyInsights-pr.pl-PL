@@ -1,8 +1,8 @@
 ---
-title: Atak ransomware w SharePoint lub OneDrive
+title: Atak ransomware w programie SharePoint lub OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a95973cbb1a3b61c03c05bceeb9d85c17c6db5bb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a14b6b935c5cc123e16812ef217588903abae831
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054279"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742815"
 ---
-# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Atak ransomware w SharePoint lub OneDrive
+# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Atak ransomware w programie SharePoint lub OneDrive
 
-1.  Jeśli szukasz pomocy na temat tego, co zrobić, gdy złośliwy plik zostanie znaleziony w OneDrive lub SharePoint lub zespołów, zobacz [co zrobić, gdy zostanie znaleziony złośliwy plik](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
-2. Jeśli szukasz sposobu zabezpieczania danych przed oprogramowaniem ransomware, zobacz:
-    - [Zabezpieczanie danych w programie SharePoint i usłudze OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
-    - [Ochrona przed zagrożeniami typu ransomware](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
+1.  Jeśli szukasz pomocy, co zrobić, gdy złośliwy plik zostanie znaleziony w usłudze OneDrive lub programie SharePoint lub w usłudze Teams, zobacz [Co zrobić po znalezieniu złośliwego pliku](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
+2. Jeśli szukasz sposobu ochrony danych przed oprogramowaniem wymuszającym okup, zobacz:
+    - [Ochrona danych w programie SharePoint i usłudze OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
+    - [Ochrona przed zagrożeniami ransomware](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  Czy wszystkie pliki na OneDrive lub SharePoint dotkniętych ransomware lub malware lub Crypto wirus? 
+3.  Czy wszystkie pliki w usłudze OneDrive lub programie SharePoint są dotknięte oprogramowaniem wymuszającym okup, złośliwym oprogramowaniem lub wirusem Crypto? 
 
-Natychmiast Zatrzymaj/Wstrzymaj synchronizację OneDrive (jeśli istnieje) lub odłącz widok Eksploratora zamapowany do biblioteki z komputera, którego dotyczy problem (jeśli istnieje), a następnie możesz przywrócić całą bibliotekę OneDrive lub SharePoint do poprzedniego czasu za pomocą funkcji przywracania plików. 
+Natychmiast zatrzymaj/wstrzymaj synchronizację usługi OneDrive (jeśli istnieje) lub rozłącz widok Eksploratora mapowany do biblioteki z komputera, którego dotyczy problem (jeśli istnieje), a następnie możesz przywrócić całą bibliotekę usługi OneDrive lub programu SharePoint do poprzedniej chwili za pomocą funkcji przywracania plików. 
 
 Aby uzyskać więcej informacji na temat przywracania, zobacz:
 
@@ -36,12 +36,12 @@ Aby uzyskać więcej informacji na temat przywracania, zobacz:
 - [Przywracanie biblioteki dokumentów](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
 Aby uzyskać więcej informacji na temat zaawansowanej ochrony przed zagrożeniami (ATP), zobacz:
-- [ATP dla programu SharePoint, OneDrive i zespołów](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [ATP dla programu SharePoint, onedrive i zespołów](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
 - [Widoki Eksploratora zagrożeń](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 Dodatkowe informacje:
 
 - [Wykrywanie wirusów w SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
 - [Szyfrowanie danych w ODB i SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
-- [Ransomware wykrywanie i odzyskiwanie plików](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [Wykrywanie zagrożeń i wykrywań w czasie rzeczywistym](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [Wykrywanie i odzyskiwanie oprogramowania ransomware](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
+- [Eksplorator zagrożeń i wykrywanie w czasie rzeczywistym](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)

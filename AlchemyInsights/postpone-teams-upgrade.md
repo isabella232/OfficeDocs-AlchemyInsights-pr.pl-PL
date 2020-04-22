@@ -1,5 +1,5 @@
 ---
-title: 'Upgrade drużyny odroczone '
+title: 'Odroczenie uaktualnienia zespołów '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: 28c3a376170aba0ae43929865200fc85cd1c41f4
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 27f3dc123590f3199d6a984d7e9a4db3918ac9cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626754"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758872"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Jak odroczyć uaktualnienie zespołów opartych na Microsoft
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Jak odroczyć uaktualnienie usługi Teams oparte na platformie Microsoft
 
-Jeśli otrzymałeś komunikat o zautomatyzowanym uaktualnieniu z programu Skype dla firm do programu Microsoft Teams opartej na firmie Microsoft i chcesz odroczyć automatyczne uaktualnienie do nowszej daty, Administrator globalny pakietu Office 365 może zalogować się do [portalu administracyjnego zespołów](https://admin.teams.microsoft.com/dashboard) i wybrać przycisk **odłożyć** . Aby wyświetlić nową datę automatycznego uaktualniania dzierżawy do programu Microsoft Teams, Odśwież stronę portalu administracyjnego zespołów.
+Jeśli użytkownik otrzymał komunikat o automatycznym uaktualnieniu opartym na firmie Microsoft z programu Skype dla firm do usługi Microsoft Teams i użytkownik chce odroczyć automatyczne uaktualnienie na późniejszą datę, administrator globalny może zalogować się do [portalu administracyjnego zespołów](https://admin.teams.microsoft.com/dashboard) i wybrać przycisk **Odłóż.** Aby wyświetlić nową datę automatycznego uaktualnienia dzierżawy do usługi Microsoft Teams, odśwież stronę portalu administracyjnego zespołów.
 
-**Uwaga:** Przycisk **odłożyć** będzie dostępny tylko wtedy, gdy odebrano powiadomienie centrum wiadomości dotyczące automatycznej aktualizacji. 
+**Uwaga:** Przycisk **Odroczenie** będzie dostępny tylko po otrzymaniu powiadomienia centrum wiadomości dotyczące automatycznego uaktualniania. 
 
-Administratorzy globalni pakietu Office 365 mogą również uruchamiać [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) , aby dowiedzieć się więcej o ich bieżącym stanie uaktualniania. 
+Administratorzy globalni mogą również uruchamiać [get-csteamsUpgradeStatus,](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) aby dowiedzieć się więcej o ich aktualnym stanie uaktualnienia. 

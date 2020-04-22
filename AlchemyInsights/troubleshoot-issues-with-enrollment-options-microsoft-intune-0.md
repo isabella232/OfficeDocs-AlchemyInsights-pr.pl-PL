@@ -1,9 +1,9 @@
 ---
-title: Rozwiązywanie problemów z opcji rejestrowania Microsoft Intune
+title: Rozwiązywanie problemów z opcjami rejestracji usługi Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: 9249fc562ef73078d508d7548275f336cc13caa1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3790d7407c0aeb5a9659226f0ed4a33090d519a5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506741"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43735202"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Rozwiązywanie problemów z opcji rejestrowania Microsoft Intune
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Rozwiązywanie problemów z opcjami rejestracji usługi Microsoft Intune
 
 Przejrzyj zasoby wymienione poniżej, aby rozwiązać problem teraz.
   
-- [Przegląd Intune TechNet, by znaleźć odpowiedzi i rozwiązania często występujących problemów](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Przejrzyj usługę Intune TechNet, aby znaleźć odpowiedzi i rozwiązania typowych problemów.](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)
 
-- Korzystać z [Portalu rozwiązywania problemów Windows Intune](https://aka.ms/intunetroubleshooting) , aby zdiagnozować i rozwiązać typowe błędy rejestracji. Przegląd [tego dokumentu](https://docs.microsoft.com/intune/help-desk-operators) , aby uzyskać więcej informacji.
+- Użyj [portalu rozwiązywania problemów z usługi Intune,](https://aka.ms/intunetroubleshooting) aby zdiagnozować i rozwiązać typowe błędy rejestracji. Przejrzyj [ten dokument,](https://docs.microsoft.com/intune/help-desk-operators) aby uzyskać więcej informacji.
 
-- Przegląd [Ten dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) lista typowe błędy, które uniemożliwiają rejestracji i rozwiązania do każdego.
+- Przejrzyj [ten dokument,](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) aby uzyskać listę typowych błędów, które uniemożliwiają rejestrację i rozwiązania dla każdego z nich.
 
-- [Więcej informacji na temat opcji rejestrowania w usłudze Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
+- [Dowiedz się więcej o opcjach rejestracji w usłudze Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).

@@ -3,7 +3,7 @@ title: Kosza
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 3ba566f02cad31b6c3c8cb8ba281f66fa3c78e14
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36553003"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720219"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>Przywracanie elementów w usłudze SharePoint Online
 
-Po usunięciu elementów w programie SharePoint Online, są one przechowywane w sumie 93 dni. One pozostać w kosza witryny cały czas, chyba że opróżnić lub usunąć elementy z niego. W takim przypadku elementy przejdź do kosza zbioru witryn, gdzie pozostać na pozostałą część 93 dni. Na koniec czasu elementy są trwale usuwane. Aby przywrócić usunięte elementy z kosza witryny:
+Usunięcie elementów w usłudze SharePoint Online jest zachowywane przez łącznie 93 dni. Pozostają one w koszu witryny przez cały czas, chyba że opróżnić go lub usunąć elementy z niego. W takim przypadku towary trafiają do kosza zbioru witryn, gdzie pozostają przez pozostałą część 93 dni. Po zakończeniu tej chwili elementy są trwale usuwane. Aby przywrócić usunięte elementy z kosza witryny:
   
-1. Przejdź do witryny i kliknij **Kosz** w lewym okienku. 
+1. Przejdź do **witryny** i kliknij pozycję Kosz w lewym okienku. 
     
-    Jeśli w lewym okienku nie widzisz **kosza** , kliknij ikonę ustawienia w prawym górnym rogu, a następnie kliknij pozycję **zawartość witryny**. Kosz znajduje się po prawej stronie paska poleceń u góry.
+    Jeśli w lewym okienku nie widać **kosza,** kliknij ikonę Ustawienia w prawym górnym rogu, a następnie kliknij pozycję **Zawartość witryny**. Kosz znajduje się po prawej stronie paska poleceń u góry.
     
-2. Na stronie **Kosz** wybierz elementy, które chcesz przywrócić, wskazując je i klikając ikonę znacznika wyboru, który zostanie wyświetlony. 
+2. Na stronie **Kosz** zaznacz elementy, które chcesz przywrócić, wskazując je i klikając wyświetlając ikonę znacznika wyboru. 
     
 3. Kliknij pozycję **Przywróć**.
     

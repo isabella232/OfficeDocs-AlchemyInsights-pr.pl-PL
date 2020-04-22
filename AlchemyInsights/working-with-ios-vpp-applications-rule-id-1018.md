@@ -1,8 +1,8 @@
 ---
-title: Praca z iOS 1018 identyfikator reguły aplikacji VPP
+title: Identyfikator reguły aplikacji VPP systemu iOS 1018
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: a0bbc1f49f251ef4f16300c8cca98e219008d17e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 88a1ef66bf337b3a0094976c122330591aee77ff
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558015"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719967"
 ---
-# <a name="working-with-ios-vpp-applications"></a>Praca z iOS aplikacje VPP
+# <a name="working-with-ios-vpp-applications"></a>Praca z aplikacjami VPP na iOS
 
-Przeczytaj, [jak zarządzać aplikacje iOS kupione za pośrednictwem programu zakupu woluminu z usługi Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) Dowiedz się więcej o cechy, ograniczenia i czynności, aby poprawić wykorzystanie programu zakupu zbiorowego Apple i wsparcie dla niego w Microsoft Intune.
+Przeczytaj [jak zarządzać aplikacjami na iOS zakupionymi za pośrednictwem programu zakupu zbiorczego w usłudze Microsoft Intune,](https://docs.microsoft.com/intune/vpp-apps-ios) aby dowiedzieć się więcej o funkcjach, ograniczeniach i krokach ułatwiania korzystania z programu zakupów zbiorczych Firmy Apple i obsługi technicznej w usłudze Microsoft Intune.
   
- **Typowych problemów:** "Aplikacja VPP iOS przypisane do moich użytkowników, ale instalacja nie powiodła się".
+ **Typowe problemy:** "Przypisano aplikację VPP dla systemu iOS do moich użytkowników, ale instalacja nie powiodła się."
   
-- Może się to zdarzyć, jeśli pojedynczy token VPP jest używana na wielu dostawców zarządzania urządzenia przenośnego. Tokeny VPP, Apple może służyć wyłącznie u jednego dostawcy. Jeśli użyto VPP token z wieloma dostawcami, możesz ponownie przesłać token Windows Intune.
+- Może się tak zdarzyć, jeśli pojedynczy token VPP jest używany przez wielu dostawców zarządzania urządzeniami przenośnymi. Tokeny VPP firmy Apple mogą być używane tylko z jednym dostawcą. Jeśli użyto tokenu VPP z wieloma dostawcami, należy ponownie przekazać token do usługi Intune.
 
-- Instalacja może się nie udać, jeśli całkowita ilość instalacji przekracza liczbę licencji. Aby wyświetlić raport użycia dla swoich licencji, przejdź do strony **Windows Intune aplikacje** \> strony **licencji aplikacji** . Aby dowiedzieć się, jak odzyskać licencje w użyciu, zobacz [w tym artykule.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)
+- Instalacja może również zakończyć się niepowodzeniem, jeśli całkowita liczba instalacji przekroczy liczbę licencji. Aby wyświetlić raport użycia licencji, przejdź do strony **Licencje** **aplikacji aplikacji intune mobile.** \> Aby dowiedzieć się, jak odzyskać używane licencje, zobacz [ten artykuł.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)

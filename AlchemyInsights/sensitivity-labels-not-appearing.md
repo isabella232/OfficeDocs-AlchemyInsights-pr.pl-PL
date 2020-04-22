@@ -1,9 +1,9 @@
 ---
-title: Etykiety czułości nie pojawiają się
+title: Etykiety czułości nie są wyświetlane
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 67719380aea0481f96c03fa591542e8e5a6e6993
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048662"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758475"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Etykiety czułości nie pojawiają się
+# <a name="sensitivity-labels-not-appearing"></a>Etykiety czułości nie są wyświetlane
 
-Etykiety czułości pozwalają klasyfikować i chronić poufne treści. Mogą one być tworzone w centrum zgodności Microsoft 365, Centrum zabezpieczeń Microsoft 365 lub Office 365 Security & Compliance Center w obszarze Klasyfikacja etykiet > czułość. Aby dowiedzieć się więcej na temat tej funkcji, zobacz [Omówienie etykiet czułości](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Etykiety czułości umożliwiają klasyfikowanie i ochronę poufnych treści. Można je tworzyć w centrum zgodności usługi Microsoft 365, centrum zabezpieczeń usługi Microsoft 365 lub centrum zgodności & zabezpieczeń usługi Microsoft 365 w obszarze Etykiety klasyfikacji > czułości. Aby dowiedzieć się więcej o tej funkcji, zobacz [Omówienie etykiet czułości](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
-Jeśli skonfigurowano etykiety czułości, ale nie są wyświetlane w aplikacjach pakietu Office, sprawdź następujące elementy:
+Jeśli etykiety czułości zostały skonfigurowane, ale nie są one wyświetlane w aplikacjach pakietu Office, sprawdź następujące kwestie:
 
-- Potwierdź, że etykieta czułości została [opublikowana](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) dla użytkowników i grup, które mają.
+- Upewnij się, że etykieta czułości została [opublikowana](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) dla użytkowników i grup, które chcesz.
 
-- Potwierdź, że użytkownik korzysta z aplikacji obsługującej etykiety czułości — zobacz [etykiety czułości w dokumencie](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
+- Upewnij się, że użytkownik korzysta z aplikacji obsługującej etykiety czułości — zobacz [etykiety czułości w dokumencie](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 
-- Jeśli [migrujesz etykiety usługi Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), należy pamiętać o zagadnienia wymienione w [tym miejscu](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
+- Jeśli [przeprowadzasz migrację etykiet usługi Azure Information Protection,](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)należy pamiętać o zagadnieniach wymienionych [tutaj](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
-- Obsługa zapobiegania utracie danych (DLP): obecnie tylko etykiety przechowywania mogą być użyte jako warunek w zasadach DLP.  Obsługa etykiet czułości w zasadach DLP nie jest jeszcze dostępna, ale pracujemy nad nim.
+- Obsługa zapobiegania utracie danych (DLP): obecnie tylko etykiety przechowywania mogą być używane jako warunek w zasadach DLP.  Obsługa etykiet czułości w zasadach DLP nie jest jeszcze dostępna, ale pracujemy nad tym.
 
-- Gdy szyfrowanie jest włączone na etykiecie czułości, można wybrać opcję:
+- Gdy szyfrowanie jest włączone na etykiecie czułości, można wybrać:
     - Przypisz uprawnienia teraz
-    - Pozwól użytkownikom przypisywać uprawnienia
+    - Zezwalanie użytkownikom na przypisywanie uprawnień
 
 
-Aby uzyskać więcej informacji na temat możliwych problemów, zobacz [znane problemy z etykietami czułości](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
+Aby uzyskać więcej informacji na temat możliwych problemów, zobacz [Znane problemy z etykietami czułości](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

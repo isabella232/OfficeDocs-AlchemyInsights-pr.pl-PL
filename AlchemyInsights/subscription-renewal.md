@@ -3,7 +3,7 @@ title: Odnowienie subskrypcji
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 74d558db780958ea5d5fa56382e852b8684e550a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0ac7d1077319ab8b9aeef281b880a766b3cd98f2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666022"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741837"
 ---
-# <a name="subscription-recurring-billing"></a>Rozliczanie cykliczne subskrypcji
+# <a name="subscription-recurring-billing"></a>Rozliczenia cykliczne subskrypcji
 
-Jeśli chcesz wiedzieć, kiedy miesięczne lub roczne subskrypcje pakietu Office 365 będą rozliczane (jeśli jest **** włączona opłata cykliczna) lub wygaśnie (Jeśli **rozliczanie cykliczne** jest wyłączone):
+Jeśli chcesz wiedzieć, kiedy twoja miesięczna lub roczna subskrypcja zostanie naliczona (jeśli **rozliczone jest rozliczanie cykliczne)** lub wygaśnie (jeśli **rozliczenia cykliczne** są wyłączone):
   
-1. W centrum administracyjnym przejdź na stronę usługi **fakturowania** \> [produktów _amp_](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. W centrum administracyjnym przejdź do strony **Rozliczenia** \> [Produkty i usługi](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. W przypadku subskrypcji, które chcesz dowiedzieć się więcej na temat, w obszarze **rozliczeń**, zobacz **odnawia** lub **wygasa** dnia.
+2. Aby uzyskać więcej informacji o subskrypcji, w obszarze **Rozliczenia,** zobacz **Odnawianie w** dniu lub **Wygaśnięcie.**
 
-4. Aby wprowadzić zmiany, wybierz pozycję **Edytuj** , a następnie w okienku ustawienia **rozliczeń cyklicznych** **Wybierz pozycję** Wyłącz, aby ją wyłączyć. Jeśli rozliczanie cykliczne jest już wyłączone, wybierz opcję **co miesiąc** lub **raz** , aby włączyć tę funkcję.
+4. Aby wprowadzić zmiany, wybierz **pozycję Edytuj,** a następnie w okienku Ustawień **rozliczeń cyklicznych** wybierz pozycję **Wyłącz,** aby ją wyłączyć. Jeśli rozliczenia cykliczne są już wyłączone, wybierz **opcję Co miesiąc** lub **Raz,** aby je włączyć.
 
-Aby dowiedzieć się więcej, zobacz [Włączanie lub wyłączanie rozliczeń cyklicznych](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Aby uzyskać więcej informacji, zobacz [Włączanie i wyłączanie rozliczania cyklicznego](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

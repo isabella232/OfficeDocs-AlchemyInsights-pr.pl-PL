@@ -1,9 +1,9 @@
 ---
-title: Naprawa pliku pst przed importowaniem
+title: Naprawianie pliku pst przed zaimportowaniem
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 3f273d9807a20048f33ce476e091ee2122a773d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 518543f664873c99d5f296284199cd417c620e00
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552433"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720147"
 ---
-# <a name="repair-pst-file-before-importing"></a>Naprawa pliku pst przed importowaniem
+# <a name="repair-pst-file-before-importing"></a>Naprawianie pliku pst przed zaimportowaniem
 
-Przed zaimportowaniem pliku pst w programie Outlook Sprawdź, czy plik nie jest uszkodzony przez naprawienie pliku:
+Przed zaimportowaniem pliku pst w programie Outlook sprawdź, czy plik nie jest uszkodzony, naprawując plik:
 
 1. Zamknij program Outlook.
 
-2. Znajdź i uruchom `Scanpst.exe` w folderze program pakietu Office (C:\Program Files (x86) \Microsoft Office\root\Office\<wersji\> lub C:\Program Files\Microsoft Office\root\Office\<wersji\>).
+2. Znajdź i `Scanpst.exe` uruchom w folderze programu pakietu Office (C:\Program Files (x86)\Microsoft Office\root\Office\<Version\<\>\> or C:\Program Files\Microsoft Office\root\Office Version ).
 
-3. **Narzędzie do naprawy skrzynki odbiorczej programu Microsoft Outlook**, kliknij przycisk **Przeglądaj** , aby odnaleźć plik pst (np. w C:\Users\\<username\>\AppData\Local\Microsoft\Outlook). Wybierz plik pst, a następnie kliknij przycisk **Otwórz**.
+3. W **narzędziu Naprawy skrzynki odbiorczej programu Microsoft Outlook**kliknij przycisk **Przeglądaj,** aby\\ znaleźć plik\>pst (na przykład w polu C:\Użytkownicy<nazwę użytkownika \AppData\Local\Microsoft\Outlook). Zaznacz plik pst, a następnie kliknij przycisk **Otwórz**.
 
-4. Kliknij przycisk **Start** , aby rozpocząć skanowanie.
+4. Kliknij **przycisk Start,** aby rozpocząć skanowanie.
 
-5. Jeśli zostaną znalezione błędy w pliku, kliknij przycisk **Napraw**, a następnie kliknij **OK** po zakończeniu naprawy.
+5. Jeśli w pliku zostaną znalezione błędy, kliknij przycisk **Napraw,** a następnie kliknij przycisk **OK** po zakończeniu naprawy.
 
 6. Spróbuj ponownie zaimportować plik pst w programie Outlook.
 
-Aby uzyskać więcej informacji zobacz [pliki danych programu Outlook naprawy](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) i [Rozwiązywanie problemów z importowaniem pliku pst programu Outlook](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+Aby uzyskać więcej informacji, zobacz [Naprawianie plików danych programu Outlook](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) i [rozwiązywanie problemów z importowaniem pliku pst programu Outlook](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).

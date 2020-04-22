@@ -1,5 +1,5 @@
 ---
-title: Zmienianie nazwy domeny firmy Microsoft
+title: Zmienianie nazwy domeny onmicrosoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 5cb5c1d9da991d36c5b6fde94277be0e56bcbac0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 357524491dc26b3a6101eb0d39d1f446aaf052c3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36741231"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720183"
 ---
 # <a name="rename-your-onmicrosoftcom-domain"></a>Zmienianie nazwy domeny onmicrosoft.com
 
- **Po rejestracji nie można zmienić nazwy domeny Microsoft.** Na przykład, jeśli wybrana domena początkowa to *fourthcoffee.onmicrosoft.com*, nie można jej zmienić na *fabrikam.onmicrosoft.com*. Aby użyć innej domeny onmicrosoft.com, należy rozpocząć nową subskrypcję z pakietem Office 365.
+ **Nie można zmienić nazwy domeny onmicrosoft po utworzeniu konta.** Jeśli na przykład wybrana domena początkowa została *fourthcoffee.onmicrosoft.com*, nie można jej zmienić *na fabrikam.onmicrosoft.com*. Aby użyć innej domeny onmicrosoft.com, musisz rozpocząć nową subskrypcję za pomocą usługi Microsoft 365.
   
-Jeśli chcesz użyć domeny niestandardowej, takiej jak *contoso.com* , możesz [dodać jeden, który posiadasz](https://docs.microsoft.com/office365/admin/setup/add-domain) lub [kupić od firmy Microsoft](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name).
+Jeśli chcesz użyć domeny niestandardowej, takiej jak *contoso.com,* możesz [dodać własną](https://docs.microsoft.com/office365/admin/setup/add-domain) domenę lub [kupić ją od firmy Microsoft.](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name)
   

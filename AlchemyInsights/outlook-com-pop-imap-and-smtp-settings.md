@@ -1,9 +1,9 @@
 ---
-title: Ustawienia POP, IMAP i SMTP dla Hotmail
+title: Ustawienia POP, IMAP i SMTP dla Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/19/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1415"
 - "8000043"
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: 92b350c15883d4058eb38f451f5bcc792603c2f3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ebbb0a1ed03d86e27766968d1f2ce35da6ac8ede
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535794"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744815"
 ---
-# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>Ustawienia POP, IMAP i SMTP dla Hotmail
+# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>Ustawienia POP, IMAP i SMTP dla Outlook.com
 
-Jeśli chcesz dodać konto Hotmail do aplikacji poczty obsługującego protokół POP lub IMAP, Oto ustawienia serwera, które będą potrzebne:
+Jeśli chcesz dodać konto Outlook.com do aplikacji pocztowej obsługującej protokół POP lub IMAP, oto potrzebne ustawienia serwera:
   
 - **Nazwa serwera IMAP:** outlook.office365.com
-- **IMAP port:** 993
-- **Metody szyfrowania IMAP:** TLS
+- **Port IMAP:** 993
+- **Metoda szyfrowania IMAP:** Tls
 - **Nazwa serwera POP:** outlook.office365.com  
-- **POP port:** 995  
-- **Metody szyfrowania POP:** TLS  
+- **Port POP:** 995  
+- **Metoda szyfrowania POP:** Tls  
 - **Nazwa serwera SMTP:** smtp.office365.com
-- **SMTP port:** 587
-- **Metody szyfrowania SMTP:** STARTTLS
+- **Port SMTP:** 587
+- **Metoda szyfrowania SMTP:** Starttls
 
-Dowiedz się więcej na temat [dodawania konta Hotmail na inny poczty aplikacji lub urządzeń inteligentnych](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy).
+Dowiedz się więcej o [dodawaniu konta Outlook.com do innej aplikacji pocztowej lub urządzenia inteligentnego.](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy)

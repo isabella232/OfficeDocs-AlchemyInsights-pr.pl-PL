@@ -1,9 +1,9 @@
 ---
-title: 8000086 Hotmail Wstaw obraz
+title: 8000086 Outlook.com obraz wstawiania
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,21 +15,21 @@ ms.custom:
 - "1393"
 - "1394"
 - "8000086"
-ms.openlocfilehash: ee8e98e602930ee9846009254d1735102df56838
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4634560610367ac665f1c502d054687490bddd6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546421"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760134"
 ---
-# <a name="insert-pictures-in-an-email-message-or-calendar-event"></a>Wstawianie obrazów w zdarzenia kalendarza lub wiadomości e-mail
+# <a name="insert-pictures-in-an-email-message-or-calendar-event"></a>Wstawianie obrazów do wiadomości e-mail lub wydarzenia kalendarza
 
-Fotografie, pliki GIF lub clipart można wstawiać z komputera lub z OneDrive jako obrazów w wierszu w wiadomości e-mail Hotmail, zdarzenia kalendarza lub podpis wiadomości e-mail.
+Zdjęcia, gify lub obiekty clipart można wstawiać z komputera lub usługi OneDrive jako obrazy wbudowane w Outlook.com wiadomości e-mail, zdarzeń kalendarza lub podpisu e-mail.
 
-1. Rozpoczęcie tworzenia wiadomości lub Tworzenie zdarzenia w kalendarzu.
-2. Wybierz ikonę **Wstawianie obrazów w tekście** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAAeFBMVEX///+FhYX7+/vr6+udnZ3i4uLV1dWtra3u7u53d3f4+Pjp6emjo6OLi4v9/f3x8fGwsLB/f3/ExMSmpqaPj49+fn56enrm5ubY2NjOzs63t7erq6uWlpaRkZGCgoLe3t7R0dHKysrAwMC7u7ufn59xcXFpaWllZWWFx0GEAAAAlElEQVQY082OWRaDIAxFAasCgsioderc7n+HxTK0C+iH9ycvNzk5ATtB3A8/TG2w5YPVXVd7fJktilYWQISM0Rlmi0vJtgaNQ5UtVHA2jPpI6THZnhANGu71qQfZNi+NgNf6QmT5veCaz9A8xxuvebIrDn8vE1XEpn+JqjaGK2HV4uJuYWGArw5CE3dbXESwTwL8gzezzgdggA6ffQAAAABJRU5ErkJggg==' /> w dolnej części okna tworzenia wiadomości (obok ikony **Dołącz** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4QkaFhg7CMMZsgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABSklEQVQ4je2VL6+CUBiHH+/uBo1yZiSRHYlgwUBx00whWf0edj+HJGDqBpnMnMlZYM7ACFKs3CQbm+Auut1yf+2879nz/tt7zqCqqooP6+vTQIDvNkdRFOz3e7IsA0BVVRzHeQ+6Xq/J87w+p2lKWZYsl8t+0CAIyPOc0WiEbdt1kMPhQJIk6LreCX3a09vtBoBt2wghEEIwnU4BuFwuLzPtHJQQojVgb2hRFKxWK87nc8Puui5JkvSDnk4n0jRtDAwgDEOOx2M/aF/9Q/8Ier1eud/vAMiy/B50PB4jSRJhGLLZbABerih0PCgPLRYLttstAIZhoGlaP+ijxCiKsCyrkV0URY07z/S0/MlkgiRJeJ5HHMe1PY5jPM8DutswaPtOgiDA930AFEUBoCxLAObzObPZ7PfQR2a73a7e/eFwiGmaWJbVCgT4AfRAgmp2DdDrAAAAAElFTkSuQmCC' />).
-3. Wybierz obraz, który chcesz wstawić i wybierz polecenie **Otwórz**.
+1. Rozpocznij redagowanie wiadomości lub tworzenie zdarzenia kalendarza.
+2. Wybieranie ikony **Wstawianie obrazów w linii** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAAeFBMVEX///+FhYX7+/vr6+udnZ3i4uLV1dWtra3u7u53d3f4+Pjp6emjo6OLi4v9/f3x8fGwsLB/f3/ExMSmpqaPj49+fn56enrm5ubY2NjOzs63t7erq6uWlpaRkZGCgoLe3t7R0dHKysrAwMC7u7ufn59xcXFpaWllZWWFx0GEAAAAlElEQVQY082OWRaDIAxFAasCgsioderc7n+HxTK0C+iH9ycvNzk5ATtB3A8/TG2w5YPVXVd7fJktilYWQISM0Rlmi0vJtgaNQ5UtVHA2jPpI6THZnhANGu71qQfZNi+NgNf6QmT5veCaz9A8xxuvebIrDn8vE1XEpn+JqjaGK2HV4uJuYWGArw5CE3dbXESwTwL8gzezzgdggA6ffQAAAABJRU5ErkJggg==' /> w dolnej części okna redagowania (obok ikony **Dołącz** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4QkaFhg7CMMZsgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABSklEQVQ4je2VL6+CUBiHH+/uBo1yZiSRHYlgwUBx00whWf0edj+HJGDqBpnMnMlZYM7ACFKs3CQbm+Auut1yf+2879nz/tt7zqCqqooP6+vTQIDvNkdRFOz3e7IsA0BVVRzHeQ+6Xq/J87w+p2lKWZYsl8t+0CAIyPOc0WiEbdt1kMPhQJIk6LreCX3a09vtBoBt2wghEEIwnU4BuFwuLzPtHJQQojVgb2hRFKxWK87nc8Puui5JkvSDnk4n0jRtDAwgDEOOx2M/aF/9Q/8Ier1eud/vAMiy/B50PB4jSRJhGLLZbABerih0PCgPLRYLttstAIZhoGlaP+ijxCiKsCyrkV0URY07z/S0/MlkgiRJeJ5HHMe1PY5jPM8DutswaPtOgiDA930AFEUBoCxLAObzObPZ7PfQR2a73a7e/eFwiGmaWJbVCgT4AfRAgmp2DdDrAAAAAElFTkSuQmCC' />).
+3. Wybierz obraz, który chcesz wstawić, i wybierz pozycję **Otwórz**.
 4. Przeciągnij narożniki, aby zmienić rozmiar obrazu.
-5. Kliknij prawym przyciskiem myszy obraz, aby zobaczyć opcje formatowania.
+5. Kliknij prawym przyciskiem myszy obraz, aby wyświetlić opcje formatowania.
 
-Dowiedz się więcej o [dołączaniu plików w Hotmail](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).
+Dowiedz się więcej o [dołączaniu plików w Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).

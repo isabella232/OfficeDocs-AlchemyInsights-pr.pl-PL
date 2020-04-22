@@ -1,9 +1,9 @@
 ---
-title: Jak wylogować się z programu Outlook w sieci web
+title: Jak wylogować się z aplikacji Outlook w sieci Web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 6eac1462c26c1889d2e91ce336c88de0d221124b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c850510881e16ceae5050bcbe06f6897b1e61dd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556683"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742959"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Jak wylogować się z programu Outlook w sieci web
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Jak wylogować się z aplikacji Outlook w sieci Web
 
-Aby wylogować się z programu Outlook w sieci web, zaznacz swoją nazwę użytkownika lub zdjęcie w prawym górnym rogu i wybierz opcję **Wyloguj się**.
+Aby wylogować się z aplikacji Outlook w internecie, wybierz swoje imię i nazwisko lub zdjęcie w prawym górnym rogu i wybierz pozycję **Wyloguj**.
 
-Aby zatrzymać automatyczne logowanie do konta służbowego:
+Aby zatrzymać automatyczne logowanie się na konto służbowe:
 
-1. Wybierz nazwę lub obraz i wybierz opcję **Wyloguj się**.
-1. Przejdź do [Outlook.office.com](https://outlook.office.com/) i zaznacz opcję **Użyj innego konta**.
-1. Zaloguj się na adres e-mail, którego chcesz użyć.
+1. Wybierz swoje imię i nazwisko lub zdjęcie i wybierz pozycję **Wyloguj**.
+1. Przejdź do [Outlook.office.com](https://outlook.office.com/) i wybierz pozycję **Użyj innego konta**.
+1. Zaloguj się przy użyciu adresu e-mail, którego chcesz użyć.
 
-Aby dowiedzieć się więcej, zobacz temat [logowania się do lub z programu Outlook w sieci web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+Aby dowiedzieć się więcej, zobacz [Jak zalogować się do lub z aplikacji Outlook w sieci Web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).

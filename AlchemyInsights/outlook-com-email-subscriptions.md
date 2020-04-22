@@ -1,9 +1,9 @@
 ---
-title: Outlook.com subskrypcje e-mail
+title: Outlook.com subskrypcje wiadomości e-mail
 ms.author: lpyfer
 author: lpyfer
 manager: joallard
-ms.date: 11/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: 9b1a3f14e6301f06daebdc4036063269055610f8
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: becf4fcf93871b78ae136efeaa004f999bf0532c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38645697"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43723676"
 ---
 # <a name="email-subscriptions"></a>Subskrypcje wiadomości e-mail
 
-Dlaczego widzę wiadomości e-mail na listach subskrypcji?
+Dlaczego na moich listach subskrypcji są wiją się wiadomości e-mail?
 
-Outlook.com wykrył, że wiadomość e-mail zawiera informacje o subskrypcji, w tym "Anuluj subskrypcję" w komunikacie. Outlook.com nie subskrybuje automatycznie żadnych biuletynów.
+Outlook.com wykrył, że wiadomość e-mail zawiera informacje o subskrypcji, w tym "Wypisuj subskrypcję" w wiadomości. Outlook.com nie subskrybowała automatycznie żadnych biuletynów.
 
 Jeśli chcesz przestać otrzymywać biuletyny lub promocje, możesz zrezygnować z subskrypcji za pomocą Outlook.com:
-1. W skrzynce odbiorczej wybierz biuletyn lub promocyjną wiadomość e-mail. W górnej części okienka odczytu wybierz opcję **Anuluj subskrypcję**.
-2. Otwórz ustawienia [subskrypcji Outlook.com](https://go.microsoft.com/fwlink/?linkid=2110887) i wybierz opcję **Anuluj subskrypcję**.
+1. W skrzynce odbiorczej wybierz biuletyn lub promocyjną wiadomość e-mail. U góry okienka odczytu wybierz pozycję **Wypisuj subskrypcję**.
+2. Otwórz ustawienia [subskrypcji Outlook.com](https://go.microsoft.com/fwlink/?linkid=2110887) i wybierz pozycję **Wypisuj subskrypcję.**
 
-Uwagi: Ta funkcja jest widoczna tylko w przypadku otrzymania wiadomości e-mail od firmy wysyłającej subskrybowane wiadomości e-mail.
-Jeśli zapytanie dotyczy pakietu Office 365 Płatne subskrypcje, przejdź do[https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) lub [Dowiedz się więcej o pakiecie Office 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+Uwagi: tę funkcję zobaczysz tylko wtedy, gdy otrzymałeś wiadomość e-mail od firmy wysyłającej subskrybowane wiadomości e-mail.
+Jeśli zapytanie dotyczy płatnych subskrypcji usługi Microsoft[https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) 365, przejdź do witryny lub dowiedz [się więcej o usłudze Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
   

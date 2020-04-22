@@ -1,38 +1,38 @@
 ---
-title: Wiadomości e-mail alertu 2491 od wykrywanie witryn wyłudzających wydana z powodu dzierżawcę lub użytkownika zastępują zasady
+title: 2491 Alert wiadomości e-mail z "Phish dostarczone z powodu dzierżawy lub zastąpienia użytkownika" zasady
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 456b186ecea59422c791c79d4df056ad8446bc70
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 2e4efd504304da757687e697ff23374aeea31851
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391436"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758939"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Wiadomości e-mail alertu z wykrywanie witryn wyłudzających wydana z powodu dzierżawcę lub użytkownika zastępują zasady
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Alert wiadomości e-mail z "Phish dostarczone z powodu dzierżawy lub zastąpienia użytkownika" zasady
 
-Domyślna zasada alert o nazwie "Wykrywanie witryn wyłudzających dostarczone ze względu na zastąpienie dzierżawcę lub użytkownika" była dostępna dla najemców z licencjami Office 365 ATP P1 i P2. Jeśli otrzymasz ten komunikat, Oto kroki, aby zbadać:
+Domyślna zasada alertów o nazwie "Phish delivered due to tenant or user override" została wdrożona dla dzierżaw z licencjami Office 365 ATP P1 i P2. Jeśli ten alert został odebrany, oto kroki, które należy zbadać:
 
-1. Z komunikatu alertu kliknij przycisk **Wyświetl Alert** , aby przejść do strony **alerty** zabezpieczeń & Centrum zgodności.
+1. W komunikacie alertu kliknij pozycję **Wyświetl alert,** aby przejść do strony **Alerty** w Centrum zgodności & zabezpieczeń.
 
-2. Wybierz ten alert, aby wyświetlić opcję na **liście wiadomości w widoku** lub **Wyświetlanie wiadomości w Eksploratorze**. Obie te opcje przejście do szczegółów wiadomości, która zawiera identyfikator wiadomości. Uwaga: łącze zagrożenie Explorer automatycznie przefiltruje wiadomości, które spełniają kryteria alertu. Konieczne może być dostosowanie filtr daty w Eksploratorze zagrożenie.
+2. Wybierz alert, aby wyświetlić opcję **Wyświetl listę wiadomości** lub Wyświetl wiadomości w **Eksploratorze**. Obie te opcje przejmują cię do szczegółów wiadomości, która zawiera identyfikator wiadomości. Należy zauważyć, że łącze Eksploratora zagrożeń będzie automatycznie filtrować wiadomości zgodne z kryteriami alertu. Może być konieczne dostosowanie filtru daty w Eksploratorze zagrożeń.
 
-Wiadomość wyłudzająca informacje została dostarczona z powodu override ręcznie skonfigurowane:
+Wiadomość wyłudzająca informacje została dostarczona z powodu ręcznie skonfigurowanego zastąpienia:
 
-- Dozwolone nadawcy lub domeny ustawiona przez użytkownika.
+- Dozwolony nadawca lub domena ustawiona przez użytkownika.
 
-- Dozwolonych nadawców lub domeny ustawiona przez administratora w zasadzie zwalczania spamu.
+- Dozwolony nadawca lub domena ustawiona przez administratora w zasadach antyspamowych.
 
-- Dozwolony adres IP w zasadzie filtr połączeń.
+- Dozwolony adres IP w zasadach filtrowania połączeń.
 
-- Reguły przepływu poczty (znany również jako regułę transportu), która jest skonfigurowana do obsługi wiadomości w.
+- Reguła przepływu poczty (znana również jako reguła transportu), która jest skonfigurowana tak, aby zezwalać na wysyłanie wiadomości.
 
-Jeśli uważasz, że wiadomość została niepoprawnie oznaczona jako pozyskiwać, użyj programu Outlook [dodatek wiadomość raportu](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) przedłożenia próbek wiadomości do firmy Microsoft.
+Jeśli uważasz, że wiadomość została niepoprawnie oznaczona jako phish, użyj [dodatku Wiadomości raportu](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) programu Outlook, aby przesłać przykłady wiadomości do firmy Microsoft.

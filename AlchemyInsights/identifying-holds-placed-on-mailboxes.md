@@ -1,9 +1,9 @@
 ---
-title: Identyfikowanie posiada umieszczony na skrzynek pocztowych
+title: Identyfikacja blokad umieszczonych na skrzynkach pocztowych
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,29 +12,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538805"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724786"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Identyfikowanie czasowe zablokowanie skrzynek pocztowych
+# <a name="identify-holds-placed-on-mailboxes"></a>Identyfikowanie blokad umieszczonych na skrzynkach pocztowych
 
-Czy masz zawartości usługi Office 365, który jest **zachowywana** przez **przytrzymaj** ten nie może zidentyfikować? Chcesz **dowiedzieć się,** gdzie ładowni znajduje się w skrzynce **pocztowej** ? Blokad (*funkcje przechowywania*) można zastosować jedną z następujących metod w usłudze Office 365:
+Czy masz zawartość usługi Microsoft 365, która jest **zachowywana** przez **blokadę,** której nie można zidentyfikować? Chcesz **dowiedzieć się,** gdzie znajduje się blokada na **skrzynce pocztowej?** Blokady *(funkcje przechowywania)* mogą być stosowane za pomocą jednej z następujących metod:
   
-- Z postępowaniem sądowym
+- Wstrzymanie postępowania sądowego
 
-- Wstrzymanie zbierania elektronicznych materiałów dowodowych
+- Blokada zbierania elektronicznych materiałów dowodowych
 
-- Trzymać w miejscu
+- Wstrzymanie w miejscu
 
-- Zasady przechowywania usługi Office 365 
+- Zasady przechowywania usługi Microsoft 365 
 
-  - Zasady przechowywania określonej lokalizacji
+  - Określone zasady przechowywania lokalizacji
 
-  - Zasady przechowywania całej organizacji
+  - Zasady przechowywania w całej organizacji
 
-- Etykiety Office 365
+- Etykiety usługi Microsoft 365
 
-Do identyfikacji typu blokady jest stosowany do skrzynki pocztowej użytkownika, zobacz temat [jak rozpoznać typ przechowywania umieszczonych na skrzynki pocztowej programu Exchange w trybie Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Aby określić, który typ blokady jest stosowany do skrzynki pocztowej użytkownika, zobacz [Jak zidentyfikować typ blokady umieszczonej w skrzynce pocztowej usługi Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).

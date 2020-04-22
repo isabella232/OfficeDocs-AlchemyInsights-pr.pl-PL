@@ -1,8 +1,8 @@
 ---
-title: Konfigurowanie przekazywania danych do wielu adresów e-mail
+title: Konfigurowanie przekazywania dalej wielu adresów e-mail
 ms.author: pebaum
 author: pebaum
-ms.date: 5/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "837"
 - "1200004"
 ms.assetid: 81205bed-e32a-468d-9d4c-9e881622908b
-ms.openlocfilehash: c97bbeff15cf615d25c43be49f72f90809a4178b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 76fb9018c1711e44926d52407d42ab8c654cfc45
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549805"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758518"
 ---
-# <a name="setting-up-forwarding-to-multiple-email-addresses"></a>Konfigurowanie przekazywania danych do wielu adresów e-mail
+# <a name="setting-up-forwarding-to-multiple-email-addresses"></a>Konfigurowanie przekazywania dalej wielu adresów e-mail
 
-Jeśli trzeba skonfigurować pocztę e-mail przesyłać dalej do grupy użytkowników, tworzenie listy dystrybucyjnej, dodać do niego wielu użytkowników, a następnie skonfiguruj przekazywania danych do tej listy. Po pierwsze, w Centrum administracyjnego, przejdź do **grupy** > [grup](https://portal.office.com/adminportal/home#/groups).
+Jeśli chcesz skonfigurować przekazywanie wiadomości e-mail do grupy użytkowników, utwórz listę dystrybucyjną, dodaj do niej wielu użytkowników, a następnie skonfiguruj przekazywanie do tej listy. Najpierw w centrum administracyjnym przejdź do pozycji **Grupy** > [grup](https://portal.office.com/adminportal/home#/groups).
   
-1. Utwórz grupę.
+1. Tworzenie grupy.
 
-2. Wielu użytkowników można dodać do niego.
+2. Dodaj do niego wielu użytkowników.
 
-3. Konfigurowanie skrzynki pocztowej przesyłania dalej do tej grupy.
+3. Skonfiguruj przekazywanie skrzynek pocztowych do tej grupy.

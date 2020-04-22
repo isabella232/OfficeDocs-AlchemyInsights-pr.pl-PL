@@ -1,9 +1,9 @@
 ---
-title: Blokowanie lub odblokowywanie nadawców w programie Outlook w sieci web
+title: Blokowanie lub odblokowywanie nadawców w aplikacji Outlook w sieci Web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/17/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000015"
 - "2001"
-ms.openlocfilehash: fcd41108cb96fffac8b20ff7160199588f0886a8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e15ac7a1f2c81121bf8fdb66a8872f79f9f227d6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510957"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720370"
 ---
-# <a name="block-or-unblock-senders-in-outlook-on-the-web"></a>Blokowanie lub odblokowywanie nadawców w programie Outlook w sieci web
+# <a name="block-or-unblock-senders-in-outlook-on-the-web"></a>Blokowanie lub odblokowywanie nadawców w aplikacji Outlook w sieci Web
 
 **Ze skrzynki odbiorczej:**
 
-- Na liście wiadomości zaznacz wiadomość, a następnie wybierz **wiadomości-śmieci** > **bloku**.
+- Na liście wiadomości zaznacz wiadomość, a następnie wybierz pozycję**Blokowanie** **wiadomości-śmieci** > .
 
-**Od ustawień:**
+**W ustawieniach:**
 
-1. U góry strony wybierz ikonę koła zębatego <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- Aby otworzyć okno Ustawienia, a następnie wybierz **Pokaż wszystkie ustawienia programu Outlook**.
-2. Wybierz pozycję **Poczta** > **e-mail wiadomości-śmieci**.
-3. W obszarze **zablokowanych nadawców i domen**wybierz opcję **Dodaj**.
-4. Wpisz adres e-mail domeny, którą chcesz zablokować, a następnie naciśnij klawisz Enter.
+1. W górnej części strony wybierz ikonę koła zębatego <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ , aby otworzyć ustawienia, a następnie wybrać pozycję **Wyświetl wszystkie ustawienia programu Outlook**.
+2. Wybierz pozycję Wyślij**wiadomość-10** **Mail** > - wiadomości-śmieci .
+3. W obszarze **Zablokowani nadawcy i domeny**wybierz pozycję **Dodaj**.
+4. Wpisz adres e-mail domeny, którą chcesz zablokować, i naciśnij klawisz Enter.
 5. Wybierz pozycję **Zapisz**.
 
-Aby odblokować nadawcy, wybierz ikonę Kosza obok adres e-mail lub domenę, którą chcesz odblokować.
+Aby odblokować nadawcę, wybierz ikonę kosza obok adresu e-mail lub domeny, którą chcesz odblokować.
 
-Aby dowiedzieć się więcej, zobacz [blokowanie nadawców lub odblokowywanie nadawców w programie Outlook w sieci web](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
+Aby dowiedzieć się więcej, zobacz [Blokowanie nadawców lub odblokowywanie nadawców w aplikacji Outlook w sieci Web](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).

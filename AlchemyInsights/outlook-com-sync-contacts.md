@@ -1,9 +1,9 @@
 ---
-title: Synchronizuj kontakty w Hotmail
+title: Synchronizowanie kontaktów w Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "2404"
 - "8000048"
 - "9000554"
-ms.openlocfilehash: 6044f9d730a128de71708c131849e8ed78dd35a0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8c5d5fd6c3504dac244d2ed6ed7ac444a10d2a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511785"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722278"
 ---
-# <a name="sync-contacts"></a>Synchronizuj kontakty
+# <a name="sync-contacts"></a>Synchronizowanie kontaktów
 
-Program Outlook synchronizuje kontakty utworzone w [osób](https://outlook.live.com/people/) na innych urządzeniach i aplikacjach, takich jak Outlook dla Androida i Outlook dla iOS. Dowiedz się, jak [utworzyć kontakty](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
+Program Outlook synchronizuje kontakty utworzone w [aplikacji Kontakty](https://outlook.live.com/people/) na innych urządzeniach i w innych aplikacjach, takich jak Outlook dla systemu Android i Outlook dla systemu iOS. Dowiedz się, jak [tworzyć kontakty](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
 
-Zaimportowane kontakty (na przykład kontakty z innego konta e-mail, podłączenia do swojego konta Hotmail) nie są synchronizowane. Dowiedz się, jak [importować kontakty](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).
+Zaimportowane kontakty (na przykład kontakty z innego konta e-mail połączonego z kontem Outlook.com) nie są synchronizowane. Dowiedz się, jak [importować kontakty](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).

@@ -1,9 +1,9 @@
 ---
-title: Wymagane licencje dla ToDo firmy Microsoft
+title: Wymagane licencje dla firmy Microsoft ToDo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,50 +13,50 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 110bc5b949060387bbebb478538d9aeb77f26c85
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eb25746eff60463f7182df4785a3c34d958e6c39
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552181"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722666"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>Wymagane licencje dla ToDo firmy Microsoft
+# <a name="required-licenses-for-microsoft-todo"></a>Wymagane licencje dla firmy Microsoft ToDo
 
-[Wymagane licencje dla ToDo firmy Microsoft](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Wymagane licencje dla firmy Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-Użytkownik musi mieć jedną z następujących licencji, aby użyć Microsoft ToDo:
+Aby korzystać z funkcji Microsoft ToDo, użytkownik musi mieć jedną z następujących licencji:
   
-- Podstawy udanej działalności
+- Podstawowe informacje o biznesie
 
-- Firma Premium
+- Premia biznesowa
 
-- Microsoft 365 Firstline F1
+- Pierwsza linia linii microsoft 365 F1
 
-- Wszelkich planach Office 365 Enterprise
+- Dowolny plan usługi Office 365 Enterprise
 
-- Bezpieczne wydajne biznesowe
+- Bezpieczna firma produkcyjna
 
-- Secure E3 przedsiębiorstwa produkcyjnego
+- Bezpieczna wydajność korporacyjna E3
 
-- Secure E5 przedsiębiorstwa produkcyjnego
+- Bezpieczne wydajne przedsiębiorstwo E5
 
-- Wszelkich planach Office 365 Education
+- Dowolny plan usługi Office 365 Dla Szkół i Uczelni
 
-- A3 Microsoft 365
+- Microsoft 365 A3
 
-- A5 Microsoft 365
+- Microsoft 365 A5
 
-Oprócz licencji prawidłowego produktu jedną z następujących wersji programu Exchange Online jest potrzebne do ToDo umożliwia synchronizowanie danych użytkownika:
+Oprócz ważnej licencji produktu, aby można było synchronizować dane użytkownika, potrzebna jest jedna z następujących wersji usługi Exchange Online:
   
-- Exchange Online Plan 1
+- Plan usługi Exchange Online 1
 
-- Exchange Online Plan 2
+- Plan usługi Exchange Online 2
 
-- Podstawowe informacje dotyczące programu Exchange
+- Podstawowe informacje o wymianie
 
 - Exchange Online Kiosk
 
-- POP Online programu Exchange
+- Exchange Online POP
 
-[Przypisywanie licencji do kont użytkowników przy użyciu programu PowerShell Office 365](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[Przypisywanie licencji do kont użytkowników w usłudze Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

@@ -1,9 +1,9 @@
 ---
-title: 8000031 nie można usunąć zdjęcia z plików
+title: 8000031 Nie można usunąć zdjęć z plików
 ms.author: daeite
 author: daeite
 manager: dansimp
-ms.date: 10/11/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,20 +14,20 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 509c36f9f07c13ee27c83d7754da541879c7ca1b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1ceb489be5100a16eafdb9adb0f38eb472852e48
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533133"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43731518"
 ---
-# <a name="unable-to-delete-photos-from-files"></a>Nie można usunąć zdjęcia z plików
+# <a name="unable-to-delete-photos-from-files"></a>Nie można usunąć zdjęć z plików
 
-Aby usunąć zdjęcia z plików w Hotmail:
+Aby usunąć zdjęcia z plików w Outlook.com:
   
-1. Przejdź do folderu **Skrzynka odbiorcza** lub **Elementy wysłane** i usunąć wiadomość e-mail, do którego je dołączono.
+1. Przejdź do **folderu Skrzynka odbiorcza** lub **Elementy wysłane** i usuń wiadomość e-mail, do których są dołączone.
 
-2. Usuń przedmioty z **usuniętych elementów**.
+2. Usuń elementy z **usuniętych elementów**.
 
-Aby uzyskać więcej informacji przeczytaj, [jak usuwanie plików lub zdjęć w Hotmail](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
+Aby uzyskać więcej informacji, przeczytaj [jak usunąć pliki lub zdjęcia w Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
   
