@@ -1,9 +1,9 @@
 ---
-title: Zablokować otrzymywanie wiadomości do folderu wiadomości-śmieci wiadomości E-mail w Hotmail
+title: Zatrzymywać wiadomości przed przejściem do folderu Wiadomości-śmieci w Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/16/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 062a0d9bfbd83ed40457f603cc739e3a916c7045
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1da0c7b67c1f09f6ed6589848ddd2d4e5a5775a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511929"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710957"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder"></a><span data-ttu-id="328a2-102">Zablokować otrzymywanie wiadomości do folderu wiadomości-śmieci wiadomości E-mail</span><span class="sxs-lookup"><span data-stu-id="328a2-102">Stop messages from going to your Junk Email folder</span></span>
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a><span data-ttu-id="135f0-102">Zatrzymywać przechodzenie wiadomości do folderu Wiadomości-śmieci</span><span class="sxs-lookup"><span data-stu-id="135f0-102">Stop messages from going to your Junk Email folder</span></span>
 
-<span data-ttu-id="328a2-103">Jeśli użytkownik odkryje, że wiadomości e-mail w folderze wiadomości-śmieci programu Hotmail nie jest wiadomości-śmieci:</span><span class="sxs-lookup"><span data-stu-id="328a2-103">If you discover that an email message in your Junk Email folder in Outlook.com isn't junk:</span></span>
+<span data-ttu-id="135f0-103">Jeśli odkryjesz, że wiadomość e-mail w folderze Wiadomości-śmieci w Outlook.com nie jest śmieciowa:</span><span class="sxs-lookup"><span data-stu-id="135f0-103">If you discover that an email message in your Junk Email folder in Outlook.com isn't junk:</span></span>
 
-1. <span data-ttu-id="328a2-104">Otwórz [folder wiadomości-śmieci wiadomości E-mail](https://outlook.live.com/mail/junkemail).</span><span class="sxs-lookup"><span data-stu-id="328a2-104">Open your [Junk Email folder](https://outlook.live.com/mail/junkemail).</span></span>
-1. <span data-ttu-id="328a2-105">Zaznacz wiadomość.</span><span class="sxs-lookup"><span data-stu-id="328a2-105">Select the message.</span></span> <span data-ttu-id="328a2-106">(*Uwaga:* elementów w folderze wiadomości-śmieci wiadomości E-mail są usuwane po 30 dniach.)</span><span class="sxs-lookup"><span data-stu-id="328a2-106">(*Note:* Items in your Junk Email folder are deleted after 30 days.)</span></span>
-1. <span data-ttu-id="328a2-107">Powyżej liście wiadomości zaznacz **Wiadomość niebędąca śmieciem** > **Wiadomość niebędąca śmieciem**.</span><span class="sxs-lookup"><span data-stu-id="328a2-107">Above the message list, select **Not junk** > **Not junk**.</span></span>
+1. <span data-ttu-id="135f0-104">Otwórz [folder Wiadomości-śmieci](https://outlook.live.com/mail/junkemail).</span><span class="sxs-lookup"><span data-stu-id="135f0-104">Open your [Junk Email folder](https://outlook.live.com/mail/junkemail).</span></span>
+1. <span data-ttu-id="135f0-105">Wybierz wiadomość.</span><span class="sxs-lookup"><span data-stu-id="135f0-105">Select the message.</span></span> <span data-ttu-id="135f0-106">(*Uwaga:* Elementy w folderze Wiadomości-śmieci są usuwane po 30 dniach).</span><span class="sxs-lookup"><span data-stu-id="135f0-106">(*Note:* Items in your Junk Email folder are deleted after 30 days.)</span></span>
+1. <span data-ttu-id="135f0-107">Nad listą wiadomości wybierz pozycję **Nie śmieci** > **nie są śmieciami.**</span><span class="sxs-lookup"><span data-stu-id="135f0-107">Above the message list, select **Not junk** > **Not junk**.</span></span>
 
-<span data-ttu-id="328a2-108">Jeśli chcesz uniemożliwić wszystkie wiadomości od nadawcy, przechodząc do folderu wiadomości-śmieci wiadomości E-mail, należy dodać nadawcę do listy bezpiecznych nadawców:</span><span class="sxs-lookup"><span data-stu-id="328a2-108">If you want to prevent any messages from a sender from going to the Junk Email folder, add the sender to your safe senders list:</span></span>
+<span data-ttu-id="135f0-108">Jeśli chcesz uniemożliwić wysyłaniu wiadomości od nadawcy do folderu Wiadomości-śmieci, dodaj nadawcę do listy bezpiecznych nadawców:</span><span class="sxs-lookup"><span data-stu-id="135f0-108">If you want to prevent any messages from a sender from going to the Junk Email folder, add the sender to your safe senders list:</span></span>
 
-1. <span data-ttu-id="328a2-109">Otwórz [Ustawienia poczty e-mail wiadomości-śmieci](https://go.microsoft.com/fwlink/?linkid=2035804).</span><span class="sxs-lookup"><span data-stu-id="328a2-109">Open your [Junk email settings](https://go.microsoft.com/fwlink/?linkid=2035804).</span></span>
-1. <span data-ttu-id="328a2-110">W obszarze **bezpiecznych nadawców i domen**wybierz opcję **Dodaj**, wpisz adres e-mail lub domenę, którą chcesz dodać i wybierz przycisk **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="328a2-110">Under **Safe senders and domains**, select **Add**, enter the email address or domain you want to add, and select **Save**.</span></span>
+1. <span data-ttu-id="135f0-109">Otwórz [ustawienia wiadomości-śmieci](https://go.microsoft.com/fwlink/?linkid=2035804).</span><span class="sxs-lookup"><span data-stu-id="135f0-109">Open your [Junk email settings](https://go.microsoft.com/fwlink/?linkid=2035804).</span></span>
+1. <span data-ttu-id="135f0-110">W obszarze **Bezpieczni nadawcy i domeny**wybierz pozycję **Dodaj**, wprowadź adres e-mail lub domenę, którą chcesz dodać, a następnie wybierz pozycję **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="135f0-110">Under **Safe senders and domains**, select **Add**, enter the email address or domain you want to add, and select **Save**.</span></span>
 
-<span data-ttu-id="328a2-111">Aby dowiedzieć się więcej, przeczytaj [oznaczyć wiadomości e-mail jako wiadomości-śmieci lub blok nadawców w Hotmail](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="328a2-111">To learn more, read [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="135f0-111">Aby dowiedzieć się więcej, przeczytaj [opcję Oznaczanie wiadomości e-mail jako wiadomości-śmieci lub blokowanie nadawców w Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="135f0-111">To learn more, read [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

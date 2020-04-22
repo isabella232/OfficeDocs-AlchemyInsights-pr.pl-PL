@@ -1,9 +1,9 @@
 ---
-title: Wygasłe subskrypcja
+title: Wygasła subskrypcja
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,37 +13,37 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665050"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714160"
 ---
-# <a name="expired-subscription"></a><span data-ttu-id="f015e-102">Wygasłe subskrypcja</span><span class="sxs-lookup"><span data-stu-id="f015e-102">Expired subscription</span></span>
+# <a name="expired-subscription"></a><span data-ttu-id="0449d-102">Wygasła subskrypcja</span><span class="sxs-lookup"><span data-stu-id="0449d-102">Expired subscription</span></span>
 
-<span data-ttu-id="f015e-103">Wydaje się, masz jedną lub więcej wygasłe subskrypcje.</span><span class="sxs-lookup"><span data-stu-id="f015e-103">It appears you have one or more expired subscriptions.</span></span> <span data-ttu-id="f015e-104">Jeśli chcesz kontynuować usługę, musisz ponownie aktywować subskrypcję lub dokonać nowego zakupu.</span><span class="sxs-lookup"><span data-stu-id="f015e-104">If you would like to continue service, you must reactivate the subscription, or make a new purchase.</span></span>
+<span data-ttu-id="0449d-103">Wygląda na to, że masz jedną lub więcej wygasłych subskrypcji.</span><span class="sxs-lookup"><span data-stu-id="0449d-103">It appears you have one or more expired subscriptions.</span></span> <span data-ttu-id="0449d-104">Jeśli chcesz kontynuować usługę, musisz ponownie aktywować subskrypcję lub dokonać nowego zakupu.</span><span class="sxs-lookup"><span data-stu-id="0449d-104">If you would like to continue service, you must reactivate the subscription, or make a new purchase.</span></span>
   
-<span data-ttu-id="f015e-105">**Ponownie uaktywnić**</span><span class="sxs-lookup"><span data-stu-id="f015e-105">**Reactivate**</span></span>
+<span data-ttu-id="0449d-105">**Ponowne aktywowanie**</span><span class="sxs-lookup"><span data-stu-id="0449d-105">**Reactivate**</span></span>
   
-1. <span data-ttu-id="f015e-106">W centrum administracyjnym przejdź na stronę usługi **fakturowania** \> [produktów _amp_](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="f015e-106">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="0449d-106">W centrum administracyjnym przejdź do strony **Rozliczenia** \> [Produkty i usługi](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="0449d-106">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="f015e-107">Znajdź subskrypcję, którą chcesz ponownie uaktywnić.</span><span class="sxs-lookup"><span data-stu-id="f015e-107">Find the subscription that you want to reactivate.</span></span> <span data-ttu-id="f015e-108">W sekcji **rozliczenia** wybierz opcję **Uaktywnij ponownie**.</span><span class="sxs-lookup"><span data-stu-id="f015e-108">In the **Billing** section, choose **Reactivate**.</span></span>
+2. <span data-ttu-id="0449d-107">Znajdź subskrypcję, którą chcesz ponownie aktywować.</span><span class="sxs-lookup"><span data-stu-id="0449d-107">Find the subscription that you want to reactivate.</span></span> <span data-ttu-id="0449d-108">W sekcji **Rozliczenia** wybierz pozycję **Aktywuj ponownie**.</span><span class="sxs-lookup"><span data-stu-id="0449d-108">In the **Billing** section, choose **Reactivate**.</span></span>
 
-<span data-ttu-id="f015e-109">Jeśli nie widzisz **ponownej aktywacji** jako dostępnej akcji, zadzwoń do pomocy technicznej, aby ponownie uaktywnić subskrypcję.</span><span class="sxs-lookup"><span data-stu-id="f015e-109">If you don't see **Reactivate** as an available action, call support to reactivate your subscription.</span></span>
+<span data-ttu-id="0449d-109">Jeśli nie widzisz pozycji **Aktywuj ponownie** jako dostępnej akcji, zadzwoń do pomocy technicznej, aby ponownie aktywować subskrypcję.</span><span class="sxs-lookup"><span data-stu-id="0449d-109">If you don't see **Reactivate** as an available action, call support to reactivate your subscription.</span></span>
 
-3. <span data-ttu-id="f015e-110">Potwierdź szczegóły płatności.</span><span class="sxs-lookup"><span data-stu-id="f015e-110">Confirm your payment details.</span></span> <span data-ttu-id="f015e-111">Możesz zaktualizować istniejące informacje o płatności tutaj.</span><span class="sxs-lookup"><span data-stu-id="f015e-111">You can update your existing payment information here.</span></span> <span data-ttu-id="f015e-112">Po zakończeniu wprowadzania metody płatności wybierz opcję **Aktywuj ponownie**.</span><span class="sxs-lookup"><span data-stu-id="f015e-112">When you're finished entering your payment method, choose **Reactivate**.</span></span>
+3. <span data-ttu-id="0449d-110">Potwierdź dane dotyczące płatności.</span><span class="sxs-lookup"><span data-stu-id="0449d-110">Confirm your payment details.</span></span> <span data-ttu-id="0449d-111">Tutaj możesz zaktualizować swoje istniejące informacje o płatności.</span><span class="sxs-lookup"><span data-stu-id="0449d-111">You can update your existing payment information here.</span></span> <span data-ttu-id="0449d-112">Po zakończeniu wprowadzania metody płatności wybierz pozycję **Aktywuj ponownie**.</span><span class="sxs-lookup"><span data-stu-id="0449d-112">When you're finished entering your payment method, choose **Reactivate**.</span></span>
 
-<span data-ttu-id="f015e-113">Aby dowiedzieć się więcej, zobacz temat [Ponowne uaktywnianie subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="f015e-113">To learn more, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
+<span data-ttu-id="0449d-113">Aby dowiedzieć się więcej, zobacz [Ponowne aktywowanie subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="0449d-113">To learn more, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
 
-<span data-ttu-id="f015e-114">**Dokonaj nowego zakupu**</span><span class="sxs-lookup"><span data-stu-id="f015e-114">**Make a new purchase**</span></span>
+<span data-ttu-id="0449d-114">**Dokonaj nowego zakupu**</span><span class="sxs-lookup"><span data-stu-id="0449d-114">**Make a new purchase**</span></span>
   
-1. <span data-ttu-id="f015e-115">W centrum administracyjnym przejdź na stronę **rozliczenia** \> [usług zakupu](https://go.microsoft.com/fwlink/p/?linkid=868433) .</span><span class="sxs-lookup"><span data-stu-id="f015e-115">In the admin center, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
+1. <span data-ttu-id="0449d-115">W centrum administracyjnym przejdź do strony Usługi zakupu **rozliczeń.** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)</span><span class="sxs-lookup"><span data-stu-id="0449d-115">In the admin center, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
 
-2. <span data-ttu-id="f015e-116">Wybierz subskrypcję, którą chcesz kupić, a następnie wybierz opcję **Kup**.</span><span class="sxs-lookup"><span data-stu-id="f015e-116">Choose the subscription that you want to buy, then choose **Buy**.</span></span>
+2. <span data-ttu-id="0449d-116">Wybierz subskrypcję, którą chcesz kupić, a następnie wybierz pozycję **Kup**.</span><span class="sxs-lookup"><span data-stu-id="0449d-116">Choose the subscription that you want to buy, then choose **Buy**.</span></span>
 
-3. <span data-ttu-id="f015e-117">Wprowadź liczbę potrzebnych licencji i wybierz, czy chcesz płacić co miesiąc, czy za cały rok.</span><span class="sxs-lookup"><span data-stu-id="f015e-117">Enter the number of licenses that you need, and choose whether to pay each month or for the whole year.</span></span> <span data-ttu-id="f015e-118">Określ, czy chcesz automatycznie przypisywać licencje do każdego użytkownika, który obecnie nie ma licencji.</span><span class="sxs-lookup"><span data-stu-id="f015e-118">Choose whether you want to automatically assign licenses to everyone who does not currently have a license.</span></span> <span data-ttu-id="f015e-119">Następnie wybierz **wyewidencjonować teraz**.</span><span class="sxs-lookup"><span data-stu-id="f015e-119">Then choose **Check out now**.</span></span>
+3. <span data-ttu-id="0449d-117">Wprowadź liczbę potrzebnych licencji i wybierz, czy chcesz płacić co miesiąc, czy za cały rok.</span><span class="sxs-lookup"><span data-stu-id="0449d-117">Enter the number of licenses that you need, and choose whether to pay each month or for the whole year.</span></span> <span data-ttu-id="0449d-118">Określ, czy chcesz automatycznie przypisywać licencje do każdego użytkownika, który obecnie nie ma licencji.</span><span class="sxs-lookup"><span data-stu-id="0449d-118">Choose whether you want to automatically assign licenses to everyone who does not currently have a license.</span></span> <span data-ttu-id="0449d-119">Następnie wybierz pozycję **Wyewidencjonuj teraz**.</span><span class="sxs-lookup"><span data-stu-id="0449d-119">Then choose **Check out now**.</span></span>
 
-4. <span data-ttu-id="f015e-120">Wykonaj pozostałe kroki, aby zakończyć wyewidencjonować.</span><span class="sxs-lookup"><span data-stu-id="f015e-120">Follow the remaining steps to complete check out.</span></span>
+4. <span data-ttu-id="0449d-120">Wykonaj pozostałe kroki, aby zakończyć wyewidencjonowanie.</span><span class="sxs-lookup"><span data-stu-id="0449d-120">Follow the remaining steps to complete check out.</span></span>
 
-<span data-ttu-id="f015e-121">Aby dowiedzieć się więcej, zobacz [kupowanie kolejnej subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).</span><span class="sxs-lookup"><span data-stu-id="f015e-121">To learn more, see [Buy another subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).</span></span>
+<span data-ttu-id="0449d-121">Aby dowiedzieć się więcej, zobacz [Kupowanie innej subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).</span><span class="sxs-lookup"><span data-stu-id="0449d-121">To learn more, see [Buy another subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).</span></span>
