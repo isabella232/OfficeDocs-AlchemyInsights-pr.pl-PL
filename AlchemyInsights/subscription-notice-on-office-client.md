@@ -1,9 +1,9 @@
 ---
-title: Obwieszczenie subskrypcji w klienta pakietu Office
+title: Powiadomienie o subskrypcji w kliencie pakietu Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,17 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 03bd18b0ca7af8f3102041c4f6fd604bb29737f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 661ac7b7c7a6556ab22d08e9fc0e8d6e25d7133c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559779"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741873"
 ---
-# <a name="subscription-notice-in-your-office-client"></a><span data-ttu-id="52433-102">Należy zauważyć, że subskrypcji w klienta pakietu Office?</span><span class="sxs-lookup"><span data-stu-id="52433-102">Subscription notice in your Office client?</span></span>
+# <a name="subscription-notice-in-your-office-client"></a><span data-ttu-id="22171-102">Powiadomienie o subskrypcji w kliencie pakietu Office?</span><span class="sxs-lookup"><span data-stu-id="22171-102">Subscription notice in your Office client?</span></span>
 
-<span data-ttu-id="52433-103">Wygląda na to widzisz ogłoszenie w komputerze klienta pakietu Office związane z statusu subskrypcji usługi Office 365.</span><span class="sxs-lookup"><span data-stu-id="52433-103">It looks like you are seeing a notice in your Office client related to the status of your Office 365 subscription.</span></span> <span data-ttu-id="52433-104">Informacje dotyczące sposobu rozwiązania problemu w tym artykule można znaleźć: [subskrypcji są wyświetlane po otwarciu aplikacji Office 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)</span><span class="sxs-lookup"><span data-stu-id="52433-104">You can find information on how to fix the issue in this article: [A subscription notice appears when I open an Office 365 application](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)</span></span>
+<span data-ttu-id="22171-103">Wygląda na to, że widzisz powiadomienie w kliencie pakietu Office związane ze stanem subskrypcji.</span><span class="sxs-lookup"><span data-stu-id="22171-103">It looks like you are seeing a notice in your Office client related to the status of your subscription.</span></span> <span data-ttu-id="22171-104">Informacje na temat rozwiązania problemu można znaleźć w tym artykule: [Po otwarciu aplikacji Microsoft 365 pojawia się informacja o subskrypcji](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)</span><span class="sxs-lookup"><span data-stu-id="22171-104">You can find information on how to fix the issue in this article: [A subscription notice appears when I open a Microsoft 365 application](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)</span></span>
   
-<span data-ttu-id="52433-105">Jeśli subskrypcja usługi Office 365 jest aktualny, może mają trafić tymczasowego problemu, który spowodował podczas aktywacji pakietu Office nie powiedzie się.</span><span class="sxs-lookup"><span data-stu-id="52433-105">If your Office 365 subscription is up-to-date, you might have hit a temporary issue that caused your Office activation to fail.</span></span> <span data-ttu-id="52433-106">Istnieją proste kroki, które można podjąć, aby uniknąć wyświetlania tych komunikatów, takich jak sprawdzanie czas w komputerze, pakiet Office jest uruchamiany jako Administrator i zalogować się do aktywacji.</span><span class="sxs-lookup"><span data-stu-id="52433-106">There are simple steps you can take to avoid these messages, like checking your computer time, running Office as Administrator, and signing in to activate.</span></span> <span data-ttu-id="52433-107">Szczegółowe kroki, aby naprawić te problemy w tym artykule można znaleźć: [produkt bez licencji i błędów aktywacji pakietu Office](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).</span><span class="sxs-lookup"><span data-stu-id="52433-107">You can find detailed steps to fix those issues in this article: [Unlicensed Product and activation errors in Office](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).</span></span>
+<span data-ttu-id="22171-105">Jeśli subskrypcja jest aktualna, być może został on dotknięty tymczasowym problemem, który spowodował niepowodzenie aktywacji pakietu Office.</span><span class="sxs-lookup"><span data-stu-id="22171-105">If your subscription is up-to-date, you might have hit a temporary issue that caused your Office activation to fail.</span></span> <span data-ttu-id="22171-106">Istnieją proste kroki, które można wykonać, aby uniknąć tych wiadomości, takie jak sprawdzanie czasu komputera, uruchamianie pakietu Office jako administratora i logowanie się w celu aktywacji.</span><span class="sxs-lookup"><span data-stu-id="22171-106">There are simple steps you can take to avoid these messages, like checking your computer time, running Office as Administrator, and signing in to activate.</span></span> <span data-ttu-id="22171-107">Szczegółowe kroki, aby rozwiązać te problemy, można znaleźć w tym artykule: [Nielicencjonowany produkt i błędy aktywacji](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).</span><span class="sxs-lookup"><span data-stu-id="22171-107">You can find detailed steps to fix those issues in this article: [Unlicensed Product and activation errors](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).</span></span>
   
-<span data-ttu-id="52433-108">Jeśli to nie zadziała, prosimy o kontakt z łączy poniżej, i będziemy chętnie pomogą.</span><span class="sxs-lookup"><span data-stu-id="52433-108">If these don't work for you, please contact us with the links below and we will be glad to help.</span></span>
-  
+<span data-ttu-id="22171-108">Jeśli te nie działają dla Ciebie, skontaktuj się z nami z poniższymi linkami, a my z przyjemnością pomożemy.</span><span class="sxs-lookup"><span data-stu-id="22171-108">If these don't work for you, please contact us with the links below and we will be glad to help.</span></span>

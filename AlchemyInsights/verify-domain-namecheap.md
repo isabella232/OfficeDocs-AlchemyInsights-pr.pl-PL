@@ -1,5 +1,5 @@
 ---
-title: Weryfikowanie domeny za pomocą Namecheap
+title: Weryfikowanie domeny za pomocą aplikacji Namecheap
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: ac7a66fc3315132f85eccba6cfa7eb5d2c7f5465
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: 046a64632c4708ddd48730e00b13da13880ae365
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42326225"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721784"
 ---
-# <a name="verify-your-domain-with-namecheap"></a><span data-ttu-id="2def4-102">Weryfikowanie domeny za pomocą Namecheap</span><span class="sxs-lookup"><span data-stu-id="2def4-102">Verify your domain with Namecheap</span></span>
+# <a name="verify-your-domain-with-namecheap"></a><span data-ttu-id="a6bdc-102">Weryfikowanie domeny za pomocą aplikacji Namecheap</span><span class="sxs-lookup"><span data-stu-id="a6bdc-102">Verify your domain with Namecheap</span></span>
 
-<span data-ttu-id="2def4-103">Aby zweryfikować domenę, musisz dodać rekord TXT do rejestratora domen, aby sprawdzić, czy jesteś właścicielem domeny.</span><span class="sxs-lookup"><span data-stu-id="2def4-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="a6bdc-103">Aby zweryfikować domenę, musisz dodać rekord TXT do rejestratora domen, aby sprawdzić, czy jesteś właścicielem domeny.</span><span class="sxs-lookup"><span data-stu-id="a6bdc-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="2def4-104">Najpierw postępuj zgodnie [z kreatorem Dodaj domenę,](https://portal.office.com/adminportal/home#/Domains) wybierając pozycję **Ustawienia** \> **Domeny**, a następnie **dodaj domenę**.</span><span class="sxs-lookup"><span data-stu-id="2def4-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="a6bdc-104">Najpierw postępuj zgodnie z [kreatorem Dodaj domenę,](https://portal.office.com/adminportal/home#/Domains) wybierając pozycję **Ustawienia** \> **domen,** a następnie **dodaj domenę**.</span><span class="sxs-lookup"><span data-stu-id="a6bdc-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="2def4-105">Aby uzyskać instrukcje krok po kroku, zobacz [Tworzenie rekordów DNS w usłudze Namecheap dla usługi Office 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap)</span><span class="sxs-lookup"><span data-stu-id="2def4-105">See [Create DNS records at Namecheap for Office 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) for step-by-step instructions.</span></span>
+<span data-ttu-id="a6bdc-105">Aby uzyskać instrukcje krok po kroku, zobacz [Tworzenie rekordów DNS w witrynie Namecheap dla usługi Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap)</span><span class="sxs-lookup"><span data-stu-id="a6bdc-105">See [Create DNS records at Namecheap for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) for step-by-step instructions.</span></span>

@@ -1,9 +1,9 @@
 ---
-title: 8000088, Zapisz wiadomość e-mail w Hotmail
+title: 8000088 Zapisz wiadomość e-mail w Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,27 +14,27 @@ ms.custom:
 - "1399"
 - "1626"
 - "8000088"
-ms.openlocfilehash: de5147c772b499e6ac494ff17039d192c690b9b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b04901aa77135da48df9ce56f0af11b9ea77bbaf
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521289"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759052"
 ---
-# <a name="saving-messages-in-outlookcom"></a><span data-ttu-id="67a4d-102">Zapisywanie wiadomości w Hotmail</span><span class="sxs-lookup"><span data-stu-id="67a4d-102">Saving messages in Outlook.com</span></span>
+# <a name="saving-messages-in-outlookcom"></a><span data-ttu-id="b1565-102">Zapisywanie wiadomości w Outlook.com</span><span class="sxs-lookup"><span data-stu-id="b1565-102">Saving messages in Outlook.com</span></span>
 
-<span data-ttu-id="67a4d-103">Nie można zapisać wiadomości e-mail w Hotmail, ale można je wydrukować do pliku PDF, który można zapisać na komputerze.</span><span class="sxs-lookup"><span data-stu-id="67a4d-103">You cannot save email messages in Outlook.com, but you can print them to a PDF which you can save on your PC.</span></span>
+<span data-ttu-id="b1565-103">Wiadomości e-mail nie można zapisywać w Outlook.com, ale można je wydrukować w formacie PDF, który można zapisać na komputerze.</span><span class="sxs-lookup"><span data-stu-id="b1565-103">You cannot save email messages in Outlook.com, but you can print them to a PDF which you can save on your PC.</span></span>
 
-<span data-ttu-id="67a4d-104">Narzędzie Microsoft drukowanie na PDF dołączone do systemu Windows 10 pozwala na drukowanie wszelkie wiadomości e-mail bezpośrednio do formatu PDF.</span><span class="sxs-lookup"><span data-stu-id="67a4d-104">The Microsoft Print To PDF utility included in Windows 10 allows you to print any email message directly to a PDF.</span></span>
+<span data-ttu-id="b1565-104">Narzędzie Microsoft Print To PDF zawarte w systemie Windows 10 umożliwia drukowanie dowolnej wiadomości e-mail bezpośrednio w pliku PDF.</span><span class="sxs-lookup"><span data-stu-id="b1565-104">The Microsoft Print To PDF utility included in Windows 10 allows you to print any email message directly to a PDF.</span></span>
 
-1. <span data-ttu-id="67a4d-105">Zaznacz wiadomość, którą chcesz zapisać.</span><span class="sxs-lookup"><span data-stu-id="67a4d-105">Select the message you want to save.</span></span>
-2. <span data-ttu-id="67a4d-106">Wybierz trzy kropki</span><span class="sxs-lookup"><span data-stu-id="67a4d-106">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- <span data-ttu-id="67a4d-107">w górnej części wiadomości, a następnie wybierz</span><span class="sxs-lookup"><span data-stu-id="67a4d-107">at the top of the message and then select</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQM2C923gAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAeElEQVQ4jWP89OnTfwYqABZsgrGxsXg1LV68mDiDcCnGZwkTXqtJAMPYIMZPnz79LysrY3j+/DlZBkhKSjJ0dXVBYu358+c4Y4kQgMUiitcaGhrIMoyqBg3jlA13ESHvIANsalkYGDC9QdUwIsWFDAzQlE2SDhwAAENlLpSLmVb+AAAAAElFTkSuQmCC' />
- <span data-ttu-id="67a4d-108">**Drukuj**.</span><span class="sxs-lookup"><span data-stu-id="67a4d-108">**Print**.</span></span>
-3. <span data-ttu-id="67a4d-109">Ponownie wybierz polecenie **Drukuj** , a następnie z menu rozwijanego drukarki, zaznacz opcję **Drukuj firmy Microsoft do pliku PDF**.</span><span class="sxs-lookup"><span data-stu-id="67a4d-109">Select **Print** again, and from the printer drop-down menu, select **Microsoft Print to PDF**.</span></span>
-4. <span data-ttu-id="67a4d-110">Wybierz polecenie **Drukuj**.</span><span class="sxs-lookup"><span data-stu-id="67a4d-110">Select **Print**.</span></span>
-5. <span data-ttu-id="67a4d-111">Wprowadź nazwę pliku, a następnie wybierz przycisk **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="67a4d-111">Enter a file name then select **Save**.</span></span>
+1. <span data-ttu-id="b1565-105">Wybierz wiadomość, którą chcesz zapisać.</span><span class="sxs-lookup"><span data-stu-id="b1565-105">Select the message you want to save.</span></span>
+2. <span data-ttu-id="b1565-106">Wybierz trzy kropki</span><span class="sxs-lookup"><span data-stu-id="b1565-106">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ <span data-ttu-id="b1565-107">w górnej części wiadomości, a następnie wybierz pozycję</span><span class="sxs-lookup"><span data-stu-id="b1565-107">at the top of the message and then select</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQM2C923gAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAeElEQVQ4jWP89OnTfwYqABZsgrGxsXg1LV68mDiDcCnGZwkTXqtJAMPYIMZPnz79LysrY3j+/DlZBkhKSjJ0dXVBYu358+c4Y4kQgMUiitcaGhrIMoyqBg3jlA13ESHvIANsalkYGDC9QdUwIsWFDAzQlE2SDhwAAENlLpSLmVb+AAAAAElFTkSuQmCC' />
+ <span data-ttu-id="b1565-108">**Drukowanie**.</span><span class="sxs-lookup"><span data-stu-id="b1565-108">**Print**.</span></span>
+3. <span data-ttu-id="b1565-109">Wybierz **pozycję Drukuj** ponownie, a następnie z menu rozwijanego drukarki wybierz pozycję **Microsoft Print to PDF**.</span><span class="sxs-lookup"><span data-stu-id="b1565-109">Select **Print** again, and from the printer drop-down menu, select **Microsoft Print to PDF**.</span></span>
+4. <span data-ttu-id="b1565-110">Wybierz **pozycję Drukuj**.</span><span class="sxs-lookup"><span data-stu-id="b1565-110">Select **Print**.</span></span>
+5. <span data-ttu-id="b1565-111">Wprowadź nazwę pliku, a następnie wybierz pozycję **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="b1565-111">Enter a file name then select **Save**.</span></span>
 
-<span data-ttu-id="67a4d-112">**Uwaga:** Nie jest to zalecane na komputerach udostępnionych lub publicznych, jak inni użytkownicy mogą mieć dostęp do wszelkich dokumentów PDF, Zapisz na komputerze PC i nie należy usuwać.</span><span class="sxs-lookup"><span data-stu-id="67a4d-112">**Note:** This is not recommended on shared or public computers as other users could have access to any PDFs you save to the PC and don't delete.</span></span>
+<span data-ttu-id="b1565-112">**Uwaga:** Nie jest to zalecane na komputerach udostępnionych lub publicznych, ponieważ inni użytkownicy mogą mieć dostęp do plików PDF zapisywanych na komputerze i nie usuwać.</span><span class="sxs-lookup"><span data-stu-id="b1565-112">**Note:** This is not recommended on shared or public computers as other users could have access to any PDFs you save to the PC and don't delete.</span></span>
 
-<span data-ttu-id="67a4d-113">Aby uzyskać więcej informacji na temat drukowania zobacz [Drukowanie wiadomości e-mail, załączniki i kalendarzy w Hotmail](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="67a4d-113">For more information about printing, see [Print email messages, attachments, and calendars in Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="b1565-113">Aby uzyskać więcej informacji na temat drukowania, zobacz [Drukowanie wiadomości e-mail, załączników i kalendarzy w Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="b1565-113">For more information about printing, see [Print email messages, attachments, and calendars in Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
