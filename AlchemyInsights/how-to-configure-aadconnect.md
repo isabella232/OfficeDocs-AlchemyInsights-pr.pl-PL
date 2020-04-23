@@ -1,9 +1,9 @@
 ---
-title: 646 jak skonfigurować AADConnect
+title: 646 Jak skonfigurować AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 316d7253494c55a9bc94797d493897c2ddec516c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 713cda26e55f07f0438cb9ebe5aa9da86c4ebb3a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541595"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722573"
 ---
 # <a name="configure-sync-features"></a>Konfigurowanie funkcji synchronizacji
 
-Azure AD Connect zawiera kilka funkcji, które są domyślnie włączone, lub można włączyć później. Niektóre funkcje wymagają dodatkowej konfiguracji w konkretnych środowiskach.
+Usługa Azure AD Connect zawiera kilka funkcji, które są domyślnie włączone lub które można włączyć później. Niektóre funkcje wymagają dodatkowej konfiguracji w określonych środowiskach.
 
-- Limitów [Filtering](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) obiekty są synchronizowane Azure AD. Domyślnie wszystkie użytkownicy, kontakty, grupy, i Windows 10 kont komputerów są synchronizowane. Można uwzględnić lub wykluczyć na podstawie domen, jednostek organizacyjnych lub innych atrybutów obiektów.
+- [Filtrowanie](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) ogranicza obiekty są synchronizowane z usługą Azure AD. Domyślnie wszyscy użytkownicy, kontakty, grupy i konta komputerów z systemem Windows 10 są synchronizowane. Obiekty można dołączać lub wykluczać na podstawie domen, obiektów organizacyjnych lub innych atrybutów.
 
-- [Synchronizacja haseł mieszania](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) synchronizuje wartość skrótu hasła w usłudze Active Directory lokalnie usługą Azure AD. Dzięki temu zarządzanie hasłami w jednym miejscu, ale korzystanie z tego samego hasła w obu lokalnych i środowiskach w chmurze. Ponieważ usługa Active Directory jest autorytatywnym źródłem informacji, można użyć własnych zasad haseł.
+- [Synchronizacja skrótu hasła](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) synchronizuje skrót hasła z lokalnej usługi Active Directory do usługi Azure AD. Umożliwia to zarządzanie hasłami w jednej lokalizacji, ale używanie tego samego hasła zarówno w środowisku lokalnym, jak i w chmurze. Ponieważ usługa Active Directory jest źródłem autorytatywnym, można użyć własnych zasad haseł.
 
-- [Resetowania hasła Sklep internetowy (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) umożliwia użytkownikom resetowania haseł w chmurze podczas nadal stosowania zasad haseł użytkownika lokalnego.
+- [Samoobsługowe resetowanie haseł (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) umożliwia użytkownikom resetowanie własnych haseł w chmurze przy jednoczesnym stosowaniu lokalnych zasad haseł.
 
-- [Urządzenie stornowania](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) pozwala zarejestrowanych urządzeń w Azure AD być zapisywane z powrotem na lokalnej usługi Active Directory, mogą być używane dla dostępu warunkowego.
+- [Zapis wsteczny urządzenia](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) umożliwia zarejestrowanym urządzeniom w usłudze Azure AD zapisywanie z powrotem w lokalnej usłudze Active Directory, dzięki czemu mogą być używane do dostępu warunkowego.
 
-- [Zapobiegaj przypadkowym usunięciom](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) jest domyślnie włączona w celu zapobiegania usuwanie zbyt wiele równoczesnych obiektu (ponad 500 obiektów na synchronizacji). Można zmienić to ustawienie, aby zaspokoić potrzeby organizacji.
+- [Zapobieganie przypadkowym usuwaniom](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) jest domyślnie włączone, aby zapobiec zbyt wielu równoczesnym usuwaniom obiektów (ponad 500 obiektów na synchronizację). To ustawienie można zmienić w celu zaspokojenia potrzeb organizacji.
 
-- [Automatyczne uaktualnienie](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) jest włączona domyślnie dla instalacji express i pomaga zapewnić, że używanej wersji Azure Połącz AD jest zawsze aktualna.
+- [Automatyczne uaktualnianie](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) jest domyślnie włączone dla instalacji ekspresowych i pomaga upewnić się, że twoja wersja usługi Azure AD Connect jest zawsze aktualna.

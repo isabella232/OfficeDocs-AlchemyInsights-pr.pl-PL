@@ -3,7 +3,7 @@ title: 603 Dowiedz się, jak dostosować ustawienia planu
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "603"
 - "3800002"
 ms.assetid: d9d92a75-2ddc-41eb-b705-b2767d733f22
-ms.openlocfilehash: f7a08d64f2462036cdebc947d70126f43814884f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d2da78e005d64ddff0466e763e75d442aaf25980
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497561"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762795"
 ---
 # <a name="learn-how-to-configure-agenda-settings"></a>Dowiedz się, jak skonfigurować ustawienia planu
 
-Ustawienia porządku obrad znajdują się w ustawieniach **kalendarza** w programie Outlook w sieci web. Aby uzyskać więcej informacji zobacz [Ustawienia kalendarza w programie Outlook w sieci web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).
+Ustawienia planu znajdują się w ustawieniach **kalendarza** w aplikacji Outlook w sieci Web. Aby uzyskać więcej informacji, zobacz [Ustawienia kalendarza w aplikacji Outlook w sieci Web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).
 
-Administratorzy można użyć apletu polecenia **Set-CalendarNotification** w środowisku PowerShell Online programu Exchange do konfigurowania ustawień porządku obrad. Aby uzyskać więcej informacji zobacz [Set-CalendarNotification](https://technet.microsoft.com/library/dd351284).
+Administratorzy mogą konfigurować ustawienia planu pomiaru za pomocą polecenia cmdlet **Ustawianie kalendarzanotyfikacji** w programie Exchange Online PowerShell. Aby uzyskać więcej informacji, zobacz [Ustawianie kalendarzaNotyfikowanie](https://technet.microsoft.com/library/dd351284).

@@ -1,8 +1,8 @@
 ---
-title: Komunikat o błędzie usługi Managed Metadata Service
+title: Komunikat o błędzie usługi zarządzanych metadanych
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 49ce6799383958b3d08dc40f695736586c11ff49
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5bdea7c1c0e74ca622fc4c5d5595cc5dada3c5e0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052695"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762507"
 ---
-# <a name="managed-metadata-service-error-message"></a>Komunikat o błędzie usługi Managed Metadata Service
+# <a name="managed-metadata-service-error-message"></a>Komunikat o błędzie usługi zarządzanych metadanych
 
-Po otwarciu magazynu termin może zostać wyświetlony komunikat o błędzie: "usługa Managed Metadata Service lub Connection jest obecnie niedostępna. Nie można uruchomić puli aplikacji lub usługi sieci Web zarządzanych metadanych. Proszę skontaktować się z administratorem. "
+Po otwarciu Magazynu terminów może zostać wyświetlony komunikat o błędzie: "Usługa zarządzanych metadanych lub połączenie jest obecnie niedostępna. Pula aplikacji lub zarządzana usługa sieci Web metadanych mogły nie zostać uruchomione. Skontaktuj się z administratorem."
   
-Jeśli minęło więcej niż 24 godziny od pierwszego zobaczyłem ten problem, należy zalogować się w przypadku pomocy technicznej. Rozumiemy, że 24 godziny może wydawać się długi czas. W wielu przypadkach pracujemy już nad rozwiązaniem, więc proszę dać nam co najmniej 24 godziny.
+Jeśli od pierwszego zobaczenia tego problemu minęło więcej niż 24 godziny, zarejestruj sprawę pomocy technicznej. Rozumiemy, że 24 godziny mogą wydawać się długim czasem. W wielu przypadkach pracujemy już nad rozwiązaniem, więc proszę dać nam co najmniej 24 godziny.
   

@@ -3,28 +3,28 @@ title: 9000215 Outlook.com subskrypcje
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/26/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8968b278cb5e99c5ce6cae9c79e441546deb58ec
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36511821"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722314"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Subskrypcje i anulowanie subskrypcji
+# <a name="subscriptions-and-unsubscribing"></a>Subskrypcje i rezygnacja z subskrypcji
 
-Jeśli chcesz przestać otrzymywać biuletyny lub promocje, możesz zrezygnować z subskrypcji w Outlook.com na dwa sposoby:
+Jeśli chcesz przestać otrzymywać biuletyny lub promocje, możesz zrezygnować z subskrypcji Outlook.com:
 
-1. W skrzynce odbiorczej wybierz biuletyn lub promocyjną wiadomość e-mail. W górnej części okienka odczytu wybierz opcję **Anuluj subskrypcję**.
-2. Otwórz swoje [Ustawienia subskrypcji Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Ustawienia** > **Wyświetl wszystkie** > **** > **subskrypcje**e-mail ustawienia programu Outlook) i wybierz opcję **Anuluj subskrypcję**.
+1. W skrzynce odbiorczej wybierz biuletyn lub promocyjną wiadomość e-mail. U góry okienka odczytu wybierz pozycję **Wypisuj subskrypcję**.
+2. Otwórz [ustawienia subskrypcji Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) **(Ustawienia** > **Wyświetl wszystkie ustawienia** > programu Outlook**Subskrypcje****e-mail)** > i wybierz pozycję **Wypisuj subskrypcję**.
 
 Uwagi:
 
 - Nie wszyscy klienci mogą korzystać z tej funkcji w tej chwili.
-- Ta funkcja jest widoczna tylko w przypadku otrzymania wiadomości e-mail od firmy wysyłającej subskrybowane wiadomości e-mail.
+- Ta funkcja będzie widoczna tylko wtedy, gdy otrzymałeś wiadomość e-mail od firmy wysyłającej subskrybowane wiadomości e-mail.

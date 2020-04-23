@@ -1,23 +1,23 @@
 ---
 ms.author: peddy
-title: Notatki o kontaktach programu Outlook nie są edytowalne
+title: Noty kontaktowe programu Outlook nie są edytowalne
 author: peddy
 manager: joallard
-ms.date: 4/25/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000185
 ms.assetid: ''
-ms.openlocfilehash: dcd52172ade1c6f73a556ba0c4574594988b49a7
-ms.sourcegitcommit: 60bc3cccd1aa81340143cd27c597bb97351ecadb
+ms.openlocfilehash: 9f67a53adfce49c2823767a9c1dca273d9bc1a56
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/26/2019
-ms.locfileid: "33346065"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743355"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Nie można edytować pole Uwagi dla kontaktu w programie Outlook
-Jest to znany problem. Pracujemy nad go naprawić i stan zostaną zaktualizowane w [nie można edytować pole Uwagi dla kontaktu](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Nie można edytować pola notatek dla kontaktu w programie Outlook
+Jest to znany problem. Pracujemy nad jego naprawieniem, a stan zostanie zaktualizowany w obszarze [Nie można edytować pola notatek dla kontaktu](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
 
-**Obejście**: Jeśli używasz usługi Office 365 lub konta Hotmail, kontakty można edytować przy użyciu sieci web. Jeśli używasz konta IMAP lub POP rozwiązania nie jest dostępna w tej chwili.
+**Obejście:** Jeśli używasz konta usługi Microsoft 365 lub Outlook.com, możesz edytować kontakty za pomocą sieci Web. Jeśli używasz konta IMAP lub POP, żadne obejście nie jest obecnie dostępne.

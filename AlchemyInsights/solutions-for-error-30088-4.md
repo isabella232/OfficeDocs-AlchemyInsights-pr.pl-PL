@@ -1,9 +1,9 @@
 ---
-title: Rozwiązania dotyczące błędów 30088 4
+title: Rozwiązania błędu 30088-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/10/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,25 +13,25 @@ ms.assetid: 2c03462c-8a6a-4042-a6fd-cd9e009b8a3f
 ms.custom:
 - "829"
 - "2000020"
-ms.openlocfilehash: 9d323856b1f3ad7cfea6903dcf3c9745a9853d8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fc25a9ba8af90b7acba3ab3c978e03a3bcfd2d7d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501665"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43756893"
 ---
-# <a name="solutions-for-error-30088-4"></a>Rozwiązania dotyczące błędów 30088 4
+# <a name="solutions-for-error-30088-4"></a>Rozwiązania błędu 30088-4
 
-Wypróbuj te rozwiązania, aby naprawić błąd [30088-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
+Wypróbuj te rozwiązania, aby naprawić błąd [30088-4:](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)
   
 - Uruchom ponownie komputer i spróbuj [zainstalować pakiet Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Pobierz i zainstaluj [wsparcia i Asystenta](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Pobierz i zainstaluj [asystenta odzyskiwania i pomocy technicznej](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Po jego otwarciu, z **produktów Odinstaluj pakiet Office** zaznacz wersję, którą chcesz odinstalować, a następnie wybierz przycisk **Dalej**.
+1. Po otwarciu z **pozycji Odinstaluj produkty pakietu Office** wybierz wersję, którą chcesz odinstalować, a następnie wybierz pozycję **Dalej**.
 
-2. Kontynuuj przechodzenie przez ekrany i uruchom ponownie komputer po wyświetleniu monitu.
+2. Kontynuuj przechodzenie przez kolejne ekrany i uruchom ponownie komputer po wyświetleniu monitu.
 
-    Po ponownym uruchomieniu komputera, pomoc techniczną i Asystenta automatycznie ponownie otwiera aby zakończyć proces odinstalowywania.
+    Po ponownym uruchomieniu Asystent pomocy technicznej i odzyskiwania automatycznie zostanie ponownie otwarty, aby zakończyć proces odinstalowywania.
 
-3. Wykonaj pozostałe monity i [ponowne zainstalowanie pakietu Office](https://portal.office.com/OLS/MySoftware.aspx) lub zamknąć Asystenta.
+3. Postępuj zgodnie z pozostałymi monitami i [zainstaluj ponownie pakiet Office](https://portal.office.com/OLS/MySoftware.aspx) lub zamknij asystenta.

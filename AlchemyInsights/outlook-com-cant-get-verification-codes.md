@@ -1,9 +1,9 @@
 ---
-title: Hotmail nie może odbierać kody weryfikacyjne
+title: Outlook.com nie może odbierać kodów weryfikacyjnych
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5de84426e3b7eb0b0d755bbcd65f00f7f9eef5ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b13aa78e26ff5695f83a83e967b69de2aa96b189
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537705"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760818"
 ---
-# <a name="cant-get-verification-codes"></a>Nie można uzyskać kodów weryfikacji
+# <a name="cant-get-verification-codes"></a>Nie można uzyskać kodów weryfikacyjnych
 
-Jeśli nie masz dostępu swój alternatywny adres e-mail lub numer telefonu, przejdź do strony [podstawy zabezpieczeń](https://account.microsoft.com/security) konta Microsoft, wybierz **nie mam żadnego z nich** na stronę logowania i postępuj zgodnie z instrukcjami, aby zastąpić informacje dotyczące zabezpieczeń.
+Jeśli nie możesz uzyskać dostępu do alternatywnego adresu e-mail lub numeru telefonu, przejdź do strony [Podstawowe informacje o zabezpieczeniach](https://account.microsoft.com/security) konta Microsoft, wybierz pozycję **Nie mam żadnej z nich** na stronie logowania, a następnie postępuj zgodnie z instrukcjami, aby zastąpić informacje zabezpieczające.
 
-*Uwaga:* [Aplikacja Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) nie wymaga połączenia z Internetem i podamy kod weryfikacyjny.
+*Uwaga:* [Aplikacja Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) nie wymaga połączenia z Internetem w celu zapewnienia kodu weryfikacyjnego.
 
-Aby dowiedzieć się więcej, przeczytaj [Microsoft konta zabezpieczeń informacje i weryfikacja kodów](https://support.microsoft.com/help/12428/).
+Aby dowiedzieć się więcej, przeczytaj [artykuł Informacje zabezpieczające konta Microsoft i kody weryfikacyjne](https://support.microsoft.com/help/12428/).

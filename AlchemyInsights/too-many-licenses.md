@@ -3,7 +3,7 @@ title: Zbyt wiele licencji?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0974b856aa79d0377ed350e5ece3d2be30991772
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665950"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759918"
 ---
 # <a name="too-many-licenses"></a>Zbyt wiele licencji?
 
-Jeśli uważasz, że są naliczane za zbyt wiele licencji usługi Office 365, jest to zazwyczaj spowodowane po zakupie więcej licencji, a następnie potrzebujesz.
+Jeśli uważasz, że są naliczane za zbyt wiele licencji, jest to zwykle ze względu na zakup większej liczby licencji to trzeba.
   
-**Zmniejsz liczbę zakupionych licencji**
+**Zmniejszenie liczby zakupionych licencji**
   
-1. W Centrum administracyjnym przejdź do **fakturowania** \> stronę [produktów & usług](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. W centrum administracyjnym przejdź do strony **Rozliczenia** \> [Produkty i usługi](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Znajdź subskrypcję, z którego chcesz usunąć licencje, a następnie wybierz **Dodaj/Usuń licencje**.
+2. Znajdź subskrypcję, z której chcesz usunąć licencje, a następnie wybierz pozycję **Dodaj/Usuń licencje**.
 
-3. W polu **liczba licencji** należy wpisać łączną liczbę licencji, które są potrzebne dla tej subskrypcji, a następnie wybierz **Prześlij zmiany**. Jeśli na przykład masz 110 licencji i chcesz usunąć 5 z nich, wprowadź liczbę 105.
+3. W polu **Łączna liczba licencji** wprowadź całkowitą liczbę licencji potrzebnych do tej subskrypcji, a następnie wybierz pozycję **Prześlij zmianę**. Jeśli na przykład masz 110 licencji i chcesz usunąć 5 z nich, wprowadź liczbę 105.
 
-Aby dowiedzieć się więcej, zobacz [Usuwanie licencji z sieci usługi Office 365 business subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Aby dowiedzieć się więcej, zobacz [Usuwanie licencji z subskrypcji usługi Microsoft 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

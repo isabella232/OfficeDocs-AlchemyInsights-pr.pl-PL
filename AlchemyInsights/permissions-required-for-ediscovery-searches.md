@@ -1,9 +1,9 @@
 ---
-title: 1489-permissions-Required-for-ediscovery-Searches
+title: 1489-uprawnienia-wymagane do wyszukiwania ediscovery-
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4e937861381ba5ba00c7ffb544dc4f6cb3502bc7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372138"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758918"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Uprawnienia wymagane do wyszukiwania zbierania elektronicznych materiałów dowodowych
 
-Aby wykonać wyszukiwania zawartości w & zabezpieczeń Centrum zgodności, użytkownik musi być co najmniej należeć do grupy roli Menedżer zbierania elektronicznych materiałów dowodowych, która pozwala im wykonywać operacje wyszukiwania i posiada miejsce na skrzynek pocztowych, witryn programu SharePoint i lokalizacje OneDrive. Członków można również utworzyć i zarządzanie sprawami zbierania elektronicznych materiałów dowodowych, dodać i usuwać członków do przypadku, utworzyć i edytować zawartości wyszukiwania i dostęp do danych dotyczących sprawy w zaawansowanych zbierania elektronicznych materiałów dowodowych.
+Aby przeprowadzić wyszukiwanie zawartości w Centrum zgodności & zabezpieczeń, użytkownik musi być co najmniej członkiem grupy ról Menedżera zbierania elektronicznych materiałów dowodowych, co umożliwia mu wykonywanie wyszukiwań i umieszczanie blokad w skrzynkach pocztowych, witrynach programu SharePoint i lokalizacjach usługi OneDrive. Członkowie mogą również tworzyć sprawy zbierania elektronicznych materiałów dowodowych i zarządzać nimi, dodawać i usuwać członków do sprawy, tworzyć i edytować wyszukiwania zawartości oraz uzyskiwać dostęp do danych sprawy w zaawansowanej funkcji zbierania elektronicznych materiałów dowodowych.
 
-Aby wykonać wyszukiwanie zbierania elektronicznych materiałów dowodowych w miejscu w Centrum administracyjnego programu Exchange (EAC), użytkownik musi być członkiem grupy ról Zarządzanie odnajdowania w programie Exchange Online.
+Aby przeprowadzać wyszukiwania zbierania elektronicznych materiałów dowodowych w centrum administracyjnym programu Exchange (EAC), użytkownik musi być członkiem grupy ról Zarządzanie odnajdowania w usłudze Exchange Online.
 
-Aby uzyskać więcej informacji o uprawnieniach zbierania elektronicznych materiałów dowodowych zobacz: 
+Aby uzyskać więcej informacji na temat uprawnień zbierania elektronicznych materiałów dowodowych, zobacz: 
 
-- [Przypisywanie uprawnień zbierania elektronicznych materiałów dowodowych w & zabezpieczeń Centrum zgodności](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [Przypisywanie uprawnień zbierania elektronicznych materiałów dowodowych w Centrum zgodności & zabezpieczeń](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
 - [Przypisywanie uprawnień zbierania elektronicznych materiałów dowodowych w programie Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Uwaga**: po przypisaniu uprawnienia zbierania elektronicznych materiałów dowodowych, konieczne może być Poczekaj kilka minut na propagowanie uprawnień.
+**Uwaga:** Po przypisaniu uprawnień zbierania elektronicznych materiałów dowodowych może być konieczne odczekanie kilku minut na propagowanie uprawnień.

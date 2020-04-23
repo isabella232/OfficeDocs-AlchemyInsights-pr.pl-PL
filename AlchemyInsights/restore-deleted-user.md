@@ -1,9 +1,9 @@
 ---
-title: Przywróć usuniętego użytkownika
+title: Przywracanie usuniętego użytkownika
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 558ebba836d114a3d04848aae3c0ef598d8ea120
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745083"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784197"
 ---
-# <a name="restore-a-user-in-office-365"></a>Przywracanie użytkownika w usłudze Office 365
+# <a name="restore-a-user"></a>Przywracanie użytkownika
 
-Przywróć użytkownika w pakiecie Office 365, wykonując następujące kroki:
+Przywracanie użytkownika za pomocą następujących czynności:
   
-1. Przejdź do [użytkowników \> usuniętych](https://admin.microsoft.com/adminportal/home#/deletedusers)użytkowników.
+1. Przejdź do [Użytkownicy \> Usunięci użytkownicy](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
 2. Wybierz użytkownika, a następnie wybierz pozycję **Przywróć**.
 
 3. Postępuj zgodnie z instrukcjami, aby ustawić hasło.
 
-4. Kliknij **Wyślij e-mail i Zamknij**, a skończysz!
+4. Kliknij **wyślij wiadomość e-mail i zamknij**, i gotowe!
 
-Czy to nie było łatwe? Aby uzyskać więcej szczegółów i czynności z zrzutów ekranu, zapoznaj się z tym artykułem: [przywracanie użytkownika w pakiecie Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user). Jeśli zdajesz sobie sprawę, że zamiast tego należy przywrócić skrzynkę pocztową użytkownika, zobacz: [usuwanie lub przywracanie skrzynek pocztowych użytkowników w programie Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Czy to nie było takie proste? Aby uzyskać więcej informacji i kroków zrzutów ekranu, zapoznaj się z tym [artykułem: Przywracanie użytkownika](https://docs.microsoft.com/office365/admin/add-users/restore-user). Jeśli zdajesz sobie sprawę, że zamiast tego musisz przywrócić skrzynkę pocztową użytkownika, zobacz: [Usuwanie lub przywracanie skrzynek pocztowych użytkowników w usłudze Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).

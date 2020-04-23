@@ -11,33 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 8b661671afe9fa670decce63b9eb030b35cf072d
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417788"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716146"
 ---
 # <a name="find-and-activate-my-product-key"></a>Znajdowanie i aktywowanie klucza produktu
 
-Jeśli usługa Office 365 dla firm została kupiona w ramach [programu licencji Microsoft Open License Program,](https://go.microsoft.com/fwlink/p/?LinkID=613298)w ten sposób można znaleźć i aktywować klucz produktu.
+Jeśli zakupiono usługę Microsoft 365 dla firm za pośrednictwem [programu microsoft open license](https://go.microsoft.com/fwlink/p/?LinkID=613298)program, oto jak znaleźć i aktywować klucz produktu.
 
-1. Po zakupieniu klucza od partnera usługi Office 365 poszukaj w swojej skrzynce odbiorczej wiadomości e-mail od firmy Microsoft zawierającej link aktywacyjny.  **Uwaga:** Wiadomość e-mail jest wysyłana do osoby wymienionej jako administrator online w umowie licencjonowania zbiorowego.  Jeśli nie masz pewności, kto został wyznaczony na administratora online, zapytaj swojego partnera usługi Office 365.
+1. Po zakupie klucza od partnera usługi Microsoft 365 sprawdź w skrzynce odbiorczej, aby nie była wysyłana przez firmę Microsoft z wiadomością e-mail zawierającą łącze aktywacyjne.  **Uwaga:** Wiadomość e-mail jest wysyłana do osoby wymienionej jako administrator online w umowie licencjonowania zbiorowego.  Jeśli nie masz pewności, kto jest wyznaczony jako administrator online, zapytaj swojego partnera usługi Microsoft 365.
 
-2. Kliknij link w wiadomości e-mail, aby zalogować się za pomocą konta służbowego, zaakceptować umowę licencyjną Otwórz i odnowić subskrypcję.  Aby zapoznać się krok po kroku, pobierz przewodnik PDF [Aktywuj usługi online: Subskrypcja usługi Office 365](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
+2. Kliknij link w wiadomości e-mail, aby zalogować się za pomocą konta służbowego, zaakceptować umowę licencyjną Open i odnowić subskrypcję.  Aby zapoznać się z przewodnikiem krok po kroku, pobierz przewodnik po pliku [PDF, Aktywuj usługi online: Subskrypcja Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
 
-**Uwaga:** Klienci korzystający z licencjonowania zbiorowego mogą również aktywować subskrypcje w [Centrum usług licencjonowania zbiorowego](https://go.microsoft.com/fwlink/p/?LinkID=282016).  Aby dowiedzieć się, jak to zrobić, pobierz przewodnik PDF [Active Online Services w Centrum usług licencjonowania zbiorowego](https://go.microsoft.com/fwlink/p/?LinkId=618096).
+**Uwaga:** Klienci korzystający z licencjonowania zbiorowego mogą również aktywować subskrypcje w [Centrum usług licencjonowania zbiorowego](https://go.microsoft.com/fwlink/p/?LinkID=282016).  Aby dowiedzieć się, jak to zrobić, pobierz przewodnik po pliku PDF [Active Online Services w Centrum usług licencjonowania zbiorowego](https://go.microsoft.com/fwlink/p/?LinkId=618096).
 
-Jeśli usługa Office 365 Business Premium została kupiona w sklepie detalicznym, skorzystaj z poniższych kroków, aby przedłużyć datę wygaśnięcia lub dodać licencję do istniejącej subskrypcji.
+Jeśli zakupiono usługę Microsoft 365 Business Premium Standard w sklepie detalicznym, należy wykonać następujące czynności, aby przedłużyć datę wygaśnięcia lub dodać licencję do istniejącej subskrypcji.
 
-**Uwaga:** Aby użyć klucza produktu do przedłużenia daty wygaśnięcia lub dodania licencji do istniejącej subskrypcji usługi Office 365 Business Premium, potrzebujesz nowego i nieużywanego klucza dla tego samego planu usługi Office 365.  Wprowadzenie oryginalnego klucza produktu usługi Office 365 nie będzie możliwe, ponieważ nie można ponownie używać wykorzystanego już klucza.
+**Uwaga:** Aby użyć klucza produktu do przedłużenia daty wygaśnięcia lub dodania licencji do istniejącej subskrypcji usługi Microsoft 365 Business Premium Standard, potrzebny jest nowy i nieużywany klucz dla tej samej subskrypcji usługi Microsoft 365.  Wprowadzenie oryginalnego klucza produktu usługi Microsoft 365 nie będzie działać, ponieważ nie można ponownie użyć klucza, który został już zrealizowany.
 
-1. W centrum administracyjnym przejdź do strony Usługi[& produktów](https://go.microsoft.com/fwlink/p/?linkid=842054) **rozliczeniowych.** > 
+1. W centrum administracyjnym przejdź do strony Usługi & produktów **rozliczeniowych.** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-2. Znajdź subskrypcję, do której chcesz przedłużyć datę wygaśnięcia lub dodać licencje.  Kliknij [pozycję Wydłuż datę zakończenia](https://go.microsoft.com/fwlink/p/?linkid=842054) lub dodaj więcej [licencji](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Znajdź subskrypcję, do której chcesz przedłużyć datę wygaśnięcia lub dodać licencje.  Kliknij [opcję Rozszerz datę zakończenia](https://go.microsoft.com/fwlink/p/?linkid=842054) lub dodaj więcej [licencji](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-3. Kliknij **pozycję Użyj nowego i nieużywanego klucza produktu,** a następnie przycisk **Dalej**.
+3. Kliknij **pozycję Użyj nowego i nieużytego klucza produktu,** a następnie **przycisku Dalej**.
 
 4. Wprowadź klucz produktu i kliknij przycisk **Dalej**.
 
-5. Przejrzyj szczegóły zamówienia.  Jeśli wszystko wygląda poprawnie, kliknij przycisk **Zrealizuj**.
+5. Sprawdź szczegóły zamówienia.  Jeśli wszystko wygląda poprawnie, kliknij przycisk **Zrealizuj**.

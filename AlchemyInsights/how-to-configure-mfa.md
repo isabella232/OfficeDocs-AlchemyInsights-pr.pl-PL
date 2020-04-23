@@ -1,5 +1,5 @@
 ---
-title: 955 jak skonfigurować MFA
+title: 955 Jak skonfigurować uwierzytelnianie usługi MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 52ab5336858c0013667be721dc865fdccf71bfa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7fda732dc49e4e01b2dc0fcbf0fcde83b4dcbab4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739647"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722386"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a>Konfigurowanie uwierzytelniania wieloskładnikowego w pakiecie Office 365
+# <a name="configure-multi-factor-authentication"></a>Konfigurowanie uwierzytelniania wieloskładnikowego
 
-Aby skonfigurować usługę MFA, zobacz [Konfigurowanie uwierzytelniania wieloskładnikowego dla użytkowników pakietu Office 365](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
+Aby skonfigurować uwierzytelnianie [wieloskładnikowe, zobacz Konfigurowanie uwierzytelniania wieloskładnikowego](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
 
-Należy pamiętać, że musisz być administratorem globalnym pakietu Office 365, aby włączyć i skonfigurować usługę MFA.
+Należy pamiętać, że musisz być administratorem globalnym, aby włączyć i skonfigurować usługę MFA.

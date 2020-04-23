@@ -1,9 +1,9 @@
 ---
-title: Uzyskiwanie klucza hybrydowy
+title: Uzyskiwanie klucza hybrydowego
 ms.author: dstrome
 author: dstrome
 manager: dansimp
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: e679c8cded30048686cd965a2597e0447ecd21fb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6d12b8e1a9b94b28d0007065446a1d55ac072e1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524061"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721792"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>Uzyskiwanie hybrydowe wymiany kluczy
+# <a name="getting-an-exchange-hybrid-key"></a>Uzyskiwanie klucza hybrydowego programu Exchange
 
-Aby połączyć na lokalnej organizacji programu Exchange Online w usłudze Office 365, należy skonfigurować co najmniej jednego serwera programu Exchange w organizacji lokalnej. Ten serwer jest używany do tworzenia wdrożeniu hybrydowy, łączący w lokalnej organizacji programu Exchange do programu Exchange Online. Aby uzyskać klucz hybrydowe dla tego serwera, postępuj zgodnie z instrukcjami w [Kreatora dystrybucji klucza produktu hybrydowy Exchange](https://aka.ms/hybridkey).
+Aby połączyć organizację lokalną z usługą Exchange Online w usłudze Microsoft 365, należy skonfigurować co najmniej jeden serwer exchange w organizacji lokalnej. Ten serwer jest używany do tworzenia wdrożenia hybrydowego, które łączy lokalną organizację programu Exchange z usługą Exchange Online. Aby uzyskać klucz hybrydowy dla tego serwera, wykonaj kroki opisane w [kreatorze dystrybucji klucza hybrydowego produktu programu Exchange](https://aka.ms/hybridkey).
   

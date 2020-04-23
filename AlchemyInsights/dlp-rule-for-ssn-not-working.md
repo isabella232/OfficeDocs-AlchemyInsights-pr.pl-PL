@@ -12,12 +12,12 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: cfe884a207490a19325ce059652de158c16dc801
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5af843c2b70b5b2e1aaf82c9f01356546929d840
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704095"
+ms.locfileid: "43788712"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>Problemy Z DLP z numerami ubezpieczenia społecznego
 
@@ -25,7 +25,7 @@ ms.locfileid: "43704095"
 
 **Problemy z DLP z sieciami SSN**
 
-Czy występują problemy z **zapobieganiem utracie danych (DLP)** nie działa dla zawartości zawierającej **numer ubezpieczenia społecznego (SSN)** podczas korzystania z typu poufnych informacji w usłudze Office 365? Jeśli tak, upewnij się, że zawartość zawiera potrzebne informacje dotyczące tego, czego szukają zasady DLP. 
+Czy masz problemy z **zapobieganiem utracie danych (DLP)** nie działa dla zawartości zawierającej **numer ubezpieczenia społecznego (SSN)** podczas korzystania z typu poufnych informacji w usłudze Microsoft 365? Jeśli tak, upewnij się, że zawartość zawiera potrzebne informacje dotyczące tego, czego szukają zasady DLP. 
   
 Na przykład dla zasad SSN skonfigurowanych z poziomem ufności 85%, następujące są oceniane i muszą zostać wykryte, aby reguła wyzwoliła:
   
