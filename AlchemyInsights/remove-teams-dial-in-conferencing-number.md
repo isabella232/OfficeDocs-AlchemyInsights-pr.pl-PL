@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: cfc87c49ccb1198341f0e49f409db454a5837ba9
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43028029"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784809"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Usuwanie numeru konferencji telefonicznych w usłudze Teams
 
@@ -24,7 +24,7 @@ Potrzebujesz pomocy w usuwaniu numeru konferencji telefonicznych z mostka konfer
 
 Domyślny numer telefonu mostka konferencyjnego definiuje identyfikator rozmówcy, który będzie używany, gdy połączenie wychodzące zostanie nawiązane przez uczestnika lub organizatora w ramach spotkania.
 
-1. Zaloguj się do usługi Office 365 przy użyciu Twojego konta służbowego.
+1. Zaloguj się za pomocą konta służbowego.
 
 2. Przejdź do **Centrum administracyjnego platformy Microsoft 365**.
 

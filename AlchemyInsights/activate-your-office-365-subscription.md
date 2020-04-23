@@ -1,5 +1,5 @@
 ---
-title: Aktywowanie subskrypcji usługi Office 365
+title: Aktywacja subskrypcji usługi Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191075"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784017"
 ---
-# <a name="activate-your-office-365-subscription"></a>Aktywowanie subskrypcji usługi Office 365
+# <a name="activate-your-subscription"></a>Aktywowanie subskrypcji
 
 **Aktywowanie subskrypcji**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191075"
 
 **Ponowne aktywowanie subskrypcji**
 
-Jeśli Twoja subskrypcja wygasła lub została wyłączona przez firmę Microsoft albo jeśli została ona anulowana przez Ciebie w środku okresu subskrypcji, możesz ją ponownie aktywować w centrum administracyjnym usługi Office 365.
+Jeśli Twoja subskrypcja wygasła lub została wyłączona przez firmę Microsoft albo jeśli została ona anulowana przez Ciebie w środku okresu subskrypcji, możesz ją ponownie aktywować w centrum administracyjnym usługi Microsoft 365.
 
-- W centrum administracyjnym usługi Office 365 przejdź na stronę [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia > Subskrypcje**.
+- W centrum administracyjnym usługi Microsoft 365 przejdź na stronę [Subskrypcje](https://go.microsoft.com/fwlink/p/?linkid=842054) lub wybierz pozycję **Rozliczenia > Subskrypcje**.
 
 - Wybierz subskrypcję, którą chcesz aktywować ponownie, a następnie kliknij pozycję **Aktywuj ponownie**. Jeśli nie widzisz pozycji **Aktywuj ponownie** jako dostępnej akcji, [zadzwoń do pomocy technicznej](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b), aby ponownie aktywować subskrypcję.
 
@@ -42,6 +42,6 @@ Aby dowiedzieć się więcej, zobacz [Ponowne aktywowanie subskrypcji](https://d
 
 **Aktywowanie nowej subskrypcji za pomocą klucza produktu**
 
-- Aby aktywować nową subskrypcję usługi Office 365 za pomocą klucza produktu, zacznij [tutaj](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Aby aktywować nową subskrypcję usługi Microsoft 365 za pomocą klucza produktu, zacznij [tutaj](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Wprowadź klucz produktu usługi Office 365 i postępuj zgodnie z instrukcjami w celu aktywowania subskrypcji. Jeśli masz problemy z aktywacją, zapoznaj się z [listą typowych błędów dotyczących klucza produktu i sposobów ich naprawiania](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
+- Wprowadź klucz produktu usługi Microsoft 365 i postępuj zgodnie z instrukcjami w celu aktywowania subskrypcji. Jeśli masz problemy z aktywacją, zapoznaj się z [listą typowych błędów dotyczących klucza produktu i sposobów ich naprawiania](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

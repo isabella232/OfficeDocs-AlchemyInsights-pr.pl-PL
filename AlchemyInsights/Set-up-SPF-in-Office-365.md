@@ -1,5 +1,5 @@
 ---
-title: Konfigurowanie SPF w pakiecie Office 365
+title: Konfigurowanie filtra SPF w usłudze Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,18 +9,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: ebb83c3cced55856963fa1784dd72760838366ca
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 6b87c5b44ab275e69b58752c1fdfa8b416755c6f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736371"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784161"
 ---
 # <a name="set-passwords-to-never-expire"></a>Ustawianie haseł, które nigdy nie wygasają 
 
-Aby ustawić wszystkie hasła tak, aby nigdy nie wygasły, w centrum administracyjnym Microsoft 365 przejdź na stronę prywatność **ustawień** > [zabezpieczeń &amp; ](https://portal.office.com/adminportal/home#/settings/security) . Wybierz opcję **Edytuj** obok **zasad haseł** **i Włącz suwak.**
+Aby ustawić, że wszystkie hasła nigdy nie wygasną, w centrum administracyjnym usługi Microsoft 365 przejdź do strony **Ustawienia** > [prywatności zabezpieczeń. &amp; ](https://portal.office.com/adminportal/home#/settings/security) Wybierz **pozycję Edytuj** obok pozycji Zasady **haseł**i przeksztą suwak na **Wł.**
   
-Aby uzyskać szczegółowe informacje, zobacz: [Ustawianie zasad wygasania haseł dla organizacji.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
+Aby uzyskać bardziej szczegółowe informacje, zobacz: [Ustawianie zasad wygasania haseł w organizacji.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
   
-[Ustaw hasło, aby nigdy nie wygasło dla określonych użytkowników](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
+[Ustawianie hasła tak, aby nigdy nie wygasało dla określonych użytkowników](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
   
