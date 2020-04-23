@@ -1,28 +1,28 @@
 ---
-title: Rozwiąż problemy związane z instalacją DKIM
+title: Rozwiązywanie problemów z konfiguracją DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1389
 ms.assetid: ''
-ms.openlocfilehash: 4d6dadbcbf71fe6e9ea56d6a82a7d8ababdd38ef
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: d725eb0d46dcbf1b5b6d77ca9f59fcafa5298bf1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765285"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717572"
 ---
-# <a name="fix-dkim-setup-issues"></a>Rozwiąż problemy związane z instalacją DKIM
+# <a name="fix-dkim-setup-issues"></a>Rozwiązywanie problemów z konfiguracją DKIM
 
-Jeśli występują problemy z włączeniem DKIM dla domeny niestandardowej, wykonaj następujące kroki:
+Jeśli występują problemy z włączaniem DKIM dla domeny niestandardowej, należy wykonać następujące czynności:
 
-- Większość problemów z instalacją DKIM odnoszą się do niepoprawne rekordy DNS. Sprawdź, czy rekord DKIM CNAME (**nie** rekord TXT) jest poprawnie sformatowany. Aby uzyskać więcej informacji zobacz w tym [temacie](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+- Większość problemów z konfiguracją DKIM jest związana z niepoprawnymi rekordami DNS. Sprawdź, czy rekord CNAME DKIM **(nie** rekord TXT) jest poprawnie sformatowany. Aby uzyskać więcej informacji, zobacz ten [temat](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
 
-- Po utworzeniu lub aktualizacji rekordów DKIM DNS na DNS obsługującego usługę dla domeny (zazwyczaj rejestratorem domeny), poczekaj, aż do propagowania rekordy DNS.
+- Po utworzeniu lub zaktualizowaniu rekordów DNS DKIM w usłudze hostingu DNS dla domeny (zazwyczaj rejestratora domen) poczekaj na propagowanie rekordów DNS.
 
-- Jeśli rekordy DKIM DNS nie może utworzyć w Centrum administracyjnego, można zastąpić \<CustomDomain\> z niestandardowej domeny (np. contoso.com) i uruchomić to polecenie w [Programie PowerShell Online programu Exchange](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell): `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true`.
+- Jeśli nie można utworzyć rekordów DNS DKIM w centrum \<administracyjnym, możesz zastąpić\> Domenę Niestandardową domeną niestandardową (na przykład contoso.com) i uruchomić to polecenie w [programie Exchange Online PowerShell:](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true`.

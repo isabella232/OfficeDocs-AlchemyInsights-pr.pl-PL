@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692405"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709949"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams — konferencje głosowe
 
-Potrzebujesz pomocy w zakresie włączania lub konfigurowania konferencji głosowych w aplikacji Microsoft Teams? Czy ten użytkownik został ostatnio utworzony?  Jeśli tak, trzeba odczekać od 2 do 24 godzin, aby ustawienia zaczęły obowiązywać.    
+Potrzebujesz pomocy w zakresie włączania lub konfigurowania konferencji głosowych w aplikacji Microsoft Teams? Czy ten użytkownik został ostatnio utworzony?  Jeśli tak, trzeba odczekać od 2 do 24 godzin, aby ustawienia zaczęły obowiązywać.
 
 Aby sprawdzić, czy użytkownik ma licencję na konferencje głosowe oraz domyślny numer płatny:
 
@@ -39,4 +39,4 @@ Aby sprawdzić, czy użytkownik ma licencję na konferencje głosowe oraz domyś
 
 7. Zaznacz danego użytkownika i sprawdź, czy ma **domyślny numer płatny**.
 
-Aby uzyskać więcej informacji, przeczytaj artykuł [pakiety telefoniczne w usłudze Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) lub zadzwoń do zespołu ds. rozliczeń z przedsiębiorstwami firmy Microsoft, aby uzyskać pomoc dotyczącą licencji.
+Aby uzyskać więcej informacji, przeczytaj artykuł [Pakiety telefoniczne](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) lub zadzwoń do zespołu ds. rozliczeń z przedsiębiorstwami firmy Microsoft, aby uzyskać pomoc dotyczącą licencji.

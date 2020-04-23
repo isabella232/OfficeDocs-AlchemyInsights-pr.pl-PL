@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059890"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720075"
 ---
 # <a name="update-credit-card-information"></a>Aktualizowanie informacji o karcie kredytowej
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059890"
 
 Jeśli wystąpią problemy z ładowaniem strony internetowej, spróbuj otworzyć ją w innej przeglądarce lub w prywatnym oknie przeglądarki, na przykład w oknie InPrivate w przeglądarce Microsoft Edge lub w oknie incognito w przeglądarce Google Chrome. 
 
-Aby uzyskać więcej informacji, zobacz [Dodawanie, aktualizowanie lub usuwanie karty kredytowej bądź konta bankowego w usłudze Office 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) i [Rozwiązywanie problemów z kartami kredytowymi i kontami bankowymi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Aby uzyskać więcej informacji, zobacz [Dodawanie, aktualizowanie lub usuwanie karty kredytowej bądź konta bankowego na platformie Microsoft 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) i [Rozwiązywanie problemów z kartami kredytowymi i kontami bankowymi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
