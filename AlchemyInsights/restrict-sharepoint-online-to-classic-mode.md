@@ -1,8 +1,8 @@
 ---
-title: Ogranicz usługi SharePoint Online do trybu klasycznego
+title: Ograniczanie usługi SharePoint Online do trybu klasycznego
 ms.author: pebaum
 author: pebaum
-ms.date: 3/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,26 +12,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: b58a1c3fc331c739080542917d8945c090ec0d94
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: c5ea5d264b62e4c349623bd431776207b38da470
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048770"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742479"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a>Ogranicz usługi SharePoint Online do trybu klasycznego
+# <a name="restrict-sharepoint-online-to-classic-mode"></a>Ograniczanie usługi SharePoint Online do trybu klasycznego
 
-Niektóre organizacje nadal wymagają doświadczenia w trybie klasycznym. Chociaż nie ma żadnych planów, aby usunąć Tryb klasyczny na poziomie szczegółowości, nie jest już możliwe ograniczenie całej organizacji (dzierżawcy) do trybu klasycznego dla list i bibliotek.
+Niektóre organizacje nadal wymagają trybu klasycznego. Chociaż nie ma planów usunięcia trybu klasycznego na poziomie szczegółowym, nie jest już możliwe ograniczenie całej organizacji (dzierżawy) do trybu klasycznego dla list i bibliotek.
 
-Administrator będzie miał następujące opcje zarządzania poszczególnymi listami i bibliotekami w trybie klasycznym przy użyciu szczegółowych przełączników rezygnacji, które oferujemy na następujących poziomach:
+Administrator będzie miał następujące opcje zarządzania poszczególnymi listami i bibliotekami w trybie klasycznym przy użyciu szczegółowych przełączników opt-out, które udostępniamy na następujących poziomach:
 
-- Kolekcja witryn
+- zbiór witryn
 - Witryny
 - Listy
 - Biblioteki
 
-Ponadto listy, które używają niektórych funkcji i dostosowań, które nie są obsługiwane przez nowoczesne nadal będą automatycznie przełączane do trybu klasycznego.
+Ponadto listy, które używają niektórych funkcji i dostosowań, które nie są obsługiwane przez nowoczesne, będą nadal automatycznie przełączane do trybu klasycznego.
 
-Począwszy od dnia 1 kwietnia 2019, proces, aby wyłączyć poziom dzierżawy zrezygnować z nowoczesnych list i bibliotek rozpocznie się i kontynuować do 31 maja 2019.  Listy i bibliotek, które są w trybie klasycznym w wyniku rezygnacji dzierżawy zostanie automatycznie przesunięty do nowoczesnych.
+Od 1 kwietnia 2019 r. rozpocznie się proces wyłączania poziomu dzierżawy z nowoczesnej listy i bibliotek do 31 maja 2019 r.  Listy i biblioteki, które są w trybie klasycznym w wyniku rezygnacji dzierżawy zostaną automatycznie przesunięte na nowoczesne.
 
-Jeśli potrzebujesz trybu klasycznego, Zobacz więcej informacji [tutaj](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) i instrukcji programu PowerShell PnP [tutaj](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) , który opisuje opcje i narzędzia, których można użyć dzisiaj, aby korzystać z trybu klasycznego doświadczenie.
+Jeśli potrzebujesz trybu klasycznego, zobacz więcej informacji [tutaj](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) i instrukcja PnP Powershell [tutaj,](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) która opisuje opcje i narzędzia, których możesz użyć dzisiaj, aby korzystać z trybu klasycznego.

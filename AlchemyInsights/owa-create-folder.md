@@ -1,9 +1,9 @@
 ---
-title: Tworzenie folderu w programie Outlook w sieci Web
+title: Tworzenie folderu w aplikacji Outlook w sieci Web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000009"
 - "1994"
-ms.openlocfilehash: 75e64ae33750efaeb3a56dde0b1a27f9bafb8b77
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b9cd32fcf8cbee2f0ba4131f082b6a0f07d9b447
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36557259"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768591"
 ---
-# <a name="create-a-folder"></a>Tworzenie foldera
+# <a name="create-a-folder"></a>Tworzenie folderu
 
-1. W dolnej części okienka folderów w programie Outlook w sieci Web wybierz pozycję **Nowy folder**. Może być konieczne przewiń w dół w okienku folderów, aby wyświetlić **Nowy folder** przycisku.
-1. W polu tekstowym wprowadź nazwę folderu, a następnie naciśnij Enter.
+1. U dołu okienka folderów w aplikacji Outlook w sieci Web wybierz pozycję **Nowy folder**. Może być konieczne przewinięcie w dół w okienku folderów, aby wyświetlić przycisk **Nowy folder.**
+1. W polu tekstowym wprowadź nazwę folderu, a następnie naciśnij klawisz Enter.
 
-Aby dowiedzieć się więcej, zobacz [Praca z folderami wiadomości w programie Outlook w sieci Web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Aby dowiedzieć się więcej, zobacz [Praca z folderami wiadomości w aplikacji Outlook w sieci Web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).

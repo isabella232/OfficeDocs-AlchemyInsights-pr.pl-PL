@@ -1,8 +1,8 @@
 ---
-title: Uaktualnić do pełnej wersji programu Microsoft Teams
+title: Uaktualnienie do pełnej wersji usługi Microsoft Teams
 ms.author: pebaum
 author: pebaum
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 4fa566acd7fab0b43e4614c8a7c7ae76bcabaa5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74f242f4023e34d30787b91cb710bd658f1282ca
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506227"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766539"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Uaktualnić do pełnej wersji programu Microsoft Teams
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Uaktualnienie do pełnej wersji usługi Microsoft Teams
 
-Należy uaktualnić do pełnej wersji programu Microsoft Teams swobodne? Zobacz [Uaktualnienia zespoły pracowników firmy Microsoft do wersji subskrypcji usługi Office 365](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
+Chcesz uaktualnić z bezpłatnej do pełnej wersji usługi Microsoft Teams? Zobacz [uaktualnianie usługi Microsoft Teams bezpłatnie do wersji subskrypcji usługi Microsoft 365](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
-Najpierw musisz spełniać te wymagania:
+Musisz spełnić następujące wymagania:
 
-- Jesteś osobą, który zarejestrował się dla bieżącej wersji wolna zespołów.
-- Jeśli masz własnej domeny, nie może już być skojarzone z usługą Active Directory.
-- Do transferu danych podczas uaktualniania, należy zasubskrybować podczas procesu uaktualniania. Jeśli zakupiono Office 365 poza procesu uaktualniania nie można przesyłać danych.
+- Jesteś osobą, która zarejestrowała się w bieżącej bezpłatnej wersji programu Teams.
+- Jeśli masz własną domenę, nie można jej już skojarzyć z usługą Azure Active Directory.
+- Aby przesłać dane podczas uaktualniania, należy subskrybować podczas procesu uaktualniania. Jeśli subskrypcja została kupiona poza procesem uaktualniania, nie można przenieść danych.

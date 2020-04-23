@@ -3,7 +3,7 @@ title: Potrzebujesz uprawnień dostępu do witryny
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: 950387b8c7f2a4910b38e3d30154c146af123c54
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: b8043dfff5ac85566135753ce9f44855f81357fd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122588"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761932"
 ---
-# <a name="you-need-permission-to-access-this-site"></a>Potrzebujesz pozwolenia na dostęp do tej strony
+# <a name="you-need-permission-to-access-this-site"></a>Potrzebujesz uprawnień dostępu do tej witryny
 
-["Odmowa dostępu", "musisz mieć uprawnienia dostępu do tej witryny" lub "nie można odnaleźć użytkownika w katalogu" błędy w programie SharePoint Online i OneDrive dla firm](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+["Odmowa dostępu", "Potrzebujesz uprawnień dostępu do tej witryny" lub "Użytkownik nie został znaleziony w katalogu" błędy w usłudze SharePoint Online i OneDrive dla Firm](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)

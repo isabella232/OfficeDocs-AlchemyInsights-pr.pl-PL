@@ -1,9 +1,9 @@
 ---
-title: Rozwiązania dla błędu 30180-28
+title: Rozwiązania błędu 30180-28
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.assetid: 2caadb7a-3b1e-4332-b928-03c1d51da8d3
 ms.custom:
 - "832"
 - "2000020"
-ms.openlocfilehash: 63bb8b7495232bb43e9e7c45565a1c900a0e1f1d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1a30df2a78a838ddeb7be83b8ddebc9114bccabb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501521"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767132"
 ---
-# <a name="solutions-for-error-30180-28"></a>Rozwiązania dla błędu 30180-28
+# <a name="solutions-for-error-30180-28"></a>Rozwiązania błędu 30180-28
 
-[Błąd 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) może wystąpić podczas aktualizacji pakietu Office, jeśli masz słabe połączenie internetowe. Oto kilka rzeczy, możesz spróbować rozwiązać problem.
+Jeśli masz słabe połączenie z Internetem, może pojawić się [błąd 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) podczas aktualizacji pakietu Office. Oto kilka rzeczy, które możesz spróbować rozwiązać problem.
   
-- Uruchom ponownie komputer i następnie [aktualizacji pakietu Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA).
+- Uruchom ponownie komputer, a następnie [zaktualizuj pakiet Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA).
 
-- Wykonaj powyższe czynności, ale używając połączenia przewodowego podczas aktualizacji pakietu Office.
+- Wykonaj powyższe czynności, ale podczas aktualizowania pakietu Office należy użyć połączenia przewodowego.

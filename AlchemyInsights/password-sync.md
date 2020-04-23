@@ -1,8 +1,8 @@
 ---
-title: Jak sprawdzić stan synchronizacji haseł
+title: Jak sprawdzić stan synchronizacji hasła
 ms.author: pebaum
 author: pebaum
-ms.date: 12/5/2017
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 7ddb515b3c4820e2c904124fa96049eade4cbd2b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36555387"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765603"
 ---
 # <a name="enable-password-sync"></a>Włącz synchronizację haseł
 
-1.  Wybierz pozycję **stan DirSync** na stronie głównej Centrum administracyjnego Microsoft 365. 
+1.  Wybierz **pozycję Stan programu DirSync** na stronie głównej centrum administracyjnego usługi Microsoft 365. 
     
-     *Alternatywnie można przejść do **użytkowników** \> **aktywnych**użytkowników, a na stronie aktywnych użytkowników, wybierz **więcej** \> **synchronizacji katalogów.*** 
+     *Alternatywnie można przejść do użytkowników **aktywnych** **użytkowników,** \> a na stronie Aktywni użytkownicy wybierz pozycję **Więcej** \> **synchronizacji katalogów.*** 
     
 2. W okienku Synchronizacja katalogów wybierz pozycję **Przejdź do zarządzania programem DirSync**. 
     
-3. Teraz zobaczysz swój status i Dokonaj zmian:
+3. Teraz zobaczysz swój status i wprowadzać zmiany:
     
-    **Włączono synchronizację haseł:** (prawda lub FAŁSZ). Określa, czy włączono synchronizację haseł między lokalnymi i dzierżawy pakietu Office 365. 
+    **Synchronizacja haseł włączona:** (Prawda lub Fałsz). Określa, czy synchronizacja haseł jest włączona między lokalnie a dzierżawą. 
     
-    **Last Password Sync:** (ostatni raz synchronizacja hasła uruchomiono). Spowoduje to wyświetlenie ostrzeżenia i łącza do narzędzia do rozwiązywania problemów, jeśli Ostatnia synchronizacja była większa niż trzy dni temu. 
+    **Ostatnia synchronizacja hasła:** (Ostatni raz uruchomiono synchronizację hasła). Spowoduje to wyświetlenie ostrzeżenia i łącza do narzędzia do rozwiązywania problemów, jeśli ostatnia synchronizacja miała miejsca ponad trzy dni temu. 
     
 

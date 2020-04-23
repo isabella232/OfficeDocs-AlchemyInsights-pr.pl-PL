@@ -1,9 +1,9 @@
 ---
-title: Zawsze pokazuje stan Hotmail jako dostępne
+title: Outlook.com stan zawsze jest wyświetlany jako dostępny
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,13 +14,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 404bd93b5c470dd78a72ae07140a8df151878f40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da4b014f39c03439e204cbc9eaab2764d663ae7f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511965"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743463"
 ---
-# <a name="my-status-always-shows-as-available"></a>Mój status to zawsze dostępne
+# <a name="my-status-always-shows-as-available"></a>Mój status zawsze jest wyświetlany jako dostępny
 
-Każdym razem, gdy użytkownik w usłudze Hotmail, status swojego konta zostaną zresetowane do dostępne. Twój status może uniemożliwić zmianę poprzez nie wylogowanie się z Hotmail. Aby być zarejestrowany podczas zamykania przeglądarki, zaznacz pole **Nie wylogowuj mnie** na stronie rejestracji w usłudze Hotmail.
+Za każdym razem, gdy zalogujesz się do Outlook.com, stan twojego konta zostanie zresetowany do opcji Dostępne. Możesz zapobiec zmianie statusu, nie wylogując się z Outlook.com. Aby pozostać zalogowanym podczas zamykania przeglądarki, zaznacz pole **Wyboru Niech mnie zalogowano** na stronie logowania Outlook.com.

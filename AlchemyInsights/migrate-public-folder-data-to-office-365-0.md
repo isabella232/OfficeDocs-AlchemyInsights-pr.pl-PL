@@ -1,5 +1,5 @@
 ---
-title: Migracja danych folderu publicznego do pakietu Office 365
+title: Migrowanie danych folderu publicznego do usługi Microsoft 365
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -11,22 +11,22 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: 85bef3ac5f590a57ead16cb73c7961fcb0ee8eae
-ms.sourcegitcommit: 198defbbed20dd9db3f7c044c6e77a8feb05dacd
+ms.openlocfilehash: b9659f657555411ffd87a63bc099708b49d46300
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "39202604"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762147"
 ---
-# <a name="migrate-public-folder-data-to-office-365"></a>Migracja danych folderu publicznego do pakietu Office 365
+# <a name="migrate-public-folder-data-to-microsoft-365"></a>Migrowanie danych folderu publicznego do usługi Microsoft 365
 
-Jeśli nie masz wiele folderów publicznych, aby wprowadzić do pakietu Office 365, najprostszym sposobem ich dostosowania byłoby skopiować dane do. Pliki PST, a następnie zaimportować je do pakietu Office 365. W przypadku niewielkich ilości danych proste przeciąganie i upuszczanie folderu publicznego do a. Plik PST może być wystarczające. Jeśli masz więcej danych niż to (do 30 GB), mamy [udokumentowane proces](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) , który służy do eksportowania folderów do plików pst.
+Jeśli nie masz wiele folderów publicznych, aby wprowadzić do Microsoft 365, najprostszym sposobem, aby je przynieść byłoby skopiować dane do . PST, a następnie zaimportować je do usługi Microsoft 365. W przypadku niewielkich ilości danych proste przeciąganie i upuszczanie folderu publicznego do pliku . Plik PST może być wystarczający. Jeśli masz więcej danych niż to (do 30GB), [mamy udokumentowany proces,](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) który można użyć do eksportu folderów do plików PST.
   
-W przypadku większych organizacji przenoszących foldery publiczne do pakietu Office 365 dostępne są przewodniki:
+W przypadku większych organizacji, które przenoszą foldery publiczne do usługi Microsoft 365, dostępne są przewodniki:
   
-- [Migracja starszych folderów publicznych](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)
+- [Migrowanie starszych folderów publicznych](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)
 
-- [Migracja folderów publicznych programu Exchange 2013, Exchange 2016 lub Exchange 2019](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
+- [Migrowanie folderów publicznych programu Exchange 2013, Exchange 2016 lub Exchange 2019](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-Masz również możliwość [migracji folderów publicznych do pakietu Office 365 grupy](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
+Istnieje również możliwość [migracji folderów publicznych do grup usługi Office 365](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
   

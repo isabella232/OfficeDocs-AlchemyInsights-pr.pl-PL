@@ -1,9 +1,9 @@
 ---
-title: Odwoływanie lub zamienianie wiadomości e-mail
+title: Odwoływanie lub zastępowanie wiadomości e-mail
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,33 +13,33 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e541620a499b02a7206579ffcc505ceb4e632a4c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553442"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742765"
 ---
-# <a name="recall-or-replace-an-email-message-in-office-365"></a>Odwoływanie lub zamienianie wiadomości e-mail w usłudze Office 365
+# <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Odwoływanie lub zastępowanie wiadomości e-mail w usłudze Microsoft 365
 
-- Możesz **tylko odwoływania wiadomości, które są wysyłane do osoby w organizacji**. Jeśli wiadomość została wysłana na adres Gmail, na przykład, nie można wywołać ją.
-- Możesz **tylko odwoływania wiadomości wysłane z Outlook 2016 dla komputerów PC**. Jeśli użytkownik wysyła wiadomości za pomocą programu Outlook w sieci web lub programu Outlook dla komputerów Macintosh, nie może je wycofać.
-- Jeśli jesteś administratorem, możesz **odwoływania wiadomości w imieniu użytkowników przy użyciu środowiska PowerShell**. Nie można odwołać wiadomości z Centrum administracyjnego. Przewiń w dół do "Wyszukiwanie i usuwanie wiadomości e-mail w firmie" Aby uzyskać więcej informacji.
+- Można **odwoływać tylko wiadomości, które są wysyłane do osób w organizacji**. Jeśli na przykład wiadomość została wysłana na adres Gmaila, nie możesz jej odwołać.
+- Można **odwoływać tylko wiadomości wysłane z programu Outlook 2016 na PC**. Jeśli użytkownik wysyła wiadomość za pomocą programu Outlook dla komputerów Mac lub programu Outlook w sieci Web, nie można jej odwołać.
+- Jeśli jesteś administratorem, możesz **odwołać wiadomości w imieniu użytkowników za pomocą programu PowerShell**. Nie można odwołać wiadomości z centrum administracyjnego. Przewiń w dół do "Wyszukaj i usuń wiadomości e-mail w organizacji", aby uzyskać więcej informacji.
 
-**Odwoływanie lub zamienianie wiadomości e-mail wysłanej przez Ciebie**
+**Odwoływanie lub zastępowanie wysłanej wiadomości e-mail**
 
 1. W okienku folderów po lewej stronie okna programu Outlook wybierz folder Elementy wysłane.
-2. Otwórz wiadomość, która ma zostać odwołana. Należy kliknąć dwukrotnie Otwórz wiadomość. Zaznaczając wiadomość — będą wyświetlane w okienku odczytu nie pozwoli odwołać wiadomość.
-3. Na karcie wiadomość zaznacz **Akcje** > **Odwołaj tę wiadomość**.
-4. **Usunąć nieprzeczytane kopie tej wiadomości** lub **usunąć nieprzeczytane kopie i zastąpić je nową wiadomością**, a następnie wybierz **OK**.
-5. Jeśli wysyłasz wiadomość wymiana redagowania wiadomości, a następnie zaznacz pole wyboru **Wyślij**.
+2. Otwórz wiadomość, którą chcesz przywołać. Aby otworzyć wiadomość, należy kliknąć dwukrotnie. Wybranie wiadomości, która pojawi się w okienku odczytu, nie pozwala na odwołanie wiadomości.
+3. Na karcie Wiadomość wybierz pozycję **Akcje** > **Przywołuje tę wiadomość**.
+4. Wybierz **pozycję Usuń nieprzeczytane kopie tej wiadomości** lub Usuń **nieprzeczytane kopie i zastąp nową wiadomością,** a następnie wybierz przycisk **OK**.
+5. Jeśli wysyłasz wiadomość zastępczą, skomponuj ją, a następnie wybierz pozycję **Wyślij**.
 6. Powodzenie lub niepowodzenie odwołania wiadomości zależy od ustawień adresatów w programie Outlook.
 
-Aby uzyskać więcej informacji, w tym jak sprawdzić na przypomnienie zobacz [odwołanie lub zamień wysłaną wiadomość e-mail](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+Aby uzyskać więcej informacji, w tym jak sprawdzić wycofanie, zobacz [Odwoływanie lub zamienianie wysłanej wiadomości e-mail](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-***Wyszukiwanie i usuwanie wiadomości e-mail w organizacji*** Do wyszukiwania i usuwania wiadomości w organizacji, najłatwiej jest w przypadku globalnego administratora. Jeśli nie jesteś administratorem globalnym, należy dodać konta do grupy roli Menedżer zbierania elektronicznych materiałów dowodowych lub do roli zarządzania wyszukiwania zgodności. Aby usunąć wiadomości, będziesz musiał przyłączyć się do grupy ról Zarządzanie organizacją lub Rola zarządzania wyszukiwania i czyszczenie. Uprawnienia do tych ról są przypisywane w [Centrum zgodności zabezpieczeń &](https://protection.office.com/).
+***Wyszukiwanie i usuwanie wiadomości e-mail w organizacji*** Aby wyszukiwać i usuwać wiadomości e-mail w organizacji, najłatwiej jest, jeśli jesteś administratorem globalnym. Jeśli nie jesteś administratorem globalnym, Twoje konto musi zostać dodane do grupy ról Menedżera zbierania elektronicznych materiałów dowodowych lub do roli zarządzania wyszukiwaniem zgodności. Aby usunąć wiadomości, musisz dołączyć do grupy ról Zarządzanie organizacją lub roli zarządzania wyszukiwaniem i przeczyszczaniem. Uprawnienia do tych ról są przypisywane w [Centrum zgodności & zabezpieczeń](https://protection.office.com/).
 
-1. [Tworzenie zawartości wyszukiwania](https://docs.microsoft.com/office365/securitycompliance/content-search) , aby odnaleźć wiadomości do usunięcia.
-2. [Podłącz do środowiska PowerShell Centrum zgodności & zabezpieczeń](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Utwórz wyszukiwanie zawartości,](https://docs.microsoft.com/office365/securitycompliance/content-search) aby znaleźć wiadomość do usunięcia.
+2. [Połącz się z centrum zabezpieczeń & compliance center PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Jeśli używasz MFA, zobacz [Nawiązywanie połączenia z & zabezpieczeń usługi Office 365 PowerShell Centrum zgodności za pomocą wieloczynnikowe uwierzytelnianie](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Jeśli używasz usługi MFA, zobacz [Łączenie się z programem Microsoft 365 security center & Compliance Center PowerShell przy użyciu uwierzytelniania wieloskładnikowego](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

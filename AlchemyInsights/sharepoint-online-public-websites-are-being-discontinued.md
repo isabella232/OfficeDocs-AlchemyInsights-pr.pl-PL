@@ -1,9 +1,9 @@
 ---
-title: Są zaprzestano publicznych witryn internetowych programu SharePoint
+title: Publiczne witryny sieci Web usługi SharePoint Online są przerywane
 ms.author: clake
-author: spowriter
+author: pebaum
 manager: scotv
-ms.date: 1/2/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: db37089c11842c070b6bfbbb6f668aa392fd9b2c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f9327b7ba506790549ae3215cd84606d3645703a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507605"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764307"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Są zaprzestano publicznych witryn internetowych programu SharePoint
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Publiczne witryny sieci Web usługi SharePoint Online są przerywane
 
-Jeśli utworzono programu SharePoint Online publicznej witryny sieci Web, można nadal używać go do 31 marca 2018. Jeśli chcesz nadal masz publicznych witryn sieci Web, należy utworzyć nową z nowego dostawcy. Zawartość na publicznej witryny programu SharePoint w trybie Online zostaną usunięte, więc trzeba skopiować zawartość, którą chcesz zachować.
+Jeśli utworzono publiczną witrynę sieci Web usługi SharePoint Online, możesz nadal z niej korzystać do 31 marca 2018 r. Jeśli chcesz nadal mieć publiczną witrynę sieci Web, musisz utworzyć nową z nowym dostawcą. Zawartość publicznej witryny sieci Web usługi SharePoint Online zostanie usunięta, więc musisz skopiować dowolną zawartość, którą chcesz zachować.
   
-Transparent pojawi się w górnej części publicznej witryny programu SharePoint w trybie Online jako powiadomienie, że witryny zostaną usunięte. Nie można wyłączyć tego transparentu. Aby uzyskać informacje o zapisywaniu i skopiowanie zawartości do witryny sieci Web partnera zobacz [szczegółowe informacje dotyczące procesu przerwania funkcji](https://go.microsoft.com/fwlink/?linkid=866980).
+Baner pojawi się teraz w górnej części publicznej witryny sieci Web usługi SharePoint Online jako powiadomienie, że witryna zostanie usunięta. Nie można wyłączyć tego banera. Aby uzyskać informacje o zapisywaniu i kopiowaniu zawartości do witryny partnera, zobacz [Szczegółowe informacje o procesie wycofywania funkcji](https://go.microsoft.com/fwlink/?linkid=866980).
   

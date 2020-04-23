@@ -1,9 +1,9 @@
 ---
-title: Naprawianie problemów z synchronizacją e-mail Hotmail
+title: Rozwiązywanie problemów z synchronizacją Outlook.com wiadomości e-mail
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/16/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.assetid: 6f48a145-b258-4d47-ac7e-c4c3f76bd1c1
 ms.custom:
 - "8000048"
-ms.openlocfilehash: 6ff26ad4fa5fad61f5863a40774ead68c2156102
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da438ebeb28dbe8419067b5a89143322d29889f6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546610"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760278"
 ---
-# <a name="fix-outlookcom-email-sync-issues"></a>Naprawianie problemów z synchronizacją e-mail Hotmail
+# <a name="fix-outlookcom-email-sync-issues"></a>Rozwiązywanie problemów z synchronizacją Outlook.com wiadomości e-mail
 
-Jeśli nie można wysyłać ani odbierać wiadomości e-mail, najpierw sprawdź [Stan usługi](https://go.microsoft.com/fwlink/p/?linkid=837482&amp;clcid=0x409).
+Jeśli nie możesz wysyłać ani odbierać wiadomości e-mail, najpierw sprawdź [stan usługi](https://go.microsoft.com/fwlink/p/?linkid=837482&amp;clcid=0x409).
   
-Jeśli takie jak wiadomości resetowania hasła nie otrzymujesz wiadomości e-mail od określonego nadawcy, najpierw upewnij się, że nadawca nie znajduje się na Twoim [zablokowanych nadawców i listy domen](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomains).
+Jeśli nie otrzymujesz wiadomości e-mail od określonego nadawcy, takiego jak wiadomości resetowania hasła, najpierw upewnij się, że nadawca nie znajduje się na [liście zablokowanych nadawców i domen.](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomains)
   
-Jeżeli nadawca nie jest na Twojej liście zablokowanych nadawców, musisz skontaktować się z nadawcą i niech wiedzą, że wiadomości e-mail nie są dostarczane na swoim koncie hotmail. Zapoznaj się z nadawcą, aby [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135&amp;clcid=0x409), gdzie można znaleźć informacje o najlepszych praktyk, zalecanych metod rozwiązywania problemów oraz łącze do skontaktuj się z zespołem pomocy technicznej nadawcy Hotmail.
+Jeśli nadawcy nie ma na liście zablokowanych nadawców, skontaktuj się z nadawcą i poinformuj go, że nie otrzymujesz wiadomości e-mail na swoim koncie Outlook.com. Skontaktuj się z [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135&amp;clcid=0x409)nadawcą, gdzie można znaleźć informacje o najlepszych praktykach, zalecanych rozwiązywaniu problemów i łączu do kontaktu z zespołem pomocy technicznej nadawcy Outlook.com.
   
-Jeśli nie są w ogóle odbieranie wiadomości e-mail, zobacz [Hotmail naprawić błędy synchronizacji wiadomości e-mail](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+Jeśli w ogóle nie otrzymujesz wiadomości e-mail, zobacz [Rozwiązywanie problemów z synchronizacją Outlook.com wiadomościami e-mail](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).

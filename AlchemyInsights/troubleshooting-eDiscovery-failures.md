@@ -1,9 +1,9 @@
 ---
-title: 1490-Rozwiązywanie problemów-zbierania elektronicznych materiałów dowodowych błędy
+title: 1490-rozwiązywanie problemów-błędy zbierania elektronicznych materiałów dowodowych
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559383"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759594"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Rozwiązywanie problemów z błędami zawartości wyszukiwania
+# <a name="troubleshoot-content-search-errors"></a>Rozwiązywanie problemów z błędami wyszukiwania zawartości
 
-Czy występują problemy z zawartości wyszukiwania w usłudze Office 365 lub uzyskiwania błędy podczas eksportowania wyników wyszukiwania?
+Czy podczas eksportowania wyników wyszukiwania występują problemy z wyszukiwaniem zawartości lub błędami?
 
-Na przykład podczas uruchamiania wyszukiwania są wyświetlane następujące?
+Na przykład czy podczas wyszukiwania są odbierane następujące informacje?
 
 - Błędy CS008 lub CS012
 
-- Serwer zajęty/timeout błędy
+- Błędy zajętości/limitu czasu serwera
 
 - Wystąpił błąd aplikacji
 
-Czy podczas wyszukiwania lub eksportowania wyników z dużą liczbę skrzynek pocztowych (ponad 100 000 skrzynek pocztowych), czy otrzymujesz błędy eksportu?
+Lub podczas wyszukiwania lub eksportowania wyników z dużej liczby skrzynek pocztowych (ponad 100 000 skrzynek pocztowych), czy otrzymujesz błędy eksportu?
 
-Dla tych rodzajów błędów ponów wyszukiwanie lokalizacji zawartości, które nie powiodły się. Zobacz [Ten artykuł](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) , aby uzyskać więcej informacji.
+W przypadku tych typów błędów ponów próbę wyszukania lokalizacji zawartości, które nie powiodły się. Zobacz [ten artykuł,](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) aby uzyskać więcej informacji.

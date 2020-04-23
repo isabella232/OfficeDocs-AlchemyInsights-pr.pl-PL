@@ -2,7 +2,7 @@
 title: Ograniczanie przepustowości usługi SharePoint Online
 ms.author: pebaum
 author: pebaum
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 2aca55ac2fefbb2035140a759a77730dc905a4e9
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 50b2c29db1fd294abe6c9e60f067156109de392b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958745"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742219"
 ---
 # <a name="sharepoint-online-throttling"></a>Ograniczanie przepustowości usługi SharePoint Online
 
-**Ważne:** W tych bezprecedensowych czasach podejmujemy kroki w celu zapewnienia, że usługi SharePoint Online i OneDrive pozostaną wysoce dostępne — odwiedź [witrynę SharePoint Online, aby](https://aka.ms/ODSPAdjustments) uzyskać więcej informacji.
+**Ważne**: w tych niespotykanych czasach podejmujemy kroki zapewniające stałą wysoką dostępność usług SharePoint Online i OneDrive. Aby uzyskać więcej informacji, zapoznaj się z [tymczasowymi zmianami funkcji usługi SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 **Serwer 503 jest zajęty błąd**
 
 Użytkownicy mogą otrzymać błąd 503 serwer jest zajęty podczas próby przejścia do witryn programu SharePoint lub OneDrive. 
 
-Ten błąd może być spowodowany przez ograniczanie przepustowości w usłudze sharepoint. Usługa SharePoint Online używa ograniczania przepustowości w celu zachowania optymalnej wydajności i niezawodności usługi SharePoint Online. Ograniczanie ogranicza liczbę akcji użytkownika lub równoczesnych wywołań (według skryptu lub kodu), aby zapobiec nadużywaniu zasobów. 
+Ten błąd może być spowodowany przez ograniczanie przepustowości w usłudze sharepoint. Usługa SharePoint Online używa ograniczania, aby zapewnić optymalną wydajność i niezawodność usługi SharePoint Online. Ograniczanie ogranicza liczbę akcji użytkownika lub współbieżnych połączeń (za pomocą skryptu lub kodu), aby zapobiec nadmiernemu zużyciu zasobów. 
 
 Aby uzyskać więcej informacji na temat ograniczania przepustowości, [zobacz: Unikanie ograniczania lub blokowania w usłudze SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 

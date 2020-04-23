@@ -2,7 +2,7 @@
 title: Przechowywanie i usuwanie usługi OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,26 +12,26 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5fd6685d02d8178dd524dcc295af1021b17d61b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053343"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761346"
 ---
 # <a name="onedrive-retention-and-deletion"></a>Przechowywanie i usuwanie usługi OneDrive
 
-- Możesz [przywrócić usuniętego użytkownika OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) samodzielnie. Są one w kosza na 93 dni. 
+- Możesz samodzielnie [przywrócić usuniętych użytkowników usługi OneDrive.](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) Są w koszu przez 93 dni. 
 
-- Zobacz [ten artykuł](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) , aby dowiedzieć się:
-    - Jak nadać innemu użytkownikowi dostęp do OneDrive usuniętego użytkownika.
-    - Co się dzieje z OneDrive użytkownika po usunięciu konta użytkownika pakietu Office 365 dla organizacji.
+- Zobacz [ten artykuł,](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) aby dowiedzieć się:
+    - Jak udzielić innemu użytkownikowi dostępu do usługi OneDrive usuniętego użytkownika.
+    - Co się stanie z usłudze OneDrive użytkownika po usunięciu konta usługi Microsoft 365 użytkownika dla organizacji.
     - Jak skonfigurować delegowanie dostępu automatycznego.
     - Jak działa proces usuwania usługi OneDrive.
 
-- Zainteresowany bezpieczeństwa i zgodności centrum retencji i przytrzymaj?:
-    - [Zasady przechowywania dla witryn OneDrive i SharePoint](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [zbieranie elektronicznych materiałów dowodowych do przechowywania w witrynach OneDrive i SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Zainteresowany security and Compliance Center przechowywania i przechowywania?:
+    - [Zasady przechowywania witryn w usłudze OneDrive i programie SharePoint](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [Blokada zbierania elektronicznych materiałów dowodowych w witrynach usługi OneDrive i programu SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 
 

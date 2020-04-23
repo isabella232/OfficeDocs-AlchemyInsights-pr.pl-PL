@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 73fc8b71cf06be1a4ea91e164c2c47fd19971056
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.openlocfilehash: 7ffbd796979d8e63682bcc9f5ec5e21e16f777b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43054034"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765819"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Rozwiązania problemów podczas instalowania pakietu Office
 
@@ -29,7 +29,7 @@ Wypróbuj jedno z tych rozwiązań, aby usunąć błąd dotyczący pakietu Offic
 - Usuń wszelkie wcześniejsze ślady pakietu Office i ponownie go zainstaluj za pomocą asystenta odzyskiwania i pomocy technicznej (SaRA). 
 
     - Pobierz i zainstaluj [asystenta odzyskiwania i pomocy technicznej](https://aka.ms/SARA-OfficeUninstall-Alchemy). Po jego otwarciu w obszarze **Odinstaluj produkty pakietu Office** wybierz wersję, którą chcesz odinstalować (jeśli istnieje), a następnie kliknij przycisk **Dalej**. Kontynuuj przechodzenie przez kolejne ekrany i uruchom ponownie komputer po wyświetleniu monitu. Po ponownym uruchomieniu usługi SaRA zostanie automatycznie otwarty ponownie, aby zakończyć proces odinstalowywania.
-    - Użyj usługi SaRA, aby [ponownie zainstalować pakiet Office](http://aka.ms/sara-officeinstall). **Uwaga**: W celu skonfigurowania programu Visio lub Project przy użyciu usługi SaRA należy użyć pozycji [Zainstaluj program Visio](https://aka.ms/SaRA-VisioSetupScenario) lub [Zainstaluj program Project](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - Użyj usługi SaRA, aby [ponownie zainstalować pakiet Office](https://aka.ms/sara-officeinstall). **Uwaga**: W celu skonfigurowania programu Visio lub Project przy użyciu usługi SaRA należy użyć pozycji [Zainstaluj program Visio](https://aka.ms/SaRA-VisioSetupScenario) lub [Zainstaluj program Project](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - [Użyj instalatora pakietu Office w trybie offline](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA), aby zainstalować pakiet Office.
 
