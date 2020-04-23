@@ -1,9 +1,9 @@
 ---
-title: Opcje udostępniania pojawiają się Dim lub niedostępne
+title: Opcje udostępniania są wyświetlane jako słabe lub niedostępne
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: 6a9897214eeec10df38f4416506f5efdd803164d
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: e4aebd8ffaa1169cb27dcf551f72ab7bc7b1210d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122623"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758594"
 ---
-# <a name="sharing-options-appear-dim-or-are-not-available"></a><span data-ttu-id="0c67e-102">Opcje udostępniania są przyciemnione lub niedostępne</span><span class="sxs-lookup"><span data-stu-id="0c67e-102">Sharing Options Appear Dim or are Not Available</span></span>
+# <a name="sharing-options-appear-dim-or-are-not-available"></a><span data-ttu-id="01a4c-102">Opcje udostępniania są wyświetlane przyciemnione lub nie są dostępne</span><span class="sxs-lookup"><span data-stu-id="01a4c-102">Sharing Options Appear Dim or are Not Available</span></span>
 
-<span data-ttu-id="0c67e-103">Jeśli niektóre opcje udostępniania lub nie są dostępne podczas próby udostępnienia z programu SharePoint w trybie online lub OneDrive, zobacz [Opcje udostępniania są wyszarzone podczas udostępniania z programu SharePoint w trybie online lub OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span><span class="sxs-lookup"><span data-stu-id="0c67e-103">If some sharing options or are not available when attempting to share from SharePoint Online or OneDrive, see [Sharing options are greyed out when sharing from SharePoint Online or OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span></span>
+<span data-ttu-id="01a4c-103">Jeśli niektóre opcje udostępniania lub nie są dostępne podczas próby udostępnienia z usługi SharePoint Online lub OneDrive, zobacz [Opcje udostępniania są wyszarzone podczas udostępniania z usługi SharePoint Online lub OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span><span class="sxs-lookup"><span data-stu-id="01a4c-103">If some sharing options or are not available when attempting to share from SharePoint Online or OneDrive, see [Sharing options are greyed out when sharing from SharePoint Online or OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span></span>
