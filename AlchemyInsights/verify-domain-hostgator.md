@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: ff9c537b12d69253c091f4b7d2301397c273620f
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: aece5e267f5a9a03f374e75643cd9a5e4fa6c21d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42326166"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765423"
 ---
-# <a name="verify-your-domain-with-hostgator"></a><span data-ttu-id="483d4-102">Weryfikowanie domeny za pomocą hostgatora</span><span class="sxs-lookup"><span data-stu-id="483d4-102">Verify your domain with Hostgator</span></span>
+# <a name="verify-your-domain-with-hostgator"></a><span data-ttu-id="c211b-102">Weryfikowanie domeny za pomocą hostgatora</span><span class="sxs-lookup"><span data-stu-id="c211b-102">Verify your domain with Hostgator</span></span>
 
-<span data-ttu-id="483d4-103">Aby zweryfikować domenę, musisz dodać rekord TXT do rejestratora domen, aby sprawdzić, czy jesteś właścicielem domeny.</span><span class="sxs-lookup"><span data-stu-id="483d4-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="c211b-103">Aby zweryfikować domenę, musisz dodać rekord TXT do rejestratora domen, aby sprawdzić, czy jesteś właścicielem domeny.</span><span class="sxs-lookup"><span data-stu-id="c211b-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="483d4-104">Najpierw postępuj zgodnie [z kreatorem Dodaj domenę,](https://portal.office.com/adminportal/home#/Domains) wybierając pozycję **Ustawienia** \> **Domeny**, a następnie **dodaj domenę**.</span><span class="sxs-lookup"><span data-stu-id="483d4-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="c211b-104">Najpierw postępuj zgodnie z [kreatorem Dodaj domenę,](https://portal.office.com/adminportal/home#/Domains) wybierając pozycję **Ustawienia** \> **domen,** a następnie **dodaj domenę**.</span><span class="sxs-lookup"><span data-stu-id="c211b-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="483d4-105">Aby uzyskać instrukcje krok po kroku, zobacz [Tworzenie rekordów DNS w hostgatorze usługi Office 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator)</span><span class="sxs-lookup"><span data-stu-id="483d4-105">See [Create DNS records at Hostgator for Office 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) for step-by-step instructions.</span></span>
+<span data-ttu-id="c211b-105">Aby uzyskać instrukcje krok po kroku, zobacz [Tworzenie rekordów DNS w hostgatorze dla usługi Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator)</span><span class="sxs-lookup"><span data-stu-id="c211b-105">See [Create DNS records at Hostgator for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) for step-by-step instructions.</span></span>

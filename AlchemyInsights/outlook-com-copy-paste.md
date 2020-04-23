@@ -1,9 +1,9 @@
 ---
-title: Kopiowanie, wklejanie Hotmail
+title: Outlook.com wklej kopiowania
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "9000303"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a02b2d86785a63ede7f49faa603d205b566b68e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8628a5dfe0b9e1d82bd7a43173221f6c1c107cbb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546924"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760494"
 ---
-# <a name="copy-and-paste-in-outlookcom"></a><span data-ttu-id="69c2f-102">Kopiowanie i wklejanie w Hotmail</span><span class="sxs-lookup"><span data-stu-id="69c2f-102">Copy and paste in Outlook.com</span></span>
+# <a name="copy-and-paste-in-outlookcom"></a><span data-ttu-id="949ad-102">Kopiowanie i wklejanie w Outlook.com</span><span class="sxs-lookup"><span data-stu-id="949ad-102">Copy and paste in Outlook.com</span></span>
 
-<span data-ttu-id="69c2f-103">Nie Kopiuj lub Wklej przyciski w Hotmail, ale można użyć skrótów klawiaturowych:</span><span class="sxs-lookup"><span data-stu-id="69c2f-103">There aren't copy or paste buttons in Outlook.com, but you can use keyboard shortcuts:</span></span>
+<span data-ttu-id="949ad-103">W Outlook.com nie ma przycisków kopiowania ani wklejanych, ale można używać skrótów klawiaturowych:</span><span class="sxs-lookup"><span data-stu-id="949ad-103">There aren't copy or paste buttons in Outlook.com, but you can use keyboard shortcuts:</span></span>
 
-<span data-ttu-id="69c2f-104">**Na komputerze PC:** CTRL + C, aby skopiować, CTRL + X, aby wyciąć i CTRL + V, aby wkleić.</span><span class="sxs-lookup"><span data-stu-id="69c2f-104">**On a PC:** CTRL+C to copy, CTRL+X to cut, and CTRL+V to paste.</span></span>
+<span data-ttu-id="949ad-104">**Na komputerze:** CTRL+C do skopiowania, CTRL+X do wycięcia i CTRL+V do wklejenia.</span><span class="sxs-lookup"><span data-stu-id="949ad-104">**On a PC:** CTRL+C to copy, CTRL+X to cut, and CTRL+V to paste.</span></span>
 
-<span data-ttu-id="69c2f-105">**Na komputerze Mac:** CMD + C, aby skopiować, CMD + X, aby wyciąć i CMD + V, aby wkleić.</span><span class="sxs-lookup"><span data-stu-id="69c2f-105">**On a Mac:** CMD+C to copy, CMD+X to cut, and CMD+V to paste.</span></span>
+<span data-ttu-id="949ad-105">**Na komputerze Mac:** CMD + C do kopiowania, CMD + X do cięcia i CMD + V do wklejenia.</span><span class="sxs-lookup"><span data-stu-id="949ad-105">**On a Mac:** CMD+C to copy, CMD+X to cut, and CMD+V to paste.</span></span>
