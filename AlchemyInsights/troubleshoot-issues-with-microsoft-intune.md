@@ -1,25 +1,25 @@
 ---
-title: Rozwiązywanie problemów z Microsoft Intune
+title: Rozwiązywanie problemów z usłudze Microsoft Intune
 ms.author: pebaum
 author: pebaum
-ms.date: 10/23/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 0875105a99b5c85caaef96a61d6d6f23ae294116
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 916ce1fa20f8f12483b76a53eac4234849d48ce3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506597"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43733460"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Rozwiązywanie problemów z Microsoft Intune
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>Rozwiązywanie problemów z usłudze Microsoft Intune
 
 Przejrzyj zasoby wymienione poniżej, aby rozwiązać problem teraz.
   
-1. Korzystać z [Portalu rozwiązywania problemów Windows Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) , aby zdiagnozować i rozwiązać niektóre typowe błędy. Należy przeczytać [ten](https://docs.microsoft.com/intune/help-desk-operators) dokument, aby uzyskać więcej szczegółów.  
-2. Opisz [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod), by znaleźć odpowiedzi i rozwiązania często występujących problemów.  
-3. Sprawdź [Służbie zdrowia](https://portal.office.com/AdminPortal/Home#/servicehealth) , aby zobaczyć stan usługi.   
-4. Przegląd [dokumentacji Intune](https://docs.microsoft.com/intune/) planowania, jak to zrobić, rozwiązywanie problemów, artykuły i więcej. 
+1. Użyj [portalu rozwiązywania problemów z usługi Intune,](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) aby zdiagnozować i rozwiązać niektóre typowe błędy. Przejrzyj [ten](https://docs.microsoft.com/intune/help-desk-operators) dokument, aby uzyskać więcej informacji.  
+2. Przejrzyj [usługę Intune TechNet, ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)aby znaleźć odpowiedzi i rozwiązania typowych problemów.  
+3. Sprawdź [kondycję usługi,](https://portal.office.com/AdminPortal/Home#/servicehealth) aby zobaczyć stan usługi.   
+4. Zapoznaj się z [dokumentacją usługi Intune,](https://docs.microsoft.com/intune/) aby uzyskać informacje na temat planowania, indycyjni, rozwiązywania problemów z artykułami i nie tylko. 

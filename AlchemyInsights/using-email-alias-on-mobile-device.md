@@ -1,9 +1,9 @@
 ---
-title: 725 Using alias e-mail na urządzeniu przenośnym
+title: 725 Korzystanie z aliasu e-mail na urządzeniu przenośnym
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "725"
 - "1"
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: 8ac6a99cb481e6f80aeec90bd0cb51eca52bdba4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d187a6686d986efd18a486fe262bcca5409d93ae
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531729"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726294"
 ---
-# <a name="email-aliases-on-mobile-devices"></a>Aliasy e-mail na urządzeniach przenośnych
+# <a name="email-aliases-on-mobile-devices"></a>Aliasy e-mail na urządzeniach mobilnych
 
-Alias e-mail jest tylko inny adres e-mail, który jest skonfigurowany w skrzynce pocztowej, więc wiadomości wysyłane do aliasu użytkownika będą dostarczane do skrzynki pocztowej i będzie można odczytać na urządzeniu mobilnym. Dodatkowa konfiguracja nie jest potrzebna.
+Alias e-mail to kolejny adres e-mail skonfigurowany w skrzynce pocztowej, dzięki czemu wiadomości wysyłane do aliasu użytkownika będą dostarczane do skrzynki pocztowej i będą czytelne na urządzeniu przenośnym. Nie jest wymagana żadna dodatkowa konfiguracja.
 
-Jednak użytkownik nie może odpowiadać na wiadomości lub wysyłać nowe wiadomości przy użyciu aliasu jako ich z adresu. Wszystkie wiadomości wychodzące będzie od ich podstawowego adresu e-mail.
+Użytkownik nie może jednak odpowiadać na wiadomości ani wysyłać nowych wiadomości przy użyciu aliasu jako adresu Od. Wszystkie wiadomości wychodzące będą pochodzić z ich podstawowego adresu e-mail.

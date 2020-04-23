@@ -1,9 +1,9 @@
 ---
-title: Odinstalowanie programu Visio
+title: Odinstalowywanie programu Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "1936"
 - "9000201"
-ms.openlocfilehash: 50ad03e19b746c37949ddc85c17428d7dbd79efe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d4ef4295bda8c4845271162f8b0b591ea810eddd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506453"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43728797"
 ---
-# <a name="uninstall-visio"></a>Odinstalowanie programu Visio
+# <a name="uninstall-visio"></a>Odinstalowywanie programu Visio
 
-Pobierz i zainstaluj [wsparcia i Asystenta](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+Pobierz i zainstaluj [asystenta odzyskiwania i pomocy technicznej](https://aka.ms/SARA-OfficeUninstall-Alchemy).
   
-1. Po jego otwarciu z **produktów Odinstaluj pakiet Office** wybierz wersję programu Visio, które chcesz odinstalować, a następnie wybierz przycisk **Dalej**. 
+1. Po otwarciu z **pozycji Odinstaluj produkty pakietu Office** wybierz wersję programu Visio, którą chcesz odinstalować, i wybierz pozycję **Dalej**. 
     
-2. Kontynuuj przechodzenie przez ekrany i uruchom ponownie komputer po wyświetleniu monitu.
+2. Kontynuuj przechodzenie przez kolejne ekrany i uruchom ponownie komputer po wyświetleniu monitu.
     
-    Po ponownym uruchomieniu komputera, pomoc techniczną i Asystenta automatycznie ponownie otwiera aby zakończyć proces odinstalowywania.
+    Po ponownym uruchomieniu Asystent pomocy technicznej i odzyskiwania automatycznie zostanie ponownie otwarty, aby zakończyć proces odinstalowywania.
     
-3. Wykonaj pozostałe monity, a jeśli masz subskrypcję online programu Visio, można ponownie zainstalować programu Visio z [portalu konta](https://portal.office.com/account#installs)usługi Office 365. Dla uzyskania dodatkowej pomocy lub pomoc przy instalacji bez subskrypcji wersji programu Visio, takich jak Visio Professional zobacz [Instalowanie programu Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936). 
+3. Postępuj zgodnie z pozostałymi monitami, a jeśli masz subskrypcję usługi Visio Online, możesz ponownie zainstalować program Visio z [portalu kont](https://portal.office.com/account#installs)usługi Microsoft 365 . Aby uzyskać dodatkową pomoc lub pomoc dotyczącą instalowania niespłaconych wersji programu Visio, takich jak Visio Professional, zobacz [Instalowanie programu Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936). 
     
-Aby uzyskać listę innych opcji Odinstaluj wybierz [Odinstaluj pakiet Office z komputera PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).
+Aby wyświetlić listę innych opcji odinstalowywania, wybierz pozycję [Odinstaluj pakiet Office z komputera.](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936)
