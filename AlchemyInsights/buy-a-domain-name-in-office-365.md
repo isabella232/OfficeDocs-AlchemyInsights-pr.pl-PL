@@ -1,5 +1,5 @@
 ---
-title: Kupowanie nazwy domeny w usłudze Office 365
+title: Kup nazwę domeny na platformie Microsoft 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.custom:
 - "9002245"
 - "4349"
 ms.assetid: ''
-ms.openlocfilehash: eee63e9c61d5cc9cd68b90c7c8771ca439b27d7e
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: cf44a922bc248975ba2fcdb08aef2c2fde2416c7
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946703"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788856"
 ---
-# <a name="buy-a-domain-name-in-office-365"></a>Kupowanie nazwy domeny w usłudze Office 365
+# <a name="buy-a-domain-name-in-microsoft-365"></a>Kup nazwę domeny na platformie Microsoft 365
 
 Możesz kupić nazwę domeny od firmy Microsoft w centrum administracyjnym tutaj — [Kup domenę](https://admin.microsoft.com/Domains/Buy).
 
@@ -27,6 +27,6 @@ Możesz kupić nazwę domeny od firmy Microsoft w centrum administracyjnym tutaj
 
 - W razie potrzeby transfer domen do innego rejestratora jest dozwolony w okresie 60 dni po zakupie domeny.
 
-Aby uzyskać więcej informacji, zobacz [Kupowanie nazwy domeny w usłudze Office 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name?view=o365-worldwide).
+Aby uzyskać więcej informacji, zobacz [Kupowanie nazwy domeny na platformie Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name?view=o365-worldwide).
 
 Zobacz również [Aktualizowanie rekordów DNS w celu zachowania witryny sieci Web u obecnego dostawcy hostingu](https://docs.microsoft.com/alchemyinsights/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-0).

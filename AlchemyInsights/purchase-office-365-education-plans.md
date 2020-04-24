@@ -1,5 +1,5 @@
 ---
-title: Kupowanie planów usługi Office 365 Education
+title: Zakup planów platformy Microsoft 365 Education
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 7773c955d8f6887f87a3c3741fa29a08e41541e0
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195232"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789384"
 ---
-# <a name="purchase-office-365-education-plans"></a>Kupowanie planów usługi Office 365 Education
+# <a name="purchase-microsoft-365-education-plans"></a>Zakup planów platformy Microsoft 365 Education
 
-Potwierdzono Twoje uprawnienia do nabycia usługi Office 365 Education.  Aby dokonać zakupu:
+Potwierdzono Twoje uprawnienia do nabycia platformy Microsoft 365 Education.  Aby dokonać zakupu:
 
 1. Przejdź do pozycji **[Rozliczenia > Usługi zakupu](https://portal.office.com/AdminPortal/Home#/catalog)**.
 
@@ -35,6 +35,6 @@ Potwierdzono Twoje uprawnienia do nabycia usługi Office 365 Education.  Aby dok
 
 **Zdalne nauczanie i uczenie się**
 
-- Przeczytaj artykuł [Zdalna edukacja w usłudze Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), aby zapoznać się z najnowszymi wskazówkami dotyczącymi konfigurowania szkoły, planowania lekcji, wirtualnych spotkań i udostępniania treści uczniom i studentom.
+- Przeczytaj artykuł [Zdalna edukacja na platformie Microsoft 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), aby zapoznać się z najnowszymi wskazówkami dotyczącymi konfigurowania szkoły, planowania lekcji, wirtualnych spotkań i udostępniania treści uczniom i studentom.
 
 - Więcej wskazówek dotyczących kwestii informatycznych znajdziesz w artykułach [Rozpoczynanie pracy z aplikacją Microsoft Teams na potrzeby zdalnego uczenia się](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) i [Przechodzenie na nauczanie zdalne](https://www.microsoft.com/education/remote-learning).

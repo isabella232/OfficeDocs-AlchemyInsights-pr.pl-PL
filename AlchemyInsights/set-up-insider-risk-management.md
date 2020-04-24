@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 556150c41ccf363e6025ba6fac0660d1fb74f9b8
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43060007"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784557"
 ---
 # <a name="set-up-insider-risk-management"></a>Konfigurowanie zarządzania ryzykiem wewnętrznym
 
@@ -26,13 +26,13 @@ Zasady zarządzania ryzykiem wewnętrznym służą do identyfikowania ryzykownyc
 
 - subskrypcję planu usługi **Microsoft 365 E3** z dodatkiem zgodności Microsoft E5.
 
-Jeśli nie masz jeszcze istniejącego planu usługi **Microsoft 365 E5** i chcesz wypróbować zarządzanie ryzykiem wewnętrznym, możesz dodać usługę Microsoft 365 do istniejącej subskrypcji usługi Office 365 lub utworzyć konto w wersji próbnej planu usługi Microsoft 365 Enterprise E5.
+Jeśli nie masz jeszcze istniejącego planu usługi **Microsoft 365 E5** i chcesz wypróbować zarządzanie ryzykiem wewnętrznym, możesz dodać usługę Microsoft 365 do istniejącej subskrypcji lub utworzyć konto w wersji próbnej planu usługi Microsoft 365 Enterprise E5.
 
 Podstawowe czynności związane z używaniem zarządzania ryzykiem wewnętrznym obejmują:
 
 1. Włączanie uprawnień do zarządzania ryzykiem wewnętrznym.
 
-2. Włączanie dziennika inspekcji usługi Office 365.
+2. Włączanie dziennika inspekcji.
 
 3. Konfigurowanie wymagań wstępnych dla szablonu (opcjonalnie).
 

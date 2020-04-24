@@ -11,28 +11,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: aeeb2e1e76fe602d2767b422797452fd1155fdd5
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509511"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788892"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>Ustawianie automatycznych odpowiedzi dla skrzynki pocztowej użytkownika
 
 **Metoda 1**
 
-1. Zaloguj się do portalu usługi Office 365.
+1. Zaloguj się do portalu platformy Microsoft 365.
 
 2. Przejdź do pozycji **Użytkownicy > Aktywni użytkownicy** (lub **Grupy > Udostępnione skrzynki pocztowe** w przypadku konfigurowania ustawień dla udostępnionej skrzynki).
 
-3. Wybierz użytkownika, który posiada skrzynkę pocztową programu Microsoft Exchange.
+3. Wybierz użytkownika, który ma skrzynkę pocztową programu Microsoft Exchange.
 
-4. W menu wysuwanym po prawej stronie przejdź do pozycji **Ustawienia poczty > Odpowiedzi automatyczne** (w przypadku udostępnionej skrzynki pocztowej kliknij pozycję **Odpowiedzi automatyczne** w wysuwanym menu).
+4. W menu wysuwanym po prawej stronie przejdź do pozycji **Ustawienia poczty > Odpowiedzi automatyczne** (w przypadku udostępnionej skrzynki pocztowej wystarczy kliknąć pozycję **Odpowiedzi automatyczne** w menu wysuwanym).
 
 **Metoda 2**
 
-1. Zaloguj się do portalu administracyjnego usługi Office 365 przy użyciu poświadczeń administratora usługi.
+1. Zaloguj się do portalu administracyjnego platformy Microsoft 365 przy użyciu poświadczeń administratora usługi.
 
 2. Rozwiń pozycję **Centra administracyjne**, a następnie kliknij pozycję **Exchange**.
 

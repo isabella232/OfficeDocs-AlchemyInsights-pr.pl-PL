@@ -10,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: fab71b234088b54a684f43dca5533dd0332da48d
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 9f72e8d263c0cef611e2fe19964141d68633e8a3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739071"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765855"
 ---
 # <a name="issue-with-skype-for-business"></a>Występuje problem z programem Skype dla firm?
 
@@ -23,7 +23,7 @@ W następujących domenach wykryliśmy problemy, które mogą powodować niepraw
   
 {HealthCheckString}
   
-Rekordy NS, CNAME lub SRV w ustawieniach domeny (DNS) nie są prawidłowo skonfigurowane na potrzeby programu Skype dla firm. Aby uzyskać szczegółowe instrukcje, zobacz [Tworzenie rekordów DNS dla usługi Office 365 u dowolnego dostawcy hostingu DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Rekordy NS, CNAME lub SRV w ustawieniach domeny (DNS) nie są prawidłowo skonfigurowane na potrzeby programu Skype dla firm. Aby uzyskać szczegółowe instrukcje, zobacz [Tworzenie rekordów DNS u dowolnego dostawcy hostingu DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
   
 Aby rozwiązać problem i skorzystać z pomocy, przejdź do strony [Domeny](https://admin.microsoft.com/adminportal/home#/Domains) w centrum administracyjnym platformy Microsoft 365.
   

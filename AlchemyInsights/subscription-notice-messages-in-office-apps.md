@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: efb78f5f0b8a0633ecd5d36a981e3c9f5eff81d0
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 12ffe590e9ca6326a48fce94d685b10f63d51b2f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182808"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43789204"
 ---
 # <a name="subscription-notice-messages-in-office-apps"></a>Wiadomości z powiadomieniami o subskrypcji w aplikacjach pakietu Office
 
 - Jeśli pakiet Office był preinstalowany na nowym urządzeniu, zobacz [Aktywuj pakiet Office](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e), aby uzyskać pomoc przy aktywacji pakietu Office na nowym urządzeniu.
 
-- Sprawdź [stronę kondycji usługi Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health), aby zobaczyć, czy wymieniono na niej znane problemy z usługą.
+- Sprawdź [stronę kondycji platformy Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health), aby zobaczyć, czy wymieniono na niej znane problemy z usługą.
 
-- Sprawdź, czy [stan subskrypcji](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) jest prawidłowy i czy użytkownik, którego dotyczy problem, ma [przypisaną prawidłową licencję](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) i połączenie z Internetem. Jeśli ostatnio przełączono się do nowej subskrypcji/planu usługi Office 365, spróbuj odinstalować pakiet Office, a następnie zainstalować go ponownie na komputerze, na którym wystąpił problem.
+- Sprawdź, czy [stan subskrypcji](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) jest prawidłowy i czy użytkownik, którego dotyczy problem, ma [przypisaną prawidłową licencję](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) i połączenie z Internetem. Jeśli ostatnio przełączono się do nowej subskrypcji/planu, spróbuj odinstalować pakiet Office, a następnie zainstalować go ponownie na komputerze, na którym wystąpił problem.
 
-- Otwórz aplikację pakietu Office, kliknij kolejno pozycje **Plik > Konto** i wyloguj się z wszystkich kont. Zaloguj się ponownie przy użyciu konta użytkownika z prawidłową licencją. Aby uzyskać szczegółowe informacje, zobacz [Konta w pakiecie Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9?ui=en-US&rs=en-GB&ad=GB).
+- Otwórz aplikację pakietu Office, kliknij kolejno pozycje **Plik > Konto** i wyloguj się z wszystkich kont. Zaloguj się ponownie przy użyciu konta użytkownika z prawidłową licencją. Aby uzyskać szczegółowe informacje, zobacz [Konta w pakiecie Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
 - Otwórz aplikację pakietu Office, a następnie kliknij kolejno pozycje **Plik > Konto > Opcja aktualizacji > Aktualizuj teraz**, aby zaktualizować pakiet Office na komputerze, na którym wystąpił problem. Aby uzyskać szczegółowe instrukcje, zobacz [Instalowanie aktualizacji pakietu Office](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5).
 
@@ -36,6 +36,6 @@ ms.locfileid: "43182808"
 
 Szczegółowe instrukcje znajdziesz tutaj: 
 
-[Po otwarciu aplikacji usługi Office 365 jest wyświetlane powiadomienie o subskrypcji](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).
+[Po otwarciu aplikacji platformy Microsoft 365 jest wyświetlane powiadomienie o subskrypcji](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 
 [Rozwiązywanie problemów z aktywacją pakietu Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)

@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856807"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739446"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Problemy z aplikacją Teams często występujące u klientów z instytucji edukacyjnych
 
@@ -45,12 +45,12 @@ Jeśli potrzebujesz pomocy przy wdrażaniu aplikacji Teams jako narzędzia do na
     6. W centrum administracyjnym programu Skype dla firm kliknij pozycję **konferencja głosowa**, a następnie **użytkownicy**.
     7. Zaznacz danego użytkownika i sprawdź, czy ma domyślny numer płatny.
 
-    Aby uzyskać więcej informacji, przeczytaj artykuł [pakiety telefoniczne w usłudze Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) lub zadzwoń do zespołu ds. rozliczeń z przedsiębiorstwami firmy Microsoft, aby uzyskać pomoc dotyczącą licencji.
+    Aby uzyskać więcej informacji, przeczytaj artykuł [Pakiety telefoniczne](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) lub zadzwoń do zespołu ds. rozliczeń z przedsiębiorstwami firmy Microsoft, aby uzyskać pomoc dotyczącą licencji.
 
     Dodatkowe zasoby
 
     - [Spotkania i konferencje w aplikacji Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Konferencje głosowe w usłudze Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Konferencje głosowe](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Zasady dotyczące spotkań**: zasady dotyczące spotkań służą do określania, które funkcje są dostępne dla uczestników spotkania zaplanowanego przez użytkowników w Twojej organizacji. Po utworzeniu zasady i wprowadzeniu zmian możesz przypisać użytkowników do danej zasady.
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: f3af2a35c1fd4fee6458ff276a69bb551b33ac68
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: e544e1d71a4aa61c1a16f2d3647050129ceb164e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707739"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764379"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Konfigurowanie konferencji głosowych w aplikacji Teams
 
@@ -42,4 +42,4 @@ Aby sprawdzić, czy użytkownik ma licencję na konferencje głosowe oraz domyś
 
 7. Zaznacz danego użytkownika i sprawdź, czy ma **domyślny numer płatny**.
 
-Aby uzyskać więcej informacji, przeczytaj artykuł [pakiety telefoniczne w usłudze Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) lub zadzwoń do zespołu ds. rozliczeń z przedsiębiorstwami firmy Microsoft, aby uzyskać pomoc dotyczącą licencji.
+Aby uzyskać więcej informacji, przeczytaj artykuł [pakiety telefoniczne na platformie Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) lub zadzwoń do zespołu ds. rozliczeń z przedsiębiorstwami firmy Microsoft, aby uzyskać pomoc dotyczącą licencji.

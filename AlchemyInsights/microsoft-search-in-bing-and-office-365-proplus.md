@@ -1,21 +1,21 @@
 ---
-title: Funkcja Microsoft Search w usługach Bing i Office 365 ProPlus
+title: Microsoft Search w usłudze Bing i Aplikacje Microsoft 365 dla przedsiębiorstw
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: 3998259957ca49fa8d93d3f5d8be5ac12497d8d1
-ms.sourcegitcommit: 3530e3818d5bac438ed8e402b394a7ef3b4c72de
+ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "41551172"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762327"
 ---
-# <a name="microsoft-search-in-bing-and-office-365-proplus"></a>Funkcja Microsoft Search w usługach Bing i Office 365 ProPlus
+# <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Microsoft Search w usłudze Bing i Aplikacje Microsoft 365 dla przedsiębiorstw
 
-Począwszy od wersji 2002 usługi Office 365 ProPlus, zostanie zainstalowane rozszerzenie funkcji Microsoft Search w usłudze Bing, co spowoduje, że usługa Bing będzie domyślną wyszukiwarką dla przeglądarki internetowej Google Chrome tylko na urządzeniach w określonych lokalizacjach.
+Począwszy od wersji 2002 usługi Aplikacje Microsoft 365 dla przedsiębiorstw, zostanie zainstalowane rozszerzenie funkcji Microsoft Search w usłudze Bing, co spowoduje, że usługa Bing będzie domyślną wyszukiwarką dla przeglądarki internetowej Google Chrome tylko na urządzeniach w określonych lokalizacjach.
 
 **Jeśli nie chcesz instalować tego rozszerzenia, [wykonaj poniższe czynności](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed).**
 
