@@ -1,5 +1,5 @@
 ---
-title: Etykiety poufności widoczne w grupach usługi Office 365
+title: Etykieta poufności widoczna w grupach platformy Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: f0c8a8f07eda120b67a0adb34516d4f0203d6f7b
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 9aea00b8239ed126cd56385cc6265fc15466db30
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218197"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911877"
 ---
-# <a name="office-365-groups-showing-sensitivity-label"></a>Etykiety poufności widoczne w grupach usługi Office 365
+# <a name="microsoft-365-groups-showing-sensitivity-label"></a>Etykieta poufności widoczna w grupach platformy Microsoft 365
 
-W przypadku grupy usługi Office 365 może być wyświetlany następujący komunikat:
+W przypadku grupy platformy Microsoft 365 może być wyświetlany następujący komunikat:
 
-- „Nie można utworzyć grupy usługi Office 365 z poziomu aplikacji OWA” oraz błąd „pole klasyfikacji nie może być puste”.
+- „Nie można utworzyć grupy platformy Microsoft 365 z poziomu aplikacji OWA” oraz błąd „pole klasyfikacji nie może być puste”.
 
-- Etykiety poufności były wyświetlane w grupach usługi Office 365, nawet gdy nie włączono tej funkcji.
+- Etykieta poufności była wyświetlana w grupach platformy Microsoft 365, nawet gdy nie włączono tej funkcji.
 
-Problem został zidentyfikowany i rozwiązany. Poprawka jest obecnie wdrażana. Powinno to potrwać kilka godzin. W międzyczasie użyj portalu administracyjnego usługi Office lub portalu administracyjnego platformy Azure do tworzenia grup w usłudze Office 365.  
+Problem został zidentyfikowany i rozwiązany. Poprawka jest obecnie wdrażana. Powinno to potrwać kilka godzin. W międzyczasie użyj portalu administracyjnego usługi Office lub portalu administracyjnego platformy Azure do tworzenia grup platformy Microsoft 365.  
