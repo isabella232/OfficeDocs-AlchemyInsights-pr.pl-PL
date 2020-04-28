@@ -1,5 +1,5 @@
 ---
-title: Przywracanie usuniętej grupy Yammer
+title: Przywracanie usuniętej grupy usługi Yammer
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: 467dc14be08410397e08d6d0a4c33bffc7aea80e
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 255629468a896ebf10917e4738e6aaf8c2d26826
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745155"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912629"
 ---
-# <a name="restore-a-deleted-yammer-group"></a>Przywracanie usuniętej grupy Yammer
+# <a name="restore-a-deleted-yammer-group"></a>Przywracanie usuniętej grupy usługi Yammer
 
-[Office 365 połączonych grup w Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) można przywrócić w ciągu 30 dni od usunięcia, wykonując kroki, aby [przywrócić usuniętej grupy 365 pakietu Office](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group).
-W niektórych przypadkach grupy Yammer może nie być podłączony do grupy 365 pakietu Office. Jeśli jest to przypadek, nie jest możliwe automatyczne przywracanie grupy, ale może być możliwe dostęp do usuniętych danych w [danych Yammer eksportu](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) , jeśli [zasady przechowywania danych](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) sieciowych jest zestaw do *usuwania nietrwałego*. Skontaktuj się z [zweryfikowanego administratora](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) sieci Yammer, aby sprawdzić zasady przechowywania danych lub przeprowadzić eksport danych.
+[Połączone grupy usługi Office 365 w usłudze Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) można przywrócić w ciągu 30 dni od usunięcia, wykonując kroki [przywracania usuniętej grupy usługi Microsoft 365](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group).
+W niektórych przypadkach grupa usługi Yammer może nie być połączona z grupą usługi Microsoft 365. W takim przypadku nie jest możliwe automatyczne przywrócenie grupy, ale może być możliwy dostęp do usuniętych danych w [eksporcie danych](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) usługi Yammer, jeśli [zasady przechowywania danych sieciowych](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) są ustawione na *Usuwanie nietrwałe*. Skontaktuj się ze [zweryfikowanym administratorem](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) sieci Yammer, aby sprawdzić zasady przechowywania danych lub przeprowadzić eksport danych.

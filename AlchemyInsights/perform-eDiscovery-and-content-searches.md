@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764738"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911841"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Jak przeprowadzać wyszukiwania zawartości i wyszukiwania zbierania elektronicznych materiałów dowodowych
 
-Narzędzie Wyszukiwanie zawartości w Centrum zgodności & zabezpieczeń umożliwia szybkie znajdowanie wiadomości e-mail w skrzynkach pocztowych programu Exchange, dokumentów w witrynach programu SharePoint i kontach usługi OneDrive oraz konwersacji w wiadomościach błyskawicznych w programie Skype dla firm. Za pomocą narzędzia do wyszukiwania zawartości można również wyszukiwać wiadomości e-mail, dokumenty i konwersacje w wiadomościach błyskawicznych w narzędziach współpracy usługi Microsoft 365, takich jak Microsoft Teams i Grupy usługi Office 365.
+Narzędzie Wyszukiwanie zawartości w Centrum zgodności & zabezpieczeń umożliwia szybkie znajdowanie wiadomości e-mail w skrzynkach pocztowych programu Exchange, dokumentów w witrynach programu SharePoint i kontach usługi OneDrive oraz konwersacji w wiadomościach błyskawicznych w programie Skype dla firm. Za pomocą narzędzia do wyszukiwania zawartości można również wyszukiwać wiadomości e-mail, dokumenty i konwersacje w wiadomościach błyskawicznych w narzędziach do współpracy usługi Microsoft 365, takich jak Microsoft Teams i Microsoft 365 Groups.
 
 **Aby przeprowadzić wyszukiwanie zawartości**
 

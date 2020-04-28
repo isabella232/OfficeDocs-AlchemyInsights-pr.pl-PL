@@ -1,5 +1,5 @@
 ---
-title: Zmienianie domeny dla grupy usługi Office 365
+title: Zmienianie domeny dla grupy usługi Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 3454afe1e39ba7a0aad19a1d6494e56a40ff2e65
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7d3e3a6f72221b3c9b1ef3dd9d293813bf4b278a
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706945"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911339"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Zmienianie domeny grupy usługi Office 365
+# <a name="change-the-domain-for-microsoft-365-group"></a>Zmienianie domeny grupy usługi Microsoft 365
 
-Jeśli chcesz zmienić domenę grupy usługi Office 365 podczas tworzenia, wykonaj czynności opisane w [temacie Wybieranie domeny, której chcesz używać podczas tworzenia grup usługi Office 365](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
+Jeśli chcesz zmienić domenę grupy usługi Microsoft 365 podczas tworzenia, wykonaj kroki opisane w [temacie Wybieranie domeny, której chcesz używać podczas tworzenia grup usługi Microsoft 365](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
   
-Po utworzeniu grupy usługi Office 365 obecnie nie można zmienić domeny. Jedynym sposobem jest utworzenie nowej grupy usługi Office 365 i usunięcie starej w razie potrzeby (dodatkowe adresy e-mail można dodać za pośrednictwem [Centrum administracyjnego programu Exchange](https://outlook.office365.com/ecp.aspx)).
+Po utworzeniu grupy Microsoft 365 obecnie nie ma możliwości zmiany domeny. Jedynym sposobem jest utworzenie nowej grupy usługi Microsoft 365 i usunięcie starej, jeśli to konieczne (dodatkowe adresy e-mail można dodać za pośrednictwem [Centrum administracyjnego programu Exchange](https://outlook.office365.com/ecp.aspx)).

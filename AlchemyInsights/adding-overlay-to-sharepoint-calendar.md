@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: e40d4b866d4a2d70e83b5addf8de2690c04eaffc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709417"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908858"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Dodawanie nakładki do kalendarza programu SharePoint
 
-Kalendarze programu SharePoint to klasyczne typy list, które czasami są mylone z kalendarzami grupowymi usługi Office 365.
+Kalendarze programu SharePoint to klasyczne typy list, które czasami są mylone z kalendarzami grupowymi usługi Microsoft 365.
  
 Jeśli używasz kalendarza programu SharePoint w witrynie, możesz nałożyć na niego własny kalendarz programu Exchange, aby utworzyć połączony widok kalendarza. Alternatywnie można nakładać inny kalendarz programu SharePoint tak długo, jak oba kalendarze programu SharePoint znajdują się w tym samym zbiorze witryn.
  

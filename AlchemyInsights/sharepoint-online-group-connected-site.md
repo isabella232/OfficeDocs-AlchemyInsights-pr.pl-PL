@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642154"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912976"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problemy podczas tworzenia witryny połączonej z grupą w programie SharePoint
 
@@ -30,5 +30,5 @@ Jeśli grupa i jej połączona witryna zostały usunięte i chcesz utworzyć inn
 
 1. Istnieją różne sposoby tworzenia i używania nowoczesnych grup w programie SharePoint.
 
-   - Istniejące witryny można połączyć z grupą usługi Office 365. Aby uzyskać więcej informacji, zobacz [Łączenie grupy usługi Office 365 przy użyciu interfejsu użytkownika programu SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Aby utworzyć witrynę połączoną z grupą usługi Office 365, musisz utworzyć [witrynę zespołu](https://admin.microsoft.com/sharepoint).
+   - Istniejące witryny można połączyć z grupą usługi Microsoft 365. Aby uzyskać więcej informacji, zobacz [Łączenie grupy usługi Microsoft 365 przy użyciu interfejsu użytkownika programu SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Aby utworzyć witrynę połączoną z grupą usług Microsoft 365, musisz utworzyć [witrynę zespołu](https://admin.microsoft.com/sharepoint).

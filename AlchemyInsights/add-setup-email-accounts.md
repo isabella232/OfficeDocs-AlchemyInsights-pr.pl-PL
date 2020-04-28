@@ -11,23 +11,22 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 2495ad459e1eb318ad2f3e9753a4bae07fa8909a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3e6cda6d0a21ebca7647662809dd55d942304471
+ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671395"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914988"
 ---
-# <a name="setup-email-accounts"></a>Konfigurowanie kont e-mail
+# <a name="set-up-email-accounts"></a>Konfigurowanie kont e-mail
 
-1. W programie Outlook wybierz pozycję**Dodaj konto****z informacjami o** >  **pliku** > .
+1. W programie Outlook kliknij pozycję Dodaj**konto**z**informacjami o** >  **pliku** > .
 
-2. Wprowadź swój adres e-mail, a następnie wybierz pozycję **Połącz**.
+2. Wprowadź swój adres e-mail, a następnie kliknij pozycję **Połącz**.
 
-3. Wprowadź hasło, a następnie wybierz **przycisk OK**.
+3. Wprowadź hasło i kliknij przycisk **OK**.
 
 4. Możesz powtórzyć te kroki, aby dodać wiele kont.
 
-    > [!NOTE]
-    > Niektóre konta e-mail, takie jak Gmail, Yahoo i iCloud, wymagają skonfigurowania uwierzytelniania dwuskładnikowego w celu używania programu Outlook do wysyłania i odbierania wiadomości e-mail. Aby uzyskać więcej informacji, zobacz [Dodawanie konta e-mail do programu Outlook.](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)
+**Uwaga:** Niektóre konta e-mail, takie jak Gmail, Yahoo i iCloud, wymagają skonfigurowania uwierzytelniania dwuskładnikowego w celu używania programu Outlook do wysyłania i odbierania wiadomości e-mail. Aby uzyskać więcej informacji, zobacz [Dodawanie konta e-mail do programu Outlook.](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)
   

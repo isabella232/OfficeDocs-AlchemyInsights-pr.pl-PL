@@ -11,25 +11,27 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626322"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908799"
 ---
-# <a name="microsoft-teams-upgrade"></a>Uaktualnienie programu Microsoft Teams
+# <a name="microsoft-teams-upgrade"></a>Uaktualnienie usługi Microsoft Teams
 
-Niezależnie od tego, czy dopiero zaczynasz pracę z zespołami, już korzystasz z aplikacji Teams obok Skype'a dla firm, czy jesteś gotowy do uaktualnienia, chcemy zapewnić Ci wszystko, czego potrzebujesz, aby nawigować po udanej podróży do zespołów. Aby uzyskać więcej informacji, prosimy odwiedzić poniższe linki.
+**Ważne:** Możemy pomóc rozwiązać ten problem za pomocą diagnostyki pomocy technicznej, ale wygląda na to, że nie korzystasz z Nowego Centrum administracyjnego. Aby użyć Nowego Centrum administracyjnego, przesuń przełącznik w prawym górnym rogu z **napisem nowe centrum administracyjne** w prawo. Korzystając z nowego Centrum administracyjnego, kliknij widżet **Potrzebujesz pomocy,** wpisz "Uaktualnienie zespołów", a następnie postępuj zgodnie z instrukcjami, aby uruchomić diagnostykę.
 
-[Wprowadzenie do uaktualnienia do programu Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+Niezależnie od tego, czy dopiero zaczynasz pracę z usługą Teams, korzystasz już z usługi Teams obok programu Skype dla firm, czy jesteś gotowy do uaktualnienia, chcemy mieć pewność, że masz wszystko, czego potrzebujesz, aby przejść udaną podróż do zespołów. Aby uzyskać więcej informacji, odwiedź poniższe linki.
 
-[Zaplanuj uaktualnienie](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[Wprowadzenie do uaktualnienia usługi Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
-[Zrozumienie współistnienia programu Microsoft Teams i programu Skype dla firm](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Planowanie uaktualnienia](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
-[Przeprowadzanie uaktualnienia z programu Skype dla firm Online do zespołów](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+[Opis współistnienia usług Microsoft Teams i programu Skype dla firm](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Przeprowadzanie uaktualnienia z programu Skype dla firm lokalnie do zespołów](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Wykonywanie uaktualnienia z usługi Skype dla firm Online do zespołów](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+
+[Wykonywanie uaktualnienia z programu Skype dla firm lokalnie do zespołów](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Sprawdź stan programu Skype dla firm Online do uaktualnienia zespołów za pomocą programu PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Sprawdzanie stanu uaktualnienia usługi Skype dla firm Online do usługi Teams za pomocą programu PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

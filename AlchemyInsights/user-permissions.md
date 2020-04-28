@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710525"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912904"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Uprawnienia użytkowników w programie SharePoint i OneDrive
 
@@ -27,7 +27,7 @@ Jeśli użytkownik w organizacji nie może uzyskać dostępu do programu SharePo
   
 1. Otwórz witrynę w przeglądarce internetowej.
     
-2. Jeśli witryna należy do grupy usługi Office 365, kliknij ikonę Ustawienia w prawym górnym rogu, a następnie kliknij pozycję **Uprawnienia witryny**. Kliknij pozycję **Zaproś osoby**, a następnie wybierz opcję dodania członków do grupy usługi Office 365 lub udostępnienia tylko witryny. 
+2. Jeśli witryna należy do grupy usługi Microsoft 365, kliknij ikonę Ustawienia w prawym górnym rogu, a następnie kliknij pozycję **Uprawnienia witryny**. Kliknij pozycję **Zaproś osoby**, a następnie wybierz opcję dodania członków do grupy Microsoft 365 lub udostępnienia tylko witryny. 
     
     W przypadku witryny komunikacyjnej kliknij pozycję **Udostępnij witrynę** w prawym górnym rogu, wprowadź jej imię i nazwisko, a następnie wybierz poziom uprawnień (Odczyt, Edycja lub Pełna kontrola). 
     

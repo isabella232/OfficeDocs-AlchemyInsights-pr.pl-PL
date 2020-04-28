@@ -1,5 +1,5 @@
 ---
-title: Historia czatu w Microsoft Teams
+title: Historia czatów w usłudze Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2668"
 - "9000738"
-ms.openlocfilehash: 75acc293036dc27a043fd1c45daa56eab3f8af5e
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: f1e8c3764415cb32b0dd0ea3223f6a9b3d12b89c
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376764"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911266"
 ---
-# <a name="viewing-chat-history-in-microsoft-teams"></a>Wyświetlanie historii czatu w programie Microsoft Teams
+# <a name="viewing-chat-history-in-microsoft-teams"></a>Wyświetlanie historii czatu w usłudze Microsoft Teams
 
-Aby wyświetlić historię czatu w zespołach, można użyć [wyszukiwania zawartości](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) z [Centrum zabezpieczeń & zgodności](https://sip.protection.office.com/insightdashboard), w którym można przeszukiwać skrzynkę pocztową skojarzoną z grupą 365 pakietu Office lub zespołem Microsoft. 
+Aby wyświetlić historię czatu w usłudze Teams, można użyć [wyszukiwania zawartości](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) z Centrum zgodności [& zabezpieczeń,](https://sip.protection.office.com/insightdashboard)gdzie można przeszukiwać skrzynkę pocztową skojarzoną z grupą usługi Microsoft 365 lub zespołem firmy Microsoft. 
 
-Zobacz [przeszukiwanie Microsoft Teams i Office 365 Groups,](https://docs.microsoft.com/office365/securitycompliance/content-search#searching-microsoft-teams-and-office-365-groups) aby poznać możliwości wyszukiwania w centrum zabezpieczeń i zgodności. 
+Zobacz [Wyszukiwanie w usłudze Microsoft Teams i grupach usługi Microsoft 365,](https://docs.microsoft.com/office365/securitycompliance/content-search#searching-microsoft-teams-and-office-365-groups) aby dowiedzieć się więcej o możliwościach wyszukiwania w Centrum zabezpieczeń i zgodności. 
 
-**Uwaga:** Tworzenie kopii zapasowych, eksportowanie, drukowanie i archiwizowanie historii konwersacji nie jest obecnie dostępne bezpośrednio w programie Microsoft Teams. Proszę głosować na tej możliwości w [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20). 
+**Uwaga:** Tworzenie kopii zapasowych, eksportowanie, drukowanie i archiwizowanie historii konwersacji nie jest obecnie dostępne bezpośrednio w usłudze Microsoft Teams. Proszę głosować na tę funkcję w [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20). 

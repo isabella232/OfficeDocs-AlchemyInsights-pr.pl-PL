@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721819"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912413"
 ---
 # <a name="manage-access-requests"></a>Zarządzanie żądaniami dostępu
 
@@ -26,7 +26,7 @@ Gdy użytkownik próbuje uzyskać dostęp do elementu w programie SharePoint i n
     
 2. W obszarze **Użytkownicy i uprawnienia**kliknij pozycję **Żądania dostępu i zaproszenia**. (Jeśli to nie jest wyświetlane, nie zostały wysłane żadne żądania dostępu).
     
-3. Aby udzielić użytkownikowi uprawnień indywidualnie, kliknij przycisk **Zatwierdź** lub **Odrzuć**. Aby wybrać określony poziom uprawnień, najpierw kliknij wielokropek (...) obok imienia i nazwiska osoby. Alternatywnie należy dodać użytkownika do grupy, która ma uprawnienia do witryny. W przypadku witryn komunikacyjnych i klasycznych witryn zespołowych można to zrobić na stronie Ustawienia witryny. W przypadku witryn należących do grupy usługi Office 365 można dodać użytkownika do grupy.
+3. Aby udzielić użytkownikowi uprawnień indywidualnie, kliknij przycisk **Zatwierdź** lub **Odrzuć**. Aby wybrać określony poziom uprawnień, najpierw kliknij wielokropek (...) obok imienia i nazwiska osoby. Alternatywnie należy dodać użytkownika do grupy, która ma uprawnienia do witryny. W przypadku witryn komunikacyjnych i klasycznych witryn zespołowych można to zrobić na stronie Ustawienia witryny. W przypadku witryn należących do grupy usługi Microsoft 365 można dodać użytkownika do grupy.
     
     [Zarządzanie żądaniami dostępu](https://go.microsoft.com/fwlink/?linkid=2008747)
     
