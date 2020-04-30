@@ -14,13 +14,20 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
+ms.sourcegitcommit: 7755f288fcc718571367cf1960962b19a82bac4f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706837"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43939665"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="6d567-102">Zmienianie częstopłacać</span><span class="sxs-lookup"><span data-stu-id="6d567-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="3240e-102">Zmienianie częstopłacać</span><span class="sxs-lookup"><span data-stu-id="3240e-102">Change how often you pay</span></span>
 
- <span data-ttu-id="6d567-103">**Chcesz zmienić częstotliwość dokonywania płatności?**</span><span class="sxs-lookup"><span data-stu-id="6d567-103">**Want to change your payment frequency?**</span></span> <span data-ttu-id="6d567-104">Jeśli chcesz zmienić sposób, w jaki płacisz za subskrypcję usługi Microsoft 365 dla firm, z rocznej na miesięczną lub miesięczną na roczną, możemy Ci w tym pomóc.</span><span class="sxs-lookup"><span data-stu-id="6d567-104">If you want to change how frequently you pay for your Microsoft 365 for business subscription, either from annual to monthly or monthly to annual, we can help you with that.</span></span> <span data-ttu-id="6d567-105">Musisz kupić tę samą subskrypcję z nową częstotliwością płatności i anulować starą subskrypcję.</span><span class="sxs-lookup"><span data-stu-id="6d567-105">You'll need to purchase the same subscription with the new payment frequency and cancel the old subscription.</span></span> <span data-ttu-id="6d567-106">Skorzystaj z opcji "Zadzwoń do Ciebie", aby porozmawiać z inżynierem pomocy technicznej.</span><span class="sxs-lookup"><span data-stu-id="6d567-106">Please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="3240e-103">Aby zmienić często rozliczane opłaty i płacić za subskrypcję, wykonaj następujące kroki w centrum administracyjnym usługi Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="3240e-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span> 
+1. <span data-ttu-id="3240e-104">Przejdź do strony **Rozliczenia > [Produkty i usługi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="3240e-104">Go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
+2. <span data-ttu-id="3240e-105">Znajdź subskrypcję, którą chcesz zmienić.</span><span class="sxs-lookup"><span data-stu-id="3240e-105">Find the subscription you want to change.</span></span> <span data-ttu-id="3240e-106">W sekcji **Rozliczenia** obok pozycji **Rozliczane co miesiąc** lub **Rozliczane co roku**kliknij pozycję **Edytuj**.</span><span class="sxs-lookup"><span data-stu-id="3240e-106">In the **Billing** section, next to **Billed monthly** or **Billed annually**, click **Edit**.</span></span> 
+3. <span data-ttu-id="3240e-107">Wybierz opcję, jak często chcesz być rozliczane, a następnie kliknij przycisk **Zmień**.</span><span class="sxs-lookup"><span data-stu-id="3240e-107">Choose the option for how often you want to be billed, then click **Change**.</span></span>
+
+<span data-ttu-id="3240e-108">**Uwaga:** Tylko dostępne są rozliczenia miesięczne lub roczne.</span><span class="sxs-lookup"><span data-stu-id="3240e-108">**Note**: Monthly or Annual billing are the only options.</span></span>
+
+<span data-ttu-id="3240e-109">Aby uzyskać więcej informacji, zobacz [Zmienianie częstotliwości płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="3240e-109">For more info, see [Change your payment frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).</span></span>

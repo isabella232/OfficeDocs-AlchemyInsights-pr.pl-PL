@@ -1,5 +1,5 @@
 ---
-title: Wyświetl Moje faktury
+title: Wyświetlanie rachunku
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,17 +12,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665698"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947745"
 ---
-# <a name="view-my-bill"></a><span data-ttu-id="f336f-102">Wyświetl Moje faktury</span><span class="sxs-lookup"><span data-stu-id="f336f-102">View my bill</span></span>
+# <a name="view-my-bill"></a><span data-ttu-id="ad1b6-102">Wyświetlanie rachunku</span><span class="sxs-lookup"><span data-stu-id="ad1b6-102">View my bill</span></span>
 
-1. <span data-ttu-id="f336f-103">W Centrum administracyjnego usługi Microsoft 365 przejdź do **fakturowania** \> stronę [rachunki & płatności](https://go.microsoft.com/fwlink/p/?linkid=848039) .</span><span class="sxs-lookup"><span data-stu-id="f336f-103">In the Microsoft 365 admin center, go to the **Billing** \> [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
+1. <span data-ttu-id="ad1b6-103">W centrum administracyjnym usługi Microsoft 365 przejdź do strony **Rachunki rozliczeniowe** \> [& płatności.](https://go.microsoft.com/fwlink/p/?linkid=848039)</span><span class="sxs-lookup"><span data-stu-id="ad1b6-103">In the Microsoft 365 admin center, go to the **Billing** \> [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
 
-2. <span data-ttu-id="f336f-104">Z listy rozwijanej wybierz zakres dat, a następnie wybierz zamówienie, które chcesz wyświetlić.</span><span class="sxs-lookup"><span data-stu-id="f336f-104">Select a date range from the drop-down list, and then choose the order you want to view.</span></span>
+2. <span data-ttu-id="ad1b6-104">Z listy rozwijanej wybierz zakres dat, a następnie wybierz zamówienie, które chcesz wyświetlić.</span><span class="sxs-lookup"><span data-stu-id="ad1b6-104">Select a date range from the drop-down list, and then choose the order you want to view.</span></span>
 
-<span data-ttu-id="f336f-105">Aby uzyskać więcej informacji zobacz [Widok z faktury lub faktury](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span><span class="sxs-lookup"><span data-stu-id="f336f-105">For more information see [View your bill or invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span></span>
+3. <span data-ttu-id="ad1b6-105">Aby wydrukować rachunek, pobierz rachunek jako plik PDF i kliknij przycisk **Drukuj**.</span><span class="sxs-lookup"><span data-stu-id="ad1b6-105">To print the bill, download the bill as a PDF file and click **Print**.</span></span>
+
+<span data-ttu-id="ad1b6-106">Aby uzyskać więcej informacji, zobacz [Wyświetlanie rachunku lub faktury](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span><span class="sxs-lookup"><span data-stu-id="ad1b6-106">For more information see [View your bill or invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span></span>
