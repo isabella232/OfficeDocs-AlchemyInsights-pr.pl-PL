@@ -13,25 +13,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b528a698f57f0ec1cbc08718b83b07bbe050637c
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198858"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943954"
 ---
 # <a name="change-your-billing-address"></a>Zmienianie adresu rozliczeniowego
 
-Rachunek lub faktura zawiera trzy adresy. 
+Rachunek lub faktura zawiera trzy adresy.
 
-**Zmienianie adresu rozliczeniowego**
+**Zmienianie adresu rozliczeniowego metody płatności**
 
-1. W centrum administracyjnym przejdź do strony **Metody płatności > [rozliczenia.](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** 
+1. W centrum administracyjnym przejdź do **pozycji Metody płatności > [płatności](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+2. Wybierz kartę kredytową lub konto bankowe, które chcesz zmienić.
+3. Na stronie **Szczegóły metody płatności** kliknij pozycję **Edytuj**.
+4. Zaktualizuj adres rozliczeniowy, a następnie kliknij przycisk **Zapisz > Gotowe**.
 
-2. Wybierz kartę kredytową lub konto bankowe, które chcesz zmienić. 
+Aby uzyskać więcej informacji na temat zmian adresu i powiadomień, zobacz [Zmienianie adresów rozliczeniowych dla usługi Microsoft 365 dla firm](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
 
-3. Na stronie **Szczegóły metody płatności** kliknij pozycję **Edytuj**. 
+**Zmienianie informacji o koncie rozliczeniowym**
 
-4. Zaktualizuj adres rozliczeniowy, a następnie kliknij przycisk **Zapisz > Gotowe**. 
+1. W centrum administracyjnym przejdź do pozycji **Rozliczenia > [konta rozliczeniowe](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+2. Wybierz **pozycję Edytuj informacje o koncie rozliczeniowym**.
+3. Zaktualizuj informacje o koncie rozliczeniowym, a następnie kliknij przycisk **Zapisz > Gotowe**.
 
-Aby uzyskać więcej informacji na temat zmian adresu i powiadomień, zobacz [Zmienianie adresów rozliczeniowych usługi Office 365 dla firm](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide). 
+**Uwaga:** Nie można zmienić kraju/regionu. Jeśli to pole wymaga zmiany, musisz kupić nową dzierżawę.
