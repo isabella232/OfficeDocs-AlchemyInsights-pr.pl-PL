@@ -13,13 +13,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 9e7505978ef80f3aba44e69dc7b5f7ab9c1780d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799133"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957916"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Wielokrotne próby obciążania instrumentów płatności online
+# <a name="past-due-account"></a>Przeterminowe konto?
 
-Jeśli opłata nie powiedzie się, system będzie nadal próbował rozliczyć saldo w ciągu najbliższych kilku tygodni. W każdej chwili możesz dokonać aktualizacji informacji o płatności, aby upewnić się, że kolejna próba obciążenia zakończy się pomyślnie. Aby uzyskać więcej informacji, zobacz [Dodawanie, aktualizowanie lub usuwanie karty kredytowej lub konta bankowego w usłudze Microsoft 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Płatność może zostać odrzucona z kilku powodów, w tym w przypadku wygaśnięcia karty kredytowej. Możesz użyć funkcji **Rozlicz saldo** w dowolnym momencie, aby zmienić dane karty kredytowej i natychmiast ponownie przesłać płatność.
+
+1. W centrum administracyjnym przejdź do pozycji **Usługi [& produktów >.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+Znajdź subskrypcję z zaległym saldem. W sekcji **Rozliczenia** obok **subskrypcji znajduje się płatność zaległą**w płatnościach , kliknij pozycję **Rozlicz saldo,** aby spłacić całe zaległe saldo.
+2. Jeśli jesteś właścicielem karty kredytowej, możesz zmienić datę ważności, wybrać inną kartę lub [dodać nową kartę](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+3. Jeśli nie jesteś właścicielem karty kredytowej, możesz wybrać inną kartę kredytową lub [dodać nową kartę.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)
+4. Po zakończeniu aktualizacji kliknij przycisk **Zapisz**.
+
+**Uwaga:** Po dokonaniu płatności powiadomienie o przeterminie może być nadal widoczne przez krótki okres czasu. Przed skontaktowaniem się z pomocą techniczną należy odczekać co najmniej **48 godzin.**
