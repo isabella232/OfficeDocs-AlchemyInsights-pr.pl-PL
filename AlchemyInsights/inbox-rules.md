@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724566"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005268"
 ---
-# <a name="inbox-rules"></a>Reguły skrzynki odbiorczej
+# <a name="inbox-rules-in-outlook-desktop"></a>Reguły skrzynki odbiorczej w programie Outlook Desktop
 
-Aby uzyskać więcej informacji na temat używania reguł skrzynki odbiorczej we własnej skrzynce pocztowej, zobacz:
+1. Przejdź do **okna dialogowego > Zarządzanie regułami & alertami,** aby otworzyć okno dialogowe **Reguły i alerty.**
+2. Na karcie **Reguły poczty e-mail** kliknij pozycję **Nowa reguła**.
+3. Wybierz jeden z szablonów z **kroku 1**. Aby rozpocząć od pustej reguły, wybierz **pozycję Zastosuj regułę do wiadomości, które otrzymuję, lub zastosuj regułę do wysyłane przeze mnie wiadomości**.
+4. W **kroku 2: Edytuj opis reguły**, kliknij wszystkie podkreślone opcje, aby je ustawić. Jeśli na przykład w kroku 1 wybrano opcję **Oflaguj wiadomości od osoby do wykonania,** kliknij **pozycję Osoby lub grupa publiczna,** aby wybrać wiadomości nadawców, które chcesz oznaczyć; następnie kliknij **przycisk obserwuj w tej chwili,** aby wybrać flagę i datę obserwacji.
+5. Kliknij przycisk **Dalej**.
 
-- [Zarządzanie wiadomościami e-mail przy użyciu reguł w programie Outlook dla komputerów PC](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Zarządzanie wiadomościami przy użyciu reguł skrzynki odbiorczej w aplikacji Outlook w sieci Web](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-Reguły skrzynki odbiorczej można również zarządzać w programie Exchange Online PowerShell. Aby uzyskać więcej informacji, zobacz [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (widok), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (create), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (delete), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (zmodyfikuj istniejące), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (wyłącz istniejące) i [Włącz InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (włącz istniejące).
+Aby uzyskać dodatkowe informacje na temat pracy z regułami skrzynki odbiorczej, zobacz [Zarządzanie wiadomościami e-mail przy użyciu reguł](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).

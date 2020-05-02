@@ -11,19 +11,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6dd168f390c0a7a55c1b451bdcedfe71f7fb2452
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628324"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005448"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Kanały prywatne w programie Microsoft Teams
+# <a name="private-channels-in-microsoft-teams"></a>Kanały prywatne w usłudze Microsoft Teams
 
-Kanały prywatne to nowa funkcja w programie Microsoft Teams. 
+Kanały prywatne to nowa funkcja w usłudze Microsoft Teams. Należy pamiętać, że kanałów prywatnych nie można konwertować ze standardowych kanałów ani odwrotnie.
 
-Należy pamiętać, że kanały prywatne nie mogą być konwertowane ze standardowych kanałów lub odwrotnie.
+Aby uzyskać szczegółowe informacje o kanałach prywatnych, takich jak informacje o [tworzeniu kanałów prywatnych i członkostwie](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) oraz [witrynach programu SharePoint kanału prywatnego,](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)zobacz [Kanały prywatne w usłudze Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). 
 
-Aby uzyskać szczegółowe informacje na temat kanałów prywatnych, takich jak informacji na temat [tworzenia kanału prywatnego i członkostwa](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) i [prywatnego kanału witryn programu SharePoint](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites), zobacz [kanałów prywatnych w Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). 
+**Uwaga:** Ponieważ konfiguracja przechowywania wiadomości kanału prywatnego nie jest jeszcze obsługiwana, dzierżawcy z włączonymi zasadami przechowywania nie będą domyślnie wstrzymywani kanałów prywatnych. Kanały prywatne można włączyć w centrum administracyjnym zespołów. Należy również pamiętać, że podczas przechowywania wiadomości kanału prywatnego nie jest obsługiwany, przechowywanie plików udostępnionych w kanałach prywatnych jest obsługiwane.
 
-**Uwaga:** Ponieważ konfiguracja przechowywania wiadomości kanału prywatnego nie jest jeszcze obsługiwana, dzierżawcy z włączonymi zasadami przechowywania nie będą domyślnie włączani w kanały prywatne. Kanały prywatne można włączyć w centrum administracyjnym Teams. Należy również zauważyć, że podczas przechowywania wiadomości kanału prywatnego nie jest obsługiwana, obsługiwane są przechowywanie plików udostępnionych w kanałach prywatnych.
+**Potrzebujesz nowego właściciela zespołu?**
+
+Jeśli twój prywatny właściciel kanału odejdzie, możesz dodać nowego właściciela zespołu za pośrednictwem programu Teams Powershell.
+
+
+- Przejdź [tutaj,](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) aby zainstalować program Teams Powershell.
+
+Oto polecenie cmdlet, którego potrzebujesz:
+
+`
+    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
+`
+
+Aby uzyskać więcej informacji na temat programu Teams Powershell, zobacz [Omówienie programu Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).
