@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 0a34f3a449313325adac1907af952dbe0c68f1f4
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912054"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943989"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Subskrypcja Microsoft 365 E3 i zarządzanie licencjami — często zadawane pytania
 
@@ -28,6 +28,6 @@ ms.locfileid: "43912054"
 - Aby **anulować ** licencje usługi E3, przejdź do pozycji **Rozliczenia > [Produkty i usługi](https://go.microsoft.com/fwlink/p/?linkid=842054)**, kliknij pozycję **Ustawienia i akcje**, a następnie kliknij pozycję **Anuluj subskrypcję**. Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
 - Aby **aktywować** subskrypcję usługi E3, zobacz [Aktywowanie subskrypcji](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Aby **ponownie aktywować** subskrypcję usługi E3, zobacz [Ponowne aktywowanie subskrypcji](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Aby przedłużyć okres próbny usługi E3, zobacz [Przedłużanie okresu próbnego](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Aby **przedłużyć** okres próbny usługi E3, zobacz [Przedłużanie okresu próbnego](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
 
 Aby uzyskać więcej informacji, zobacz [Zarządzanie licencjami subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
