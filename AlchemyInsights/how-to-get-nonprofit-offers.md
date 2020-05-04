@@ -10,12 +10,12 @@ ms.assetid: ''
 ms.custom:
 - "1500010"
 - "3819"
-ms.openlocfilehash: 8b82dd8900a5e9824206cd05241743d2337108a1
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: f89ba68219ea3735bdbb455ed97e2abf394f201b
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946729"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947584"
 ---
 # <a name="how-to-get-nonprofit-offers"></a>Jak uzyskać oferty dla organizacji pożytku publicznego
 
@@ -23,9 +23,9 @@ Aby otrzymywać oferty dla organizacji pożytku publicznego, musisz wykonać nas
 
 1. zarejestruj się w [programie Microsoft dla organizacji pożytku publicznego](https://go.microsoft.com/fwlink/p/?linkid=2008962).
 
-2. Jeśli uprawnienia zostaną potwierdzone, usługa Office 365 Nonprofit, w tym nieodpłatne oferty E1 i Business Essentials, będzie dostępna w portalu administratora usługi Office 365.
+2. Jeśli uprawnienia zostały potwierdzone, oferty Microsoft 365 Nonprofit staną się dostępne w portalu administracyjnym platformy Microsoft 365 po przejściu na stronę **Rozliczenia > [Zakup usług](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Dotyczy to również ofert darowanych E1 i Business Essentials.
 
-3. Po zakupie przejdź do karty [Użytkownicy](https://admin.microsoft.com/Adminportal/Home#/users) w portalu administratora, aby przypisać swoich użytkowników do nowych subskrypcji usługi Office 365 Nonprofit.
+3. Po zakupie przejdź do karty [Użytkownicy](https://admin.microsoft.com/Adminportal/Home#/users) w portalu administratora, aby przypisać swoich użytkowników do nowych subskrypcji platformy Microsoft 365 Nonprofit.
 
 Aby poznać inne odpowiedzi na popularne pytania, zapoznaj się z artykułem [Często zadawane pytania](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit#coreui-heading-67lnrlz). Zobacz też:
 
