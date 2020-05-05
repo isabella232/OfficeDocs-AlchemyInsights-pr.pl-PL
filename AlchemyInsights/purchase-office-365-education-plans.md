@@ -1,5 +1,5 @@
 ---
-title: Zakup planów platformy Microsoft 365 Education
+title: Platforma Microsoft 365 dla instytucji edukacyjnych
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 915d625dbf8726787e9bcd45e0cf7b025e90ead9
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789384"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005412"
 ---
-# <a name="purchase-microsoft-365-education-plans"></a>Zakup planów platformy Microsoft 365 Education
+# <a name="microsoft-365-for-education---approved"></a>Platforma Microsoft 365 dla instytucji edukacyjnych
 
 Potwierdzono Twoje uprawnienia do nabycia platformy Microsoft 365 Education.  Aby dokonać zakupu:
 
@@ -28,6 +28,8 @@ Potwierdzono Twoje uprawnienia do nabycia platformy Microsoft 365 Education.  Ab
 2. Wybierz pozycję z listy **Plany dla instytucji edukacyjnych**.
 
 3. Umieść wskaźnik myszy na subskrypcji, którą chcesz kupić, a następnie kliknij pozycję **Kup teraz**.
+
+4. [Konfigurowanie dzierżawy platformy Microsoft 365 Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).
 
 **Włączanie usługi Teams**
 
