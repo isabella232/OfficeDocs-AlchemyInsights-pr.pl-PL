@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500021"
 - "4689"
-ms.openlocfilehash: 19366565b8ecef5e89a2deb9fa1b4ff2476246cf
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: e3bbe36ff57038caa2541fe4456a1363c91995d7
+ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789456"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44016914"
 ---
 # <a name="transfer-licenses-between-tenants"></a>Przenoszenie licencji między dzierżawcami
 
-Nie można przenosić licencji między dwiema organizacjami (dzierżawcami). 
+Nie **można** przenosić licencji między dwiema organizacjami (dzierżawcami). Jeśli jesteś klientem objętym licencjonowaniem zbiorowym, skontaktuj się z [Centrum usług licencjonowania zbiorowego](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center). W przeciwnym razie, wykonaj podane poniżej instrukcje: 
 
 - Jeśli nie planujesz już korzystać z dzierżawy, z której chcesz się przenieść, możesz [anulować subskrypcję](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions) i [kupić nową dzierżawę](https://products.office.com/compare-all-microsoft-office-products-b?rtc=1&activetab=tab:primaryr2) (docelową).
 
