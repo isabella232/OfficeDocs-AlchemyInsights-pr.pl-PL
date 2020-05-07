@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 73c8a56623bb55926d7df995bad43ff734bfceef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708769"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062042"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Aktywowanie subskrypcji licencji zbiorczej firmy Microsoft
 
@@ -32,4 +32,4 @@ ms.locfileid: "43708769"
 
 5. Zaloguj się do centrum administracyjnego usługi[https://admin.microsoft.com](https://admin.microsoft.com)Microsoft 365 ( ) przy użyciu istniejących poświadczeń administratora. Po pomyślnym zalogowaniu otrzymasz kolejną wiadomość e-mail z potwierdzeniem zakupu.
 
-6. Po zalogowaniu się możesz przejść do strony Produkty **&** \> [rozliczeń,](https://go.microsoft.com/fwlink/p/?linkid=842054) aby sprawdzić, czy zakupione subskrypcje są aktywowane w dzierżawie. (Można również wybrać kartę **Subskrypcja** w vlsc, aby wyświetlić szczegóły weryfikacji, czy subskrypcja została zdeponowana).)
+6. Po zalogowaniu się możesz przejść do strony **Rozliczenia** \> [produktów,](https://go.microsoft.com/fwlink/p/?linkid=842054) aby sprawdzić, czy zakupione subskrypcje są aktywowane w dzierżawie. (Można również wybrać kartę **Subskrypcja** w vlsc, aby wyświetlić szczegóły weryfikacji, czy subskrypcja została zdeponowana).)

@@ -13,15 +13,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: b5db40da2928fb4c2775057822a714cf1136158b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 54619d2b5012ec100f8e1b25c49cec6f821375dd
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708257"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086898"
 ---
 # <a name="all-subscriptions-are-active"></a>Wszystkie subskrypcje są aktywne
 
-Twoje subskrypcje są aktywne. Można to zweryfikować, przechodząc do subskrypcji \> [rozliczeniowych](https://go.microsoft.com/fwlink/p/?linkid=842054) strony. **Billing** Subskrypcje są uporządkowane według stanu, z aktywnymi subskrypcjami u góry. Dodatkowe informacje, takie jak liczba licencji i metoda płatności, można zobaczyć, wybierając subskrypcję.
+Twoje subskrypcje są aktywne. Można to zweryfikować, przechodząc na stronę **Rozliczenia** \> [produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054) Subskrypcje są uporządkowane według stanu, z aktywnymi subskrypcjami u góry. Dodatkowe informacje, takie jak liczba licencji i metoda płatności, można zobaczyć, wybierając subskrypcję.
   
-Jeśli masz problemy z usługą, skorzystaj z opcji "Zadzwoń do Ciebie", aby porozmawiać z inżynierem pomocy technicznej.
+Jeśli chcesz usunąć aktywne subskrypcje lub zamknąć konto, zobacz [Jak zamknąć konto.](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide)

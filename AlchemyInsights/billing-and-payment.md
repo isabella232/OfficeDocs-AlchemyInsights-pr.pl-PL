@@ -11,41 +11,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 5741edef38f15bfa546aba3a2868c4621da4934e
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: 19871ba1cb6d12be3c0eab462adcbe0840afeebe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417791"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061789"
 ---
 # <a name="billing-and-payment"></a>Rozliczenia i płatności
 
-Rachunki można znaleźć na karcie **Rachunki rozliczeniowe** > [& płatności.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Domyślnie wyświetlane są ostatnie 3 miesiące faktur.  Aby wyświetlić starsze faktury, dostosuj filtr.  Kliknij łącze **Pobierz fakturę PDF,** aby wyświetlić fakturę.
+Twoje rachunki można znaleźć na karcie **Rachunki rozliczeniowe** > [& płatności.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Domyślnie wyświetlane są ostatnie 3 miesiące faktur.  Aby wyświetlić starsze faktury, dostosuj filtr.  Kliknij **łącze Pobierz plik PDF faktury,** aby wyświetlić fakturę.
 
-**Odbieranie faktur za pośrednictwem poczty e-mail**
+**Otrzymuj faktury za pośrednictwem poczty elektronicznej**
 
-Na stronie[Powiadomienia dotyczące rozliczeń](https://go.microsoft.com/fwlink/p/?linkid=853212) **rozliczeniowych** > możesz **włączyć** tę funkcję i zarządzać nimi, którzy otrzymają fakturę jako załącznik wiadomości e-mail. Faktura zostanie wysłana na adresy e-mail użytkowników na liście adresatów powiadomień. Lista zawiera wszystkich administratorów rozliczeń i administratorów globalnych.  Możesz zarządzać, kto pobiera powiadomienia o fakturze, zmieniając rolę.  Usunięcie roli administratora globalnego lub rozliczeniowego powoduje usunięcie tego użytkownika z listy adresatów, a dodanie roli administratora globalnego lub rozliczeniowego spowoduje dodanie użytkownika do listy adresatów.
+Na stronie[Powiadomienia o rozliczeniach](https://go.microsoft.com/fwlink/p/?linkid=853212) **rozliczeniowych** > możesz włączyć tę **funkcję** i zarządzać użytkownikami, którzy otrzymają fakturę jako załącznik wiadomości e-mail. Faktura zostanie wysłana na adresy e-mail użytkowników na liście Adresatów powiadomień. Lista zawiera wszystkich administratorów rozliczeniowych i globalnych.  Możesz zarządzać, kto pobiera powiadomienia o fakturze, zmieniając rolę.  Usunięcie globalnej lub rozliczającej roli administratora powoduje usunięcie tego użytkownika z listy adresatów, a dodanie globalnej lub rozliczeniowej roli administratora spowoduje dodanie użytkownika do listy adresatów.
 
-**Uwaga:** Otrzymasz dwie oddzielne wiadomości e-mail: jedną, która informuje, że rachunek jest gotowy, z instrukcjami logowania się do centrum administracyjnego, aby go wyświetlić, oraz drugą wiadomość e-mail zawierającą wyciąg rozliczeniowy jako załącznik.
+**Uwaga:** Otrzymasz dwie oddzielne wiadomości e-mail: jedną, która informuje, że rachunek jest gotowy, z instrukcjami logowania się do centrum administracyjnego, aby go wyświetlić, oraz drugą wiadomością e-mail zawierającą wyciąg rozliczeniowy jako załącznik.
 
 **Płatności**
 
-W przypadku płatności kartą kredytową lub kontem bankowym metoda płatności powiązana z subskrypcją jest obciążana w ciągu kilku dni od utworzenia rachunku.  Jeśli płatność nie powiedzie się, zaktualizuj lub zmień metodę płatności. 
+W przypadku płatności kartą kredytową lub kontem bankowym metoda płatności skojarzona z subskrypcjami jest obciążana w ciągu kilku dni po utworzeniu rachunku.  Jeśli płatność nie powiedzie się, zaktualizuj lub zmień metodę płatności. 
 
-Jeśli dodano nową kartę i nadal otrzymujesz powiadomienie o odrzuceniu starej karty kredytowej, może być konieczne skojarzenie tej nowej karty z subskrypcją.
+Jeśli dodano nową kartę i nadal otrzymujesz powiadomienie o odrzuceniu starej karty kredytowej, może być konieczne powiązanie tej nowej karty z subskrypcją.
 
-1. Przejdź do[usługi & produktów](https://go.microsoft.com/fwlink/p/?linkid=842054) **rozliczeniowych** > .
+1. Przejdź do **witryny** > Rozliczenia**[za swoje produkty](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Wybierz subskrypcję, którą chcesz zapłacić nową kartą lub kontem bankowym. W sekcji **Rozliczenia** obok metody płatności kliknij pozycję **Edytowanie**.
+2. Wybierz subskrypcję, za którą chcesz płacić za pomocą nowej karty lub nowego konta bankowego. W sekcji **Rozliczenia** kliknij przycisk **Edytuj** obok formy płatności.
 
-3. Kliknij **pozycję Zmień** obok bieżącej metody płatności.
+3. Kliknij pozycję**Zmień** obok obecnie używanej formy płatności.
 
-4. Z menu rozwijanego wybierz alternatywną metodę płatności lub dodaj nową metodę płatności.
+4. Wybierz inną formę płatności z menu rozwijanego lub dodaj nową formę płatności.
 
 Zobacz [Dodawanie, aktualizowanie lub usuwanie metod płatności](https://go.microsoft.com/fwlink/?linkid=2118133).
 
 **Częstotliwość rozliczeń**
 
-Rachunki są generowane co miesiąc lub co rocznie w zależności od częstotliwości rozliczeń wybranej przy kasie.  
+Rachunki są generowane co miesiąc lub co roku w zależności od częstotliwości fakturowania wybranej przy kasie.  
 
-**Uwaga:** Zamówienia z rozliczeniami rocznymi mogą otrzymać rachunek w średnim okresie, jeśli wprowadzono zmiany, takie jak dodawanie lub usuwanie licencji.  [Zmień częstotliwość rozliczeń](https://go.microsoft.com/fwlink/?linkid=2119148).
+**Uwaga:** Zamówienia z rocznymi rozliczeniami mogą otrzymać rachunek w połowie okresu, jeśli zostały wprowadzone zmiany, takie jak dodawanie lub usuwanie licencji.  [Zmień częstotliwość rozliczeń](https://go.microsoft.com/fwlink/?linkid=2119148).
