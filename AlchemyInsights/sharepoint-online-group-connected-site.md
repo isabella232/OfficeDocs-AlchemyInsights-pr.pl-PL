@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: b54457427ffa563b6a6323d85e1c8800191eca11
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912976"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064403"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problemy podczas tworzenia witryny połączonej z grupą w programie SharePoint
 
@@ -26,7 +26,7 @@ Jeśli grupa i jej połączona witryna zostały usunięte i chcesz utworzyć inn
    - Aby uzyskać więcej informacji na temat rozpoczynania pracy z programem Powershell, zobacz [Wprowadzenie do powłoki zarządzania usługi SharePoint Online](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
    - Usuń witrynę z usuniętych witryn za pomocą polecenia cmdlet [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell. Program Powershell jest wymagany do trwałego usuwania witryn grupowych.
 
-1. Jeśli tworzysz witrynę połączoną z grupą i otrzymujesz ostrzeżenie: **Inna grupa o tym samym aliasie już istnieje,** sprawdź istniejące grupy z Centrum [administracyjnego usługi Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/groups). Aby rozwiązać ten problem, usuń istniejącą grupę, jeśli nie jest już potrzebna, lub utwórz witrynę z przypisanym innym aliasem.
+1. Jeśli tworzysz witrynę połączoną z grupą i otrzymujesz ostrzeżenie: **Inna grupa o tym samym aliasie już istnieje**, sprawdź istniejące grupy z centrum [administracyjnego usługi Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/groups). Aby rozwiązać ten problem, usuń istniejącą grupę, jeśli nie jest już potrzebna, lub utwórz witrynę z przypisanym innym aliasem.
 
 1. Istnieją różne sposoby tworzenia i używania nowoczesnych grup w programie SharePoint.
 

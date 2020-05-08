@@ -12,12 +12,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 210510bf13ef3838d8f005b51222034039876426
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711425"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086684"
 ---
 # <a name="canceling-your-subscription"></a>Anulowanie subskrypcji?
 
@@ -25,9 +25,9 @@ Przykro nam, że idziesz, ale jeśli chcesz anulować subskrypcję, oto twoje op
   
 - Jeśli jesteś klientem testowym, nie ma nic do anulowania. Subskrypcje próbne wygasają automatycznie, chyba że podasz metodę płatności.
 
-- Jeśli masz mniej niż 25 przypisanych licencji, możesz anulować subskrypcję online. Przejdź do strony [Usługi & produktów](https://go.microsoft.com/fwlink/p/?linkid=842054) **rozliczeniowych.** \> W sekcji **Ustawienia & akcje** wybierz pozycję **Anuluj subskrypcję**.
+- Jeśli masz mniej niż 25 przypisanych licencji, możesz anulować subskrypcję online. Przejdź do strony **Rozliczenia** \> **[produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054)** W sekcji **Ustawienia & akcje** wybierz pozycję **Anuluj subskrypcję**.
 
-- Jeśli masz więcej niż 25 przypisanych licencji, możesz usunąć użytkowników, dopóki nie masz mniej niż 25, lub użyć opcji "Zadzwońmy do Ciebie", aby porozmawiać z inżynierem pomocy technicznej.
+- Jeśli masz więcej niż 25 przypisanych licencji, możesz usunąć użytkowników, dopóki nie masz mniej niż 25.
   
 **Zwrot: Wszelkie proporcjonalne środki zostaną zwrócone w następnym cyklu rozliczeniowym.** 
 

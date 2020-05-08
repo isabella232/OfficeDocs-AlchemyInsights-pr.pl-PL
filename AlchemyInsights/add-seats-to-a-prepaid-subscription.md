@@ -13,18 +13,18 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: e2d9c25b12a11e933cf0ff40436c717172621af7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4a91b71d297edd9331d955ece8c11c2d1eb86d29
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671467"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061970"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Dodawanie miejsc do subskrypcji przedpłaconej
 
 Przedpłacone licencje są przekazywane jako 25-znakowe kody alfanumeryczne. Po zakupie potrzebnych licencji możesz dodać je do subskrypcji. 
 
-1. W centrum administracyjnym przejdź do strony Usługi & produktów **rozliczeniowych.** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. W centrum administracyjnym przejdź do strony **Rozliczenia** > **[produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Znajdź subskrypcję, do której chcesz dodać licencje. W sekcji **Licencje** wybierz pozycję **Dodaj więcej licencji**.
 

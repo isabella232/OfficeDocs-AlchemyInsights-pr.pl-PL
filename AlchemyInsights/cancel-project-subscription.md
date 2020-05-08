@@ -12,27 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 0d4b7c7adaee7972b0cf810fc15da391184ad7e3
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: 2389daa13aa08f394feded5c5cd67839e62734ff
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43599255"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061644"
 ---
 # <a name="cancel-project-subscription"></a>Anuluj subskrypcję programu Project
 
-Administratorzy mogą anulować subskrypcję programu Project dla swojej organizacji z **Centrum administracyjnego usługi Microsoft 365**. 
+Administratorzy mogą anulować subskrypcję programu Project dla swojej organizacji z **centrum administracyjnego usługi Microsoft 365**.
 
-1. Wybierz opcję **Rozliczenia.**
+1. Przejdź do strony **Rozliczenia > [Twoich produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054) **
 
-2. Kliknij [pozycję Produkty & usługi,](https://go.microsoft.com/fwlink/p/?linkid=842054) aby wyświetlić wszystkie subskrypcje dla twojej organizacji.
+2. Znajdź plan projektu, aby anulować.
 
-3. Znajdź plan projektu, aby anulować.
+3. Kliknij **pozycję Anuluj subskrypcję**.
 
-4. Kliknij **pozycję Anuluj subskrypcję**.
+**Zwrot: Wszelkie proporcjonalne środki zostaną zwrócone w następnym cyklu rozliczeniowym.**
 
-**Zwrot: Wszelkie proporcjonalne środki zostaną zwrócone w następnym cyklu rozliczeniowym.** 
+**Uwaga:** Jeśli nie widzisz opcji anulowania, kliknij subskrypcję, aby wyświetlić szczegóły, a w **ustawieniach & akcjach**powinna zostać wyświetlona opcja **Anuluj subskrypcję.**
 
-**Uwaga:** Jeśli nie widzisz opcji anulowania, kliknij subskrypcję, aby wyświetlić szczegóły, a w **ustawieniach & akcjach**powinna zostać wyświetlona opcja **Anuluj subskrypcję.** 
-
-Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
+Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

@@ -11,13 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 6a020a9e944b2df85719db3f9fde84897764e36b
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: 2f042b8b28313eb6afc7735f3159f4dc6c7b19f9
+ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045510"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44163791"
 ---
-# <a name="collaborate-on-excel-documents"></a>Współpracę nad dokumentami programu Excel
+# <a name="collaborate-on-excel-documents"></a>Współpraca nad dokumentami programu Excel
 
-Współpracować z kolegami w dokumentach programu Excel, użyj funkcji Współtworzenie. Więcej informacji na temat włączania i [Współpraca na skoroszytów programu Excel w tym samym czasie z Współtworzenie](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)przy użyciu tej funkcji.
+Aby współpracować ze współpracownikami nad dokumentami programu Excel, użyj **funkcji współtworzenia**. 
+
+Dowiedz się więcej o włączaniu i używaniu tej funkcji, a także o wyświetlaniu odpowiedzi na często zadawane pytania dotyczące udostępniania i współtworzenia scenariuszy, [w aplikacji Współpraca nad skoroszytami programu Excel w tym samym czasie ze współtworzeniem](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).

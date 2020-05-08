@@ -6,19 +6,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33cd96e37701339047d5e3bb1e49f60d37facc53
+ms.sourcegitcommit: ba88139a3d02e45d54a232fa24b706e3cc1c6f81
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762327"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44043047"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Microsoft Search w usłudze Bing i Aplikacje Microsoft 365 dla przedsiębiorstw
 
-Począwszy od wersji 2002 usługi Aplikacje Microsoft 365 dla przedsiębiorstw, zostanie zainstalowane rozszerzenie funkcji Microsoft Search w usłudze Bing, co spowoduje, że usługa Bing będzie domyślną wyszukiwarką dla przeglądarki internetowej Google Chrome tylko na urządzeniach w określonych lokalizacjach.
+***Opcjonalna*** funkcja Microsoft Search w rozszerzeniu Bing dla przeglądarki Google Chrome jest dostępna w aplikacjach Microsoft 365 dla przedsiębiorstw (poprzednio określanych mianem Office 365 ProPlus), począwszy od wersji 2005. To rozszerzenie jest dostępne w określonych lokalizacjach w przypadku urządzeń przyłączonych do domeny z systemem Windows. Jeśli zdecydujesz się wdrożyć to rozszerzenie, usługa Bing zostanie ustawiona jako domyślna wyszukiwarka.
 
-**Jeśli nie chcesz instalować tego rozszerzenia, [wykonaj poniższe czynności](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed).**
+Aby zainstalować to rozszerzenie, musisz ***wyrazić na to zgodę***, konfigurując ustawienie w sekcji Microsoft Search Centrum administracyjnego platformy Microsoft 365.
 
-Nawet po zainstalowaniu rozszerzenia użytkownicy mogą z łatwością zakończyć korzystanie z usługi Bing jako domyślnej wyszukiwarki za pomocą prostego przełącznika [Wł/Wył](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome) lub [usunięcia rozszerzenia](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-remove-the-extension-after-its-been-installed) z wielu urządzeń w organizacji.
+Wdrożenie tego ***opcjonalnego rozszerzenia*** bazuje również na usłudze działającej w tle, która jest dostępna w aplikacjach Microsoft 365 dla przedsiębiorstw, począwszy od wersji 2005. Jeżeli usługa działająca w tle nie jest zainstalowana, rozszerzenie również nie zostanie zainstalowane.
 
-Aby ułatwić lepsze zrozumienie tej zmiany, udostępniliśmy szczegółowy artykuł Pomocy, który znajduje się [tutaj](https://docs.microsoft.com/deployoffice/microsoft-search-bing).
+Nawet po zainstalowaniu rozszerzenia użytkownicy mogą łatwo zaprzestać korzystania z usługi Bing jako domyślnej wyszukiwarki, używając prostego przełącznika włączania/wyłączania.
+
+Aby uzyskać więcej informacji na temat wdrażania tego ***opcjonalnego*** rozszerzenia, zobacz [Microsoft Search w usłudze Bing i Aplikacje Microsoft 365 dla przedsiębiorstw](https://docs.microsoft.com/deployoffice/microsoft-search-bing).
