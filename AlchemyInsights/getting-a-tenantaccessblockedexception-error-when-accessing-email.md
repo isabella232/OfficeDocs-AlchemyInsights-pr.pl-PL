@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 32ad81e9b1234d8adff3d2cac9c9e4b619e35688
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708913"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062222"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Pierwsze TenantAccessBlockedException błąd podczas uzyskiwania dostępu do poczty e-mail?
 
 Istnieje kilka różnych powodów, dla których może pojawić się ten błąd. Na przykład:
 
-- Sprawdź, czy subskrypcja **Billing** \> jest prawidłowa na stronie [Produkty & rozliczeń](https://portal.office.com/adminportal/home#/subscriptions) w centrum administracyjnym usługi Microsoft 365.
+- Sprawdź, czy subskrypcja jest prawidłowa na stronie **Rozliczenia** \> **[produktów](https://portal.office.com/adminportal/home#/subscriptions)** w centrum administracyjnym usługi Microsoft 365.
 
-- Sprawdź, czy na stronie **Rachunki rozliczeniowe** \> [& płatności](https://portal.office.com/adminportal/home#/billoverview) w centrum administracyjnym usługi Microsoft 365 nie ma żadnych przeterminowych powiadomień.
+- Sprawdź, czy na stronie **Rachunki rozliczeniowe** \> **[& płatności](https://portal.office.com/adminportal/home#/billoverview)** w centrum administracyjnym usługi Microsoft 365 nie ma żadnych przeterminowych powiadomień.
 
 - Jeśli rozliczenia i subskrypcje konta zostały ostatnio zaktualizowane, może upłynąć trochę czasu, aby rozpropagować zmiany. Spróbuj ponownie za kilka minut, a jeśli problem będzie się powtarzał, skontaktuj się z nami.

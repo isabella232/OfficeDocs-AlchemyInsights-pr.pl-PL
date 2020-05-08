@@ -12,20 +12,20 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: c7d998c56747799e139e8e2035cbccfe71cce14b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66ce0cfed20990a7a6bc6307360a8bc7d91822c8
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709633"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063591"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Jak dodać lub edytować Identyfikator VatID
 
-**Uwaga:** Jeśli jesteś w kraju, w który używa wartości dodanego podatku (VAT), takiego jak Wielka Brytania, fakturowanie Microsoft oblicza podatek VAT dla Ciebie i stosuje kwotę do faktur. Więcej informacji można znaleźć w [oświadczeniu VIES](https://go.microsoft.com/fwlink/?LinkID=841741) opublikowanym przez Komisję Europejską.
+**Uwaga:** Jeśli jesteś w kraju, w który używa wartości dodanego podatku (VAT), takiego jak Wielka Brytania, fakturowanie Microsoft oblicza podatek VAT dla Ciebie i stosuje kwotę do faktur. Więcej informacji można znaleźć w [oświadczeniu VIES](https://go.microsoft.com/fwlink/p/?LinkID=841741) opublikowanym przez Komisję Europejską.
 
 **Dodawanie lub edytowanie identyfikatora VATID**
 
-1. W centrum administracyjnym usługi Microsoft 365 przejdź do strony Usługi & produktów **rozliczeniowych.** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. W centrum administracyjnym usługi Microsoft 365 przejdź do strony **Rozliczenia** \> [produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
 2. Znajdź kartę subskrypcji dla subskrypcji, którą chcesz zaktualizować.
 
