@@ -12,16 +12,16 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a9cb53a5ae33e075c00f5405873dd3137e89d75b
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712181"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061717"
 ---
 # <a name="buy-additional-licenses"></a>Kup dodatkowe licencje
 
-1. W centrum administracyjnym przejdź do strony **Rozliczenia** \> [Produkty i usługi](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. W centrum administracyjnym przejdź do strony **Rozliczenia** \> **[produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Znajdź subskrypcję, do której chcesz dodać licencje, a następnie wybierz pozycję **Dodaj/Usuń licencje**.
 
