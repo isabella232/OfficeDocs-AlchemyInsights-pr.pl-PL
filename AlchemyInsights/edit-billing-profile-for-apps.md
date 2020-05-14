@@ -13,17 +13,17 @@ ms.custom:
 - "9000564"
 - "2423"
 ms.openlocfilehash: 98b8092e6c22039703dfbeafb9a8194b688d0afe
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062546"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Edytowanie profilu rozliczeń dla aplikacji
 
 ## <a name="to-change-the-billing-profile-on-apps"></a>Aby zmienić profil rozliczeń w aplikacjach
 
-1. Przejdź do strony **Rozliczenia** > **[za produkty,](https://go.microsoft.com/fwlink/p/?linkid=842054)** a następnie wybierz kartę **Aplikacje.**
+1. Przejdź do strony **Rozliczenia**  >  **[za produkty,](https://go.microsoft.com/fwlink/p/?linkid=842054)** a następnie wybierz kartę **Aplikacje.**
 
 2. Znajdź i wybierz aplikację, którą chcesz zarządzać.  
 
@@ -31,6 +31,6 @@ ms.locfileid: "44062546"
 
 ## <a name="edit-billing-profiles"></a>Edytowanie profilów rozliczeniowych
 
-1. Przejdź do strony **Rachunki rozliczeniowe** > **[& płatności,](https://go.microsoft.com/fwlink/p/?linkid=848039)** a następnie wybierz pozycję **Profile rozliczeń**.
+1. Przejdź do strony **Rachunki rozliczeniowe**  >  **[& płatności,](https://go.microsoft.com/fwlink/p/?linkid=848039)** a następnie wybierz pozycję **Profile rozliczeń**.
 
 2. Wybierz profil rozliczeniowy z listy do edycji.

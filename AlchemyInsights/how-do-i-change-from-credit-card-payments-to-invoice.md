@@ -13,24 +13,30 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 05ba3bb421cedf94352d5bbb6c5daf1417eca609
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.openlocfilehash: 5d118036398d8d9f9a56e8a96e44d81ceccf6573
+ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44062438"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44225206"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Jak zmienić płatność kartą kredytową na fakturę?
 
 > [!NOTE]
 > Opcja zapłaty za pomocą faktury jest dostępna tylko wtedy, gdy subskrypcja kosztuje ponad określoną kwotę (która różni się w zależności od lokalizacji usługi). W przypadku większych płatności za pomocą faktury może być wymagane sprawdzenie zdolności kredytowej. Aby dowiedzieć się więcej, zobacz [Płacenie za subskrypcję](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
-  
-1. W centrum administracyjnym przejdź do strony **Rozliczenia** \> **[produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-2. Wybierz subskrypcję, którą chcesz zmienić. W sekcji **Rozliczenia** wybierz opcję **Edytuj** dla bieżącej metody płatności.
+1. W centrum administracyjnym przejdź do strony **Rozliczenia**  >  [produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-3. W polu **Zmienianie sposobu płatności za tę subskrypcję** wybierz pozycję **Zmień**, wybierz lub dodaj inną metodę płatności, a następnie wybierz pozycję **Zapisz**.
+2. Znajdź subskrypcję, którą chcesz zmienić. W obszarze **Rozliczenia**obok metody płatności wybierz pozycję **Edytuj**.
 
-   > [!NOTE]
-   > Jeśli ta opcja nie jest wyświetlana, oznacza to, że przejście z karty kredytowej lub konta bankowego na fakturę nie jest dostępne dla subskrypcji, ponieważ subskrypcja nie spełnia minimalnej kwoty kosztu rozliczenia za pomocą faktury. Minimalna kwota wymagana dla rozliczeń przy użyciu faktury jest zależna od lokalizacji geograficznej.
-  
+3. Obok istniejącej metody płatności wybierz pozycję **Zmień**.
+
+4. Z menu rozwijanego wybierz **opcję Faktura lub przelew bankowy**.
+
+5. Wpisz swoje imię i nazwisko, adres i numer telefonu. Można również dodać numer y zakupu do wyświetlenia na fakturze.
+
+6. Po zakończeniu wybierz pozycję **Zapisz**.
+
+7. Sprawdź, czy wybrana metoda płatności jest poprawna, a następnie wybierz pozycję **Zapisz**.
+
+Aby dowiedzieć się więcej, zobacz [Zmienianie metody płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
