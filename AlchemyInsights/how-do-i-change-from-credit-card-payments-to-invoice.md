@@ -13,24 +13,30 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 05ba3bb421cedf94352d5bbb6c5daf1417eca609
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.openlocfilehash: 5d118036398d8d9f9a56e8a96e44d81ceccf6573
+ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44062438"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44225206"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a><span data-ttu-id="4932f-102">Jak zmienić płatność kartą kredytową na fakturę?</span><span class="sxs-lookup"><span data-stu-id="4932f-102">How do I change from credit card payments to invoice?</span></span>
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a><span data-ttu-id="a973e-102">Jak zmienić płatność kartą kredytową na fakturę?</span><span class="sxs-lookup"><span data-stu-id="a973e-102">How do I change from credit card payments to invoice?</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="4932f-103">Opcja zapłaty za pomocą faktury jest dostępna tylko wtedy, gdy subskrypcja kosztuje ponad określoną kwotę (która różni się w zależności od lokalizacji usługi).</span><span class="sxs-lookup"><span data-stu-id="4932f-103">The option to pay by invoice is only available if your subscription costs over a certain amount (which varies by service location).</span></span> <span data-ttu-id="4932f-104">W przypadku większych płatności za pomocą faktury może być wymagane sprawdzenie zdolności kredytowej.</span><span class="sxs-lookup"><span data-stu-id="4932f-104">A credit check might be required for larger invoice payments.</span></span> <span data-ttu-id="4932f-105">Aby dowiedzieć się więcej, zobacz [Płacenie za subskrypcję](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="4932f-105">To learn more, see [Pay for your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).</span></span>
-  
-1. <span data-ttu-id="4932f-106">W centrum administracyjnym przejdź do strony **Rozliczenia** \> **[produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="4932f-106">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+> <span data-ttu-id="a973e-103">Opcja zapłaty za pomocą faktury jest dostępna tylko wtedy, gdy subskrypcja kosztuje ponad określoną kwotę (która różni się w zależności od lokalizacji usługi).</span><span class="sxs-lookup"><span data-stu-id="a973e-103">The option to pay by invoice is only available if your subscription costs over a certain amount (which varies by service location).</span></span> <span data-ttu-id="a973e-104">W przypadku większych płatności za pomocą faktury może być wymagane sprawdzenie zdolności kredytowej.</span><span class="sxs-lookup"><span data-stu-id="a973e-104">A credit check might be required for larger invoice payments.</span></span> <span data-ttu-id="a973e-105">Aby dowiedzieć się więcej, zobacz [Płacenie za subskrypcję](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="a973e-105">To learn more, see [Pay for your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).</span></span>
 
-2. <span data-ttu-id="4932f-107">Wybierz subskrypcję, którą chcesz zmienić.</span><span class="sxs-lookup"><span data-stu-id="4932f-107">Select the subscription that you want to change.</span></span> <span data-ttu-id="4932f-108">W sekcji **Rozliczenia** wybierz opcję **Edytuj** dla bieżącej metody płatności.</span><span class="sxs-lookup"><span data-stu-id="4932f-108">In the **Billing** section, select the **Edit** option for your current payment method.</span></span>
+1. <span data-ttu-id="a973e-106">W centrum administracyjnym przejdź do strony **Rozliczenia**  >  [produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="a973e-106">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-3. <span data-ttu-id="4932f-109">W polu **Zmienianie sposobu płatności za tę subskrypcję** wybierz pozycję **Zmień**, wybierz lub dodaj inną metodę płatności, a następnie wybierz pozycję **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="4932f-109">In the **Change how you pay for this subscription** box, select **Change**, choose or add a different payment method, and then select **Save**.</span></span>
+2. <span data-ttu-id="a973e-107">Znajdź subskrypcję, którą chcesz zmienić.</span><span class="sxs-lookup"><span data-stu-id="a973e-107">Find the subscription that you want to change.</span></span> <span data-ttu-id="a973e-108">W obszarze **Rozliczenia**obok metody płatności wybierz pozycję **Edytuj**.</span><span class="sxs-lookup"><span data-stu-id="a973e-108">Under **Billing**, next to the payment method, select **Edit**.</span></span>
 
-   > [!NOTE]
-   > <span data-ttu-id="4932f-110">Jeśli ta opcja nie jest wyświetlana, oznacza to, że przejście z karty kredytowej lub konta bankowego na fakturę nie jest dostępne dla subskrypcji, ponieważ subskrypcja nie spełnia minimalnej kwoty kosztu rozliczenia za pomocą faktury.</span><span class="sxs-lookup"><span data-stu-id="4932f-110">If this option isn't displayed, it means that switching from credit card or bank account to invoice isn't available for the subscription because the subscription doesn't meet the minimum cost amount for billing by invoice.</span></span> <span data-ttu-id="4932f-111">Minimalna kwota wymagana dla rozliczeń przy użyciu faktury jest zależna od lokalizacji geograficznej.</span><span class="sxs-lookup"><span data-stu-id="4932f-111">The minimum cost amount required to be billed by invoice varies by geographic location.</span></span>
-  
+3. <span data-ttu-id="a973e-109">Obok istniejącej metody płatności wybierz pozycję **Zmień**.</span><span class="sxs-lookup"><span data-stu-id="a973e-109">Next to your existing payment method, select **Change**.</span></span>
+
+4. <span data-ttu-id="a973e-110">Z menu rozwijanego wybierz **opcję Faktura lub przelew bankowy**.</span><span class="sxs-lookup"><span data-stu-id="a973e-110">From the drop-down menu, select **Invoice or wire transfer**.</span></span>
+
+5. <span data-ttu-id="a973e-111">Wpisz swoje imię i nazwisko, adres i numer telefonu.</span><span class="sxs-lookup"><span data-stu-id="a973e-111">Enter your name, address, and phone number.</span></span> <span data-ttu-id="a973e-112">Można również dodać numer y zakupu do wyświetlenia na fakturze.</span><span class="sxs-lookup"><span data-stu-id="a973e-112">You can also add a PO number to display on the invoice.</span></span>
+
+6. <span data-ttu-id="a973e-113">Po zakończeniu wybierz pozycję **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="a973e-113">When you're finished, select **Save**.</span></span>
+
+7. <span data-ttu-id="a973e-114">Sprawdź, czy wybrana metoda płatności jest poprawna, a następnie wybierz pozycję **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="a973e-114">Verify that the selected payment method is correct, then select **Save**.</span></span>
+
+<span data-ttu-id="a973e-115">Aby dowiedzieć się więcej, zobacz [Zmienianie metody płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).</span><span class="sxs-lookup"><span data-stu-id="a973e-115">To learn more, see [Change your payment method](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).</span></span>

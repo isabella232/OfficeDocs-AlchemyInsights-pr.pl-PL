@@ -14,14 +14,14 @@ ms.custom:
 - "3179"
 ms.assetid: ''
 ms.openlocfilehash: 0f754fd4264d7800e4e02a295147cded46aca817
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43692667"
 ---
-# <a name="general-migration-performance-guidance"></a><span data-ttu-id="c5f22-102">Ogólne wskazówki dotyczące wydajności migracji</span><span class="sxs-lookup"><span data-stu-id="c5f22-102">General migration performance guidance</span></span>
+# <a name="general-migration-performance-guidance"></a><span data-ttu-id="f6a5d-102">Ogólne wskazówki dotyczące wydajności migracji</span><span class="sxs-lookup"><span data-stu-id="f6a5d-102">General migration performance guidance</span></span>
 
-<span data-ttu-id="c5f22-103">Na wydajność migracji może mieć wpływ infrastruktura sieciowa, rozmiar pliku, godzina przeprowadzania migracji czy ograniczanie.</span><span class="sxs-lookup"><span data-stu-id="c5f22-103">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span> <span data-ttu-id="c5f22-104">Zrozumienie tego ułatwi Ci zaplanowanie migracji i zapewnienie jej maksymalnej wydajności.</span><span class="sxs-lookup"><span data-stu-id="c5f22-104">Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
+<span data-ttu-id="f6a5d-103">Na wydajność migracji może mieć wpływ infrastruktura sieciowa, rozmiar pliku, godzina przeprowadzania migracji czy ograniczanie.</span><span class="sxs-lookup"><span data-stu-id="f6a5d-103">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span> <span data-ttu-id="f6a5d-104">Zrozumienie tego ułatwi Ci zaplanowanie migracji i zapewnienie jej maksymalnej wydajności.</span><span class="sxs-lookup"><span data-stu-id="f6a5d-104">Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
 
-[<span data-ttu-id="c5f22-105">Ogólne wskazówki dotyczące wydajności migracji</span><span class="sxs-lookup"><span data-stu-id="c5f22-105">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+[<span data-ttu-id="f6a5d-105">Ogólne wskazówki dotyczące wydajności migracji</span><span class="sxs-lookup"><span data-stu-id="f6a5d-105">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
