@@ -10,26 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: b3bcff33fd0fa59b4f660af12cdd2a5c82409d1e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cd281c5f503e5e7f7d4d4012183c173316b7e364
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053955"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235451"
 ---
-# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Wiadomości poświadczeń w programie SharePoint lub OneDrive
+# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Komunikaty poświadczeń w programie SharePoint lub OneDrive
 
-Użytkownicy mogą okresowo monitowani przez Urząd o poświadczenia do programu SharePoint w trybie online lub OneDrive podczas próby otwarcia dokumentów.
+Podczas próby otwarcia dokumentów urząd Office może okresowo monitować użytkowników o poświadczenia do usługi SharePoint Online lub usługi OneDrive.
 
-Poniżej przedstawiono kilka przykładów wiadomości poświadczeń:
+Jeśli występują te objawy, spróbuj wykonać czynności opisane w [tym artykule](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint).
 
-- Zaloguj się przy użyciu konta instytucji
-
-- Wymagane są poświadczenia
-
-- Nie jesteśmy w stanie połączyć się teraz, sprawdź połączenie sieciowe
-
-Jeśli występują te symptomy, spróbuj kroki opisane w [tym artykule](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint).
-
-Alternatywnie Jeśli używasz rejestracji jednokrotnej (SSO) do uwierzytelniania, zapoznaj się z [tym artykułem](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) zamiast tego.
-
+Alternatywnie Jeśli używasz logowania jednokrotnego (Logowanie jednokrotne) do uwierzytelniania, zapoznaj się z [tym artykułem.](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10)

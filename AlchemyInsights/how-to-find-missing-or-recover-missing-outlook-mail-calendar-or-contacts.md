@@ -12,19 +12,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 75f7a7e842d8fafdd4cad3d48289d3cc609caec6
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720706"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235307"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Jak znaleźć i odzyskać brakujące wiadomości, kontakty lub elementy kalendarza w programie Outlook
 
-- Możesz użyć [narzędzia Mam problemy z wysyłaniem, odbieraniem lub znajdowaniem wiadomości e-mail](https://aka.ms/SaRA-OutlookSendReceive) na komputerze, którego dotyczy problem. To narzędzie sprawdzi szereg problemów i zaproponuje możliwe rozwiązania.
+1. W programie Outlook przejdź do listy folderów poczty e-mail, a następnie wybierz pozycję **Elementy usunięte**. **Ważne:** Jeśli nie widzisz folderu **Elementy usunięte,** ale zamiast tego widzisz folder **Kosz,** twoje konto nie obsługuje odzyskiwania elementu, który nie znajduje się już w folderze **Elementy usunięte.**
 
-- [Ustal, czy doszło do naruszenia konta](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). W przypadku naruszenia zabezpieczeń wykonaj czynności opisane w obszarze [Odpowiadanie na przejęte konto e-mail.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+2. W menu **Narzędzia główne** kliknij polecenie **Odzyskaj usunięte elementy z serwera**. **Ważne:** Jeśli w menu nie ma polecenia **Odzyskaj elementy usunięte z serwera,** twoje konto nie obsługuje odzyskiwania elementu, który nie znajduje się już w folderze **Elementy usunięte.**
 
-- [Znajdowanie wiadomości lub elementu za pomocą wyszukiwania błyskawicznego](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+3. Zaznacz elementy, które chcesz odzyskać, kliknij przycisk **Przywróć zaznaczone elementy**, a następnie kliknij przycisk **OK**.
 
-- [Odzyskiwanie usuniętych elementów w programie Outlook dla systemu Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+**Gdzie znajdują się odzyskane przedmioty?** Po odzyskaniu elementów z folderu Elementy do odzyskania są one przenoszone do folderu **Elementy usunięte.** Po odzyskaniu elementu można go znaleźć w folderze **Elementy usunięte,** a następnie przenieść go do innego folderu.
+
+Można również użyć [narzędzia Mam problemy z wysyłaniem, odbieraniem lub znajdowaniem wiadomości e-mail](https://aka.ms/SaRA-OutlookSendReceive) na **komputerze, którego dotyczy problem.** To narzędzie sprawdzi szereg problemów i zaproponuje możliwe rozwiązania.
