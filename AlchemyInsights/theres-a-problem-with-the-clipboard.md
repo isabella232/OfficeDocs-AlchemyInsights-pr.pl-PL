@@ -1,5 +1,5 @@
 ---
-title: Istnieje problem ze Schowkiem
+title: Wystąpił problem ze schowkiem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: d82f7922bc0fe68e76af23949ecaafff771ac221
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: dc086f0c43cf307215d8d97a87fdf21d61611d36
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045504"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263887"
 ---
-# <a name="disable-excel-live-preview"></a>Wyłącz podgląd na żywo w programie Excel
+# <a name="resolving-excel-clipboard-error"></a>Rozwiązywanie problemu schowka programu Excel
 
-Jeżeli komunikat o błędzie w programie Excel, który mówi: "istnieje problem ze Schowka, ale nadal można wkleić zawartości w tym skoroszycie", należy spróbować wyłączyć funkcję podglądu na żywo wykonując następujące kroki:
+Jeśli w programie Excel pojawia się komunikat "Wystąpił problem ze schowkiem, ale nadal możesz wkleić zawartość do tego skoroszytu", spróbuj wyłączyć funkcję Podgląd na żywo, wykonując następujące czynności:
 
-1. W programie Excel, kliknij przycisk **plik** > **Opcje**.
-3. W oknie dialogowym **Opcje programu Excel** wybierz **Ogólne**.
-4. W obszarze **Opcje interfejsu użytkownika**wyczyść **Włącz podgląd na żywo**.
+1. W programie Excel kliknij pozycję Opcje **plików**  >  **Options**.
+3. W oknie dialogowym **Opcje programu Excel** wybierz pozycję **Ogólne**.
+4. W obszarze **Opcje interfejsu użytkownika**wyczyść pozycję Włącz podgląd na **żywo**.
 5. Kliknij przycisk **OK**.
 6. Uruchom ponownie program Excel.

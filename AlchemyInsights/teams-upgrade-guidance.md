@@ -11,16 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
+ms.sourcegitcommit: a61f9b7721701b20efade33a3293089761932905
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908799"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44254759"
 ---
 # <a name="microsoft-teams-upgrade"></a>Uaktualnienie usługi Microsoft Teams
 
-**Ważne:** Możemy pomóc rozwiązać ten problem za pomocą diagnostyki pomocy technicznej, ale wygląda na to, że nie korzystasz z Nowego Centrum administracyjnego. Aby użyć Nowego Centrum administracyjnego, przesuń przełącznik w prawym górnym rogu z **napisem nowe centrum administracyjne** w prawo. Korzystając z nowego Centrum administracyjnego, kliknij widżet **Potrzebujesz pomocy,** wpisz "Uaktualnienie zespołów", a następnie postępuj zgodnie z instrukcjami, aby uruchomić diagnostykę.
+**Ważne:** Jeśli zostałeś uaktualniony z usługi Skype dla firm Online do usługi Microsoft Teams w trybie tylko w usłudze Teams, ale okaże się, że nie jesteś jeszcze gotowy, możemy pomóc ci rozwiązać ten problem za pomocą diagnostyki pomocy technicznej. Upewnij się, że używasz nowego Centrum administracyjnego, przesuwając przełącznik w prawym górnym rogu z **napisem nowe Centrum administracyjne**po prawej stronie. Korzystając z nowego Centrum administracyjnego, kliknij widżet **Potrzebujesz pomocy?** wpisz **"Uaktualnienie zespołów",** a następnie postępuj zgodnie z instrukcjami, aby uruchomić diagnostykę.
 
 Niezależnie od tego, czy dopiero zaczynasz pracę z usługą Teams, korzystasz już z usługi Teams obok programu Skype dla firm, czy jesteś gotowy do uaktualnienia, chcemy mieć pewność, że masz wszystko, czego potrzebujesz, aby przejść udaną podróż do zespołów. Aby uzyskać więcej informacji, odwiedź poniższe linki.
 
