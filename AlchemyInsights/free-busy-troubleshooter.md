@@ -12,14 +12,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6a580de2c963a53654499f1715dad7f3bb36c706
+ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765062"
+ms.lasthandoff: 05/20/2020
+ms.locfileid: "44331337"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Problemy z wyświetlaniem informacji o kalendarzu wolny/zajęty
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Kroki rozwiązywania problemów z dostępnością kalendarza (bezpłatne/zajęte)
 
-Jeśli w innych kalendarzach nie widzisz informacji o kalendarzu wolny/zajęty lub jeśli inne osoby nie widzą informacji wolnych/zajętych w kalendarzu, skorzystaj z [Asystenta pomocy technicznej i odzyskiwania firmy Microsoft](https://diagnostics.office.com/).
-  
+Ogólnie najlepszym narzędziem do rozwiązywania problemów wolny/zajęty jest [Exchange Remote Connectivity Analyzer (RCA),](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) aby zobaczyć, gdzie się nie powiódł. RCA daje szczegółowy zapis tego, co pracował, a co nie z konkretnych komunikatów o błędach można wyszukać rozwiązania. Posiada również link do [Asystenta pomocy technicznej i odzyskiwania firmy Microsoft.](https://diagnostics.office.com/)
+
+Innym dobrym narzędziem do wypróbowania jest narzędzie do [sprawdzania kalendarza dla programu Outlook,](https://www.microsoft.com/download/details.aspx?id=28786) jeśli użytkownik ma program Outlook.
