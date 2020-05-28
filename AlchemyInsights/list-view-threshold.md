@@ -11,19 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: 1acd2be290464fdefebfbd8b66f005f08247f6db
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
-ms.translationtype: HT
+ms.openlocfilehash: ee47bdd712f719c7167bb554bb4a9f535f2a8586
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953981"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343037"
 ---
-# <a name="list-view-threshold"></a><span data-ttu-id="96db1-102">Próg widoku listy</span><span class="sxs-lookup"><span data-stu-id="96db1-102">List view threshold</span></span>
+# <a name="list-view-threshold"></a><span data-ttu-id="a67a4-102">Próg widoku listy</span><span class="sxs-lookup"><span data-stu-id="a67a4-102">List view threshold</span></span>
 
-<span data-ttu-id="96db1-103">Listy i biblioteki programu SharePoint mogą zawierać maksymalnie 30 milionów elementów, ale gdy zawierają więcej niż 5000 elementów, podczas pracy z nimi może zostać wyświetlony błąd progu widoku listy.</span><span class="sxs-lookup"><span data-stu-id="96db1-103">SharePoint lists and libraries can contain up to 30 million items, but when they have more than 5,000 items, you might see a list view threshold error when you try to work with them.</span></span> <span data-ttu-id="96db1-104">Zadaniem tego progu jest utrzymanie wydajności usługi.</span><span class="sxs-lookup"><span data-stu-id="96db1-104">This threshold is in place to maintain performance of the service.</span></span> <span data-ttu-id="96db1-105">Nie można go zmienić.</span><span class="sxs-lookup"><span data-stu-id="96db1-105">It can't be changed.</span></span> <span data-ttu-id="96db1-106">Ten błąd może również występować podczas próby udostępnienia lub przerwania dziedziczenia folderu.</span><span class="sxs-lookup"><span data-stu-id="96db1-106">You might also receive this error when trying to share or break the inheritance of a folder.</span></span>
+<span data-ttu-id="a67a4-103">Próg widoku listy jest w miejscu, aby utrzymać wydajność usługi.</span><span class="sxs-lookup"><span data-stu-id="a67a4-103">The list view threshold is in place to maintain performance of the service.</span></span> <span data-ttu-id="a67a4-104">Progu nie można zmienić w usłudze SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="a67a4-104">The threshold can't be changed in SharePoint Online.</span></span> <span data-ttu-id="a67a4-105">Aby uniknąć osiągnięcia tego progu, zobacz [Zarządzanie dużymi listami i bibliotekami w programie SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).</span><span class="sxs-lookup"><span data-stu-id="a67a4-105">To avoid hitting this threshold, see [Manage large lists and libraries in SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).</span></span>
 
-<span data-ttu-id="96db1-107">Aby uniknąć przekroczenia tego progu, zobacz:</span><span class="sxs-lookup"><span data-stu-id="96db1-107">To avoid hitting this threshold visit:</span></span>
-
-- [<span data-ttu-id="96db1-108">Zarządzanie dużymi listami i bibliotekami w programie SharePoint</span><span class="sxs-lookup"><span data-stu-id="96db1-108">Manage large lists and libraries in SharePoint</span></span>](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-
-- [<span data-ttu-id="96db1-109">Błąd udostępniania/przerywania dziedziczenia</span><span class="sxs-lookup"><span data-stu-id="96db1-109">Error Share/Break Inheritance</span></span>](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance)
+<span data-ttu-id="a67a4-106">Ten błąd może również występować podczas próby udostępnienia lub przerwania dziedziczenia folderu.</span><span class="sxs-lookup"><span data-stu-id="a67a4-106">You might also receive this error when trying to share or break the inheritance of a folder.</span></span> <span data-ttu-id="a67a4-107">Zobacz [Błąd dziedziczenie udostępniania/przerywania](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).</span><span class="sxs-lookup"><span data-stu-id="a67a4-107">See [Error Share/Break Inheritance](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).</span></span>
