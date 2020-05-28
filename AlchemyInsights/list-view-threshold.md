@@ -11,19 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: 1acd2be290464fdefebfbd8b66f005f08247f6db
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
-ms.translationtype: HT
+ms.openlocfilehash: ee47bdd712f719c7167bb554bb4a9f535f2a8586
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953981"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343037"
 ---
 # <a name="list-view-threshold"></a>Próg widoku listy
 
-Listy i biblioteki programu SharePoint mogą zawierać maksymalnie 30 milionów elementów, ale gdy zawierają więcej niż 5000 elementów, podczas pracy z nimi może zostać wyświetlony błąd progu widoku listy. Zadaniem tego progu jest utrzymanie wydajności usługi. Nie można go zmienić. Ten błąd może również występować podczas próby udostępnienia lub przerwania dziedziczenia folderu.
+Próg widoku listy jest w miejscu, aby utrzymać wydajność usługi. Progu nie można zmienić w usłudze SharePoint Online. Aby uniknąć osiągnięcia tego progu, zobacz [Zarządzanie dużymi listami i bibliotekami w programie SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).
 
-Aby uniknąć przekroczenia tego progu, zobacz:
-
-- [Zarządzanie dużymi listami i bibliotekami w programie SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-
-- [Błąd udostępniania/przerywania dziedziczenia](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance)
+Ten błąd może również występować podczas próby udostępnienia lub przerwania dziedziczenia folderu. Zobacz [Błąd dziedziczenie udostępniania/przerywania](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).

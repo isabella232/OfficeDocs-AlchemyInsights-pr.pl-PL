@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
-ms.translationtype: HT
+ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021649"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354098"
 ---
 # <a name="teams-admin-center"></a>Centrum administracyjne aplikacji Teams
 
@@ -30,4 +30,6 @@ Jeśli nie możesz uzyskać dostępu do Centrum administracyjnego aplikacji Team
 Jeżeli w Centrum administracyjnym aplikacji Teams nie widać użytkowników, sprawdź następujące kwestie:
 
 - Czy w ciągu ostatnich 24 godzin utworzono użytkowników lub przypisano licencje? Odczekaj co najmniej 24 godziny, zanim zgłosisz się do pomocy technicznej o wsparcie.
-- Sprawdź, czy przypisano odpowiednie licencje. 
+- Sprawdź, czy przypisano odpowiednie licencje.
+- Jeśli masz lokalną usługę Active Directory, sprawdź, czy [wartość adresu msRTCSIP-PrimaryUserAddress lub adresu SIP w polu ProxyAddresses w lokalnej usłudze Active Directory jest unikatowa, a format pasuje](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) do sip: Nazwa**użytkownika** z [centrum administracyjnego usługi Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Jeśli zamierzasz zachować wdrożenie programu Skype dla firm Server i użytkownicy są lokalni i online: wykonaj **"Konfigurowanie hybrydowej z usługą Teams i Skype dla firm Online"** w Panelu sterowania serwera programu Skype dla firm i przenieś użytkowników w trybie online.

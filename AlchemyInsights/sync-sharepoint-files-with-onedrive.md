@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: be1136f7fd4575d482d38ee70163e5252d4ffbca
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767043"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343155"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Rozwiązywanie problemów w usłudze SharePoint Online za pomocą polecenia „Otwórz w Eksploratorze”
 
@@ -28,9 +28,6 @@ W celu rozwiązania problemów z funkcją „Otwórz w Eksploratorze” wykonaj 
 - [Kopiowanie i przenoszenie plików biblioteki za pomocą polecenia Otwórz w Eksploratorze](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > **Uwaga:**
+>- Polecenie Otwórz w Eksploratorze jest obsługiwane tylko w programie Internet Explorer 10 lub 11. Polecenie Otwórz w Eksploratorze nie działa w systemie Windows przy użyciu przeglądarki Microsoft Edge, Google Chrome i Mozilla Firefox lub na platformie Mac. Z tego powodu opcja Widoku Eksploratora może być wyszarzona.
 >
 >- Przycisk Otwórz w Eksploratorze nie jest wyświetlany w nowym środowisku biblioteki. Wybierz listę rozwijaną **Widok** w prawym górnym rogu (nazwa listy rozwijanej zmienia się w zależności od bieżącego widoku), a następnie wybierz pozycję **Wyświetl w Eksploratorze plików**.
->
->- Polecenie Otwórz w Eksploratorze jest obsługiwane tylko w programie Internet Explorer 10 lub 11. Polecenie Otwórz w Eksploratorze nie działa w systemie Windows przy użyciu przeglądarki Microsoft Edge, Google Chrome i Mozilla Firefox lub na platformie Mac. Z tego powodu opcja Widoku Eksploratora może być wyszarzona.
-
-
