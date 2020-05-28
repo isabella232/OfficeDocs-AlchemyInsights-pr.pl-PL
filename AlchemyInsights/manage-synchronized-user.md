@@ -1,5 +1,5 @@
 ---
-title: Zarządzanie synchronizowanych użytkowników
+title: Zarządzanie zsynchronizowanym użytkownikiem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: a943c59d67c512e6326856dacd0053db121f6aa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 84e337a7224fdd3c3ab7ad0f61240692fe007d5a
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542009"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407360"
 ---
-# <a name="unable-to-set-primary-email-address-or-change-user-attributes"></a>Nie można ustawić podstawowy adres e-mail lub zmienić atrybuty użytkownika
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Nie można ustawić podstawowego adresu e-mail, zmienić atrybutów użytkownika lub usunąć/usunąć zsynchronizowanego użytkownika
 
-Po włączeniu synchronizacji katalogów w danym środowisku niektórych atrybutów obiektu użytkownika lub nie można zmienić za pomocą Centrum administracyjnego usługi Microsoft 365.
+Jeśli synchronizacja katalogów jest włączona w twoim środowisku, nie można zmienić niektórych atrybutów użytkownika lub obiektu za pomocą centrum administracyjnego usługi Microsoft 365.
 
-Aby w pełni zarządzać zsynchronizowanych użytkowników i ich atrybutów, użyj lokalną usługę active directory użytkownicy i grupy konsoli zarządzania (adsiedit.msc).  
+Aby w pełni zarządzać zsynchronizowanymi użytkownikami i wszystkimi ich atrybutami, użyj lokalnej konsoli zarządzania usługi Active Directory (adsiedit.msc).  
 
-Można również zmienić poszczególnym użytkownikom lub atrybutów dla użytkowników zsynchronizowanych przy użyciu programu powershell, takich jak pokazano w tych przykładach wspólne: 
-- Cmdlettogether - UserPrincipalName user@yourdomain.onmicrosoft.com - AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com
-- Cmdlettogether - UserPrincipalName "user@yourdomain.onmicrosoft.com" - DisplayName "Użytkownika testowego" - LastName "Użytkownik"-tytuł "Menedżer"-dział "HR"
-- Usuń MsolUser - UserPrincipalName "user@yourdomain.onmicrosoft.com
+Alternatywnie można zmienić poszczególnych użytkowników lub atrybuty dla zsynchronizowanych użytkowników przy użyciu programu PowerShell, takie jak pokazano w poniższych typowych przykładach: 
+- `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
+
+- `Set-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com" -DisplayName "Test User" -LastName "User" -Title "Manager" -Department "HR"`
+
+- `Remove-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com`

@@ -11,22 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: 32e49b8afc6ba63463faac3f258c96266db04941
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 99a48d68c7ef6bcd21ef2a063f28532617bc2d5f
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712540"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407288"
 ---
-# <a name="associate-a-hub-site"></a>Kojarzenie witryny centrum
+# <a name="associate-existing-site-with-a-hub-site"></a>Kojarzenie istniejącej lokacji z lokacją centrum
 
 Aby skojarzyć istniejącą witrynę z witryną centrum, wykonaj następujące czynności:
   
 1. W witrynie wybierz **pozycję Ustawienia** (ikona koła zębatego w prawym górnym rogu), a następnie wybierz pozycję Informacje **o witrynie**.
 
-2. W panelu **Informacje o witrynie Edytowanie** witryny w menu **Skojarzenia witryny Centrum** wybierz witrynę centrum, którą chcesz skojarzyć, a następnie wybierz pozycję **Zapisz**. Wygląd witryny zmieni się w zależności od wyglądu witryny centrum, a pasek nawigacyjny witryny centrum pojawi się u góry.
+2. W panelu **Edytowanie informacji o witrynie** w menu **Skojarzenia witryny Centrum** wybierz witrynę centrum, którą chcesz skojarzyć z witryną, a następnie kliknij przycisk **Zapisz**. Wygląd witryny zmieni się w zależności od wyglądu witryny centrum, a pasek nawigacyjny witryny centrum pojawi się u góry.
 
- > [!Note]
+>**Uwaga**
+>
 >Jeśli opcja skojarzenia lokacji centrum nie jest obecna lub nie ma tam żadnych witryn, witryny centrum mogą nie być włączone lub użytkownik może nie mieć uprawnień do kojarzenia witryn z lokacją centrum. Aby uzyskać więcej informacji, skontaktuj się z administratorem.
 >
 >Nie ma ograniczeń co do liczby lokacji, które mogą być skojarzone z lokacją centrum.
