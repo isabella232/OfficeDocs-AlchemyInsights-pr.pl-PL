@@ -13,12 +13,12 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c3968ef0ac4926fae3e8a0f988c464471f740a94
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062294"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417614"
 ---
 # <a name="declined-credit-card"></a>Odrzucona karta kredytowa
 
@@ -28,4 +28,4 @@ Aby dowiedzieć się więcej, zobacz "Co zrobić, jeśli moja karta kredytowa wy
   
 Jeśli nadal widzisz komunikat "Odrzucone", skontaktuj się ze swoim bankiem. Możliwe, że karta kredytowa nie jest aktywna — na przykład jeśli niedawno otrzymałasz kartę kredytową w wiadomości e-mail ze zaktualizowaną datą ważności, może być konieczna jej aktywacja. Bank może również sprawdzić, czy Twoja karta kredytowa nie jest zatwierdzona do transakcji online, międzynarodowych lub cyklicznych.
   
-Aby uzyskać dodatkowe informacje, zobacz [Rozwiązywanie problemów z kartami kredytowymi i kontami bankowymi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Aby uzyskać dodatkowe informacje, zobacz [Zarządzanie metodami płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

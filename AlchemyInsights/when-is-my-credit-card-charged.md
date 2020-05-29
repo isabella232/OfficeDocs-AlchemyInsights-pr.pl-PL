@@ -13,12 +13,12 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 44751ea0b8036875750e5e22ef300623c2590f97
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765279"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418082"
 ---
 # <a name="when-is-my-credit-card-charged"></a>Kiedy jest obciążana moja karta kredytowa?
 
@@ -26,4 +26,4 @@ Przy pierwszym zakupie może upłynąć do dwóch dni, aby opłata wystąpiła.
   
 Opłaty cykliczne nalicza się w ciągu jednego dnia od utworzenia faktury.
   
-Jeśli opłata nie powiedzie się, system będzie nadal próbował rozliczyć saldo w ciągu najbliższych kilku tygodni. W każdej chwili możesz dokonać aktualizacji informacji o płatności, aby upewnić się, że kolejna próba obciążenia zakończy się pomyślnie. Aby uzyskać więcej informacji, zobacz [Dodawanie, aktualizowanie lub usuwanie karty kredytowej lub konta bankowego w usłudze Microsoft 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Jeśli opłata nie powiedzie się, system będzie nadal próbował rozliczyć saldo w ciągu najbliższych kilku tygodni. W każdej chwili możesz dokonać aktualizacji informacji o płatności, aby upewnić się, że kolejna próba obciążenia zakończy się pomyślnie. Aby uzyskać więcej informacji, zobacz [Zarządzanie metodami płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

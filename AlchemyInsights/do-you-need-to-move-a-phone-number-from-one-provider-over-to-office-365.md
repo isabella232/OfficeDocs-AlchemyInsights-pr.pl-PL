@@ -10,14 +10,19 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: feedd3e1433f9c8232a6ab9577473e4dbed03b31
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e6ad5908b56f76fa41cf9fbdfad0f50c1a6f552
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714924"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417398"
 ---
-# <a name="move-a-phone-number-from-another-provider-to-microsoft"></a>Przenoszenie numeru telefonu z innego dostawcy do firmy Microsoft
+# <a name="port-existing-numbers-to-teams"></a>Przenoszenie istniejących numerów do usługi Teams
 
-Czy musisz przenieść numer telefonu od innego dostawcy do firmy Microsoft? Numery telefonów dla różnych krajów i regionów można znaleźć w [zakładce Zarządzanie numerami telefonów w organizacji](https://docs.microsoft.com/SkypeForBusiness/what-are-calling-plans-in-office-365/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). Wybierz swój kraj lub region, aby znaleźć informacje o transferowaniu numerów. 
-  
+Jeśli obecnie masz już usługodawcę lub operatora sieci telefonicznej oraz numery telefonów dla użytkowników lub usług, musisz utworzyć „zlecenie przeniesienia”, aby przenieść te numery telefonów do usługi Microsoft Teams.
+
+- Aby dowiedzieć się, jak przenieść numery, zobacz [Przenoszenie numerów telefonów do usługi Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams). 
+
+- Aby uzyskać wytyczne z zakresu zarządzania numerami telefonów, zobacz [Zarządzanie numerami telefonów dla organizacji](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). 
+
+Aby uzyskać więcej informacji, zobacz [Zlecenie przeniesienia numeru – omówienie](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).  
