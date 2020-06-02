@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010264"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507596"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Wdrażanie aplikacji usługi Microsoft 365 dla przedsiębiorstw do użytku współużytkującego na serwerze rds, serwerze terminali lub vdi
 
@@ -38,9 +38,9 @@ Aby naprawić błędy związane z aktywacją udostępnionego komputera:
 
 Jeśli chcesz zainstalować usługę Microsoft 365 Apps dla przedsiębiorstw na usługach rds z centrum administracyjnego usługi Microsoft 365, ***które używa domyślnych ustawień instalacji,*** należy wykonać następujące czynności:
 
-1.    Sprawdź, jaką masz subskrypcję. [Dowiedz się, jak to zrobić](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
-2.    W razie potrzeby przełącz się na inną subskrypcję. [Dowiedz się, jak to zrobić](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
-3.    Jeśli pakiet Office jest już zainstalowany na serwerze usług pulpitu zdalnego przy użyciu innych subskrypcji firmy Microsoft, odinstaluj go. Na przykład, przechodząc do **Panelu sterowania** > **Odinstaluj program**. Odinstaluj za pomocą [Pomocy technicznej firmy Microsoft i Asystenta odzyskiwania,](https://aka.ms/SARA-OfficeUninstall-Alchemy) jeśli występują problemy.
+1.    Sprawdź, jaką masz subskrypcję. [Dowiedz się, jak to zrobić](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
+2.    W razie potrzeby przełącz się na inną subskrypcję. [Dowiedz się, jak to zrobić](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+3.    Jeśli pakiet Office jest już zainstalowany na serwerze usług pulpitu zdalnego przy użyciu innych subskrypcji firmy Microsoft, odinstaluj go. Na przykład, przechodząc do **Panelu sterowania**  >  **Odinstaluj program**. Odinstaluj za pomocą [Pomocy technicznej firmy Microsoft i Asystenta odzyskiwania,](https://aka.ms/SARA-OfficeUninstall-Alchemy) jeśli występują problemy.
 4.    Na serwerze usług pulpitu zdalnego zaloguj się do centrum administracyjnego usługi Microsoft 365 za pomocą konta administratora i [zainstaluj aplikację Microsoft 365 Apps dla przedsiębiorstw](https://portal.office.com/OLS/MySoftware.aspx).
 5.    Po zainstalowaniu pakietu Office ***nie otwieraj ani nie loguj*** się do żadnych aplikacji pakietu Office.
 6.    Na serwerze usług pulpitu zdalnego włącz aktywację komputera udostępnionego, edytując rejestr, wykonując następujące czynności:

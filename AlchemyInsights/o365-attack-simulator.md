@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3dae4768ca62757ce7f92dfc527078c963d72742
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713476"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506748"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Symulator ataku w usłudze Microsoft 365
 
 - Brakuje Ci Symulatora Ataku? Symulator ataku wymaga **planu zaawansowanej ochrony przed zagrożeniami usługi Office 365 2 (plan ATP 2)** lub **usługi Office 365 Enterprise E5.** Symulator ataku **nie** jest uwzględniony w planie zaawansowanej ochrony przed zagrożeniami usługi Office 365 1 (plan ATP 1), usłudze Office 365 Enterprise E3 ani w żadnych subskrypcjach aplikacji microsoft 365 dla firm.
 
-- Konto używane do przeprowadzania symulowanych ataków wymaga uprawnień administratora globalnego lub administratora zabezpieczeń oraz uwierzytelniania wieloskładnikowego(MFA). Aby uzyskać więcej informacji na temat wymagań symulatora ataku, zobacz [ten temat](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
+- Konto używane do przeprowadzania symulowanych ataków wymaga uprawnień administratora globalnego lub administratora zabezpieczeń oraz uwierzytelniania wieloskładnikowego(MFA). Aby uzyskać więcej informacji na temat wymagań symulatora ataku, zobacz [ten temat](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
 - Ważne informacje o symulacjach ataku **Brute Force Password:**
 

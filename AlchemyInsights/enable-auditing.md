@@ -12,24 +12,24 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d6f1f96220a44247d217f6e82e76fb38875578e8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908426"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507000"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Włączanie i wyszukiwanie dziennika inspekcji
 
 **Microsoft 365**
 
-Aby przeszukać dziennik inspekcji usługi Microsoft 365, wykonaj [następujące kroki](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Aby przeszukać dziennik inspekcji usługi Microsoft 365, wykonaj [następujące kroki](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
 **Exchange**
 
 - Działania administratora programu Exchange są domyślnie poddane inspekcji.
 
-- Inspekcja skrzynek pocztowych jest domyślnie włączona w usłudze Microsoft 365. Aby uzyskać więcej informacji, zobacz [ten artykuł](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Inspekcja skrzynek pocztowych jest domyślnie włączona w usłudze Microsoft 365. Aby uzyskać więcej informacji, zobacz [ten artykuł](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing).
 
 - Skrzynki pocztowe grupy usługi Microsoft 365 i skrzynki pocztowe folderów publicznych w usłudze Exchange Online nie obsługują rejestrowania inspekcji.
 
@@ -44,6 +44,6 @@ Aby przeszukać dziennik inspekcji usługi Microsoft 365, wykonaj [następujące
     - Działania związane z administracją witryną
     - Działania związane z synchronizacją plików
 
-- Aby uzyskać informacje na temat działań poddanych inspekcji w innych usługach, zobacz [tabelę w tym artykule](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Aby uzyskać informacje na temat działań poddanych inspekcji w innych usługach, zobacz [tabelę w tym artykule](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
-- Poniżej znajduje się lista często zadawanych pytań [często zadawanych pytań](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) dotyczących przeszukiwania dziennika inspekcji.
+- Poniżej znajduje się lista często zadawanych pytań [często zadawanych pytań](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) dotyczących przeszukiwania dziennika inspekcji.

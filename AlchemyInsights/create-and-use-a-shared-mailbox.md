@@ -1,5 +1,5 @@
 ---
-title: Tworzenie udostępnionej skrzynki pocztowej i korzystanie z niej
+title: Tworzenie udostępnionej skrzynki pocztowej i używanie jej
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: ca48d2b4b3d19c5907ebf5a4525c670fe3608e2c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d38a8c19ab5329f4a4a8d09ad248db07fcce5d42
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049815"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507668"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>Tworzenie udostępnionej skrzynki pocztowej i korzystanie z niej
+# <a name="create-and-use-a-shared-mailbox"></a>Tworzenie udostępnionej skrzynki pocztowej i używanie jej
 
-Udostępniona skrzynka pocztowa pozwala więcej niż jednej osobie wysyłać i odbierać wiadomości e-mail dla aliasu, na przykład sales@contoso.com, bez przypisywania innej licencji.
+Udostępniona skrzynka pocztowa umożliwia więcej niż jednej osobie wysyłanie i odbieranie wiadomości e-mail dla aliasu, takiego jak sales@contoso.com, bez przypisywania innej licencji.
   
-- Aby rozpocząć, [wykonaj następujące kroki](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) w centrum administracyjnym Microsoft 365. 
+- [Aby](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) rozpocząć, wykonaj następujące kroki w centrum administracyjnym usługi Microsoft 365. 
 
-Możesz również przeczytać artykuł [Tworzenie udostępnionej skrzynki pocztowej](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) , który poinformuje Cię o wszystkim, co musisz wiedzieć o udostępnionych skrzynkach pocztowych, w tym o tym, jak z nich korzystać.
+Możesz również przeczytać artykuł [Utwórz udostępnioną skrzynkę pocztową,](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) który powie Ci wszystko, co musisz wiedzieć o udostępnionych skrzynkach pocztowych, w tym sposób ich używania.
   

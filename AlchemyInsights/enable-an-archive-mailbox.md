@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788676"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507036"
 ---
 # <a name="enable-an-archive-mailbox"></a>Włączanie archiwalnej skrzynki pocztowej
 
@@ -27,7 +27,7 @@ Aby utworzyć archiwalnej skrzynki pocztowej:
 
 2. Zaloguj się do usługi Microsoft 365 przy użyciu konta administratora.
 
-3. W lewym okienku Centrum &amp; zgodności zabezpieczeń wybierz pozycję **Archiwum** **nadzoru informacji** \> .
+3. W lewym okienku Centrum zgodności zabezpieczeń &amp; wybierz pozycję Archiwum nadzoru **informacji** \> **Archive**.
 
 4. Wybierz użytkownika, którego archiwalnej skrzynki pocztowej chcesz włączyć.
 
@@ -43,7 +43,7 @@ Aby włączyć archiwum udostępnionej skrzynki pocztowej:
 
 1. Przejdź do [centrum administracyjnego programu Exchange](https://outlook.office365.com/ecp) i zaloguj się przy użyciu konta administratora.
 
-2. Przejdź do **adresatów** > **udostępnionych**.
+2. Przejdź do **adresatów**  >  **udostępnionych**.
 
 3. Wybierz udostępnioną skrzynkę pocztową.
 
@@ -51,6 +51,6 @@ Aby włączyć archiwum udostępnionej skrzynki pocztowej:
 
 Aby uzyskać więcej informacji, zobacz:
   
-- [Włączanie archiwalnych skrzynek pocztowych](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Włączanie archiwalnych skrzynek pocztowych](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Konfigurowanie zasad archiwizacji i usuwania](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
