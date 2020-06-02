@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eee6e4a4494e259050f40173d66c2747b68a1608
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064095"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509106"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Jak ponownie aktywować rozliczenia cykliczne i zarządzać nimi
 
@@ -32,7 +32,7 @@ Wygląda na to, że masz subskrypcję, która wygasła. Jeśli chcesz go ponowni
 
 3. Potwierdź dane dotyczące płatności. Tutaj możesz zaktualizować swoje istniejące informacje o płatności. Po zakończeniu wprowadzania metody płatności wybierz pozycję **Aktywuj ponownie**.
 
-Aby dowiedzieć się więcej, zobacz [Ponowne aktywowanie subskrypcji](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Aby dowiedzieć się więcej, zobacz [Ponowne aktywowanie subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription). 
 
 Aby zarządzać rozliczeniami miesięcznymi lub rocznymi, możesz włączyć lub wyłączyć **rozliczenia cykliczne.**
   
@@ -46,4 +46,4 @@ Aby zarządzać rozliczeniami miesięcznymi lub rocznymi, możesz włączyć lub
 
 5. Wybierz **pozycję Prześlij zmianę**.
 
-Aby uzyskać więcej informacji, zobacz [Włączanie i wyłączanie rozliczania cyklicznego](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Aby uzyskać więcej informacji, zobacz [Włączanie i wyłączanie rozliczania cyklicznego](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

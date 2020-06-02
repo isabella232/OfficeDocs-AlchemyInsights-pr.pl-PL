@@ -13,18 +13,18 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 63cdc58d6c0474c66295cc5c4547dd04b0f50ad7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5ee6de184726a5aab29004a901f0aa13c1657392
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706535"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508062"
 ---
 # <a name="change-the-alternate-email-address-for-billing-notification"></a>Zmienianie alternatywnego adresu e-mail powiadomienia o rozliczeniach
 
 Zmiana alternatywnego adresu e-mail dla powiadomień rozliczeniowych jest łatwa. Wystarczy wykonać następujące kroki:
   
-1. W centrum administracyjnym usługi Microsoft 365 przejdź do strony Powiadomienia o **rozliczeniach** \> [Billing Notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) rozliczeń.  
+1. W centrum administracyjnym usługi Microsoft 365 przejdź do strony **Billing** \> [Powiadomienia o rozliczeniach](https://go.microsoft.com/fwlink/p/?linkid=853212) rozliczeń.  
 
 2. Wybierz nazwę z listy.
 
@@ -32,5 +32,5 @@ Zmiana alternatywnego adresu e-mail dla powiadomień rozliczeniowych jest łatwa
 
 4. Wybierz **Zapisz** i gotowe!
 
-Aby uzyskać więcej informacji i kroków zrzutów ekranu, zobacz [Zmienianie adresów rozliczeniowych](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).
+Aby uzyskać więcej informacji i kroków zrzutów ekranu, zobacz [Zmienianie adresów rozliczeniowych](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
   

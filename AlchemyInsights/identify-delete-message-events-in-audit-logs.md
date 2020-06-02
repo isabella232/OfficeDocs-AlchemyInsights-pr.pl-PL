@@ -12,12 +12,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 641c0216491186aeb423a13854c6b39ee005e5df
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716506"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508998"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Dzienniki inspekcji usuniętych wiadomości e-mail
 
@@ -33,6 +33,6 @@ Począwszy od stycznia 2019 r., firma Microsoft domyślnie włącza rejestrowani
 
 W wynikach wybierz rekord inspekcji. W wysu wysu wysu wysunął szczegóły kliknij pozycję **Więcej informacji**. Dodatkowe informacje o usuniętym elemencie (na przykład wiersz tematu i lokalizacja elementu, gdy został usunięty) są wyświetlane w polu **AffectedItems.** **Właściwość ClientInfoString** zostanie wyświetlena, jeśli usunięcie nastąpiło w programie Outlook, w programie Outlook w sieci Web (wcześniej znanej jako outlook web app) lub na jakimkolwiek innym urządzeniu.
 
-Aby uzyskać więcej informacji, zobacz [Określanie, kto skonfigurował przekazywanie poczty e-mail dla skrzynki pocztowej](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
+Aby uzyskać więcej informacji, zobacz [Określanie, kto skonfigurował przekazywanie poczty e-mail dla skrzynki pocztowej](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
 
 **Uwaga:** Nie można pobrać usuniętych elementów przy użyciu funkcji dziennika inspekcji. Aby pobrać usunięte wiadomości w aplikacji Outlook w sieci Web, zobacz [Odzyskiwanie usuniętych elementów w aplikacji Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

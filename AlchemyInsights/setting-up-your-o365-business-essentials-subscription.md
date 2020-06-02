@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767799"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509358"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Konfigurowanie subskrypcji usługi O365 Business Essentials
 
@@ -23,11 +23,11 @@ Tworzenie kont usługi Microsoft 365 i dodawanie domeny
     
 - Przejdź do [centrum administracyjnego usługi Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- Aby uruchomić kreatora, wybierz pozycję **Przejdź do konfiguracji**. Aby dowiedzieć się więcej, zobacz [Dodawanie domeny do usługi Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+- Aby uruchomić kreatora, wybierz pozycję **Przejdź do konfiguracji**. Aby dowiedzieć się więcej, zobacz [Dodawanie domeny do usługi Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
 Importowanie wiadomości e-mail
   
-- Przenieś istniejącą pocztę e-mail i kontakty z innych systemów poczty e-mail do skrzynki pocztowej usługi Microsoft 365, aby wyświetlić ją w jednym miejscu. Aby uzyskać opcje migracji, [migracja poczty e-mail i kontaktów do usługi Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
+- Przenieś istniejącą pocztę e-mail i kontakty z innych systemów poczty e-mail do skrzynki pocztowej usługi Microsoft 365, aby wyświetlić ją w jednym miejscu. Aby uzyskać opcje migracji, [migracja poczty e-mail i kontaktów do usługi Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
 - Łączenie kont e-mail
     
@@ -41,6 +41,6 @@ Przechowywanie plików w trybie online
   
 - Aby dowiedzieć się, które lokalizacje pamięci masowej są najlepsze dla Twojej firmy, zobacz [Gdzie można przechowywać pliki w usłudze Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Podczas tworzenia kont usługi Microsoft 365 każdy automatycznie otrzymuje lokalizację magazynu w chmurze **usługi OneDrive.** Usługa OneDrive umożliwia dostęp do plików na komputerach, telefonach i tabletach. 
     
-Szczegółowe kroki dotyczące konfiguracji można znaleźć w [tym artykule](https://docs.microsoft.com/office365/admin/setup/setup).
+Szczegółowe kroki dotyczące konfiguracji można znaleźć w [tym artykule](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
   
 

@@ -12,12 +12,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
-ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
+ms.openlocfilehash: bf86d0f3f01221211b7759a0f874ef9c6758a276
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44086684"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508170"
 ---
 # <a name="canceling-your-subscription"></a>Anulowanie subskrypcji?
 
@@ -33,4 +33,4 @@ Przykro nam, że idziesz, ale jeśli chcesz anulować subskrypcję, oto twoje op
 
 **Uwaga:** Jeśli nie widzisz opcji anulowania, kliknij subskrypcję, aby wyświetlić szczegóły, a w **ustawieniach & akcjach**powinna zostać wyświetlona opcja **Anuluj subskrypcję.** 
 
-Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
