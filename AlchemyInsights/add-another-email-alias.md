@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 09edadb004fefd1bda92a5242886aa0414f87752
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2ed387ad8506cfa33f63690d8034ff3df855a07d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708529"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44503013"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Tworzenie lub dodawanie aliasu e-mail dla użytkownika
 
@@ -34,6 +34,6 @@ Chcesz utworzyć alias e-mail dla użytkownika lub dodać dodatkowy adres e-mail
     
     Zwykle trwa około 30 minut, zanim nowy alias wejdzie w życie.
     
-    **Aby uzyskać więcej informacji, zobacz ten artykuł:** [Dodawanie innego aliasu e-mail dla użytkownika](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
+    **Aby uzyskać więcej informacji, zobacz ten artykuł:** [Dodawanie innego aliasu e-mail dla użytkownika](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
     
 

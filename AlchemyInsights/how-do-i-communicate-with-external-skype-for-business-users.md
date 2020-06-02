@@ -12,24 +12,24 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 3bdd3fc028e0cd3cd6ec5692e11c303dcd7ace6b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265098"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496285"
 ---
-# <a name="allow-external-communications-with-skype-for-business"></a>Zezwalaj na komunikację zewnętrzną z programem Skype dla firm 
+# <a name="allow-external-communications-with-skype-for-business"></a>Zezwalaj na komunikację zewnętrzną za pomocą programu Skype dla firm 
 
-Czy chcesz zezwolić użytkownikom programu Skype dla firm na kontaktowanie się z użytkownikami spoza organizacji? Zobacz [Zezwalanie użytkownikom na kontaktowanie się z zewnętrznymi użytkownikami programu Skype dla firm](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
+Czy chcesz zezwolić użytkownikom programu Skype dla firm na kontaktowanie się z użytkownikami spoza organizacji? Zobacz [Zezwalaj użytkownikom na kontaktowanie się z zewnętrznymi użytkownikami programu Skype dla firm](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-Rekordy DNS MUSZĄ być poprawnie skonfigurowane, aby komunikacja zewnętrzna działała poprawnie. Sprawdź [tutaj,](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) czy mamy szczegółowe instrukcje dotyczące ustawiania rekordów DNS u dostawcy. 
+Rekordy DNS MUSZĄ być poprawnie skonfigurowane, aby komunikacja zewnętrzna działała prawidłowo. Sprawdź [tutaj,](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) czy mamy szczegółowe instrukcje dotyczące ustawiania rekordów DNS u dostawcy. 
 
-Czy chcesz tylko umożliwić użytkownikom programu Skype dla firm kontaktowanie się z użytkownikami korzystającymi ze Skype'a? Zobacz:
+Czy chcesz tylko włączyć użytkownikom programu Skype dla firm kontaktowanie się z konsumentami Skype'a? Zobacz:
 
-- [Pozwól użytkownikom Programu Skype dla firm dodawać kontakty Skype.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 
+- [Pozwól użytkownikom programu Skype dla firm dodawać kontakty programu Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
 
 - [Dodawanie kontaktu w programie Skype dla firm](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
 
 
-Jeśli chcesz, aby użytkownicy zespołów mogli kontaktować się z użytkownikami spoza organizacji (w tym z użytkownikami programu Skype dla firm), przejrzyj [pozycję Zarządzaj dostępem zewnętrznym w programie Microsoft Teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people). 
+Jeśli chcesz, aby użytkownicy usługi Teams mogli kontaktować się z użytkownikami spoza organizacji (w tym z użytkownikami programu Skype dla firm), zapoznaj się [z przeglądem Zarządzanie dostępem zewnętrznym w usłudze Microsoft Teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people). 

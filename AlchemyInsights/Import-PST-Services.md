@@ -13,12 +13,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 054203a196fc9ea7157a3eb2c99efc6f98a191aa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687772"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502545"
 ---
 # <a name="microsoft-365-import-service"></a>Usługa importowania usługi Microsoft 365
 
@@ -32,8 +32,8 @@ Aby uzyskać dostęp do usługi Importuj i rozpocząć proces importowania:
 
 3. Na stronie **Importowanie** kliknij pozycję **Nowe zadanie importu**.
 
-4. Aby wykonać kroki opisane w kreatorze, postępuj zgodnie [z instrukcjami krok po kroku](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+4. Aby wykonać kroki opisane w kreatorze, postępuj zgodnie [z instrukcjami krok po kroku](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
 
-**Ważne:** Aby uzyskać dostęp do strony **Importuj** w Centrum zgodności & zabezpieczeń, przypisano [odpowiednie uprawnienia](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
+**Ważne:** Aby uzyskać dostęp do strony **Importuj** w Centrum zgodności & zabezpieczeń, przypisano [odpowiednie uprawnienia](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
 
 Jeśli chcesz tylko zaimportować pst do skrzynki pocztowej, zobacz [ten artykuł](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).

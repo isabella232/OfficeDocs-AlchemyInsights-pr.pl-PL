@@ -13,18 +13,18 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 6051af464630a9a23d47d8ae8e7b1c4729cc06e0
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957880"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495997"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>Przypisywanie lub nieprzypisywać licencji użytkownikom
 
 Użytkownik potrzebuje licencji, aby mieć dostęp do usług. Poniżej przedstawiono kroki, aby **dodać, zmienić lub usunąć** licencję od użytkownika.
   
-1. W centrum administracyjnym przejdź do **pozycji Użytkownicy aktywni** \> [użytkownicy](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. W centrum administracyjnym przejdź do **pozycji Użytkownicy** \> [aktywni użytkownicy](https://go.microsoft.com/fwlink/p/?linkid=834822).
 
 2. Wybierz nazwę użytkownika, dla którego chcesz przypisać, zmienić lub usunąć licencję.
 
@@ -34,4 +34,4 @@ Użytkownik potrzebuje licencji, aby mieć dostęp do usług. Poniżej przedstaw
 
 4. U dołu okienka kliknij pozycję **Zapisz zmiany**.
 
-Aby uzyskać więcej informacji, zobacz [Przypisywanie licencji użytkownikom](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)i [Usuwanie licencji od użytkowników](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Aby uzyskać więcej informacji, zobacz [Przypisywanie licencji użytkownikom](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)i [Usuwanie licencji od użytkowników](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user).
