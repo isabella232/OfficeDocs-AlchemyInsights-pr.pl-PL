@@ -1,9 +1,9 @@
 ---
-title: 2419-do enable inspekcji
+title: 2419-niemożna włączyć inspekcji
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,41 +11,41 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2419
 ms.assetid: ''
-ms.openlocfilehash: 3af01c03711eed646f0009afb5bea685bc358196
-ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
+ms.openlocfilehash: 23ad07a6dd943d61d1bd45453089a771cfd51b58
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35065681"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510438"
 ---
-# <a name="unable-to-enable-unified-auditing"></a><span data-ttu-id="b122a-102">Nie można włączyć inspekcji jednolity</span><span class="sxs-lookup"><span data-stu-id="b122a-102">Unable to enable unified auditing</span></span>
+# <a name="unable-to-enable-unified-auditing"></a><span data-ttu-id="c7709-102">Nie można włączyć ujednoliconej inspekcji</span><span class="sxs-lookup"><span data-stu-id="c7709-102">Unable to enable unified auditing</span></span>
 
-<span data-ttu-id="b122a-103">Podczas próby włączenia inspekcji ujednoliconej organizacji usługi Office 365, może wystąpić błąd podobny następujących czynności:</span><span class="sxs-lookup"><span data-stu-id="b122a-103">When you try to enable unified auditing for your Office 365 organization, you may receive an error similar the following:</span></span>
+<span data-ttu-id="c7709-103">Podczas próby włączenia ujednoliconej inspekcji w organizacji może pojawić się błąd podobny do następujących czynności:</span><span class="sxs-lookup"><span data-stu-id="c7709-103">When you try to enable unified auditing for your organization, you may receive an error similar the following:</span></span>
 
 ```
 Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 500 Exception message: {"Message":"The command you tried to run isn't currently allowed in your organization. To run this command, you first need to run the command: Enable-OrganizationCustomization."
 ```
 
-<span data-ttu-id="b122a-104">Aby rozwiązać ten problem, wykonaj następujące kroki:</span><span class="sxs-lookup"><span data-stu-id="b122a-104">To resolve this issue, follow these steps:</span></span>
+<span data-ttu-id="c7709-104">Aby rozwiązać ten problem, wykonaj następujące kroki:</span><span class="sxs-lookup"><span data-stu-id="c7709-104">To resolve this issue, follow these steps:</span></span>
 
-1. <span data-ttu-id="b122a-105">[Podłącz do wymiany Online programu Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).</span><span class="sxs-lookup"><span data-stu-id="b122a-105">[Connect to Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).</span></span>
+1. <span data-ttu-id="c7709-105">[Połącz się z programem Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).</span><span class="sxs-lookup"><span data-stu-id="c7709-105">[Connect to Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).</span></span>
 
-2. <span data-ttu-id="b122a-106">Uruchom następujące polecenia:</span><span class="sxs-lookup"><span data-stu-id="b122a-106">Run the following cmdlet:</span></span>
+2. <span data-ttu-id="c7709-106">Uruchom następujące polecenie cmdlet:</span><span class="sxs-lookup"><span data-stu-id="c7709-106">Run the following cmdlet:</span></span>
 
    ```
    Enable-OrganizationCustomization
    ```
 
-3. <span data-ttu-id="b122a-107">Poczekaj, aż 60 minut dla poprzedniego ustawienia zostały wprowadzone.</span><span class="sxs-lookup"><span data-stu-id="b122a-107">Wait for 60 minutes for the previous setting to take effect.</span></span>
+3. <span data-ttu-id="c7709-107">Poczekaj 60 minut, aż poprzednie ustawienie wejdzie w życie.</span><span class="sxs-lookup"><span data-stu-id="c7709-107">Wait for 60 minutes for the previous setting to take effect.</span></span>
 
-4. <span data-ttu-id="b122a-108">Uruchom następujące polecenie w programie PowerShell Online programu Exchange:</span><span class="sxs-lookup"><span data-stu-id="b122a-108">Run the following command in Exchange Online PowerShell:</span></span>
+4. <span data-ttu-id="c7709-108">Uruchom następujące polecenie w programie Exchange Online PowerShell:</span><span class="sxs-lookup"><span data-stu-id="c7709-108">Run the following command in Exchange Online PowerShell:</span></span>
 
    ```
    Set-AdminAuditLogConfig -UnifiedAuditLogIngestionEnabled $true
    ```
 
-<span data-ttu-id="b122a-109">Aby uzyskać dodatkowe informacje zobacz następujące artykuły:</span><span class="sxs-lookup"><span data-stu-id="b122a-109">For additional information, see the following articles:</span></span>
+<span data-ttu-id="c7709-109">Aby uzyskać dodatkowe informacje, zobacz następujące artykuły:</span><span class="sxs-lookup"><span data-stu-id="c7709-109">For additional information, see the following articles:</span></span>
 
-- [<span data-ttu-id="b122a-110">Połączyć się wieloczynnikowe uwierzytelnianie za pomocą środowiska PowerShell Online programu Exchange</span><span class="sxs-lookup"><span data-stu-id="b122a-110">Connect to Exchange Online PowerShell using multi-factor authentication</span></span>](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
+- [<span data-ttu-id="c7709-110">Łączenie się z programem Exchange Online PowerShell przy użyciu uwierzytelniania wieloskładnikowego</span><span class="sxs-lookup"><span data-stu-id="c7709-110">Connect to Exchange Online PowerShell using multi-factor authentication</span></span>](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
 
--  [<span data-ttu-id="b122a-111">Włączanie lub wyłączanie wyszukiwania dziennika inspekcji usługi Office 365</span><span class="sxs-lookup"><span data-stu-id="b122a-111">Turn Office 365 audit log search on or off</span></span>](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off)
+-  [<span data-ttu-id="c7709-111">Włączanie lub wyłączanie wyszukiwania w dzienniku inspekcji</span><span class="sxs-lookup"><span data-stu-id="c7709-111">Turn audit log search on or off</span></span>](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)
