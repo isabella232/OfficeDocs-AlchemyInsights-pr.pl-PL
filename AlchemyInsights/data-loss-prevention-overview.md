@@ -7,24 +7,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: ce9353f81caba1717d92c913b26800ca67890dd8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b6073cd4043efcebd6e447dee9ba85f31e541ec8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053091"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505769"
 ---
 # <a name="data-loss-prevention-dlp-overview"></a>Omówienie zapobiegania utracie danych (DLP)
 
-Za pomocą zasad DLP można:
+Dzięki zasadom DLP możesz:
 
-- Identyfikowanie poufnych informacji w wielu lokalizacjach, takich jak Exchange Online, SharePoint Online i OneDrive dla firm.
+- Identyfikowanie poufnych informacji w wielu lokalizacjach, takich jak Exchange Online, SharePoint Online i OneDrive dla Firm.
 
 
-Na przykład można zidentyfikować dowolny dokument zawierający numer karty kredytowej, który jest przechowywany w dowolnym OneDrive dla witryny biznesowej lub można monitorować tylko witryn OneDrive określonych osób.
+Można na przykład zidentyfikować dowolny dokument zawierający numer karty kredytowej przechowywany w dowolnej witrynie usługi OneDrive dla Firm lub monitorować tylko witryny usługi OneDrive określonych osób.
 
 - Zapobiegaj przypadkowemu udostępnianiu poufnych informacji.
 
 
-Aby uzyskać więcej informacji, zapoznaj się z następującym [artykułem](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
+Aby uzyskać więcej informacji, zapoznaj się z poniższym [artykułem](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies).
 

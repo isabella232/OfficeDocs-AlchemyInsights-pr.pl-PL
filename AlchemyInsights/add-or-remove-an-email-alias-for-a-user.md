@@ -11,16 +11,16 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9"
 - "1"
-ms.openlocfilehash: ef86d3c875dbc43910bfc4ce132e746a5395d800
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3a75ee42d93b1661f8d7fea0c7a1e87a4465b58b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682122"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505461"
 ---
 # <a name="add-or-remove-an-email-address-for-a-user"></a>Dodawanie lub usuwanie adresu e-mail użytkownika
 
 [Aby](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) rozpocząć, wykonaj następujące kroki w centrum administracyjnym usługi Microsoft 365.
 
- **Uwaga:** Użytkownik może mieć więcej niż jeden adres e-mail, ale dodatkowe *aliasy e-mail* mogą być używane tylko do odbierania wiadomości e-mail. Jeśli chcesz wysłać wiadomość e-mail z aliasem, utwórz [udostępnioną skrzynkę pocztową](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox). W ten sposób otrzymasz alias do wysyłania i odbierania poczty.
+ **Uwaga:** Użytkownik może mieć więcej niż jeden adres e-mail, ale dodatkowe *aliasy e-mail* mogą być używane tylko do odbierania wiadomości e-mail. Jeśli chcesz wysłać wiadomość e-mail z aliasem, utwórz [udostępnioną skrzynkę pocztową](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox). W ten sposób otrzymasz alias do wysyłania i odbierania poczty.
   
