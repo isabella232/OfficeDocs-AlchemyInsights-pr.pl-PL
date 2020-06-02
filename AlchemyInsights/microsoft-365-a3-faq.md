@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002871"
 - "5417"
-ms.openlocfilehash: e21af75058b1c6f75507ac1899ecc9e4b5bfd407
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: MT
+ms.openlocfilehash: 30dca17df71b2237a1ed1546a4cc2f9cbd3b5f20
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "44283289"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510366"
 ---
 # <a name="microsoft-365-a3-faq"></a>Często zadawane pytania dotyczące usługi Microsoft 365 A3
 
@@ -25,7 +25,7 @@ ms.locfileid: "44283289"
 - Aby **przełączyć plany**, zobacz [Ręczne przełączanie planów platformy Microsoft 365 dla firm](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Aby **przypisać** użytkownikom licencje A3, przejdź do **billing > [Licenses](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Aby uzyskać więcej informacji, zobacz [Przypisywanie licencji](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Aby **dodać/usunąć** licencje A3, przejdź do **witryny Rozliczenia > [produkty & usługami](https://go.microsoft.com/fwlink/p/?linkid=842054) ** i kliknij pozycję **Dodaj/Usuń licencje**. Aby uzyskać więcej informacji, zobacz [Dodawanie/usuwanie licencji](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
-- Aby **anulować** licencje A3, przejdź do pozycji **> Produkty & [usługi](https://go.microsoft.com/fwlink/p/?linkid=842054)**, kliknij **pozycję Ustawienia & akcje**i kliknij pozycję **Anuluj subskrypcję**. Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Aby **anulować** licencje A3, przejdź do pozycji **> Produkty & [usługi](https://go.microsoft.com/fwlink/p/?linkid=842054)**, kliknij **pozycję Ustawienia & akcje**i kliknij pozycję **Anuluj subskrypcję**. Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Aby **aktywować** subskrypcję A3, zobacz [Aktywowanie subskrypcji](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Aby **ponownie aktywować** subskrypcję A3, zobacz [Ponowne aktywowanie subskrypcji](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
 - Aby przedłużyć wersję próbną A3, zobacz [Rozszerzanie okresu próbnego](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).

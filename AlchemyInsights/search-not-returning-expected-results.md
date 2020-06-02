@@ -13,12 +13,12 @@ ms.custom:
 - "1491"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d0707af19b0299f7257a10a20ab38f47860308fb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 57421d459ef03049d6f931db659a5f9b253f5002
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709237"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510582"
 ---
 # <a name="content-search-not-returning-expected-results"></a>Wyszukiwanie zawartości nie zwraca oczekiwanych wyników
 
@@ -26,6 +26,6 @@ Podczas uruchamiania wyszukiwania zawartości z Centrum zgodności & zabezpiecze
 
 - **Lokalizacje zawartości i warunki wyszukiwania:** upewnij się, że wybrano odpowiednie lokalizacje zawartości i warunki wyszukiwania. Jeśli uruchomiono duże wyszukiwanie (z wieloma lokalizacjami), rozważ podzielenie go na wiele wyszukiwań.
 
-- **Elementy częściowo indeksowane**: [Elementy częściowo indeksowane](https://docs.microsoft.com/office365/securitycompliance/partially-indexed-items-in-content-search) ze skrzynek pocztowych są uwzględniane w szacowanych wynikach wyszukiwania. Jednak elementy częściowo indeksowane z witryn w programie SharePoint i OneDrive nie są uwzględniane w szacowaniu wyszukiwania.
+- **Elementy częściowo indeksowane**: [Elementy częściowo indeksowane](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search) ze skrzynek pocztowych są uwzględniane w szacowanych wynikach wyszukiwania. Jednak elementy częściowo indeksowane z witryn w programie SharePoint i OneDrive nie są uwzględniane w szacowaniu wyszukiwania.
 
-- **Błędy wyszukiwania:** Podczas przeszukiwania dużej liczby skrzynek pocztowych (ponad 100 000 skrzynek pocztowych) mogą pojawić się błędy wyszukiwania, z kodami błędów, takimi jak CS008-009 i CS012-002). W takim przypadku ponów próbę wyszukiwania tylko dla lokalizacji zawartości, które nie powiodło się. Zobacz [ten artykuł,](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) aby uzyskać więcej informacji.
+- **Błędy wyszukiwania:** Podczas przeszukiwania dużej liczby skrzynek pocztowych (ponad 100 000 skrzynek pocztowych) mogą pojawić się błędy wyszukiwania, z kodami błędów, takimi jak CS008-009 i CS012-002). W takim przypadku ponów próbę wyszukiwania tylko dla lokalizacji zawartości, które nie powiodło się. Zobacz [ten artykuł,](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) aby uzyskać więcej informacji.

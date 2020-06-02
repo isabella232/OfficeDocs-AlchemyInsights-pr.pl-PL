@@ -12,12 +12,12 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4f0cba480fcc05114abd8f370b84e9a37e5f2804
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720262"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510762"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Folder Elementy do odzyskania jest pełny
 
@@ -33,12 +33,12 @@ Gdy folder Elementy możliwe do odzyskania osiągnie limit magazynowania, dział
 
 - W przypadku skrzynek pocztowych z włączonym rejestrowaniem inspekcji skrzynek pocztowych w podfolderze Inspekcje w folderze Elementy podlegające odzyskiwalnej nie można zapisywać żadnych wpisów dziennika inspekcji skrzynki pocztowej.
 
-W przypadku skrzynek pocztowych, które nie są `Search-Mailbox -SearchDumpsterOnly -DeleteContent` wstrzymane, administratorzy mogą użyć polecenia programu Exchange Online PowerShell do usuwania elementów w folderze Elementy do odzyskania. Aby uzyskać więcej informacji, zobacz następujące tematy:
+W przypadku skrzynek pocztowych, które nie są wstrzymane, administratorzy mogą użyć `Search-Mailbox -SearchDumpsterOnly -DeleteContent` polecenia programu Exchange Online PowerShell do usuwania elementów w folderze Elementy do odzyskania. Aby uzyskać więcej informacji, zobacz następujące tematy:
 
-- [Wyszukiwanie i usuwanie wiadomości](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
+- [Wyszukiwanie i usuwanie wiadomości](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 
 - [Szukaj-Skrzynka pocztowa](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-W przypadku wstrzymanych skrzynek pocztowych administratorzy muszą usunąć blokadę, zanim będą mogli usunąć elementy z folderu Elementy do odzyskania. Aby uzyskać więcej informacji, zobacz [Usuwanie elementów w folderze Elementy możliwe do odzyskania w chmurowych skrzynkach pocztowych wstrzymanych](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+W przypadku wstrzymanych skrzynek pocztowych administratorzy muszą usunąć blokadę, zanim będą mogli usunąć elementy z folderu Elementy do odzyskania. Aby uzyskać więcej informacji, zobacz [Usuwanie elementów w folderze Elementy możliwe do odzyskania w chmurowych skrzynkach pocztowych wstrzymanych](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
 
-Aby zapobiec zapełnieniu folderu Elementy do odzyskania, administratorzy mogą zwiększyć limit magazynowania folderu Elementy odzyskiwalne dla wstrzymanych skrzynek pocztowych i skonfigurować zasady przechowywania skrzynek pocztowych, które przenoszą elementy z folderu Elementy do odzyskania do archiwalnej skrzynki pocztowej użytkownika. Zobacz [Zwiększanie przydziału elementów do odzyskania dla wstrzymanych skrzynek pocztowych](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+Aby zapobiec zapełnieniu folderu Elementy do odzyskania, administratorzy mogą zwiększyć limit magazynowania folderu Elementy odzyskiwalne dla wstrzymanych skrzynek pocztowych i skonfigurować zasady przechowywania skrzynek pocztowych, które przenoszą elementy z folderu Elementy do odzyskania do archiwalnej skrzynki pocztowej użytkownika. Zobacz [Zwiększanie przydziału elementów do odzyskania dla wstrzymanych skrzynek pocztowych](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold).

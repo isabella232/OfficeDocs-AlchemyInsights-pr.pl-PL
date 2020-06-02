@@ -13,15 +13,15 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: c21e57befaf770301a7c8a42dd3ff9ff92394b70
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ce914d0faf73f480aa3eca559ad25764864ef5ea
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721953"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510870"
 ---
 # <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Nadstawienie aliasu e-mail jako adresu podstawowego użytkownika
 
-Aby uzyskać instrukcje, zobacz [Dodawanie innego aliasu e-mail dla użytkownika](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).
+Aby uzyskać instrukcje, zobacz [Dodawanie innego aliasu e-mail dla użytkownika](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user).
 
 **Uwaga:** Jeśli organizacja jest w trybie hybrydowym, musisz zmienić podstawowy adres e-mail w lokalnej organizacji programu Exchange. Aby uzyskać więcej informacji, zobacz [Dodawanie lub usuwanie adresów e-mail skrzynki pocztowej](https://technet.microsoft.com/library/bb123794.aspx).

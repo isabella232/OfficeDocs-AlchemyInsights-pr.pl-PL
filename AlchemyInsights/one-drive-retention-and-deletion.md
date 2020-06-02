@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: bbdfdf34ecb24189b233ceded917a03a2d07d7db
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: 5d2ae0d21ab43814235feee8cc2b60290a17ad51
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44343169"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511014"
 ---
 # <a name="onedrive-retention-and-deletion"></a>Przechowywanie i usuwanie usługi OneDrive
 
@@ -32,5 +32,5 @@ ms.locfileid: "44343169"
 - Aby uzyskać informacje o przywracaniu elementów z kosza w usłudze OneDrive, zobacz [Przywracanie usuniętych plików lub folderów](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
 
 - Interesujesz się przechowywaniem i przechowywaniem w Centrum zabezpieczeń i zgodności?
-    - [Zasady przechowywania witryn w usłudze OneDrive i programie SharePoint](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [Zasady przechowywania witryn w usłudze OneDrive i programie SharePoint](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     - [Blokada zbierania elektronicznych materiałów dowodowych w witrynach usługi OneDrive i programu SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
