@@ -12,18 +12,18 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: a5ad81e97df0ed5c337a622126173df94af80bb8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 35c11f1bfb7c61b28a64f0128c29ddf7b4fce939
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713656"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511050"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>Przenoszenie wiadomości e-mail do archiwalnej skrzynki pocztowej
 
-1. Upewnij się, że **skrzynka pocztowa archiwum** została włączona. Jeśli nie, użyj kroków w [tym artykule,](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) aby włączyć archiwalnej skrzynki pocztowej.
+1. Upewnij się, że **skrzynka pocztowa archiwum** została włączona. Jeśli nie, użyj kroków w [tym artykule,](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) aby włączyć archiwalnej skrzynki pocztowej.
 
-2. Aby automatycznie archiwizować wiadomości do archiwalnej skrzynki pocztowej, tag przechowywania z akcją **Przenieś do archiwum** musi być automatycznie **stosowany do całego tagu skrzynki pocztowej (domyślnie).** Użyj kroków tutaj, aby utworzyć tag: [Archiwum domyślny tag](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
+2. Aby automatycznie archiwizować wiadomości do archiwalnej skrzynki pocztowej, tag przechowywania z akcją **Przenieś do archiwum** musi być automatycznie **stosowany do całego tagu skrzynki pocztowej (domyślnie).** Użyj kroków tutaj, aby utworzyć tag: [Archiwum domyślny tag](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
 3. Następnie dodaj tag **Archiwum** do zasad przechowywania. W Centrum administracyjnym programu Exchange wybierz pozycję **Zasady przechowywania** > dodaj tag Przenieś **do archiwum** do zasad > **Zapisz**.
 
@@ -33,5 +33,5 @@ Może być konieczne wymuszenie uruchomienia asystenta folderów zarządzanych (
   
 Start-ManagedFolderAssistant -Tożsamość<name of the mailbox>
 
-Aby uzyskać więcej informacji na temat konfigurowania zasad archiwizacji, zobacz [Konfigurowanie zasad archiwizacji i usuwania skrzynek pocztowych](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Aby uzyskać więcej informacji na temat konfigurowania zasad archiwizacji, zobacz [Konfigurowanie zasad archiwizacji i usuwania skrzynek pocztowych](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   

@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758475"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511662"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Etykiety czułości nie są wyświetlane
 
-Etykiety czułości umożliwiają klasyfikowanie i ochronę poufnych treści. Można je tworzyć w centrum zgodności usługi Microsoft 365, centrum zabezpieczeń usługi Microsoft 365 lub centrum zgodności & zabezpieczeń usługi Microsoft 365 w obszarze Etykiety klasyfikacji > czułości. Aby dowiedzieć się więcej o tej funkcji, zobacz [Omówienie etykiet czułości](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Etykiety czułości umożliwiają klasyfikowanie i ochronę poufnych treści. Można je tworzyć w centrum zgodności usługi Microsoft 365, centrum zabezpieczeń usługi Microsoft 365 lub centrum zgodności & zabezpieczeń usługi Microsoft 365 w obszarze Etykiety klasyfikacji > czułości. Aby dowiedzieć się więcej o tej funkcji, zobacz [Omówienie etykiet czułości](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
 Jeśli etykiety czułości zostały skonfigurowane, ale nie są one wyświetlane w aplikacjach pakietu Office, sprawdź następujące kwestie:
 
-- Upewnij się, że etykieta czułości została [opublikowana](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) dla użytkowników i grup, które chcesz.
+- Upewnij się, że etykieta czułości została [opublikowana](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) dla użytkowników i grup, które chcesz.
 
 - Upewnij się, że użytkownik korzysta z aplikacji obsługującej etykiety czułości — zobacz [etykiety czułości w dokumencie](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 

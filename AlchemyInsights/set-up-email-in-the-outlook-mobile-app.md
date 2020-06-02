@@ -15,22 +15,22 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: c11537636e276fe9997566bcd0f799bb3ee57282
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6cd6d3c36b8c9c50b5ea98aafa2145c502960f89
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767583"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512492"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Konfigurowanie poczty e-mail w aplikacji mobilnej Outlook
 
-1. Wybierz **wprowadzenie,** jeśli po raz pierwszy konfiguruje po raz pierwszy po raz pierwszy po raz pierwszy w aplikacji mobilnej. W przeciwnym razie naciśnij pozycję **Menu,** a następnie naciśnij pozycję **Ustawienia** \> **Dodaj konto** \> **Dodaj konto e-mail**.
+1. Wybierz **wprowadzenie,** jeśli po raz pierwszy konfiguruje po raz pierwszy po raz pierwszy po raz pierwszy w aplikacji mobilnej. W przeciwnym razie naciśnij pozycję **Menu,** a następnie naciśnij pozycję **Ustawienia** \> **Dodaj konto** Dodaj konto \> **e-mail**.
 
 2. Wprowadź pełny adres e-mail i naciśnij pozycję **Kontynuuj** lub **Dodaj konto**.
 
 3. Wprowadź hasło do konta e-mail i naciśnij pozycję **Zaloguj się** lub **Dalej**.
 
-4. Jeśli [uwierzytelnianie wieloskładnikowe](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) jest włączone, sprawdź, czy używasz skonfigurowaną metody (6-cyfrowy kod, połączenie telefoniczne lub aplikacja Microsoft Authenticator).
+4. Jeśli [uwierzytelnianie wieloskładnikowe](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) jest włączone, sprawdź, czy używasz skonfigurowaną metody (6-cyfrowy kod, połączenie telefoniczne lub aplikacja Microsoft Authenticator).
 
 5. Jeśli obowiązują dodatkowe zasady administracyjne IT, naciśnij pozycję **Aktywuj,** aby je włączyć.
 

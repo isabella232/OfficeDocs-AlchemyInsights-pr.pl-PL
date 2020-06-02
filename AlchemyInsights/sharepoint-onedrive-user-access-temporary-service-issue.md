@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: ec378981d4f24837b037e18214cbeba2f2b657c5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2dc0cd5f1641298853443d364eb9434ec1d9cd5a
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692703"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511158"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>Program SharePoint lub OneDrive są powolne, niedostępne lub niedostępne dla wielu użytkowników
 
@@ -21,7 +21,7 @@ Jeśli witryna usługi OneDrive lub programu SharePoint nie jest dostępna dla w
 
 **Dodawanie i licencjonowanie użytkownika**
 
-Upewnij się, że [licencje są przypisywane użytkownikom w usłudze Microsoft 365 dla firm](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+Upewnij się, że [licencje są przypisywane użytkownikom w usłudze Microsoft 365 dla firm](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 
 **Przypisywanie uprawnień**

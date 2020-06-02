@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 05cd5bb076d16e6d15422ef3491d9c051ad09731
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713512"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511770"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Nowe etykiety przechowywania utworzone automatycznie
 
-W obszarze **Etykiety przechowywania** w centrum administracyjnym zabezpieczeń lub zgodności mogą zostać wyświetlone trzy nowe [etykiety przechowywania](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) utworzone automatycznie w organizacji. Nazwy etykiet to:
+W obszarze **Etykiety przechowywania** w centrum administracyjnym zabezpieczeń lub zgodności mogą zostać wyświetlone trzy nowe [etykiety przechowywania](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) utworzone automatycznie w organizacji. Nazwy etykiet to:
 
 - Procedura operacyjna
 - Ogólnie rzecz biorąc,
@@ -29,8 +29,8 @@ W obszarze **Etykiety przechowywania** w centrum administracyjnym zabezpieczeń 
 
 Nastąpi to przy pierwszym **wybraniu planu plików,** jeśli nie ma żadnych innych etykiet przechowywania. Etykiety te są tworzone automatycznie i, jeśli to konieczne, można je usunąć, jeśli nie zostały jeszcze zastosowane do zawartości. Aby usunąć etykiety:
 
-1. W centrum administracyjnym zabezpieczeń lub zgodności wybierz kartę**Przechowywanie** **etykiet** >  **klasyfikacji.** > 
+1. W centrum administracyjnym zabezpieczeń **Classifications**lub zgodności wybierz  >  kartę Przechowywanie**etykiet**  >  **Retention** klasyfikacji.
 
-1. Zaznacz etykiety przechowywania, które chcesz usunąć > **Usuń etykietę** > **Tak,** aby usunąć etykietę.
+1. Zaznacz etykiety przechowywania, które chcesz usunąć > **Usuń etykietę**  >  **Tak,** aby usunąć etykietę.
 
-Za pomocą Menedżera planów plików można zarządzać etykietami i zasadami przechowywania w organizacji — aby uzyskać więcej informacji, zobacz [Omówienie Menedżera planów plików](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).
+Za pomocą Menedżera planów plików można zarządzać etykietami i zasadami przechowywania w organizacji — aby uzyskać więcej informacji, zobacz [Omówienie Menedżera planów plików](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager).

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: cebe43464aa6672057ea8d2fa3ec9e898918b184
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a3e3fa3cbaf3ab3c1fcf42e8a564d2b7cd8428eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692847"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511230"
 ---
 # <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Rozwiązywanie problemów z brakującymi plikami lub folderami w usłudze OneDrive lub programie SharePoint
 
@@ -35,7 +35,7 @@ Jeśli wiele plików usługi OneDrive lub programu SharePoint zostanie usunięty
 
 **Sprawdzanie historii pliku za pomocą rejestrowania inspekcji lub okienka aktywności pliku**
 
-[Sprawdź raporty z audytu,](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) </a> poruszając się [tutaj](https://protection.office.com/#/unifiedauditlog)
+[Sprawdzanie sprawozdań](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) </a> z audytu nawigując [tutaj](https://protection.office.com/#/unifiedauditlog)
 
 Użyj okienka [aktywności pliku,](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) aby sprawdzić historię pliku.
 

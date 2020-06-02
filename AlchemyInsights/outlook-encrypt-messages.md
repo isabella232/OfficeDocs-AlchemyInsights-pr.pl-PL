@@ -9,12 +9,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6bbbf8722dacb8b7d5191d57ce1055a48dcb4dd0
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764882"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511518"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Szyfrowanie wiadomości e-mail w programie Outlook
 
@@ -24,7 +24,7 @@ Na podstawie opinii klientów nie będziemy już domyślnie włączać reguł pr
 
 - Jeśli korzystasz z aplikacji Outlook w sieci Web (dawniej **OWA):** Podczas redagowania wiadomości e-mail po prostu kliknij przycisk **Chroń** w programie OWA. Będzie to dotyczyć uprawnienia "Nie przesyłaj dalej". Kliknij **pozycję Zmień uprawnienie** i wybierz pozycję **Szyfruj,** aby zaszyfrować tylko wiadomość.
 
-- Jeśli używasz **klienta programu Outlook:** Aby wysłać zaszyfrowaną wiadomość z programu Outlook 2013 lub 2016 lub programu Outlook 2016 dla**komputerów**Mac, wybierz pozycję Uprawnienia **opcji** > , a następnie wybierz potrzebną opcję ochrony.
+- Jeśli używasz **klienta programu Outlook:** Aby wysłać zaszyfrowaną wiadomość z programu Outlook 2013 lub 2016 lub programu Outlook 2016 dla komputerów Mac, wybierz pozycję Uprawnienia **opcji**, a następnie  >  **Permissions**wybierz potrzebną opcję ochrony.
 
-- Aby **automatycznie zaszyfrować wszystkie wiadomości e-mail** wysyłane do określonych adresatów lub zewnętrznych organizacji partnerskich, należy utworzyć regułę transportu przepływu poczty w Centrum administracyjnym programu Exchange. Szczegółowe instrukcje znajdują się w [tym artykule pomocy technicznej](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities).
+- Aby **automatycznie zaszyfrować wszystkie wiadomości e-mail** wysyłane do określonych adresatów lub zewnętrznych organizacji partnerskich, należy utworzyć regułę transportu przepływu poczty w Centrum administracyjnym programu Exchange. Szczegółowe instrukcje znajdują się w [tym artykule pomocy technicznej](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities).
 

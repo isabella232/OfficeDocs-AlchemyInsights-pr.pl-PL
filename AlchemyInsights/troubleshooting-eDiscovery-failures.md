@@ -13,12 +13,12 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759594"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512564"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Rozwiązywanie problemów z błędami wyszukiwania zawartości
 
@@ -34,4 +34,4 @@ Na przykład czy podczas wyszukiwania są odbierane następujące informacje?
 
 Lub podczas wyszukiwania lub eksportowania wyników z dużej liczby skrzynek pocztowych (ponad 100 000 skrzynek pocztowych), czy otrzymujesz błędy eksportu?
 
-W przypadku tych typów błędów ponów próbę wyszukania lokalizacji zawartości, które nie powiodły się. Zobacz [ten artykuł,](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) aby uzyskać więcej informacji.
+W przypadku tych typów błędów ponów próbę wyszukania lokalizacji zawartości, które nie powiodły się. Zobacz [ten artykuł,](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) aby uzyskać więcej informacji.

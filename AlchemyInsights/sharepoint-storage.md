@@ -12,26 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 37cdc6943b28dc6823044957691767351d4ac246
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cfe6091baec784a0b726ccc6e1b97a3ce1d00c8d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051039"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512636"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Zarządzanie magazynem programu SharePoint Online
+# <a name="manage-your-sharepoint-online-storage"></a>Zarządzanie magazynem usługi SharePoint Online
 
-Dowiedz się, jak [Magazyn dzierżawy jest obliczana](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) na podstawie planu.
+Dowiedz się, jak [magazyn dzierżawy jest obliczany](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) na podstawie planu.
 
-W przypadku większości organizacji magazyn programu SharePoint jest zarządzany automatycznie, więc nie trzeba ustawiać limitów dla zbioru witryn.
+W przypadku większości organizacji magazyn programu SharePoint jest zarządzany automatycznie, więc nie trzeba ustawiać limitów na zbiór witryn.
 
-Dowiedz się [, jak wyświetlić łączną i dostępną przestrzeń dyskowego dla organizacji](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+Dowiedz się, jak [wyświetlić całkowitą i dostępną przestrzeń dyskową dla organizacji.](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)
 
-Dowiedz się, jak [zarządzać limitami magazynowania poszczególnych witryn](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+Dowiedz się, jak [zarządzać limitami miejsca w zbiorach witryn.](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-Jeśli witryna jest poza przestrzenią lub chcesz dowiedzieć się, która biblioteka lub lista jest wykorzystanie miejsca, przejdź do **Ustawienia** > witryny**metryki magazynu** (uprawnienia administratora zbioru witryn są wymagane).
+Jeśli witryna jest za niego niesprzejednana lub chcesz dowiedzieć się, która biblioteka lub lista wykorzystuje to miejsce, przejdź do **sekcji**  >  **Metryki magazynu** ustawień witryny (wymagane są uprawnienia administratora zbioru witryn).
 
-Dowiedz się, jak [monitorować limity magazynowania witryn przy użyciu programu PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+Dowiedz się, jak [monitorować limity miejsca w witrynie za pomocą programu PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
 
-Dowiedz się, jak [kupić dodatkowy magazyn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
+Dowiedz się, jak [kupić dodatkową pamięć masową](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space). 
   
