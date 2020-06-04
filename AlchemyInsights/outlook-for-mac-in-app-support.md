@@ -1,5 +1,5 @@
 ---
-title: 1800009 wsparcie dla programu Outlook dla Mac w aplikacji
+title: Obsługa aplikacji w aplikacji programu Outlook dla komputerów Mac 1800009
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
 ms.openlocfilehash: b151c74c0b35361b6edc91e3b68874717d8a2ba2
-ms.sourcegitcommit: a1af40d92fa9c6c0dda9ec5da3b4776400fbb857
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/18/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "37035765"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>Obsługa w aplikacji w programie Outlook dla komputerów Macintosh
+# <a name="in-app-support-in-outlook-for-mac"></a>Obsługa w aplikacji w programie Outlook dla komputerów Mac
 
-Aby otrzymać pomoc techniczną w aplikacji dla programu Outlook dla komputerów Macintosh problemy, Otwórz program Outlook i kliknij przycisk **Pomoc** \> **kontakt z pomocą techniczną**. Wpisz swoje pytanie, a członek zespołu pomocy technicznej dla programu Outlook dla komputerów Macintosh skontaktuje się z Tobą. 
+Aby otrzymywać problemy z pomocą techniczną w aplikacji dla aplikacji Outlook dla komputerów Mac, otwórz program Outlook i kliknij pozycję **Pomoc w** \> **obsłudze kontaktów**. Wpisz pytanie, a członek zespołu pomocy technicznej programu Outlook dla komputerów Mac skontaktuje się z Tobą. 
 
-Więcej informacji: [kontakt z pomocą techniczną w programie Outlook dla komputerów Macintosh](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
+Dowiedz się więcej: [Kontakt z pomocą techniczną w programie Outlook dla komputerów Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)

@@ -1,5 +1,5 @@
 ---
-title: Zalecane rozwiązania do synchronizacji po stronie serwera Dynamics
+title: Zalecane rozwiązania synchronizacji po stronie serwera Dynamics
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,26 +12,26 @@ ms.custom:
 - "1456"
 - "6200009"
 ms.openlocfilehash: 1bd2fae31757ab4d890e1732b004edf594e3e724
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36745479"
 ---
-# <a name="dynamics-server-side-sync-recommended-solutions"></a>Zalecane rozwiązania Dynamics Sync po stronie serwera
+# <a name="dynamics-server-side-sync-recommended-solutions"></a>Zalecane rozwiązania synchronizacji po stronie serwera Dynamics
 
-* [Jak wyświetlić szczegółowy błąd serwera wyświetlany w portalu](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Jak wyświetlić szczegółowy błąd serwera wyświetlany w moim portalu](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [Jak zresetować Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [Jak zresetować portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
 * [Jak wyczyścić pamięć podręczną po stronie serwera dla portalu](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Jak zmienić grupę odbiorców i typ portalu Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Jak zmienić grono odbiorców i typ portalu Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
 * [Jak zmienić podstawowy adres URL portalu](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [Jak skonfigurować zewnętrzny dostawca tożsamości z portalem](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Jak skonfigurować zewnętrznego dostawcę tożsamości za pomocą portalu](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
-* [Najczęściej zadawane pytania](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
+* [Często zadawane pytania](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Pierwsze kroki z My Dynamics 365 Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Wprowadzenie do portalu My Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

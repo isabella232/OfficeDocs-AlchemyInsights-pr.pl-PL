@@ -1,5 +1,5 @@
 ---
-title: 3800017 Rozwiązywanie problemów z synchronizacją kalendarza do urządzenia
+title: 3800017 Rozwiązywanie problemów z synchronizacją kalendarza z urządzeniem
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,13 +13,13 @@ ms.custom:
 - "3800017"
 ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
 ms.openlocfilehash: cfde9c1d14f3c9a7e2149148a9a9c397c23b36fd
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665806"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>Rozwiązywanie problemów z synchronizowania kalendarza do urządzenia
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>Rozwiązywanie problemów z synchronizacją kalendarza z urządzeniem
 
-Jeśli nadal masz problemy z synchronizacją podczas konfigurowania telefonu po raz pierwszy, zobacz [nie można zsynchronizować kalendarz i kontakty z mojego telefonu lub komputera typu tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).
+Jeśli podczas konfigurowania poczty e-mail telefonu komórkowego masz problemy z synchronizacją po raz pierwszy, zobacz [Nie można zsynchronizować kalendarza i kontaktów z telefonem lub tabletem](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).
   

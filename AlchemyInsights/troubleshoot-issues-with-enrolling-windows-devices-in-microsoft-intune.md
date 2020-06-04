@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z rejestrowania urządzenia z systemem Windows w Microsoft Intune
+title: Rozwiązywanie problemów z rejestrowaniem urządzeń z systemem Windows w usłudze Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,34 +12,34 @@ ms.custom:
 - "784"
 - "6200002"
 ms.openlocfilehash: 7b298360fe31d3f52ef382e5b8f25ee3588c36c8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665842"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Rozwiązywanie problemów z rejestrowania urządzenia z systemem Windows w Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Rozwiązywanie problemów z rejestrowaniem urządzeń z systemem Windows w usłudze Microsoft Intune
 
 Przejrzyj zasoby wymienione poniżej, aby rozwiązać problem teraz.
   
-Niektóre typowe komunikaty o błędach i kroki rozwiązania:
+Niektóre typowe komunikaty o błędach i kroki rozwiązywania problemów:
   
- **Nie można zainstalować oprogramowania, 0x80cf4017:** Twój certyfikat konta wygasło. Ponownie Pobierz pakiet oprogramowania klienta komputera w konsoli administracyjnej usługi Intune. Przejrzyj tę dokumentację, aby uzyskać więcej informacji.
+ **Nie można zainstalować oprogramowania, 0x80cf4017:** Certyfikat konta wygasł. Pobierz ponownie pakiet oprogramowania klienta komputera w konsoli administracyjnej usługi Intune. Zapoznaj się z tą dokumentacją, aby uzyskać więcej informacji.
   
- **Kod błędu 0x801c0003:** Ten błąd może wystąpić w następujących scenariuszach:
+ **Kod błędu 0x801c0003:** Błąd może wystąpić w następujących scenariuszach:
   
--  Użytkownik ma więcej urządzeń zarejestrowanych niż limit urządzenia. Dokonują przeglądu tych dokumentów, aby [usunąć urządzenie](https://docs.microsoft.com/intune/devices-wipe) lub [zmienić limit urządzenia](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+-  Użytkownik ma więcej zarejestrowanych urządzeń niż limit urządzenia. Przejrzyj te dokumenty, aby [usunąć urządzenie](https://docs.microsoft.com/intune/devices-wipe) lub [zmienić limit urządzenia](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
 
--  "Użytkownicy mogą przyłączyć urządzenia do Azure AD" jest ustawiony na "Brak." Ustaw go na wszystkie lub wybierz użytkowników. Przegląd [tej dokumentacji](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) , aby uzyskać więcej informacji.
+-  "Użytkownicy mogą dołączyć do urządzeń do usługi Azure AD" jest ustawiona na "brak". Ustaw go na wszystkich lub wybierz użytkowników. Zapoznaj się z [tą dokumentacją,](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) aby uzyskać więcej informacji.
 
--  Urządzenie jest już zarejestrowane przez innego użytkownika. Jeśli tak się stanie, usuń urządzenie z konsoli Azure Intune lub ręcznie anulować rejestrację urządzenia przed ponowną próbą.
+-  Urządzenie jest już zarejestrowane przez innego użytkownika. W takim przypadku usuń urządzenie z konsoli usługi Azure Intune lub ręcznie wyrejestruj urządzenie przed ponowną próbą.
 
--  Urządzenie jest Windows 10 strona główna. Tylko Windows 10 Pro, edukacji i wersji Enterprise można przyłączyć Azure usługi Active Directory.
+-  Urządzenie jest Windows 10 Home. Tylko jednostki SKU systemu Windows 10 Pro, Education i Enterprise mogą dołączyć do usługi Azure Active Directory.
 
-Dodatkowe zasoby w celu rozwiązania problemu:
+Dodatkowe zasoby ułatwiające rozwiązanie problemu:
   
--  Korzystać z [Portalu rozwiązywania problemów Windows Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) , aby zdiagnozować i rozwiązać typowe błędy rejestracji. Przegląd [tego dokumentu](https://docs.microsoft.com/intune/help-desk-operators) , aby uzyskać więcej informacji.
+-  Użyj [portalu rozwiązywania problemów z usługi Intune,](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) aby zdiagnozować i rozwiązać typowe błędy rejestracji. Przejrzyj [ten dokument,](https://docs.microsoft.com/intune/help-desk-operators) aby uzyskać więcej informacji.
 
--  Dokonują przeglądu tych dokumentów, listę typowe błędy, które uniemożliwiają rejestracji i rozwiązania do każdego: [Podręcznik rozwiązywania problemów](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) i [Rozwiązywanie problemów doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+-  Przejrzyj te dokumenty, aby uzyskać listę typowych błędów, które uniemożliwiają rejestrację i rozwiązywanie problemów dla każdego z nich: [Przewodnik rozwiązywania problemów](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) i [dokument rozwiązywania problemów](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
 
-[Informacje o sposobie rejestrowania urządzeń systemu Windows w usłudze Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
+[Dowiedz się, jak rejestrować urządzenia z systemem Windows w usłudze Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
