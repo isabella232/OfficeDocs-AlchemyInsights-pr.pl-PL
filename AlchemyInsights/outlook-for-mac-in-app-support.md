@@ -1,5 +1,5 @@
 ---
-title: 1800009 wsparcie dla programu Outlook dla Mac w aplikacji
+title: Obsługa aplikacji w aplikacji programu Outlook dla komputerów Mac 1800009
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
 ms.openlocfilehash: b151c74c0b35361b6edc91e3b68874717d8a2ba2
-ms.sourcegitcommit: a1af40d92fa9c6c0dda9ec5da3b4776400fbb857
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/18/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "37035765"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a><span data-ttu-id="609af-102">Obsługa w aplikacji w programie Outlook dla komputerów Macintosh</span><span class="sxs-lookup"><span data-stu-id="609af-102">In-app support in Outlook for Mac</span></span>
+# <a name="in-app-support-in-outlook-for-mac"></a><span data-ttu-id="db751-102">Obsługa w aplikacji w programie Outlook dla komputerów Mac</span><span class="sxs-lookup"><span data-stu-id="db751-102">In-app support in Outlook for Mac</span></span>
 
-<span data-ttu-id="609af-103">Aby otrzymać pomoc techniczną w aplikacji dla programu Outlook dla komputerów Macintosh problemy, Otwórz program Outlook i kliknij przycisk **Pomoc** \> **kontakt z pomocą techniczną**.</span><span class="sxs-lookup"><span data-stu-id="609af-103">To receive support in-app for Outlook for Mac issues, open Outlook and click **Help** \> **Contact Support**.</span></span> <span data-ttu-id="609af-104">Wpisz swoje pytanie, a członek zespołu pomocy technicznej dla programu Outlook dla komputerów Macintosh skontaktuje się z Tobą.</span><span class="sxs-lookup"><span data-stu-id="609af-104">Type your question, and a member of the Outlook for Mac support team will get in touch with you.</span></span> 
+<span data-ttu-id="db751-103">Aby otrzymywać problemy z pomocą techniczną w aplikacji dla aplikacji Outlook dla komputerów Mac, otwórz program Outlook i kliknij pozycję **Pomoc w** \> **obsłudze kontaktów**.</span><span class="sxs-lookup"><span data-stu-id="db751-103">To receive support in-app for Outlook for Mac issues, open Outlook and click **Help** \> **Contact Support**.</span></span> <span data-ttu-id="db751-104">Wpisz pytanie, a członek zespołu pomocy technicznej programu Outlook dla komputerów Mac skontaktuje się z Tobą.</span><span class="sxs-lookup"><span data-stu-id="db751-104">Type your question, and a member of the Outlook for Mac support team will get in touch with you.</span></span> 
 
-<span data-ttu-id="609af-105">Więcej informacji: [kontakt z pomocą techniczną w programie Outlook dla komputerów Macintosh](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)</span><span class="sxs-lookup"><span data-stu-id="609af-105">Learn more: [Contact support within Outlook for Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)</span></span>
+<span data-ttu-id="db751-105">Dowiedz się więcej: [Kontakt z pomocą techniczną w programie Outlook dla komputerów Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)</span><span class="sxs-lookup"><span data-stu-id="db751-105">Learn more: [Contact support within Outlook for Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)</span></span>
