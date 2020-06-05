@@ -1,5 +1,5 @@
 ---
-title: Naprawianie aplikacji pakietu Office Twoje konto jest w złym stanie
+title: Naprawianie aplikacji usługi Microsoft 365 Twoje konto jest w złym stanie
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: 5592158c24ae55d712018d6886670fe8e9a794c3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 264307f23a349ef4ebf40f48ddbcddd3216a4927
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44499233"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580127"
 ---
-# <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>Naprawianie błędu "Twoje konto jest w złym stanie"
+# <a name="fixing-the-microsoft-365-apps-your-account-is-in-a-bad-state-error"></a>Naprawianie błędu aplikacji microsoft 365 "Twoje konto jest w złym stanie"
 
 Aby naprawić ten błąd, spróbuj wykonać następujące opcje na komputerze, którego dotyczy problem:
 
