@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512022"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582749"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Sugestie dotyczące rozwiązywania błędów "Produktu nielicencjonowanego"
 
@@ -26,7 +26,7 @@ Aby rozwiązać problemy związane z "produktem nielicencjonowanym", spróbuj wy
 - Upewnij się, że masz subskrypcję, która zezwala na licencje klientów, takie jak Microsoft 365 Apps dla firm lub Business Premium, i [upewnij się, że użytkownik ma przypisaną licencję.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) 
 - Upewnij się, że użytkownik loguje się do pakietu Office przy tym samym koncie, na które jest przypisana licencja.
 - Sprawdź [kondycję usługi strony,](https://docs.microsoft.com/office365/enterprise/view-service-health) aby sprawdzić, czy istnieją jakieś znane problemy z usługą.
-- Sprawdź ustawienia zapory, oprogramowania antywirusowego i serwera proxy, aby upewnić się, że nie blokują one dostępu aplikacji pakietu Office do Internetu. Zobacz [adresy URL i zakresy adresów IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Sprawdź ustawienia zapory, oprogramowania antywirusowego i serwera proxy, aby upewnić się, że nie blokują one dostępu aplikacji microsoft 365 do Internetu. Zobacz [adresy URL i zakresy adresów IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Można również wypróbować następujące akcje rozwiązywania problemów: 
 

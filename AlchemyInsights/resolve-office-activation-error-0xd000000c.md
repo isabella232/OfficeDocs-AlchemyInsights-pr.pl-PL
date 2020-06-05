@@ -13,18 +13,18 @@ ms.custom:
 - "4487"
 - "3496"
 - "2000021"
-ms.openlocfilehash: e7229980d39b60ec0f60ebd5e51948e8cf34bc76
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: 75795c357442799e41c39df2f963e126c944e9f0
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474471"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582569"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Rozwiązywanie problemów dotyczących błędu aktywacji pakietu Office 0xD000000C
 
 - Upewnij się, że działa połączenie internetowe na komputerze Mac, na którym próbujesz przeprowadzić instalację. Możesz to zrobić, otwierając przeglądarkę internetową i przechodząc do witryny firmy [Microsoft](https://www.microsoft.com). Jeśli strona zostanie załadowana, połączenie internetowe działa.
 
-- Zamknij wszystkie aplikacje pakietu Office.
+- Zamknij wszystkie aplikacje usługi Microsoft 365.
 
 - Pobierz i uruchom [narzędzie do usuwania licencji](https://go.microsoft.com/fwlink/?linkid=849815), aby usunąć wszystkie wpisy pęku kluczy pakietu Office.
 

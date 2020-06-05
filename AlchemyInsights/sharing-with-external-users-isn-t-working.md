@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 9a40f52637bc8aa7894754118f0f862aa6c71fe2
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43913012"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582785"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Rozwiązywanie problemów z udostępnianiem zawartości programu SharePoint użytkownikom zewnętrznym
 
 Upewnij się, że udostępnianie zewnętrzne jest włączone w twojej organizacji:
   
-1. Przejdź do [ &amp; strony Dodatki usług w centrum administracyjnym usługi Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)i kliknij pozycję **Witryny**.
+1. Przejdź do [strony Dodatki usług w centrum &amp; administracyjnym usługi Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)i kliknij pozycję **Witryny**.
     
 2. Upewnij się, że ustawienie jest włączone. Jeśli wybrano opcję "Tylko istniejący użytkownicy zewnętrzni", upewnij się, że użytkownik zewnętrzny znajduje się na liście w centrum administracyjnym usługi Microsoft 365.
     
@@ -32,7 +32,7 @@ Upewnij się, że udostępnianie zewnętrzne jest włączone dla witryny. W przy
     
 2. Wybierz witrynę lub witryny, a na wstążce kliknij pozycję **Udostępnianie**.
     
-W przypadku witryny zespołu należącej do grupy usługi Microsoft 365 lub witryny komunikacyjnej:
+W przypadku witryny zespołu należącej do grupy microsoft 365 lub witryny komunikacyjnej:
   
 - Te nowe typy witryn mają takie samo ustawienie udostępniania jak ustawienie dla całej organizacji, chyba że ustawienie dla całej organizacji umożliwia udostępnianie plików przy użyciu łączy, które nie wymagają logowania. W takim przypadku witryny umożliwiają udostępnianie nowym i istniejącym użytkownikom zewnętrznym, którzy się logują. Aby zmienić ustawienie dla określonych witryn, użyj nowego centrum administracyjnego programu SharePoint lub programu PowerShell. [Dowiedz się więcej](https://go.microsoft.com/fwlink/?linkid=871863).
     

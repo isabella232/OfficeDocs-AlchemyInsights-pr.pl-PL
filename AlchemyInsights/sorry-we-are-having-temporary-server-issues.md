@@ -1,5 +1,5 @@
 ---
-title: Naprawianie aplikacji pakietu Office Niestety, mamy komunikat o tymczasowych problemach z serwerem
+title: Naprawianie aplikacji Microsoft 365 Niestety, mamy tymczasowy komunikat o problemach z serwerem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: a1ac62f3587e318d563cfea1df8db23b720358a6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6db04a437de8e50af349b5c690791981ae872f14
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764127"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582713"
 ---
-# <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>Rozwiązywanie komunikatu "Przepraszamy, mamy tymczasowe problemy z serwerem"
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Naprawianie komunikatu "Przepraszamy, mamy tymczasowe problemy z serwerem"
 
 Jeśli zostanie wyświetlony ten komunikat, spróbuj wykonać następujące czynności:
 
-1. Sprawdź ustawienia zapory, oprogramowania antywirusowego i serwera proxy, aby upewnić się, że nie blokują dostępu do Internetu w aplikacjach pakietu Office. Zobacz [adresy URL i zakresy adresów IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Sprawdź ustawienia zapory, oprogramowania antywirusowego i serwera proxy, aby upewnić się, że nie blokują dostępu do Internetu do aplikacji usługi Microsoft 365. Zobacz [adresy URL i zakresy adresów IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Przejdź do **ekranu** > **Uruchom**, a następnie wpisz **plik services.msc**. Upewnij się, że wszystkie następujące usługi są uruchomione:
+2. Przejdź do **ekranu**  >  **Uruchom**, a następnie wpisz **plik services.msc**. Upewnij się, że wszystkie następujące usługi są uruchomione:
     - Automatyczna konfiguracja urządzeń podłączonych do sieci
     - Usługa listy sieci
     - Rozpoznawanie lokalizacji sieciowej
