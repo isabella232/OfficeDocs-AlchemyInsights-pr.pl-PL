@@ -1,5 +1,5 @@
 ---
-title: Problemy z zalogowaniem się do aplikacji pakietu Office
+title: Problemy z logowaniem się do aplikacji usługi Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2556"
-ms.openlocfilehash: 08bb0a94066f071f2ba0e9c54378f0d479191496
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 4658b4df8a48072b4cc9d72bf503d7911bb5126b
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938295"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579911"
 ---
-# <a name="blank-sign-in-screen-in-office-apps"></a>Puste — ekran logowania w aplikacjach pakietu Office
+# <a name="blank-sign-in-screen-in-microsoft-365-apps"></a>Pusty ekran logowania w aplikacjach usługi Microsoft 365
 
 Aby rozwiązać ten problem, spróbuj wykonać następujące czynności:
 - Zainstaluj najnowsze aktualizacje dla [systemu Windows](https://support.microsoft.com/help/4027667/windows-10-update) i [pakietu Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- Resetowanie opcji programu Internet Explorer: Przejdź do **Narzędzia** > **Opcje internetowe** > **Zaawansowane** > **Resetowanie ustawień programu Internet Explorer** (należy zauważyć, że ustawienia niestandardowe zostaną utracone), a następnie spróbuj ponownie zalogować się do urzędu.
-- Wyłącz Windows Defender aplikacji Guard (WDAG) lub podobny program zapory lub oprogramowania antywirusowego:
-    1. W Panelu sterowania przejdź do **apletu Programy**, a następnie wybierz polecenie **Włącz lub wyłącz funkcje systemu Windows**.
-    2. Jeśli straży aplikacji systemu Windows Defender jest włączona, spróbuj ją wyłączyć.<br/>
-    **Uwaga:** Konieczne może być ponowne uruchomienie komputera.
-- Upewnij się, że Microsoft.AAD.BrokerPlugin [WAM AAD dodatek typu plug-in](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-1) nie są blokowane przez aplikację lub program zapory/anty-wirus.
-- [Wyczyść Office poświadczeń](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) przy użyciu Menedżera poświadczeń systemu Windows.<br/>
-    **Uwaga:** Ścieżki rejestru dla pakietu Office 2016 zostały zmienione na 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Resetowanie opcji programu **Tools**Internet Explorer: Przejdź do  >  **opcji internetowych**  >  **Zaawansowane**  >  **resetowanie ustawień programu Internet Explorer** (zwróć uwagę, że utracisz ustawienia niestandardowe), a następnie spróbuj ponownie zalogować się do pakietu Office.
+- Wyłącz ochronę aplikacji usługi Windows Defender (WDAG) lub podobną zaporę lub program antywirusowy:
+    1. W Panelu sterowania przejdź do programu **Programy**, a następnie wybierz pozycję **Włącz lub wyłącz funkcje systemu Windows**.
+    2. Jeśli usługa Windows Defender Application Guard jest włączona, spróbuj ją wyłączyć.<br/>
+    **Uwaga:** Może być konieczne ponowne uruchomienie komputera.
+- Upewnij się, że wtyczka Microsoft.AAD.BrokerPlugin [AAD WAM](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-1) nie jest blokowana przez żadną aplikację lub zaporę/program antywirusowy.
+- [Wyczyść poświadczenia pakietu Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) przy użyciu Menedżera poświadczeń systemu Windows.<br/>
+    **Uwaga:** Ścieżki rejestru dla pakietu Office 2016 zostały zmienione na 16.0. (Np.: \Software\Microsoft\Office\16.0\Common\Identity\)
 
-Aby uzyskać więcej informacji zobacz [w logowanie po aktualizacji do pakietu Office 2016 build 16.0.7967 w systemie Windows 10 problemy z połączeniem](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
+Aby uzyskać więcej informacji, zobacz [Problemy z połączeniem w logowanie po aktualizacji do pakietu Office 2016 kompilacji 16.0.7967 w systemie Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).

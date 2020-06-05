@@ -2,21 +2,21 @@
 title: Problemy z uprawnieniami podczas migracji
 ms.author: pebaum
 author: pebaum
-ms.date: 9/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.openlocfilehash: a9e0746327dd092d6232a43d12e354a3a64c11be
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e337cad7b1015711f53960d6a1832fd38519e14f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054460"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582605"
 ---
 # <a name="permissions-issues-while-migrating"></a>Problemy z uprawnieniami podczas migracji
 
-Aby uzyskać informacje dotyczące typowych problemów z uprawnieniami podczas migracji do programu SharePoint w trybie online, zobacz [Opis uprawnień i narzędzie migracji programu SharePoint.](https://go.microsoft.com/fwlink/?linkid=2019753)
+Aby uzyskać informacje dotyczące typowych problemów z uprawnieniami podczas migracji do usługi SharePoint Online, zobacz [Opis uprawnień i Narzędzie migracji programu SharePoint.](https://go.microsoft.com/fwlink/?linkid=2019753)
   
 

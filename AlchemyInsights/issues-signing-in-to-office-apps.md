@@ -1,5 +1,5 @@
 ---
-title: Problemy z zalogowaniem się do aplikacji pakietu Office
+title: Problemy z logowaniem się do aplikacji usługi Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2560"
-ms.openlocfilehash: de0a1b78724db9a8e93d8d599ce3b503abcb86e2
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: e4f2fea5c2f368ae240614ee1f7bc729338dd75d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938293"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579947"
 ---
-# <a name="fixing-the-office-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Ustalania komunikat "Niestety, innego konta z organizacji jest już zarejestrowany" aplikacje pakietu Office
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Naprawianie komunikatu "Przepraszamy, inne konto w organizacji jest już zalogowane"
 
-Aby naprawić ten błąd, spróbuj wykonać następujące czynności:
+Aby naprawić ten błąd, wypróbuj poniższe rozwiązania:
 
-- Usuń wszystkie konta pracy, z wyjątkiem dotkniętych konta, przy użyciu ustawień systemu Windows > **dostępu do pracy i w szkole**.
-- [Wyczyść Office poświadczeń](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) przy użyciu Menedżera poświadczeń systemu Windows.<br/>
-    **Uwaga:** Ścieżki rejestru dla pakietu Office 2016 zostały zmienione na 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Otwórz aplikację pakietu Office, wybierz polecenie **plik** > **konta** > **Wyloguj się**. Następnie zaloguj się przy użyciu konta użytkownika z ważną licencją. Aby uzyskać szczegółowe informacje zobacz [konta w biurze](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Dla komputerów Macintosh Zobacz [nie można zalogować się do 2016 pakietu Office dla komputerów Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+- Usuń wszystkie konta służbowe, z wyjątkiem konta, którego dotyczy problem, korzystając z ustawień systemu Windows > **access work or school**.
+- [Wyczyść poświadczenia pakietu Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) przy użyciu Menedżera poświadczeń systemu Windows.<br/>
+    **Uwaga:** Ścieżki rejestru dla pakietu Office 2016 zostały zmienione na 16.0. (Np.: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Otwórz aplikację pakietu **File**Office, wybierz pozycję  >  **Account**  >  **Wyloguj konto**pliku . Następnie zaloguj się przy użyciu konta użytkownika z ważną licencją. Aby uzyskać szczegółowe informacje, zobacz [Konta w pakiecie Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Jeśli używasz komputera Mac, zobacz temat [Nie mogę zalogować się do aplikacji pakietu Office 2016 dla komputerów Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
 
-Aby uzyskać więcej informacji, zobacz ["Niestety, innego konta z organizacji jest już zarejestrowany na tym komputerze" w pakiecie Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
+Aby uzyskać więcej informacji, zobacz ["Przepraszamy, inne konto w organizacji jest już zalogowane na tym komputerze" w pakiecie Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
