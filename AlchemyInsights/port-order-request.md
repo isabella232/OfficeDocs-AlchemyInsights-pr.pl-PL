@@ -1,5 +1,5 @@
 ---
-title: Zlecenie przeniesienia
+title: Zlecenie przeniesienia — wniosek
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,12 +18,12 @@ ms.contentlocale: pl-PL
 ms.lasthandoff: 04/07/2020
 ms.locfileid: "43161035"
 ---
-# <a name="port-order-request"></a>Zlecenie przeniesienia
+# <a name="port-order-request"></a>Zlecenie przeniesienia — wniosek
 
 Pobierz [upoważnienie](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization#letters-of-authorization-loas-for-transferring-numbers) dla swojego kraju lub regionu, wypełnij formularz, a następnie wyślij go do działu pomocy technicznej sieci PSTN dla swojego regionu:
 
-- Stany Zjednoczone — [wyślij żądanie](mailto:ptn@microsoft.com).
+- Stany Zjednoczone — [wyślij wniosek](mailto:ptn@microsoft.com).
 
-- Europa — [wyślij żądanie](mailto:ptneu@microsoft.com).
+- Europa — [wyślij wniosek](mailto:ptneu@microsoft.com).
 
-- Azja — [wyślij żądanie](mailto:ptnapac@microsoft.com).
+- Azja — [wyślij wniosek](mailto:ptnapac@microsoft.com).
