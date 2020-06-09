@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 06/09/2020
-ms.locfileid: "44618023"
+ms.locfileid: "44664256"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Błąd: reguły na tym komputerze nie są zgodne
 
@@ -28,3 +28,4 @@ Dopóki poprawka nie będzie dostępna, użyj następującego obejścia:
 **Obejście**: W ostatnich raportach wystąpił problem dla tych, którzy utworzyli tylko reguły klienta na pulpicie programu Outlook. Jeśli nadal występuje problem, należy rozważyć usunięcie reguł, a następnie utworzyć i edytować reguły tylko w programie OWA (Outlook Web App) do momentu rozwiązania problemu.
 
 Jeśli nie można usunąć reguł ręcznie, możesz uruchomić polecenie programu Outlook po uruchomieniu programu Outlook, uruchamiając program Outlook.exe /cleanrules. Spowoduje to usunięcie reguł klienta i serwera. Spowoduje to usunięcie wszystkich reguł dla wszystkich kont w profilu programu Outlook. To polecenie jest dodatkowo udokumentowane w artykule Przełączniki wiersza polecenia.
+
