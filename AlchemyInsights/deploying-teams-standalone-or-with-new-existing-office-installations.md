@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: ffa91eaf333792af149feda25f9a377ed591b597
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 5ec5277a758fc5171c846266787c2fbcf751f21c
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010228"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44617905"
 ---
 # <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Wdrażanie zespołów jako autonomicznych lub z nowymi lub istniejącymi instalacjami pakietu Office
 
 Usługa Microsoft Teams jest teraz dostępna jako część ***nowych instalacji*** aplikacji microsoft 365 dla przedsiębiorstw, aplikacji Microsoft 365 dla firm i pakietu Office dla komputerów Mac. Aby uzyskać więcej informacji, zobacz [Kiedy usługa Microsoft Teams zacznie być dołączona do nowych instalacji pakietu Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Ponadto począwszy od wersji 1906 w kanale miesięcznym usługa Teams zostanie ***dodana do istniejących instalacji*** aplikacji microsoft 365 dla przedsiębiorstw (i aplikacji microsoft 365 dla firm) na urządzeniach z systemem Windows podczas aktualizowania istniejącej instalacji do najnowszej wersji. Aby uzyskać więcej informacji, zobacz [Co z istniejącymi instalacjami pakietu Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Ponadto począwszy od wersji 1906 w bieżącym kanale, usługi Teams zostaną ***dodane do istniejących instalacji*** aplikacji microsoft 365 dla przedsiębiorstw (i aplikacji Microsoft 365 dla firm) na urządzeniach z systemem Windows podczas aktualizowania istniejącej instalacji do najnowszej wersji. Aby uzyskać więcej informacji, zobacz [Co z istniejącymi instalacjami pakietu Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
 > [!NOTE]
-> Jeśli nie chcesz czekać na ten harmonogram wdrażania, możesz wdrożyć usługi Teams jako samodzielne dla użytkowników, [postępując zgodnie](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)  [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads)z tymi instrukcjami lub możesz poprosić użytkowników o zainstalowanie zespołów dla siebie z programu .
+> Jeśli nie chcesz czekać na ten harmonogram wdrażania, możesz wdrożyć usługi Teams jako samodzielne dla użytkowników, [postępując zgodnie](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)z tymi instrukcjami   lub możesz poprosić użytkowników o zainstalowanie zespołów dla siebie z  [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads) programu .
 
 Jeśli Twoja organizacja nie jest gotowa do wdrożenia usługi Teams, mamy kroki, które można wykonać, aby ***wykluczyć usługi Teams*** z [nowych](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) lub [istniejących](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) instalacji pakietu Office. Jeśli chcesz, aby usługa Teams była instalowana, ale nie chcesz, aby usługa Teams uruchamiała się automatycznie dla użytkownika po jego zainstalowaniu, zobacz [Zapobieganie automatycznemu uruchamianiu usługi Microsoft Teams po instalacji](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
 
