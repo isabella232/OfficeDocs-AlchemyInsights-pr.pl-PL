@@ -1,0 +1,34 @@
+---
+title: Rozwiązywanie problemów związanych z rozliczeniami i płatnościami
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9003021"
+- "5757"
+ms.openlocfilehash: bcef12a3b1d4438df07a67b73ec8b59ac0f7d8c3
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.translationtype: MT
+ms.contentlocale: pl-PL
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44708192"
+---
+# <a name="resolving-billing-and-payment-errors"></a><span data-ttu-id="b9c07-102">Rozwiązywanie problemów związanych z rozliczeniami i płatnościami</span><span class="sxs-lookup"><span data-stu-id="b9c07-102">Resolving Billing and Payment Errors</span></span>
+
+<span data-ttu-id="b9c07-103">Oto kilka typowych scenariuszy związanych z błędami w rozliczeniach i płatnościach</span><span class="sxs-lookup"><span data-stu-id="b9c07-103">Here are some common scenarios related to bill and payment errors</span></span>
+
+- <span data-ttu-id="b9c07-104">Kwota **naliczona** jest inna niż oczekiwana.</span><span class="sxs-lookup"><span data-stu-id="b9c07-104">The  **amount billed** is different from what you were expecting.</span></span>
+- <span data-ttu-id="b9c07-105">Licencje zostały dodane lub usunięte z subskrypcji.</span><span class="sxs-lookup"><span data-stu-id="b9c07-105">Licenses were added or removed from your subscription.</span></span> <span data-ttu-id="b9c07-106">Gdy licencje są zmieniane w połowie okresu, jest to odzwierciedlone na poniższej fakturze.</span><span class="sxs-lookup"><span data-stu-id="b9c07-106">When licenses are changed mid-term, this is reflected on the following invoice.</span></span> <span data-ttu-id="b9c07-107">Możesz zobaczyć kredyt i ponownie rachunek za poprzedni okres usługi, aby uwzględnić tę zmianę.</span><span class="sxs-lookup"><span data-stu-id="b9c07-107">You may see a credit and re- bill for the previous service period to account for this change.</span></span>
+- <span data-ttu-id="b9c07-108">Subskrypcja została anulowana.</span><span class="sxs-lookup"><span data-stu-id="b9c07-108">The subscription was cancelled.</span></span> <span data-ttu-id="b9c07-109">Po anulowaniu otrzymasz fakturę z nieuregulowanym saldem pomniejszonym o wszelkie uznania.</span><span class="sxs-lookup"><span data-stu-id="b9c07-109">You will receive an invoice after cancellation with any outstanding balance minus any credits.</span></span>
+- <span data-ttu-id="b9c07-110">Subskrypcję odnowiono na nowy okres i zmieniła się cena licencji.</span><span class="sxs-lookup"><span data-stu-id="b9c07-110">Your subscription renewed for a new term and the license price changed.</span></span>
+- <span data-ttu-id="b9c07-111">Aby uzyskać więcej informacji na temat faktury, zobacz: [Opis faktury.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)</span><span class="sxs-lookup"><span data-stu-id="b9c07-111">For more information about your invoice, see:  [Understand your invoice.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)</span></span>
+- <span data-ttu-id="b9c07-112">Masz **problemy z przetwarzaniem płatności kartą kredytową**</span><span class="sxs-lookup"><span data-stu-id="b9c07-112">You have  **issues processing a credit card payment**</span></span>
+- <span data-ttu-id="b9c07-113">W **centrum administracyjnym**przejdź do strony **Rachunki rozliczeniowe**   >   **& płatności**Metody   >   **[płatności.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**</span><span class="sxs-lookup"><span data-stu-id="b9c07-113">In the  **admin center**, go to the  **Billing**  >  **Bills & payments**  >  **[Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)** page.</span></span> <span data-ttu-id="b9c07-114">Wybierz metodę płatności i sprawdź, czy imię i nazwisko, data ważności i adres są poprawne.</span><span class="sxs-lookup"><span data-stu-id="b9c07-114">Select your payment method and verify that the name, expiration date and address are correct.</span></span> <span data-ttu-id="b9c07-115">Aby uzyskać więcej informacji, zobacz [Rozwiązywanie problemów z metodami płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="b9c07-115">For more information, see  [Troubleshoot payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods).</span></span>
+
+- <span data-ttu-id="b9c07-116">Musisz **zmienić metodę płatności**.</span><span class="sxs-lookup"><span data-stu-id="b9c07-116">You need to  **change payment method**.</span></span> <span data-ttu-id="b9c07-117">Możesz [dodać,](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#add-a-payment-method) [zaktualizować,](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#update-payment-method-details) [zastąp](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#replace-a-payment-method) lub [usunąć](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#delete-a-payment-method) metodę płatności.</span><span class="sxs-lookup"><span data-stu-id="b9c07-117">You can [add](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#add-a-payment-method),  [update](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#update-payment-method-details),  [replace](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#replace-a-payment-method)  or  [delete](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#delete-a-payment-method)  a payment method.</span></span> <span data-ttu-id="b9c07-118">Aby dowiedzieć się więcej, zobacz [Zarządzanie metodami płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="b9c07-118">To learn more, see  [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).</span></span>
+- 
