@@ -12,15 +12,15 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
-ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.openlocfilehash: 74f8e9009dd314aab5ce45e9aeff3e3511e4e0c9
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44278830"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840912"
 ---
 # <a name="cannot-access-sharepoint"></a>Nie można uzyskać dostępu do programu SharePoint
 
-Istnieje kilka powodów, dla których program Microsoft SharePoint lub usługa Microsoft OneDrive mogą stać się niedostępne. Jeśli nie możesz uzyskać dostępu do usługi SharePoint Online, skorzystaj z poniższego przewodnika, aby rozwiązać ten problem.
+Istnieje kilka powodów, dla których program SharePoint lub OneDrive mogą stać się niedostępne. Jeśli nie możesz uzyskać dostępu do programu SharePoint lub onedrive, skorzystaj z poniższego przewodnika, aby rozwiązać ten problem.
 
-- [Nie można uzyskać dostępu do usługi SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
+- [Nie można uzyskać dostępu do programu SharePoint lub usługi OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
