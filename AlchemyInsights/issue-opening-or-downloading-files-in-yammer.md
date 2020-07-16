@@ -1,0 +1,36 @@
+---
+title: Problem z otwieraniem lub pobieraniem plików w usłudze Yammer
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 07/15/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "6041"
+- "9003112"
+ms.openlocfilehash: 6dfcbe9abfc23219a61e81785d31c11f7a0fa95c
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.translationtype: MT
+ms.contentlocale: pl-PL
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45148336"
+---
+# <a name="issue-opening-or-downloading-files-in-yammer"></a><span data-ttu-id="87e35-102">Problem z otwieraniem lub pobieraniem plików w usłudze Yammer</span><span class="sxs-lookup"><span data-stu-id="87e35-102">Issue opening or downloading files in Yammer</span></span>
+
+<span data-ttu-id="87e35-103">Usługa Classic Yammer obsługuje wiele opcji przekazywania plików do wiadomości i grup.</span><span class="sxs-lookup"><span data-stu-id="87e35-103">Classic Yammer supports multiple option for file uploads to messages and groups.</span></span> <span data-ttu-id="87e35-104">W zależności od konfiguracji sieci pliki domyślnie mają miejsce przechowywania w programie SharePoint.</span><span class="sxs-lookup"><span data-stu-id="87e35-104">Depending on network configuration, files default to storage in SharePoint.</span></span>
+
+<span data-ttu-id="87e35-105">Selektor plików w nowym usłudze Yammer nie obsługuje jeszcze wszystkich opcji dostępnych w klasycznym usłudze Yammer.</span><span class="sxs-lookup"><span data-stu-id="87e35-105">The file picker in new Yammer does not yet support all the options available in classic Yammer.</span></span> <span data-ttu-id="87e35-106">Przyszła aktualizacja doda dodatkowe funkcje.</span><span class="sxs-lookup"><span data-stu-id="87e35-106">A future update will add additional features.</span></span> <span data-ttu-id="87e35-107">Aby uzyskać więcej informacji, zobacz [Dołączanie pliku lub obrazu do posta konwersacji usługi Yammer](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-conversation-post-8d2d17f7-8f37-4535-961e-518d751be7e8).</span><span class="sxs-lookup"><span data-stu-id="87e35-107">For more info, see [Attach a file or image to a Yammer conversation post](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-conversation-post-8d2d17f7-8f37-4535-961e-518d751be7e8).</span></span>
+
+<span data-ttu-id="87e35-108">**Nie można otworzyć lub pobrać pliku**</span><span class="sxs-lookup"><span data-stu-id="87e35-108">**Unable to open or download a file**</span></span>  
+
+<span data-ttu-id="87e35-109">Plik może zostać przekazany do usługi Yammer, ale także łączyć się z plikiem w usłudze SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="87e35-109">A file might upload to Yammer but also be linking to a file in SharePoint Online.</span></span> <span data-ttu-id="87e35-110">Aby rozwiązać problem, należy najpierw określić lokalizację pliku.</span><span class="sxs-lookup"><span data-stu-id="87e35-110">To troubleshoot, first you must determine the location of the file.</span></span> <span data-ttu-id="87e35-111">Jeśli plik został przekazany do usługi Yammer, będzie miał \*.yammer.com adres URL.</span><span class="sxs-lookup"><span data-stu-id="87e35-111">If the file has been uploaded to Yammer, it will have a \*.yammer.com URL.</span></span> <span data-ttu-id="87e35-112">Upewnij się, że wymagane adresy URL i adresy IP są odblokowane.</span><span class="sxs-lookup"><span data-stu-id="87e35-112">Ensure that required URLs and IP addresses are unblocked.</span></span> <span data-ttu-id="87e35-113">Aby uzyskać więcej informacji, zobacz wpis w blogu [Używanie zakodowanych na czas adresów IP usługi Yammer nie jest zalecane.](https://techcommunity.microsoft.com/t5/yammer-blog/using-hard-coded-ip-addresses-for-yammer-is-not-recommended/ba-p/276592)</span><span class="sxs-lookup"><span data-stu-id="87e35-113">For more info, see the blog post [Using hard coded IP addresses for Yammer is not recommended](https://techcommunity.microsoft.com/t5/yammer-blog/using-hard-coded-ip-addresses-for-yammer-is-not-recommended/ba-p/276592).</span></span>
+
+<span data-ttu-id="87e35-114">Sprawdź, czy użytkownik, który jest również administratorem globalnym, może pobrać plik.</span><span class="sxs-lookup"><span data-stu-id="87e35-114">Check whether a user who is also a global admin can download the file.</span></span> <span data-ttu-id="87e35-115">Jeśli plik jest prywatny, może być trzeba użyć trybu zawartości prywatnej.</span><span class="sxs-lookup"><span data-stu-id="87e35-115">If the file is private, you might have to use Private Content Mode.</span></span> <span data-ttu-id="87e35-116">Aby uzyskać więcej informacji, zobacz następnie [monitorowanie zawartości prywatnej w usłudze Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/monitor-private-content).</span><span class="sxs-lookup"><span data-stu-id="87e35-116">For more info, see then [Monitor private content in Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/monitor-private-content).</span></span>  
+
+<span data-ttu-id="87e35-117">**Goście i pliki na poziomie sieci Yammer w usłudze SharePoint Online**</span><span class="sxs-lookup"><span data-stu-id="87e35-117">**Yammer network-level guests and files in SharePoint Online**</span></span>  
+
+<span data-ttu-id="87e35-118">[Goście na poziomie sieci w usłudze Yammer](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#invite-guests) nie korzystają z usługi Azure AD B2B i są wewnętrzni usługi Yammer, więc nie mogą uzyskać dostępu do plików usługi Yammer przechowywanych w programie SharePoint.</span><span class="sxs-lookup"><span data-stu-id="87e35-118">[Network-level guests in Yammer](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#invite-guests) do not use Azure AD B2B and are internal to the Yammer service, so they can't access Yammer files stored in SharePoint.</span></span> <span data-ttu-id="87e35-119">Utwórz zewnętrznego użytkownika usługi AAD B2B, który może uzyskiwać dostęp do bibliotek dokumentów w usłudze SharePoint Online przy użyciu tej tożsamości.</span><span class="sxs-lookup"><span data-stu-id="87e35-119">Create an external AAD B2B user who can access document libraries in SharePoint Online by using that identity.</span></span> <span data-ttu-id="87e35-120">Aby uzyskać informacje na temat przyszłej obsługi gości usługi Azure AD B2B w usłudze Yammer, zobacz [Obsługa gościa między przedsiębiorstwami (B2B) w usłudze Yammer Preview — warunki dla klientów i często zadawane pytania](https://docs.microsoft.com/yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer).</span><span class="sxs-lookup"><span data-stu-id="87e35-120">For information about future Azure AD B2B guest support in Yammer, see [Business-to-business (B2B) Guest support in Yammer Preview - Customer Terms and FAQ](https://docs.microsoft.com/yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer).</span></span>
