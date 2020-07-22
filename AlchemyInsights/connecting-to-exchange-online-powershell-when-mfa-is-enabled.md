@@ -13,15 +13,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5a067cf5981e08c5938a48659a5254c43df17dcb
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705815"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205313"
 ---
 # <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Łączenie się z programem Exchange Online PowerShell po włączeniu usługi MFA
 
-Jeśli na twoim koncie jest włączone uwierzytelnianie wieloskładnikowe (MFA), należy postępować zgodnie z tymi instrukcjami, aby połączyć się z programem Exchange Online PowerShell: [Łączenie się z programem Exchange Online PowerShell przy użyciu uwierzytelniania wieloskładnikowego](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).
-
-**Uwaga:** Nawet jeśli w przeszłości nawiązano połączenie z programem Exchange Online PowerShell przy użyciu [instrukcji dotyczących zwykłego połączenia,](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)należy użyć instrukcji połączenia usługi MFA po włączeniu usługi MFA dla twojego konta.
+Jeśli na twoim koncie jest włączone uwierzytelnianie wieloskładnikowe (MFA), należy postępować zgodnie z tymi instrukcjami, aby połączyć się z programem Exchange Online PowerShell: [Użyj programu Exchange Online PowerShell z nowoczesnym uwierzytelnianiem przy użyciu modułu V2](https://aka.ms/exops-docs). Wyszukaj instrukcje uwierzytelniania wieloskładnikowego / Wieloskładnikowe na tej stronie.

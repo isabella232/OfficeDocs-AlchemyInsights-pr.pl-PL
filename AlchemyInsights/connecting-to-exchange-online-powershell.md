@@ -13,13 +13,13 @@ ms.custom:
 - "760"
 - "3500011"
 ms.assetid: 0f9e4dc5-1e06-4941-860b-4474a6f63247
-ms.openlocfilehash: 7b7e717a6f5946fc50c762a9e353c6d975c3589b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8fd927e33544ddae4283af00c7e09738d4bab778
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705779"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205241"
 ---
 # <a name="connect-to-exchange-online-powershell"></a>Łączenie się z programem Exchange Online PowerShell
 
-Aby używać programu PowerShell w usłudze Exchange Online, zobacz [Łączenie się z programem Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
+Aby używać programu PowerShell w usłudze Exchange Online, zobacz [Korzystanie z programu Exchange Online PowerShell z nowoczesnym uwierzytelnianiem przy użyciu modułu V2](https://aka.ms/exops-docs).
