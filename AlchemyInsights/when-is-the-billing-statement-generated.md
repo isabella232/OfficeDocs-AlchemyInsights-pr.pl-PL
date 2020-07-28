@@ -2,8 +2,8 @@
 title: Kiedy jest generowana instrukcja rozliczeniowa?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 3e43df09e2a3419534fca1d595efc14dbdfdeae1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 59d122ab05a6c7bee347fad4c3b5e541380dd58d
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510402"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431227"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>Kiedy jest generowana instrukcja rozliczeniowa
 
-Co miesiąc otrzymasz wiadomość e-mail z powiadomieniem, że nowe oświadczenie rozliczeniowe jest dostępne w centrum administracyjnym usługi Microsoft 365. Faktura ma dwie strony. Strona 1 przedstawia podsumowanie faktury i zawiera informacje ogólne o fakturze, zamówieniu, kwocie należności, sposobie dokonywania płatności i sposobie kontaktowania się z pomocą techniczną. Strona 2 zawiera szczegółowe informacje o rozliczeniu poszczególnych subskrypcji.
+Data wyciągu jest ustawiona na dzień miesiąca po utworzeniu konta. Jeśli na przykład konto zostało utworzone 20 stycznia, data wyciągu zostanie ustawiona na 21 na każdy kolejny miesiąc.
+
+Dodatkowe opłaty, które występują podczas aktywnego cyklu rozliczeniowego, są uwzględniane w fakturze za następny miesiąc. Daty rozpoczęcia i zakończenia cyklu rozliczeniowego dla każdej faktury są wyświetlane w **podsumowaniu rozliczeniowym** faktury.
+
+Płatności kartą kredytową i/lub kontem bankowym (w stosownych przypadkach) są rozliczane w dniu po **dacie faktury.**
   
-Aby dowiedzieć się więcej o pojęciach dotyczących rozliczeń, zobacz [Opis faktury](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Aby dowiedzieć się więcej, zobacz [Opis faktury](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
