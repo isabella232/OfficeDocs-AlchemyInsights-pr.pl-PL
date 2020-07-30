@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508818"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522853"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Zwiększanie rozmiaru archiwalnej skrzynki pocztowej
+
+
+Jeśli chcesz, abyśmy uruchamiali automatyczne kontrole ustawień wymienionych poniżej, wybierz przycisk Wstecz < - u góry tej strony, a następnie wprowadź adres e-mail użytkownika, który potrzebuje zwiększenia rozmiaru archiwalnej skrzynki pocztowej.
 
 Usługa Microsoft 365 [ogranicza](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) rozmiar archiwalnych skrzynek pocztowych na podstawie licencji przypisanej do konta użytkownika. Gdy archiwizalnej skrzynki pocztowej osiągnie 90% dozwolonego rozmiaru, użytkownik otrzymuje powiadomienie e-mail. Gdy archiwalnej skrzynki pocztowej osiągnie limit rozmiaru, użytkownik nie może przenieść więcej elementów do archiwalnej skrzynki pocztowej. Usługa Microsoft 365 nie zwiększa rozmiaru archiwalnej skrzynki pocztowej po osiągnięciu limitu rozmiaru. Zamiast tego użytkownicy mogą podjąć następujące działania, aby zwolnić miejsce w archiwalnej skrzynce pocztowej:
 
