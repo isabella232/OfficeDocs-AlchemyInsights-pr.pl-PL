@@ -1,5 +1,5 @@
 ---
-title: 976-how-to-enable-litigation-hold
+title: 976-instrukcje-to-Włącz-postępowanie sądowe-Hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: fe21746110ed2cb99fb13563c84c966e277fc70c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 56620e4795649d55181305b7b8c0a9d28c83e977
+ms.sourcegitcommit: 61308045a58252764f6378bbeb8802b6d2ff6c0b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495823"
+ms.lasthandoff: 08/08/2020
+ms.locfileid: "46596757"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Wstrzymanie skrzynki pocztowej
+# <a name="place-a-mailbox-on-legal-hold"></a>Umieszczanie skrzynki pocztowej w ramach prawnej blokady
 
-- Aby umieścić skrzynkę pocztową w blokadę sądową lub wstrzymanie w miejscu, wymagana jest licencja exchange online plan 2 na plan [2 usługi Exchange Online Plan 2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Jeśli do skrzynki pocztowej przypisano licencję planu 1, można przypisać osobną licencję dodatku Exchange Online [Do archiwizacji dodatku Exchange Online .](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)
+- Aby umieścić skrzynkę pocztową w ramach zatrzymywania sporu lub blokady miejscowej, wymagana jest [licencja](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Exchange Online (plan 2) z licencją Exchange Online. Jeśli do skrzynki pocztowej jest przypisana Licencja na plan 1, możesz przypisać osobną [licencję dodatku archiwizacji](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)usługi Exchange Online w trybie archiwizacji online.
 
-- Aby włączyć wstrzymanie postępowania sądowego dla pojedynczego użytkownika, [wykonaj następujące kroki](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold). Gdy wstrzymanie postępowania sądowego jest włączone, cała zawartość skrzynki pocztowej jest zachowywana.
+- Aby włączyć przytrzymywanie działań sądowych dla jednego użytkownika, [wykonaj poniższe czynności](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold). W przypadku włączenia blokady sądowej cała zawartość skrzynki pocztowej jest zachowywana.
 
-- Aby zachować zawartość we wszystkich skrzynkach pocztowych w organizacji, można użyć [zasad przechowywania w całej organizacji](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Należy zauważyć, że w przypadku zasad przechowywania w całej organizacji nowi użytkownicy zostaną automatycznie przypisani do zasad.
+- Aby zachować zawartość we wszystkich skrzynkach pocztowych w organizacji lub utworzyć inne typy blokad przechowywania, użyj zasad lub etykiet przechowywania. Uwaga: w przypadku zasad przechowywania na poziomie organizacji nowe użytkownicy są automatycznie przypisywane do zasad. Aby uzyskać więcej informacji, zobacz [Informacje o zasadach przechowywania i etykietach przechowywania](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). 
