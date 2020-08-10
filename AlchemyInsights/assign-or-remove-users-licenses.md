@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 19dab63d93c4cb6b600e39f38bc1619f1359939c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 95a2dea28c951fbec3c4818ceb48e7d4e5cbb0e3
+ms.sourcegitcommit: 409cb0b2f43dad077d812b3459cd39ad00c17754
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506381"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46603420"
 ---
-# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="d78d7-102">Przypisywanie lub usuwanie licencji użytkowników</span><span class="sxs-lookup"><span data-stu-id="d78d7-102">Assign or remove users' licenses</span></span>
+# <a name="assign-or-remove-user-licenses"></a><span data-ttu-id="b8112-102">Przypisywanie lub usuwanie licencji użytkowników</span><span class="sxs-lookup"><span data-stu-id="b8112-102">Assign or remove user licenses</span></span>
 
-<span data-ttu-id="d78d7-103">Jako administrator możesz w razie potrzeby dostosować licencje użytkowników.</span><span class="sxs-lookup"><span data-stu-id="d78d7-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="d78d7-104">Poniższe artykuły pokazują, jak zarządzać licencjami użytkowników, w tym:</span><span class="sxs-lookup"><span data-stu-id="d78d7-104">The articles below will show you how to manage your users' licenses, including:</span></span>
+<span data-ttu-id="b8112-103">Jako administrator możesz dostosować licencje użytkowników stosownie do potrzeb.</span><span class="sxs-lookup"><span data-stu-id="b8112-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="b8112-104">W poniższych artykułach pokazano, jak zarządzać licencjami użytkowników:</span><span class="sxs-lookup"><span data-stu-id="b8112-104">These articles show you how to manage your user licenses:</span></span>
   
-- [<span data-ttu-id="d78d7-105">Przypisywanie licencji użytkownikom w usłudze Microsoft 365 dla firm</span><span class="sxs-lookup"><span data-stu-id="d78d7-105">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [<span data-ttu-id="b8112-105">Przypisywanie licencji do użytkowników w programie Microsoft 365 dla firm</span><span class="sxs-lookup"><span data-stu-id="b8112-105">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context)
 
-- [<span data-ttu-id="d78d7-106">Niepodanuj przypisywania licencji użytkownikom usługi Microsoft 365 dla firm</span><span class="sxs-lookup"><span data-stu-id="d78d7-106">Unassign licenses from users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [<span data-ttu-id="b8112-106">Cofanie przypisania licencji użytkownikom w programie Microsoft 365 dla firm</span><span class="sxs-lookup"><span data-stu-id="b8112-106">Unassign licenses from users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context#remove-a-license)
 
-<span data-ttu-id="d78d7-107">Nie odpowiedziałeś na twoje pytanie?</span><span class="sxs-lookup"><span data-stu-id="d78d7-107">Didn't answer your question?</span></span> <span data-ttu-id="d78d7-108">Nie ma sprawy!</span><span class="sxs-lookup"><span data-stu-id="d78d7-108">No problem!</span></span> <span data-ttu-id="d78d7-109">Użyj przycisku "Potrzebujesz pomocy", aby porozmawiać z inżynierem pomocy technicznej.</span><span class="sxs-lookup"><span data-stu-id="d78d7-109">Use the "Need help" button to talk to a support engineer.</span></span>
+<span data-ttu-id="b8112-107">Nie udzielono odpowiedzi na Twoje pytanie?</span><span class="sxs-lookup"><span data-stu-id="b8112-107">Didn't answer your question?</span></span> <span data-ttu-id="b8112-108">Nie ma sprawy!</span><span class="sxs-lookup"><span data-stu-id="b8112-108">No problem!</span></span> <span data-ttu-id="b8112-109">Użyj przycisku "potrzebujesz pomocy", aby rozmawiać z inżynierem pomocy technicznej.</span><span class="sxs-lookup"><span data-stu-id="b8112-109">Use the "Need help" button to talk to a support engineer.</span></span>
