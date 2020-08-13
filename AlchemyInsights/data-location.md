@@ -10,27 +10,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: c769c17796d805f88afb4d5b32adb7d4a9bb3ce0
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 571c82d47bea7ca34a204ddd6fc89b7657808a23
+ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43655292"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665508"
 ---
 # <a name="data-location"></a>Lokalizacja danych
 
-Lokalizację dzierżawy można wyświetlić w centrum administracyjnym lub łącząc się z usługą Exchange Online za pośrednictwem programu PowerShell.
+Lokalizację dzierżawy możesz wyświetlić w centrum administracyjnym, przechodząc do [strony **profil organizacji** ](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) i wybierając pozycję **Lokalizacja danych**.
 
-
-**Centrum administracyjne:**
-1. Zaloguj się do [centrum administracyjnego](https://admin.microsoft.com/Adminportal/Home).
-2. Wybierz **pozycję Ustawienia** > **profilu organizacji**.
-3. W obszarze **Lokalizacja danych**wybierz pozycję **Wyświetl szczegóły**.
-
-
-**Powershell:**
-1. Połącz się z usługą Exchange Online przy użyciu programu Windows PowerShell.
-2. Wykonaj polecenie cmdlet [Get-OrganizationalUnit,](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) aby wyświetlić listę właściwości dzierżawy. 
-3. Spójrz na OrganizationId właściwości.
-
-Jeśli masz lokalizację danych dla EXO i SPO, możesz określić lokalizację danych dla innych usług, z których można korzystać, z [miejsca, w którym znajdują się dane.](https://products.office.com/where-is-your-data-located)
+W przypadku aplikacji, których nie subskrybujesz, zobacz [gdzie są przechowywane dane klienta programu Microsoft 365](https://docs.microsoft.com/office365/enterprise/o365-data-locations).
