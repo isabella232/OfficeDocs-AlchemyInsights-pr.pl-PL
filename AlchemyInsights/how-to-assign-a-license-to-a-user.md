@@ -1,8 +1,8 @@
 ---
-title: Przypisywanie lub nieprzypisywać licencji użytkownikom
+title: Przypisywanie lub anulowanie przypisania licencji użytkownikom
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,20 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2c3b11d51a2b5895c8d90ebef27121561f221334
+ms.sourcegitcommit: 69cf3c185e03a4b1da35c5ca492ee6c74a5d739a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495997"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46657077"
 ---
-# <a name="assign-or-unassign-licenses-to-users"></a>Przypisywanie lub nieprzypisywać licencji użytkownikom
+# <a name="assign-or-unassign-licenses-to-users"></a>Przypisywanie lub anulowanie przypisania licencji użytkownikom
 
-Użytkownik potrzebuje licencji, aby mieć dostęp do usług. Poniżej przedstawiono kroki, aby **dodać, zmienić lub usunąć** licencję od użytkownika.
+Użytkownik potrzebuje licencji na dostęp do usług. Poniżej przedstawiono procedurę przypisywania licencji do użytkownika lub cofania jej przypisania.
   
-1. W centrum administracyjnym przejdź do **pozycji Użytkownicy** \> [aktywni użytkownicy](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. W centrum administracyjnym przejdź do obszaru **Użytkownicy** \> [aktywni](https://go.microsoft.com/fwlink/p/?linkid=834822)użytkownicy.
+2. Zaznacz wiersz użytkownika, któremu chcesz przypisać licencję.
+3. W okienku po prawej stronie wybierz pozycję **Licencje i aplikacje**.
+4. Rozwiń sekcję **licencje** , zaznacz lub wyczyść pola wyboru dla licencji, które chcesz przypisać lub cofnąć przypisanie, a następnie wybierz pozycję **Zapisz zmiany**.
 
-2. Wybierz nazwę użytkownika, dla którego chcesz przypisać, zmienić lub usunąć licencję.
-
-3. Kliknij **pozycję Zarządzaj licencjami produktów**i wybierz licencję, którą chcesz przypisać temu użytkownikowi.
-
-    Domyślnie do użytkownika są automatycznie przypisywane wszystkie usługi skojarzone z tą licencją. Aby ograniczyć, które usługi są dostępne dla użytkownika, wyczyść pole wyboru dla usług, których nie chcesz mieć tego użytkownika.
-
-4. U dołu okienka kliknij pozycję **Zapisz zmiany**.
-
-Aby uzyskać więcej informacji, zobacz [Przypisywanie licencji użytkownikom](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)i [Usuwanie licencji od użytkowników](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user).
+Aby uzyskać więcej informacji, zobacz [Przypisywanie licencji użytkownikom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)i cofanie [przypisania licencji użytkownikom](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
