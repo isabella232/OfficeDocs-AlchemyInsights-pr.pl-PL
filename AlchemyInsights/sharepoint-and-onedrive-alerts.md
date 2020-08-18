@@ -1,7 +1,7 @@
 ---
-title: Opóźnienia w odbieraniu alertów w programie SharePoint i OneDrive
-ms.author: v-todmc
-author: todmccoy
+title: Opóźnienia w otrzymywaniu alertów programu SharePoint i usługi OneDrive
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 7f1033cec3abec782d1eee3b32128c4c60778913
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 92e517ae6e83aa91b9838047ec77759dc893bc57
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563520"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785675"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Opóźnienia w odbieraniu alertów w programie SharePoint i OneDrive
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Opóźnienia w otrzymywaniu alertów programu SharePoint i usługi OneDrive
 
-- Najpierw sprawdź folder Wiadomości-śmieci lub Spam w wiadomości e-mail.
-- Jeśli **wszystkie alerty z wielu plików lub bibliotek są opóźnione,** odwiedź [pulpit nawigacyjny kondycji usługi,](https://portal.office.com/adminportal/home?ref=/servicehealth) aby sprawdzić, czy nie ma żadnych porad/incydentów, które mogą występować w programie SharePoint lub Exchange. Problem może dotyczyć funkcji alertu programu SharePoint lub opóźnień w wiadomościach e-mail za pośrednictwem programu Exchange. Zwróć również uwagę, czy inna wiadomość e-mail jest dostarczana — jeśli nie, problem jest prawdopodobnie opóźniany w programie Exchange.
-- Jeśli **pojedynczy alert z określonego pliku lub biblioteki nie zostanie dostarczony,** spróbuj go usunąć i ponownie utworzyć. Aby odtworzyć [alert, zobacz Zarządzanie, wyświetlanie lub usuwanie alertów programu SharePoint.](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2)
+- Najpierw sprawdź folder wiadomości-śmieci lub spam w wiadomości e-mail.
+- Jeśli **wszystkie alerty z wielu plików lub bibliotek są opóźnione**, odwiedź [pulpit nawigacyjny kondycja usługi](https://portal.office.com/adminportal/home?ref=/servicehealth) , aby sprawdzić, jakie klasyfikatory/incydenty mogą wystąpić w programie SharePoint lub programie Exchange. Problem może dotyczyć funkcji alertów programu SharePoint lub opóźnień w wiadomościach e-mail za pośrednictwem programu Exchange. Sprawdź także, czy jest dostarczany inny adres e-mail — Jeśli nie, prawdopodobnie problem dotyczy opóźnień programu Exchange.
+- Jeśli **pojedynczy alert z określonego pliku lub biblioteki nie jest dostarczany**, spróbuj go usunąć i utworzyć ponownie. Zobacz [Zarządzanie, wyświetlanie lub usuwanie alertów programu SharePoint](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) w celu ponownego utworzenia alertu.
 
 > [!NOTE]
-> - Alertów nie można wysyłać do grupy dystrybucyjnej. Obsługiwane są tylko grupy zabezpieczeń i O365.
-> - Nie można dostosować szablonów alertów wiadomości e-mail. Aby je osiągnąć, należy użyć usługi Microsoft Flow lub SharePoint Designer Workflow.
+> - Nie można wysyłać alertów do grupy dystrybucyjnej. Obsługiwane są tylko grupy zabezpieczeń i usługi Office 365.
+> - Nie można dostosowywać szablonów wiadomości e-mail dotyczących alertów. Aby uzyskać te zmiany, należy użyć przepływu pracy Microsoft Flow lub SharePoint Designer.

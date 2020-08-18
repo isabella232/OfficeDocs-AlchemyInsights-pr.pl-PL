@@ -1,7 +1,7 @@
 ---
 title: Tworzenie witryny programu SharePoint
 ms.author: pebaum
-author: todmccoy
+author: pebaum
 ms.audience: Admin
 ms.topic: article
 ms.collection: Adm_O365
@@ -14,19 +14,19 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: e1e71ae9401448ed18058f6307302dcbaf773649
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: ba682f3c2b2600031f6856621691b1e0fba64113
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770865"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786575"
 ---
 # <a name="create-a-sharepoint-site"></a>Tworzenie witryny programu SharePoint
 
-Tworzenie witryn [aktywnych](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) witryn w Centrum administracyjnym programu SharePoint lub zarządzanie nimi. Aby uzyskać więcej informacji, zobacz [Zarządzanie witrynami w nowym centrum administracyjnym programu SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation). 
+Tworzenie witryn i zarządzanie nimi z [aktywnych witryn](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) w centrum administracyjnym programu SharePoint. Aby uzyskać więcej informacji, zobacz [Zarządzanie witrynami w nowym centrum administracyjnym programu SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation). 
 
-## <a name="tips"></a>Porady:
+## <a name="tips"></a>Końcówk
 
-- Nie **można** utworzyć witryny o tym samym adresie URL istniejącej witryny. Jeśli witryna została usunięta i chcesz ponownie użyć adresu URL, możliwe, że usunięta witryna nadal istnieje w obszarze [Witryny usunięte.](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) Aby ponownie użyć adresu URL, witryna będzie musiała zostać trwale usunięta. Aby całkowicie usunąć witrynę za pomocą programu PowerShell, zobacz przykład polecenia cmdlet [usuń spsite.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
-- Niektórzy użytkownicy mogą nie być w stanie utworzyć witryny. [Zobacz Zarządzanie tworzeniem witryny w usłudze SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- Możliwe, że witryna pojawi się utknęła w **tworzeniu** dłużej niż oczekiwano. Jeśli od pierwszego ostrzeżenia ten problem upłynęło więcej niż 24 godziny, zaloguj się na bilet pomocy technicznej. W wielu przypadkach pracujemy już nad rozwiązaniem. Proszę dać nam co najmniej 24 godziny na uzupełnienie rozwiązania.
+- **Nie można** utworzyć witryny o tym samym adresie URL istniejącej witryny. Jeśli witryna została usunięta i chcesz ponownie użyć adresu URL, usunięta witryna nadal będzie dostępna w obszarze [usunięte witryny](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). Aby ponownie użyć adresu URL, witryna musi zostać trwale usunięta. Aby całkowicie usunąć witrynę za pomocą programu PowerShell, zobacz przykład polecenia cmdlet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
+- Niektóre użytkownicy mogą nie być w stanie utworzyć witryny. [Zobacz Zarządzanie tworzeniem witryn w usłudze SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- Możliwe, że witryna jest zablokowana w przypadku dłuższego **tworzenia** . Jeśli od momentu pierwszego uruchomienia tego problemu minęło więcej niż 24 godziny, zarejestruj bilet pomocy technicznej. W wielu przypadkach jesteśmy już nad rozwiązaniem. Przekaż nam co najmniej 24 godziny na zakończenie rozwiązania.
