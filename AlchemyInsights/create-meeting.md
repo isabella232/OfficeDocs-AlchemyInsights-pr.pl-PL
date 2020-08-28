@@ -1,5 +1,5 @@
 ---
-title: Tworzenie spotkania
+title: Planowanie spotkania w aplikacji Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 6936138804ad8f09caccce7c3673475851f765ae
-ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
+ms.openlocfilehash: 185024e40391b8a03d3cde5540eb1c18a950163c
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43105357"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47290065"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Planowanie spotkania w zespołach
+# <a name="schedule-a-meeting-in-teams"></a>Planowanie spotkania w aplikacji Teams
 
-**Ważne:** Jeśli masz problemy z utworzeniem spotkania lub nie możesz znaleźć opcji spotkania w programie Teams, upewnij się, że użytkownicy, których dotyczy problem, [są licencjonowani dla skrzynki pocztowej usługi Exchange Online, a skrzynka pocztowa jest włączona.](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes)
+**Ważne** Jeśli masz problemy z tworzeniem spotkania lub nie możesz znaleźć opcji spotkania w aplikacji Teams, upewnij się, że użytkownicy, których dotyczy problem, mają włączoną skrzynkę pocztową programu Exchange w obsługiwanej wersji aplikacji Microsoft Teams. Gdy jest zalecana usługa Exchange Online, lokalne skrzynki pocztowe programu Exchange są obsługiwane w programie Exchange Server 2016 CU3 lub nowszej wersji z pomyślnie skonfigurowanym uwierzytelnianiem OAuth w trybie online i lokalnie. Aby uzyskać więcej informacji, zobacz [Tworzenie skrzynek pocztowych użytkowników w usłudze Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) i [wymagania dotyczące skrzynek pocztowych hostowanych lokalnie](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
 
-Spotkanie można zaplanować na dwa sposoby: 
+1. Możesz zaplanować spotkanie, wybierając:
 
-- Wybierz **ikonę Zaplanuj spotkanie** na czacie (znajduje się poniżej pola kompozycji), aby zarezerwować spotkanie z osobami na czacie.
-- Wybierz ikonę **Kalendarz** po lewej stronie aplikacji i wybierz pozycję **Nowe spotkanie** w prawym górnym rogu lub wybierz zakres czasu w kalendarzu, aby otworzyć formularz planowania.
+    - **Zaplanuj ikonę spotkania** w oknie czatu poniżej pola redagowania, aby zaksięgować spotkanie z osobami z czatu.
 
-Podobnie jak w planowaniu spotkania w programie Outlook, nadasz tytuł spotkania, zaprosisz inne osoby i dodasz szczegóły spotkania.
+    - Ikona **kalendarza** po lewej stronie aplikacji. Wybierz pozycję **nowe spotkanie** w prawym najprawidłowym obszarze lub wybierz zakres czasu w kalendarzu, aby otworzyć formularz planowania.
 
-Po prawej stronie formularza planowania można dodać kanał lub poszczególne osoby lub pozostawić obie puste, aby zaplanować spotkanie prywatne.
+2. Podobnie do planowania spotkania w programie Outlook, użytkownik przedstawia swojemu spotkaniu tytuł, Zapraszanie osób i Dodawanie szczegółów spotkań.
 
-- Aby uzyskać więcej informacji na temat tworzenia i planowania spotkań w usłudze Microsoft Teams, zobacz [Planowanie spotkania w programie Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+3. Po prawej stronie formularza planowania możesz dodać kanał lub pojedyncze osoby lub pozostawić to pole puste, aby zaplanować termin prywatny.
 
-- Aby uzyskać limity i specyfikacje dotyczące spotkań, zobacz [Limity i specyfikacje dla usługi Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+Aby uzyskać więcej informacji na temat tworzenia i planowania spotkań w aplikacji Microsoft Teams, zobacz [Planowanie spotkania w aplikacji Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+
+Aby uzyskać więcej informacji na temat ograniczeń i specyfikacji dotyczących spotkań, zobacz [limity i specyfikacje dotyczące aplikacji Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+
+Aby uzyskać pomoc w rozwiązywaniu problemów dotyczących zespołów i programów Exchange, szczególnie w przypadku problemów z planowaniem delegowania, zobacz [Rozwiązywanie problemów z interakcją Microsoft Teams i Exchange](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

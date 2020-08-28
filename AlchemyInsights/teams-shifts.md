@@ -1,5 +1,5 @@
 ---
-title: Zmiany w drużynach
+title: Zmiany w zespołach
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -10,18 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "1686"
+- "6251"
 - "9000161"
-ms.openlocfilehash: cbd5363ba153299e0af2133858a49544a6c6c75c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0ea563c152f3241e3ce81bad038bd49775ad1d13
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43737462"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47289993"
 ---
-# <a name="using-teams-shifts"></a>Korzystanie z przesunięć zespołów
+# <a name="using-teams-shifts"></a>Korzystanie z aplikacji Team Shift
 
-Aby dowiedzieć się więcej o zmianach dla zespołów, w tym o migracji z witryny Microsoft Staffhub, zobacz [Zmiany dla zespołów](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). 
+Aby uzyskać informacje o zarządzaniu aplikacją zmiany, w tym o sposobie konfigurowania zmian, włączania zmian dla użytkowników i zarządzaniu aplikacją zmiany, zobacz:
+ 
+- [Zarządzaj aplikacją zmiany w organizacji w aplikacji Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
+- [Włączanie lub wyłączanie zmian dla określonych użytkowników w organizacji](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
 
-Microsoft Staffhub przejdzie na [emeryturę](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) 31 grudnia 2019 roku. 
+Aby dowiedzieć się więcej na temat zmian w aplikacji Teams, w tym do zarządzania harmonogramem zmian zobacz [zmiany w programie Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+
+**Obowiązuje 30 czerwca 2020**r., pakiet Microsoft Staffhub został wycofany. Aby uzyskać więcej informacji, zobacz [pakiet Microsoft StaffHub został wycofany](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
 
