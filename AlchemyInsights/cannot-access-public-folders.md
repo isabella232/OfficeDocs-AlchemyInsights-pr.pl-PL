@@ -11,25 +11,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
-ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
+ms.openlocfilehash: d63a193585cb73c2ce8e160d413db4e837100d33
+ms.sourcegitcommit: d3ace2376195d54229ee1e232daf8133ba4e58a9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42891759"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47341413"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Program Outlook nie może łączyć się z folderami publicznymi
+# <a name="outlook-cannot-connect-to-public-folders"></a>Program Outlook nie może połączyć się z folderami publicznymi
 
-Jeśli dostęp do folderów publicznych nie działa dla niektórych użytkowników, spróbuj wykonać następujące czynności:
+Jeśli dostęp do folderu publicznego nie działa w przypadku niektórym użytkownikom, spróbuj wykonać następujące czynności:
 
-Połącz się z exo powershell i skonfiguruj parametr DefaultPublicFolderMailbox na koncie użytkownika problematycznych, aby dopasować go do parametru na działającym koncie użytkownika.
+Nawiązywanie połączenia z programem EXO programu PowerShell i Konfigurowanie parametru DefaultPublicFolderMailbox na koncie użytkownika z problemem w celu dopasowania go do parametru na działającym koncie użytkownika.
 
-Przykład:
+Przykłady
 
-Get-MailBox WorkingUser | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox ft DefaultPublicFolderMailbox
+Get-Skrzynka pocztowa WorkingUser | FT DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
 
-Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<wartość z poprzedniego polecenia>
+Set-Mailbox ProblemUser-DefaultPublicFolderMailbox \<value from previous command>
 
-Poczekaj co najmniej godzinę, aż zmiana wejdzie w życie.
+Odczekaj co najmniej godzinę, aby zmiana została uwzględniona.
 
-Jeśli problem występuje, wykonaj [tę procedurę,](https://aka.ms/pfcte) aby rozwiązać problemy z dostępem do folderów publicznych za pomocą programu Outlook.
+Jeśli problem nadal występuje, wykonaj poniższą [procedurę](https://aka.ms/pfcte) , aby rozwiązać problemy z dostępem do folderów publicznych przy użyciu programu Outlook.
+ 
+**Aby określić, którzy użytkownicy mogą uzyskiwać dostęp do folderów publicznych przy użyciu programu Outlook**:
+
+1.  Użyj ustawień-Casmailboxhttps <mailboxname> -PublicFolderClientAccess $true lub $false  
+      
+    $true: Zezwalaj użytkownikom na dostęp do folderów publicznych w programie Outlook  
+      
+    $false: uniemożliwić użytkownikom dostęp do folderów publicznych w programie Outlook. Jest to wartość domyślna.  
+        
+2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
+      
+**Uwaga** Ta procedura może kontrolować połączenia tylko z aplikacją pulpitową programu Outlook dla klientów systemu Windows. Użytkownik może nadal uzyskiwać dostęp do folderów publicznych przy użyciu programu OWA lub Outlook dla komputerów Mac.
+ 
+Aby uzyskać więcej informacji, zobacz [ogłaszanie obsługi połączeń sterowanych z folderami publicznymi w programie Outlook](https://aka.ms/controlpf).
