@@ -2,7 +2,7 @@
 title: Informacje o fakturze i płatności
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "485"
 - "1500018"
-ms.openlocfilehash: 650a74eef9e2e2051c99e78b8ec1c7e8a35d3048
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: c9716c4da16f085aabe5124a6ea36bd812fe7e6b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579983"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364777"
 ---
 # <a name="invoice-and-payment-information"></a>Informacje o fakturze i płatności
 
 **Płatności**
 
-Kupując subskrypcję usługi Microsoft 365 dla firm bezpośrednio od firmy Microsoft, możesz płacić kartą kredytową lub debetową.  W niektórych krajach/regionach można również płacić za pomocą konta bankowego.  Możesz nauczyć się zarządzać tymi metodami płatności i rozwiązywać je z [opcji Dodaj, aktualizuj lub usuń kartę kredytową lub inną opcję płatności dla usługi Microsoft 365 dla firm.](https://go.microsoft.com/fwlink/?linkid=2118133)  Obejmuje to rozwiązywanie problemów po odrzuceniu karty kredytowej i aktualizowanie informacji o płatności.
+Kupując subskrypcję Microsoft 365 dla firm bezpośrednio z firmy Microsoft, możesz zapłacić za pomocą karty kredytowej lub debetowej.  W niektórych krajach/regionach możesz również zapłacić za pomocą konta bankowego.  Możesz dowiedzieć się, jak zarządzać metodami płatności i rozwiązywać ich problemy, korzystając z sekcji [Zarządzanie metodami płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods). Dotyczy to rozwiązywania problemów po odrzuceniu karty kredytowej i zaktualizowaniu informacji o płatnościach.
 
 **Faktura/rachunek**
 
-Faktury można znaleźć i pobrać na stronie **płatności > rachunki rozliczeniowe [&.](https://go.microsoft.com/fwlink/p/?linkid=848039) **  
+Faktury można znaleźć i pobrać na stronie **rozliczenia**  >  [rachunki & płatności](https://go.microsoft.com/fwlink/p/?linkid=848039) .  
 
-**Uwaga:** Jeśli nie są widoczne żadne faktury, może być konieczne dostosowanie filtru zakresu dat.  Domyślnie wyświetlane są ostatnie 3 miesiące faktur.
+**Uwaga**: Jeśli żadna faktura nie jest widoczna, może być konieczne dostosowanie filtru zakresu dat.  Domyślnie wyświetlane są ostatnie 3 miesiące faktur.
 
-Faktury są tworzone co miesiąc lub co roku w zależności od częstotliwości płatności wybranej podczas zakupu.  Jeśli płacisz co roku, możesz otrzymać rachunek w połowie okresu podczas dodawania lub usuwania licencji w ramach subskrypcji.
- 
-- Aby uzyskać więcej informacji, zobacz [Opis faktury dla usługi Microsoft 365 dla firm](https://go.microsoft.com/fwlink/?linkid=2119101).
+Faktury są tworzone co miesiąc lub rocznie, w zależności od częstotliwości rozliczeń wybranej podczas zakupu.  W przypadku corocznej płatności za pomocą dołączania lub usuwania licencji w ramach subskrypcji może zostać wyświetlony średniookresowy okres rozliczeniowy.
+
+- Aby uzyskać więcej informacji, zobacz [Opis faktury dla programu Microsoft 365 dla firm](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
