@@ -1,8 +1,8 @@
 ---
-title: Jakie są moje opcje rozszerzenia
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Jakie mam możliwości przedłużenia subskrypcji
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400006"
 - "5832"
-ms.openlocfilehash: e75243e24f609601e3f4d0014a318a55294be7a4
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.openlocfilehash: 20626d3759cddfbc818da687ce4eafe0c41c843f
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708165"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364741"
 ---
-# <a name="what-are-my-options-to-extend"></a>Jakie są moje opcje rozszerzenia?
+# <a name="what-are-my-options-to-extend"></a>Jakie mam możliwości przedłużenia subskrypcji?
 
-Zanim subskrypcja faktycznie osiągnie datę wygaśnięcia, masz kilka opcji:
+Zanim subskrypcja faktycznie osiągnie datę wygaśnięcia, dostępnych jest kilka opcji:
 
-- **Rozszerz wersję próbną**.  Potrzebujesz więcej czasu na ocenę usługi Microsoft 365? W niektórych przypadkach można [przedłużyć okres próbny.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial?view=o365-worldwide)  
-- **Włącz rozliczenia cykliczne** dla subskrypcji. Jeśli rozliczenia cykliczne są już włączone, nie musisz podejmować żadnych działań. Twoja subskrypcja zostanie automatycznie obciążona i zostanie naliczona opłata za dodatkowy rok lub miesiąc, w zależności od bieżącej częstotliwości płatności. Jeśli z jakiegoś powodu wyłączysz rozliczenia cykliczne, zawsze możesz [włączyć rozliczenia cykliczne.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide)
-- Jeśli zakupiono usługę Microsoft 365 Apps dla firm za **pomocą karty przedpłaconej,** możesz [włączyć rozliczenia cykliczne](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide) dla subskrypcji.
-- Jeśli jesteś **klientem licencjonowania zbiorowego typu Open** z przedpłaconą roczną subskrypcją, skontaktuj się z partnerem, aby kupić nowy klucz produktu. Otrzymasz instrukcje za pośrednictwem poczty e-mail, aby aktywować klucz w [Centrum usług licencjonowania zbiorowego](https://go.microsoft.com/fwlink/p/?LinkID=282016). Aby dowiedzieć się, jak znaleźć nowego partnera lub partnera, z którym pracowałeś w przeszłości, zobacz [Znajdowanie partnera lub sprzedawcy.](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide)
-- Jeśli masz **usługę Microsoft 365 Apps dla firm,** zobacz [Zarządzanie rozliczeniami cyklicznymi dla subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide).
+- **Przedłużenie okresu próbnego**.  Potrzebujesz więcej czasu na ocenę platformy Microsoft 365? W niektórych przypadkach jest możliwe  [przedłużenie okresu próbnego](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).  
+- **Włączenie rozliczania cyklicznego** w przypadku subskrypcji. Jeśli rozliczanie cykliczne jest już włączone, nie musisz podejmować żadnych działań. Twoja subskrypcja zostanie automatycznie rozliczona i zostanie pobrana opłata za dodatkowy rok lub miesiąc w zależności od tego, jaka jest aktualnie częstotliwość rozliczeń. Jeśli z jakiegoś powodu rozliczanie cykliczne zostało wyłączone, możesz zawsze  [włączyć rozliczanie cykliczne](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+- Jeśli zakup aplikacji Microsoft 365 dla firm został dokonany przy użyciu  **karty przedpłaconej**, możesz [włączyć Rozliczanie cykliczne](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription) w przypadku swojej subskrypcji.
+- Jeśli jesteś  **klientem otwartego programu licencjonowania zbiorowego**  i korzystasz z przedpłaconej, rocznej subskrypcji, skontaktuj się ze swoim partnerem w celu zakupu nowego klucza produktu. Instrukcję aktywacji klucza otrzymasz pocztą e-mail w  [Centrum usług licencjonowania zbiorowego](https://go.microsoft.com/fwlink/p/?LinkID=282016). Aby dowiedzieć się, jak znaleźć nowego partnera lub partnera, z którym współpracowano w przeszłości, zobacz [Znajdowanie partnera lub odsprzedawcy](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).
+- Jeśli masz **aplikacje Microsoft 365 dla firm**, zobacz  [Zarządzanie rozliczaniem cyklicznym w ramach subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
