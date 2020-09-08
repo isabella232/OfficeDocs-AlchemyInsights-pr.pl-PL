@@ -11,23 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 896a44d368ff1c2f6f8c83759b5d3444043538a1
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: 0c311a8448f8feab81367b2b5b0d25f1912fd84d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157667"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406336"
 ---
-# <a name="mover"></a><span data-ttu-id="ab534-102">Mover</span><span class="sxs-lookup"><span data-stu-id="ab534-102">Mover</span></span>
+# <a name="mover"></a><span data-ttu-id="34f3e-102">Mover</span><span class="sxs-lookup"><span data-stu-id="34f3e-102">Mover</span></span>
 
-<span data-ttu-id="ab534-103">21 października 2019 r. firma Microsoft nabyła **Mover**, wiodącego dostawcę migracji plików w chmurze.</span><span class="sxs-lookup"><span data-stu-id="ab534-103">On October 21, 2019, Microsoft acquired **Mover**, a leading provider of cloud file migration.</span></span>
+<span data-ttu-id="34f3e-103">W dniu 21 października 2019 r. Firma  **Microsoft uzyskała**, wiodący dostawca migracji plików w chmurze.</span><span class="sxs-lookup"><span data-stu-id="34f3e-103">On October 21, 2019, Microsoft acquired  **Mover**, a leading provider of cloud file migration.</span></span>
 
-<span data-ttu-id="ab534-104">Aby uzyskać więcej informacji na temat Mover, proszę odnieść się do następujących artykułów:</span><span class="sxs-lookup"><span data-stu-id="ab534-104">For more information on Mover, please reference the following articles:</span></span>
+<span data-ttu-id="34f3e-104">Obecnie [wszystkie prośby o pomoc są kierowane](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [ **tutaj**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)</span><span class="sxs-lookup"><span data-stu-id="34f3e-104">At the current time,  [please direct any support requests](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [**here**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)</span></span>  
 
-- [<span data-ttu-id="ab534-105">Przewodniki po migracji przeprowadzek</span><span class="sxs-lookup"><span data-stu-id="ab534-105">Mover Migration Guides</span></span>](https://mover.io/guides/)
-- [<span data-ttu-id="ab534-106">Ogólne pytania dotyczące migracji</span><span class="sxs-lookup"><span data-stu-id="ab534-106">General Migration FAQ</span></span>](https://mover.io/guides/general/)
-- [<span data-ttu-id="ab534-107">Złącza mover</span><span class="sxs-lookup"><span data-stu-id="ab534-107">Mover Connectors</span></span>](https://mover.io/connectors/)
+<span data-ttu-id="34f3e-105">Więcej informacji na temat narzędzia przenoszenia można znaleźć w następujących artykułach:</span><span class="sxs-lookup"><span data-stu-id="34f3e-105">For more information on Mover, please reference the following articles:</span></span>
 
-<span data-ttu-id="ab534-108">W chwili obecnej **prosimy kierować wszelkie prośby o pomoc techniczną do** [support@mover.io](mailto:support@mover.io) o pomoc w produkcie.</span><span class="sxs-lookup"><span data-stu-id="ab534-108">At the current time, **please direct any support requests to** [support@mover.io](mailto:support@mover.io) for help with the product.</span></span> 
-
- 
+- [<span data-ttu-id="34f3e-106">Prowadnice migracji przenoszenia</span><span class="sxs-lookup"><span data-stu-id="34f3e-106">Mover Migration Guides</span></span>](https://mover.io/guides/)
+- [<span data-ttu-id="34f3e-107">Ogólne często zadawane pytania dotyczące migracji</span><span class="sxs-lookup"><span data-stu-id="34f3e-107">General Migration FAQ</span></span>](https://mover.io/guides/general/)
