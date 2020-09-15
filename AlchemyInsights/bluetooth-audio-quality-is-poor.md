@@ -1,31 +1,32 @@
 ---
-title: Słaba jakość dźwięku Bluetooth
+title: Jakość dźwięku Bluetooth jest niska
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 5bd572311193ed68c5c38973bdbdd5c82523ed99
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: d53c31eaeda83fd84e21fbd536ad4178dece3c0a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796284"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685392"
 ---
-# <a name="fix-bluetooth-audio-quality-issue"></a>Napraw problem z jakością dźwięku Bluetooth
+# <a name="fix-bluetooth-audio-quality-issue"></a>Rozwiązywanie problemu z jakością dźwięku Bluetooth
 
-Jeśli urządzenie Bluetooth jest podłączone, ale jakość dźwięku jest słaba, wypróbuj następujące czynności:
+Jeśli urządzenie Bluetooth jest podłączone, ale jakość dźwięku jest niska, spróbuj wykonać następujące czynności:
 
-- Upewnij się, że dźwięk jest odtwarzany przez urządzenie Bluetooth. Wybierz **** > **** ustawienia > Start**Sound****systemu** > . W obszarze **Wybierz urządzenie wyjściowe**wybierz urządzenie audio Bluetooth.
-- Wstrzymaj inne rzeczy, które mogą być używane przez Bluetooth, takie jak udostępnianie plików przez Bluetooth. Aby uzyskać więcej informacji, zobacz [Rozwiązywanie problemów z dźwiękiem w systemie Windows 10](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems).
-- Sprawdź, czy dla urządzenia Bluetooth wybrano tryb stereo, aby zapewnić najlepszą jakość dźwięku. Aby to zrobić: 
-    1. W prawej części paska zadań wybierz pozycję **głośność**, a następnie wybierz ikonę cudzysłowu ostrokątowego, aby wybrać urządzenie odtwarzające.
-    2. Wybierz urządzenie Bluetooth i upewnij się, że wybrano opcję **stereo** . (Opcja niższej jakości dźwięku jest dostępna bez **użycia rąk**).
-    3. Jeśli opcja stereo nie jest dostępna, Usuń urządzenie w **ustawieniach** > **urządzenia** > **Bluetooth & innymi urządzeniami**, a następnie ponownie Dodaj urządzenie. Następnie sprawdź ponownie panel **głośności** , aby upewnić się, że wybrano tryb stereo.
+- Upewnij się, że dźwięk jest odtwarzany za pośrednictwem urządzenia Bluetooth. Wybierz pozycję **Uruchom**  >  **Ustawienia**  >  **dźwięk systemowy**  >  **Sound**. W obszarze **Wybierz urządzenie wyjściowe**wybierz urządzenie audio Bluetooth.
+- Wstrzymaj inne czynności, które mogą korzystać z technologii Bluetooth, takich jak udostępnianie plików przez Bluetooth. Aby uzyskać więcej informacji, zobacz [Rozwiązywanie problemów z dźwiękiem w systemie Windows 10](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems).
+- Upewnij się, że dla urządzenia Bluetooth wybrano stereo, aby zapewnić najlepszą jakość dźwięku. Aby to zrobić: 
+    1. Po prawej stronie paska zadań wybierz pozycję **głośność**, a następnie wybierz ikonę Pagon, aby wybrać urządzenie do odtwarzania.
+    2. Wybierz urządzenie Bluetooth i upewnij się, że jest zaznaczona opcja **stereo** . (Opcja jakość niższego poziomu dźwięku jest dostępna za **darmo**).
+    3. Jeśli stereo nie jest dostępny jako opcja, Usuń urządzenie w obszarze **Ustawienia**  >  **urządzenia**  >  **Bluetooth & inne urządzenia**, a następnie ponownie Dodaj urządzenie. Następnie sprawdź ponownie panel **głośności** , aby upewnić się, że wybrano opcję stereo.
 

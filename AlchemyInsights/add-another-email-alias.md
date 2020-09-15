@@ -1,39 +1,40 @@
 ---
-title: Dodawanie innego aliasu e-mail
+title: Dodaj kolejny alias e-mail
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 2ed387ad8506cfa33f63690d8034ff3df855a07d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 513a647a3247cb10b134ba770b2cf245bd883be8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44503013"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688488"
 ---
-# <a name="create-or-add-an-email-alias-for-a-user"></a>Tworzenie lub dodawanie aliasu e-mail dla użytkownika
+# <a name="create-or-add-an-email-alias-for-a-user"></a>Tworzenie lub Dodawanie aliasu e-mail dla użytkownika
 
-Chcesz utworzyć alias e-mail dla użytkownika lub dodać dodatkowy adres e-mail? Wystarczy wykonać następujące kroki!
+Chcesz utworzyć alias e-mail dla użytkownika lub dodać dodatkowy adres e-mail? Wystarczy wykonać te czynności!
   
-1. W centrum administracyjnym usługi Microsoft 365 przejdź do strony [Użytkownicy](https://go.microsoft.com/fwlink/p/?linkid=834822) lub wybierz pozycję **Użytkownicy aktywni** \> **użytkownicy**.
+1. W centrum administracyjnym usługi Microsoft 365 przejdź na stronę [Użytkownicy](https://go.microsoft.com/fwlink/p/?linkid=834822) lub wybierz pozycję **Użytkownicy** \> **aktywni użytkownicy**.
     
 2. Na stronie **Aktywni użytkownicy** zaznacz imię i nazwisko osoby, którą chcesz edytować. 
     
 3. Po prawej stronie w wierszu **Nazwa użytkownika/Aliasy e-mail** wybierz pozycję **Edytuj**.
     
-4. W polu **Alias** wpisz nową wiadomość e-mail, a następnie wybierz pozycję **Dodaj**. Jeśli subskrypcja została kupiona od firmy GoDaddy lub od innego partnera, aby ustawić nowy alias jako podstawowy, należy przejść do konsoli zarządzania firmy GoDaddy/innego partnera. 
+4. W polu **alias** wpisz nową wiadomość e-mail, a następnie wybierz pozycję **Add (Dodaj**). Jeśli subskrypcja została kupiona od firmy GoDaddy lub od innego partnera, aby ustawić nowy alias jako podstawowy, należy przejść do konsoli zarządzania firmy GoDaddy/innego partnera. 
     
-    **WAŻNE:** Jeśli zostanie wyświetlony komunikat o błędzie " **Nie można odnaleźć parametru, który pasuje do nazwy parametru "EmailAddresses",** oznacza to, że ukończenie konfigurowania dzierżawy przez firmę Microsoft trwa nieco dłużej lub domenę niestandardową, jeśli niedawno ją dodano. Proces konfigurowania może potrwać do 4 godzin. Poczekaj chwilę na ukończenie procesu konfigurowania, a następnie spróbuj ponownie. Jeśli problem nie ustąpi, zadzwoń do pomocy technicznej, która przeprowadzi pełną synchronizację dla Ciebie.
+    **Ważne**: Jeśli zostanie wyświetlony komunikat o błędzie " **nie można odnaleźć parametru pasującego do nazwy parametru" EmailAddresses**", oznacza to, że zajmuje on trochę czasu na zakończenie konfigurowania dzierżawy lub domeny niestandardowej, jeśli została wcześniej dodana. Proces konfigurowania może potrwać do 4 godzin. Poczekaj chwilę na ukończenie procesu konfigurowania, a następnie spróbuj ponownie. Jeśli problem nie ustąpi, zadzwoń do pomocy technicznej, która przeprowadzi pełną synchronizację dla Ciebie.
     
-    Zwykle trwa około 30 minut, zanim nowy alias wejdzie w życie.
+    Trwa zwykle około 30 minut, zanim nowy alias zacznie obowiązywać.
     
-    **Aby uzyskać więcej informacji, zobacz ten artykuł:** [Dodawanie innego aliasu e-mail dla użytkownika](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
+    **Aby uzyskać więcej szczegółowych informacji, zobacz ten artykuł:** [Dodawanie kolejnego aliasu e-mail dla użytkownika](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
     
 

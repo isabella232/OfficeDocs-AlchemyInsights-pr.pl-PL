@@ -5,28 +5,29 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 4e06e0e43b63836b9e9cf923e554dd474b82c671
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908824"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685896"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Uzyskiwanie dostępu do kluczy odzyskiwania funkcji BitLocker
 
-Podczas konfigurowania ustawień funkcji BitLocker zasady ochrony punktu końcowego usługi Intune można określić, czy informacje odzyskiwania funkcji BitLocker mają być przechowywane w usłudze Azure Active Directory.
+Konfigurując ustawienia funkcji BitLocker w usłudze Intune Endpoint Protection, można określić, czy informacje odzyskiwania funkcji BitLocker mają być przechowywane w usłudze Azure Active Directory.
 
-Jeśli to ustawienie jest skonfigurowane, przechowywane dane odzyskiwania powinny być widoczne dla administratora usługi Intune jako część danych rekordu urządzenia w bloku urządzenia usługi Intune na dwa sposoby:
+Jeśli to ustawienie zostanie skonfigurowane, dane odzyskiwania będą widoczne dla administratora usługi Intune jako część danych rekordu urządzenia w bloku urządzenia usługi Intune na dwa sposoby:
 
-Urządzenia — urządzenia z usługą Azure AD — > "urządzenie" lub urządzenia — > wszystkie urządzenia — > "urządzenie" — > klucze odzyskiwania
+Urządzenia — urządzenia usługi Azure AD — > "urządzenie" lub urządzenia — > wszystkich urządzeń-> kluczy odzyskiwania "urządzenie"->
 
-Alternatywnie, jeśli istnieje dostęp administracyjny do samego urządzenia, klucz odzyskiwania (Password) można zobaczyć, uruchamiając następujące polecenie z wiersza polecenia z podwyższonym poziomem uprawnień:
+Jeśli masz dostęp administracyjny do samego urządzenia, możesz wyświetlić klucz odzyskiwania (hasło), uruchamiając następujące polecenie w wierszu polecenia z podwyższonym poziomem uprawnień:
 
 ```
 manage-bde -protectors c: -get
@@ -42,8 +43,8 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Jeśli urządzenie zostało zaszyfrowane przed rejestrowaniem w usłudze Intune, klucz odzyskiwania może być skojarzony z "kontem Microsoft" (MSA) używanym do logowania się do urządzenia podczas procesu OOBE. Jeśli tak było, dostęp https://onedrive.live.com/recoverykey i logowanie się za pomocą tego MSA powinien pokazywać urządzenia, dla których klucze odzyskiwania były przechowywane.
+Jeśli urządzenie zostało zaszyfrowane przed rozpoczęciem rejestracji w usłudze Intune, klucz odzyskiwania może być skojarzony z "kontem Microsoft" (MSA) używanym do logowania się do urządzenia w trakcie procesu OOBE. W takim przypadku dostęp  https://onedrive.live.com/recoverykey i logowanie się przy użyciu tego konta MSA powinno pokazywać urządzenia, dla których są przechowywane klucze odzyskiwania.
  
-Jeśli urządzenie zostało zaszyfrowane w wyniku konfiguracji za pomocą zasad grupy opartej na domenie, informacje o odzyskiwaniu mogą być przechowywane w lokalnej usłudze Active Directory.
+Jeśli urządzenie zostało zaszyfrowane w wyniku konfiguracji za pośrednictwem zasad grupy opartych na domenie, informacje odzyskiwania mogą być przechowywane w lokalnej usłudze Active Directory.
  
 
