@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,25 +13,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: bad7c8b3503800101d758fbcdd0429fc097bd2a0
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: af41ef0469d475b1964d721ab52f175bf8812ffc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44061608"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683304"
 ---
-# <a name="cancel-visio-subscription"></a><span data-ttu-id="0c2e6-102">Anulowanie subskrypcji programu Visio</span><span class="sxs-lookup"><span data-stu-id="0c2e6-102">Cancel Visio subscription</span></span>
+# <a name="cancel-visio-subscription"></a><span data-ttu-id="f8fcb-102">Anulowanie subskrypcji programu Visio</span><span class="sxs-lookup"><span data-stu-id="f8fcb-102">Cancel Visio subscription</span></span>
 
-<span data-ttu-id="0c2e6-103">Administratorzy mogą anulować subskrypcję programu Visio dla swojej organizacji z **centrum administracyjnego usługi Microsoft 365**.</span><span class="sxs-lookup"><span data-stu-id="0c2e6-103">Admins can cancel the Visio subscription for their organization from the **Microsoft 365 admin center**.</span></span>
+<span data-ttu-id="f8fcb-103">Administratorzy mogą anulować subskrypcję programu Visio dla organizacji w **centrum administracyjnym usługi Microsoft 365**.</span><span class="sxs-lookup"><span data-stu-id="f8fcb-103">Admins can cancel the Visio subscription for their organization from the **Microsoft 365 admin center**.</span></span>
 
-1. <span data-ttu-id="0c2e6-104">Przejdź do strony \*\*Rozliczenia > [Twoich produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054) \*\*</span><span class="sxs-lookup"><span data-stu-id="0c2e6-104">Go to the **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="f8fcb-104">Przejdź do strony \*\*rozliczenia > [produkty](https://go.microsoft.com/fwlink/p/?linkid=842054) \*\* .</span><span class="sxs-lookup"><span data-stu-id="f8fcb-104">Go to the **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
 
-2. <span data-ttu-id="0c2e6-105">Znajdź plan programu Visio, aby anulować.</span><span class="sxs-lookup"><span data-stu-id="0c2e6-105">Locate the Visio Plan to cancel.</span></span>
+2. <span data-ttu-id="f8fcb-105">Zlokalizuj plan programu Visio, który chcesz anulować.</span><span class="sxs-lookup"><span data-stu-id="f8fcb-105">Locate the Visio Plan to cancel.</span></span>
 
-3. <span data-ttu-id="0c2e6-106">Kliknij **pozycję Anuluj subskrypcję**.</span><span class="sxs-lookup"><span data-stu-id="0c2e6-106">Click **Cancel subscription**.</span></span>
+3. <span data-ttu-id="f8fcb-106">Kliknij pozycję **Anuluj subskrypcję**.</span><span class="sxs-lookup"><span data-stu-id="f8fcb-106">Click **Cancel subscription**.</span></span>
 
-<span data-ttu-id="0c2e6-107">**Zwrot: Wszelkie proporcjonalne środki zostaną zwrócone w następnym cyklu rozliczeniowym.**</span><span class="sxs-lookup"><span data-stu-id="0c2e6-107">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span>
+<span data-ttu-id="f8fcb-107">**Zwrot kosztów: doładowanie konta zostanie zwrócone do Ciebie w następnym cyklu rozliczeniowym.**</span><span class="sxs-lookup"><span data-stu-id="f8fcb-107">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span>
 
-<span data-ttu-id="0c2e6-108">**Uwaga:** Jeśli nie widzisz opcji anulowania, kliknij subskrypcję, aby wyświetlić szczegóły, a w **ustawieniach & akcjach**powinna zostać wyświetlona opcja **Anuluj subskrypcję.**</span><span class="sxs-lookup"><span data-stu-id="0c2e6-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span>
+<span data-ttu-id="f8fcb-108">**Uwaga**: Jeśli nie widzisz opcji anulowania, kliknij subskrypcję, aby wyświetlić szczegóły, a w obszarze **Ustawienia & akcje**powinna być widoczna opcja **Anuluj subskrypcję** .</span><span class="sxs-lookup"><span data-stu-id="f8fcb-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span>
 
-<span data-ttu-id="0c2e6-109">Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="0c2e6-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="f8fcb-109">Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="f8fcb-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
