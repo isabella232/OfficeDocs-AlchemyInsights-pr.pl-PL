@@ -1,5 +1,5 @@
 ---
-title: Jak sprawdzić stan synchronizacji hasła
+title: Jak sprawdzić stan synchronizacji haseł
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 7ddb515b3c4820e2c904124fa96049eade4cbd2b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765603"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665656"
 ---
-# <a name="enable-password-sync"></a>Włącz synchronizację haseł
+# <a name="enable-password-sync"></a>Włączanie synchronizacji haseł
 
-1.  Wybierz **pozycję Stan programu DirSync** na stronie głównej centrum administracyjnego usługi Microsoft 365. 
+1.  Wybierz pozycję **stan DirSync** na stronie głównej Centrum administracyjnego Microsoft 365. 
     
-     *Alternatywnie można przejść do użytkowników **aktywnych** **użytkowników,** \> a na stronie Aktywni użytkownicy wybierz pozycję **Więcej** \> **synchronizacji katalogów.*** 
+     *Możesz też **przejść do pozycji** \> **aktywni użytkownicy**i na stronie aktywni użytkownicy wybrać pozycję **więcej** \> **synchronizacji katalogów.*** 
     
-2. W okienku Synchronizacja katalogów wybierz pozycję **Przejdź do zarządzania programem DirSync**. 
+2. W okienku Synchronizacja katalogów wybierz pozycję **Przejdź do zarządzania**synchronizacją. 
     
-3. Teraz zobaczysz swój status i wprowadzać zmiany:
+3. Teraz zobaczysz swój status i wprowadzisz zmiany:
     
-    **Synchronizacja haseł włączona:** (Prawda lub Fałsz). Określa, czy synchronizacja haseł jest włączona między lokalnie a dzierżawą. 
+    **Włączono synchronizację haseł:** (prawda lub FAŁSZ). Określa, czy włączono synchronizację haseł między lokalnymi a dzierżawą. 
     
-    **Ostatnia synchronizacja hasła:** (Ostatni raz uruchomiono synchronizację hasła). Spowoduje to wyświetlenie ostrzeżenia i łącza do narzędzia do rozwiązywania problemów, jeśli ostatnia synchronizacja miała miejsca ponad trzy dni temu. 
+    **Ostatnia synchronizacja hasła:** (Ostatnia synchronizacja hasła została przekroczona). Spowoduje to wyświetlenie ostrzeżenia i linku do narzędzia do rozwiązywania problemów, jeśli Ostatnia synchronizacja była większa niż trzy dni temu. 
     
 

@@ -1,29 +1,30 @@
 ---
-title: Aktywowanie nowego urządzenia
+title: Aktywuj nowe urządzenie
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: a0e1d87620265f1bba133b571aa218bec3163366
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39625890"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668392"
 ---
 # <a name="activating-a-new-device-running-windows-10"></a>Aktywowanie nowego urządzenia z systemem Windows 10
 
-Jeśli kupiłeś nowe urządzenie z systemem Windows 10, zostanie ono automatycznie aktywowane po podłączeniu urządzenia do Internetu. Jeśli serwery aktywacji są zajęte, być może trzeba poczekać chwilę na aktywację systemu Windows.
+Jeśli zakupiono nowe urządzenie z systemem Windows 10, zostanie ono automatycznie aktywowane po połączeniu urządzenia z Internetem. Jeśli serwery aktywacji są zajęte, może być konieczne poczekaj chwilę na aktywację systemu Windows.
 
-Aby sprawdzić stan aktywacji, wybierz polecenie **Uruchom** aktualizację **ustawień** > **&** > **Aktywacja**zabezpieczeń.
+Aby sprawdzić stan aktywacji, wybierz pozycję **Rozpocznij** **Settings**  >  **aktualizację ustawień &**  >  **aktywację**zabezpieczeń.
 
-**Uwaga:** W niektórych przypadkach może być konieczne wprowadzenie klucza produktu systemu Windows 10 dostarczonego wraz z opakowaniem urządzenia lub dołączonego do urządzenia jako karty lub certyfikatu autentyczności (COA).
+**Uwaga:** W przypadku nieobecności może być konieczne wprowadzenie klucza produktu systemu Windows 10 dostarczonego z opakowaniem urządzenia lub dołączonego jako karta lub certyfikatu autentyczności (COA) dołączonego do urządzenia.
 
-[Dowiedz się więcej o aktywacji w systemie Windows 10](https://support.microsoft.com/help/12440)
+[Więcej informacji na temat aktywacji w systemie Windows 10](https://support.microsoft.com/help/12440)

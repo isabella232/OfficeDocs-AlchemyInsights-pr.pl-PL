@@ -1,28 +1,29 @@
 ---
-title: Radzenie sobie z phishingiem w Outlook.com
+title: Rozwiązywanie problemów z phishingiem w Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000289"
-ms.openlocfilehash: e63a58a73c84ae65e9ff562436f995c511d5cb85
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b84527f58cfd5101c5a63510cc46bb115ab862cb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765711"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666232"
 ---
-# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Jak radzić sobie z wiadomością e-mail wyłudzającą informacje w aplikacji Outlook w sieci Web
+# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Jak postępować w wiadomościach e-mail dotyczących wyłudzania informacji w aplikacji Outlook w sieci Web
 
-Wyłudzanie informacji to wiadomość e-mail, która wydaje się uzasadniona, ale w rzeczywistości jest próbą kradzieży twoich danych osobowych lub pieniędzy. Oszuści mogą również użyć techniki zwanej podszywaniem się pod siebie, aby wyglądał tak, jakby otrzymałeś wiadomość e-mail od siebie.
+Phishing to wiadomość e-mail, która jest nielegalna, ale w rzeczywistości próbuje ukraść dane osobowe lub pieniądze. Oszustów może również użyć techniki o nazwie fałszowanie, aby wyglądała tak jak w przypadku odebrania wiadomości e-mail od siebie.
 
-Jeśli otrzymasz wiadomość e-mail, która wygląda jak wyłudzanie informacji, możesz ją zgłosić, wybierając wiadomość, a następnie wybierając opcję**Wyłudzanie informacji o śmieciach.** **Junk** > 
+Jeśli otrzymasz wiadomość e-mail z informacją o phishingu, możesz ją zgłosić, wybierając wiadomość, a następnie wybierając wiadomości **-śmieci**  >  **Phishing**.
 
-*Uwaga:* Gdy oznaczysz wiadomość jako wyłudzającą informacje, tylko zgłasza nadawcę.Nie blokuje nadawcy wysyłania wiadomości w przyszłości. Aby zablokować nadawcę, musisz dodać nadawcę do listy zablokowanych nadawców. Aby uzyskać więcej informacji, zobacz [Blokowanie nadawców lub odblokowywanie nadawców w aplikacji Outlook w sieci Web](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
+*Uwaga:* Po oznaczeniu wiadomości jako phishingu jest ona tylko raportem wysyłanym przez nadawcę.Nie blokuje tego nadawcy od wysyłania wiadomości do Ciebie w przyszłości. Aby zablokować nadawcę, musisz dodać nadawcę do listy zablokowanych nadawców. Aby uzyskać więcej informacji, zobacz [blokowanie nadawców lub odblokowywanie nadawców w aplikacji Outlook w sieci Web](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
 
-Dowiedz się więcej o [identyfikowaniu podejrzanych wiadomości w aplikacji Outlook w sieci Web](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206).
+Dowiedz się więcej na temat [identyfikowania podejrzanych wiadomości w aplikacji Outlook w sieci Web](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206).
