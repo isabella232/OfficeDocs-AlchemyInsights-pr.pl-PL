@@ -1,26 +1,27 @@
 ---
-title: Pobieranie i instalowanie lub ponowne instalowanie usługi Office 365 lub office 2016 na komputerze PC lub Mac
+title: Pobieranie i Instalowanie lub ponowne instalowanie pakietu Office 365 lub pakietu Office 2016 na komputerze PC lub Mac
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8d7abd5a-5004-4d16-aad9-8083df213ea3
-ms.openlocfilehash: b569b814e40b78dbb131053981a56d22311d163b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8306854ee90b0f804c83b27b58d870386673d5fa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714816"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712230"
 ---
-# <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a><span data-ttu-id="3cb15-102">Pobieranie i instalowanie lub ponowne instalowanie usługi Office 365 lub office 2016 na komputerze PC lub Mac</span><span class="sxs-lookup"><span data-stu-id="3cb15-102">Download and install or reinstall Office 365 or Office 2016 on a PC or Mac</span></span>
+# <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a><span data-ttu-id="772a8-102">Pobieranie i Instalowanie lub ponowne instalowanie pakietu Office 365 lub pakietu Office 2016 na komputerze PC lub Mac</span><span class="sxs-lookup"><span data-stu-id="772a8-102">Download and install or reinstall Office 365 or Office 2016 on a PC or Mac</span></span>
 
-<span data-ttu-id="3cb15-103">Aby pobrać i zainstalować produkty pakietu Office zawarte w subskrypcji, przejdź do [witryny Mój pakiet Software](https://portal.office.com/OLS/MySoftware.aspx) \> **Office** i kliknij pozycję **Zainstaluj**.</span><span class="sxs-lookup"><span data-stu-id="3cb15-103">To download and install Office products included in your subscription, go to [My Software](https://portal.office.com/OLS/MySoftware.aspx) \> **Office** and click **Install**.</span></span> 
+<span data-ttu-id="772a8-103">Aby pobrać i zainstalować produkty pakietu Office zawarte w subskrypcji, przejdź do [swojego](https://portal.office.com/OLS/MySoftware.aspx) \> **pakietu Office** , a następnie kliknij pozycję **Zainstaluj**.</span><span class="sxs-lookup"><span data-stu-id="772a8-103">To download and install Office products included in your subscription, go to [My Software](https://portal.office.com/OLS/MySoftware.aspx) \> **Office** and click **Install**.</span></span> 
   
-<span data-ttu-id="3cb15-104">Aby uzyskać szczegółowe instrukcje, zobacz [Pobieranie i instalowanie lub ponowne instalowanie usługi Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).</span><span class="sxs-lookup"><span data-stu-id="3cb15-104">For detailed instructions, see [Download and install or reinstall Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).</span></span>
+<span data-ttu-id="772a8-104">Aby uzyskać szczegółowe instrukcje, zobacz [pobieranie i Instalowanie lub ponowne instalowanie pakietu Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).</span><span class="sxs-lookup"><span data-stu-id="772a8-104">For detailed instructions, see [Download and install or reinstall Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).</span></span>
   
-<span data-ttu-id="3cb15-105">Jeśli chcesz zainstalować pakiet Office w trybie offline, zobacz [Korzystanie z instalatora pakietu Office 2016 w trybie offline](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business).</span><span class="sxs-lookup"><span data-stu-id="3cb15-105">If you need to install Office offline, see [Use the Office 2016 offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business).</span></span>
+<span data-ttu-id="772a8-105">Jeśli chcesz zainstalować pakiet Office w trybie offline, zobacz [Korzystanie z Instalatora pakietu office 2016 w trybie offline](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business).</span><span class="sxs-lookup"><span data-stu-id="772a8-105">If you need to install Office offline, see [Use the Office 2016 offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business).</span></span>
   
 

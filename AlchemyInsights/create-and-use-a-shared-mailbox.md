@@ -1,9 +1,10 @@
 ---
-title: Tworzenie udostępnionej skrzynki pocztowej i używanie jej
+title: Tworzenie i używanie udostępnionej skrzynki pocztowej
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ac4188c0-a4f3-4852-9ed4-075ea684423c
@@ -11,18 +12,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: d38a8c19ab5329f4a4a8d09ad248db07fcce5d42
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e132171e6ee89fdfa011992000332ccbbbcde7b5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507668"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712671"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a><span data-ttu-id="7523a-102">Tworzenie udostępnionej skrzynki pocztowej i używanie jej</span><span class="sxs-lookup"><span data-stu-id="7523a-102">Create and use a shared mailbox</span></span>
+# <a name="create-and-use-a-shared-mailbox"></a><span data-ttu-id="0b014-102">Tworzenie i używanie udostępnionej skrzynki pocztowej</span><span class="sxs-lookup"><span data-stu-id="0b014-102">Create and use a shared mailbox</span></span>
 
-<span data-ttu-id="7523a-103">Udostępniona skrzynka pocztowa umożliwia więcej niż jednej osobie wysyłanie i odbieranie wiadomości e-mail dla aliasu, takiego jak sales@contoso.com, bez przypisywania innej licencji.</span><span class="sxs-lookup"><span data-stu-id="7523a-103">A shared mailbox lets more than one person send and receive email for an alias, like sales@contoso.com, without assigning another license.</span></span>
+<span data-ttu-id="0b014-103">Udostępniona skrzynka pocztowa umożliwia wielu osobom wysyłanie i odbieranie wiadomości e-mail do aliasu, takiego jak sales@contoso.com, bez przypisywania innej licencji.</span><span class="sxs-lookup"><span data-stu-id="0b014-103">A shared mailbox lets more than one person send and receive email for an alias, like sales@contoso.com, without assigning another license.</span></span>
   
-- <span data-ttu-id="7523a-104">[Aby](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) rozpocząć, wykonaj następujące kroki w centrum administracyjnym usługi Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="7523a-104">[Follow these steps](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) in the Microsoft 365 admin center to get started.</span></span> 
+- <span data-ttu-id="0b014-104">Aby rozpocząć, [wykonaj poniższe czynności](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) w centrum administracyjnym usługi Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="0b014-104">[Follow these steps](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) in the Microsoft 365 admin center to get started.</span></span> 
 
-<span data-ttu-id="7523a-105">Możesz również przeczytać artykuł [Utwórz udostępnioną skrzynkę pocztową,](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) który powie Ci wszystko, co musisz wiedzieć o udostępnionych skrzynkach pocztowych, w tym sposób ich używania.</span><span class="sxs-lookup"><span data-stu-id="7523a-105">You can also read the [Create a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) article, which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span>
+<span data-ttu-id="0b014-105">Możesz również przeczytać artykuł [Tworzenie udostępnionej skrzynki pocztowej](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) z informacją o tym, co należy wiedzieć o udostępnionych skrzynkach pocztowych, takich jak korzystanie z nich.</span><span class="sxs-lookup"><span data-stu-id="0b014-105">You can also read the [Create a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) article, which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span>
   

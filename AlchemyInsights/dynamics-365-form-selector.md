@@ -1,21 +1,22 @@
 ---
-title: Selektor formularza Dynamics 365
+title: Selektor formularza systemu Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1469"
 - "6200014"
-ms.openlocfilehash: f74eb8d366b86878620ae6f038a09feb0128c32e
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d8160ba67ea87e112c377fcd1501a2fda44815fa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36528972"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712014"
 ---
-# <a name="dynamics-365-form-selector"></a><span data-ttu-id="cd313-102">Selektor formularza Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="cd313-102">Dynamics 365 form selector</span></span>
+# <a name="dynamics-365-form-selector"></a><span data-ttu-id="ff27b-102">Selektor formularza systemu Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="ff27b-102">Dynamics 365 form selector</span></span>
 
-* [<span data-ttu-id="cd313-103">Wyjaśnienie kontroli dostępu do formularza</span><span class="sxs-lookup"><span data-stu-id="cd313-103">Form Access Control Explained</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
+* [<span data-ttu-id="ff27b-103">Objaśnienie kontroli dostępu do formularza</span><span class="sxs-lookup"><span data-stu-id="ff27b-103">Form Access Control Explained</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
