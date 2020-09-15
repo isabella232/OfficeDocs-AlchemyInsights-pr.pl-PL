@@ -1,40 +1,41 @@
 ---
-title: Tworzenie wiadomości e-mail catch wszystkich
+title: Tworzenie wiadomości e-mail z całą połową
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 35f31c1662547d57c2fc9978ffb495ac29abcc01
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 262d2c6a7181d94094f3d840c4ba3ebd07000cf4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286202"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712996"
 ---
-# <a name="create-an-email-catch-all"></a>Tworzenie wiadomości e-mail catch wszystkich
+# <a name="create-an-email-catch-all"></a>Tworzenie wiadomości e-mail z całą połową
 
-Korzystanie z połowu wszystko jest zdecydowanie odradzane. Lepiej jest zapewnić odbicie z powrotem do nadawcy, informując nadawców, że ich wiadomość nie może zostać dostarczona jako adresowana, aby mogli podjąć działania. Można również ograniczyć monitorowana skrzynka pocztowa, aby tylko wyłapywać wcześniej prawidłowe adresy e-mail. 
+Korzystanie z funkcji catch all nie jest zalecane. Lepszym rozwiązaniem jest dostarczenie odskakującego przeskoku nadawcy informującego, że nadawcy nie będą wiedzieli, że mogą podjąć działania. Możesz również ograniczyć monitorowaną skrzynkę pocztową tylko do połowów, które były wcześniej prawidłowymi adresami e-mail. 
 
-Każdy połów wszystkie skrzynki pocztowej otrzyma sporo spamu i może ostatecznie wypełnić, jeśli nie ściśle monitorowane. (Istnieją limity odbioru.) 
+Każda Skrzynka pocztowa będzie otrzymywać dobrą okazję do spamu i może ostatecznie wypełnić, jeśli nie jest ściśle monitorowana. (Istnieją limity dotyczące odbierania). 
 
-Jeśli zdecydujesz się kontynuować, wykonaj następujące kroki:
+Jeśli zdecydujesz się kontynuować, wykonaj następujące czynności:
 
-1. Utwórz dynamiczną grupę dystrybucyjną & zawierać "Wszystkie typy adresatów".
+1. Utwórz dynamiczną grupę dystrybucyjną, & dołączyć "wszystkie typy adresatów".
 
-2. Utwórz dedykowaną skrzynkę pocztową, aby wyłapywać wiadomości e-mail, na przykład catchall@domain.com.
+2. Utwórz dedykowaną skrzynkę pocztową do obsługi wiadomości e-mail, na przykład catchall@domain.com.
 
-3. W przypadku określonej domeny ustaw DomainType na "InternalRelay". Jeśli później usuniesz wszystkie catch, należy ustawić domenę z powrotem do autorytatywne.
+3. W przypadku określonej domeny ustaw dla tej usługi wartość "InternalRelay". Jeśli później usuniesz przechwycenie, upewnij się, że domena jest ponownie ustawiona na wartość autorytatywna.
 
-4. Utwórz regułę transportu przepływów mailowych w następujący sposób:
+4. Utwórz regułę transportu o w następujący sposób:
 
-    - Jeśli nadawca jest "Poza organizacją"
-    - Przekieruj wiadomość do Catchall@domain.com
-    - Z wyjątkiem sytuacji, gdy odbiorca jest członkiem allusers@domain.com (Grupa dystrybucyjna zawiera wszystkich członków)
-    - Upewnij się, że nowe skrzynki pocztowe są dodawane do dynamicznej grupy dystrybucyjnej
+    - Jeśli nadawca to "spoza organizacji"
+    - Przekierowywanie wiadomości do Catchall@domain.com
+    - Chyba że adresat jest członkiem allusers@domain.com (grupa dystrybucyjna zawiera wszystkich członków)
+    - Sprawdzanie, czy nowe skrzynki pocztowe są dodawane do grupy dystrybucyjnej dynamicznej

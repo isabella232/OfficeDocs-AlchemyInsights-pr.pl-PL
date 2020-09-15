@@ -1,34 +1,35 @@
 ---
-title: Przesyłanie dokumentów
+title: Przekazywanie dokumentów
 ms.author: toresing
 author: tomresing
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: ff7000773a628001c71debf1c4365f1f551a91df
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2797c6d0f9de274e016523ae0e71f59eb1cfc742
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769421"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711942"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Przesyłanie plików do usługi OneDrive lub SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Przekazywanie plików do usługi OneDrive lub programu SharePoint
 
-1. W przeglądarce internetowej przejdź do lokalizacji, w której chcesz przesłać pliki.
+1. W przeglądarce sieci Web przejdź do lokalizacji, w której chcesz przekazać pliki.
     
-2. Otwórz Eksploratora plików i przejdź do plików, które chcesz przesłać.
+2. Otwórz Eksploratora plików i przejdź do plików, które chcesz przekazać.
     
-3. Wybierz pliki i przeciągnij je do lokalizacji w OneDrive lub SharePoint. Uwaga: Jeśli korzystasz z przeglądarki Microsoft Edge, Mozilla FireFox lub Google Chrome, możesz również przesłać folder i wszystkie pliki w nim.
+3. Zaznacz pliki i przeciągnij je do lokalizacji w usłudze OneDrive lub w programie SharePoint. Uwaga: Jeśli korzystasz z przeglądarki Microsoft Edge, Mozilla FireFox lub Google Chrome, możesz także przekazać folder i wszystkie znajdujące się w nim pliki.
     
 **Uwagi:**
 
-- Możesz przesyłać pliki o rozmiarze do 15 GB. 
-- Pełna ścieżka pliku (łącznie z nazwą pliku) nie może przekraczać 400 znaków. 
-- Jeśli musisz przesłać więcej niż 100 plików, [Użyj klienta synchronizacji OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
+- Możesz przekazywać pliki o rozmiarze do 15 GB. 
+- Pełna ścieżka do pliku (łącznie z nazwą pliku) nie może być dłuższa niż 400 znaków. 
+- Jeśli musisz przekazać więcej niż 100 plików, [Użyj klienta synchronizacji usługi OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 
