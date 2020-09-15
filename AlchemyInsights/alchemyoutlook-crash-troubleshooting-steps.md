@@ -1,5 +1,5 @@
 ---
-title: Alchemia — kroki rozwiązywania problemów z awariami programu Outlook
+title: Alchemy — kroki rozwiązywania problemów z awarią programu Outlook
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 03b9c57f8254aea779929135ae45857c799f50de
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 01179dde29cd07256a5f6e0ece539c5c02c25dfd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708365"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47718667"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Procedura rozwiązywania problemów z awariami programu Outlook
 
-Jeśli masz problemy z awarią pulpitu programu Outlook, zacznij od trzech kroków poniżej, które są szczegółowo wymienione w tym artykule: [Jak rozwiązywać problemy, które powodują awarię programu Outlook lub przestać odpowiadać.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Jeśli występują problemy z instalacją programu Outlook dla komputerów stacjonarnych, Zacznij od trzech poniższych kroków, które są opisane szczegółowo w tym artykule: [Rozwiązywanie problemów powodujących awarie lub reagowanie programu Outlook.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
 Krok 1: Zbadaj możliwe problemy z dodatkami.
   
-Krok 2: Napraw program Outlook i uruchom [narzędzie Asystent pomocy technicznej i odzyskiwania,](https://aka.ms/SaRA-OutlookWontStart) aby rozwiązywać problemy z błędami uruchamiania programu Outlook na komputerze, którego dotyczy problem.
+Krok 2: Naprawianie programu Outlook i uruchamianie [narzędzia Asystent odzyskiwania i pomocy technicznej](https://aka.ms/SaRA-OutlookWontStart) w celu rozwiązywania problemów z błędami uruchamiania programu Outlook na komputerze, którego dotyczy problem.
   
-Krok 3: Utwórz nowy profil programu Outlook lub uruchom [narzędzie profilu programu Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na komputerze, którego dotyczy problem.
+Krok 3: Tworzenie nowego profilu programu Outlook lub uruchamianie [Narzędzia profil programu Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na komputerze, którego dotyczy problem.
   
-Jeśli problem wystąpił po aktualizacji i powyższe czynności nie działają, konieczne może być przywrócenie poprzedniej kompilacji. Zobacz [Jak przywrócić wcześniejszą wersję pakietu Office 2016 Szybka obsługa](https://support.microsoft.com/help/2770432).
+Jeśli problem wystąpił po aktualizacji i powyższe czynności nie działają, konieczne może być przywrócenie poprzedniej kompilacji. Zobacz [, jak przywrócić wcześniejszą wersję pakietu Office 2016 Szybka instalacja](https://support.microsoft.com/help/2770432).
   

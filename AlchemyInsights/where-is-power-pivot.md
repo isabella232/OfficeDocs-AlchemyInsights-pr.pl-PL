@@ -1,10 +1,11 @@
 ---
-title: Gdzie jest power pivot?
-ms.author: chrsm
-author: chrsm
+title: Gdzie jest dodatek Power Pivot?
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,31 +15,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 326f07ae2cf677822e7c7d31eba4e0dc3a6506a4
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3be4424d6a0d76136bf10b2629e43c0a321720ab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765207"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719099"
 ---
-# <a name="where-is-power-pivot"></a>Gdzie jest power pivot?
+# <a name="where-is-power-pivot"></a>Gdzie jest dodatek Power Pivot?
 
-Istnieją trzy powody, dla których może nie być widocznym w programie Power Pivot:
+Istnieją trzy powody, dla których nie widzisz dodatku Power Pivot:
   
-**Twoja wersja programu Excel nie zawiera**
+**Twoja wersja programu Excel nie zawiera jej**
   
-Nie wszystkie wersje programu Excel zawierają program Power Pivot. Należy uaktualnić pakiet Office do wersji zawierającej program Power Pivot. [Sprawdź listę obsługiwanych wersji.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Nie wszystkie wersje programu Excel zawierają dodatek Power Pivot. Konieczne będzie uaktualnienie do wersji pakietu Office zawierającej dodatek Power Pivot. [Sprawdź listę obsługiwanych wersji.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
 **Nie włączono dodatku Power Pivot**
   
-Jeśli pracujesz w wersji programu Excel obsługującej dodatek Power Pivot, sprawdź, czy dodatek jest włączony:
+Jeśli pracujesz z wersją programu Excel, która obsługuje dodatek Power Pivot, sprawdź, czy jest włączony dostęp do dodatku:
   
-1. Wybierz pozycję **Dodatki opcji** \> **plików** \> **.**
+1. Wybierz **File** pozycję \> **Options** \> **Dodatki**opcji plików.
 
-2. W polu rozwijany **Zarządzanie** wybierz pozycję **Dodatki COM** i kliknij przycisk **Przejdź**.
+2. W polu listy rozwijanej **Zarządzaj** wybierz pozycję Dodatki **com** i kliknij przycisk **Przejdź**.
 
-3. W oknie dialogowym **Dodatki com** zaznacz pole wyboru obok programu Microsoft Power Pivot dla **programu Excel,** a następnie kliknij przycisk **OK**.
+3. W oknie dialogowym **Dodatki COM** zaznacz pole wyboru obok pozycji **Microsoft Power Pivot dla programu Excel**, a następnie kliknij przycisk **OK**.
 
-**Masz wiele subskrypcji lub kont**
+**Masz wiele abonamentów lub kont**
   
-Możesz mieć różne subskrypcje usługi Microsoft 365 przypisane do różnych kont użytkowników. Upewnij się, że zalogowano się do konta w wersji programu Excel obsługującej usługę Power Pivot. Sprawdź listę [obsługiwanych wersji](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)i postępuj zgodnie z instrukcjami przełączania [się między różnymi kontami pakietu Office.](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)
+W przypadku różnych kont użytkowników mogą być przypisane różne subskrypcje programu Microsoft 365. Upewnij się, że zalogowano się do konta w wersji programu Excel obsługującej dodatek Power Pivot. Sprawdź listę [obsługiwanych wersji](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)i postępuj zgodnie z instrukcjami, aby [przełączać się między różnymi kontami pakietu Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
