@@ -1,36 +1,37 @@
 ---
-title: Rozwiązywanie problemów z dostarczaniem wiadomości e-mail do folderów publicznych z obsługą poczty
+title: Rozwiązywanie problemów dotyczących dostarczania wiadomości e-mail do folderów publicznych z obsługą poczty
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
 ms.assetid: ''
-ms.openlocfilehash: e261fe60843555fa45927b0a6b36e1ccf79fb028
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: da35ae4bd911fb75f23cc1c99aacbaa2392425dd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716362"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677938"
 ---
-# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Rozwiązywanie problemów z dostarczaniem wiadomości e-mail do folderów publicznych z obsługą poczty
+# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Rozwiązywanie problemów dotyczących dostarczania wiadomości e-mail do folderów publicznych z obsługą poczty
 
-Jeśli nadawcy zewnętrzni nie mogą wysyłać wiadomości do folderów publicznych z włączoną obsługą poczty, a nadawcy otrzymają błąd: **nie można odnaleźć (550 5.4.1),** sprawdź, czy domena poczty e-mail dla folderu publicznego jest skonfigurowana jako wewnętrzna domena przekazywania zamiast autorytatywnej domeny:
+Jeśli nadawcy zewnętrzni nie mogą wysyłać wiadomości do folderów publicznych z włączoną obsługą poczty, a nadawcy otrzymają błąd: **nie można znaleźć (550 5.4.1)**, sprawdź, czy domena poczty e-mail folderu publicznego jest skonfigurowana jako wewnętrzna domena przekaźnikowa, a nie domena autorytatywna:
 
-1. Otwórz [centrum administracyjne programu Exchange (EAC).](https://docs.microsoft.com/Exchange/exchange-admin-center)
+1. Otwórz [Centrum administracyjne programu Exchange (SKK)](https://docs.microsoft.com/Exchange/exchange-admin-center).
 
-2. Przejdź do usługi **Domena zaakceptowana** **przepływ** \> poczty , wybierz zaakceptowana domena, a następnie kliknij przycisk **Edytuj**.
+2. Przejdź do obszaru **przepływ poczty** \> , **zaakceptowane**domeny, wybierz zaakceptowaną domenę, a następnie kliknij pozycję **Edytuj**.
 
-3. Na otwartej stronie właściwości, jeśli typ domeny jest ustawiony na **Autorytatywny,** zmień wartość na **Przekaźnik wewnętrzny,** a następnie kliknij przycisk **Zapisz**.
+3. Na wyświetlonej stronie właściwości, jeśli typ domeny jest ustawiony na wartość **autorytatywna**, Zmień wartość na **przekaźnik wewnętrzny** , a następnie kliknij przycisk **Zapisz**.
 
-Jeśli nadawcy zewnętrzni otrzymają **błąd, który nie ma uprawnień (550 5.7.13),** uruchom następujące polecenie w [programie Exchange Online PowerShell,](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) aby wyświetlić uprawnienia dla anonimowych użytkowników w folderze publicznym:
+Jeśli nadawcy zewnętrzni otrzymają błąd, **którego nie masz uprawnień (550 5.7.13)**, uruchom następujące polecenie w programie [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) , aby wyświetlić uprawnienia dla użytkowników anonimowych w folderze publicznym:
 
-`Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous`Na przykład `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous`.
+`Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous` Na przykład `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous` .
 
-Aby umożliwić użytkownikom zewnętrznym wysyłanie wiadomości e-mail do tego folderu publicznego, należy dodać prawo dostępu CreateItems do użytkownika Anonimowy. Na przykład `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`.
+Aby zezwolić użytkownikom zewnętrznym na wysyłanie wiadomości e-mail do tego folderu publicznego, Dodaj prawo dostępu do elementu o dostępie do użytkownika anonimowego. Na przykład `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems` .

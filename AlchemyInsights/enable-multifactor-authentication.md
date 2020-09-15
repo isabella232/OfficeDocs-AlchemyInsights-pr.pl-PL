@@ -1,5 +1,5 @@
 ---
-title: Włącz uwierzytelnianie wieloskładnikowe
+title: Włączanie uwierzytelniania wieloskładnikowego
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703472"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678046"
 ---
 # <a name="enable-multi-factor-authentication"></a>Włączanie uwierzytelniania wieloskładnikowego
 
 Aby włączyć uwierzytelnianie wieloskładnikowe w centrum administracyjnym usługi Microsoft 365:
 
-1. Przejdź do strony **Użytkownicy aktywni** \> **użytkownicy.**
+1. Przejdź do strony **Users** \> **aktywni użytkownicy** użytkowników.
     
-2. U góry strony wybierz pozycję **Uwierzytelnianie wieloskładnikowe**. 
+2. W górnej części strony wybierz pozycję **uwierzytelnianie wieloskładnikowe**. 
     
-3. Znajdź użytkownika lub użytkowników, których chcesz włączyć w celu uwierzytelniania wieloskładnikowego. Aby wyświetlić wszystkich użytkowników, może być konieczna zmiana **filtru stanu Auth wieloczynnikowego** u góry.
+3. Znajdź użytkownika lub użytkowników, którym chcesz włączyć uwierzytelnianie wieloskładnikowe. Aby wyświetlić wszystkich użytkowników, może być konieczna zmiana filtru **stanu uwierzytelniania wieloskładnikowego** u samego początku.
     
 4. Zaznacz pole wyboru obok użytkowników, których chcesz włączyć.
     
-5.  W prawym okienku informacji o użytkowniku w obszarze **Szybkie kroki**wybierz pozycję **Włącz**. 
+5.  W okienku informacje o użytkowniku z prawej strony w obszarze **szybkie kroki**wybierz pozycję **Włącz**. 
     
-6. W oknie dialogowym, które się otworzy, wybierz **włącz auth wieloczynnikowych**. 
+6. W otwartym oknie dialogowym wybierz pozycję **Włącz usługę Multi-Factor auth**. 
     
 
