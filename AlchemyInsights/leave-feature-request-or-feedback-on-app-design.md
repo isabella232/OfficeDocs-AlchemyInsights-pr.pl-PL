@@ -1,35 +1,36 @@
 ---
-title: Zostaw żądanie funkcji lub opinię na temat projektu aplikacji
+title: Pozostaw żądanie funkcji lub opinię dotyczącą projektu aplikacji
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: a23f285d62915ab69c301390d800c1a91fd56a4a
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265238"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676532"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Zostaw żądanie funkcji lub opinię na temat projektu aplikacji
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Pozostaw żądanie funkcji lub opinię dotyczącą projektu aplikacji
 
-Dziękujemy, że dzielisz się swoimi przemyśleniami, gdy kontynuujemy pracę nad Outlookiem. *UserVoice* to forum, na którym możesz zostawić opinię i głosować na pomysły innych.  
+Jesteśmy wdzięczni za udostępnienie Twoich pomysłów w celu kontynuowania pracy w programie Outlook. *UserVoice* to forum, na którym możesz wystawiać Opinie i głosować na pomysły innych osób.  
 
-Aby zostawić nam pomysł: 
+Aby wyjść z nami: 
 
-**Ustawienia > Pomoc & opinie > Zaproponuj funkcję, > Opublikuj pomysł** 
+**Ustawienia > pomocne & opinii > zasugerowanie funkcji > opublikowaniu pomysłu** 
 
-**Zależy Ci na tym, jak wyświetla się Twoje imię i nazwisko/e-mail?**
+**Jak wyświetlić imię i nazwisko/adres e-mail?**
 
-Po dodaniu komentarza do istniejącego żądania funkcji aplikacja automatycznie wypełni Twoje imię i nazwisko lub adres e-mail z konta podstawowego skonfigurowanego w aplikacji. Aby wybrać wyświetlaną nazwę, należy przesłać **nowe** żądanie funkcji. 
+Po dodaniu komentarza do istniejącego żądania funkcji aplikacja automatycznie wypełni swoje imię i nazwisko lub adres e-mail na koncie podstawowym skonfigurowanym w aplikacji. Aby wybrać nazwę, która ma być wyświetlana, musisz przesłać **nowe** żądanie funkcji. 
 
-Przesłanie żądania jest prostym procesem 3-etapowym. Na trzeciej i ostatniej stronie zobaczysz wiersz adresu e-mail (wymagany) i wiersz dla Twojego imienia i nazwiska. Tutaj możesz wybrać sposób wyświetlania Twojego imienia i nazwiska lub przesłać pomysł anonimowo. 
+Przesłanie żądania to prosty proces 3-etapowy. Na trzeciej i końcowej stronie zostanie wyświetlona linia dla swojego adresu e-mail (wymagane) oraz wiersz dla swojej nazwy. Tutaj możesz określić, jak będzie wyświetlana Twoja nazwa, lub możesz przesłać pomysł anonimowo. 
 
-**Uwaga:** Może być również konieczna zmiana adresu e-mail jest automatycznie wypełniana na tej stronie. Jeśli Twoje imię i nazwisko jest skonfigurowane w określony sposób w ustawieniach klienta poczty e-mail, zmiana przesłania opinii na anonimowość może zostać zastąpiona przez ustawienia. 
+**Uwaga:** Być może trzeba również zmienić, jaki adres e-mail jest automatycznie wypełniany na tej stronie. Jeśli Twoja nazwa użytkownika jest skonfigurowana w sposób określony w ustawieniach klienta poczty e-mail, zmiana przesłania opinii na anonimowe może zostać zastąpiona ustawieniami. 

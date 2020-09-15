@@ -1,24 +1,25 @@
 ---
-title: 973 Migracja wstrzymanaDueTo* reguła
+title: 973 migracja StalledDueTo * reguła
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "973"
 - "3500008"
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: 8ee0bc2230f013f4bf38ad29bbcde217165ba71e
-ms.sourcegitcommit: 5eb4fad2edc1d15b961ec1e46ef78b39175dffed
+ms.openlocfilehash: 5c1127878dfe2c4a2c79712eceaa9181e95c794a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45167715"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674156"
 ---
-# <a name="stalleddueto-errors-during-migration"></a>Błędy wgłębnikudokonań podczas migracji
+# <a name="stalleddueto-errors-during-migration"></a>StalledDueTo błędów podczas migracji
 
-Może pojawić się wiele błędów, które zaczynają się od "StalledDueTo..." podczas migracji do usługi Exchange Online. Wiele z tych błędów jest całkowicie normalnych. Aby uzyskać więcej informacji, zobacz [Ograniczanie zasobów i ustalanie priorytetów w migracjach w trybie online programu Exchange](https://techcommunity.microsoft.com/t5/exchange-team-blog/resource-based-throttling-and-prioritization-in-exchange-online/ba-p/608020).
+Może zostać wyświetlona liczność błędów rozpoczynających się od ciągu "StalledDueTo..." podczas migracji do usługi Exchange Online. Wiele z tych błędów jest idealnie normalnych. Aby uzyskać więcej informacji, zobacz [ograniczanie zależności zasobów i określanie priorytetów w migracjach usługi Exchange Online](https://techcommunity.microsoft.com/t5/exchange-team-blog/resource-based-throttling-and-prioritization-in-exchange-online/ba-p/608020).

@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: d80f48ae5a791e30a85e23478424bc836b5da4e6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ed25e76647dfe59e9179fc05dccd9dc139ee639e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713944"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675344"
 ---
 # <a name="microsoft-stream-licensing-overview"></a>Omówienie licencjonowania usługi Microsoft Stream
 
-Usługa Microsoft Stream to usługa w chmurze licencjonowana na podstawie subskrypcji na użytkownika. Jest on dostępny w ramach kwalifikujących się subskrypcji usługi Microsoft 365. Informacje na temat każdego typu subskrypcji można znaleźć w cenniku usługi Microsoft 365.
+Microsoft Stream to usługa w chmurze licencjonowana na podstawie subskrypcji na użytkownika. Jest dostępny w ramach kwalifikujących się abonamentów Microsoft 365. Aby uzyskać informacje na temat każdego typu abonamentu, zobacz cennik Microsoft 365.
 
 - [Omówienie licencjonowania usługi Microsoft Stream](https://docs.microsoft.com/stream/license-overview)
