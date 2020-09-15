@@ -6,20 +6,21 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1773"
 - "9000169"
-ms.openlocfilehash: 7258056215713b5e6840f9d732f6b386db74574e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 07a87b1f672108ed1dd8ff76cc7e571b0138314f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743247"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702085"
 ---
-# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Pasek stanu synchronizacji programu Outlook pozostaje na poziomie 3,99 GB
+# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Pasek stanu synchronizacji programu Outlook pozostaje w 3,99 GB
 
-Spróbuj zmniejszyć rozmiar zawartości folderu lub utwórz filtr synchronizacji dla dużych folderów o rozmiarze lub w pobliżu 4 GB.
+Zmniejsz rozmiar zawartości folderu lub Utwórz filtr synchronizacji dla dużych folderów w temperaturze lub w bliskiej 4 GB.
 
-Aby uzyskać więcej informacji, zobacz Postęp paska stanu nigdy nie pokazuje więcej niż 3,99 GB pozostałych podczas [wstępnej synchronizacji dużych folderów.](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial)
+[Aby uzyskać więcej informacji,](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial)Zobacz postęp na pasku stanu nigdy nie widać więcej niż 3,99 GB pozostałej w ramach wstępnej synchronizacji dużych folderów.
