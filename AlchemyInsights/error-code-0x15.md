@@ -5,30 +5,31 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "919"
 - "2000022"
 ms.assetid: 0d566afe-b21f-4f1b-8ca9-4b4d3b0f5435
-description: Jeśli podczas włączania wdrożeń usługi RDS (Remote Desktop Services) pojawia się błąd, należy rozważyć włączenie usługi ADAL przez edycję rejestru.
-ms.openlocfilehash: 468d13e59602cf173ed2e17af44c66babfc28703
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+description: Jeśli podczas aktywowania pakietu Office 2013 na wdrożeniach usług pulpitu zdalnego (RDS) jest wyświetlany komunikat o błędzie, warto włączyć bibliotekę ADAL, edytując rejestr.
+ms.openlocfilehash: deb2ac4b0fb6a7b2e0045ff1b0ba95ad6e5e4a3a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506856"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709197"
 ---
-# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a><span data-ttu-id="a1508-103">Błąd podczas aktywacji pakietu Office 2013 w usługach pulpitu zdalnego</span><span class="sxs-lookup"><span data-stu-id="a1508-103">Error while activation Office 2013 on Remote Desktop Services</span></span>
+# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a><span data-ttu-id="9239e-103">Błąd podczas aktywowania pakietu Office 2013 w usługach pulpitu zdalnego</span><span class="sxs-lookup"><span data-stu-id="9239e-103">Error while activation Office 2013 on Remote Desktop Services</span></span>
 
-<span data-ttu-id="a1508-104">Jeśli podczas włączania wdrożeń usługi RDS (Remote Desktop Services) pojawia się błąd, należy rozważyć włączenie usługi ADAL przez edycję rejestru.</span><span class="sxs-lookup"><span data-stu-id="a1508-104">If you're receiving an error while activating Office 2013 on Remote Desktop Services (RDS) deployments, consider enabling ADAL by editing the registry.</span></span>
+<span data-ttu-id="9239e-104">Jeśli podczas aktywowania pakietu Office 2013 na wdrożeniach usług pulpitu zdalnego (RDS) jest wyświetlany komunikat o błędzie, warto włączyć bibliotekę ADAL, edytując rejestr.</span><span class="sxs-lookup"><span data-stu-id="9239e-104">If you're receiving an error while activating Office 2013 on Remote Desktop Services (RDS) deployments, consider enabling ADAL by editing the registry.</span></span>
   
-|<span data-ttu-id="a1508-105">**Klucz rejestru**</span><span class="sxs-lookup"><span data-stu-id="a1508-105">**Registry key**</span></span>|<span data-ttu-id="a1508-106">**Type**</span><span class="sxs-lookup"><span data-stu-id="a1508-106">**Type**</span></span>|<span data-ttu-id="a1508-107">**Wartość**</span><span class="sxs-lookup"><span data-stu-id="a1508-107">**Value**</span></span>|
+|<span data-ttu-id="9239e-105">**Klucz rejestru**</span><span class="sxs-lookup"><span data-stu-id="9239e-105">**Registry key**</span></span>|<span data-ttu-id="9239e-106">**Type**</span><span class="sxs-lookup"><span data-stu-id="9239e-106">**Type**</span></span>|<span data-ttu-id="9239e-107">**Wartość**</span><span class="sxs-lookup"><span data-stu-id="9239e-107">**Value**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="a1508-108">HKEY_CURRENT_USER\Oprogramowanie\Microsoft\Office\15.0\Common\Identity\EnableADAL</span><span class="sxs-lookup"><span data-stu-id="a1508-108">HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Common\Identity\EnableADAL</span></span>  <br/> |<span data-ttu-id="a1508-109">REG_DWORD</span><span class="sxs-lookup"><span data-stu-id="a1508-109">REG_DWORD</span></span>  <br/> |<span data-ttu-id="a1508-110">1</span><span class="sxs-lookup"><span data-stu-id="a1508-110">1</span></span>  <br/> |
+|<span data-ttu-id="9239e-108">HKEY_CURRENT_USER \Software\Microsoft\Office\15.0\Common\Identity\EnableADAL</span><span class="sxs-lookup"><span data-stu-id="9239e-108">HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Common\Identity\EnableADAL</span></span>  <br/> |<span data-ttu-id="9239e-109">REG_DWORD</span><span class="sxs-lookup"><span data-stu-id="9239e-109">REG_DWORD</span></span>  <br/> |<span data-ttu-id="9239e-110">jedno</span><span class="sxs-lookup"><span data-stu-id="9239e-110">1</span></span>  <br/> |
 
-<span data-ttu-id="a1508-111">Aby uzyskać więcej informacji, zobacz [Włączanie nowoczesnego uwierzytelniania dla pakietu Office 2013 na urządzeniach z systemem Windows](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).</span><span class="sxs-lookup"><span data-stu-id="a1508-111">For more information, see [Enable Modern Authentication for Office 2013 on Windows devices](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).</span></span>
+<span data-ttu-id="9239e-111">Aby uzyskać więcej informacji, zobacz [Włączanie nowoczesnego uwierzytelniania dla pakietu Office 2013 na urządzeniach z systemem Windows](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).</span><span class="sxs-lookup"><span data-stu-id="9239e-111">For more information, see [Enable Modern Authentication for Office 2013 on Windows devices](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).</span></span>
   
 > [!NOTE]
->  <span data-ttu-id="a1508-112">Usługa ADAL jest domyślnie włączona w usłudze Microsoft 365 Apps dla przedsiębiorstw i pakiecie Office 2016.</span><span class="sxs-lookup"><span data-stu-id="a1508-112">ADAL is enabled by default in Microsoft 365 Apps for enterprise and Office 2016.</span></span> <span data-ttu-id="a1508-113">Usługi pulpitu zdalnego (RDS) były wcześniej nazywane usługami terminalowymi.</span><span class="sxs-lookup"><span data-stu-id="a1508-113">Remote Desktop Services (RDS) was previously named Terminal Services.</span></span>
+>  <span data-ttu-id="9239e-112">Wartość ADAL jest domyślnie włączona w aplikacjach Microsoft 365 dla przedsiębiorstw i pakietu Office 2016.</span><span class="sxs-lookup"><span data-stu-id="9239e-112">ADAL is enabled by default in Microsoft 365 Apps for enterprise and Office 2016.</span></span> <span data-ttu-id="9239e-113">Usługi pulpitu zdalnego (RDS) były wcześniej nazwane usługami terminalowymi.</span><span class="sxs-lookup"><span data-stu-id="9239e-113">Remote Desktop Services (RDS) was previously named Terminal Services.</span></span>
   
