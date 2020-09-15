@@ -1,11 +1,12 @@
 ---
-title: Cena nie wygląda poprawnie?
+title: Cena nie wygląda na poprawnie?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: 7bba6524807f17ddc786319f469bf22b50f4a845
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3a3fb90af53f4c098fb4eb7673464cd373c40f99
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666715"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693673"
 ---
-# <a name="price-doesnt-look-correct"></a><span data-ttu-id="dacd5-102">Cena nie wygląda poprawnie?</span><span class="sxs-lookup"><span data-stu-id="dacd5-102">Price doesn't look correct?</span></span>
+# <a name="price-doesnt-look-correct"></a><span data-ttu-id="bd7e7-102">Cena nie wygląda na poprawnie?</span><span class="sxs-lookup"><span data-stu-id="bd7e7-102">Price doesn't look correct?</span></span>
 
-<span data-ttu-id="dacd5-103">Jeśli cena na fakturze nie wygląda poprawnie, może to być spowodowane zmianą ceny przy odnowieniu.</span><span class="sxs-lookup"><span data-stu-id="dacd5-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="dacd5-104">Jeśli nie uważasz, że to wyjaśnia problem, skorzystaj z opcji "Zadzwoń do Ciebie", aby porozmawiać z inżynierem pomocy technicznej.</span><span class="sxs-lookup"><span data-stu-id="dacd5-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="bd7e7-103">Jeśli cena na fakturze nie wygląda prawidłowo, może to być spowodowane zmianą ceny w trakcie odnawiania.</span><span class="sxs-lookup"><span data-stu-id="bd7e7-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="bd7e7-104">Jeśli nie sądzisz tego problemu, użyj opcji "Pozwól nam zadzwonić do Ciebie", aby porozmawiać z inżynierem pomocy technicznej.</span><span class="sxs-lookup"><span data-stu-id="bd7e7-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
