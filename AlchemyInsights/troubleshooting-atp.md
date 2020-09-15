@@ -1,34 +1,35 @@
 ---
-title: Rozwiązywanie problemów z zaawansowaną ochroną przed zagrożeniami usługi Office 365
+title: Rozwiązywanie problemów dotyczących zaawansowanych zabezpieczeń dotyczących zagrożeń w pakiecie Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 7391b3c126d55213881f6b71cb6b5fc72bc68d0f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512600"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658924"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Rozwiązywanie problemów z zaawansowaną ochroną przed zagrożeniami usługi Office 365
+# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Rozwiązywanie problemów dotyczących zaawansowanych zabezpieczeń dotyczących zagrożeń w pakiecie Office 365
 
-- Czy zauważasz opóźnienia w dostarczaniu wiadomości? Użyj opcji [Dostarczanie dynamiczne](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) w zasadach bezpiecznych załączników ATP. Pomoże to uniknąć opóźnień w wiadomościach, chroniąc jednocześnie adresatów przed złośliwymi plikami.
+- Czy zauważysz opóźnienia dostarczenia wiadomości? Użyj opcji [dostarczania dynamicznego](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) w zasadach bezpiecznych załączników ATP. Pomoże to uniknąć opóźnień w wiadomościach chroniących adresatów przed złośliwymi plikami.
 
-- Czy chcesz zgłosić fałszywe alarmy lub fałszywe negatywy do firmy Microsoft? Użyj tego [łącza,](https://www.microsoft.com/wdsi/filesubmission/) aby przesłać pliki do analizy.
+- Czy chcesz zgłosić fałszywie dodatnie lub fałszywe wartości ujemne firmie Microsoft? Użyj tego [linku](https://www.microsoft.com/wdsi/filesubmission/) , aby przesłać pliki do analizy.
 
-- Czy wiesz, że możesz włączyć ochronę bezpiecznych łączy dla wewnętrznej poczty e-mail wysyłanej między adresatami w organizacji? Wykonaj następujące czynności:
+- Czy wiesz, że możesz włączyć ochronę przed linkami dla wewnętrznych wiadomości e-mail wysyłanych między adresatami w organizacji? Wykonaj następujące czynności:
 
-  1. Przejdź do [https://protection.office.com](https://protection.office.com) konta administratora globalnego lub administratora zabezpieczeń i zaloguj się.
+  1. Przejdź do [https://protection.office.com](https://protection.office.com) i zaloguj się przy użyciu konta administratora globalnego lub administratora zabezpieczeń.
 
-  2. W lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami**wybierz pozycję **Bezpieczne** łącza zasad \> **Safe Links**.
+  2. W lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami**wybierz pozycję **zasady** \> **bezpieczne linki**.
 
-  3. W sekcji **Zasady dotyczące całej organizacji** wybierz zasadę i kliknij przycisk **Edytuj**.
+  3. W **zasadach, które dotyczą całej sekcji organizacji** , zaznacz odpowiednie zasady i kliknij pozycję **Edytuj**.
 
-  4. W obszarze **Ustawienia**włącz **opcję Zastosuj bezpieczne łącza do wiadomości wysyłanych w organizacji**.
+  4. W obszarze **Ustawienia**Włącz opcję **Zastosuj bezpieczne linki do wiadomości wysłanych w organizacji**.

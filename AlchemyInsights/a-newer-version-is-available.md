@@ -5,19 +5,20 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000694"
 - "2597"
-ms.openlocfilehash: 42f82c873e8674b41975782b33aefe55b821ca39
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: ce38d96381c5be7a10459313df18e586e5dd6267
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045505"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663892"
 ---
-# <a name="delete-the-office-document-cache"></a>Usuwanie funkcji Office Document Cache
+# <a name="delete-the-office-document-cache"></a>Usuwanie pamięci podręcznej dokumentów pakietu Office
 
-Jeśli otrzymałeś wiersz z programu Excel, że **dostępna jest nowsza wersja pliku**, spróbuj usunąć funkcji Office Document Cache, postępując zgodnie z instrukcjami w polu [Usuń użytkownika Office Document Cache](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d). Następnie spróbuj ponownie otworzyć plik.
+Jeśli w programie Excel zostanie wyświetlony monit o **udostępnienie nowszej wersji pliku**, spróbuj usunąć pamięć podręczną dokumentów pakietu Office, postępując zgodnie z instrukcjami zawartymi w części [Usuwanie pamięci podręcznej dokumentów pakietu Office](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d). Następnie spróbuj ponownie otworzyć plik.

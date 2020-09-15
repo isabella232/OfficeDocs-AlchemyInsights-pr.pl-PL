@@ -1,40 +1,41 @@
 ---
-title: Wyświetlanie hasła sieci Wi-Fi w systemie Windows 10
+title: Wyświetlanie hasła sieciowego sieci Wi-Fi w systemie Windows 10
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: 26ae276bdb1c12eb96832fdbf9d243ddc1ed0250
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: dd4fa680b03a7f9dd29a22189b3e22b76e3f2025
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584700"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689100"
 ---
-# <a name="view-wi-fi-network-password-in-windows-10"></a>Wyświetlanie hasła sieci Wi-Fi w systemie Windows 10
+# <a name="view-wi-fi-network-password-in-windows-10"></a>Wyświetlanie hasła sieciowego sieci Wi-Fi w systemie Windows 10
 
-1. Upewnij się, że komputer z systemem Windows 10 jest połączony z siecią Wi-Fi.
+1. Upewnij się, że Twój komputer z systemem Windows 10 jest podłączony do sieci Wi-Fi.
 
-2. Przejdź do **ustawienia > sieci & Internet > status**, lub kliknij lub naciśnij [tutaj,](ms-settings:network?activationSource=GetHelp) aby pozwolić nam zabrać cię tam teraz.)
+2. Przejdź do obszaru **ustawienia > sieci & Internet >** lub kliknij lub naciśnij tutaj, aby powiadomić nas o [tym](ms-settings:network?activationSource=GetHelp) .
 
 3. Kliknij pozycję **Centrum sieci i udostępniania**.
 
     ![Centrum sieci i udostępniania.](media/network-sharing-center.png)
 
-4. W **Centrum sieci i udostępniania**obok pozycji **Połączenia**zostanie wyświetlona nazwa sieci bezprzewodowej. Jeśli na przykład sieć nosi nazwę "ABC123", może zostać wyświetlona:
+4. W **Centrum sieci i udostępniania**obok pozycji **połączenia**zostanie wyświetlona nazwa Twojej sieci bezprzewodowej. Jeśli na przykład Twoja sieć ma nazwę "ABC123", być może zobaczysz:
 
     ![Połączenia sieciowe.](media/network-connections.png)
 
-    Kliknij nazwę sieci bezprzewodowej, aby otworzyć okno Stan sieci Wi-Fi. 
+    Kliknij nazwę sieci bezprzewodowej, aby otworzyć okno statusu sieci Wi-Fi. 
 
-5. W oknie Stan sieci Wi-Fi kliknij pozycję **Właściwości sieci bezprzewodowej**, kliknij kartę **Zabezpieczenia** i zaznacz polecenie **Pokaż znaki**.
+5. W oknie stan sieci Wi-Fi kliknij pozycję **właściwości sieci bezprzewodowej**, kliknij kartę **zabezpieczenia** , a następnie zaznacz pole wyboru **Pokaż znaki**.
 
-    ![Pokaż znaki hasła Wi-Fi.](media/show-password-characters.png)
+    ![Pokaż znaki hasła sieci Wi-Fi.](media/show-password-characters.png)
 

@@ -1,11 +1,12 @@
 ---
-title: Powtarzające się logowanie, aby otworzyć _vti_rpc
+title: Powtarzanie logowania w celu otwarcia _vti_rpc
 ms.author: pebaum
 author: pebaum
 manager: jecon
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,14 +15,14 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: 4b063c5524fdf36e4fa7eb6e774773ed701a8526
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1ef60f663a04045e4cd00463e59dcbf1f2f92122
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722784"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662479"
 ---
-# <a name="repeated-login-to-open-_vti_rpc"></a>Powtarzające się logowanie, aby otworzyć _vti_rpc
+# <a name="repeated-login-to-open-_vti_rpc"></a>Powtarzanie logowania w celu otwarcia _vti_rpc
 
-Podczas pracy z plikami usługi OneDrive przy użyciu pakietu Office 2016 może zostać wyświetlony komunikat: "Powiedz nam konto, którego chcesz otworzyć _vti_rpc". Ten problem został rozwiązany w wersji 1708 (16.0.8431.2094). Aby rozwiązać ten problem, zaktualizuj do najnowszej wersji pakietu Office. Wybierz pozycję **Opcje** \> aktualizacji **konta** \> **plików** \> **Aktualizuj teraz**.
+Podczas pracy z plikami usługi OneDrive za pomocą pakietu Office 2016 może zostać wyświetlona wiadomość: "Podaj nam konto, którego chcesz użyć, aby otworzyć _vti_rpc". Ten problem został rozwiązany w wersji 1708 (16.0.8431.2094). Aby rozwiązać ten problem, zaktualizuj najnowszą wersję pakietu Office. Wybierz **File** pozycję \> **Account** \> **Opcje aktualizacji** konta pliku \> **Aktualizuj teraz**.
   
