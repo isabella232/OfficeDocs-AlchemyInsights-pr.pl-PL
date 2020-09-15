@@ -1,29 +1,30 @@
 ---
-title: Zanieszenia wyodrębniania nazwy firmy
+title: Przestarzałe wyodrębnianie nazw firm
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: cf8535c82b6d1e6c16d1f2002836bb032cde2dc3
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: 8487ba5c0e3c00df9e25101c8086fbf34994480f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469296"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681018"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Zmiany w wyodrębnianie nazwy firmy w programie SharePoint Online
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Zmiany w nazwie firmy wyodrębnianie w usłudze SharePoint Online
 
-Począwszy od 15 listopada, 2019, będziemy [usuwać wyodrębnianie nazwy firmy z programu SharePoint w trybie online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). Wyodrębnienie nazwy firmy w programie SharePoint umożliwia systemowi wyszukiwania wyodrębnianie nazw firm z zawartości w określonym zestawie warunków przy użyciu wstępnie wypełnionych słownika lub za pomocą list włączeń firmy lub wykluczenia firmy. Podczas wyodrębniania nazwy firmy stał się oparte na rozwiązanie do uzyskania jednej lub więcej nazwy firmy z zawartości w trybie online programu SharePoint, zarówno słownika i jego podstawowego zestawu funkcji stały się przestarzałe.
+Począwszy od 15 listopada 2019 r., będziemy [usuwać z usługi SharePoint Online wyodrębnianie nazw firm](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). Funkcja wyodrębniania nazw firm w programie SharePoint umożliwia systemowi wyszukiwania wyodrębnienie nazw firm z zawartości pod określonym zestawem warunków za pomocą wstępnie wypełnionego słownika lub za pomocą list dołączania firmy lub wykluczeń firm. Podczas wyodrębniania nazw firm w celu uzyskania co najmniej jednej nazwy firmy z zawartości w usłudze SharePoint Online, zarówno słownik, jak i jego podstawowy zestaw funkcji, są przestarzałe.
 
-- [Skąd mam wiedzieć, czy wyodrębnianie nazwy firmy jest włączone dla właściwości?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
+- [Jak sprawdzić, czy funkcja wyodrębniania nazw firm jest włączona dla właściwości?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 
-- [Co się stanie, gdy wyodrębnienie nazwy firmy jest przestarzałe?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
+- [Co się dzieje, gdy wyodrębnianie nazw firm jest przestarzałe?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
 
-- [Czy istnieją alternatywy dla wyodrębnienie nazwy firmy?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 
+- [Czy istnieją alternatywy do wyodrębniania nazw firm?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 

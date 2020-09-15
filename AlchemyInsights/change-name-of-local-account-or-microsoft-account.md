@@ -5,67 +5,68 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: b59f55f9a94dd0bc9bbeb67face69bb489d158ce
-ms.sourcegitcommit: 9a35768444824cde9e192f1d9daafc9157437244
+ms.openlocfilehash: db13ecbe31b9bb0ca4a98b061619358c6c5edadd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42268675"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682800"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Zmienianie nazwy konta lokalnego lub konta Microsoft
 
-Jeśli do logowania się do systemu Windows 10 używasz tylko nazwy użytkownika i hasła, używasz konta lokalnego. 
+Jeśli zalogujesz się do systemu Windows 10 za pomocą samej nazwy użytkownika i hasła, korzystasz z konta lokalnego. 
 
-**Aby zmienić nazwę konta lokalnego:**
+**Aby zmienić nazwę konta lokalnego**:
 
-1. Kliknij przycisk **Start,** **wpisz panel sterowania**i wybierz polecenie **Panel sterowania** z listy wyników.
+1. Kliknij przycisk **Start** , wpisz **Panel sterowania**i wybierz pozycję **Panel sterowania** z listy wyników.
 
-2. Kliknij **pozycję Konta użytkowników**, a następnie zmień typ **konta**.
+2. Kliknij pozycję **konta użytkowników**, a następnie **Zmień typ konta**.
 
-3. Wybierz konto, które chcesz zmienić, kliknij pozycję **Właściwości**, a następnie wprowadź nową nazwę nazwy użytkownika.
+3. Wybierz konto, które chcesz zmienić, kliknij pozycję **Właściwości**, a następnie wprowadź nową nazwę dla pola Nazwa użytkownika.
 
 4. Kliknij przycisk **OK**.
 
-Jeśli do logowania używasz adresu e-mail i hasła, używasz konta Microsoft.
+Jeśli zalogujesz się przy użyciu adresu e-mail i hasła, korzystasz z konta Microsoft.
 
-**Aby zmienić nazwę wyświetlawą konta Microsoft:**
+**Aby zmienić nazwę wyświetlaną konta Microsoft**:
 
-Używasz swojej nazwy wyświetlanej za każdym razem, gdy logujesz się na swoje konto. Jest to również nazwa, którą widzisz na urządzeniach z systemem Windows 10 i jest to nazwa, którą ludzie widzą podczas wysyłania wiadomości e-mail. Ta nazwa może różnić się od nazwy wyświetlanej konta lokalnego. Oto jak zmienić nazwę wyświetlaą:
+Nazwa wyświetlana jest używana za każdym razem, gdy logujesz się do konta. Jest to również nazwa widoczna na urządzeniach z systemem Windows 10 i jest to nazwa wyświetlana podczas wysyłania wiadomości e-mail. Ta nazwa może różnić się od nazwy wyświetlanej Twojego konta lokalnego. Poniżej opisano, jak można zmienić nazwę wyświetlaną:
 
-1. Zaloguj się do strony **Twoje informacje** w witrynie sieci Web [konta Microsoft](https://account.microsoft.com/).
+1. Zaloguj się do strony **informacje** w [witrynie internetowej konta Microsoft](https://account.microsoft.com/).
 
-2. Pod swoim imieniem i nazwiskiem kliknij pozycję **Edit name**. Jeśli nie ma jeszcze nazwy, kliknij pozycję **Dodaj nazwę**. 
+2. W obszarze imię i nazwisko kliknij pozycję **Edytuj nazwę**. Jeśli na liście nie ma jeszcze nazwy, kliknij pozycję **Dodaj nazwę**. 
 
-3. Wprowadź odpowiednią nazwę, wpisz CAPTCHA i kliknij przycisk **Zapisz**. Niektóre nazwy mogą nie być dozwolone, jeśli zawierają zablokowane słowa lub frazy. Jeśli podczas wprowadzania imienia i nazwiska pojawia się błąd, spróbuj użyć pseudonimu.
+3. Wprowadź odpowiednią nazwę, wpisz testy CAPTCHA, a następnie kliknij przycisk **Zapisz**. Niektóre nazwy mogą być niedozwolone, jeśli zawierają zablokowane wyrazy lub frazy. Jeśli podczas wpisywania nazwy zostanie wyświetlony komunikat o błędzie, zamiast tego użyj przydomek.
 
-4. Jeśli nazwa wyświetlana nie zmieni się od razu lub stara nazwa jest nadal wyświetlana w wiadomościach e-mail, twoje informacje mogą być buforowane. Aby szybko zaktualizować nazwę, możesz przełączyć się na konto lokalne, a następnie [zalogować się z powrotem na swoje konto Microsoft](https://account.microsoft.com/).
+4. Jeśli nazwa wyświetlana nie zmieni się od razu lub jeśli stara nazwa jest nadal wyświetlana w wiadomościach e-mail, informacje mogą być buforowane. Aby szybko zaktualizować nazwę, możesz przełączyć się na swoje konto lokalne, a następnie [ponownie zalogować się do swojego konta Microsoft](https://account.microsoft.com/).
 
-Nazwa wyświetlana nie zmienia tagu gracza. Jeśli chcesz mieć nowy tag gracza, zobacz [Jak zmienić tag gracza Xbox](https://support.xbox.com/id-ID/account-management/change-xbox-live-gamertag).
+Nazwa wyświetlana nie zmienia tag gracza. Jeśli potrzebujesz nowego tag gracza, zobacz [jak zmienić tag gracza konsoli Xbox](https://support.xbox.com/id-ID/account-management/change-xbox-live-gamertag).
 
-**Aby zmienić nazwę administratora:**
+**Aby zmienić nazwę administratora**:
 
-1. W polu wyszukiwania na pasku zadań **wpisz pozycję Zarządzanie komputerem** i wybierz go z listy.
+1. W polu wyszukiwania na pasku zadań wpisz polecenie **Zarządzanie komputerem** i wybierz je z listy.
 
-2. Kliknij strzałkę obok pozycji **Użytkownicy i grupy lokalne,** aby ją rozwinąć. Kliknij **pozycję Użytkownicy**.
+2. Kliknij strzałkę obok pozycji **Użytkownicy i grupy lokalne** , aby ją rozwinąć. Kliknij pozycję **Użytkownicy**.
 
-3. Kliknij prawym przyciskiem myszy **pozycję Administrator** i kliknij polecenie **Zmień nazwę**.
+3. Kliknij prawym przyciskiem myszy pozycję **administrator** , a następnie kliknij polecenie **Zmień nazwę**.
 
 4. Wpisz nową nazwę. Pamiętaj, że musisz być administratorem, aby zmienić tę nazwę.
 
-**Oto kilka innych przydatnych rzeczy, które możesz zmienić na swoim koncie Microsoft:**
+**Oto inne przydatne elementy, które można zmienić na koncie Microsoft**:
 
-- [Które adresy e-mail można użyć do zalogowania się na konto Microsoft](https://support.microsoft.com/help/4026162)
+- [Których adresów e-mail możesz używać do logowania się do konta Microsoft](https://support.microsoft.com/help/4026162)
 
-- [Jakich adresów e-mail można używać do wysyłania wiadomości e-mail](https://support.microsoft.com/help/12407) (dodając aliasy i zarządzając nimi na koncie Microsoft)
+- [Adresy e-mail, których można używać do wysyłania wiadomości e-mail](https://support.microsoft.com/help/12407) (przez dodawanie aliasów i zarządzanie nimi na koncie Microsoft).
 
 - [Data urodzenia na koncie Microsoft](https://support.microsoft.com/help/12411)
 
-- [Obraz konta Microsoft](https://support.microsoft.com/help/4026790)
+- [Twój awatar Microsoft](https://support.microsoft.com/help/4026790)
 
-[Uzyskaj więcej pomocy w konfigurowaniu konta Microsoft i zarządzaniu nimi](https://support.microsoft.com/hub/4294457/microsoft-account-help#manage-account)
+[Uzyskiwanie dodatkowej pomocy dotyczącej konfigurowania konta Microsoft i zarządzania nim](https://support.microsoft.com/hub/4294457/microsoft-account-help#manage-account)
