@@ -1,31 +1,32 @@
 ---
-title: Opróżnianie folderu Elementy usunięte w Outlook.com
+title: Opróżnianie folderu Elementy usunięte w programie Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 25140869694e48d79ed3f29f159c8114c244c34d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43723459"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672462"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Opróżnianie folderu Elementy usunięte
 
-1. Otwórz folder Elementy usunięte i wybierz pozycję **Pusty folder**.
-2. Wybierz **pozycję Odzyskiwalne elementy** u góry strony i ponownie wybierz pozycję Pusty **folder.**
+1. Otwórz folder Elementy usunięte i wybierz pozycję **Opróżnij folder**.
+2. Wybierz pozycję **elementy odzyskiwalne** u góry strony i ponownie wybierz pozycję **pusty folder** .
 
-**Nie można opróżnić folderu Elementy usunięte**
+**Opróżnianie folderu Elementy usunięte nie powiodło się**
 
-- Jeśli usunięto wiele wiadomości e-mail, przeniesienie tych elementów do folderu Elementy usunięte może zająć trochę czasu. Pozostaw otwarte okno przeglądarki podczas usuwania.
-- Jeśli wiadomość e-mail nadal nie może poprawnie usunąć, wybierz mniejszą partię do usunięcia.
-- Jeśli usunięto wiadomość e-mail, może to być spowodowane tym, że niedawno usunięto wiele wiadomości e-mail. Spróbuj ponownie później.
+- Jeśli usunięto mnóstwo wiadomości e-mail, może upłynąć trochę czasu, zanim te elementy zostaną przeniesione lub usunięte z folderu Elementy usunięte. Pozostawienie otwartego okna przeglądarki podczas usuwania.
+- Jeśli wiadomości e-mail nadal nie można usunąć poprawnie, wybierz mniejszą partię do usunięcia.
+- Jeśli usunięto wiadomości e-mail, może to wynikać z faktu, że ostatnio usunięto wiele wiadomości e-mail. Spróbuj ponownie później.

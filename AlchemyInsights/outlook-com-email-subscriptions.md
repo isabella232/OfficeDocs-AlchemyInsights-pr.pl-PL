@@ -1,34 +1,35 @@
 ---
-title: Outlook.com subskrypcje wiadomości e-mail
-ms.author: lpyfer
-author: lpyfer
+title: Abonamenty e-mail Outlook.com
+ms.author: pebaum
+author: pebaum
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: becf4fcf93871b78ae136efeaa004f999bf0532c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cc65c04f0f77936fdc5d7919729aeeafba502c92
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43723676"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672426"
 ---
-# <a name="email-subscriptions"></a>Subskrypcje wiadomości e-mail
+# <a name="email-subscriptions"></a>Subskrypcje poczty e-mail
 
-Dlaczego na moich listach subskrypcji są wiją się wiadomości e-mail?
+Dlaczego są wyświetlane wiadomości e-mail na liście Moje subskrypcje?
 
-Outlook.com wykrył, że wiadomość e-mail zawiera informacje o subskrypcji, w tym "Wypisuj subskrypcję" w wiadomości. Outlook.com nie subskrybowała automatycznie żadnych biuletynów.
+Outlook.com wykrył, że wiadomość e-mail zawiera informacje o abonamentach, w tym komunikat "Anuluj subskrypcję". Outlook.com nie subskrybuje automatycznie żadnych biuletynów.
 
-Jeśli chcesz przestać otrzymywać biuletyny lub promocje, możesz zrezygnować z subskrypcji za pomocą Outlook.com:
-1. W skrzynce odbiorczej wybierz biuletyn lub promocyjną wiadomość e-mail. U góry okienka odczytu wybierz pozycję **Wypisuj subskrypcję**.
-2. Otwórz ustawienia [subskrypcji Outlook.com](https://go.microsoft.com/fwlink/?linkid=2110887) i wybierz pozycję **Wypisuj subskrypcję.**
+Jeśli chcesz zrezygnować z otrzymywania biuletynów lub promocji, możesz anulować abonament przy użyciu Outlook.com:
+1. W skrzynce odbiorczej wybierz biuletyn lub promocyjny adres e-mail. W górnej części okienka odczytu wybierz pozycję **Anuluj subskrypcję**.
+2. Otwórz ustawienia [abonamentów Outlook.com](https://go.microsoft.com/fwlink/?linkid=2110887) i wybierz pozycję **Anuluj subskrypcję**.
 
-Uwagi: tę funkcję zobaczysz tylko wtedy, gdy otrzymałeś wiadomość e-mail od firmy wysyłającej subskrybowane wiadomości e-mail.
-Jeśli zapytanie dotyczy płatnych subskrypcji usługi Microsoft[https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) 365, przejdź do witryny lub dowiedz [się więcej o usłudze Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+Uwagi: Ta funkcja będzie widoczna tylko wtedy, gdy otrzymasz wiadomość e-mail od firmy wysyłającej subskrybowane wiadomości e-mail.
+Jeśli kwerenda dotyczy płatnych abonamentów Microsoft 365, przejdź do [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888)   [witryny Microsoft 365 lub Dowiedz się więcej o](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade)niej.
   
