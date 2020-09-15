@@ -1,11 +1,12 @@
 ---
-title: Pomoc w zrozumieniu rachunku
+title: Pomóż w zrozumieniu rachunku
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,20 +14,20 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: af4f0e274cce71b9a432066096763abc1fa464bb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: bf09bf13ae38f6fee0d8e9451504e26ea68c68e3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44498981"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705453"
 ---
-# <a name="help-understanding-your-bill"></a>Pomoc w zrozumieniu rachunku
+# <a name="help-understanding-your-bill"></a>Pomóż w zrozumieniu rachunku
 
-Kwota naliczona za subskrypcję odzwierciedla cenę licencji pomnożoną przez liczbę zakupionych licencji oraz wszelkie wymagane podatki/opłaty.
+Kwota rozliczona abonamentu odzwierciedla cenę licencji pomnożoną przez liczbę zakupionych licencji oraz wymagane podatki/opłaty.
   
-Jeśli kwota naliczona jest inna, a następnie oczekiwano, istnieje kilka powodów, może się to zdarzyć:
+Jeśli kwota rozliczana jest inna niż oczekiwano, może to być spowodowane kilkoma przyczynami:
   
-- Licencje zostały dodane lub usunięte z subskrypcji. Gdy licencje są zmieniane w połowie okresu, jest to odzwierciedlone na poniższej fakturze. W związku z taką zmianą może pojawić się uznanie lub ponowne rozliczenie za poprzedni okres usługi.
+- Licencje zostały dodane lub usunięte z subskrypcji. Po zmianie licencji w połowie okresu jest on widoczny na poniższej fakturze. W związku z taką zmianą może pojawić się uznanie lub ponowne rozliczenie za poprzedni okres usługi.
 
 - Subskrypcja została anulowana. Po anulowaniu otrzymasz fakturę z nieuregulowanym saldem pomniejszonym o wszelkie uznania.
 

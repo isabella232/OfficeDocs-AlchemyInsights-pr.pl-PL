@@ -1,27 +1,28 @@
 ---
-title: Jak zamknąć konto usługi Desktop Analytics
+title: Jak zamknąć konto w usłudze analiza pulpitu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: db22c9f8fd073825eb4d6901d9110e778e469936
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 89c6ef78e025657d7b4456bf54f43817ea6bdb6d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771045"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704724"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>Jak zamknąć konto usługi Desktop Analytics
+# <a name="how-to-close-your-desktop-analytics-account"></a>Jak zamknąć konto w usłudze analiza pulpitu
 
-Jeśli skonfigurujesz usługi Desktop Analytics w swoim środowisku, a następnie zdecydujesz, że musisz go usunąć, użyj tego procesu w następującym linku:
+Jeśli w środowisku skonfigurowano program Desktop Analytics, a następnie zdecyduj, że trzeba go usunąć, Użyj procesu w następującym łączu:
 
 [Jak zamknąć konto](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-Pierwszym krokiem jest skontaktowanie się z pomocą techniczną firmy Microsoft. Otwórz sprawę pomocy technicznej, aby zamknąć konto usługi Desktop Analytics. Nie kontynuuj dodatkowych kroków, dopóki nie otrzymasz potwierdzenia, że firma Microsoft zamknęła twoje konto.
+Pierwszym krokiem jest skontaktowanie się z pomocą techniczną firmy Microsoft. Otwórz sprawę pomocy technicznej, aby zamknąć konto w usłudze analiza pulpitu. Nie wykonuj dodatkowych czynności, dopóki nie otrzymasz potwierdzenia, że firma Microsoft zamknął Twoje konto.
