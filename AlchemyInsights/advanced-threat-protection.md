@@ -1,32 +1,33 @@
 ---
-title: Zaawansowana ochrona przed zagrożeniami usługi Office 365
+title: Office 365, zaawansowana ochrona przed zagrożeniami
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 5fc3f30e1f08764393dcced94be541b1c6bcc84d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506604"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696631"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Zaawansowana ochrona przed zagrożeniami usługi Office 365
+# <a name="office-365-advanced-threat-protection"></a>Office 365, zaawansowana ochrona przed zagrożeniami
 
-- Bezpieczne załączniki, bezpieczne łącza i ochrona przed wyłudzaniem informacji są częścią zaawansowanej ochrony przed zagrożeniami usługi Office 365 (ATP). Enterprise E5, Education A5 i Microsoft 365 Business Premium zawierają narzędzie ATP. Wszystkie inne plany wymagają subskrypcji dodatku ATP.
+- Bezpieczne załączniki, bezpieczne linki i ochrona przed phishingiem stanowią część pakietu Office 365 Advanced Threat Protection (ATP). Enterprise E5, Education A5 i Microsoft 365 Business Premium to ATP. Wszystkie inne plany wymagają dodatku abonament ATP.
 
-- Należy przypisać odpowiednie licencje, aby chronić użytkowników za pomocą usługi Office 365 ATP. Zobacz [ten temat,](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) aby uzyskać instrukcje dotyczące zbiorczego stosowania licencji do użytkowników.
+- Musisz przypisać odpowiednie licencje, aby chronić użytkowników przez pakiet Office 365 ATP. Zobacz [ten temat](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) , aby uzyskać instrukcje dotyczące stosowania zbiorczych licencji dla użytkowników.
 
-- Administratorzy globalni lub administratorzy zabezpieczeń mogą uzyskać dostęp do funkcji usługi Office 365 ATP w Centrum zgodności zabezpieczeń & w **witrynie Zasady managmeent zagrożeń** \> **Policy**.
+- Administratorzy globalni lub administratorzy zabezpieczeń mogą uzyskiwać dostęp do funkcji ATP (Office 365) w centrum zgodności z zabezpieczeniami & w zasadach **zagrożeń Managmeent** \> **Policy**.
 
-- Bezpieczne załączniki i zasady bezpiecznego łącza mogą mieć zakres w całej organizacji, określonych domenach lub mniejszych grupach użytkowników.
+- Bezpieczne załączniki i zasady bezpiecznego łącza mogą być ograniczone do całej organizacji, określonych domen lub mniejszych grup użytkowników.
 
-- Nie ma domyślnych zasad bezpiecznego załącznika ATP. Musisz [utworzyć zasadę](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) i zastosować ją do użytkowników.
+- Nie ma żadnych domyślnych zasad dotyczących załączników ATP. Musisz [utworzyć zasady](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) i zastosować je do użytkowników.
 
-- Istnieje domyślna zasada atp bezpieczne łącza, która ma zastosowanie do wszystkich osób w organizacji. Aby edytować te zasady lub utworzyć zasady niestandardowe, zobacz [ten temat](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Istnieją domyślne zasady usługi ATP — bezpieczne linki, które dotyczą wszystkich osób w organizacji. Aby edytować te zasady lub utworzyć zasady niestandardowe, zobacz [ten temat](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).

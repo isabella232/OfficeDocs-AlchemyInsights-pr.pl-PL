@@ -1,30 +1,31 @@
 ---
-title: Problem z buforem wydruku został rozwiązany
+title: Rozwiązano problem z buforem wydruku
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: 53b1c9a8efa3cc978af8b602c8ed90430042186a
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
-ms.translationtype: MT
+ms.openlocfilehash: 66b39434ef6f9ad2b8392f811704e67c1bcffd2b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088403"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801851"
 ---
-# <a name="print-spooler-issue-is-resolved"></a>Problem z buforem wydruku został rozwiązany
+# <a name="print-spooler-issue-is-resolved"></a>Rozwiązano problem z buforem wydruku
 
-Jeśli urządzenie zostało zaktualizowane o kompilację systemu operacyjnego Systemu Windows 10 **19041.329,** być może zauważyłeś problem, w którym niektóre drukarki nie mogą drukować. Bufor wydruku może zgłosić błąd lub zamknąć nieoczekiwanie podczas próby drukowania, a żadne dane wyjściowe nie pochodzą z drukarki, którego dotyczy problem. Ten problem został rozwiązany w kompilacji systemu operacyjnego **19041.331**, [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).  
+Jeśli urządzenie zostało zaktualizowane w systemie operacyjnym Windows 10  **OS kompilacja 19041,329**, być może wystąpił problem polegający na tym, że niektóre drukarki nie są drukowane. Bufor wydruku może zgłosić błąd lub nieoczekiwane zamknięcie podczas próby wydrukowania, a żadne dane wyjściowe nie pochodzą z drukarki, której dotyczy problem. Ten problem został rozwiązany w systemie operacyjnym [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523) **19041,331**.  
 
-**Trwające dochodzenie**
+**Prowadzone badanie**
 
-Plik LSASS (Local Security Authority Subsystem Service)** (Isass.exe) **może zakończyć się niepowodzeniem na niektórych urządzeniach z komunikatem o błędzie "Krytyczny proces systemowy, C:\WINDOWS\system32\Isass.exe, nie powiódł się z kodem stanu c0000008. Urządzenie musi zostać ponownie uruchomione".  **Firma Microsoft pracuje nad rozdzielczością i udostępni aktualizację w nadchodzącej wersji.**
+Plik usługi LSASS**Isass.exe**(Local Security Authority Subsystem Service) może się nie udać na niektóre urządzenia z komunikatem o błędzie "krytyczny proces systemowy, C:\WINDOWS\system32\Isass.exe, którego nie można znaleźć w kodzie statusu c0000008. Komputer musi być teraz ponownie uruchomiony.  **Firma Microsoft pracuje nad rozróżnieniem i będzie dostarczać aktualizację w nadchodzącej wersji.**
 
-Aby uzyskać więcej informacji, sprawdź [windows 10 wersja 2004 znane problemy](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc).
+Aby uzyskać więcej informacji, zobacz  [znane problemy dotyczące systemu Windows 10 w wersji 2004](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc).
