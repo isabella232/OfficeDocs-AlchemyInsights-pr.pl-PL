@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,22 +13,22 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: efd2b09a93fb7a44c0dea7933bb9d02524bb1082
-ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
+ms.openlocfilehash: 4aee5c31fab7475def30a99a68848934febcfee2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37328822"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705021"
 ---
-# <a name="how-to-restore-a-deleted-team-or-channel"></a><span data-ttu-id="c1ec5-102">Jak przywrócić usuniętą drużynę lub kanał</span><span class="sxs-lookup"><span data-stu-id="c1ec5-102">How to restore a deleted team or channel</span></span>
+# <a name="how-to-restore-a-deleted-team-or-channel"></a><span data-ttu-id="92ed4-102">Jak przywrócić usunięty zespół lub kanał</span><span class="sxs-lookup"><span data-stu-id="92ed4-102">How to restore a deleted team or channel</span></span>
 
-<span data-ttu-id="c1ec5-103">Aby uzyskać więcej informacji, zobacz [Przywracanie usuniętego zespołu w programie Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="c1ec5-103">For more information, see [Restore a Deleted Team in Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).</span></span>
+<span data-ttu-id="92ed4-103">Aby uzyskać więcej informacji, zobacz [Przywracanie usuniętego zespołu w aplikacji Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="92ed4-103">For more information, see [Restore a Deleted Team in Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).</span></span>
 
-<span data-ttu-id="c1ec5-104">Usunięte kanały w zespole można przywrócić do 21 dni po usunięciu kanału.</span><span class="sxs-lookup"><span data-stu-id="c1ec5-104">Deleted channels within a team can be restored for up to 21 days after the channel has been deleted.</span></span>
+<span data-ttu-id="92ed4-104">Usunięte kanały w zespole można przywrócić nawet 21 dni po usunięciu kanału.</span><span class="sxs-lookup"><span data-stu-id="92ed4-104">Deleted channels within a team can be restored for up to 21 days after the channel has been deleted.</span></span>
 
-<span data-ttu-id="c1ec5-105">Aby odzyskać usunięty kanał, właściciel zespołu może wykonać następujące czynności:</span><span class="sxs-lookup"><span data-stu-id="c1ec5-105">To recover a deleted channel, the team owner can do the following:</span></span>
+<span data-ttu-id="92ed4-105">Aby odzyskać usunięty kanał, właściciel zespołu może wykonać następujące czynności:</span><span class="sxs-lookup"><span data-stu-id="92ed4-105">To recover a deleted channel, the team owner can do the following:</span></span>
 
-1. <span data-ttu-id="c1ec5-106">Otwórz ustawienia zespołu, wybierając 3 kropki po prawej stronie nazwy zespołu.</span><span class="sxs-lookup"><span data-stu-id="c1ec5-106">Open the team settings by selecting the 3 dots to the right of the team name.</span></span>
-2. <span data-ttu-id="c1ec5-107">Wybierz pozycję Zarządzaj**usuniętymi\*\*\*\*kanałami** >  **zespołu** > , a następnie wybierz pozycję **Przywróć** po prawej stronie.</span><span class="sxs-lookup"><span data-stu-id="c1ec5-107">Select **Manage team** > **Channels** > **Deleted**, and then select **Restore** on the right.</span></span>
+1. <span data-ttu-id="92ed4-106">Otwórz ustawienia zespołu, wybierając 3 kropki po prawej stronie nazwy zespołu.</span><span class="sxs-lookup"><span data-stu-id="92ed4-106">Open the team settings by selecting the 3 dots to the right of the team name.</span></span>
+2. <span data-ttu-id="92ed4-107">Wybierz pozycję **Zarządzaj**  >  **kanałami**zespołu  >  **Deleted**, a następnie wybierz pozycję **Przywróć** po prawej stronie.</span><span class="sxs-lookup"><span data-stu-id="92ed4-107">Select **Manage team** > **Channels** > **Deleted**, and then select **Restore** on the right.</span></span>
 
-<span data-ttu-id="c1ec5-108">Aby uzyskać więcej informacji, zobacz [Przywracanie usuniętego zespołu w programie Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="c1ec5-108">For more information, see [Restore a Deleted Team in Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).</span></span>
+<span data-ttu-id="92ed4-108">Aby uzyskać więcej informacji, zobacz [Przywracanie usuniętego zespołu w aplikacji Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="92ed4-108">For more information, see [Restore a Deleted Team in Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).</span></span>
