@@ -5,6 +5,7 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,23 +13,23 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: e578dc3b19c573335c0e90cc0f84d5c6c1b1c889
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 12207efc9822be6cf096fa4884a3cd244a286cbe
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767403"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653739"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Przechowywanie wersji w programie SharePoint i usłudze OneDrive 
 
 
-Gdy przechowywanie wersji jest włączone na liście lub w bibliotece programu SharePoint, można przechowywać, śledzić i przywracać elementy na liście i plikach w bibliotece za każdym razem, gdy się zmieniają. Przechowywanie wersji w połączeniu z innymi ustawieniami, takimi jak realizacja transakcji, daje dużą kontrolę nad zawartością opublikowaną w witrynie i może zapewnić rzeczywistą wartość, jeśli kiedykolwiek będziesz musiał przeglądać lub przywracać starą wersję elementu lub pliku.
+Gdy funkcja przechowywania wersji jest włączona na liście lub w bibliotece programu SharePoint, możesz przechowywać, śledzić i przywracać elementy listy oraz pliki w bibliotece po każdej zmianie. Przechowywanie wersji, w połączeniu z innymi ustawieniami, na przykład w ramach procesu realizacji transakcji, umożliwia uzyskanie wielu kontroli nad zawartością ogłoszoną w witrynie i dostarczenie wartości rzeczywistej, jeśli kiedykolwiek trzeba sprawdzić lub przywrócić starą wersję elementu lub pliku.
 
-Aby uzyskać więcej informacji na temat przechowywania wersji, odwiedź poniższe artykuły.
+Aby uzyskać więcej informacji na temat przechowywania wersji, przejdź do poniższych artykułów.
 
 - [Jak działa przechowywanie wersji na liście lub w bibliotece programu SharePoint](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
 
-- [Włączanie i konfigurowanie przechowywania wersji dla listy lub biblioteki](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f)
+- [Włączanie i Konfigurowanie przechowywania wersji dla listy lub biblioteki](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f)
 
 - [Jak wyświetlić historię wersji](https://support.office.com/article/View-the-version-history-of-an-item-or-file-in-a-list-or-library-53262060-5092-424D-A50B-C798B0EC32B1)
 
@@ -39,6 +40,6 @@ Aby uzyskać więcej informacji na temat przechowywania wersji, odwiedź poniżs
 - [Limity przechowywania wersji](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
 >[!Note] 
->Jeśli jesteś klientem usługi Microsoft 365, przechowywanie wersji jest teraz domyślnie włączone podczas tworzenia nowych bibliotek usługi OneDrive dla Firm i automatycznie zapisze ostatnie 500 wersji dokumentu. Pomoże to zapobiec utracie ważnych dokumentów lub danych. Jeśli masz istniejące biblioteki w witrynie usługi OneDrive dla Firm lub w witrynie zespołu, które nie mają włączonej wersji, możesz włączyć dla nich przechowywanie wersji w dowolnym momencie.
+>Jeśli jesteś klientem Microsoft 365, przechowywanie wersji jest teraz domyślnie włączone podczas tworzenia nowych bibliotek usługi OneDrive dla firm, a program automatycznie zapisze ostatnie wersje 500 dokumentu. Pomoże to zapobiec utracie ważnych dokumentów lub danych. Jeśli masz istniejące biblioteki w witrynie usługi OneDrive dla firm lub w witrynie zespołu, w której nie włączono przechowywania wersji, możesz w każdej chwili włączyć przechowywanie wersji.
 
 

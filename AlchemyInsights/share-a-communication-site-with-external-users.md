@@ -1,32 +1,33 @@
 ---
-title: Udostępnianie witryny komunikacyjnej użytkownikom zewnętrznym
+title: Udostępnianie witryny do komunikacji użytkownikom zewnętrznym
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 38eaa55db49f3c6f38da42605f4180e60ebb6349
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3439379b27303bcf3fd43f35336c05876e3e526e
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767511"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653775"
 ---
-# <a name="share-a-communication-site-with-external-users"></a>Udostępnianie witryny komunikacyjnej użytkownikom zewnętrznym
+# <a name="share-a-communication-site-with-external-users"></a>Udostępnianie witryny do komunikacji użytkownikom zewnętrznym
 
-Aby włączyć udostępnianie użytkowników zewnętrznych w witrynach komunikacyjnych, wykonaj następujące czynności: 
+Aby włączyć udostępnianie zewnętrznego użytkownika dla witryn komunikacyjnych, wykonaj następujące czynności: 
   
-1. Otwórz **Nowoczesne Centrum administracyjne** — jeśli znajdujesz się w klasycznym Centrum administracyjnym, zobaczysz przycisk **Wypróbuj teraz** lub ** Wypróbuj przycisk podglądu ** od prawej do góry. Spowoduje to, że doniesz do Nowoczesnego Centrum Administracyjnego. 
+1. Otwórz **nowoczesne centrum administracyjne** — Jeśli korzystasz z klasycznego centrum administracyjnego, **Wypróbuj je teraz** lub * * wypróbuj przycisk Podgląd * * od prawej strony. Spowoduje to przejście do nowoczesnego centrum administracyjnego. 
   
-2. Wybierz **pozycję Aktywne witryny.**
+2. Wybierz pozycję **aktywne witryny.**
   
-3. Wybierz witrynę z **szablonem witryny komunikacyjnej**. 
+3. Wybierz witrynę z **szablonem witryny do komunikacji**. 
   
-4. Wybierz przycisk **Udostępnianie** z górnego menu. 
+4. Wybierz przycisk **udostępniania** z menu u. 
   
- **Uwaga:** Jeśli wybrano więcej niż jedną witrynę, przycisk **Udostępnianie** zostanie wyłączony. Wybierz tylko jedną witrynę. 
+ **Uwaga:** Jeśli została wybrana więcej niż jedna witryna, przycisk **udostępniania** będzie wyświetlany jako wyłączony. Wybierz tylko jedną witrynę. 
   
 
