@@ -1,9 +1,10 @@
 ---
-title: Problemy podczas migracji danych do usługi SharePoint Online
+title: Problemy podczas migrowania danych do usługi SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
@@ -11,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 7a801bb6ff5b5c1d48cbc99f27e5f398dd76db5f
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552931"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700897"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemy podczas migracji danych do usługi SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemy podczas migrowania danych do usługi SharePoint Online
 
-**Migrowanie ponad 100 TB danych**
+**Migrowanie przez 100TB danych**
 
-Wygląda na to, że migrujesz ponad 100 TB danych do usługi SharePoint Online. Postępuj zgodnie z poniższymi krokami, abyśmy mogli pomóc Ci tak szybko, jak to możliwe. 
+Wygląda na to, że przeprowadzasz migrację przez 100TB danych do usługi SharePoint Online. Wykonaj poniższe czynności, aby pomóc Ci w możliwie najkrótszym czasie. 
 
-1. Wybierz **pozycję Nowe żądanie usługi**, a następnie pozycję Nowe żądanie **usługi**. 
-2. Pozostaw tytuł i opis jako **migracja programu SharePoint o masie ponad 100 TB.**
-3. Po przesłaniu biletu należy go zaktualizować o następujące informacje: 
+1. Wybierz pozycję **nowe żądanie usługi**, a następnie **nowe żądanie usługi**. 
+2. Zostaw tytuł i opis jako **migrację programu SharePoint w programie 100TB**.
+3. Po przesłaniu biletu zaktualizuj go, korzystając z następujących informacji: 
 
     - Szacowany rozmiar migracji.
-    - Oszacowanie, kiedy chcesz rozpocząć i zakończyć migrację.
-    - Opisz miejsce migracji zawartości, takiej jak SharePoint Server, Box, GDrive, Udziały plików itp.
+    - Szacowana, Kiedy chcesz rozpocząć i ukończyć migrację.
+    - Opisz miejsce migracji zawartości, na przykład w programie SharePoint Server, w polu, GDrive, udziały plików itd.
