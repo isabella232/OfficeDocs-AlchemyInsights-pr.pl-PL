@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001101"
 - "3062"
-ms.openlocfilehash: 8557902e9ea73892eab24c3073784abf29df0fa9
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: a38d01f41298ff3fde1927635c31e442a19012a6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279092"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709449"
 ---
 # <a name="enter-imap-port-numbers"></a>Wprowadzanie numerów portów IMAP
 
-Zaloguj się za pomocą ekranu konfiguracji z wyprzedzeniem i dodaj szczegóły portu za dwukropkiem zgodnie z adresami serwera przychodzącego i wychodzącego. (Możesz uzyskać te dane od dostawcy usług poczty e-mail). 
+Zaloguj się za pomocą ekranu Konfiguracja zaawansowana i Dodaj dane swojego portu za pomocą dwukropka w wierszu z adresami serwerów poczty przychodzącej i wychodzącej. (Możesz uzyskać te informacje od swojego dostawcy usług poczty e-mail). 
 
-Przejdź do **pozycji Ustawienia** > **Dodaj >** > **IMAP** konta i kliknij pozycję Pokaż ustawienia **zaawansowane;** a następnie wprowadź swoje dane. 
+Przejdź do obszaru **Ustawienia**  >  **Dodaj konto**  >  **IMAP** > a następnie kliknij pozycję **Pokaż ustawienia zaawansowane**, a następnie wprowadź dane. 
 
-*Serwer poczty przychodzącej*: imap.servername.com:000 (zwykle 993 lub 143) 
+*Serwer poczty przychodzącej*: IMAP.ServerName.com:000 (zwykle 993 lub 143) 
 
-*Serwer poczty wychodzącej*: smtp.servername.com:000 (zwykle 465 lub 25) 
+*Serwer poczty wychodzącej*: SMTP.ServerName.com:000 (zwykle 465 lub 25) 
 
-Należy pamiętać, że dwukropek jest ważny. 
+Pamiętaj, że dwukropek jest ważny. 
