@@ -1,26 +1,27 @@
 ---
-title: Czy program Visio działa na komputerze Mac
+title: Czy program Visio działa na komputerze Mac?
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1799"
 - "9000201"
-ms.openlocfilehash: c198e12f996f298f05d81694f69a37931e1878dd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: be1ebb680a99c1a91fa6c9a4272ec28786c87bda
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507226"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678802"
 ---
-# <a name="does-visio-work-on-a-mac"></a><span data-ttu-id="fd992-102">Czy program Visio działa na komputerze Mac?</span><span class="sxs-lookup"><span data-stu-id="fd992-102">Does Visio work on a Mac?</span></span>
+# <a name="does-visio-work-on-a-mac"></a><span data-ttu-id="8ab94-102">Czy program Visio działa na komputerze Mac?</span><span class="sxs-lookup"><span data-stu-id="8ab94-102">Does Visio work on a Mac?</span></span>
 
-<span data-ttu-id="fd992-103">Brak aplikacji klasycznej Visio dla komputerów Mac.</span><span class="sxs-lookup"><span data-stu-id="fd992-103">There is no Visio desktop application for Mac.</span></span> <span data-ttu-id="fd992-104">Jednak tak długo, jak użytkownik, który potrzebuje aplikacji ma [przypisaną licencję visio online,](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)mogą [wyświetlać, tworzyć i edytować diagramy w programie Visio Online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) w przeglądarce sieci Web.</span><span class="sxs-lookup"><span data-stu-id="fd992-104">However, as long as the user who needs the app has a [Visio Online license assigned](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users), they can [view, create, and edit diagrams in Visio Online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) in a web browser.</span></span>
+<span data-ttu-id="8ab94-103">Brak aplikacji klasycznej Visio dla komputerów Mac.</span><span class="sxs-lookup"><span data-stu-id="8ab94-103">There is no Visio desktop application for Mac.</span></span> <span data-ttu-id="8ab94-104">Jednak w przypadku użytkowników wymagających [licencji usługi Visio online](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)użytkownicy mogą [wyświetlać, tworzyć i edytować diagramy w aplikacji Visio online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) w przeglądarce sieci Web.</span><span class="sxs-lookup"><span data-stu-id="8ab94-104">However, as long as the user who needs the app has a [Visio Online license assigned](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users), they can [view, create, and edit diagrams in Visio Online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) in a web browser.</span></span>
   
   

@@ -1,29 +1,30 @@
 ---
-title: Nie wyników wyszukiwania zawartości
+title: Wyszukiwanie zawartości — Brak wyników
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 09cdbc3cb0465e0e0bc08872c49e283081ad3e92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516789"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680657"
 ---
-# <a name="no-results-from-content-searchexports"></a><span data-ttu-id="65363-102">Brak wyników z zawartości wyszukiwania/wywozu</span><span class="sxs-lookup"><span data-stu-id="65363-102">No results from Content Search/Exports</span></span>
+# <a name="no-results-from-content-searchexports"></a><span data-ttu-id="4718c-102">Brak wyników z wyszukiwania zawartości/eksportu</span><span class="sxs-lookup"><span data-stu-id="4718c-102">No results from Content Search/Exports</span></span>
 
-<span data-ttu-id="65363-103">Problemy z zawartości wyszukiwania/wywozu nie zwróciła żadnych danych może być spowodowane niektórych zgodności filtr zabezpieczeń, który został skonfigurowany przez administratora konkretnego i nie komunikuje się wszyscy administratorzy.</span><span class="sxs-lookup"><span data-stu-id="65363-103">Issues with Content Search/Exports not returning any data may be due to certain Compliance Security Filter that was setup by a specific Admin and not communicating it to all Admins.</span></span>
+<span data-ttu-id="4718c-103">Problemy dotyczące wyszukiwania zawartości/eksportu, które nie zwracają żadnych danych, mogą być spowodowane pewnym filtrem zabezpieczeń zgodności, który został skonfigurowany przez określonego administratora i nie komunikuje go ze wszystkimi administratorami.</span><span class="sxs-lookup"><span data-stu-id="4718c-103">Issues with Content Search/Exports not returning any data may be due to certain Compliance Security Filter that was setup by a specific Admin and not communicating it to all Admins.</span></span>
 
-<span data-ttu-id="65363-104">Aby rozwiązać ten problem, sprawdź, czy są wszystkie filtry zabezpieczeń zgodności, która może być przyczyną tego:</span><span class="sxs-lookup"><span data-stu-id="65363-104">To resolve this, check to see if there are any Compliance Security Filters that may be causing this:</span></span>
-1. <span data-ttu-id="65363-105">Podłącz do bezpieczeństwa i środowiska Powershell Centrum zgodności</span><span class="sxs-lookup"><span data-stu-id="65363-105">Connect to Security and Compliance Center Powershell</span></span>
-2. <span data-ttu-id="65363-106">Uruchom następujące aplety poleceń środowiska:</span><span class="sxs-lookup"><span data-stu-id="65363-106">Run the following commandlets:</span></span>
-<br><span data-ttu-id="65363-107">$org = "yourdomain.com"</span><span class="sxs-lookup"><span data-stu-id="65363-107">$org = “yourdomain.com”</span></span>
-<br><span data-ttu-id="65363-108">Get-ComplianceSecurityFilter-organizacja $org</span><span class="sxs-lookup"><span data-stu-id="65363-108">Get-ComplianceSecurityFilter -Organization $org</span></span>
+<span data-ttu-id="4718c-104">Aby temu zaradzić, sprawdź, czy istnieją filtry zabezpieczeń zgodności, które mogą powodować to:</span><span class="sxs-lookup"><span data-stu-id="4718c-104">To resolve this, check to see if there are any Compliance Security Filters that may be causing this:</span></span>
+1. <span data-ttu-id="4718c-105">Nawiązywanie połączenia z programem PowerShell w centrum zabezpieczeń i zgodności</span><span class="sxs-lookup"><span data-stu-id="4718c-105">Connect to Security and Compliance Center Powershell</span></span>
+2. <span data-ttu-id="4718c-106">Uruchom następujące commandlets:</span><span class="sxs-lookup"><span data-stu-id="4718c-106">Run the following commandlets:</span></span>
+<br><span data-ttu-id="4718c-107">$org = "yourdomain.com"</span><span class="sxs-lookup"><span data-stu-id="4718c-107">$org = “yourdomain.com”</span></span>
+<br><span data-ttu-id="4718c-108">Get-ComplianceSecurityFilter-Organization $org</span><span class="sxs-lookup"><span data-stu-id="4718c-108">Get-ComplianceSecurityFilter -Organization $org</span></span>

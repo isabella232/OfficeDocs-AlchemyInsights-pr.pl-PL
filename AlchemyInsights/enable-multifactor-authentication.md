@@ -1,5 +1,5 @@
 ---
-title: Włącz uwierzytelnianie wieloskładnikowe
+title: Włączanie uwierzytelniania wieloskładnikowego
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703472"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678046"
 ---
-# <a name="enable-multi-factor-authentication"></a><span data-ttu-id="27bb7-102">Włączanie uwierzytelniania wieloskładnikowego</span><span class="sxs-lookup"><span data-stu-id="27bb7-102">Enable multi-factor authentication</span></span>
+# <a name="enable-multi-factor-authentication"></a><span data-ttu-id="eb716-102">Włączanie uwierzytelniania wieloskładnikowego</span><span class="sxs-lookup"><span data-stu-id="eb716-102">Enable multi-factor authentication</span></span>
 
-<span data-ttu-id="27bb7-103">Aby włączyć uwierzytelnianie wieloskładnikowe w centrum administracyjnym usługi Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="27bb7-103">To enable multi-factor authentication in the Microsoft 365 admin center:</span></span>
+<span data-ttu-id="eb716-103">Aby włączyć uwierzytelnianie wieloskładnikowe w centrum administracyjnym usługi Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="eb716-103">To enable multi-factor authentication in the Microsoft 365 admin center:</span></span>
 
-1. <span data-ttu-id="27bb7-104">Przejdź do strony **Użytkownicy aktywni** \> **użytkownicy.**</span><span class="sxs-lookup"><span data-stu-id="27bb7-104">Go to the **Users** \> **Active users** page.</span></span>
+1. <span data-ttu-id="eb716-104">Przejdź do strony **Users** \> **aktywni użytkownicy** użytkowników.</span><span class="sxs-lookup"><span data-stu-id="eb716-104">Go to the **Users** \> **Active users** page.</span></span>
     
-2. <span data-ttu-id="27bb7-105">U góry strony wybierz pozycję **Uwierzytelnianie wieloskładnikowe**.</span><span class="sxs-lookup"><span data-stu-id="27bb7-105">At the top of the page, select **Multi-factor authentication**.</span></span> 
+2. <span data-ttu-id="eb716-105">W górnej części strony wybierz pozycję **uwierzytelnianie wieloskładnikowe**.</span><span class="sxs-lookup"><span data-stu-id="eb716-105">At the top of the page, select **Multi-factor authentication**.</span></span> 
     
-3. <span data-ttu-id="27bb7-106">Znajdź użytkownika lub użytkowników, których chcesz włączyć w celu uwierzytelniania wieloskładnikowego.</span><span class="sxs-lookup"><span data-stu-id="27bb7-106">Find the user or users who you want to enable for multi-factor authentication.</span></span> <span data-ttu-id="27bb7-107">Aby wyświetlić wszystkich użytkowników, może być konieczna zmiana **filtru stanu Auth wieloczynnikowego** u góry.</span><span class="sxs-lookup"><span data-stu-id="27bb7-107">To see all the users, you might need to change the **Multi-Factor Auth status** filter at the top.</span></span>
+3. <span data-ttu-id="eb716-106">Znajdź użytkownika lub użytkowników, którym chcesz włączyć uwierzytelnianie wieloskładnikowe.</span><span class="sxs-lookup"><span data-stu-id="eb716-106">Find the user or users who you want to enable for multi-factor authentication.</span></span> <span data-ttu-id="eb716-107">Aby wyświetlić wszystkich użytkowników, może być konieczna zmiana filtru **stanu uwierzytelniania wieloskładnikowego** u samego początku.</span><span class="sxs-lookup"><span data-stu-id="eb716-107">To see all the users, you might need to change the **Multi-Factor Auth status** filter at the top.</span></span>
     
-4. <span data-ttu-id="27bb7-108">Zaznacz pole wyboru obok użytkowników, których chcesz włączyć.</span><span class="sxs-lookup"><span data-stu-id="27bb7-108">Select the check box next to the users you want to enable.</span></span>
+4. <span data-ttu-id="eb716-108">Zaznacz pole wyboru obok użytkowników, których chcesz włączyć.</span><span class="sxs-lookup"><span data-stu-id="eb716-108">Select the check box next to the users you want to enable.</span></span>
     
-5.  <span data-ttu-id="27bb7-109">W prawym okienku informacji o użytkowniku w obszarze **Szybkie kroki**wybierz pozycję **Włącz**.</span><span class="sxs-lookup"><span data-stu-id="27bb7-109">In the right user info pane, under **quick steps**, select **Enable**.</span></span> 
+5.  <span data-ttu-id="eb716-109">W okienku informacje o użytkowniku z prawej strony w obszarze **szybkie kroki**wybierz pozycję **Włącz**.</span><span class="sxs-lookup"><span data-stu-id="eb716-109">In the right user info pane, under **quick steps**, select **Enable**.</span></span> 
     
-6. <span data-ttu-id="27bb7-110">W oknie dialogowym, które się otworzy, wybierz **włącz auth wieloczynnikowych**.</span><span class="sxs-lookup"><span data-stu-id="27bb7-110">In the dialog box that opens, select **enable multi-factor auth**.</span></span> 
+6. <span data-ttu-id="eb716-110">W otwartym oknie dialogowym wybierz pozycję **Włącz usługę Multi-Factor auth**.</span><span class="sxs-lookup"><span data-stu-id="eb716-110">In the dialog box that opens, select **enable multi-factor auth**.</span></span> 
     
 
