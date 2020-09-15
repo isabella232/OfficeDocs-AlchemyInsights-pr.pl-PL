@@ -1,31 +1,32 @@
 ---
-title: 'Błąd: reguły na tym komputerze nie są zgodne'
+title: 'Błąd: reguły na tym komputerze nie pasują do siebie.'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: c2feb6da651d8b3eb7af6a057335b28d26f9e7f6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44664256"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690973"
 ---
-# <a name="error-the-rules-on-this-computer-do-not-match"></a>Błąd: reguły na tym komputerze nie są zgodne
+# <a name="error-the-rules-on-this-computer-do-not-match"></a>Błąd: reguły na tym komputerze nie pasują do siebie.
 
-Aby zobaczyć zaktualizowany stan tego znanego problemu, zobacz [Reguły na tym komputerze nie są zgodne z regułami programu Microsoft Exchange](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
+Aby wyświetlić zaktualizowany stan tego znanego problemu, zobacz [reguły na tym komputerze są niezgodne z regułami w programie Microsoft Exchange](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
 
-Zespół programu Outlook zaimplementował poprawkę w kompilacji 12928.10000. Poprawka jest już w Insider Fast i trafi do Miesięcznego Kanału pod koniec czerwca 2020. Po uzyskaniu stałej kompilacji możesz po raz ostatni otrzymać monit "Które reguły chcesz zachować". Wybierz pozycję Serwer po wyświetleniu monitu, a następnie wróć do programu Outlook i ponownie włącz wszystkie wyłączone reguły.
+Zespół programu Outlook zaimplementował poprawkę w kompilacji 12928,10000. Poprawka jest już w Niejawnym programie testów i będzie przełączana do kanału miesięcznego po późnych 2020 czerwca. Po utworzeniu stałej kompilacji możesz wyświetlić monit "które reguły chcesz zachować" po raz ostatni. Wybierz pozycję serwer po wyświetleniu monitu, a następnie wróć do programu Outlook i ponownie Włącz wszystkie reguły, które zostały wyłączone.
 
 Dopóki poprawka nie będzie dostępna, użyj następującego obejścia:
 
-**Obejście**: W ostatnich raportach wystąpił problem dla tych, którzy utworzyli tylko reguły klienta na pulpicie programu Outlook. Jeśli nadal występuje problem, należy rozważyć usunięcie reguł, a następnie utworzyć i edytować reguły tylko w programie OWA (Outlook Web App) do momentu rozwiązania problemu.
+**Obejście**: w przypadku ostatnich raportów wystąpił problem dotyczący utworzonych tylko reguł klientów w aplikacji klasycznej Outlook. Jeśli problem nadal występuje, warto usunąć reguły, a następnie utworzyć i edytować reguły tylko w aplikacji OWA (Outlook Web App) do momentu rozwiązania problemu.
 
-Jeśli nie można usunąć reguł ręcznie, możesz uruchomić polecenie programu Outlook po uruchomieniu programu Outlook, uruchamiając program Outlook.exe /cleanrules. Spowoduje to usunięcie reguł klienta i serwera. Spowoduje to usunięcie wszystkich reguł dla wszystkich kont w profilu programu Outlook. To polecenie jest dodatkowo udokumentowane w artykule Przełączniki wiersza polecenia.
+Jeśli nie można usunąć reguł ręcznie, możesz uruchomić polecenie programu Outlook po uruchomieniu programu Outlook, uruchamiając Outlook.exe/cleanrules. Spowoduje to usunięcie zarówno reguł klienta, jak i serwera. Spowoduje to usunięcie wszystkich reguł dla wszystkich kont w profilu programu Outlook. To polecenie jest dokładniej opisane w artykule przełączniki wiersza polecenia.
 
