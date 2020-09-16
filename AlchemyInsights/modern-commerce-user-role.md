@@ -1,27 +1,28 @@
 ---
-title: Rola użytkownika nowoczesnego handlu
+title: Nowoczesny rola użytkownika w handlu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 2830dcd063da833ff1f87a5693550dd692764f98
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 74108b22e06fc6b3b53f7e027fca094bfd9db869
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44749017"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667024"
 ---
-# <a name="modern-commerce-user-role"></a>Rola użytkownika nowoczesnego handlu
+# <a name="modern-commerce-user-role"></a>Nowoczesny rola użytkownika w handlu
 
-Rola Użytkownik nowoczesnego handlu daje niektórym użytkownikom uprawnienia dostępu do centrum administracyjnego usługi Microsoft 365 i wyświetlania lewych wpisów nawigacji dla **strony głównej,** **rozliczeń**i **pomocy technicznej**. Zawartość dostępna w tych obszarach jest kontrolowana przez role specyficzne dla handlu przypisane do użytkowników do zarządzania produktami kupionymi dla siebie lub organizacji. Może to obejmować zadania, takie jak płacenie rachunków lub dostęp do kont rozliczeniowych i profilów rozliczeniowych.
+Nowoczesny rola użytkownika w firmie Commerce daje określonym użytkownikom uprawnienia do uzyskiwania dostępu do centrum administracyjnego usługi Microsoft 365 i wyświetlania lewych wpisów nawigacyjnych dla **użytkowników domowych**, **rozliczeń**i **pomocy technicznej**. Zawartość dostępna w tych obszarach jest kontrolowana przez określone przez firmę Commerce role przypisane użytkownikom do zarządzania produktami zakupionymi dla siebie lub w organizacji. Mogą to być zadania, takie jak płatności rachunkowe, lub za dostęp do kont rozliczeniowych i profilów rozliczeń.
 
-Użytkownicy z rolą Użytkownik nowoczesnego handlu zazwyczaj mają uprawnienia administracyjne w innych systemach zakupów firmy Microsoft, ale nie mają uprawnień administratora globalnego ani administratora rozliczeń.
+Użytkownicy korzystający z nowoczesnej roli użytkownika Commerce zazwyczaj mają uprawnienia administracyjne w innych systemach zakupów firmy Microsoft, ale nie mają uprawnień administratora globalnego ani administratora rozliczeniowego.
 
-Aby dowiedzieć się więcej o tej i innych rolach administracyjnych, zobacz [Uprawnienia roli administratora w usłudze Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).
+Aby dowiedzieć się więcej o tej i innych rolach administracyjnych, zobacz [uprawnienia roli administratora w usłudze Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).

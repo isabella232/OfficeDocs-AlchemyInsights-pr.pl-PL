@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354098"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670374"
 ---
 # <a name="teams-admin-center"></a>Centrum administracyjne aplikacji Teams
 
@@ -31,5 +32,5 @@ Jeżeli w Centrum administracyjnym aplikacji Teams nie widać użytkowników, sp
 
 - Czy w ciągu ostatnich 24 godzin utworzono użytkowników lub przypisano licencje? Odczekaj co najmniej 24 godziny, zanim zgłosisz się do pomocy technicznej o wsparcie.
 - Sprawdź, czy przypisano odpowiednie licencje.
-- Jeśli masz lokalną usługę Active Directory, sprawdź, czy [wartość adresu msRTCSIP-PrimaryUserAddress lub adresu SIP w polu ProxyAddresses w lokalnej usłudze Active Directory jest unikatowa, a format pasuje](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) do sip: Nazwa**użytkownika** z [centrum administracyjnego usługi Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Jeśli zamierzasz zachować wdrożenie programu Skype dla firm Server i użytkownicy są lokalni i online: wykonaj **"Konfigurowanie hybrydowej z usługą Teams i Skype dla firm Online"** w Panelu sterowania serwera programu Skype dla firm i przenieś użytkowników w trybie online.
+- Jeśli korzystasz z lokalnej usługi Active Directory, upewnij się, że [wartość msRTCSIP-PrimaryUserAddress lub adres SIP w polu proxyAddresses w lokalnej usłudze Active Directory jest unikatowy, a format pasuje](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) do SIP:**username** użytkownika w [centrum administracyjnym Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Jeśli zamierzasz zachować wdrożenie programu Skype dla firm i korzystać z nich lokalnie i w trybie online, postępuj zgodnie z instrukcjami **"Konfigurowanie hybrydowe za pomocą zespołów i usługi Skype dla firm Online"** w panelu sterowania programu Skype dla firm i przenoszenie użytkowników w trybie online.

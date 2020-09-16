@@ -6,27 +6,28 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: 2116bb837e4378ea29d7882df1d3010b3a4e0b1c
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 9590f780cffeaf644733752c763e04d748b1b39e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44749140"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665728"
 ---
 # <a name="owner-cannot-create-sub-folder-using-outlook"></a>Właściciel nie może utworzyć podfolderu przy użyciu programu Outlook
 
-**Istnieje stały problem z właścicielami folderów publicznych tworzenia podfolderów za pomocą programu Outlook. Problem zostanie wkrótce rozwiązany.**
+**W przypadku tworzenia podfolderów za pomocą programu Outlook jest już dostępny problem z właścicielami folderów publicznych. Problem zostanie wkrótce rozwiązany.**
 
-W międzyczasie należy użyć jednego z następujących rozwiązań:
+W międzyczasie Użyj jednego z poniższych obejść:
 
-1. Tworzenie podfolderu za pomocą programu Outlook dla komputerów MAC w celu utworzenia podfolderu, ponieważ problem dotyczy tylko systemu Outlook dla komputerów stacjonarnych (wszystkie wersje)
-2. Czy administrator utworzyć podfolder przy użyciu EXO Shell lub EAC
-3. Zmień domyślną skrzynkę adresową folderu  
-    - *Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*
-4. Odczekanie godziny, ponowne uruchomienie klienta programu Outlook
+1. Tworzenie podfolderu przy użyciu programu Outlook dla komputerów MAC w celu uzyskania wpływu tylko na program Outlook dla komputerów stacjonarnych (wszystkie wersje)
+2. Tworzenie podfolderu przez administratora za pomocą powłoki EXO lub narzędzia SKK
+3. Zmienianie DefaultPublicFolderMailbox/EffectivePublicFolderMailbox użytkownika na inną skrzynkę pocztową niż Skrzynka pocztowa zawartości folderu powodującego problem  
+    - *Set-Mailbox Użytkownik1 DefaultPublicFolderMailbox PubMBX3*
+4. Poczekaj na godzinę, ponownie uruchom klienta programu Outlook
