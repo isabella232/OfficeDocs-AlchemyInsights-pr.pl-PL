@@ -1,25 +1,26 @@
 ---
-title: Outlook.com hasło hiszpański
+title: Hiszpańskie hasło Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom:
 - "890"
 - "8000055"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 8fb08b3b5034d9cce594b663047570d96149a523
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 50347411bcb318227f47c654719c475f5202422e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43745021"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772164"
 ---
-# <a name="cmo-iniciar-o-cerrar-sesin-en-outlookcom"></a><span data-ttu-id="a5d11-102">Cómo iniciar o cerrar sesión en Outlook.com</span><span class="sxs-lookup"><span data-stu-id="a5d11-102">Cómo iniciar o cerrar sesión en Outlook.com</span></span>
+# <a name="cmo-iniciar-o-cerrar-sesin-en-outlookcom"></a><span data-ttu-id="ef4ec-102">Cómo iniciar o cerrar Sesión EN Outlook.com</span><span class="sxs-lookup"><span data-stu-id="ef4ec-102">Cómo iniciar o cerrar sesión en Outlook.com</span></span>
 
-<span data-ttu-id="a5d11-103">Si no puede iniciar sesión en su cuenta de correo electrónico de Outlook.com, Hotmail, Live, o MSN, o no sabe con seguridad cómo iniciar o cerrar sesión, [aquí tiene algunas soluciones](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="a5d11-103">Si no puede iniciar sesión en su cuenta de correo electrónico de Outlook.com, Hotmail, Live, o MSN, o no sabe con seguridad cómo iniciar o cerrar sesión, [aquí tiene algunas soluciones](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="ef4ec-103">Si No puede iniciar Sesión en su cuenta de correo Electrónico de Outlook.com, Hotmail, Live, o MSN, o nie Sabe con Seguridad Cómo iniciar o cerrar Sesión, [aquí Tiene algunas](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)Soluciones.</span><span class="sxs-lookup"><span data-stu-id="ef4ec-103">Si no puede iniciar sesión en su cuenta de correo electrónico de Outlook.com, Hotmail, Live, o MSN, o no sabe con seguridad cómo iniciar o cerrar sesión, [aquí tiene algunas soluciones](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
 
-<span data-ttu-id="a5d11-104">Si todavía tiene problemas con el inicio de sesión, vea [Cuando no puede iniciar sesión en su cuenta de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).</span><span class="sxs-lookup"><span data-stu-id="a5d11-104">Si todavía tiene problemas con el inicio de sesión, vea [Cuando no puede iniciar sesión en su cuenta de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
+<span data-ttu-id="ef4ec-104">Si todavía Tiene Problemas con El Inicio de Sesión, Vea [Cuando No puede iniciar Sesión en su cuenta de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).</span><span class="sxs-lookup"><span data-stu-id="ef4ec-104">Si todavía tiene problemas con el inicio de sesión, vea [Cuando no puede iniciar sesión en su cuenta de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
