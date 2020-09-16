@@ -1,28 +1,29 @@
 ---
-title: Samoobsługowe pytanie zakuowe
+title: Pytanie o zakup samoobsługowe
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3189"
-ms.openlocfilehash: 14218f995430a8a5c7a2f4a0db51fe79c59824d0
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: 676f8807db95d50e1e714bcf0480e7a8802f2b06
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913638"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740015"
 ---
-# <a name="self-service-purchase"></a>Zakupy samoobsługowe
+# <a name="self-service-purchase"></a>Zakup samoobsługowy
 
-**Jakie możliwości ma administrator w przypadku zakupów samoobsługowych?**
+**Jakie możliwości oferuje administratorowi abonamenty na samoobsługowe zakupy?**
 
-Administratorzy mogą przeglądać wszystkie zakupy samoobsługowe dokonane w organizacji w centrum administracyjnym Microsoft 365. Mogą oni widzieć produkt, nazwę nabywcy, zakupione subskrypcje, datę wygaśnięcia, historię zamówień, cenę zakupu i przypisanych użytkowników dla każdego zakupu samoobsługowego.  Jeśli jest to wymagane dla organizacji, administratorzy będą mogli wyłączyć samoobsługowe zakupy dla poszczególnych produktów za pomocą programu PowerShell.  Administratorzy mają te same zasady zarządzania danymi i dostępu do produktów zakupionych w ramach zakupu samoobsługowego lub centralnie.
+Administratorzy mogą wyświetlać wszystkie samoobsługowe zakupy dokonane w organizacji w centrum administracyjnym usługi Microsoft 365. Mogą oni zobaczyć produkt, nazwę kupującego, zakupione abonamenty, datę wygaśnięcia, historię zamówień, cenę zakupu i przydzielonych użytkowników do każdego zakupu samoobsługowego.  Jeśli jest to wymagane dla organizacji, administratorzy będą mogli wyłączyć samoobsługowe zakupy dla poszczególnych produktów za pośrednictwem programu PowerShell.  Administratorzy mają te same zasady zarządzania danymi i uzyskiwania dostępu do produktów kupowanych przez samoobsługowe zakupy lub centralnie.
 
-[Samoobsługowe zakupy — często zadawane pytania](https://aka.ms/self-service-purchase-faq)
+[Często zadawane pytania dotyczące zakupu samoobsługowego](https://aka.ms/self-service-purchase-faq)
 
