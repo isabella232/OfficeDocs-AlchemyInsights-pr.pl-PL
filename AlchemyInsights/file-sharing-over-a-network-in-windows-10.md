@@ -1,43 +1,44 @@
 ---
-title: Udostępnianie plików przez sieć w systemie Windows 10
+title: Udostępnianie plików w sieci w systemie Windows 10
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: 5f0cd0d2b7271a60aa390c8ee2d6ffbcefe78d94
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 3fb07e2f870d93ddcb6133ac5fd290935a27c583
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584401"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745401"
 ---
-# <a name="file-sharing-over-a-network-in-windows-10"></a>Udostępnianie plików przez sieć w systemie Windows 10
+# <a name="file-sharing-over-a-network-in-windows-10"></a>Udostępnianie plików w sieci w systemie Windows 10
 
-**Uwaga:** Jeśli wcześniej używano grupy domowej do udostępniania plików, należy pamiętać, że grupa domowa została usunięta z systemu Windows 10 (wersja 1803). Drukarki i pliki można teraz udostępniać przy użyciu wbudowanych funkcji systemu Windows 10.
+**Uwaga**: Jeśli wcześniej korzystano z grupy domowej w celu udostępniania plików, należy pamiętać, że Grupa domowa została usunięta z systemu Windows 10 (wersja 1803). Możesz teraz udostępniać drukarki i pliki, korzystając z wbudowanych funkcji w systemie Windows 10.
 
-**Aby udostępnić pliki lub foldery za sprawą sieci**
+**Aby udostępnić pliki lub foldery w sieci**
 
-- W **Eksploratorze plików**wybierz plik > kliknij kartę **Udostępnij** u góry > w sekcji **Udostępnij,** kliknij pozycję **Określone osoby**.
+- W **Eksploratorze plików**wybierz plik, > kliknij kartę **udostępnij** na górze > w sekcji **udostępnianie** , a następnie kliknij pozycję **określone osoby**.
 
-    ![Udostępnij plik określonym osobom.](media/share-with-specific-people.png)
+    ![Udostępnianie pliku określonym osobom.](media/share-with-specific-people.png)
           
-- Jeśli wybierzesz wiele plików jednocześnie, możesz udostępnić je wszystkie w ten sam sposób. To działa również dla folderów.
+- Jeśli zaznaczysz wiele plików jednocześnie, możesz je udostępnić w ten sam sposób. Działa również w przypadku folderów.
 
 **Aby wyświetlić urządzenia w sieci, które udostępniają pliki**
 
-- W **Eksploratorze plików**przejdź do **sieci**. Jeśli odnajdowanie sieci nie jest włączone, zostanie wyświetlony komunikat o błędzie "Odnajdowanie sieci jest wyłączone..."
+- W **Eksploratorze plików**przejdź do obszaru **Sieć**. Jeśli odnajdowanie sieci nie jest włączone, zostanie wyświetlony komunikat o błędzie "funkcja odnajdowania sieci jest wyłączona".
 
-- Kliknij **baner Odnajdowanie sieci** jest wyłączony, a następnie kliknij **pozycję Włącz odnajdowanie sieci i udostępnianie plików**.
+- Kliknij pozycję **odnajdowanie sieci jest wyłączone** transparent, a następnie kliknij pozycję **Włącz odnajdowanie sieci i udostępnianie plików**.
 
     ![Włącz odnajdowanie sieci i udostępnianie plików.](media/turn-on-network-discovery.png)
 
 [Dowiedz się więcej o udostępnianiu plików w sieci](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
 
-[Udostępnianie plików za pomocą aplikacji, usługi OneDrive, wiadomości e-mail i innych](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)
+[Udostępnianie plików za pomocą aplikacji, usługi OneDrive, wiadomości e-mail i nie tylko](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)

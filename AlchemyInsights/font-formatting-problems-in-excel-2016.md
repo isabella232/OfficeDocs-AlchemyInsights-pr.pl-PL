@@ -6,6 +6,7 @@ manager: jecon
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,14 +14,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 476a6ad39a16880e9513012a33efd4bec1f89efd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1831845768969e5fbb181276b2b66830c7d71599
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708649"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744195"
 ---
 # <a name="font-formatting-problems-in-excel"></a>Problemy z formatowaniem czcionek w programie Excel
 
-W programie Excel 2016 formatowanie czcionek może nie być poprawnie wyświetlane w komórce. Może się tak zdarzyć, jeśli komórka zawiera więcej niż jeden rodzaj formatowania czcionek. Na przykład, jeśli niektóre znaki są pogrubione, a inne nie są pogrubione, może nie być wyświetlany format pogrubienia. Lub jeśli w tej samej komórce znajdują się różne kolorowe znaki, kolory mogą nie być wyświetlane poprawnie. Nasz zespół inżynierów jest świadomy tego problemu i obecnie pracuje nad poprawką. W międzyczasie spróbuj użyć innej czcionki. Lub staraj się unikać używania wielu rodzajów formatowania w tej samej komórce, dopóki ten problem nie zostanie rozwiązany.
+W programie Excel 2016 formatowanie czcionki może być niewłaściwie wyświetlane w komórce. Może się tak zdarzyć, jeśli komórka zawiera więcej niż jeden rodzaj formatowania czcionki. Jeśli na przykład niektóre znaki są pogrubione, a inne nie są pogrubione, być może nie widzisz formatu pogrubiony. Jeśli w tej samej komórce występują różne kolorowe znaki, być może kolory są niewidoczne poprawnie. Nasz Zespół inżynieryjny wie o tym problemie i obecnie pracuje nad jego rozwiązaniem. Tymczasem spróbuj użyć innej czcionki. Możesz też spróbować uniknąć używania wielu rodzajów formatowania w tej samej komórce do momentu rozwiązania tego problemu.
   
