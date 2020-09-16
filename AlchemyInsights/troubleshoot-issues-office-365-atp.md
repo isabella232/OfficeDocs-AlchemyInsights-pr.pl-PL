@@ -1,30 +1,31 @@
 ---
-title: Rozwiązywanie problemów z zaawansowaną ochroną przed zagrożeniami usługi Office 365 (ATP)
+title: Rozwiązywanie problemów z pakietem Office 365 Advanced Threat Protection (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: f1dc675c8a8217ea2824ad46e029bfa303303e6a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4164781a331ec919811332e94636449e9d88430d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511122"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758075"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Rozwiązywanie problemów z usługi Office 365 ATP
+# <a name="troubleshoot-issues-with-office-365-atp"></a>Rozwiązywanie problemów z pakietem Office 365 ATP
 
-- **Powiadomienie o opóźnieniach z dostarczaniem wiadomości e-mail?** Spróbuj użyć opcji dostarczania dynamicznego dla zasad bezpiecznych załączników ATP. Pozwoli to uniknąć opóźnień w dostarczaniu wiadomości e-mail, chroniąc jednocześnie adresatów przed złośliwymi plikami.
-- **Czy chcesz zgłosić fałszywe alarmy lub fałszywe negatywy?** Użyj tego linku, aby przesłać plik do analizy:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Czy wiesz, że możesz włączyć ochronę ATP Safe Links dla poczty e-mail wysyłanej między osobami w organizacji?** Wykonaj następujące czynności:
-    1. Przejdź do https://protection.office.com , i zaloguj się.
-    2. Przejdź do **zasad zarządzania zagrożeniami**  >  **Policy**  >  **Bezpieczne linki**.
-    3. W obszarze **Zasady dotyczące określonych adresatów**edytuj (lub dodaj) zasady.
-    4. Wybierz **pozycję Zastosuj bezpieczne łącza do wiadomości wysyłanych w organizacji**.
-    5. Zapisz zasady i pozwól na około 30 minut, aby zmiany działały w centrum danych.
-- Aby uzyskać więcej pomocy w temacie ATP, zobacz [Zaawansowana ochrona przed zagrożeniami usługi Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
+- **Powiadomienia o opóźnieniu dostarczenia wiadomości e-mail**? Spróbuj skorzystać z opcji dostarczania dynamicznego dla zasad dotyczących bezpiecznych załączników ATP. Spowoduje to uniknięcie opóźnień dostarczania wiadomości e-mail podczas ochrony adresatów przed złośliwymi plikami.
+- **Czy chcesz zgłosić fałszywą liczbę dodatnią, czy fałszywą negatywną**? Użyj tego linku, aby przesłać plik do analizy: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Czy wiesz, że możesz włączyć ochronę za pośrednictwem linków bezpiecznego łącza dla wiadomości e-mail wysyłanych między osobami w organizacji**? Wykonaj następujące czynności:
+    1. Przejdź do https://protection.office.com i zaloguj się.
+    2. Przejdź do **Threat management**  >  **Policy**  >  **bezpiecznych linków**zasad zarządzania zagrożeniami.
+    3. W obszarze **zasady dotyczące określonych adresatów**Edytuj (lub Dodaj) zasady.
+    4. Wybierz pozycję **stosuj bezpieczne linki do wiadomości wysłanych w organizacji**.
+    5. Zapisz swoje zasady i pozwól na 30 minut na wprowadzenie zmian w celu ich współdziałania z centrum danych.
+- Aby uzyskać dodatkową pomoc dotyczącą ATP, zobacz [Zaawansowana ochrona przed zagrożeniami w pakiecie Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).

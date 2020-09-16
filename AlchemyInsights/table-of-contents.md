@@ -5,29 +5,30 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3042"
 - "9000592"
-ms.openlocfilehash: a7d34c8b99e1cdab915bfeec20ad5f9bdf1c1603
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b3e78ae5f7f6bc79b46993d7f67a57114282edd3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769781"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758039"
 ---
 # <a name="table-of-contents"></a>Spis treści
 
-Aby uzyskać informacje na temat tworzenia spisu treści w programie Word, zobacz [Wstawianie spisu treści](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)lub Pobierz [samouczek](https://go.microsoft.com/fwlink/?linkid=2065106)spisu treści.
+Aby uzyskać informacje na temat tworzenia spisu treści w programie Word, zobacz [Wstawianie spisu](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)treści lub pobieranie naszego [samouczka Spis treści](https://go.microsoft.com/fwlink/?linkid=2065106).
 
 **Rozwiązania typowych problemów**
 
-- Spis treści nie zawiera nagłówka, który właśnie został dodany do dokumentu.
-  1. Zaznacz tekst nagłówka, przejdź do stylów **domu** > **** i sprawdź, czy styl jest stosowany do nagłówka.
-  2. Przejdź do **** > **tabeli aktualizacji** odniesień, aby zaktualizować spis treści.
+- Spis treści nie zawiera nagłówka, który został dodany do dokumentu.
+  1. Zaznacz tekst nagłówka, przejdź do pozycji **style strony głównej**  >  **Styles**i sprawdź, czy w nagłówku zastosowano styl.
+  2. Przejdź do **References**  >  **tabeli aktualizowanie** odwołań w celu zaktualizowania spisu treści.
 
-- W spisie treści wyświetlany jest zbyt duży tekst. 
-  1. Zaznacz tekst akapitowy, a następnie przejdź do **** > **stylów**domu.
-  2. Wybierz styl, taki jak **normalny**, który nie jest uwzględniony w spisie treści.
+- Spis treści jest wyświetlany za dużo tekstu. 
+  1. Zaznacz tekst akapitu, a następnie przejdź do **strony**  >  **Style**domu.
+  2. Wybierz styl, taki jak **normalny**, który nie jest zawarty w spisie treści.
