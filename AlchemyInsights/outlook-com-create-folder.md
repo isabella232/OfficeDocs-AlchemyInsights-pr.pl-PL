@@ -1,11 +1,12 @@
 ---
-title: Tworzenie folderu w Outlook.com
+title: Tworzenie folderu w programie Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,16 +14,16 @@ ms.custom:
 - "219"
 - "8000009"
 ms.assetid: 3b8d2755-e80b-47fb-9c1a-35fe9cb30c04
-ms.openlocfilehash: 01f2cb481f155e4e9ca958560aad96956b03c376
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8b1d182f350165ae025d198f74ed69b0cd734877
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760458"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47752189"
 ---
-# <a name="create-a-folder-in-outlookcom"></a>Tworzenie folderu w Outlook.com
+# <a name="create-a-folder-in-outlookcom"></a>Tworzenie folderu w programie Outlook.com
 
-1. U dołu okienka folderów wybierz pozycję **Nowy folder**. Może być konieczne przewinięcie w dół w okienku folderów, aby wyświetlić przycisk **Nowy folder.**
-2. W polu tekstowym wprowadź nazwę folderu, a następnie naciśnij klawisz Enter.
+1. U dołu okienka folderów wybierz pozycję **Nowy folder**. Aby wyświetlić przycisk **Nowy folder** , może być konieczne przewinięcie w dół w okienku folderów.
+2. W polu tekstowym wprowadź nazwę folderu, a następnie naciśnij klawisz ENTER.
 
-Aby dowiedzieć się więcej, zobacz [Tworzenie folderu w Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).
+Aby dowiedzieć się więcej, zobacz [Tworzenie folderu w programie Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -5,38 +5,39 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 58c4537f7a11ea408ef9cfc9f30396da0f951bc7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 246a99f4c8a88e226b7cfbbaa9a68c02081b4088
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703617"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784677"
 ---
 # <a name="enable-external-sharing"></a>Włączanie udostępniania zewnętrznego
 
- Aby upewnić się, że udostępnianie jest włączone w usłudze SharePoint Online:
+ Aby upewnić się, że udostępnianie jest włączone dla usługi SharePoint Online:
   
 - **Udostępnianie globalne**
     
-  - Portal\> - Udostępnianie\> zewnętrzne - Przegląd udostępniania - Witryny, Umożliwienie osobom zewnętrznym dostępu do Twoich witryn: WŁ.
+  - Portal — \> Omówienie udostępniania zewnętrznego — \> witryny, zezwól użytkownikom zewnętrznym na dostęp do witryn: włączone
     
-  - Pole\> wyboru Portal\> - Udostępnianie zewnętrzne - Witryny - pole wyboru "Umożliwienie osobom zewnętrznym dostępu do Twoich witryn"
+  - Portal — \> udostępnianie zewnętrzne — \> witryny — "Zezwalaj na dostęp osób zewnętrznych do witryn"
     
-- **Udostępnianie administracyjne — Centrum administracyjne programu SharePoint**
+- **Udostępnianie administracyjne — centrum administracyjne programu SharePoint**
     
-    Udostępnianie zewnętrzne — upewnij się, że wybrano jedną z dwóch opcji:
+    Udostępnianie zewnętrzne — upewnij się, że jest wybrana jedna z dwóch opcji:
     
-  - "Zezwalaj użytkownikom zewnętrznym, którzy akceptują zaproszenia do udostępniania i logują się jako uwierzytelnieni użytkownicy"
+  - "Zezwalaj użytkownikom zewnętrznym akceptującym zaproszenia do udostępniania i zaloguj się jako uwierzytelnieni użytkownicy"
     
-  - "Zezwalaj zarówno użytkownikom zewnętrznym, którzy akceptują zaproszenia do udostępniania, jak i anonimowe linki gości"
+  - "Zezwalaj użytkownikom zewnętrznym akceptującym zaproszenia do udostępniania i anonimowe linki Gości"
     
-- **Poszczególne zbiory witryn**
+- **Indywidualne zbiory witryn**
     
-  - Zbiory witryn — wybierz dany zbiór witryn, a\> następnie kliknij pozycję Udostępnianie — na wstążce — upewnij się, że są zaznaczone opcje udostępniania.
+  - Zbiory witryn — wybierz wybrany zbiór witryn, a następnie kliknij pozycję Udostępnianie — na Wstążce \> upewnij się, że wybrano opcje udostępniania.
     
-Aby uzyskać dodatkowe informacje dotyczące włączania udostępniania zewnętrznego, zobacz [Włączanie lub wyłączanie udostępniania zewnętrznego w usłudze SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Aby uzyskać dodatkowe informacje na temat włączania udostępniania zewnętrznego, zobacz [Włączanie lub wyłączanie funkcji udostępniania zewnętrznego dla usługi SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 

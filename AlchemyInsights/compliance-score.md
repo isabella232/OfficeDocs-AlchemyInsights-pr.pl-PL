@@ -1,40 +1,41 @@
 ---
-title: Wynik zgodności
+title: Ocena zgodności
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: e77bb9a93325b49cf0f45cc74109432badc481c5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: fc42b7d4959d624da68d444c03af94d2b3ba0af5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706103"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47785469"
 ---
-# <a name="compliance-score"></a>Wynik zgodności
+# <a name="compliance-score"></a>Ocena zgodności
 
-Microsoft Compliance Score (Preview) to funkcja w usłudze Microsoft 365, która pomaga mierzyć postawę zgodności organizacji. Używa wyniku opartego na analizie ryzyka na podstawie postępów we wdrażaniu działań związanych z zgodnością.   Compliance Score to uproszczona wersja [Menedżera zgodności](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) i oferuje łatwiejszy sposób zbadania stanowiska zgodności i wdrożenia działań w celu jego ulepszenia. 
+Wynik zgodności firmy Microsoft (wersja Preview) to funkcja w programie Microsoft 365, która ułatwia mierzenie Posture zgodności organizacji. Używa on wyników opartych na ryzyku na podstawie postępu wdrażania działań związanych z zgodnością.   Ocena zgodności to uproszczona wersja [Menedżera zgodności](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) , która oferuje łatwiejszy sposób sprawdzania zgodności Stance i wdrażania akcji w celu jej usprawnienia. 
 
-Administrator globalny będzie musiał skonfigurować odpowiednie [uprawnienia](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) w Centrum zgodności firmy Microsoft, aby uzyskać dostęp do Wyniku zgodności.  Wszystkie uprawnienia wcześniej skonfigurowane dla Menedżera zgodności nie zostaną przeniesione do Wyniku zgodności.
+Aby uzyskać dostęp do wyników zgodności, Administrator globalny musi skonfigurować odpowiednie [uprawnienia](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) w centrum zgodności firmy Microsoft.  Wszystkie uprawnienia skonfigurowane wcześniej dla Menedżera zgodności nie będą przenoszone do wyników zgodności.
 
-**Aby uzyskać dostęp do wyniku zgodności**
+**Aby uzyskać dostęp do wyników zgodności**
 
-1. Przejdź do centrum zgodności usługi Microsoft 365 i **zaloguj się** za pomocą globalnego konta administratora usługi Microsoft 365.
+1. Przejdź do centrum zgodności z systemem Microsoft 365 i **Zaloguj** się przy użyciu konta administratora globalnego usługi Microsoft 365.
 
-2. Wybierz **wynik zgodności** w lewym okienku nawigacji. Następnie powinieneś zobaczyć [swój pulpit nawigacyjny Wyniku zgodności z wynikiem](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
+2. Wybierz pozycję **Ocena zgodności** w okienku nawigacji po lewej stronie. Następnie należy zapoznać [się z wynikami na pulpicie nawigacyjnym oceny zgodności](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
  
 
-**Aby uzyskać więcej informacji na temat:**
+**Aby uzyskać więcej informacji na temat**:
 
-- Konfigurowanie uprawnień dostępu dla wyniku zgodności, zobacz [Udzielanie użytkownikom dostępu do centrów zgodności zabezpieczeń & microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
-- Praca z działaniami ulepszania w wyniku zgodności, zobacz [Praca z wynikiem zgodności](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
-- Jak obliczany jest wynik zgodności, zobacz [Metodologia wyniku zgodności](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
-- Wynik zgodności a Menedżer zgodności, zobacz [Raport relacji z Menedżerem zgodności](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
+- Konfigurowanie uprawnień dostępu do oceny zgodności, zobacz [udzielanie użytkownikom dostępu do centrum zgodności usługi Microsoft 365 Security & Centers](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
+- Praca z działaniami naprawczymi w ramach oceny zgodności zawiera temat  [Praca z wynikami zgodności](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
+- Jak obliczana jest ocena zgodności, zobacz [metodologia oceny zgodności](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
+- Ocena zgodności a Menedżer zgodności, zobacz [relacje z menedżerem zgodności](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
 
