@@ -1,23 +1,24 @@
 ---
-title: Przeglądarki internetowe obsługiwane przez zespoły
+title: Obsługiwane przez zespoły przeglądarki sieci Web
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 273edf85c9beec35d3b9cace03b809dde0db01c3
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 7ede4f52740835b0690648ad17cafbea50929f61
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599386"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750533"
 ---
-# <a name="teams-supported-web-browsers"></a>Przeglądarki internetowe obsługiwane przez zespoły
+# <a name="teams-supported-web-browsers"></a>Obsługiwane przez zespoły przeglądarki sieci Web
 
-Zespoły w pełni obsługują przeglądarki internetowe wymienione w artykule [Limity i specyfikacje dla usługi Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), z wyjątkami dla połączeń i spotkań.
+Aplikacja Teams w pełni obsługuje przeglądarki internetowe wymienione w artykule, [limity i specyfikacje dotyczące aplikacji Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)z zanotowanymi wyjątkami rozmów i spotkań.
