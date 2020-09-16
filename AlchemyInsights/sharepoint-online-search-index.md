@@ -4,31 +4,32 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 85f29fabe3189fe248696155208b56d4901ab6de
-ms.sourcegitcommit: b5370f0fc8da1e7e5ac960cb622a21612a9c86be
+ms.openlocfilehash: f790efbe6ed445786933efa3fc980f974693d1d9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/29/2020
-ms.locfileid: "42341110"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770777"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Indeksowanie i indeksowanie zawartości w usłudze SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Przeszukiwanie zawartości i indeksowanie zawartości w usłudze SharePoint Online
 
-Zawartość musi być indeksowana i dodawana do indeksu wyszukiwania, aby użytkownicy mogli znaleźć to, czego szukają w usłudze SharePoint Online.
+Zawartość musi zostać przeszukana i dodana do indeksu wyszukiwania dla użytkowników w celu znalezienia wyszukiwania w usłudze SharePoint Online.
 
-- Upewnij się, że zawartość można [znaleźć, udostępniając zawartość witryny.](https://docs.microsoft.com/sharepoint/make-site-content-searchable)
+- Upewnij się, że zawartość witryny można znaleźć, [przedając jej możliwość wyszukiwania](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
-- Po zmianie właściwości zarządzanej lub po zmianie mapowania właściwości indeksowanych i zarządzanych witryna musi zostać ponownie przeszukana, zanim zmiany zostaną odzwierciedlone w indeksie wyszukiwania.
+- Po zmianie właściwości zarządzanej lub zmianie mapowania właściwości przeszukanych i zarządzanych należy ponownie przeszukać witrynę, zanim zmiany zostaną odzwierciedlone w indeksie wyszukiwania.
 
-- Aby uzyskać więcej informacji, zobacz [Ręczne żądanie indeksowania i ponownego indeksowania witryny, biblioteki lub listy](https://docs.microsoft.com/sharepoint/crawl-site-content).
+- Aby uzyskać więcej informacji, zobacz [Ręczne żądanie przeszukiwania i ponowne indeksowanie witryny, biblioteki lub listy](https://docs.microsoft.com/sharepoint/crawl-site-content).
 
-- Poczekaj co najmniej 24 godziny po ręcznym zażądaniu przeszukiwania i pełnego ponownego indeksowania, aby sprawdzić, czy nadal występuje problem.
+- Odczekaj co najmniej 24 godziny od ręcznego zażądania przeszukiwania i pełnego indeksu, aby sprawdzić, czy nadal występują problemy.
 
-- Jeśli od zainicjowania indeksowania i pełnego ponownego indeksu upłynęło więcej niż 24 godziny, zaloguj sprawę pomocy technicznej. W wielu przypadkach pracujemy już nad rozwiązaniem. Proszę dać nam co najmniej 24 godziny na uzupełnienie rozwiązania.
+- Jeśli od momentu zainicjowania przeszukiwania i pełnego indeksu upłynęło więcej niż 24 godziny, zarejestruj sprawę obsługi. W wielu przypadkach jesteśmy już nad rozwiązaniem. Przekaż nam co najmniej 24 godziny na zakończenie rozwiązania.
 
-**Ważne:** Jeśli witryna, dokument (biblioteka) lub lista zostały usunięte i nadal są wyświetlane w wynikach wyszukiwania, użytkownicy powinni otrzymywać **błąd nr 404 Nie znaleziono pliku** podczas próby uzyskania do niego dostępu. Kwestia ta powinna być rejestrowana jako argument wsparcia dla dalszego dochodzenia.
+**Ważne**: Jeśli witryna, dokument (Biblioteka) lub lista została usunięta, a mimo to są wyświetlane w wynikach wyszukiwania, użytkownicy powinni otrzymać **błąd 404** podczas próby uzyskania dostępu do pliku. Ten problem powinien być rejestrowany jako przypadek pomocy technicznej, aby uzyskać dalsze badania.
 
 
 
