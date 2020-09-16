@@ -5,27 +5,28 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 978df2785967eac4b951fa3facdac0b8c2833d1a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7bb2110898e8b5b9aa9a73fb04698f759b5959b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704787"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731069"
 ---
 # <a name="delete-a-site"></a>Usuwanie witryny
 
-Gdy usuniesz witrynę, zostanie przeniesiona do usuniętych witryn i jest przechowywana przez 93 dni. Aby usunąć witrynę, przejdź do [strony Aktywne witryny](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+Usunięte witryny są przenoszone do witryn usuniętych i są zachowywane przez 93 dni. Aby usunąć witrynę, przejdź do obszaru [aktywne witryny](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
-Po usunięciu witryny wszystko, co w niej znajduje się, w tym:
+Usunięcie witryny powoduje usunięcie wszystkich elementów, w tym:
 
 - Biblioteki dokumentów i pliki.
-- Wyświetla listę i dane listy.
-- Ustawienia witryny i historia.
-- Wszelkie podniedziały i ich zawartość.
+- Listy i dane list.
+- Ustawienia i historia witryny.
+- Wszystkie podwitryny i ich zawartość.
 
-Przed usunięciem witryny należy powiadomić administratorów witryn i wszystkich właścicieli podudziałów, aby mogli przenieść swoje dane do innej lokalizacji, a także poinformować użytkowników, kiedy witryny zostaną usunięte.
+Przed usunięciem witryny należy powiadomić administratorów witryn i wszystkich jej właścicieli witryn, aby mogli przenosić ich dane do innej lokalizacji, a także poinformowanić użytkowników, że witryny zostaną usunięte.
 
-Aby uzyskać więcej informacji, zobacz [Usuwanie witryny](https://docs.microsoft.com/sharepoint/delete-site-collection).
+Aby uzyskać więcej informacji, zobacz [usuwanie witryny](https://docs.microsoft.com/sharepoint/delete-site-collection).
