@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500001"
 - "430"
-ms.openlocfilehash: 3e89271953303b7b5161bb8846459b0bfa3375c5
-ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
-ms.translationtype: HT
+ms.openlocfilehash: 2c16f7afc44ff375ef26e809793edfc32c192429
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43207576"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657655"
 ---
 # <a name="update-my-credit-card-information"></a>Jak zaktualizować dane karty kredytowej?
 
-W **Centrum administracyjnym usługi Microsoft 365** możesz dodać/usunąć metodę płatności. Jeśli Twoja metoda płatności nie jest powiązana z żadną subskrypcją, możesz ją od razu usunąć. Jeśli jest powiązana z subskrypcją, zapoznaj się z artykułem [Zmiana metody płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#change-a-payment-method).
+Możesz dodać/usunąć metodę płatności w **centrum administracyjnym usługi Microsoft 365**. Jeśli Twoja metoda płatności nie jest powiązana z żadną subskrypcją, możesz ją od razu usunąć. Jeśli jest skojarzona z subskrypcją, możesz [zarządzać metodami płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 1. Przejdź do **Rozliczenia > Rachunki i płatności > [Formy płatności](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
 
@@ -28,6 +29,6 @@ W **Centrum administracyjnym usługi Microsoft 365** możesz dodać/usunąć met
 
 3. Na dole panelu **Usuń metodę płatności** kliknij w pozycję **Usuń**.
 
-Aby uzyskać więcej informacji, zobacz [Dodawanie, aktualizowanie i usuwanie form płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#update-an-existing-payment-method).
+Aby uzyskać więcej informacji, zobacz [Zarządzanie metodami płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Aby rozwiązać problemy, zapoznaj się z artykułem [Rozwiązywanie problemów z metodami płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#troubleshoot-payment-methods).
+Aby rozwiązać problemy, zapoznaj się z artykułem [Rozwiązywanie problemów z metodami płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods).

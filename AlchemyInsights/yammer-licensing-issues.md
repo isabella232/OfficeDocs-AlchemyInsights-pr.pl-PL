@@ -6,31 +6,32 @@ manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: 6d9b2126dc1ed90968738ddb2e249dce9857f1db
-ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.openlocfilehash: f0a7625c7b77860e5ba0e29f2df47101749aace3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45148316"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657286"
 ---
 # <a name="yammer-licensing-issues"></a>Problemy z licencjonowaniem usługi Yammer
 
-Wszyscy użytkownicy muszą mieć licencję na korzystanie z usługi Yammer Enterprise, ale domyślnie usługa Yammer nie wymaga od użytkowników licencji na dostęp do usługi. Gdy administrator zmieni to ustawienie, aby zablokować użytkowników usługi Microsoft 365 bez licencji Yammer, użytkownicy, którym nie przypisano licencji Yammer Enterprise, nie mogą uzyskać dostępu do usługi Yammer. Aby uzyskać więcej informacji, zobacz [Zarządzanie licencjami użytkowników usługi Yammer w usłudze Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365) 
+Wszyscy użytkownicy muszą mieć licencję na korzystanie z usługi Yammer Enterprise, ale domyślnie usługa Yammer nie wymaga posiadania licencji na dostęp do usługi. Gdy administrator zmieni ustawienie w celu zablokowania użytkowników programu Microsoft 365 bez licencji usługi Yammer, użytkownicy, którym nie przypisano licencji usługi Yammer Enterprise, mogą uzyskać dostęp do usługi Yammer. Aby uzyskać więcej informacji, zobacz [Zarządzanie licencjami użytkowników usługi Yammer w pakiecie Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365) 
 
-Gdy licencje są usuwane z użytkowników, kafelek Yammer nie jest już wyświetlany, a inne usługi mogą używać usuwania licencji do ukrywania funkcji. W innych przypadkach funkcje mogą nadal pojawiać się, ale wymagają przypisania licencji do działania.  
+Po usunięciu licencji od użytkowników kafelek usługi Yammer nie jest już wyświetlany, a inne usługi mogą używać usuwania licencji w celu ukrycia funkcji. W innych przypadkach nadal mogą być wyświetlane funkcje, ale wymagane jest przypisanie licencji.  
 
 **Licencja nie jest aktualizowana dla użytkownika**  
 
-Od czasu do czasu użytkownikowi jest przypisywana licencja, ale nadal nie może uzyskać dostępu do usługi Yammer. Opóźnienia są bardziej prawdopodobne, gdy trwa przypisanie licencji masowej. Użytkownicy usługi Yammer mogą nie być aktualizowane w tej samej kolejności, jak licencje są zmieniane w usłudze Azure AD, ponieważ system działa asynchronicznie. Poczekaj do 24 godzin przed otwarciem sprawy pomocy technicznej, aby zgłosić problemy z synchronizacją licencji.  
+Czasami użytkownik ma przypisaną licencję, ale nadal nie może uzyskać dostępu do usługi Yammer. Prawdopodobieństwo wystąpienia opóźnień jest większe, gdy trwa przydział licencji masowej. Użytkownicy usługi Yammer mogą nie zostać zaktualizowani w takiej samej kolejności, w jakiej licencje są zmieniane w usłudze Azure AD, ponieważ system jest uruchamiany asynchronicznie. Poczekaj na 24 godziny przed otwarciem sprawy pomocy technicznej, aby raportować problemy z synchronizacją licencji.  
 
-**Zbiorcze przydzielanie licencji**  
+**Przydział licencji zbiorczej**  
 
-Licencje można przypisać za pośrednictwem centrum administracyjnego lub skryptów programu PowerShell. Aby uzyskać więcej informacji, zobacz [Przypisywanie licencji użytkownikom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) i [Przypisywanie licencji do kont użytkowników w usłudze Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell). 
+Licencje można przypisywać za pośrednictwem Centrum administracyjnego lub skryptów programu PowerShell. Aby uzyskać więcej informacji, zobacz [Przypisywanie licencji do użytkowników](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) i [Przypisywanie licencji do kont użytkowników przy użyciu programu Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell). 
 
-Pomoc techniczna firmy Microsoft nie zapewnia pomocy w tworzeniu skryptów, ale dostępna jest dokumentacja dotycząca przypisywania licencji usługi Yammer. Aby uzyskać więcej informacji, zobacz [Zarządzanie licencjami usługi Yammer przy użyciu programu Windows PowerShell](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365#manage-yammer-licenses-by-using-windows-powershell).
+Pomoc techniczna firmy Microsoft nie zapewnia pomocy w tworzeniu skryptów, ale dostępna jest dokumentacja dotycząca przydziału licencji usługi Yammer. Aby uzyskać więcej informacji, zobacz [Zarządzanie licencjami usługi Yammer za pomocą programu Windows PowerShell](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365#manage-yammer-licenses-by-using-windows-powershell).

@@ -6,28 +6,29 @@ manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1750"
 - "9000076"
-ms.openlocfilehash: 1dca00b98749868a417d22f6fcb5d99652f89a6f
-ms.sourcegitcommit: e90b918f02102cd9764881c2d8c914567c6b070e
+ms.openlocfilehash: 720dc31dc4db98714e5f8aa7a6ce95d83b6b0229
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46555298"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664900"
 ---
 # <a name="troubleshoot-resource-access-issues"></a>Rozwiązywanie problemów z dostępem do zasobów
 
-Aby uzyskać informacje o typach profilów, które obsługuje usługa Intune, aby umożliwić użytkownikom dostęp do infrastruktury i zasobów firmowych, zobacz:
+Aby uzyskać informacje na temat typów profilów obsługiwanych przez usługę Intune w celu umożliwienia użytkownikom dostępu do infrastruktury i zasobów firmowych, zobacz:
 
-- [Dodawanie ustawień poczty e-mail do urządzeń korzystających z usługi Intune](https://docs.microsoft.com/intune/email-settings-configure)
-- [Tworzenie profilów sieci VPN w celu nawiązania połączenia z serwerami sieci VPN w usłudze Intune](https://docs.microsoft.com/intune/vpn-settings-configure))
+- [Dodawanie ustawień poczty e-mail do urządzeń przy użyciu usługi Intune](https://docs.microsoft.com/intune/email-settings-configure)
+- [Tworzenie profilów sieci VPN w celu nawiązania połączenia z serwerami sieci VPN w usłudze Intune](https://docs.microsoft.com/intune/vpn-settings-configure)
 - [Dodawanie i używanie ustawień sieci Wi-Fi na urządzeniach w usłudze Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-configure)
 - [Używanie certyfikatów do uwierzytelniania w usłudze Microsoft Intune](https://docs.microsoft.com/intune/certificates-configure)
 
-Aby uzyskać więcej informacji na temat profili urządzeń usługi Intune, zobacz [Typowe pytania i odpowiedzi dotyczące zasad i profili urządzeń w usłudze Microsoft Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot).
+Aby uzyskać więcej informacji na temat profilów urządzeń usługi Intune, zobacz [często zadawane pytania i odpowiedzi z zasadami dotyczącymi urządzeń i profilami w usłudze Microsoft Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot).
 
-Aby uzyskać dodatkowe informacje dotyczące rozwiązywania problemów z profilami dostępu do zasobów, zobacz [Typowe kody błędów i opisy w usłudze Microsoft Intune](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems).
+Aby uzyskać dodatkowe informacje dotyczące rozwiązywania problemów z profilami dostępu do zasobów, zobacz [typowe kody błędów i opisy w usłudze Microsoft Intune](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems).

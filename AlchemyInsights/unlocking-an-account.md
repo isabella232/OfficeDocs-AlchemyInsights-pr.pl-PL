@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
-ms.translationtype: HT
+ms.openlocfilehash: 9a6178bd6ebc9c1c86869ece552448fbe8ac9a9b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799061"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657907"
 ---
 # <a name="unlocking-an-account"></a>Odblokowywanie konta
 
@@ -40,4 +41,4 @@ Jeżeli jednemu z Twoich użytkowników zablokowano możliwość wysyłania wiad
 
 Więcej sposobów resetowania haseł, w tym omówienie samodzielnego resetowania hasła, znajdziesz w artykule [Resetowanie haseł platformy Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
 
-Usługa zapobiega wysyłaniu wiadomości e-mail przez użytkownika po wykryciu dowodów na złamanie zabezpieczeń konta i/lub odnotowanie wychodzącego spamu. Dla bezpieczeństwa wykonaj czynności opisane w sekcji [Reagowanie na naruszenie konta e-mail na platformie Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) dotyczące użytkownika.
+Usługa zapobiega wysyłaniu wiadomości e-mail przez użytkownika po wykryciu dowodów na złamanie zabezpieczeń konta i/lub odnotowanie wychodzącego spamu. Dla bezpieczeństwa wykonaj czynności opisane w sekcji [Reagowanie na naruszenie konta e-mail na platformie Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) dotyczące użytkownika.

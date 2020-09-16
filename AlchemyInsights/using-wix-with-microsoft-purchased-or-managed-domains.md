@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/05/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5855"
 - "9003096"
-ms.openlocfilehash: f6845c56f05e9cef11362ce601a974b73a154c9a
-ms.sourcegitcommit: 28a319e482e6a8644e87726e1b0e599819df52d0
+ms.openlocfilehash: bef0943c8621043218088abf0deebddf6c19ef50
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "46629752"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664756"
 ---
 # <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>Używanie witryny sieci Web WIX z zakupionymi lub zarządzanymi domenami firmy Microsoft
 
@@ -29,4 +30,4 @@ Aby uzyskać szczegółowe informacje, zobacz:
 
 - Jeśli zdecydujesz się zmienić serwery nazw na WIX, musisz utworzyć rekordy DNS w witrynie WIX dla firmy Microsoft. Aby uzyskać więcej informacji, zobacz [tworzenie rekordów DNS w witrynie WIX dla firmy Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix).
 
-- Jeśli Twoja domena została zakupiona w firmie Microsoft, nie można zmienić serwerów nazw. Jeśli trzeba zmienić serwery nazw, zakupiona domena firmy Microsoft musi zostać przeniesiona do innego dostawcy hostingu po 60 dni. Aby uzyskać więcej informacji, zobacz [często zadawane pytania dotyczące domen](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider).
+- Jeśli Twoja domena została zakupiona w firmie Microsoft, nie można zmienić serwerów nazw. Jeśli trzeba zmienić serwery nazw, zakupiona domena firmy Microsoft musi zostać przeniesiona do innego dostawcy hostingu po 60 dni. Aby uzyskać więcej informacji, zobacz [Przenoszenie domeny firmy Microsoft na inny host](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
