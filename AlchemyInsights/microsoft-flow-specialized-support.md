@@ -1,30 +1,31 @@
 ---
-title: Specjalistyczna pomoc techniczna firmy Microsoft Flow
+title: Specjalistyczna pomoc dotycząca przepływu firmy Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirke
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: 6d40629c1259a78803302d6a23a96b50236561b5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698572"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725057"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Specjalistyczna pomoc techniczna firmy Microsoft Flow
+# <a name="microsoft-flow-specialized-support"></a>Specjalistyczna pomoc dotycząca przepływu firmy Microsoft
 
-Aby uzyskać specjalistyczną pomoc techniczną microsoft flow, przejdź do nowego [centrum administracyjnego platformy Zasilania](https://aka.ms/flowadminsupport). Nowy portal zapewnia bardziej bezpośrednią ścieżkę do wspomaganej pomocy technicznej zoptymalizowanej pod kątem usługi Microsoft Flow i innych produktów platformy Power.
+Aby uzyskać specjalistyczną obsługę przepływu Microsoft, przejdź do nowego [Centrum administracyjnego platformy Power platform](https://aka.ms/flowadminsupport). Nowy portal zapewnia bardziej bezpośrednią ścieżkę do pomocy technicznej zoptymalizowanej pod kątem Microsoft przepływów i innych produktów platformy Power platform.
 
 Dowiedz się więcej:
-- [Informacje o licencjach Microsoft Flow Free](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [Przepływ w organizacji Często zadawane pytania](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Plany microsoft 365 i Dynamics 365, które zawierają usługę Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Pytania dotyczące rozliczeń i pomiarów usługi Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072612)
+- [Informacje na temat bezpłatnych licencji Microsoft przepływ](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Przepływ w organizacji — często zadawane pytania](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Plany Microsoft 365 i Dynamics 365, które zawierają Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Pytania dotyczące rozliczeń i zliczania przepływu firmy Microsoft](https://go.microsoft.com/fwlink/?linkid=2072612)

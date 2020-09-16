@@ -5,23 +5,24 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 8bc63bd52b1d6a9a7913f025c9dc3390ffbb023f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d6d652d107d453692751ad802ebe397e52df5627
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762363"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724697"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Występują problemy z usługą w chmurze?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Masz problemy z usługą w chmurze?
 
-Jeśli występują problemy z usługą w chmurze, możesz sprawdzić [kondycję usługi](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) w centrum administracyjnym usługi Microsoft 365, aby ustalić, czy jest to znany problem z rozdzielczością w toku przed wywołaniem pomocy technicznej lub spędzaniem czasu na rozwiązywaniu problemów. Problem może być bardzo tymczasowy i już identyfikowany przez firmę Microsoft, jednak może do czasu między identyfikacją problemu a opublikowaniem na pulpicie nawigacyjnym kondycji usługi. Kontynuuj sprawdzanie pulpitu nawigacyjnego usługi w poszukiwaniu dalszych aktualizacji.
+Jeśli występują problemy z usługą w chmurze, możesz sprawdzić [kondycję usługi](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) w centrum administracyjnym Microsoft 365, aby sprawdzić, czy jest to znany problem z trwającą rozdzielczością, zanim zadzwonisz do pomocy technicznej lub w trakcie rozwiązywania problemów. Problem może być bardzo tymczasowy i jest już zidentyfikowany przez firmę Microsoft, ale może się zdarzyć, że w czasie między zidentyfikowaniem problemu i publikowaniem na pulpicie nawigacyjnym kondycja usługi wystąpiła ważność. Dalsze aktualizacje można znaleźć w obszarze pulpitu nawigacyjnego usługi.
 
 **Zasady powiadamiania**
 
-W przypadku wystąpienia zdarzenia usługi firma Microsoft rozpoznaje, że terminowa, ukierunkowana i dokładna komunikacja ma kluczowe znaczenie dla klientów. Firma Microsoft powiadamia administratorów, aktualizując [pulpit nawigacyjny kondycji usługi (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) specyficzny dla dzierżawy w portalu administracyjnym usługi Microsoft 365. Aktualizacje zdarzeń serwisowych są dostarczane w rytmie godzinowym lub, jeśli wymagany jest inny rytm, zostanie to określone w komunikacie SHD. Aby uzyskać więcej informacji, zobacz [Jak sprawdzić kondycję usługi Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
+W przypadku wystąpienia incydentu usługi firma Microsoft rozpoznaje ten termin, ukierunkowany i dokładny sposób komunikacji dla klientów. Firma Microsoft powiadamia administratorów przez zaktualizowanie [pulpitu nawigacyjnego kondycji usługi](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) specyficznej dla dzierżawy (SHD) w portalu administracyjnym Microsoft 365. Aktualizacje incydentów usługowych są podawane w częstotliwość godzinowej lub, jeśli jest wymagany inny częstotliwość, zostanie on podany w SHDej komunikacji. Aby uzyskać więcej informacji, zobacz [Jak sprawdzić kondycję usługi Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
 
