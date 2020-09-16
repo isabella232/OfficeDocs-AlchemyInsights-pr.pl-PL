@@ -1,30 +1,31 @@
 ---
-title: Ograniczanie dostępu w programie SharePoint lub OneDrive
+title: Ograniczanie dostępu w programie SharePoint lub usłudze OneDrive
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: ed8e97b20c96a7b46995c969074cc4cef3a787d9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d8be1eb5bdcd0b5b08ddad32a45b6282c788c26a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715894"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720692"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Ograniczanie dostępu w programie SharePoint lub OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Ograniczanie dostępu w programie SharePoint lub usłudze OneDrive
 
-W programie SharePoint i OneDrive ograniczasz dostęp do elementów, takich jak pliki, foldery i listy, przyznając dostęp tylko grupom lub osobom, do których chcesz mieć dostęp. Domyślnie uprawnienia w programie SharePoint są dziedziczone z wyższej pozycji w hierarchii. Tak więc plik dziedziczy jego uprawnienia z folderu, który dziedziczy jego uprawnienia z biblioteki, która dziedziczy jego uprawnienia z witryny.
+W programie SharePoint i usłudze OneDrive możesz ograniczyć dostęp do elementów, takich jak pliki, foldery i listy, udzielając dostępu tylko grupom lub osobom, do których chcesz mieć dostęp. Domyślnie uprawnienia w programie SharePoint są dziedziczone z wyższego poziomu w hierarchii. Dzięki temu plik dziedziczy uprawnienia z folderu, który dziedziczy uprawnienia z biblioteki, co powoduje dziedziczenie uprawnień do witryny.
   
-Możesz udostępniać na wyższym poziomie (na przykład udostępniając całą witrynę), a następnie przerywać dziedziczenie, jeśli nie chcesz udostępniać wszystkich elementów w witrynie. Jednak nie zaleca się tego, ponieważ sprawia, że utrzymanie uprawnień bardziej skomplikowane i mylące w przyszłości. Oto, co możesz zrobić:
+Możesz udostępnić na wyższym poziomie (na przykład udostępnić całą witrynę), a następnie przerwać dziedziczenie, jeśli nie chcesz udostępniać wszystkich elementów w witrynie. Nie jest to jednak zalecane, ponieważ ułatwia to zachowanie uprawnień bardziej złożonych i mylących w przyszłości. Możesz to zrobić w następujący sposób:
   
-- Jeśli na przykład chcesz udostępnić całą zawartość folderu z wyjątkiem jednego pliku, przenieś ten plik do nowej lokalizacji, która nie jest udostępniana.
+- Jeśli na przykład chcesz udostępnić całą zawartość folderu z wyjątkiem jednego pliku, Przenieś ten plik do nowej lokalizacji, która nie jest udostępniona.
     
-- Jeśli w folderze są dwa podfoldery, a jeden podfolder chcesz udostępnić jeden podfolder grupom A i B oraz zezwolić tylko grupie A na dostęp do drugiego podfolderu, udostępnij folder nadrzędny grupie A i dodaj grupę B do pierwszego podfolderu.
+- Jeśli w folderze znajdują się dwa podfoldery i chcesz udostępnić pojedynczy podfolder grupom a i B i zezwolić tylko na grupowanie w drugim podfolderze, Udostępnij folder nadrzędny grupie A i Dodaj grupę B do pierwszego podfolderu.
     
-[Zatrzymywanie udostępniania pliku lub folderu](https://go.microsoft.com/fwlink/?linkid=2008861)
+[Zatrzymywanie udostępniania pliku lub folderu ](https://go.microsoft.com/fwlink/?linkid=2008861)
   
 

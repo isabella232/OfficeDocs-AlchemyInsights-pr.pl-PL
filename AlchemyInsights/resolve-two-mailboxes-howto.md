@@ -1,11 +1,12 @@
 ---
-title: 1374 Rozwiąż dwie skrzynki pocztowe howto
+title: 1374 rozpoznawanie dwóch skrzynek pocztowych porady
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,15 +14,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 95d85d7737ae0684b2a2c017134104bd377695f1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 048c527b26d138535550b5bae399d0ce9fbce0a6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722537"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720908"
 ---
 # <a name="a-user-has-two-mailboxes"></a>Użytkownik ma dwie skrzynki pocztowe
 
-Środowiska hybrydowe korzystające z usługi Azure Active Directory Connect (AAD Connect) lub DirSync mogą przypadkowo spowodować, że użytkownik ma dwie skrzynki pocztowe: jedną lokalną i jedną w chmurze. W każdym miejscu można utworzyć zduplikowaną skrzynkę pocztową.
+Środowiska hybrydowe, które korzystają z usługi Azure Active Directory Connect (AAD Connect) lub DirSync, mogą przypadkowo spowodować, że użytkownik ma dwie skrzynki pocztowe: jedno lokalne i jedno w chmurze. W dowolnym miejscu można utworzyć zduplikowaną skrzynkę pocztową.
 
-Aby rozwiązać ten problem, zobacz [Jak odzyskać, gdy skrzynka pocztowa istnieje zarówno w usłudze Exchange Online, jak i w środowisku lokalnym.](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises) Jeśli chcesz dowiedzieć się więcej o tym, jak uniknąć tego w przyszłości, zobacz [Mój użytkownik ma skrzynkę pocztową zarówno w środowisku lokalnym, jak i w usłudze Exchange Online. Pomoc!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+Aby rozwiązać ten problem, zobacz [Jak odzyskać skrzynkę pocztową w usłudze Exchange Online i lokalnie](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Jeśli chcesz dowiedzieć się więcej na temat tego, jak uniknąć tego problemu w przyszłości, zobacz Skrzynka pocztowa, w której znajdują się informacje [lokalne i w usłudze Exchange Online. Pomoc!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
