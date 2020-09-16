@@ -1,11 +1,12 @@
 ---
-title: Powiadomienia alertów programu SharePoint nie zostały dostarczone
+title: Powiadomienia o alertach programu SharePoint nie zostały dostarczone
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
@@ -13,30 +14,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44343089"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751253"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>Powiadomienia alertów programu SharePoint nie zostały dostarczone
+# <a name="sharepoint-alert-notifications-not-delivered"></a>Powiadomienia o alertach programu SharePoint nie zostały dostarczone
 
-Sprawdź folder ŚMIECI w wiadomości e-mail, ponieważ czasami mogą tam trafić alerty.
+Sprawdź folder wiadomości-śmieci w wiadomości e-mail, ponieważ czasami alerty mogą się tam pojawić.
 
-Określ, czy **wszystkie alerty nie są dostarczane** lub jeśli pojedynczy **alert** z określonego pliku lub biblioteki nie jest dostarczany.
+Ustalanie, czy **nie są dostarczane żadne alerty** , czy nie jest dostarczany **indywidualny alert** z określonego pliku lub biblioteki.
 
-- **Poszczególne alerty nie są dostarczane:** Jeśli pojedynczy alert z określonego pliku lub biblioteki nie zostanie dostarczony, można spróbować go usunąć i ponownie utworzyć. Aby odtworzyć [alert, zobacz Zarządzanie, wyświetlanie lub usuwanie alertów programu SharePoint.](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2)
-- **Wszystkie alerty nie są dostarczane:** Jeśli wszystkie alerty z wielu plików lub bibliotek nie są dostarczane, odwiedź [pulpit nawigacyjny kondycji usługi,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) aby sprawdzić, czy nie ma żadnych porad/incydentów, które mogą występować w programie SharePoint lub Exchange. Problem może dotyczyć funkcji alertu programu SharePoint lub opóźnień w wiadomościach e-mail za pośrednictwem programu Exchange. Ważne będzie również, aby pamiętać, czy inna wiadomość e-mail jest dostarczana, a jeśli nie, problem jest prawdopodobnie związany z opóźnieniami programu Exchange.
+- **Indywidualne alerty nie są dostarczane**: Jeśli alert z określonego pliku lub biblioteki nie jest dostarczany, możesz spróbować go usunąć i utworzyć ponownie. Zobacz [Zarządzanie, wyświetlanie lub usuwanie alertów programu SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) w celu ponownego utworzenia alertu.
+- **Wszystkie alerty nie są dostarczane**: Jeśli nie zostaną dostarczone wszystkie alerty z wielu plików lub bibliotek, odwiedź [pulpit nawigacyjny kondycja usługi](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , aby sprawdzić, jakie klasyfikatory/incydenty mogą wystąpić w programie SharePoint lub Exchange. Problem może dotyczyć funkcji alertów programu SharePoint lub opóźnień w wiadomościach e-mail za pośrednictwem programu Exchange. Ważne jest też określenie, czy jest dostarczana inna wiadomość e-mail, a jeśli nie, może to powodować opóźnienia w programie Exchange.
 
 Często zadawane pytania dotyczące alertów:
 
-- Nie można wysyłać alertów do grupy dystrybucyjnej, obsługiwane są tylko grupy zabezpieczeń i usługi O365.
-- Nie można dostosować szablonów alertów poczty e-mail; aby je osiągnąć, musisz użyć programu Microsoft FLOW lub SharePoint Designer Workflow.
+- Nie można wysyłać alertów do grupy dystrybucyjnej, ale obsługiwane są tylko grupy zabezpieczeń i usługi Office 365.
+- Nie można dostosowywać szablonów wiadomości e-mail dotyczących alertów; Aby zrealizować te wymagania, należy użyć przepływu pracy Microsoft przepływ lub projektant programu SharePoint Designer.
 
 ## <a name="related-topics"></a>Tematy pokrewne
 
-Chcesz wypróbować usługę Microsoft Flow w usłudze SharePoint Online?
+Chcesz wypróbować przepływ pracy Microsoft w usłudze SharePoint Online?
 
 - [Utwórz przepływ](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
