@@ -5,40 +5,41 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 01ccc6bc28148f397fb6cd2b7a0eaaeb5b51973f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 997ba3de58485d4fe6d24b926c33348378af8cd3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511554"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727181"
 ---
 # <a name="sharepoint-designer-connection-issues"></a>Problemy z połączeniem programu SharePoint Designer 
 
-Jeśli program SharePoint Designer ma problemy z połączeniem z witrynami programu SharePoint, wypróbuj następujące typowe rozwiązania.
+Jeśli w programie SharePoint Designer występują problemy z połączeniem z witrynami programu SharePoint, Skorzystaj z poniższych typowych rozwiązań.
 
-Krok 1: Sprawdź, czy program SharePoint Designer 2013 jest aktualizowany za pomocą [programu SharePoint Designer z dodatkiem Service Pack 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) i [aktualizacji z 2 sierpnia 2016 r. dla programu SharePoint Designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
+Krok 1. Upewnij się, że program SharePoint Designer 2013 został zaktualizowany za pomocą [dodatku Service Pack 1 dla programu SharePoint Designer](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) [, oraz aktualizacji 2 sierpnia 2016 dla programu SharePoint Designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
 
 
 
-Krok 2: Wyczyść pliki lokalnej pamięci podręcznej:
+Krok 2. Wyczyść lokalne pliki pamięci podręcznej:
 
 1. Zamknij program SharePoint Designer 2013.
 
-2. Na komputerze lokalnym usuń wszystkie pliki znalezione w każdym z następujących folderów.
+2. Na komputerze lokalnym Usuń wszystkie pliki Znalezione w każdym z poniższych folderów.
 
-    - %APPDATA%\Rozszerzenia serwera sieci Web Firmy Microsoft\Pamięć podręczna
+    - %APPDATA%\Microsoft\Web Server Extensions\Cache
     - %APPDATA%\Microsoft\SharePoint Designer\ProxyAssemblyCache
     - %USERPROFILE%\AppData\Local\Microsoft\WebsiteCache
 
 3. Otwórz program SharePoint Designer 2013 i ponownie wprowadź konto, aby sprawdzić, czy działa.
 
-Krok 3: [Włącz nowoczesne uwierzytelnianie dla pakietu Office 2013 na urządzeniach z systemem Windows](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).
+Krok 3: [Włączanie nowoczesnego uwierzytelniania dla pakietu Office 2013 na urządzeniach z systemem Windows](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).
 
-Krok 4: Administratorzy muszą **zezwolić na skrypt niestandardowy** w ustawieniach Centrum administracyjnego programu SharePoint, aby zezwolić na połączenie programu SharePoint Designer. Aby uzyskać więcej [informacji, zobacz Zezwalaj na skrypt niestandardowy lub zapobiegaj mu.](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+Krok 4: Administratorzy muszą zezwolić na **używanie skryptu niestandardowego** w ustawieniach centrum administracyjnego programu SharePoint, aby umożliwić połączenie programu SharePoint Designer. Aby uzyskać więcej informacji [, zobacz Zezwalanie lub uniemożliwianie niestandardowego skryptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) .
 
 

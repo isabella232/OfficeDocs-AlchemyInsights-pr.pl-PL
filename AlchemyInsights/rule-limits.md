@@ -1,24 +1,25 @@
 ---
-title: 924 Limity reguł
+title: 924 ograniczeń reguły
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "924"
 - "1800021"
 ms.assetid: d80318be-6e30-4cd9-a65e-e7dc55f69e69
-ms.openlocfilehash: 8f26aac23cbcbc6b0b1d18f433467f90b666a4d2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 185f19f58a9efd3c83f5f3c0ec2682a0849b6675
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43681870"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727649"
 ---
-# <a name="rule-limits"></a>Limity reguł
+# <a name="rule-limits"></a>Limity reguły
 
-Limity reguł mogą się różnić w zależności od opcji planu i opcji autonomicznych. Aby uzyskać więcej informacji, zobacz [Limity reguł dziennika, transportu i skrzynki odbiorczej](https://technet.microsoft.com/library/exchange-online-limits.aspx).
+Limity reguł mogą być różne w zależności od opcji planu i opcji autonomicznych. Aby uzyskać więcej informacji, zobacz [limity reguł dziennika, transportu i skrzynki odbiorczej](https://technet.microsoft.com/library/exchange-online-limits.aspx).
