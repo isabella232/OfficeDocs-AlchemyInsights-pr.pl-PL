@@ -5,28 +5,29 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 90e8b8f2d66046f1e74d051343d8dded9d5c8f95
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714016"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755177"
 ---
-# <a name="intune-app-deployment"></a>Wdrażanie aplikacji usługi Intune
+# <a name="intune-app-deployment"></a>Wdrożenie aplikacji Intune
 
-Wdrażanie aplikacji za pomocą usługi Intune jest procesem trzyetapowym:
+Wdrażanie aplikacji za pomocą usługi Intune jest procesem w trzech krokach:
   
-1. **Dodawanie aplikacji** — możesz dodać aplikację ze Sklepu App Store lub przesłać aplikację business.
+1. **Dodawanie aplikacji** — możesz dodać aplikację ze sklepu App Store lub przekazać aplikację biznesową.
 
-2. **Przypisywanie aplikacji** — określa zakres wdrażania aplikacji.
+2. **Przypisywanie aplikacji** — określenie zakresu wdrażania aplikacji.
 
-3. **Monitorowanie aplikacji** — wyświetlanie stanu instalacji aplikacji, wyświetlanie listy odnalezionych aplikacji i zarządzanie aplikacjami zakupionymi w sklepach z aplikacjami.
+3. **Monitorowanie aplikacji** — Wyświetlanie stanu instalacji aplikacji, wyświetlenie listy odnalezionych aplikacji i zarządzanie aplikacjami zakupionymi ze sklepów aplikacji.
 
-Przeczytaj, [co to jest Zarządzanie aplikacjami usługi Intune,](https://docs.microsoft.com/intune/app-management) aby zapoznać się z przewodnikami i informacjami na temat konfigurowania i ochrony aplikacji.
+Przeczytaj, [co to są funkcje zarządzania aplikacjami usługi Intune](https://docs.microsoft.com/intune/app-management) , aby zapoznać się z instruktażami i informacjami na temat konfigurowania i ochrony aplikacji.
   

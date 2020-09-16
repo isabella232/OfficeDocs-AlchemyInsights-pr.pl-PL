@@ -1,28 +1,29 @@
 ---
-title: Problemy z MFA
+title: Problemy z uwierzytelnianiem MFA
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: a415116b9ba437cb13426896119cd1b40d9ab491
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 718af9bfbc0a64cdfc96528e5062fb96c8d0f2d3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768847"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755141"
 ---
 # <a name="issues-with-azure-mfa"></a>Problemy z usługą Azure MFA
-Istnieje kilka rzeczy, aby sprawdzić, czy użytkownicy nie mogą zalogować się przy użyciu uwierzytelniania wieloskładnikowego (MFA)
+Istnieje kilka sposobów sprawdzenia, czy użytkownicy nie mogą zalogować się przy użyciu uwierzytelniania wieloskładnikowego (MFA)
 
-1. Usterce użytkownika mogą być blokowane w portalu Azure Active Directory. W takim przypadku uwierzytelnianie prób dla tego konkretnego użytkownika zostanie automatycznie odrzucone. [Wykonaj kroki opisane w tym artykule, aby je odblokować.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. Użytkownik, którego dotyczy problem, może być zablokowany w portalu usługi Azure Active Directory. W takim przypadku próby uwierzytelnienia dla określonego użytkownika będą automatycznie odrzucane. [Wykonaj czynności opisane w tym artykule, aby odblokować je.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. Jeśli Odblokowywanie użytkownika nie pomogło lub użytkownik nie jest zablokowany można spróbować zresetować MFA dla użytkownika i będą przechodzić przez proces rejestracji ponownie. [Należy postępować zgodnie z instrukcjami w tym artykule.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. Jeśli odblokowanie użytkownika nie powiodło się lub użytkownik nie jest zablokowany, możesz spróbować zresetować uwierzytelnianie MFA dla użytkownika, a następnie ponownie przejść przez proces rejestracji. [Wykonaj czynności opisane w tym artykule.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-Jeśli jest to po raz pierwszy włączone uwierzytelnianie wieloskładnikowe i użytkownicy nie są w stanie zalogować się do klientów spoza przeglądarek, takich jak Outlook, Skype, itp., być może ADAL (Biblioteka uwierzytelniania usługi Active Directory) nie jest włączona w subskrypcji usługi 365. W takim przypadku należy połączyć się z programu Exchange Online PowerShell i Uruchom to polecenie cmdlet:  *Set-OrganizationConfig-OAuth2ClientProfileEnabled: $true*
+Jeśli jest włączona funkcja MFA po raz pierwszy, a użytkownicy nie mogą logować się do klientów nieobsługujących przeglądarek, takich jak program Outlook, Skype itp., być może Biblioteka uwierzytelniania Active Directory jest niedostępna w ramach subskrypcji usługi Office 365. W takim przypadku konieczne będzie nawiązanie połączenia z programem Exchange Online PowerShell i uruchomienie tego polecenia cmdlet:  *Set-OrganizationConfig-OAuth2ClientProfileEnabled: $true*
