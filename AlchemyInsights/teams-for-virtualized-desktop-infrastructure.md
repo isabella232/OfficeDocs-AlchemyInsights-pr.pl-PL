@@ -1,27 +1,28 @@
 ---
-title: Zespoły dla infrastruktury wirtualizowanych komputerów stacjonarnych
+title: Teams dla zwirtualizowanej infrastruktury komputerowej
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: 0a8b48cda4109b387e6c2d81104585b194684524
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 13bc658ca33d0a61cf8e895b8fd0e0d31bb92abb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599458"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736442"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a>Zespoły dla infrastruktury wirtualizowanych komputerów stacjonarnych
+# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams dla zwirtualizowanej infrastruktury komputerowej
 
-Aby uzyskać szczegółowe informacje na temat środowiska teams for Virtualized Desktop Infrastructure , zobacz [Usługi dla infrastruktury pulpitu zwirtualizowanego](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
+Aby uzyskać szczegółowe informacje na temat zespołów dla zwirtualizowanych środowisk infrastruktury dla komputerów stacjonarnych, zobacz [Teams dla zwirtualizowanej infrastruktury dla komputerów stacjonarnych](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
 
-Znane problemy i ograniczenia w środowiskach VDI są wyszczególnione w sekcji [Znane problemy i ograniczenia](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) tego samego artykułu, która zawiera następujące tematy:
- - Wdrażanie, instalacja i konfiguracja klienta
- - Połączenia i spotkania
+Znane problemy i ograniczenia w środowiskach infrastruktury VDI opisano szczegółowo w sekcji [znanych problemów i ograniczeniach ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) tego samego artykułu, które zawierają następujące tematy:
+ - Wdrożenie klienta, instalacja i konfiguracja
+ - Rozmowy i spotkania
