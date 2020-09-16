@@ -6,23 +6,24 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: c747df3a17280cf3b84b80659607002d71f309c1
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 03723bbdac07e46539d41fc771ffeccff03f59bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062510"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781005"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a><span data-ttu-id="8c2f4-102">Jak anulować aplikacje typu software-as-a-service</span><span class="sxs-lookup"><span data-stu-id="8c2f4-102">How to cancel software-as-a-service apps</span></span> 
+# <a name="how-to-cancel-software-as-a-service-apps"></a><span data-ttu-id="92aeb-102">Jak anulować aplikacje na oprogramowanie jako usługi</span><span class="sxs-lookup"><span data-stu-id="92aeb-102">How to cancel software-as-a-service apps</span></span> 
 
-1. <span data-ttu-id="8c2f4-103">W centrum administracyjnym usługi Microsoft 365 na stronie **Rozliczenia**  >  **[produktów](https://go.microsoft.com/fwlink/p/?linkid=842054)** wybierz kartę **Aplikacje.**</span><span class="sxs-lookup"><span data-stu-id="8c2f4-103">In the Microsoft 365 admin center, to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="92aeb-103">W centrum administracyjnym usługi Microsoft 365 przejdź do strony **rozliczanie**  >  **[produktów](https://go.microsoft.com/fwlink/p/?linkid=842054)** , a następnie wybierz kartę **aplikacje** .</span><span class="sxs-lookup"><span data-stu-id="92aeb-103">In the Microsoft 365 admin center, to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="8c2f4-104">Znajdź i wybierz aplikację, którą chcesz zarządzać.</span><span class="sxs-lookup"><span data-stu-id="8c2f4-104">Find and select the app you want to manage.</span></span>
+2. <span data-ttu-id="92aeb-104">Znajdź i wybierz aplikację, którą chcesz zarządzać.</span><span class="sxs-lookup"><span data-stu-id="92aeb-104">Find and select the app you want to manage.</span></span>
 
-3. <span data-ttu-id="8c2f4-105">W obszarze **Ustawienia & akcje**wybierz pozycję **Anuluj subskrypcję**.</span><span class="sxs-lookup"><span data-stu-id="8c2f4-105">Under **Settings & actions**, select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="92aeb-105">W obszarze **ustawienia & akcje**wybierz pozycję **Anuluj subskrypcję**.</span><span class="sxs-lookup"><span data-stu-id="92aeb-105">Under **Settings & actions**, select **Cancel subscription**.</span></span>
