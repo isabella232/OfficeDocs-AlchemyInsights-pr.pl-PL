@@ -1,26 +1,27 @@
 ---
-title: Kolejki wywołań
+title: Kolejki połączeń
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: c93e923e45261b1ff06993c64f167031b6f8bbff
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: 2cbb823c2051fd3c78233ce9ec5b090519654e69
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316929"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734345"
 ---
-# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Kolejki wywołań w Microsoft Teams i Skype dla firm 
+# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Kolejki połączeń w aplikacji Microsoft Teams i w programie Skype dla firm 
 
-Aby rozpocząć korzystanie z kolejek wywołań, zapoznaj się z poniższymi łączami.
+Aby rozpocząć korzystanie z kolejek rozmów, Skorzystaj z poniższych linków.
 
-- [Tworzenie kolejki wywołań w chmurze](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [Odbierz automatyczną recepcjonistkę i zadzwoń do kolejki połączeń bezpośrednio z zespołu](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+- [Tworzenie kolejki rozmów w chmurze](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
+- [Odbieranie rozmów automatycznych i rozmów kolejowych bezpośrednio z zespołów](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)

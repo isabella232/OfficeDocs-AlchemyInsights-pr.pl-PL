@@ -1,39 +1,40 @@
 ---
-title: Aktualizowanie hasła do konta e-mail
+title: Aktualizowanie hasła konta e-mail
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001098"
 - "3059"
-ms.openlocfilehash: 07b5ef0e06125822d9da0c52b08d83f17aeb49e9
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: 99383ea671e22f85e969a2e5467315fa4d7ec572
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288261"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734885"
 ---
-# <a name="updating-your-email-account-password"></a>Aktualizowanie hasła do konta e-mail
+# <a name="updating-your-email-account-password"></a>Aktualizowanie hasła konta e-mail
 
-Po zmianie hasła nasza aplikacja powinna poprosić o wprowadzenie najnowszego hasła.
+Gdy zmienisz hasło, w naszej aplikacji powinien pojawić się monit o wprowadzenie najnowszego hasła.
 
-Hasła do odpowiednich kont można zmienić w ich lokalizacjach dostawcy:
+W lokalizacjach dostawców można zmieniać hasła dla odpowiednich kont:
 
-- [Icloud](https://support.apple.com/HT201487)
+- [iCloud](https://support.apple.com/HT201487)
 
-- [Outlook, Na żywo, Hotmail](https://account.live.com/password/reset)
+- [Outlook, Live, Hotmail](https://account.live.com/password/reset)
 
-- [O365](https://passwordreset.microsoftonline.com) (Jeśli administrator IT zezwolił na samoobsługowe resetowanie hasła).
+- Office [365](https://passwordreset.microsoftonline.com) (jeśli administrator IT zezwolił na Samoobsługowe resetowanie hasła).
 
-- [Yahoo](https://login.yahoo.com/account/challenge/username?done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&chllngnm=base&sessionIndex=QQ--)
+- [Firmy](https://login.yahoo.com/account/challenge/username?done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&chllngnm=base&sessionIndex=QQ--)
 
 - [Gmail](https://support.google.com/mail/answer/41078?co=GENIE.Platform%3DDesktop&hl=en)
 
-- Exchange: Musisz skontaktować się z administratorem IT.
+- Program Exchange: musisz skontaktować się z administratorem IT.
 
-- IMAP: Dostawca Protokołu IMAP może mieć link na swojej stronie lub może być konieczne skontaktowanie się z dostawcą Protokołu IMAP.
+- IMAP: dostawca IMAP może mieć link na swojej stronie lub może być konieczne skontaktowanie się z dostawcą IMAP.

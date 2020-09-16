@@ -1,34 +1,35 @@
 ---
-title: Zmień obraz konta
+title: Zmienianie awatara
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: c96cf829c192456291e2926e4a8e7312e43583bd
-ms.sourcegitcommit: c6c5d3f753038e3eee852111c6581e55c2f6c686
+ms.openlocfilehash: c2a7ac823c9a50d66e597ca1ca0cbf6906efe183
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42574381"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734057"
 ---
-# <a name="change-account-picture"></a>Zmień obraz konta
+# <a name="change-account-picture"></a>Zmienianie awatara
 
-Jeśli używasz nazwy użytkownika i hasła do logowania się do systemu Windows 10, używasz konta lokalnego. **Aby zmienić obraz konta lokalnego:**
+Jeśli zalogujesz się do systemu Windows 10 przy użyciu nazwy użytkownika i hasła, korzystasz z konta lokalnego. **Aby zmienić obraz swojego konta lokalnego**:
 
-1. Przejdź do **pozycji Rozpocznij** > konta**w** > **ustawieniach** > **Twoje informacje**.
-2. W obszarze **Utwórz obraz**kliknij pozycję **Przeglądaj dla jednego .** Jeśli urządzenie ma aparat fotograficzny, kliknij **przycisk Aparat** i zrób selfie. 
-    **Uwaga:** system Windows zapamiętuje trzy ostatnie obrazy, które zostały użyte. Kliknij zdjęcie na stronie Twoje informacje, aby przełączyć się na to.
+1. Przejdź do obszaru ustawienia **ekranu**, aby wyświetlić  >  **Settings**  >  **Accounts**  >  **Informacje o**kontach.
+2. W obszarze **Tworzenie obrazu**kliknij pozycję **Przeglądaj w poszukiwaniu jednego**. Jeśli na urządzeniu znajduje się kamera, kliknij pozycję **kamera** i zrób Qiku. 
+    **Uwaga**: system Windows zapamiętuje ostatnie trzy ostatnio używane obrazy. Kliknij obraz na stronie informacje, aby przejść do tego obrazu.
 
-Jeśli do logowania używasz adresu e-mail i hasła, używasz konta Microsoft. Aby zmienić obraz konta Microsoft:
+Jeśli zalogujesz się przy użyciu adresu e-mail i hasła, korzystasz z konta Microsoft. Aby zmienić obraz swojego konta Microsoft:
 
-1. Zaloguj się na stronie **Twoje informacje** za pomocą konta Microsoft.
-2. Kliknij **pozycję Dodaj obraz** lub Zmień **obraz**, a następnie postępuj zgodnie z instrukcjami.
+1. Zaloguj się do strony z **informacjami** za pomocą konta Microsoft.
+2. Kliknij pozycję **Dodaj obraz** lub **Zmień obraz**, a następnie postępuj zgodnie z instrukcjami.
 
-[Uzyskaj więcej pomocy w konfigurowaniu konta Microsoft i zarządzaniu nimi](https://support.microsoft.com/products/microsoft-account?category=manage-account).
+[Uzyskaj więcej pomocy dotyczącej konfigurowania konta Microsoft i zarządzania](https://support.microsoft.com/products/microsoft-account?category=manage-account)nim.
