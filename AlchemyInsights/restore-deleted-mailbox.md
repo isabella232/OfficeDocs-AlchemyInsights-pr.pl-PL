@@ -15,22 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 284024bdf9728e8463fe69ef9c9c2695035faf2f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 899eb7e171d125c509871c219f99dfd1106b858a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511374"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728081"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Przywracanie usuniętej skrzynki pocztowej
 
-Gdy użytkownik traci licencję usługi Exchange Online, jego skrzynka pocztowa jest przechowywana przez 30 dni i można ją odzyskać, po prostu ponownie przypisując licencję użytkownikowi.
+Gdy użytkownik utraci licencję usługi Exchange Online, jej Skrzynka pocztowa jest zachowywana przez 30 dni i może zostać odzyskana przez ponowne przypisanie licencji do użytkownika.
   
- *To będzie działać tylko w ciągu 30 dni.*  
+ *Będzie to działać tylko w ciągu 30 dni.*  
   
-1. W centrum administracyjnym usługi Microsoft 365 przejdź do strony **Użytkownicy aktywni** \> **użytkownicy.** Wybierz danego użytkownika.
+1. W centrum administracyjnym usługi Microsoft 365 przejdź do strony **Users** \> **aktywni użytkownicy** użytkowników. Wybierz użytkownika, którego to dotyczy.
 
-2. Na karcie **Licencje i aplikacje** przypisz licencję usługi Exchange Online i wybierz pozycję **Zapisz zmiany**.
+2. Na karcie **licencje i aplikacje** Przypisz licencję usługi Exchange Online i wybierz pozycję **Zapisz zmiany**.
 
-Jeśli próbujesz odzyskać udostępnioną skrzynkę pocztową, można ją również odzyskać przez 30 dni. Można je znaleźć w obszarze **Użytkownicy** \> **Usunięci użytkownicy**; udostępnione skrzynki pocztowe nie wymagają licencji. Jeśli zdajesz sobie sprawę, że musisz przywrócić usuniętego użytkownika, zobacz [Przywracanie użytkownika](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+Jeśli próbujesz odzyskać udostępnioną skrzynkę pocztową, jest ona również odzyskiwana przez 30 dni. Możesz je znaleźć w obszarze **Użytkownicy** \> **usunięci użytkownicy**; udostępnione skrzynki pocztowe nie wymagają licencji. Jeśli zauważysz, że musisz przywrócić usuniętego użytkownika, zobacz [przywracanie użytkownika](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
   
