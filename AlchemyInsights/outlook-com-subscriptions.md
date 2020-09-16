@@ -1,30 +1,31 @@
 ---
-title: 9000215 Outlook.com subskrypcje
+title: 9000215 abonamenty Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 8968b278cb5e99c5ce6cae9c79e441546deb58ec
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 758359c9c5907f2167666e9755a59dedee764a95
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722314"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722609"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Subskrypcje i rezygnacja z subskrypcji
+# <a name="subscriptions-and-unsubscribing"></a>Abonamenty i anulowanie subskrypcji
 
-Jeśli chcesz przestać otrzymywać biuletyny lub promocje, możesz zrezygnować z subskrypcji Outlook.com:
+Jeśli chcesz zrezygnować z otrzymywania biuletynów lub promocji, możesz anulować subskrypcję usługi Outlook.com na dwa sposoby:
 
-1. W skrzynce odbiorczej wybierz biuletyn lub promocyjną wiadomość e-mail. U góry okienka odczytu wybierz pozycję **Wypisuj subskrypcję**.
-2. Otwórz [ustawienia subskrypcji Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) **(Ustawienia** > **Wyświetl wszystkie ustawienia** > programu Outlook**Subskrypcje****e-mail)** > i wybierz pozycję **Wypisuj subskrypcję**.
+1. W skrzynce odbiorczej wybierz biuletyn lub promocyjny adres e-mail. W górnej części okienka odczytu wybierz pozycję **Anuluj subskrypcję**.
+2. Otwórz [Ustawienia subskrypcji usługi Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Ustawienia**  >  Wyświetl wszystkie subskrypcje wiadomości e-mail dotyczące**ustawień programu Outlook**  >  **Email**  >  **Subscriptions**) i wybierz pozycję **Anuluj subskrypcję**.
 
 Uwagi:
 
-- Nie wszyscy klienci mogą korzystać z tej funkcji w tej chwili.
-- Ta funkcja będzie widoczna tylko wtedy, gdy otrzymałeś wiadomość e-mail od firmy wysyłającej subskrybowane wiadomości e-mail.
+- Obecnie nie wszyscy klienci mogą skorzystać z tej funkcji.
+- Ta funkcja będzie widoczna tylko wtedy, gdy otrzymasz wiadomość e-mail od firmy wysyłającej subskrybowaną wiadomość e-mail.
