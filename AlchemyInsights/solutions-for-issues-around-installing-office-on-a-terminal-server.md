@@ -1,36 +1,37 @@
 ---
-title: Rozwiązania problemów związanych z instalacją pakietu Office na serwerze terminali
+title: Rozwiązania problemów związanych z instalowaniem pakietu Office na serwerze terminali
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: cc2d2b1a5c73e729a67b1e6f36fdcff2125541ca
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: df1a50031196fbd79662cee620fc41c7be14e179
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010912"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738467"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Rozwiązania problemów związanych z instalacją pakietu Office na serwerze terminali
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Rozwiązania problemów związanych z instalowaniem pakietu Office na serwerze terminali
 
-Aby korzystać z aktywacji komputera udostępnionego, musisz mieć subskrypcję obejmującą aplikacje microsoft 365 dla przedsiębiorstw.
+Aby korzystać z aktywacji na komputerze współużytkowanym, musisz mieć subskrypcję obejmującą aplikacje Microsoft 365 dla przedsiębiorstw.
   
-- Sprawdzanie, czy aktywacja komputera udostępnionego jest włączona
-- Sprawdź, czy aktywacja powiodła się
-- Przejrzyj komunikaty o błędach aktywacji udostępnionego komputera:
-- "Produkty znalezione na twoim koncie nie mogą być używane do aktywowania pakietu Office w scenariuszach udostępnionych komputerów"
+- Sprawdzanie, czy włączono aktywację komputera udostępnionego
+- Sprawdzanie, czy aktywacja powiodła się
+- Przejrzyj komunikaty o błędach na potrzeby aktywacji udostępniania komputera:
+- "Produktów znalezionych na koncie nie można użyć do aktywowania pakietu Office w scenariuszach komputerów współużytkowanych"
   
-Ten błąd oznacza, że nie masz subskrypcji, która obejmuje aplikacje microsoft 365 dla przedsiębiorstw.
+Ten błąd oznacza, że nie masz subskrypcji zawierającej aplikacje Microsoft 365 dla przedsiębiorstw.
 
-"Produkt nielicencjonowany"
+"Produkt bez licencji"
 
-- Sprawdź, czy użytkownikowi jest przypisana licencja dla aplikacji usługi Microsoft 365 dla przedsiębiorstw.
-- Sprawdź, czy użytkownik loguje się przy swoim koncie użytkownika.
-- Sprawdź, czy istnieje łączność między komputerem udostępnionym a Internetem.
+- Sprawdź, czy użytkownikowi przypisano licencję dla aplikacji Microsoft 365 dla przedsiębiorstw.
+- Sprawdź, czy użytkownik loguje się przy użyciu swojego konta użytkownika.
+- Sprawdź, czy między komputerem udostępnionym a Internetem jest łączność.
 
-Aby uzyskać inne wskazówki dotyczące rozwiązywania problemów, zobacz: [Rozwiązywanie problemów z aktywacją komputera udostępnionego](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
+Aby poznać inne porady dotyczące rozwiązywania problemów, zobacz: [Rozwiązywanie problemów z aktywacją komputera współużytkowanego](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
