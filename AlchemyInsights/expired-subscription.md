@@ -1,11 +1,12 @@
 ---
-title: Wygasła subskrypcja
+title: Abonament wygasły
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,20 +14,20 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 22c90680fbd6b3959f23512d12d84180c142ab90
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 56bd5c85be4316f2c0cdc21f1f49ae5895ca4b97
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505589"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782949"
 ---
-# <a name="expired-subscription"></a>Wygasła subskrypcja
+# <a name="expired-subscription"></a>Abonament wygasły
 
-Wygląda na to, że masz jedną lub więcej wygasłych subskrypcji. Jeśli chcesz kontynuować usługę, musisz ponownie aktywować subskrypcję lub dokonać nowego zakupu.
+Wygląda na to, że masz co najmniej jeden wygasły abonament. Jeśli chcesz kontynuować usługę, musisz ponownie aktywować subskrypcję lub dokonać nowego zakupu.
   
 **Ponowne aktywowanie**
   
-1. W centrum administracyjnym przejdź do strony **Rozliczenia** \> **[produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. W centrum administracyjnym przejdź do strony **rozliczanie** \> **[produktów](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Znajdź subskrypcję, którą chcesz ponownie aktywować. W sekcji **Rozliczenia** wybierz pozycję **Aktywuj ponownie**.
 
@@ -36,14 +37,14 @@ Jeśli nie widzisz pozycji **Aktywuj ponownie** jako dostępnej akcji, zadzwoń 
 
 Aby dowiedzieć się więcej, zobacz [Ponowne aktywowanie subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
-**Dokonaj nowego zakupu**
+**Tworzenie nowego zakupu**
   
-1. W centrum administracyjnym przejdź **Billing** do strony Usługi zakupu \> **[rozliczeń.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+1. W centrum administracyjnym przejdź do strony usług **zakupu rozliczeń** \> **[Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)** .
 
 2. Wybierz subskrypcję, którą chcesz kupić, a następnie wybierz pozycję **Kup**.
 
-3. Wprowadź liczbę potrzebnych licencji i wybierz, czy chcesz płacić co miesiąc, czy za cały rok. Określ, czy chcesz automatycznie przypisywać licencje do każdego użytkownika, który obecnie nie ma licencji. Następnie wybierz pozycję **Wyewidencjonuj teraz**.
+3. Wprowadź liczbę potrzebnych licencji i wybierz, czy chcesz płacić co miesiąc, czy za cały rok. Określ, czy chcesz automatycznie przypisywać licencje do każdego użytkownika, który obecnie nie ma licencji. Następnie wybierz pozycję **Zaewidencjonuj teraz**.
 
-4. Wykonaj pozostałe kroki, aby zakończyć wyewidencjonowanie.
+4. Postępuj zgodnie z pozostałymi instrukcjami, aby ukończyć wyewidencjonowywanie.
 
-Aby dowiedzieć się więcej, zobacz [Kupowanie innej subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
+Aby dowiedzieć się więcej, zobacz [kupowanie innej subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
