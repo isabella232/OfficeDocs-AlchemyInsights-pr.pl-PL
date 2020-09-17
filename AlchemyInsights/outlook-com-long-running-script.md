@@ -1,27 +1,28 @@
 ---
-title: 8000051 Outlook.com Długi skrypt do biegania
+title: 8000051 Outlook.com skrypt o długim czasie działania
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "856"
 - "8000051"
 ms.assetid: 3bac167e-055b-4cfb-ad3f-7b47a7492588
-ms.openlocfilehash: 86f9efc84fe9123ba12c43693c879dd0f74a48cb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ab5aa86fc52615dcc0542629f827a41bd4c64355
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760026"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802355"
 ---
-# <a name="long-running-script"></a><span data-ttu-id="3e600-102">Długo działający skrypt</span><span class="sxs-lookup"><span data-stu-id="3e600-102">Long running script</span></span>
+# <a name="long-running-script"></a><span data-ttu-id="e9a74-102">Skrypt o długim czasie działania</span><span class="sxs-lookup"><span data-stu-id="e9a74-102">Long running script</span></span>
 
-<span data-ttu-id="3e600-103">Zdajemy sobie sprawę z problemów z "długotrwałym skryptem" w Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="3e600-103">We're aware of issues with "long running script" in Outlook.com.</span></span> <span data-ttu-id="3e600-104">Aby obejść ten problem, użyj Outlook.com wersji beta.</span><span class="sxs-lookup"><span data-stu-id="3e600-104">As a workaround, please use the Outlook.com beta.</span></span>
+<span data-ttu-id="e9a74-103">Wiemy o problemach dotyczących "długo uruchomionego skryptu" w Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="e9a74-103">We're aware of issues with "long running script" in Outlook.com.</span></span> <span data-ttu-id="e9a74-104">W celu obejścia tego problemu Użyj Outlook.com w wersji beta.</span><span class="sxs-lookup"><span data-stu-id="e9a74-104">As a workaround, please use the Outlook.com beta.</span></span>
   
-[<span data-ttu-id="3e600-105">Dowiedz się więcej o Outlook.com wersji beta.</span><span class="sxs-lookup"><span data-stu-id="3e600-105">Learn more about the Outlook.com beta.</span></span>](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[<span data-ttu-id="e9a74-105">Dowiedz się więcej o Outlook.com w wersji beta.</span><span class="sxs-lookup"><span data-stu-id="e9a74-105">Learn more about the Outlook.com beta.</span></span>](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
   
