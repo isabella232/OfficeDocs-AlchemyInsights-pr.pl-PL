@@ -1,25 +1,26 @@
 ---
-title: Jak zezwolić użytkownikom Skype'a dla firm na komunikowanie się z użytkownikami Skype'a
+title: Jak zezwolić użytkownikom programu Skype dla firm na komunikowanie się z użytkownikami programu Skype
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000726"
 - "2649"
-ms.openlocfilehash: 63e94a9aa365dd83cf96c0abb55c1ff6dba769ff
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: 6702f64f70f752667167b41e79c510367f95bfb7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316938"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781941"
 ---
-# <a name="let-skype-for-business-users-add-skype-contacts"></a><span data-ttu-id="72b67-102">Pozwól użytkownikom Skype'a dla firm dodawać kontakty Skype</span><span class="sxs-lookup"><span data-stu-id="72b67-102">Let Skype for Business users add Skype contacts</span></span>
+# <a name="let-skype-for-business-users-add-skype-contacts"></a><span data-ttu-id="efc82-102">Zezwalanie użytkownikom programu Skype dla firm na dodawanie kontaktów Skype</span><span class="sxs-lookup"><span data-stu-id="efc82-102">Let Skype for Business users add Skype contacts</span></span>
 
-<span data-ttu-id="72b67-103">Dzięki Skypie dla firm użytkownicy mogą wyszukiwać i komunikatory z każdym, kto korzysta ze Skype'a, bezpłatnej aplikacji!</span><span class="sxs-lookup"><span data-stu-id="72b67-103">With Skype for Business, your users can search for and IM with everyone who uses Skype, the free app!</span></span> <span data-ttu-id="72b67-104">W tym artykule wyjaśniono, co należy zrobić, aby mogli dodawać kontakty Skype.</span><span class="sxs-lookup"><span data-stu-id="72b67-104">This article explains what you need to do so they can add Skype contacts.</span></span>
+<span data-ttu-id="efc82-103">Dzięki programowi Skype dla firm użytkownicy mogą wyszukiwać i wysyłać wiadomości błyskawiczne wszystkim osobom korzystającym ze Skype, bezpłatnej aplikacji!</span><span class="sxs-lookup"><span data-stu-id="efc82-103">With Skype for Business, your users can search for and IM with everyone who uses Skype, the free app!</span></span> <span data-ttu-id="efc82-104">W tym artykule wyjaśniono, co należy zrobić, aby mogli oni dodawać kontakty Skype.</span><span class="sxs-lookup"><span data-stu-id="efc82-104">This article explains what you need to do so they can add Skype contacts.</span></span>
 
-[<span data-ttu-id="72b67-105">Pozwól użytkownikom Skype'a dla firm dodawać kontakty Skype</span><span class="sxs-lookup"><span data-stu-id="72b67-105">Let Skype for Business users add Skype contacts</span></span>](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
+[<span data-ttu-id="efc82-105">Zezwalanie użytkownikom programu Skype dla firm na dodawanie kontaktów Skype</span><span class="sxs-lookup"><span data-stu-id="efc82-105">Let Skype for Business users add Skype contacts</span></span>](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
