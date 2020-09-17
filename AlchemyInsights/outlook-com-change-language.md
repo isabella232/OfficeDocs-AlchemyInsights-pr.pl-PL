@@ -1,11 +1,12 @@
 ---
-title: Zmień język w swoim języku, formacie daty i godziny lub strefie czasowej w Outlook.com
+title: Zmienianie języka języka, formatu daty i godziny lub strefy czasowej w programie Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,15 +14,15 @@ ms.custom:
 - "1839"
 - "8000014"
 - "9000249"
-ms.openlocfilehash: 9368fe86c2f0e4756c69dd56e4a5e6cdefdfe841
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cb3f720ec270a6bdc1a8ae7f817862e41f71f666
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721994"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777614"
 ---
-# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a><span data-ttu-id="78dc9-102">Zmień język, format daty i godziny lub strefę czasową w Outlook.com</span><span class="sxs-lookup"><span data-stu-id="78dc9-102">Change your language, date and time format, or time zone in Outlook.com</span></span>
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a><span data-ttu-id="00a6e-102">Zmienianie języka, formatu daty i godziny lub strefy czasowej w programie Outlook.com</span><span class="sxs-lookup"><span data-stu-id="00a6e-102">Change your language, date and time format, or time zone in Outlook.com</span></span>
 
-1. <span data-ttu-id="78dc9-103">Otwórz [ustawienia języka i czasu](https://go.microsoft.com/fwlink/?linkid=2085505).</span><span class="sxs-lookup"><span data-stu-id="78dc9-103">Open your [Language and time settings](https://go.microsoft.com/fwlink/?linkid=2085505).</span></span>
-1. <span data-ttu-id="78dc9-104">Wybierz język, format daty, format godziny i strefę czasową, której chcesz użyć.</span><span class="sxs-lookup"><span data-stu-id="78dc9-104">Select the language, date format, time format, and time zone you want to use.</span></span>
-1. <span data-ttu-id="78dc9-105">Wybierz pozycję **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="78dc9-105">Select **Save**.</span></span>
+1. <span data-ttu-id="00a6e-103">Otwórz [Ustawienia języka i godziny](https://go.microsoft.com/fwlink/?linkid=2085505).</span><span class="sxs-lookup"><span data-stu-id="00a6e-103">Open your [Language and time settings](https://go.microsoft.com/fwlink/?linkid=2085505).</span></span>
+1. <span data-ttu-id="00a6e-104">Wybierz język, format daty, format godziny i strefę czasową, których chcesz użyć.</span><span class="sxs-lookup"><span data-stu-id="00a6e-104">Select the language, date format, time format, and time zone you want to use.</span></span>
+1. <span data-ttu-id="00a6e-105">Wybierz **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="00a6e-105">Select **Save**.</span></span>
