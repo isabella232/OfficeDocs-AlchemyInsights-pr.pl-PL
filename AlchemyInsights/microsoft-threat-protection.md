@@ -4,22 +4,23 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 96562996569a75353a7d4c37b3c16c66d8d65489
-ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
+ms.openlocfilehash: 1fa5464a4e7b065ef2b1321d23d331195cd0896a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/08/2020
-ms.locfileid: "47406444"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772741"
 ---
 # <a name="microsoft-threat-protection"></a>Ochrona przed zagrożeniami firmy Microsoft
 
 - [Omówienie usługi MTP](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
-- [Dotyczących](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
+- [Wymagania wstępne](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
 - [Wymagania dotyczące licencji](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
 - [Jak włączyć funkcję MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
 - [Rozwiązywanie problemów z MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)

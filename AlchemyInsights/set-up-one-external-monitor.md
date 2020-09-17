@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: b9ec34f420092d5ca46137739a848cf413253a6b
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738403"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773920"
 ---
 # <a name="set-up-one-monitor"></a>Konfigurowanie jednego monitora
 
-**Sprawdź ustawienia projektu komputera**
+**Sprawdzanie ustawień projektu komputera**
 
-1. Otwórz ustawienia projektu, naciskając jednocześnie następujące przyciski: klucz systemu Windows (przycisk Start logo systemu Windows) + P.
-2. Wybierz opcję **Duplikuj**, **Wydłuż**lub **drugi ekran**, zależnie od preferencji.
+1. Otwórz ustawienia projektu, naciskając następujące klawisze w tym samym czasie: klawisz systemu Windows (przycisk Windows logo Start) + P.
+2. Wybierz pozycję **Duplikuj**, **Rozszerz**lub **drugi ekran**, w zależności od preferencji.
 
-**Uwaga:** Jeśli komputer ma tylko jeden port wyświetlania (na przykład HDMI lub VGA), do konfigurowania wielu monitorów potrzebna jest stacja dokująca lub adapter USB.
+**Uwaga:** Jeśli na komputerze jest tylko jeden port wyświetlania (na przykład HDMI lub VGA), w celu skonfigurowania wielu monitorów potrzebna jest stacja dokująca lub karta USB.
 
-Ponadto, jeśli można skonfigurować jeden monitor, ale nie wiele, komputer może nie być kompatybilny z wieloma monitorami. Więcej informacji znajdziesz w oryginalnych dokumentach komputera.
+Ponadto, jeśli możesz skonfigurować jeden monitor, ale nie wiele, komputer może być niezgodny z wieloma monitorami. Aby uzyskać więcej informacji, zapoznaj się z oryginalnymi dokumentami komputera.

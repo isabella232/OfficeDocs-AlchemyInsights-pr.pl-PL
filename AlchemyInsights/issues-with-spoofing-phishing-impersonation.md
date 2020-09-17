@@ -1,37 +1,38 @@
 ---
-title: Masz problemy z fałszowaniem, wyłudzaniem informacji lub podszywaniem się pod niego?
+title: Problemy z fałszowaniem, phishingiem lub personifikacją?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: fb10c486833cfb0a1726dce69bc2176b39565e9d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 92e7f611b08a5457e52be248982785b2dc2ddabc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510042"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773029"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Masz problemy z fałszowaniem, wyłudzaniem informacji lub podszywaniem się pod niego?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problemy z fałszowaniem, phishingiem lub personifikacją?
 
-Dowiedz się, jak firma Microsoft chroni przed:
+Dowiedz się, jak firma Microsoft chroni Cię przed:
 
-- [Fałszowanie](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
+- [Fałszowaniem](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
 
-- [Wyłudzanie informacji i podszywanie się pod inne osoby](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
+- [Wyłudzanie informacji i personifikacja](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
 
-Dodatkowe zalecenia:
+Dodatkowe rekomendacje:
 
-- Dla fałszywych nadawców, które wydają się pochodzić z własnej domeny, [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) i [DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) może pomóc.
+- W przypadku fałszywych nadawców, którzy otrzymali Cię ze swojej domeny, możemy pomóc z [spfem](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) i [DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) .
 
-- Sprawdź, czy nadawcy we własnej domenie nie są skonfigurowani do omijania filtrowania antyspamowego przy użyciu reguł przepływu poczty (nazywanych również regułami transportu) ani zezwalania na wpisy listy. Aby uzyskać więcej informacji, zobacz [Ostrzeżenia przed pomijaniem filtrów antyspamowych firmy Microsoft](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+- Weryfikowanie nadawców we własnej domenie nie jest skonfigurowane do pomijania filtrowania antyspamowego przy użyciu reguł przepływu poczty (znanych też jako reguły transportu) lub listy dozwolonych wpisów. Aby uzyskać więcej informacji, zobacz [Ostrzeżenie przed pominięciem filtrów Microsoft spam](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
 
-- Sprawdź, czy użytkownicy nie skonfigurowali wpisów [listy bezpiecznych nadawców,](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) które mogłyby umożliwić ataki phishingowe.
+- Upewnij się, że użytkownicy nie skonfigurowali wpisów [listy bezpiecznych nadawców](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) , które mogą pozwolić na ataki wykorzystujące phishing.
 
-- Rozważ dostarczanie spamu o wysokiej poufności i wiadomości wyłudzających informacje do kwarantanny zamiast folderu Wiadomości-śmieci. Aby uzyskać więcej informacji, zobacz [Kwarantanna wiadomości e-mail](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages).
+- Przed folderem wiadomości-śmieci warto wziąć pod ³ ¹ dużo zaufania do kwarantanny i wiadomości do przeprowadzenia próby. Aby uzyskać więcej informacji, zobacz [Kwarantannowa wiadomość e-mail](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages).
 
-**[Raportowanie wiadomości do firmy Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) to najlepszy sposób informowania nas o skuteczności filtrów.**
+**[Wiadomości do firmy Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) stanowią najlepszy sposób na to, aby poinformować nas, jak są wykonywane filtry.**
