@@ -1,28 +1,29 @@
 ---
-title: Tryb Microsoft Teams Together
+title: Tryb współpracy Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6036"
 - "9003218"
-ms.openlocfilehash: 1738a21ea98f4c3c8a6a244492850a87c39441de
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
-ms.translationtype: MT
+ms.openlocfilehash: c2288511c404a33141d28a4b04a6b38428317f10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45198328"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799862"
 ---
-# <a name="microsoft-teams-together-mode"></a>Tryb Microsoft Teams Together
+# <a name="microsoft-teams-together-mode"></a>Tryb współpracy Microsoft Teams
 
-Tryb Razem łączy dziesięciolecia badań i rozwoju produktu dla uczestników rozmowy wideo, aby wydawać się być razem w wirtualnej przestrzeni, takiej jak audytorium, sala konferencyjna lub kawiarnia. 
+W trybie razem są łączone wyniki badań i opracowywania produktów dla uczestników podczas rozmowy wideo, tak aby znajdowały się w przestrzeni wirtualnej, takiej jak Auditorium, Pokój konferencyjny lub pasek kawy. 
 
-Nowa funkcja rowów tradycyjnej siatki pól, tworząc środowisko, które użytkownicy mówią ma głęboki wpływ na styl wideokonferencji i zapewnia większą spójność do grupy. Aby dowiedzieć się więcej o trybie Razem, zobacz [Jak w pełni wykorzystać tryb Razem](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
+Nowa funkcja ditches tradycyjną siatkę pól, tworząc środowisko, które użytkownicy będą mieli głęboki wpływ na działanie konferencji wideo i zapewnia większą spójność grupy. Aby dowiedzieć się więcej o trybie razem, zobacz [jak najlepiej wykorzystać tryb razem](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
 
-Aby uzyskać więcej informacji o tym, kiedy tryb Razem będzie dostępny dla Twojej organizacji, zobacz Microsoft 365 Roadmap, [Microsoft Teams - Tryb Razem](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)
+Aby uzyskać więcej informacji o tym, kiedy w organizacji będzie dostępny tryb razem, zobacz Plan Microsoft 365, [tryb współpracy Microsoft Teams](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)

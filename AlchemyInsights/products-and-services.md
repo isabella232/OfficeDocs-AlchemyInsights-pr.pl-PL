@@ -5,33 +5,34 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c7c4e9427bcdd1416a197d8df078be2638da55a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062871"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799250"
 ---
 # <a name="your-products"></a>Twoje produkty
 
-Subskrypcje należące do organizacji można znaleźć na stronie **Rozliczenia**  >  **[produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Oto niektóre z najważniejszych stron tej strony wraz z linkami, aby uzyskać więcej informacji na temat każdej funkcji:
+Abonamenty należące do organizacji można znaleźć na stronie **rozliczenia**  >  **[produktów](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Oto niektóre z wyróżnień tej strony oraz linki do dodatkowych informacji na temat każdej funkcji:
 
-1. Zarządzaj liczbą licencji zakupionych dla każdej subskrypcji wraz z ilu z nich jest używanych.  **Uwaga:** Licencje, które nie są używane (nie są przypisane do użytkownika) są nadal naliczane.  Aby nie zostać obciążony za niewykorzystane licencje, zmniejsz liczbę zakupionych licencji. Aby uzyskać informacje na temat dodawania lub usuwania licencji z subskrypcji, zobacz [Jak dodać lub zmniejszyć liczbę licencji](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
+1. Zarządzanie liczbą licencji zakupionych dla każdej subskrypcji wraz z liczbą używanych.  **Uwaga**: licencje, które nie są używane (nie są przypisane do użytkownika), są nadal naliczane.  Aby nie otrzymywać opłat za niewykorzystane licencje, zmniejsz liczbę zakupionych licencji. Aby uzyskać informacje na temat dodawania lub usuwania licencji z subskrypcji, zobacz [jak dodawać lub zmniejszać licencje](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
-2. Wyświetl datę odnowienia lub wygaśnięcia subskrypcji.  Odnowienie można zarządzać, klikając łącze **do edycji** obok daty **odnawiania/wygasania.**  Aby uzyskać więcej informacji na temat zarządzania rozliczeniami cyklicznymi, [zobacz Odnawianie usługi Microsoft 365 dla firm.](https://go.microsoft.com/fwlink/?linkid=2119216)
+2. Wyświetlanie daty odnowienia lub wygaśnięcia subskrypcji.  Możesz zarządzać odnowieniem, klikając łącze **Edytuj** obok daty **odnawianie/wygasanie** .  Zobacz [Odnów aplikację Microsoft 365 dla firm](https://go.microsoft.com/fwlink/?linkid=2119216) , aby uzyskać więcej informacji na temat zarządzania rozliczeniami cyklicznymi.
 
-3. [Ponownie uaktywnić wygasłą lub wyłączona subskrypcję](https://go.microsoft.com/fwlink/?linkid=2117519).
+3. [Ponownie Aktywuj wygasły lub wyłączony abonament](https://go.microsoft.com/fwlink/?linkid=2117519).
 
-4. [Edytuj metodę płatności używaną do płacenia za subskrypcję](https://go.microsoft.com/fwlink/?linkid=2117167).
+4. [Edytowanie metody płatności używanej do płacenia za subskrypcję](https://go.microsoft.com/fwlink/?linkid=2117167).
 
-5. [Zmień, jak często są rozliczane](https://go.microsoft.com/fwlink/?linkid=2119112).
+5. [Zmienianie częstości rozliczeń](https://go.microsoft.com/fwlink/?linkid=2119112).
 
-6. [Anuluj subskrypcję](https://go.microsoft.com/fwlink/?linkid=2119113).
+6. [Anulowanie subskrypcji](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Dodatkowe subskrypcje można kupić **Billing**na stronie Usługi  >  [**zakupu**](https://go.microsoft.com/fwlink/p/?linkid=868433) rozliczeń.
+Możesz zakupić dodatkowe subskrypcje na stronie usługi zakupów z **rozliczeniami**  >  [**Purchase services**](https://go.microsoft.com/fwlink/p/?linkid=868433) .
