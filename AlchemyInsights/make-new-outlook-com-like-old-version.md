@@ -1,33 +1,34 @@
 ---
-title: Jak sprawić, by nowy Outlook.com wyglądał jak stary
+title: Jak nadać nowemu Outlook.com wygląd starego
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: dc254df10c21521e65c53e478288938e0bb1c3f3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: fcd3f66abed75fb938994821249cdb78fedf264a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721777"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794632"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Jak sprawić, by nowa Outlook.com wyglądała jak stara wersja
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Jak nadać nowemu Outlook.com wygląd starej wersji
 
-Oto kilka ustawień, które możesz zmienić, aby nowe Outlook.com wyglądały jak stara wersja:
+Oto niektóre ustawienia, które można zmienić, aby nowe Outlook.com wyglądały tak, jak w starej wersji:
 
-1. Przejdź do [ustawień układu](https://outlook.live.com/mail/options/mail/layout).
-1. W obszarze **Skupiona skrzynka odbiorcza**wybierz pozycję **Nie sortuj wiadomości**.
-1. W obszarze **Organizacja wiadomości**wybierz pozycję Najnowsze wiadomości **na górze**.
-1. W obszarze **Obraz nadawcy**wybierz pozycję **Nie pokazuj obrazów nadawców**.
-1. W obszarze **Okienko odczytu**wybierz pozycję **Ukryj okienko odczytu**.
-1. W obszarze **Podgląd tekstu wiadomości**wybierz pozycję Pokaż tekst **podglądu**.
-1. W obszarze **Podglądy wbudowane**wybierz pozycję **Nie pokazuj załączników na liście wiadomości**.
+1. Przejdź do obszaru [Ustawienia układu](https://outlook.live.com/mail/options/mail/layout).
+1. W obszarze **priorytetowa Skrzynka odbiorcza**wybierz pozycję **nie Sortuj moich wiadomości**.
+1. W obszarze **organizacja wiadomości**wybierz pozycję **najnowsze wiadomości na początek**.
+1. W obszarze **obraz nadawcy**wybierz pozycję **nie pokazuj obrazów nadawcy**.
+1. W obszarze **okienko odczytu**wybierz pozycję **Ukryj okienko odczytu**.
+1. W obszarze **tekst podglądu wiadomości**wybierz pozycję **Pokaż tekst podglądu**.
+1. W obszarze **podglądy wbudowane**wybierz pozycję **nie pokazuj załączników na liście wiadomości**.
 
-Aby zmienić ustawienia poczty, tak aby skrzynka odbiorcza wyglądała i zachowywała się tak, jak chcesz, zobacz [Zmienianie wyglądu skrzynki pocztowej w Outlook.com i nowego programu Outlook w sieci Web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Aby zmienić ustawienia poczty, tak aby Skrzynka odbiorcza wyglądała i zachowywała się w odpowiedni sposób, zobacz [Zmienianie wyglądu skrzynki pocztowej w programie Outlook.com oraz nowej aplikacji Outlook w sieci Web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
