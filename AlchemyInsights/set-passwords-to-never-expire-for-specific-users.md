@@ -1,10 +1,11 @@
 ---
-title: Konfigurowanie filtra SPF
+title: Konfigurowanie SPF
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,22 +15,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 115e8d3cd5d7a98297963b43c4fb6fb39566bda7
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4787e9e4be87785b7273ee74f175092c5a85f15e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509430"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795578"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="86e3b-102">Ustawianie haseł, które nigdy nie wygasają</span><span class="sxs-lookup"><span data-stu-id="86e3b-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="93aa9-102">Ustawianie haseł nigdy nie wygasa</span><span class="sxs-lookup"><span data-stu-id="93aa9-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="86e3b-103">Aby ustawić, że wszystkie hasła nigdy nie wygasną, w **Settings**centrum administracyjnym usługi Microsoft 365 przejdź do strony  >  [ &amp; Prywatność Zabezpieczenia](https://portal.office.com/adminportal/home#/settings/security) ustawień.</span><span class="sxs-lookup"><span data-stu-id="86e3b-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="86e3b-104">Wybierz **pozycję Edytuj** obok pozycji Zasady **haseł**i przeksztą suwak na **Wł.**</span><span class="sxs-lookup"><span data-stu-id="86e3b-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
+<span data-ttu-id="93aa9-103">Aby ustawić wszystkie hasła tak, aby nigdy nie wygasło, w centrum administracyjnym usługi Microsoft 365 przejdź na stronę **Ustawienia**  >  [ &amp; prywatności dotyczącej ustawień zabezpieczeń](https://portal.office.com/adminportal/home#/settings/security) .</span><span class="sxs-lookup"><span data-stu-id="93aa9-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="93aa9-104">Wybierz pozycję **Edytuj** obok pozycji **zasady haseł**, a następnie przesuń suwak na pozycję **włączone**.</span><span class="sxs-lookup"><span data-stu-id="93aa9-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
   
-<span data-ttu-id="86e3b-105">Aby uzyskać bardziej szczegółowe informacje, zobacz:</span><span class="sxs-lookup"><span data-stu-id="86e3b-105">For more detailed information see:</span></span> 
+<span data-ttu-id="93aa9-105">Aby uzyskać bardziej szczegółowe informacje, zobacz:</span><span class="sxs-lookup"><span data-stu-id="93aa9-105">For more detailed information see:</span></span> 
 
-- [<span data-ttu-id="86e3b-106">Ustaw zasady wygasania haseł dla organizacji.</span><span class="sxs-lookup"><span data-stu-id="86e3b-106">Set the password expiration policy for your organization.</span></span>](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+- [<span data-ttu-id="93aa9-106">Ustawianie zasad wygasania haseł w organizacji.</span><span class="sxs-lookup"><span data-stu-id="93aa9-106">Set the password expiration policy for your organization.</span></span>](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-- [<span data-ttu-id="86e3b-107">Ustawianie hasła tak, aby nigdy nie wygasało dla określonych użytkowników</span><span class="sxs-lookup"><span data-stu-id="86e3b-107">Set password to never expire for specific users</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
+- [<span data-ttu-id="93aa9-107">Ustawianie hasła, aby nigdy nie wygasło dla określonych użytkowników</span><span class="sxs-lookup"><span data-stu-id="93aa9-107">Set password to never expire for specific users</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
-- [<span data-ttu-id="86e3b-108">Hasło musi spełniać wymagania dotyczące złożoności</span><span class="sxs-lookup"><span data-stu-id="86e3b-108">Password must meet complexity requirements</span></span>](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
+- [<span data-ttu-id="93aa9-108">Hasło musi spełnić wymagania co do złożoności</span><span class="sxs-lookup"><span data-stu-id="93aa9-108">Password must meet complexity requirements</span></span>](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   
