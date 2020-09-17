@@ -1,37 +1,38 @@
 ---
-title: Dostęp warunkowy z usłudze Intune
+title: Dostęp warunkowy za pomocą usługi Intune
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: f852d3646b8e5b2c0fce15055daf59c801fb8240
-ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
+ms.openlocfilehash: 5eec5982118b4f0246afadf2af219b2d5f32f95c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/30/2020
-ms.locfileid: "44931446"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807669"
 ---
-# <a name="conditional-access-with-intune"></a>Dostęp warunkowy z usłudze Intune
+# <a name="conditional-access-with-intune"></a>Dostęp warunkowy za pomocą usługi Intune
 
-Korzystanie z **dostępu warunkowego** z usłudze Intune wymaga 3 kroków:
+Używanie funkcji  **dostęp warunkowy**  z usługą Intune wymaga wykonania 3 kroków:
 
-- Utwórz **zasady zgodności** ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android), [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios), [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)), aby zdefiniować ustawienia, które muszą być spełnione, zanim urządzenie zostanie uznane za zgodne. Na przykład urządzenie musi mieć pin co najmniej 6 cyfr, zanim zostanie uznane za zgodne.
-- Utwórz **zasady dostępu warunkowego,** który określa, jakie zasoby są chronione i jakie warunki muszą być spełnione, aby uzyskać dostęp do tych zasobów.  [Na przykład](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies) urządzenie musi być zgodne przed dostępem do firmowej poczty e-mail.
-- Upewnij się, że zarówno **zasady zgodności,** jak i **zasady dostępu warunkowego** są kierowane do pożądanych grup użytkowników. Może to wymagać utworzenia określonych grup użytkowników w usłudze Azure Active Directory.
+- Utwórz  **zasady zgodności**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)), aby zdefiniować ustawienia, które muszą być spełnione, zanim urządzenie zostanie uznane za zgodne. Na przykład urządzenie musi mieć numer PIN o co najmniej 6 cyfrach, zanim zostanie uznany za zgodny.
+- Utwórz **zasady dostępu warunkowego**  określające, jakie zasoby są chronione, a jakie warunki muszą być spełnione, aby uzyskać dostęp do tych zasobów.  [Na przykład](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  urządzenie musi być zgodne przed uzyskaniem dostępu do firmowej poczty e-mail.
+- Upewnij się, że **zasady zgodności**  i  **zasady dostępu warunkowego**  są kierowane do żądanych grup użytkowników. Może to wymagać utworzenia określonych grup użytkowników w usłudze Azure Active Directory.
 
 **Pomocne linki:**
 
 [Omówienie zgodności urządzeń](https://docs.microsoft.com/intune/device-compliance-get-started)
 
-[Rozwiązywanie problemów z urzędem certyfikacji](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+[Rozwiązywanie problemów dotyczących urzędu certyfikacji](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
 [Zasady rozwiązywania problemów](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 
-Aby chronić pocztę e-mail (Exchange online) przed dostępem przez niezgodne urządzenia, oba dokumenty muszą być przestrzegane:
+Aby chronić wiadomości E-mail (usługi Exchange Online) przed dostępem za pomocą urządzeń niezgodnych, muszą być stosowane oba dokumenty:
 
-1. [Ochrona dostępu do poczty e-mail przed urządzeniami za pomocą usługi EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
-2. [Ochrona dostępu do poczty e-mail przed urządzeniami przy użyciu nowoczesnych klientów uwierzytelniania, takich jak Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
+1. [Ochrona dostępu do poczty e-mail za pomocą urządzeń przy użyciu aplikacji EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+2. [Ochrona dostępu do poczty e-mail za pomocą urządzeń przy użyciu nowoczesnych klientów uwierzytelniania, takich jak program Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
