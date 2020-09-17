@@ -1,11 +1,12 @@
 ---
-title: Jak zidentyfikować opłatę na karcie kredytowej lub wyciągu bankowym
+title: Jak określić opłatę za kartę kredytową lub wyciąg bankowy
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,17 +15,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: b2935f673f93f575c6e658d693b4c24d30445a0d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b856c0ca1f02780d0828dc714a25273ed99569f3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724384"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780141"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Jak zidentyfikować opłatę na karcie kredytowej lub wyciągu bankowym
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Jak określić opłatę za kartę kredytową lub wyciąg bankowy
 
-Opis opłaty za subskrypcję usługi Microsoft 365 wygląda następująco:
+Opis opłat w ramach subskrypcji produktu Microsoft 365 wygląda następująco:
   
-MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
+MSFT \* E012345ABC 0000 – MSBILL.info, WA
   
-Ciąg alfanumeryczny 10 \* znaków następujący po MSFT jest numerem faktury, do który odnosi się opłata. Aby znaleźć fakturę, przejdź do strony **Rachunki rozliczeniowe** \> [& płatności,](https://go.microsoft.com/fwlink/p/?linkid=848039) aby wyświetlić ostatnie faktury. Numer faktury znajduje się w prawym rogu dokumentu faktury.
+Alfanumeryczny ciąg alfanumeryczny (10 znaków) następujący po MSFT \* to numer faktury, której dotyczy opłata. Aby znaleźć fakturę, przejdź do strony **rozliczenia** \> [rachunki & płatności](https://go.microsoft.com/fwlink/p/?linkid=848039) , aby wyświetlić ostatnie faktury. Numer faktury znajduje się blisko prawego rogu dokumentu faktury.
