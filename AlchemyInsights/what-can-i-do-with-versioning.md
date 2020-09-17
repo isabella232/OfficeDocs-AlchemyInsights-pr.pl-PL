@@ -1,29 +1,30 @@
 ---
-title: Co mogę zrobić z przechowywaniem wersji?
+title: Do czego służy wersja?
 ms.author: toresing
 author: tomresing
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 36c890c4-cafc-4409-8887-4a5c039692e3
-ms.openlocfilehash: b86d815bb1e2e34474df9237c24c254c57f56aeb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3fcf8c4d1e890a565ace6961ac3f9c1292953248
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765351"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798422"
 ---
-# <a name="what-can-i-do-with-versioning"></a>Co mogę zrobić z przechowywaniem wersji?
+# <a name="what-can-i-do-with-versioning"></a>Do czego służy wersja?
 
-Przechowywanie wersji na listach i bibliotekach programu SharePoint umożliwia:
+Przechowywanie wersji na listach i w bibliotekach programu SharePoint jest możliwe w następujących programach:
   
-- **Śledzenie historii wersji**. Po włączeniu przechowywania wersji można zobaczyć, kiedy element lub plik został zmieniony i kto go zmienił. Można również zobaczyć, kiedy właściwości (informacje o pliku) zostały zmienione. Na przykład jeśli ktoś zmieni datę ukończenia elementu listy, informacje te są wyświetlane w historii wersji. Możesz też zobaczyć komentarze, które użytkownicy wykonują podczas zaewidencjonowania plików w bibliotekach. 
+- **Historia śledzenia wersji**. Po włączeniu przechowywania wersji można sprawdzić, kiedy element lub plik został zmieniony i kto go zmienił. Możesz również sprawdzić, kiedy zostały zmienione właściwości (informacje o pliku). Jeśli na przykład ktoś zmieni datę ukończenia elementu listy, informacje te pojawią się w historii wersji. Podczas sprawdzania plików w bibliotekach mogą być wyświetlane również komentarze osób. 
     
-- **Przywróć poprzednią wersję**. Jeśli popełniłeś błąd w bieżącej wersji, jeśli bieżąca wersja jest uszkodzona lub jeśli po prostu podoba Ci się poprzednia wersja lepiej, możesz zastąpić bieżącą wersję poprzednią. Przywrócona wersja staje się nową bieżącą wersją. 
+- **Przywracanie poprzedniej wersji**. Jeśli w bieżącej wersji popełniono błąd, jeśli bieżąca wersja jest uszkodzona lub jeśli po prostu podoba Ci się Poprzednia wersja, możesz zamienić bieżącą wersję na poprzednią. Przywrócona wersja stanie się nową bieżącą wersją. 
     
-- **Wyświetl poprzednią wersję**. Poprzednią wersję można wyświetlić bez zastępowania bieżącej wersji. Jeśli historia wersji jest przeglądana w dokumencie pakietu Microsoft Office, takim jak plik programu Word lub Excel, można porównać te dwie wersje, aby określić, jakie są różnice. 
+- **Wyświetlanie poprzedniej wersji**. Możesz wyświetlić poprzednią wersję bez zastępowania bieżącej wersji. Jeśli historia wersji jest wyświetlana w dokumencie pakietu Microsoft Office, na przykład w pliku programu Word lub Excel, można porównać dwie wersje, aby określić różnice. 
     
 [Dowiedz się więcej o tym, jak działa przechowywanie wersji w usłudze SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875710)
   

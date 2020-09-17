@@ -5,22 +5,23 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0162885a-13d5-4400-9972-935c9186c608
-ms.openlocfilehash: bd08e44485b642e5684986bc87c3b45db1f18f45
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b5c77fe13124722afecd6b733fc4785878e53299
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767835"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798710"
 ---
 # <a name="setting-up-visio"></a>Konfigurowanie programu Visio
 
-Wygląda na to, że potrzebujesz pomocy w konfigurowaniu programu Visio z subskrypcją usługi Microsoft 365.
+Wygląda na to, że potrzebujesz pomocy dotyczącej konfigurowania programu Visio za pomocą abonamentu Microsoft 365.
   
-Uwaga dla użytkowników komputerów Mac: Obecnie produkt visio nie jest dostępny dla systemu MacOS. Jeśli masz komputer, powinieneś być w stanie zainstalować oprogramowanie, wykonując poniższe czynności.
+Uwaga dla użytkowników komputerów Mac: produkt Visio nie jest obecnie dostępny dla MacOS. Jeśli masz komputer, zainstaluj oprogramowanie, wykonując poniższe czynności.
   
-Możesz wykonać kroki opisane w [tym artykule,](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) aby zakończyć konfigurację. 
+Możesz wykonać czynności opisane w [tym artykule](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) , aby ukończyć konfigurację. 
   
 
