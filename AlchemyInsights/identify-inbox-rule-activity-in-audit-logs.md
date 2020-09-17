@@ -1,38 +1,39 @@
 ---
-title: Identyfikowanie aktywności reguły skrzynki odbiorczej w dziennikach inspekcji
+title: Identyfikator aktywności reguły skrzynki odbiorczej w dziennikach inspekcji
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f946510539b3d28f2ceeec1546cbffce8bd352fd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3de6fcde6dc649cb77077d469cc66d4003e0c890
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716434"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779061"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identyfikowanie aktywności reguły skrzynki odbiorczej w dziennikach inspekcji
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identyfikator aktywności reguły skrzynki odbiorczej w dziennikach inspekcji
 
-Wyszukiwanie dzienników inspekcji można użyć w Centrum zgodności zabezpieczeń & microsoft 365, aby wyświetlić zdarzenia reguł skrzynki odbiorczej (tworzenie, modyfikowanie i usuwanie reguł skrzynki odbiorczej).
+Aby wyświetlić zdarzenia reguły skrzynki odbiorczej (tworzenie, modyfikowanie i usuwanie reguł skrzynek odbiorczych), można użyć funkcji wyszukiwania dziennika inspekcji w centrum zgodności usługi Microsoft 365 Security &.
 
-1. Zaloguj się do [Centrum zgodności & zabezpieczeń usługi Microsoft 365](https://protection.office.com/).
+1. Zaloguj się do [Centrum zabezpieczeń & programu Microsoft 365](https://protection.office.com/).
 
-2. Przejdź do strony**wyszukiwania dziennika inspekcji** **wyszukiwania.** > 
+2. Przejdź do strony **Search**  >  **wyszukiwania dziennika inspekcji** wyszukiwania.
 
-3. Wybierz zakres dat w polach **Data rozpoczęcia** i **Data zakończenia.**
+3. Wybierz zakres dat w polach **Data rozpoczęcia** i **Data zakończenia** .
 
-4. W obszarze **Działania skrzynki pocztowej programu Exchange**sprawdź, czy pole **Działania** jest ustawione na **Reguła Nowa skrzynka odbiorcza Utwórz/modyfikuj/włącz/wyłącz regułę skrzynki odbiorczej**.
+4. W obszarze **działania dotyczące skrzynek pocztowych programu Exchange**Sprawdź, czy w polu **działania** jest ustawiona wartość **Nowy — InboxRule tworzenie/modyfikowanie/Włączanie/wyłączanie reguły skrzynki odbiorczej**.
 
-5. Kliknij **pozycję Wyszukaj**.
+5. Kliknij przycisk **Wyszukaj**.
 
-W wynikach wybierz rekord inspekcji. W wysu wysu wysu wysunął szczegóły kliknij pozycję **Więcej informacji**. Informacje o ustawieniach reguły skrzynki odbiorczej są wyświetlane w polu **Parametry.**
+W wynikach wybierz rekord inspekcji. W menu wysuwanym Szczegóły kliknij pozycję **więcej informacji**. Informacje na temat ustawień reguły skrzynki odbiorczej są wyświetlane w polu **Parametry** .
 
 Aby uzyskać więcej informacji, zobacz [Określanie, czy użytkownik utworzył regułę skrzynki odbiorczej](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
