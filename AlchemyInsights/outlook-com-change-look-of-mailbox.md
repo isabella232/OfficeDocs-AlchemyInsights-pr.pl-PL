@@ -1,28 +1,29 @@
 ---
-title: Outlook.com zmienić wygląd skrzynki pocztowej
+title: Outlook.com zmiany wyglądu skrzynki pocztowej
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: 6231af2cb68d9db38f5debc0e1f22869c7513a8b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d1331ca38fd1276bc062ee45801abf6f6944a287
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721980"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802571"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Zmienianie wyglądu skrzynki pocztowej Outlook.com
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Zmienianie wyglądu skrzynki pocztowej programu Outlook.com
 
-Wygląd listy wiadomości i okienka odczytu można zmienić w Outlook.com.
+Możesz zmienić wygląd listy wiadomości i okienka odczytu w programie Outlook.com.
 
-- Aby zmienić układ okna wiadomości, otwórz opcje [okienka odczytu.](https://outlook.live.com/mail/options/mail/layout/readingPane)
-- Aby zmienić sposób sortowania wiadomości e-mail, u góry listy wiadomości wybierz pozycję > **Filtruj sortowanie według** i wybierz sposób sortowania wiadomości e-mail. **Filter**
-- Aby pogrupować wiadomości według konwersacji, otwórz opcje [organizacji wiadomości.](https://outlook.live.com/mail/options/mail/layout/conversations)
-- Aby włączyć lub wyłączyć skoncentrowane pole odbiorcze, otwórz opcje [układu.](https://outlook.live.com/mail/options/mail/layout/focused)
+- Aby zmienić układ okna wiadomości, Otwórz Opcje [okienka odczytu](https://outlook.live.com/mail/options/mail/layout/readingPane) .
+- Aby zmienić sposób sortowania wiadomości e-mail, w górnej części listy wiadomości wybierz pozycję **Filtruj**  >  **Sortowanie według** i wybierz sposób sortowania wiadomości e-mail.
+- Aby zgrupować wiadomości według konwersacji, Otwórz Opcje [organizacji wiadomości](https://outlook.live.com/mail/options/mail/layout/conversations) .
+- Aby włączyć lub wyłączyć priorytetową skrzynkę odbiorczą, Otwórz Opcje [układu](https://outlook.live.com/mail/options/mail/layout/focused) .
