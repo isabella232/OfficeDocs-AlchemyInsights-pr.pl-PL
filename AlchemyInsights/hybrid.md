@@ -1,23 +1,24 @@
 ---
-title: Hybrydowy
+title: uśpieni
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1555"
 - "9000080"
-ms.openlocfilehash: 94edbc3eb9bfa42367566792f231eab464d6d63f
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: e89485096fdf0eb4f2b116d367616efe9e854a55
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771009"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778989"
 ---
-# <a name="hybrid-mdm"></a><span data-ttu-id="f35bc-102">Hybrydowy MDM</span><span class="sxs-lookup"><span data-stu-id="f35bc-102">Hybrid MDM</span></span>
+# <a name="hybrid-mdm"></a><span data-ttu-id="5d80a-102">Hybrydowy MDM</span><span class="sxs-lookup"><span data-stu-id="5d80a-102">Hybrid MDM</span></span>
 
-<span data-ttu-id="f35bc-103">Aby dowiedzieć się więcej o hybrydowym programie MDM z programem Microsoft Endpoint Configuration Manager i microsoft Intune, zobacz [Konfigurowanie hybrydowego programu MDM za pomocą programu Configuration Manager i usługi Microsoft Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm).</span><span class="sxs-lookup"><span data-stu-id="f35bc-103">To learn about Hybrid MDM with Microsoft Endpoint Configuration Manager and Microsoft Intune, see [Set up hybrid MDM with Configuration Manager and Microsoft Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm).</span></span>
+<span data-ttu-id="5d80a-103">Aby uzyskać informacje o hybrydowym oprogramowaniu MDM za pomocą programu Microsoft Endpoint Configuration Manager i usługi Microsoft Intune, zobacz [Konfigurowanie hybrydowego oprogramowania MDM za pomocą programu Configuration Manager i usługi Microsoft Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm).</span><span class="sxs-lookup"><span data-stu-id="5d80a-103">To learn about Hybrid MDM with Microsoft Endpoint Configuration Manager and Microsoft Intune, see [Set up hybrid MDM with Configuration Manager and Microsoft Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm).</span></span>
