@@ -1,37 +1,38 @@
 ---
-title: Zwiększenie rozmiaru skrzynki pocztowej dla jednostek SKU dla przedsiębiorstw
+title: Zwiększanie rozmiaru skrzynki pocztowej w jednostkach SKU przedsiębiorstwa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 82917466c3e9f7b1e452f98cac41fa945f0ec736
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1af9775706a6e40aaed8f23b67a9329efe841090
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508782"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778233"
 ---
-# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Co zrobić, jeśli rozmiar skrzynki pocztowej wynosi już 100 GB
+# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Co zrobić, jeśli rozmiar skrzynki pocztowej jest już 100 GB
 
-W planach E3 lub E5 rozmiar skrzynki pocztowej wynosi już 100 GB i nie ma sposobu, aby ją zwiększyć. Zamiast tego usuń starą wiadomość e-mail lub włącz archiwizację poczty e-mail, aby przechowywać ją w chmurze. 
+W przypadku planu E3 lub E5 rozmiar skrzynki pocztowej wynosi już 100 GB i nie można go zwiększyć. Zamiast tego Usuń stare wiadomości e-mail lub Włącz archiwizację wiadomości e-mail, aby zapisać ją w chmurze. 
   
-Aby włączyć archiwizację poczty e-mail:
+Aby włączyć archiwizowanie poczty e-mail:
   
-1. W centrum administracyjnym usługi Microsoft 365 przejdź do **pozycji Centra administracyjne** \> **programu Exchange**. 
+1. W centrum administracyjnym usługi Microsoft 365 **Przejdź do** \> **programu Exchange**Center Center. 
     
-2. Wybierz **pozycję Skrzynki pocztowe** \> **adresatów**i wybierz skrzynkę pocztową. 
+2. Wybierz **Recipients** pozycję \> **Skrzynka pocztowa**adresatów i wybierz skrzynkę pocztową. 
     
-3. W okienku szczegółów w obszarze **Archiwum w miejscu**wybierz pozycję **Włącz**. 
+3. W okienku szczegółów w obszarze **archiwum miejscowe**wybierz pozycję **Włącz**. 
     
-4. Po kilku minutach nowy folder pojawi się w programie Outlook użytkownika w internecie o nazwie *Archiwum w miejscu* lub w aplikacji Outlook o nazwie *Archiwum online \<name\> -* . Użytkownik może przeciągać i upuszczać wiadomości e-mail do archiwum. 
+4. Po upływie kilku minut nowy folder pojawi się w aplikacji Outlook w sieci Web pod nazwą *archiwum miejscowego* lub w aplikacji Outlook o nazwie * \<name\> archiwum online* . Użytkownik może przeciągać i upuszczać wiadomości e-mail do archiwum. 
     
-Możesz uzyskać dostęp do nieograniczonej ilości miejsca do archiwizacji. Aby dowiedzieć się więcej, zobacz [Włączanie nieograniczonej archiwizacji](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
+Możesz uzyskać dostęp do nieograniczonej ilości miejsca do magazynowania na potrzeby archiwizacji. Aby dowiedzieć się więcej, zobacz [Włączanie archiwizacji bez ograniczeń](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
   
 
