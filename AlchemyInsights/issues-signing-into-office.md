@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677000"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236135"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Problemy z logowaniem się do aplikacji Microsoft 365
 
@@ -25,6 +25,8 @@ Aby rozwiązać problemy z logowaniem się do aplikacji Microsoft 365, wypróbuj
 
 - W przypadku systemu Windows Zobacz [zalecenia dotyczące rozwiązywania typowych problemów z logowaniem](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - Dla komputerów Mac zobacz  [nie można zalogować się do aplikacji Office 2016 dla komputerów Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+
+**Porada** Na urządzeniach z systemem Windows możemy zdiagnozować i automatycznie rozwiązać kilka typowych problemów z logowaniem do pakietu Office. Pobierz i uruchom  **[asystenta odzyskiwania i pomocy technicznej firmy Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** , aby korzystać z naszego narzędzia zautomatyzowanego.
 
 **Uwaga:** Wyłączenie nowoczesnego uwierzytelniania (ADAL) lub zarządzania kontami sieci Web (WAM) w celu naprawienia problemów logowania lub aktywacji  **nie jest zalecane**. Jeśli podczas nawiązywania połączenia z programem Microsoft 365 przy użyciu pakietu Office 2013 występują błędy, upewnij się, że [włączono nowoczesne uwierzytelnianie](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  dla klienta pakietu Office.
 
