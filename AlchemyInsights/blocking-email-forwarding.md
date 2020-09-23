@@ -14,15 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 71ac34539a2eac6b308aa5f42520e7c764524d5e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c0d9ed14f83d3c7d47e1728d5ed9ca3a19412ad2
+ms.sourcegitcommit: f74c9698a31634154ce58dda8b3145bb10685ace
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685464"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48219865"
 ---
-# <a name="block-email-forwarding"></a>Blokowanie przekierowywania poczty e-mail
+# <a name="blocking-or-unblocking-email-forwarding"></a>Blokowanie i odblokowywanie przekierowywania poczty e-mail
 
-Aby wyłączyć przesyłanie dalej wiadomości e-mail dla konkretnej skrzynki pocztowej, zobacz [Konfigurowanie przekierowywania poczty e-mail](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+Aby włączyć lub wyłączyć przesyłanie dalej wiadomości e-mail dla konkretnej skrzynki pocztowej, zobacz [Konfigurowanie przekierowywania poczty e-mail](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-Aby zablokować przesyłanie dalej wiadomości e-mail dla całej organizacji, możesz [zablokować automatyczne przesyłanie wiadomości e-mail w usłudze Exchange online na wiele sposobów](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).
+Po przeprowadzeniu kontroli nad przekazaniem zewnętrznym na poziomie dzierżawy jest używana zasada zapobiegania spamowi. Jeśli to ustawienie jest wyłączone lub automatyczne, możesz zablokować przesyłanie poczty e-mail przy użyciu funkcji "550 5.7.520 Access odmowa dostępu, ponieważ organizacja nie zezwala na błąd w Twojej zewnętrznej przekierowaniu". Następnie, jeśli przesyłanie dalej zostało ustawione jako zablokowane, to jest błąd widoczny dla użytkowników.
+
+Jeśli przesyłanie dalej jest blokowane, upewnij się, że skonfigurowano zasady umożliwiające włączenie zewnętrznego autoprzekazywania. Zasady filtrowania z wychodzącymi spamami można sprawdzić w centrum zabezpieczeń i zgodności albo przez uruchomienie polecenia Get-HostedOutboundSpamFilterPolicy | Nazwa FL, autoprzesyłanie dalej. Jeśli chcesz skonfigurować blokowanie autoprzesyłania dalej, to samo polecenie poinformuje Cię o stanie zasad teraz.
+
+Uwaga: zaleca się pozostawienie zewnętrznego autowiadomości bez wyłączenia na domyślnych zasadach filtrowania spamu dla połączeń wychodzących i włączenie tej funkcji tylko dla użytkowników wymagających przekierowania zewnętrznego przez utworzenie dla tych użytkowników zasad niestandardowych. Aby dowiedzieć się więcej, zobacz [Konfigurowanie zewnętrznej obsługi przekierowywania wiadomości e-mail w pakiecie Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
