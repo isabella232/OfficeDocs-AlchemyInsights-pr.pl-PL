@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 313c76df6b2d2739814f481917b4314363600af5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bcf65b93e5c5adbfa0ca275c69da882aa125c39
+ms.sourcegitcommit: aabc5178929892d532782036bfb338b4b480d4e5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812305"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48213037"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Znane problemy i rozwiązania dla usług ADFS
 
 Konfigurację domeny federacyjnej można zaktualizować zgodnie z następującymi artykułami z bazy wiedzy Microsoft Knowledge Base.
 
 - [Wygasanie certyfikatu Federacji usług ADFS](adfs-federation-certificate-expiring.md)
+
+- [Konfigurowanie usług AD FS dla pakietu Office 365 na potrzeby rejestracji jednokrotnej](https://docs.microsoft.com/office365/troubleshoot/active-directory/set-up-adfs-for-single-sign-on)
 
 - [2713898](https://support.microsoft.com/help/2713898)  "Wystąpił problem z dostępem do witryny" z usług AD FS, gdy użytkownik federacyjny loguje się do usługi Microsoft 365, Azure lub Intune.
 
