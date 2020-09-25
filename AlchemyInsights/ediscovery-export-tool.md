@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711105"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277919"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nie można zainstalować lub uruchomić narzędzia eksportu zbierania elektronicznych materiałów dowodowych?
 
@@ -47,4 +47,5 @@ Jeśli nie możesz zainstalować lub uruchomić narzędzia eksportu zbierania el
 - Rola eksportowania jest przypisywana w centrum zgodności zabezpieczeń programu Microsoft 365 &amp; . Domyślnie ta rola jest przypisana tylko do grupy ról Menedżera zbierania elektronicznych materiałów dowodowych. Zobacz [przypisywanie uprawnień do zbierania elektronicznych materiałów dowodowych](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
 Aby uzyskać więcej informacji, zobacz [Eksportowanie wyników wyszukiwania zawartości](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
-  
+
+Jeśli eksportujesz więcej niż 100K skrzynek pocztowych, musisz użyć następującego programu PowerShell, aby pobrać wyniki eksportu:  [Eksportowanie wyników z ponad 100K skrzynek pocztowych](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
