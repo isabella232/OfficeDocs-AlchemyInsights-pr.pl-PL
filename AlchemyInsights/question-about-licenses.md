@@ -2,7 +2,7 @@
 title: Pytanie o licencje
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,18 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ff02e0beb7a15053961e860bfa1bf5a66d9eeaaf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5dcc770bb8ce91c732171030431740ed387044c
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812629"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287076"
 ---
 # <a name="questions-about-your-microsoft-365-license"></a>Pytania dotyczące licencji na oprogramowanie Microsoft 365
 
-Jeśli chcesz dowiedzieć się, ile licencji zakupiono lub ile licencji jest przydzielonych z subskrypcji:
+Wykonaj te czynności, aby sprawdzić liczbę zakupionych licencji lub liczbę przydzielonych licencji z subskrypcji.
   
-1. W centrum administracyjnym przejdź do strony **rozliczanie** \> **[produktów](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. W centrum administracyjnym przejdź do strony **rozliczanie** \> [produktów](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Na karcie **produkty** Znajdź subskrypcję, na której chcesz dowiedzieć się więcej. Możesz sprawdzić liczbę licencji, za które użytkownik płaci, oraz liczbę przydzielonych obecnie.
 
-2. Znajdź subskrypcję, na której chcesz dowiedzieć się więcej. Możesz sprawdzić liczbę licencji, za które są opłacane opłaty, oraz liczbę dostępnych do przydzielenia.
-
-Jeśli chcesz dodać więcej licencji lub za dużo, wybierz pozycję **Dodaj/Usuń licencje** , aby dostosować zakupione kwoty.
+Jeśli chcesz dodać więcej licencji lub za dużo, wybierz abonament. Na stronie dane subskrypcji wybierz pozycję **Kup licencje** lub **Usuń licencje** , aby dostosować całkowitą liczbę licencji dla subskrypcji.
