@@ -15,22 +15,23 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bfad1d1eb6ceeb70ce6f0da6b5ee5e985548b937
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ecf4987e5590708cb2c8246ca0e3a9343035811
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733645"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307352"
 ---
 # <a name="change-how-often-you-pay"></a>Zmienianie częstotliwości płatności
 
 Aby zmienić częstość rozliczeń i płatności za subskrypcję, wykonaj następujące czynności w centrum administracyjnym usługi Microsoft 365.
 
 1. Przejdź do strony **rozliczanie**  >  [produktów](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na karcie **produkty** wybierz subskrypcję, którą chcesz zmienić. 
+2. Na karcie **produkty** wybierz subskrypcję, którą chcesz zmienić.
 3. Na stronie Szczegóły subskrypcji w sekcji **Ustawienia subskrypcji i płatności** wybierz pozycję **Edytuj częstotliwość rozliczania**.
-4. W okienku **Edytuj częstotliwość rozliczeń** shoose opcję określające, jak często mają być rozliczane, a następnie wybierz pozycję **Zmień**.
+4. W okienku **Edytuj częstotliwość rozliczeń** wybierz opcję dotyczącą częstotliwości rozliczania, a następnie wybierz pozycję **Zmień**.
 
-**Uwaga**: jedyne opcje są dostępne w przypadku płatności miesięcznych i rocznych.
+> [!NOTE]
+> Dostępne są jedyne rozliczenia miesięczne lub roczne.
 
 Aby uzyskać więcej informacji, zobacz [Zmienianie częstotliwości rozliczeń](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
