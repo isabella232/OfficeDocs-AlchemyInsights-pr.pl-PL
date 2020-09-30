@@ -2,7 +2,7 @@
 title: Dodawanie lub usuwanie licencji dla subskrypcji
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,35 +13,27 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: d07403226345a4e90aa4f7a5aa7a4ef5e0e9ea19
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b86937c48d7fe553436863e5f6ec70438652451
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781221"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307280"
 ---
-# <a name="add-or-remove-licenses-for-your-subscription"></a><span data-ttu-id="7621d-102">Dodawanie lub usuwanie licencji dla subskrypcji</span><span class="sxs-lookup"><span data-stu-id="7621d-102">Add or remove licenses for your subscription</span></span>
+# <a name="add-or-remove-licenses-for-your-subscription"></a><span data-ttu-id="8c67d-102">Dodawanie lub usuwanie licencji dla subskrypcji</span><span class="sxs-lookup"><span data-stu-id="8c67d-102">Add or remove licenses for your subscription</span></span>
 
-<span data-ttu-id="7621d-103">Poniżej opisano, jak można dodawać/usuwać licencje.</span><span class="sxs-lookup"><span data-stu-id="7621d-103">Here's how to Add/Remove licenses.</span></span>
+<span data-ttu-id="8c67d-103">Poniżej opisano, jak można dodawać i usuwać licencje.</span><span class="sxs-lookup"><span data-stu-id="8c67d-103">Here's how to add or remove licenses.</span></span>
   
-1. <span data-ttu-id="7621d-104">W centrum administracyjnym przejdź do strony **rozliczanie** \> **[produktów](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="7621d-104">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="8c67d-104">W centrum administracyjnym przejdź do strony **rozliczanie**  >  [produktów](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="8c67d-104">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="8c67d-105">Na karcie **produkty** Znajdź abonament, dla którego chcesz kupić lub usunąć licencje.</span><span class="sxs-lookup"><span data-stu-id="8c67d-105">On the **Products** tab, find the subscription for which you want to buy or remove licenses.</span></span> <span data-ttu-id="8c67d-106">Wybierz pozycję **więcej akcji** (trzy kropki), a następnie wybierz pozycję **Kup licencje**.</span><span class="sxs-lookup"><span data-stu-id="8c67d-106">Select **More actions** (three dots), then select **Buy licenses**.</span></span>
+3. <span data-ttu-id="8c67d-107">Jeśli chcesz zmniejszyć liczbę licencji, w górnej części okienka **kupowanie licencji** wybierz pozycję **Usuń licencje**.</span><span class="sxs-lookup"><span data-stu-id="8c67d-107">If you want to decrease the number of licenses, at the top of the **Buy licenses** pane, select **remove licenses**.</span></span>
+4. <span data-ttu-id="8c67d-108">Aby kupić lub usunąć licencje, w obszarze **Nowa ilość** w polu **łączna liczba licencji** wprowadź całkowitą liczbę licencji dla tej subskrypcji.</span><span class="sxs-lookup"><span data-stu-id="8c67d-108">To buy or remove licenses, under **New quantity** in the **Total licenses** box, enter the total number of licenses that you want for this subscription.</span></span> <span data-ttu-id="8c67d-109">Jeśli na przykład masz licencje 100 i chcesz dodać 25 więcej, wprowadź 125.</span><span class="sxs-lookup"><span data-stu-id="8c67d-109">For example, if you have 100 licenses and you want to add 25 more, enter 125.</span></span> <span data-ttu-id="8c67d-110">Jeśli chcesz usunąć 25 licencji, wprowadź 75.</span><span class="sxs-lookup"><span data-stu-id="8c67d-110">If you want to remove 25 licenses, enter 75.</span></span>
+5. <span data-ttu-id="8c67d-111">Wybierz **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="8c67d-111">Select **Save**.</span></span>
 
-2. <span data-ttu-id="7621d-105">Wybierz subskrypcję, dla której chcesz dodać/usunąć licencje.</span><span class="sxs-lookup"><span data-stu-id="7621d-105">Choose the subscription for which you want to add/remove licenses.</span></span>
+<span data-ttu-id="8c67d-112">Aby uzyskać informacje na temat przypisywania licencji, zobacz [Przypisywanie licencji użytkownikom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="8c67d-112">For information on how to assign licenses, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
 
-3. <span data-ttu-id="7621d-106">Kliknij pozycję **Dodaj/Usuń licencje**.</span><span class="sxs-lookup"><span data-stu-id="7621d-106">Click **Add/Remove licenses**.</span></span>
-
-4. <span data-ttu-id="7621d-107">Wprowadź łączną liczbę potrzebnych użytkowników.</span><span class="sxs-lookup"><span data-stu-id="7621d-107">Enter the total number of users needed.</span></span> <span data-ttu-id="7621d-108">Jeśli na przykład masz już 25 licencji i chcesz usunąć 5, wprowadź 20 w tym polu.</span><span class="sxs-lookup"><span data-stu-id="7621d-108">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
-
-5. <span data-ttu-id="7621d-109">Kliknij pozycję **Zatwierdź zmiany**.</span><span class="sxs-lookup"><span data-stu-id="7621d-109">Click **Submit change**.</span></span>
-
-<span data-ttu-id="7621d-110">**Uwaga**: wszystkie nowe opłaty (zwiększenie licencji) lub doładowanie konta (zmniejszenie licencji) będą widoczne na następnym rachunku.</span><span class="sxs-lookup"><span data-stu-id="7621d-110">**Note**: Any new charge (license increase) or credit (license decrease) will show up on your next bill.</span></span>
-
-<span data-ttu-id="7621d-111">Aby uzyskać informacje na temat przypisywania licencji, zobacz [Przypisywanie licencji użytkownikom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="7621d-111">For information on how to assign licenses, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
-
-<span data-ttu-id="7621d-112">**Zasoby**</span><span class="sxs-lookup"><span data-stu-id="7621d-112">**Resources**</span></span>
+<span data-ttu-id="8c67d-113">**Zasoby**</span><span class="sxs-lookup"><span data-stu-id="8c67d-113">**Resources**</span></span>
   
-- [<span data-ttu-id="7621d-113">Zarządzanie licencjami subskrypcyjnymi — kupowanie i usuwanie</span><span class="sxs-lookup"><span data-stu-id="7621d-113">Manage subscription licenses - buy or remove</span></span>](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-
-- [<span data-ttu-id="7621d-114">Anulowanie usługi Microsoft 365 dla firm</span><span class="sxs-lookup"><span data-stu-id="7621d-114">Cancel Microsoft 365 for business</span></span>](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
-
-- [<span data-ttu-id="7621d-115">Kup kolejną subskrypcję usługi Microsoft 365 dla firm</span><span class="sxs-lookup"><span data-stu-id="7621d-115">Buy another Microsoft 365 for business subscription</span></span>](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [<span data-ttu-id="8c67d-114">Kupowanie lub usuwanie licencji subskrypcyjnych</span><span class="sxs-lookup"><span data-stu-id="8c67d-114">Buy or remove subscription licenses</span></span>](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [<span data-ttu-id="8c67d-115">Anulowanie usługi Microsoft 365 dla firm</span><span class="sxs-lookup"><span data-stu-id="8c67d-115">Cancel Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [<span data-ttu-id="8c67d-116">Wypróbuj lub Kup subskrypcję usługi Microsoft 365 dla firm</span><span class="sxs-lookup"><span data-stu-id="8c67d-116">Try or buy a Microsoft 365 for business subscription</span></span>](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)
