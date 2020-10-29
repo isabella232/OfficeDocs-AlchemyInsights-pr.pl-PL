@@ -12,28 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784317"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791268"
 ---
 # <a name="enrolling-android-devices-into-intune"></a>Rejestrowanie urządzeń z systemem Android w usłudze Intune
 
-Usługa Intune obsługuje rejestrowanie następujących urządzeń z systemem Android:
-- Samsung KNOX i Zebrą
-- Profil roboczy systemu Android Enterprise
-- Dedykowany system Android Enterprise
-- W pełni zarządzany system Android Enterprise
+Jeśli chcesz przeprowadzić migrację użytkowników z rejestracji administratora urządzeń z systemem Android do systemu Android Enterprise, sprawdź: [przenoszenie urządzeń z systemem Android z administratora urządzenia do zarządzania profilem służbowym](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
 
-Przed skonfigurowaniem rejestracji dla urządzeń z systemem Android [Przejrzyj wymagania wstępne] ( https://docs.microsoft.com/intune/enrollment/android-enroll .
+Usługa Intune obsługuje rejestrowanie następujących urządzeń z systemem Android:  
 
-Aby uzyskać informacje na temat rozwiązywania problemów z rejestracją urządzeń na ogólne i niektóre błędy rejestracji systemu Android, zobacz [Rozwiązywanie problemów dotyczących rejestracji urządzeń w usłudze Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+- [Samsung KNOX, Zebrą, administrator urządzenia](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Profil roboczy systemu Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Dedykowany system Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [W pełni zarządzany system Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-Możesz również użyć [zawartości opisującej ten blok rozwiązywania problemów z usługą Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) , aby ułatwić zidentyfikowanie problemów z rejestracji występujących przez użytkowników.
+Przed skonfigurowaniem rejestracji dla urządzeń z systemem Android [Przejrzyj wymagania wstępne](https://docs.microsoft.com/intune/enrollment/android-enroll).  
 
+Aby uzyskać informacje na temat rozwiązywania problemów z rejestracją urządzeń na ogólne i niektóre błędy rejestracji systemu Android, zobacz [Rozwiązywanie problemów dotyczących rejestracji urządzeń w usłudze Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
 
-
-
-
+Możesz również użyć zawartości opisującej ten blok rozwiązywania problemów z usługą Intune, aby ułatwić zidentyfikowanie problemów z rejestracji występujących przez użytkowników.
