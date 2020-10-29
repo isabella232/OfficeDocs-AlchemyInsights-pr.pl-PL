@@ -1,5 +1,5 @@
 ---
-title: Zakup pakietu Office 365 Advanced Threat Protection
+title: Kupowanie usługi Microsoft Defender dla pakietu Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693565"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801157"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>Zakup pakietu Office 365 Advanced Threat Protection
+# <a name="purchase-microsoft-defender-for-office-365"></a>Kupowanie usługi Microsoft Defender dla pakietu Office 365
 
-Pakiet Office 365 Advanced Threat Protection (ATP) jest zawarty w niektórych abonamentach, takich jak Microsoft 365 E5, Office 365 E5, Office 365 A5 i Microsoft 365 Business Premium. Jeśli Twój abonament nie obejmuje pakietu Office 365 ATP, możesz zakupić [Plan ATP 1or z planem ATP 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) jako dodatek do pewnego abonamentu. Aby kupić w centrum administracyjnym usługi Microsoft 365:
+Program Microsoft Defender dla Office 365 (ATP) jest zawarty w niektórych abonamentach, takich jak Microsoft 365 E5, Office 365 E5, Office 365 A5 i Microsoft 365 Business Premium. Jeśli Twój abonament nie obejmuje pakietu Office 365 ATP, możesz zakupić [Plan ATP 1or z planem ATP 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) jako dodatek do pewnego abonamentu. Aby kupić w centrum administracyjnym usługi Microsoft 365:
 
 1. Przejdź do **Billing**   >   [usługi zakupu](https://go.microsoft.com/fwlink/p/?linkid=868433)kosztów.
 2. Wybierz stronę **Dodatki**  z **innych kategorii, które mogą Cię zainteresować.**

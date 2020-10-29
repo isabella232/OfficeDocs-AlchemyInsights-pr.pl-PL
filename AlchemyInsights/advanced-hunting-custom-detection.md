@@ -14,12 +14,12 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 935508b3084aee0613d2bd1c2f26a437390f8640
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48300071"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801525"
 ---
 # <a name="advanced-hunting-custom-detections"></a>Zaawansowane wykrywanie niestandardowych polowań
 
@@ -30,6 +30,6 @@ Jeśli korzystasz z usługi Microsoft Defender ATP, aby uzyskać szczegółowe i
 - [Tworzenie niestandardowych reguł wykrywania](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
 - [Wyświetlanie niestandardowych reguł wykrywania i zarządzanie nimi](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Jeśli korzystasz z funkcji Ochrona przed zagrożeniami firmy Microsoft, zobacz następujące tematy, aby uzyskać szczegółowe informacje: 
+Jeśli korzystasz z programu Microsoft 365 Defender, zobacz poniższe tematy, aby uzyskać szczegółowe informacje: 
 - [Omówienie wykrywania niestandardowego](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
 - [Tworzenie niestandardowych reguł wykrywania i zarządzanie nimi](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)
