@@ -1,0 +1,39 @@
+---
+title: Otwieranie dokumentu w trybie tylko do odczytu
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 07/22/2020
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "6896"
+- "9000093"
+- "1613"
+- "9000093"
+ms.openlocfilehash: 5544ea676412d26b87bcf4c20637910f3a4d20c4
+ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.translationtype: MT
+ms.contentlocale: pl-PL
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "49088757"
+---
+# <a name="documents-opening-in-read-only"></a>Otwieranie dokumentów w trybie tylko do odczytu
+
+Pliki, które otwierasz, mogą być znalezione jako tylko do odczytu. W niektórych przypadkach ten warunek służy jako doładowanie zabezpieczeń, na przykład podczas otwierania plików z Internetu i innych przypadków, ten warunek może być spowodowany ustawieniem, które można zmienić.
+
+- [Pliki programu SharePoint są otwarte tylko do odczytu](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
+
+Jeśli klient korzysta z określonych przyczyn, takich jak mechanizm zwiększania zabezpieczeń, lub ustawienie niezmienione nie jest jednym z scenariuszy, które opisano w [plikach programu SharePoint otwartych jako tylko do odczytu](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out), poniżej przedstawiono inne typowe rozwiązania dotyczące otwierania dokumentów w trybie tylko do odczytu.
+
+- Uruchom komputer ponownie.
+- Instalowanie aktualizacji pakietu Office.
+- Sprawdź program antywirusowy na komputerze.
+- Upewnij się, że witryna znajduje się w strefie Zaufane witryny w programie Internet Explorer.
+- Wykonaj naprawę pakietu Office.
+- Wyczyść [pamięć podręczną dokumentów pakietu Office](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
+
