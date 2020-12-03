@@ -1,0 +1,30 @@
+---
+title: Transferowanie domeny do firmy Microsoft
+ms.author: v-jmathew
+author: v-jmathew
+manager: scotv
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9002570"
+- "7304"
+ms.openlocfilehash: 8a8a13956237fe146340ff19024a626981138a43
+ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.translationtype: MT
+ms.contentlocale: pl-PL
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49564974"
+---
+# <a name="transfer-a-domain-to-microsoft"></a><span data-ttu-id="1a97f-102">Transferowanie domeny do firmy Microsoft</span><span class="sxs-lookup"><span data-stu-id="1a97f-102">Transfer a domain to Microsoft</span></span>
+
+<span data-ttu-id="1a97f-103">Rejestracji i rozliczeń domen nie można przekazywać do firmy Microsoft.</span><span class="sxs-lookup"><span data-stu-id="1a97f-103">A domains registration and billing cannot be transferred to Microsoft.</span></span>
+
+<span data-ttu-id="1a97f-104">Aby dodać już posiadaną domenę, postępuj zgodnie z instrukcjami [Kreatora dodawania domeny](https://admin.microsoft.com/Adminportal/Domains/Wizard)lub przejdź do obszaru **Ustawienia**  >  **domen**  >  **Dodaj domenę**.</span><span class="sxs-lookup"><span data-stu-id="1a97f-104">To add a domain you already own, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal/Domains/Wizard), or go to **Settings** > **Domains** > **Add domain**.</span></span>
+
+<span data-ttu-id="1a97f-105">Aby uzyskać więcej informacji o zmianach DNS wymaganych do weryfikacji domeny, zobacz [Dodawanie rekordów DNS w celu połączenia domeny](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="1a97f-105">For more information about DNS changes required to verify your domain, see [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+
+<span data-ttu-id="1a97f-106">W przypadku pytań dotyczących domen zobacz [często zadawane pytania dotyczące domen](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="1a97f-106">For any questions regarding domains, see [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
