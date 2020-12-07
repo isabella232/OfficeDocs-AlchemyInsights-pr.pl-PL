@@ -15,25 +15,25 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 5544ea676412d26b87bcf4c20637910f3a4d20c4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
-ms.translationtype: MT
+ms.openlocfilehash: 43858e9cecb904799aebad0d6e545d586c6e6b00
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088757"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49528992"
 ---
 # <a name="documents-opening-in-read-only"></a>Otwieranie dokumentów w trybie tylko do odczytu
 
-Pliki, które otwierasz, mogą być znalezione jako tylko do odczytu. W niektórych przypadkach ten warunek służy jako doładowanie zabezpieczeń, na przykład podczas otwierania plików z Internetu i innych przypadków, ten warunek może być spowodowany ustawieniem, które można zmienić.
+Możliwe, że otwierane przez Ciebie pliki są tylko do odczytu. W niektórych przypadkach jest to dodatkowe zabezpieczenie, na przykład podczas otwierania plików z Internetu. Czasami jednak może to być spowodowane ustawieniem, które można zmienić.
 
-- [Pliki programu SharePoint są otwarte tylko do odczytu](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
+- [Pliki programu SharePoint są otwierane w trybie tylko do odczytu](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
 
-Jeśli klient korzysta z określonych przyczyn, takich jak mechanizm zwiększania zabezpieczeń, lub ustawienie niezmienione nie jest jednym z scenariuszy, które opisano w [plikach programu SharePoint otwartych jako tylko do odczytu](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out), poniżej przedstawiono inne typowe rozwiązania dotyczące otwierania dokumentów w trybie tylko do odczytu.
+Jeśli klient sądzi, że podane przyczyny takie jak mechanizmy zwiększające zabezpieczenia lub niezmienione ustawienia nie są jednym ze scenariuszy opisanych w sekcji [Pliki programu SharePoint są otwierane w trybie tylko do odczytu](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out), oto inne typowe rozwiązania kwestii dokumentów otwieranych w trybie tylko do odczytu.
 
-- Uruchom komputer ponownie.
-- Instalowanie aktualizacji pakietu Office.
+- Uruchom ponownie komputer.
+- Zainstaluj aktualizacje pakietu Office.
 - Sprawdź program antywirusowy na komputerze.
 - Upewnij się, że witryna znajduje się w strefie Zaufane witryny w programie Internet Explorer.
-- Wykonaj naprawę pakietu Office.
-- Wyczyść [pamięć podręczną dokumentów pakietu Office](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
+- Wykonywanie naprawę pakietu Office.
+- [Czyszczenie pamięci podręcznej dokumentów pakietu Office (Office Document Cache)](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
 
