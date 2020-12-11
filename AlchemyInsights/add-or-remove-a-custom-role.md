@@ -1,26 +1,27 @@
 ---
-title: Dodawanie lub usuwanie roli niestandardowej
+title: Dodawanie lub usuwanie ról niestandardowych
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/10/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6176"
 - "9003232"
-ms.openlocfilehash: 61c97df955aee1398a3288325c5b6126db7c5fc1
-ms.sourcegitcommit: 1361b2b37fd0201502a1a3547084961de284a3fc
-ms.translationtype: MT
+ms.openlocfilehash: 8a43f20155f3bc726395841550903167bef3a6d0
+ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46629766"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49599424"
 ---
-# <a name="add-or-remove-a-custom-role"></a><span data-ttu-id="28f7a-102">Dodawanie lub usuwanie roli niestandardowej</span><span class="sxs-lookup"><span data-stu-id="28f7a-102">Add or remove a custom role</span></span>
+# <a name="add-or-remove-a-custom-role"></a><span data-ttu-id="7696d-102">Dodawanie lub usuwanie ról niestandardowych</span><span class="sxs-lookup"><span data-stu-id="7696d-102">Add or remove a custom role</span></span>
 
-<span data-ttu-id="28f7a-103">Aby zarządzać zasobami platformy Azure, zobacz [Dodawanie lub usuwanie przypisań ról platformy Azure za pomocą portalu Azure](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal).</span><span class="sxs-lookup"><span data-stu-id="28f7a-103">To manage Azure resources, see [Add or remove Azure role assignments using the Azure portal](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal).</span></span>
+<span data-ttu-id="7696d-103">Aby zarządzać zasobami platformy Azure, zobacz temat [Dodawanie lub usuwanie przydziałów ról Azure przy użyciu Azure Portal](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal).</span><span class="sxs-lookup"><span data-stu-id="7696d-103">To manage Azure resources, see [Add or remove Azure role assignments using the Azure portal](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal).</span></span>
 
-<span data-ttu-id="28f7a-104">Aby zarządzać rolami niestandardowymi usługi Azure Active Directory (Azure AD), zobacz [Niestandardowe role administratora w usłudze Azure Active Directory (wersja Preview)](https://docs.microsoft.com/azure/active-directory/users-groups-roles/roles-custom-overview).</span><span class="sxs-lookup"><span data-stu-id="28f7a-104">To manage custom roles for Azure Active Directory (Azure AD), see [Custom administrator roles in Azure Active Directory (preview)](https://docs.microsoft.com/azure/active-directory/users-groups-roles/roles-custom-overview).</span></span>
+<span data-ttu-id="7696d-104">Aby zarządzać rolami niestandardowymi w przypadku usługi Azure Active Directory (Azure AD), zobacz temat [Niestandardowe role administratorów w usłudze Azure Active Directory (wersja zapoznawcza)](https://docs.microsoft.com/azure/active-directory/users-groups-roles/roles-custom-overview).</span><span class="sxs-lookup"><span data-stu-id="7696d-104">To manage custom roles for Azure Active Directory (Azure AD), see [Custom administrator roles in Azure Active Directory (preview)](https://docs.microsoft.com/azure/active-directory/users-groups-roles/roles-custom-overview).</span></span>
