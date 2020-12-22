@@ -12,24 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 5940d1a96324c5ca77331485a115689abe547ef7
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
+ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982486"
+ms.lasthandoff: 12/21/2020
+ms.locfileid: "49724164"
 ---
 # <a name="comments-on-list-items"></a>Komentarze dotyczące elementów listy
 
-Użytkownicy wkrótce będą mogli dodawać i usuwać komentarze do elementów listy. Użytkownicy mogą wyświetlać wszystkie komentarze w elemencie listy i filtrować między widokami pokazującymi komentarze lub działania związane z elementem.
-
-**Chronometraż** :
-
-**Wersja ukierunkowana** : stopniowe przewinięcie w połowie października i oczekiwanie na zakończenie w połowie listopada
-
-**Wersja Standard** : stopniowe przewinięcie w połowie listopada i oczekiwanie na zakończenie przed dniem grudnia
-
-**Wprowadzanie** : wersja ukierunkowana dla całej organizacji
+Użytkownicy mogą wyświetlać wszystkie komentarze w elemencie listy i filtrować między widokami pokazującymi komentarze lub działania związane z elementem.
 
 Aby można było dodawać i usuwać komentarze, użytkownicy muszą zwrócić uwagę na następujące kwestie:
 
