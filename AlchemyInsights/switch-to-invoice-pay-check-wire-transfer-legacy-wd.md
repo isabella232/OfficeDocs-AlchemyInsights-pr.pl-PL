@@ -1,5 +1,5 @@
 ---
-title: Przełączanie na płacę za fakturę (czek/przelew) — Starsza wersja WD
+title: Przełączanie do płatności za pomocą faktury (czek/przelew przelewu)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726167"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755413"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Przełączanie na płacę za fakturę (czek/przelew) — Starsza wersja WD
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Przełączanie do płatności za pomocą faktury (czek/przelew przelewu)
+
+Na podstawie opisu swojego problemu znaleźliśmy rozwiązanie dla Ciebie. Większość klientów mogła samodzielnie rozwiązać swoje problemy po przeprowadzeniu naszej dokumentacji.
 
 Jeśli przełączysz się na płatność za pomocą faktury, oznacza to, że opłata będzie naliczana w ciągu 30 dni od daty wystawienia faktury. Aby zakwalifikować się do skorzystania z abonamentu na platformie Azure według faktury, Prześlij żądanie do pomocy technicznej platformy Azure. Gdy żądanie zostanie zatwierdzone, możesz przełączyć abonament na płatność za fakturę w [witrynie Azure Portal](https://portal.azure.com/).
 

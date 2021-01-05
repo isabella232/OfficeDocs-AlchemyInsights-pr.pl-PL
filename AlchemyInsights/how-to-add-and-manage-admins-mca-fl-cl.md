@@ -1,5 +1,5 @@
 ---
-title: Jak dodawać administratorów i zarządzać nimi-MCA FL/CL
+title: Jak dodawać administratorów i zarządzać nimi
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692308"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755505"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Jak dodawać administratorów i zarządzać nimi-MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>Jak dodawać administratorów i zarządzać nimi
+
+Na podstawie opisu swojego problemu znaleźliśmy rozwiązanie dla Ciebie. Większość klientów mogła samodzielnie rozwiązać swoje problemy po przeprowadzeniu naszej dokumentacji.
 
 Aby zarządzać kontem rozliczeniowym na potrzeby umowy z klientami firmy Microsoft (MCA), możesz korzystać z różnych ról z wymaganym poziomem dostępu. Role te są uzupełnienieem wbudowanych ról usługi platformy Azure, które ułatwiają sterowanie zasobami.
 

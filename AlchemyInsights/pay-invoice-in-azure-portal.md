@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714876"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755629"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Płatność za fakturę w portalu Azure — zalecane kroki
+
+Na podstawie opisu swojego problemu znaleźliśmy rozwiązanie dla Ciebie. Większość klientów mogła samodzielnie rozwiązać swoje problemy po przeprowadzeniu naszej dokumentacji.
 
 Musisz być administratorem konta rozliczeniowego, aby płacić faktury w portalu Azure. Administrator konta rozliczeniowego to użytkownik, który pierwotnie podpisał konto umowy Microsoft Customer. 
 
 Aby zapłacić za fakturę w portalu Azure: 
 
 1. Zaloguj się w [witrynie Azure Portal](https://portal.azure.com/).
-1. Wyszukaj w obszarze **Zarządzanie kosztami + rozliczenia**.
+1. Szukaj w pozycji **Zarządzanie kosztami + rozliczenia**.
 1. W okienku po lewej stronie w obszarze **rozliczenia** kliknij pozycję **faktury**.
 1. Jeśli dowolna faktura jest należna lub minęła, zostanie wyświetlony link " **płać teraz** " dla tej faktury. Kliknij pozycję **Zapłać teraz**.
 1. W nowym bloku kliknij pozycję **Wybierz metodę płatności** , aby wybrać istniejącą kartę kredytową lub dodać nową.

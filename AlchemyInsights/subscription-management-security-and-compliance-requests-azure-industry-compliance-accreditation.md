@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 84c9d89161111a5a1cf9aea92f49c754ad6b7f73
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598785"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755593"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Zarządzanie subskrypcjami — żądania dotyczące zabezpieczeń i zgodności — akredytacja zgodności usługi Azure Industry
+
+Na podstawie opisu swojego problemu znaleźliśmy rozwiązanie dla Ciebie. Większość klientów mogła samodzielnie rozwiązać swoje problemy po przeprowadzeniu naszej dokumentacji.
 
 - **Zasady**: w przypadku pytań dotyczących dokumentu zgodności firmy Microsoft zobacz [zgodność z Centrum zaufania platformy Azure](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
 
