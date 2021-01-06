@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731249"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768827"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Włączanie szyfrowania funkcji BitLocker za pomocą usługi Intune
 
@@ -30,10 +30,12 @@ Aby uzyskać informacje dotyczące rozwiązywania problemów z funkcją BitLocke
  
 **CZĘSTO ZADAWANE PYTANIA**
 
- P: Jakie wersje systemu Windows obsługują szyfrowanie urządzeń przy użyciu zasad programu Endpoint Protection?<br>
- O: ustawienia w zasadach programu Intune Endpoint Protection są implementowane przy użyciu [dostawcy CSP funkcji BitLocker](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Nie wszystkie wersje lub kompilacje systemu Windows obsługują dostawcę CSP funkcji BitLocker. <br><br>
-      Obecnie obsługiwane są następujące wersje systemu Windows: Enterprise, Education, Mobile, Mobile Enterprise i Professional (kompilacja 1809 lub nowsza).
- 
+P: Jakie wersje systemu Windows obsługują szyfrowanie urządzeń przy użyciu zasad programu Endpoint Protection?<br>
+O: ustawienia w zasadach programu Intune Endpoint Protection są implementowane przy użyciu [dostawcy CSP funkcji BitLocker](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Nie wszystkie wersje lub kompilacje systemu Windows obsługują dostawcę CSP funkcji BitLocker. <br><br>
+
+P: jak można włączyć funkcję BitLocker na urządzeniach bez konieczności interakcji użytkownika końcowego?<br>
+O: tak długo, jak są spełnione wymagane wymagania wstępne, można włączyć funkcję BitLocker "ciche szyfrowanie" za pośrednictwem usługi Intune. Zobacz szczegółowe informacje dotyczące wymagań dotyczących urządzeń i przykładowe ustawienia zasad, aby włączyć ciche szyfrowanie w następującym dokumencie: [ciche Włączanie szyfrowania funkcji BitLocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+
 P: Jeśli urządzenie jest już zaszyfrowane za pomocą funkcji BitLocker przy użyciu domyślnych ustawień systemu operacyjnego dla metody szyfrowania i siły szyfrowania (XTS-AES-128), zastosuje zasady z innymi ustawieniami automatycznie wyzwalają ponowne szyfrowanie dysku przy użyciu nowych ustawień?<br>
 O: Nie. Aby zastosować nowe ustawienia szyfrowania, należy najpierw odszyfrować dysk.<br><br>
 **Uwaga:** W przypadku urządzeń, które są rejestrowane za pomocą funkcji autopilota, automatyczne szyfrowanie, które może wystąpić w trakcie OOBE, nie zostanie wyzwolone, dopóki nie zostanie wyznaczona zasada usługi Intune, co umożliwi użycie ustawień opartych na zasadach w miejsce ustawień domyślnych systemu operacyjnego.
