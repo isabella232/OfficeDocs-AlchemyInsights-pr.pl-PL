@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768827"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778203"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Włączanie szyfrowania funkcji BitLocker za pomocą usługi Intune
 
- W celu skonfigurowania ustawień szyfrowania funkcji BitLocker dla urządzeń z systemem Windows można użyć zasad usługi Intune Endpoint Protection. Aby uzyskać więcej informacji, zobacz [Ustawienia systemu Windows 10 (i nowszych wersji), aby chronić urządzenia za pomocą usługi Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
- 
+W celu skonfigurowania ustawień szyfrowania funkcji BitLocker dla urządzeń z systemem Windows można użyć zasad usługi Intune Endpoint Protection. Aby uzyskać więcej informacji, zobacz [Ustawienia systemu Windows 10 (i nowszych wersji), aby chronić urządzenia za pomocą usługi Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+
+Oprócz zasad ochrony punktu końcowego jest również dostępny raport dotyczący szyfrowania, który zapewnia bardziej szczegółowy widok stanu szyfrowania urządzeń. Dostęp do tego raportu można uzyskać z poziomu portalu MEM w obszarze **urządzenia > monitor**, a następnie w obszarze **Konfiguracja** wybierz [raport szyfrowania](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
+
+Jeśli okaże się, że funkcja BitLocker nie zostanie włączona zgodnie z oczekiwaniami lub jeśli profil używany do włączania funkcji BitLocker jest w stanie błędu, zapoznaj się z raportem o szyfrowaniu, aby uzyskać lepsze zrozumienie przyczyny wystąpienia tego problemu.
+
+Aby znaleźć szczegółowe informacje dotyczące interpretowania raportu zawierającego różne wartości statusu szyfrowania, zobacz [monitorowanie szyfrowania urządzenia za pomocą usługi Intune](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+
 Należy pamiętać, że wiele nowszych urządzeń z systemem Windows 10 obsługuje automatyczne szyfrowanie funkcji BitLocker, które zostanie wyzwolone bez zastosowania zasad MDM. Może to mieć wpływ na zastosowanie zasad, jeśli są skonfigurowane ustawienia inne niż domyślne. Aby uzyskać więcej informacji, zobacz poniższe często zadawane pytania.
- 
+
 Aby uzyskać informacje dotyczące rozwiązywania problemów z funkcją BitLocker, zobacz [Rozwiązywanie problemów z zasadami funkcji BitLocker w usłudze Microsoft Intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
