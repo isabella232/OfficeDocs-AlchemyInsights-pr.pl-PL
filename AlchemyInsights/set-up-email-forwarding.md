@@ -13,16 +13,18 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: f6a67ab8d68913a62886801af035fd631713f690
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801086"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49847610"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Sprawdzanie ustawień przesyłania dalej wiadomości e-mail w skrzynce pocztowej
 
-Sprawdzanie ustawień przesyłania dalej wiadomości e-mail w skrzynce pocztowej Microsoft 365 jest łatwe. Po prostu wykonaj poniższe czynności.
+Po pierwsze, przekierowywanie poczty e-mail musi być włączone na poziomie dzierżawy. Jeśli masz skonfigurowane przekierowywanie poczty e-mail w skrzynce pocztowej, ale nie działa, zobacz [kontrolowanie automatycznej zewnętrznej obsługi przekierowywania wiadomości e-mail w programie Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+
+Sprawdzanie ustawień przesyłania dalej wiadomości e-mail w skrzynce pocztowej jest łatwe. Po prostu wykonaj poniższe czynności.
   
 > Jeśli jest to Skrzynka pocztowa użytkownika, **Przejdź do obszaru** \> **aktywni użytkownicy** i wybierz użytkownika, którego skrzynkę pocztową będziesz przesłać dalej. Na karcie **poczta** wybierz pozycję **Zarządzaj przekierowywaniem poczty e-mail**.
 
