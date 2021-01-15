@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 33f15f34b93e60d86c0ce185345f40fd0d3809f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a002ca92a0ef8bf124ea66267392b30c35ebf95b
+ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713861"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49875149"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Zgodność z komunikacją w programie Microsoft 365
 
@@ -42,3 +42,6 @@ Wymagania dotyczące licencji: Użytkownicy monitorowany przez zasady komunikacj
 - Subskrypcja usługi Office 365 Enterprise E5
 
 Jeśli nie masz żadnej z powyższych pozycji i chcesz wypróbować zgodność z komunikacją, **[zarejestruj się w celu uzyskania wersji próbnej pakietu Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+
+> [!NOTE]
+> W celu pełnego przetworzenia wiadomości e-mail w zasadach może upłynąć do 24 godzin. Komunikacja w aplikacji Microsoft Teams, usłudze Yammer i innych platformach może potrwać do 48 godzin w celu pełnego przetworzenia zasad.
