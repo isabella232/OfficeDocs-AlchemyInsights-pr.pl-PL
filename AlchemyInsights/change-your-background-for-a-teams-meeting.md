@@ -1,0 +1,29 @@
+---
+title: Zmienianie tła spotkania aplikacji Teams
+ms.author: v-jmathew
+author: v-jmathew
+manager: scotv
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9001720"
+- "7948"
+ms.openlocfilehash: 6c9d7f37210b83e9315648bb9f4de21269afd867
+ms.sourcegitcommit: 0810dec217a876b7c307ab8b22ad0a4d2712fbdf
+ms.translationtype: MT
+ms.contentlocale: pl-PL
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "49917135"
+---
+# <a name="change-your-background-for-a-teams-meeting"></a>Zmienianie tła spotkania aplikacji Teams
+
+Jeśli chcesz zmienić zawartość wyświetlaną w klipie wideo, możesz rozmycie tło lub całkowicie zastąpić obraz, który chcesz dodać.
+
+Aby dowiedzieć się więcej na temat zmieniania tła, przed lub podczas spotkania, zobacz [Zmienianie tła spotkania programu Team](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780).
+
+> [!NOTE]
+> Obecnie użytkownicy systemu Linux nie mogą korzystać z tej funkcji. Efekty w tle nie będą dostępne dla Ciebie, jeśli korzystasz z aplikacji Teams w zoptymalizowanej infrastrukturze wirtualnych (VDI, Virtual Desktop Infrastructure).
