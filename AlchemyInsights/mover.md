@@ -12,20 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 9a50525540d7b591c9272bc39714105cd1aa121f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43868418752d9274aa0b30fc32fd233224a3bc61
+ms.sourcegitcommit: 41ddd8e65e9bfdacb6d8a96e0d42426998ffd2d0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702769"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "49986308"
 ---
 # <a name="mover"></a>Mover
 
-W dniu 21 października 2019 r. Firma  **Microsoft uzyskała**, wiodący dostawca migracji plików w chmurze.
+Aby uzyskać informacje na temat programu DM, zapoznaj się z następującymi artykułami:
 
-Obecnie [wszystkie prośby o pomoc są kierowane](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [ **tutaj**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)  
-
-Więcej informacji na temat narzędzia przenoszenia można znaleźć w następujących artykułach:
-
-- [Prowadnice migracji przenoszenia](https://mover.io/guides/)
-- [Ogólne często zadawane pytania dotyczące migracji](https://mover.io/guides/general/)
+- [Planowanie migracji za pomocą programu Przeprowadzka](https://docs.microsoft.com/sharepointmigration/mover-plan-migration)
+- [Zarządzanie łącznikami](https://docs.microsoft.com/sharepointmigration/mover-manage-connectors)
+- [Uruchamianie migracji przenoszenia](https://docs.microsoft.com/sharepointmigration/mover-running-migration)
