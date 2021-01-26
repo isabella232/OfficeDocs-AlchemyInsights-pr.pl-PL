@@ -1,5 +1,5 @@
 ---
-title: Odnów certyfikat
+title: Odnawianie certyfikatu
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7750"
 - "9004340"
-ms.openlocfilehash: a1a931df944ed83d538215ad7527bec9ef370469
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: a383124fb4e2a5cd4373be0731a233215bed3725
+ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.translationtype: HT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974940"
+ms.locfileid: "49976823"
 ---
-# <a name="renew-certificate"></a><span data-ttu-id="93f2a-102">Odnów certyfikat</span><span class="sxs-lookup"><span data-stu-id="93f2a-102">Renew certificate</span></span>
+# <a name="renew-certificate"></a><span data-ttu-id="0deef-102">Odnawianie certyfikatu</span><span class="sxs-lookup"><span data-stu-id="0deef-102">Renew certificate</span></span>
 
-<span data-ttu-id="93f2a-103">Aby odnowić certyfikat, który wkrótce wygaśnie, zobacz [Zarządzanie certyfikatami dla federacyjnego logowania jednokrotnego w usłudze Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).</span><span class="sxs-lookup"><span data-stu-id="93f2a-103">To renew a certificate that will soon expire, see [Manage certificates for federated single sign-on in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).</span></span>
+<span data-ttu-id="0deef-103">Aby odnowić certyfikat, który wkrótce wygaśnie, zobacz [Zarządzanie certyfikatami w zakresie federacyjnego logowania jednokrotnego w usłudze Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).</span><span class="sxs-lookup"><span data-stu-id="0deef-103">To renew a certificate that will soon expire, see [Manage certificates for federated single sign-on in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).</span></span>
 
-<span data-ttu-id="93f2a-104">Aby uzyskać dodatkowe informacje na temat zarządzania certyfikatami podpisywania tokenów i ich synchronizowania z usługą Azure AD, [Odnów certyfikaty federacyjne dla systemu Microsoft 365 i usługi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-o365-certs).</span><span class="sxs-lookup"><span data-stu-id="93f2a-104">For additional information on how to manage your token-signing certificates and keep them in sync with Azure AD, [Renew federation certificates for Microsoft 365 and Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-o365-certs).</span></span>
+<span data-ttu-id="0deef-104">W celu uzyskania dodatkowych informacji na temat sposobu zarządzania certyfikatami podpisywania tokenu i zapewnienia ich synchronizacji z usługą Microsoft Azure Active Directory, zobacz [Odnawianie certyfikatów usług federacyjnych na potrzeby platformy Microsoft 365 i usługi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-o365-certs).</span><span class="sxs-lookup"><span data-stu-id="0deef-104">For additional information on how to manage your token-signing certificates and keep them in sync with Azure AD, see [Renew federation certificates for Microsoft 365 and Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-o365-certs).</span></span>
 
