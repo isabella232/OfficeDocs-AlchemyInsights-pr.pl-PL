@@ -1,10 +1,11 @@
 ---
-title: Zmienianie ustawień ograniczania przepustowości EWS
+title: Zmiana ustawień ograniczania usługi EWS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,13 +13,15 @@ ms.custom:
 - "9000752"
 - "5653"
 - "5760"
-ms.openlocfilehash: 4b4be7041ce432b52c61578b3e4d7d49106763bc
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
-ms.translationtype: MT
+ms.openlocfilehash: 4f0bea884153dc1ed8699ce12e0d017d18f5e57c
+ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493314"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50075907"
 ---
-# <a name="changing-ews-throttling-settings"></a>Zmienianie ustawień ograniczania przepustowości EWS
+# <a name="changing-ews-throttling-settings"></a>Zmiana ustawień ograniczania usługi EWS
 
-Uruchom nasz automatyczny test, który pozwoli Ci zmodyfikować zasady ograniczania przepustowości EWS na czas trwania migracji.
+Uruchom nasz automatyczny test, który umożliwi Ci zmodyfikowanie zasad ograniczania usługi EWS na czas trwania migracji. Pamiętaj, że nawet po uruchomieniu tego testu import usługi EWS będzie nadal ograniczony do 150 MB przez 5 minut na skrzynkę pocztową. Aby zwiększyć przepustowość migracji, migruj więcej użytkowników równocześnie.
+
+Uwaga: zmiany zasad ograniczania usługi EWS nie mają wpływu na następujące typy migracji (prowadzone za pomocą narzędzi firmy Microsoft): migracja hybrydowa, migracja jednorazowa/etapowa (RPC/HTTP), IMAP, G Suite, migracja z folderu publicznego lub usługa importowania pliku PST.
