@@ -1,5 +1,5 @@
 ---
-title: Aktywowanie pakietu Office przy użyciu licencjonowania na urządzeniu
+title: Aktywowanie pakietu Office przy użyciu licencjonowania opartego na urządzeniu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
+ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697891"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50094047"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Aktywowanie pakietu Office przy użyciu licencjonowania na urządzeniu
+# <a name="activating-office-using-device-based-licensing"></a>Aktywowanie pakietu Office przy użyciu licencjonowania opartego na urządzeniu
+
+Licencjonowanie oparte na urządzeniach dla aplikacji Microsoft 365 dla przedsiębiorstw jest dostępne jako licencja tylko dla niektórych klientów komercyjnych i niektórych klientów edukacyjnych. Aby uzyskać szczegółowe informacje, zobacz: Licencjonowanie oparte na urządzeniach [aplikacji platformy Microsoft 365 dla przedsiębiorstw](https://docs.microsoft.com/deployoffice/device-based-licensing)
+
+Aby aktywować aplikacje Microsoft 365 dla przedsiębiorstw przy użyciu licencjonowania opartego na urządzeniach, zobacz:
+
+- [Wymagania dotyczące korzystania z licencjonowania opartego na urządzeniach w aplikacjach platformy Microsoft 365 dla przedsiębiorstw](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Kroki konfigurowania licencjonowania opartego na urządzeniach dla aplikacji platformy Microsoft 365 dla przedsiębiorstw](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
+Aby uzyskać wskazówki dotyczące rozwiązywania problemów, zobacz Rozwiązywanie problemów z licencjonowaniem opartym na [urządzeniu aplikacji Microsoft 365 dla przedsiębiorstw](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
 > [!NOTE]
-> [Aktywacja oparta na urządzeniach](https://aka.ms/officedba) pakietu Office dla klientów z edukacją amerykańską jest teraz przestarzała. Zachęcamy organizacje do planowania nowych licencji na oprogramowanie Microsoft 365 dla klientów edukacyjnych (urządzeń).
-
-Aby aktywować pakiet Office przy użyciu funkcji licencjonowania na urządzeniu, należy mieć licencję dodatku Microsoft 365 Apps dla systemu edukacyjnego (urządzenia), która jest dostępna tylko dla klientów edukacyjnych i dostępna tylko za pośrednictwem funkcji rejestrowania rozwiązań edukacyjnych (EES). Zobacz [wymagania dotyczące korzystania z licencjonowania opartego na urządzeniach dla aplikacji Microsoft 365 dla przedsiębiorstw](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
-
-
-Aby uzyskać szczegółowe informacje na temat konfiguracji, zobacz:
-
-- [Procedura konfigurowania licencjonowania opartego na urządzeniach dla aplikacji Microsoft 365 dla przedsiębiorstw](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Zarządzanie licencjami na urządzenia](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
-
-Aby uzyskać wskazówki dotyczące rozwiązywania problemów, zobacz [Rozwiązywanie problemów dotyczących licencjonowania opartego na urządzeniach dla aplikacji Microsoft 365 dla przedsiębiorstw](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+> Jeśli aplikacje platformy Microsoft 365 są już zainstalowane i aktywowane przy użyciu licencjonowania subskrypcji opartego na użytkownikach lub aktywacji komputera udostępnionego, konieczne będzie zresetowanie stanu licencji na urządzeniu, zanim zostanie ono przejście do licencjonowania opartego na urządzeniu. Aby zresetować stan aktywacji, zobacz ["Resetowanie aplikacji platformy Microsoft 365 dla stanu aktywacji przedsiębiorstwa"](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
