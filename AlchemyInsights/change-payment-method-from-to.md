@@ -1,30 +1,29 @@
 ---
 title: Zmienianie formy płatności
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: c3c67f067d3946e3e29e7b09e443d3c3132dd765
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933401"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152604"
 ---
 # <a name="change-payment-method-fromto"></a>Zmienianie formy płatności z/na
 
 1. **Zmienianie płatności z faktury na kartę kredytową lub konto bankowe**
 
-    - Gdy zmieniasz formę płatności z płacenia za pomocą faktury na płacenie za pomocą karty kredytowej lub konta bankowego, automatycznie tworzymy dla Ciebie nową subskrypcję, przenosimy do niej Twoich użytkowników, a następnie wyłączamy Twoją starą subskrypcję. Nie ma powodu do obaw, ponieważ użytkownicy nie zauważą przerwy w świadczeniu usługi, a wszystkie ich informacje będą dostępne w ramach nowej subskrypcji. 
-
-    - Postępuj zgodnie z instrukcjami udokumentowanymi w temacie [Zmienianie płatności z faktury na kartę kredytową lub na konto bankowe](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account).
+    - Nie możesz automatycznie zmienić formy płatności za pomocą faktury na inną metodę. Zamiast tego, musisz [kupić inną subskrypcję](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) opłacaną za pomocą karty kredytowej, debetowej lub konta bankowego, [przenieść wszystkich użytkowników do nowej subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription), a następnie [anulować starą subskrypcję](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Zmienianie płatności z karty kredytowej lub konta bankowego na fakturę**
 
@@ -32,6 +31,6 @@ ms.locfileid: "43933401"
 
     - Jeśli ilość zamówienia jest za duża, może być wymagane sprawdzenie zdolności kredytowej. W takim przypadku zostanie wyświetlony komunikat „Nie kwalifikujesz się do zmiany na fakturę. Twoje zamówienie wymaga sprawdzenia zdolności kredytowej”. W takim przypadku możesz ręcznie zmienić formę płatności na fakturę.
 
-    - Postępuj zgodnie z krokami opisanymi w artykule [Zmienianie z karty kredytowej lub konta bankowego na fakturę](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice), aby ręcznie wprowadzić zmianę.
+    - Postępuj zgodnie z krokami w artykule [Jak zmienić formę płatności z karty kredytowej na fakturę?](how-do-i-change-from-credit-card-payments-to-invoice.md), aby ręcznie wprowadzić zmianę.
 
-Aby uzyskać więcej informacji, zobacz [Zmienianie formy płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Aby uzyskać więcej informacji, zobacz artykuł [Jak zapłacić za subskrypcję](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
