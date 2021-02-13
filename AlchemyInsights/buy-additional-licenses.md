@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "530"
 - "1400007"
-ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 1039ce18dacbbe04aa7cb7a5a85eddab52b36d67
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 7994f7bb94720b1929790f587a9506c5e3dea469
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307208"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232305"
 ---
 # <a name="buy-additional-licenses"></a>Kupowanie dodatkowych licencji
 
-1. W centrum administracyjnym przejdź do strony **rozliczanie**  >  [produktów](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na karcie **produkty** Znajdź abonament, dla którego chcesz kupić lub usunąć licencje. Wybierz pozycję **więcej akcji** (trzy kropki), a następnie wybierz pozycję **Kup licencje**.
-3. Jeśli chcesz zmniejszyć liczbę licencji, w górnej części okienka **kupowanie licencji** wybierz pozycję **Usuń licencje**.
-4. Aby kupić lub usunąć licencje, w obszarze **Nowa ilość** w polu **łączna liczba licencji** wprowadź całkowitą liczbę licencji dla tej subskrypcji. Jeśli na przykład masz licencje 100 i chcesz dodać 25 więcej, wprowadź 125. Jeśli chcesz usunąć 25 licencji, wprowadź 75.
-5. Wybierz **Zapisz**.
+**OBEJRZYJ klip wideo,** w który pokazano, jak to zrobić: [Kupowanie licencji](https://go.microsoft.com/fwlink/p/?linkid=2154857)
 
-Aby dowiedzieć się więcej, zobacz [kupowanie licencji dla subskrypcji programu Microsoft 365 dla firm](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+1. W centrum administracyjnym przejdź do strony **Rozliczenia**  >  [produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na karcie **Produkty** znajdź subskrypcję, dla której chcesz kupić licencje. Wybierz **pozycję Więcej akcji** (trzy kropki), a następnie wybierz pozycję Kup **licencje.**
+3. W **obszarze Nowa liczba** w polu Łączna **liczba** licencji wprowadź łączną liczbę licencji, które chcesz uzyskać dla tej subskrypcji. Jeśli na przykład masz 100 licencji i chcesz dodać jeszcze 25, wprowadź 125.
+4. Wybierz **Zapisz**.
+
+Aby dowiedzieć się więcej, [zobacz Kupowanie lub usuwanie licencji.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Dodatkowe zasoby**
 
-- [Przypisywanie licencji do użytkowników w programie Microsoft 365 dla firm](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- [Przypisywanie licencji użytkownikom na platformie Microsoft 365 dla firm](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)

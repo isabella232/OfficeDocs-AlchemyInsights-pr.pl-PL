@@ -1,5 +1,5 @@
 ---
-title: Pytanie o licencje
+title: Pytanie dotyczące licencji
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "491"
 - "1500032"
-ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: c5dcc770bb8ce91c732171030431740ed387044c
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: ddbad5acf5ecc17ce8ee2193ba304ddd50aa610f
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287076"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231873"
 ---
-# <a name="questions-about-your-microsoft-365-license"></a>Pytania dotyczące licencji na oprogramowanie Microsoft 365
+# <a name="questions-about-your-microsoft-365-license"></a>Pytania dotyczące licencji platformy Microsoft 365
 
-Wykonaj te czynności, aby sprawdzić liczbę zakupionych licencji lub liczbę przydzielonych licencji z subskrypcji.
+Skorzystaj z tej procedury, aby dowiedzieć się, ile licencji zakupiono lub ile licencji przypisano z subskrypcji.
   
-1. W centrum administracyjnym przejdź do strony **rozliczanie** \> [produktów](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na karcie **produkty** Znajdź subskrypcję, na której chcesz dowiedzieć się więcej. Możesz sprawdzić liczbę licencji, za które użytkownik płaci, oraz liczbę przydzielonych obecnie.
+1. W centrum administracyjnym przejdź do strony **Rozliczenia** \> **[produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Na karcie **Produkty** znajdź subskrypcję, o której chcesz dowiedzieć się więcej. Możesz sprawdzić liczbę licencji, za które płacisz, oraz liczbę aktualnie przypisanych licencji.
 
-Jeśli chcesz dodać więcej licencji lub za dużo, wybierz abonament. Na stronie dane subskrypcji wybierz pozycję **Kup licencje** lub **Usuń licencje** , aby dostosować całkowitą liczbę licencji dla subskrypcji.
+Jeśli chcesz dodać więcej licencji lub jeśli jest ich zbyt wiele, wybierz subskrypcję. Na stronie danych subskrypcji wybierz pozycję  **Kup** licencje lub Usuń licencje, aby dostosować łączną liczbę licencji dla subskrypcji.
+
+**OBEJRZYJ klip wideo,** w który pokazano, jak to zrobić: Kupowanie [nowych licencji](https://go.microsoft.com/fwlink/p/?linkid=2154857) lub usuwanie [istniejących licencji](https://go.microsoft.com/fwlink/p/?linkid=2154938)

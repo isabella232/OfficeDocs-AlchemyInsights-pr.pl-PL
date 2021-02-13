@@ -1,5 +1,5 @@
 ---
-title: Jak utworzyć zakup produktu Microsoft 365
+title: Jak dokonać zakupu platformy Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "531"
 - "1400007"
-ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: a70459a58c957fc9987ddd7d990954c57f9de5e2
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287148"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232377"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Jak utworzyć zakup produktu Microsoft 365
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Jak dokonać zakupu platformy Microsoft 365
 
-Subskrypcję usługi Microsoft 365 można zakupić w centrum administracyjnym.
+Subskrypcję platformy Microsoft 365 możesz kupić w centrum administracyjnym.
   
-- Aby kupić plan, przejdź do **Billing** \> strony [usług zakupu](https://go.microsoft.com/fwlink/p/?linkid=868433) rozliczenia.
-- Aby kupić dodatkowe licencje, przejdź do strony **rozliczanie** \> [produktów](https://go.microsoft.com/fwlink/p/?linkid=842054) . Wybierz subskrypcję, którą chcesz zmienić, a następnie wybierz pozycję **Kup licencje** lub **Usuń licencje**.
+- Aby kupić plan, przejdź do strony **Zakup** \> **[rozliczeniowy usług.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+- Aby kupić dodatkowe licencje,  przejdź do strony \> **[Rozliczenia produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Wybierz subskrypcję, którą chcesz zmienić, a następnie wybierz pozycję **Kup licencje.\**
+**OBEJRZYJ klip wideo,** w który pokazano, jak to zrobić: [Kupowanie nowych licencji](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Aby dowiedzieć się więcej, zobacz [kupowanie licencji dla subskrypcji programu Microsoft 365 dla firm](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Aby dowiedzieć się więcej, [zobacz Kupowanie lub usuwanie licencji.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Rozwiązywanie problemów**
 
@@ -35,5 +35,5 @@ Jeśli wystąpią problemy z ładowaniem strony internetowej, spróbuj otworzyć
 
 **Dodatkowe zasoby**
   
-- [Przypisywanie licencji do użytkowników w programie Microsoft 365 dla firm](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-- [Anulowanie usługi Microsoft 365 dla firm](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Przypisywanie licencji użytkownikom na platformie Microsoft 365 dla firm](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Anulowanie subskrypcji platformy Microsoft 365 dla firm](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
