@@ -1,5 +1,5 @@
 ---
-title: Jak utworzyć zakup produktu Microsoft 365
+title: Jak dokonać zakupu platformy Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "531"
 - "1400007"
-ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: a70459a58c957fc9987ddd7d990954c57f9de5e2
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287148"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232377"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a><span data-ttu-id="3384e-102">Jak utworzyć zakup produktu Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="3384e-102">How to make a Microsoft 365 purchase</span></span>
+# <a name="how-to-make-a-microsoft-365-purchase"></a><span data-ttu-id="5f5a6-102">Jak dokonać zakupu platformy Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="5f5a6-102">How to make a Microsoft 365 purchase</span></span>
 
-<span data-ttu-id="3384e-103">Subskrypcję usługi Microsoft 365 można zakupić w centrum administracyjnym.</span><span class="sxs-lookup"><span data-stu-id="3384e-103">You can buy a Microsoft 365 subscription in the admin center.</span></span>
+<span data-ttu-id="5f5a6-103">Subskrypcję platformy Microsoft 365 możesz kupić w centrum administracyjnym.</span><span class="sxs-lookup"><span data-stu-id="5f5a6-103">You can buy a Microsoft 365 subscription in the admin center.</span></span>
   
-- <span data-ttu-id="3384e-104">Aby kupić plan, przejdź do **Billing** \> strony [usług zakupu](https://go.microsoft.com/fwlink/p/?linkid=868433) rozliczenia.</span><span class="sxs-lookup"><span data-stu-id="3384e-104">To purchase a plan, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
-- <span data-ttu-id="3384e-105">Aby kupić dodatkowe licencje, przejdź do strony **rozliczanie** \> [produktów](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="3384e-105">To purchase additional licenses, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="3384e-106">Wybierz subskrypcję, którą chcesz zmienić, a następnie wybierz pozycję **Kup licencje** lub **Usuń licencje**.</span><span class="sxs-lookup"><span data-stu-id="3384e-106">Select the subscription that you want to change, then select **Buy licenses** or **Remove licenses**.</span></span>
+- <span data-ttu-id="5f5a6-104">Aby kupić plan, przejdź do strony **Zakup** \> **[rozliczeniowy usług.](https://go.microsoft.com/fwlink/p/?linkid=868433)**</span><span class="sxs-lookup"><span data-stu-id="5f5a6-104">To purchase a plan, go to the **Billing** \> **[Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)** page.</span></span>
+- <span data-ttu-id="5f5a6-105">Aby kupić dodatkowe licencje,  przejdź do strony \> **[Rozliczenia produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="5f5a6-105">To purchase additional licenses, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span> <span data-ttu-id="5f5a6-106">Wybierz subskrypcję, którą chcesz zmienić, a następnie wybierz pozycję \**Kup licencje.\**</span><span class="sxs-lookup"><span data-stu-id="5f5a6-106">Select the subscription that you want to change, then select **Buy licenses**.\</span></span>
+<span data-ttu-id="5f5a6-107">**OBEJRZYJ klip wideo,** w który pokazano, jak to zrobić: [Kupowanie nowych licencji](https://go.microsoft.com/fwlink/p/?linkid=2154857)</span><span class="sxs-lookup"><span data-stu-id="5f5a6-107">**WATCH a video** that shows how to do this: [Buy new licenses](https://go.microsoft.com/fwlink/p/?linkid=2154857)</span></span>
   
-<span data-ttu-id="3384e-107">Aby dowiedzieć się więcej, zobacz [kupowanie licencji dla subskrypcji programu Microsoft 365 dla firm](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).</span><span class="sxs-lookup"><span data-stu-id="3384e-107">To learn more, see [Buy licenses for your Microsoft 365 for business subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).</span></span>
+<span data-ttu-id="5f5a6-108">Aby dowiedzieć się więcej, [zobacz Kupowanie lub usuwanie licencji.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)</span><span class="sxs-lookup"><span data-stu-id="5f5a6-108">To learn more, see [Buy or remove licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>
 
-<span data-ttu-id="3384e-108">**Rozwiązywanie problemów**</span><span class="sxs-lookup"><span data-stu-id="3384e-108">**Troubleshooting**</span></span>
+<span data-ttu-id="5f5a6-109">**Rozwiązywanie problemów**</span><span class="sxs-lookup"><span data-stu-id="5f5a6-109">**Troubleshooting**</span></span>
 
-<span data-ttu-id="3384e-109">Jeśli wystąpią problemy z ładowaniem strony internetowej, spróbuj otworzyć ją w innej przeglądarce lub w prywatnym oknie przeglądarki, na przykład w oknie InPrivate w przeglądarce Microsoft Edge lub w oknie incognito w przeglądarce Google Chrome.</span><span class="sxs-lookup"><span data-stu-id="3384e-109">If you experience problems with the page loading, try opening the web page in a different browser, or try opening the page a private browser window, such as an InPrivate window in Microsoft Edge or an incognito window in Google Chrome.</span></span>
+<span data-ttu-id="5f5a6-110">Jeśli wystąpią problemy z ładowaniem strony internetowej, spróbuj otworzyć ją w innej przeglądarce lub w prywatnym oknie przeglądarki, na przykład w oknie InPrivate w przeglądarce Microsoft Edge lub w oknie incognito w przeglądarce Google Chrome.</span><span class="sxs-lookup"><span data-stu-id="5f5a6-110">If you experience problems with the page loading, try opening the web page in a different browser, or try opening the page a private browser window, such as an InPrivate window in Microsoft Edge or an incognito window in Google Chrome.</span></span>
 
-<span data-ttu-id="3384e-110">**Dodatkowe zasoby**</span><span class="sxs-lookup"><span data-stu-id="3384e-110">**Additional Resources**</span></span>
+<span data-ttu-id="5f5a6-111">**Dodatkowe zasoby**</span><span class="sxs-lookup"><span data-stu-id="5f5a6-111">**Additional Resources**</span></span>
   
-- [<span data-ttu-id="3384e-111">Przypisywanie licencji do użytkowników w programie Microsoft 365 dla firm</span><span class="sxs-lookup"><span data-stu-id="3384e-111">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-- [<span data-ttu-id="3384e-112">Anulowanie usługi Microsoft 365 dla firm</span><span class="sxs-lookup"><span data-stu-id="3384e-112">Cancel Microsoft 365 for Business</span></span>](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [<span data-ttu-id="5f5a6-112">Przypisywanie licencji użytkownikom na platformie Microsoft 365 dla firm</span><span class="sxs-lookup"><span data-stu-id="5f5a6-112">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [<span data-ttu-id="5f5a6-113">Anulowanie subskrypcji platformy Microsoft 365 dla firm</span><span class="sxs-lookup"><span data-stu-id="5f5a6-113">Cancel Microsoft 365 for Business</span></span>](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
