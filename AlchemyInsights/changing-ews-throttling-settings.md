@@ -1,5 +1,5 @@
 ---
-title: Zmiana ustawień ograniczania usługi EWS
+title: Zmienianie ustawień ograniczania usługi EWS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -20,8 +20,8 @@ ms.contentlocale: pl-PL
 ms.lasthandoff: 02/02/2021
 ms.locfileid: "50075907"
 ---
-# <a name="changing-ews-throttling-settings"></a>Zmiana ustawień ograniczania usługi EWS
+# <a name="changing-ews-throttling-settings"></a>Zmienianie ustawień ograniczania usługi EWS
 
-Uruchom nasz automatyczny test, który umożliwi Ci zmodyfikowanie zasad ograniczania usługi EWS na czas trwania migracji. Pamiętaj, że nawet po uruchomieniu tego testu import usługi EWS będzie nadal ograniczony do 150 MB przez 5 minut na skrzynkę pocztową. Aby zwiększyć przepustowość migracji, migruj więcej użytkowników równocześnie.
+Uruchom nasz automatyczny test, który umożliwi zmodyfikowanie zasad ograniczania usługi EWS na czas trwania migracji. Pamiętaj, że nawet po uruchomieniu tego testu import usługi EWS będzie nadal ograniczony do 150 MB przez 5 minut na skrzynkę pocztową. Aby zwiększyć przepustowość migracji, migruj więcej użytkowników współbieżnie.
 
-Uwaga: zmiany zasad ograniczania usługi EWS nie mają wpływu na następujące typy migracji (prowadzone za pomocą narzędzi firmy Microsoft): migracja hybrydowa, migracja jednorazowa/etapowa (RPC/HTTP), IMAP, G Suite, migracja z folderu publicznego lub usługa importowania pliku PST.
+Pamiętaj, że zmiany zasad ograniczania usługi EWS nie wpływają na następujące typy migracji (za pomocą narzędzi firmy Microsoft): migracja hybrydowa, migracja jednorazowa/etapowa (RPC/HTTP), IMAP, G Suite, folder publiczny lub usługa importowania plików PST.
