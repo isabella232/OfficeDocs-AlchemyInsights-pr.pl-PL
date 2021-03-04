@@ -1,0 +1,52 @@
+---
+title: Rozwiązywanie problemów z SSPR
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 03/04/2021
+ms.topic: article
+ms.audience: Admin
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9003259"
+- "6128"
+ms.openlocfilehash: 85bfc812dcffce008a6fa5394a6069bd64c514d6
+ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.translationtype: MT
+ms.contentlocale: pl-PL
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50430219"
+---
+# <a name="troubleshoot-sspr"></a><span data-ttu-id="0e6a8-102">Rozwiązywanie problemów z SSPR</span><span class="sxs-lookup"><span data-stu-id="0e6a8-102">Troubleshoot SSPR</span></span>
+
+<span data-ttu-id="0e6a8-103">**Mam problem z konfiguracją resetowania hasła**</span><span class="sxs-lookup"><span data-stu-id="0e6a8-103">**I'm having trouble configuring password reset**</span></span>
+
+- <span data-ttu-id="0e6a8-104">Jeśli jesteś administratorem i szukasz sposobu włączenia funkcji samodzielnego resetowania hasła, zobacz samouczek "Włączanie [programu SSPR"](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr)w celu skonfigurowania resetowania hasła dla organizacji.</span><span class="sxs-lookup"><span data-stu-id="0e6a8-104">If you are administrator and looking for how to enable self-service password reset, see [Tutorial enable SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr), to configure password reset for your organization.</span></span> <span data-ttu-id="0e6a8-105">Możesz również zapoznać się z wymaganiami [licencjonowania.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="0e6a8-105">You may also want to review the [licensing requirements](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span> <span data-ttu-id="0e6a8-106">W organizacji musi być przypisana co najmniej jedna licencja.</span><span class="sxs-lookup"><span data-stu-id="0e6a8-106">You must have at least one license assigned in your organization.</span></span>
+    - <span data-ttu-id="0e6a8-107">**Tylko użytkownicy w chmurze** — dowolna płatna usługa Office 365 (O365) lub usługa Azure AD Basic</span><span class="sxs-lookup"><span data-stu-id="0e6a8-107">**Cloud only users** - Any Office 365 (O365) paid SKU, or Azure AD Basic</span></span>
+    - <span data-ttu-id="0e6a8-108">**Użytkownicy chmury i/lub** lokalni — Azure AD Premium P1 lub P2, Enterprise Mobility + Security (EMS) lub Secure Productive Enterprise (SPE)</span><span class="sxs-lookup"><span data-stu-id="0e6a8-108">**Cloud and/or on-premises users** - Azure AD Premium P1 or P2, Enterprise Mobility + Security (EMS), or Secure Productive Enterprise (SPE)</span></span>
+- <span data-ttu-id="0e6a8-109">Aby uzyskać dodatkowe pytania dotyczące samodzielnego resetowania hasła, zapoznaj się z [często zadawanymi pytaniami.](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="0e6a8-109">For additional questions about self-service password reset, review [our FAQ](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span>
+
+<span data-ttu-id="0e6a8-110">**Wyświetlany jest komunikat o błędzie**</span><span class="sxs-lookup"><span data-stu-id="0e6a8-110">**I'm getting an error message**</span></span>
+
+<span data-ttu-id="0e6a8-111">Zapoznaj się z tym artykułem, aby znaleźć typowe błędy i ich rozwiązania: Rozwiązywanie [problemów z samodzielnego resetowania hasła](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="0e6a8-111">Review this article to find common errors and their solutions: [Troubleshoot self-service password reset](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)</span></span>
+
+<span data-ttu-id="0e6a8-112">**Mam problem z zasadami resetowania hasła**</span><span class="sxs-lookup"><span data-stu-id="0e6a8-112">**I'm having a problem with my password reset policy**</span></span>
+
+- <span data-ttu-id="0e6a8-113">Jeśli zasady resetowania haseł nie zachowują się zgodnie z oczekiwaniami lub masz pytania dotyczące zasad resetowania haseł, zapoznaj się z tym artykułem: Zasady i ograniczenia dotyczące haseł w usłudze [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="0e6a8-113">If your password reset policy is not behaving as expected, or if you have questions about password reset policies, review this article: [Password policies and restrictions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span>
+- <span data-ttu-id="0e6a8-114">Zasady resetowania haseł nie dotyczą administratorów.</span><span class="sxs-lookup"><span data-stu-id="0e6a8-114">Password reset policies do not apply to administrators.</span></span> <span data-ttu-id="0e6a8-115">Firma Microsoft wymusza silne, domyślne zasady resetowania hasła z dwiema bramami dla dowolnej roli administratora platformy Azure.</span><span class="sxs-lookup"><span data-stu-id="0e6a8-115">Microsoft enforces a strong default two-gate password reset policy for any Azure administrator role.</span></span> <span data-ttu-id="0e6a8-116">Upewnij się, że test używasz z użytkownikiem, który nie jest administratorem.</span><span class="sxs-lookup"><span data-stu-id="0e6a8-116">Make sure that you are testing with a user who is not an administrator.</span></span> <span data-ttu-id="0e6a8-117">Aby uzyskać więcej informacji na temat zasad resetowania konta administratora, zobacz ten artykuł: Różnice między [zasadami resetowania przez administratora.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences)</span><span class="sxs-lookup"><span data-stu-id="0e6a8-117">For more information on the administrator reset policy, see this article: [Administrator reset policy differences](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences).</span></span>
+
+<span data-ttu-id="0e6a8-118">**Nie chcę, aby moi użytkownicy zarejestrowyli dodatkowe informacje zabezpieczające przy resetowaniu hasła**</span><span class="sxs-lookup"><span data-stu-id="0e6a8-118">**I don't want my users to register additional security info for password reset**</span></span>
+
+<span data-ttu-id="0e6a8-119">Możesz wstępnie wypełnić dane (atrybuty poczty e-mail i telefonu) dla użytkowników za pomocą interfejsu API, programu PowerShell lub programu Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="0e6a8-119">You can pre-populate data (email and phone attributes) for your users using an API, PowerShell, or Azure AD Connect.</span></span> <span data-ttu-id="0e6a8-120">Aby dowiedzieć się, jak to przeczytać:</span><span class="sxs-lookup"><span data-stu-id="0e6a8-120">To learn how read:</span></span>
+
+- [<span data-ttu-id="0e6a8-121">Wdrażanie resetowania hasła bez konieczności rejestrowania użytkowników</span><span class="sxs-lookup"><span data-stu-id="0e6a8-121">Deploying password reset without requiring users to register</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
+- [<span data-ttu-id="0e6a8-122">Jakie dane są używane przez resetowanie hasła</span><span class="sxs-lookup"><span data-stu-id="0e6a8-122">What data is used by password reset</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+
+<span data-ttu-id="0e6a8-123">**Chcę, aby moi użytkownicy zarejestrują swoje dodatkowe informacje zabezpieczające w celu resetowania hasła**</span><span class="sxs-lookup"><span data-stu-id="0e6a8-123">**I want my users to register their additional security info for password reset**</span></span>
+
+1. <span data-ttu-id="0e6a8-124">Zachęć użytkowników do zarejestrowania swoich informacji zabezpieczających w celu samodzielnego resetowania hasła, przekieruj ich do [aka.ms/ssprsetup.](https://mysignins.microsoft.com/security-info)</span><span class="sxs-lookup"><span data-stu-id="0e6a8-124">Have your users register their security info for self service password reset by directing them to [aka.ms/ssprsetup](https://mysignins.microsoft.com/security-info).</span></span>
+1. <span data-ttu-id="0e6a8-125">Po wypełnieniu danych przez użytkownika (przez użytkownika lub administratora) [](https://passwordreset.microsoftonline.com/) przekieruj użytkownika do usługi aka.ms/sspr aby umożliwić użytkownikom resetowanie własnych haseł.</span><span class="sxs-lookup"><span data-stu-id="0e6a8-125">After data is populated for the user (by the user or by the admin), direct your user to [aka.ms/sspr](https://passwordreset.microsoftonline.com/) so your users can be empowered to reset their own passwords.</span></span>
+1. <span data-ttu-id="0e6a8-126">Jeśli użytkownicy nadal mają problemy, prawdopodobnie są to **użytkownicy federacyjni** lub zsynchronizowani **skrótami** haseł.</span><span class="sxs-lookup"><span data-stu-id="0e6a8-126">If users are still experiencing problems they are most likely **federated** or **password hash synched** users.</span></span> <span data-ttu-id="0e6a8-127">Oznacza to, że prawdopodobnie występuje problem z usługą zapisu hasła.</span><span class="sxs-lookup"><span data-stu-id="0e6a8-127">This means there is likely a problem with the Password Writeback service.</span></span>
