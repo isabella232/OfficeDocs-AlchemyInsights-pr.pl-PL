@@ -1,10 +1,10 @@
 ---
-title: Wdrażanie pakietu Office w przewodniku użytkownika
+title: Przewodnik dotyczący wdrażania pakietu Office u użytkowników
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
 ms.date: 12/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004198"
 - "7379"
-ms.openlocfilehash: 4eb1deb2326afc8cb7b54a7ee89cd5f8f7a540c9
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "2000022"
+- "871"
+ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679290"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448689"
 ---
-# <a name="deploy-office-to-your-users-guide"></a><span data-ttu-id="ee8cf-102">Wdrażanie pakietu Office w przewodniku użytkownika</span><span class="sxs-lookup"><span data-stu-id="ee8cf-102">Deploy Office to your users Guide</span></span>
+# <a name="deploy-office-to-your-users-guide"></a><span data-ttu-id="b46e0-102">Przewodnik dotyczący wdrażania pakietu Office u użytkowników</span><span class="sxs-lookup"><span data-stu-id="b46e0-102">Deploy Office to your users Guide</span></span>
 
-<span data-ttu-id="ee8cf-103">Wdrażanie aplikacji pakietu Office z poziomu chmury z możliwością dostosowywania instalacji przy użyciu narzędzia wdrażania pakietu Office.</span><span class="sxs-lookup"><span data-stu-id="ee8cf-103">Deploy Office apps from the cloud with the ability to customize your installation by using the Office Deployment Tool.</span></span>
+<span data-ttu-id="b46e0-103">Wdrażaj aplikacje pakietu Office w chmurze za pomocą funkcji dostosowywania instalacji za pomocą Narzędzia wdrażania pakietu Office.</span><span class="sxs-lookup"><span data-stu-id="b46e0-103">Deploy Office apps from the cloud with the ability to customize your installation by using the Office Deployment Tool.</span></span>
 
-<span data-ttu-id="ee8cf-104">Przewodnik "Rozmieszczanie pakietu Office dla użytkowników" pomaga utworzyć dostosowaną konfigurację pakietu Office z ustawieniami zaawansowanymi lub można użyć wstępnie zaprojektowanej zalecanej konfiguracji.</span><span class="sxs-lookup"><span data-stu-id="ee8cf-104">The "Deploy Office to your users" guide helps you create a customized Office configuration with advanced settings, or you can use a pre-built recommended configuration.</span></span> <span data-ttu-id="ee8cf-105">Niezależnie od tego, czy użytkownicy przeprowadzają samodzielną instalację, czy wdrażasz je indywidualnie lub zbiorczo, ten Kreator zaawansowany zawiera instrukcje krok po kroku umożliwiające użytkownikom instalację pakietu Office dostosowaną do Twojej organizacji.</span><span class="sxs-lookup"><span data-stu-id="ee8cf-105">Whether your users are conducting a self-install or you're deploying to your users individually or in bulk, this advanced wizard provides you with step-by-step instructions to give users an Office installation tailored to your organization.</span></span>
+<span data-ttu-id="b46e0-104">Przewodnik [Wdrażania pakietu Office](https://go.microsoft.com/fwlink/?linkid=2146451) u użytkowników ułatwia utworzenie dostosowanej konfiguracji pakietu Office z ustawieniami zaawansowanymi lub korzystanie z wstępnie wbudowanej konfiguracji zalecanej.</span><span class="sxs-lookup"><span data-stu-id="b46e0-104">The [Deploy Office to your users](https://go.microsoft.com/fwlink/?linkid=2146451) guide helps you create a customized Office configuration with advanced settings, or you can use a pre-built recommended configuration.</span></span> <span data-ttu-id="b46e0-105">Niezależnie od tego, czy użytkownicy przeprowadzają instalację samodzielną, czy wdrażasz ją u użytkowników pojedynczo, czy zbiorczo, ten zaawansowany kreator zawiera instrukcje krok po kroku, aby przekazać użytkownikom instalację pakietu Office dostosowaną do potrzeb organizacji.</span><span class="sxs-lookup"><span data-stu-id="b46e0-105">Whether your users are conducting a self-install or you're deploying to your users individually or in bulk, this advanced wizard provides you with step-by-step instructions to give users an Office installation tailored to your organization.</span></span>
