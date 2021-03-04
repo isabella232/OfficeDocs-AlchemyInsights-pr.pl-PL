@@ -1,10 +1,10 @@
 ---
-title: Wdrażanie pakietu Office w przewodniku użytkownika
+title: Przewodnik dotyczący wdrażania pakietu Office u użytkowników
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
 ms.date: 12/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004198"
 - "7379"
-ms.openlocfilehash: 4eb1deb2326afc8cb7b54a7ee89cd5f8f7a540c9
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "2000022"
+- "871"
+ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679290"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448689"
 ---
-# <a name="deploy-office-to-your-users-guide"></a>Wdrażanie pakietu Office w przewodniku użytkownika
+# <a name="deploy-office-to-your-users-guide"></a>Przewodnik dotyczący wdrażania pakietu Office u użytkowników
 
-Wdrażanie aplikacji pakietu Office z poziomu chmury z możliwością dostosowywania instalacji przy użyciu narzędzia wdrażania pakietu Office.
+Wdrażaj aplikacje pakietu Office w chmurze za pomocą funkcji dostosowywania instalacji za pomocą Narzędzia wdrażania pakietu Office.
 
-Przewodnik "Rozmieszczanie pakietu Office dla użytkowników" pomaga utworzyć dostosowaną konfigurację pakietu Office z ustawieniami zaawansowanymi lub można użyć wstępnie zaprojektowanej zalecanej konfiguracji. Niezależnie od tego, czy użytkownicy przeprowadzają samodzielną instalację, czy wdrażasz je indywidualnie lub zbiorczo, ten Kreator zaawansowany zawiera instrukcje krok po kroku umożliwiające użytkownikom instalację pakietu Office dostosowaną do Twojej organizacji.
+Przewodnik [Wdrażania pakietu Office](https://go.microsoft.com/fwlink/?linkid=2146451) u użytkowników ułatwia utworzenie dostosowanej konfiguracji pakietu Office z ustawieniami zaawansowanymi lub korzystanie z wstępnie wbudowanej konfiguracji zalecanej. Niezależnie od tego, czy użytkownicy przeprowadzają instalację samodzielną, czy wdrażasz ją u użytkowników pojedynczo, czy zbiorczo, ten zaawansowany kreator zawiera instrukcje krok po kroku, aby przekazać użytkownikom instalację pakietu Office dostosowaną do potrzeb organizacji.

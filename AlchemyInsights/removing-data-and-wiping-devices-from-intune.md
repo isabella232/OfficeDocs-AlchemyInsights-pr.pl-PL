@@ -1,36 +1,42 @@
 ---
-title: Usuwanie danych i wycieranie urządzeń z usługi Intune
+title: Usuwanie danych i czyszczenie urządzeń w usłudze Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1279"
 - "6700008"
-ms.openlocfilehash: efaf111f694ab57d0435b141a6d4baad58658ed2
-ms.sourcegitcommit: e34bb95fb93250f1dc7aec6a13578bb3bb355935
-ms.translationtype: MT
+- "9004638"
+- "8392"
+ms.openlocfilehash: cada3c6f1e7d1dcd576baa1245fb5a62ed938613
+ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440471"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416323"
 ---
-# <a name="removing-data-and-wiping-devices-from-intune"></a>Usuwanie danych i wycieranie urządzeń z usługi Intune
+# <a name="removing-data-and-wiping-devices-from-intune"></a>Usuwanie danych i czyszczenie urządzeń w usłudze Intune
 
-Akcje zdalne Dotyczące wycofywania urządzeń i czyszczenia urządzenia mogą służyć do usuwania danych firmowych zarządzanych przez usługę Intune lub do przywracania ustawień fabrycznych i przywracania ustawień domyślnych urządzenia.
+Zdalne akcje Wycofywanie urządzenia i Czyszczenie urządzenia mogą być używane do usuwania danych firmowych zarządzanych przez usługę Intune lub do zresetowania urządzenia do ustawień fabrycznych i przywrócenia ustawień domyślnych.
 
-1. Zaloguj się do zarządzania urządzeniami w usłudze Microsoft 365 i przejdź do **urządzenia**  >  **Wszystkie urządzenia**.
+1. Zaloguj się do usługi zarządzania urządzeniami na platformie Microsoft 365 i przejdź do opcji **Urządzenia** > **Wszystkie urządzenia**.
 2. Wybierz urządzenie, które chcesz wyczyścić.
-3. Wybierz typ zdalnego czyszczenia, które chcesz wykonać. Wycofanie powoduje usunięcie tylko informacji organizacji, a pełne czyszczenie przywraca urządzenie do ustawień fabrycznych.
-4. Wybierz **pozycję Tak,** aby potwierdzić. Dopóki czyszczenie nie zostanie wykończęce, stan akcji Urządzenie jest wyświetlany jako Oczekujące na wycofanie.</br>
-    Po zakończeniu akcji urządzenie przenośne nie będzie już widoczne na liście zarządzanych urządzeń.
+3. Wybierz wymagany typ zdalnego czyszczenia. Opcja Wycofywanie usuwa tylko informacje o organizacji, podczas gdy pełne czyszczenie przywraca urządzenie do ustawień fabrycznych.
+4. Wybierz pozycję **Tak**, aby potwierdzić. Do czasu ukończenia czyszczenia status akcji urządzenia wyświetla się jako *Wycofywanie w toku*.
+    Po zakończeniu akcji nie zobaczysz urządzenia przenośnego na liście urządzenia zarządzanego. 
 
-**Uwaga** Nie można usunąć danych firmy z urządzeń przyłączonych do usługi Azure AD.
+> [!NOTE]
+> Dane firmowe nie mogą zostać usunięte z urządzeń POŁĄCZONYCH z Microsoft Azure AD. 
 
-Aby uzyskać szczegółowe informacje na temat efektu akcji Wycofywanie i czyszczenie, w tym tego, co jest zachowywane i co jest usuwane, zobacz [Usuwanie urządzeń za pomocą czyszczenia, wycofywania lub ręcznego wyrejestrowywania urządzenia](https://docs.microsoft.com/intune/devices-wipe).
+Aby uzyskać szczegółowe informacje na temat skutków akcji wycofywania i czyszczenia, w tym to, co zostało zachowane, a co usunięte, zobacz następującą dokumentację:
 
-Aby wymazać wszystkie dane z urządzenia z systemem macOS, zobacz [Wymazywanie wszystkich danych z urządzenia z systemem macOS](https://docs.microsoft.com/intune/device-erase).
+- [Usuwanie urządzeń przy użyciu czyszczenia, wycofywania lub ręcznego wyrejestrowywania urządzenia](https://docs.microsoft.com/mem/intune/remote-actions/devices-wipe).
+- [Jak czyścić z aplikacji usługi Intune tylko dane firmowe](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
+- [Usuwanie wszystkich danych z urządzenia z systemem macOS](https://docs.microsoft.com/mem/intune/remote-actions/device-erase).

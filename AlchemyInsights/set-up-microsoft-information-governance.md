@@ -1,9 +1,10 @@
 ---
-title: Konfigurowanie zarządzania informacjami o firmie Microsoft
+title: Konfigurowanie zarządzania informacjami firmy Microsoft
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.audience: Admin
+ms.date: 03/02/2021
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004220"
 - "7428"
-ms.openlocfilehash: c404e541d54094c2189c38576399b1cbe04e32e2
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "9000273"
+- "9245"
+ms.openlocfilehash: 96fa4850636d9eb56fa91106bf5503c6eccb77ad
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679483"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448768"
 ---
-# <a name="set-up-microsoft-information-governance"></a>Konfigurowanie zarządzania informacjami o firmie Microsoft
+# <a name="set-up-microsoft-information-governance"></a>Konfigurowanie zarządzania informacjami firmy Microsoft
 
-[Przewodnik po konfiguracji zarządzania informacjami firmy Microsoft](https://admin.microsoft.com/AdminPortal/Home#/modernonboarding/migsetupguide) zawiera informacje potrzebne do skonfigurowania strategii zarządzania organizacji i zarządzania nią, aby zapewnić, że dane są klasyfikowane i zarządzane zgodnie z określonymi wytycznymi dotyczącymi cyklu życia.
+Przewodnik po konfiguracji zarządzania informacjami firmy [Microsoft](https://go.microsoft.com/fwlink/?linkid=2146529) zawiera informacje potrzebne do skonfigurowania strategii zarządzania organizacji i zarządzania nią w celu zapewnienia klasyfikowania danych i zarządzania nimi zgodnie z określonymi wytycznymi dotyczącymi cyklu życia.
 
-W tym przewodniku dowiesz się, jak tworzyć, automatycznie stosować lub publikować etykiety, zasady dotyczące etykiet i zasady przechowywania stosowane do zawartości do ponownego użycia w organizacji oraz do rekordów zgodności. Możesz również uzyskać informacje na temat importowania plików CSV z planem plików do scenariuszy zbiorczych lub ręcznego ich stosowania w poszczególnych dokumentach.
+W tym przewodniku dowiesz się, jak tworzyć, stosować automatycznie lub publikować etykiety, zasady etykiet i zasady przechowywania stosowane do zawartości i rekordów zgodności do ponownego użycia w organizacji. Będziesz również uzyskać informacje na temat importowania plików CSV z planem plików w scenariuszach zbiorczych lub ręcznym stosowaniu ich do poszczególnych dokumentów.
