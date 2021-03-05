@@ -1,37 +1,36 @@
 ---
-title: Kupowanie usługi Power BI
+title: Zakup usługi Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "4961"
-ms.openlocfilehash: 10fde333750415d17f42d75475b16dc802fd024c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 203f9899c2c3126878abb73c24ebbc031d867a6a
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693349"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469662"
 ---
 # <a name="purchase-power-bi"></a>Kupowanie usługi Power BI
 
-Usługa Power BI można zakupić w **centrum administracyjnym usługi Microsoft 365**.
+Usługę Power BI można kupić w centrum **administracyjnym platformy Microsoft 365.**
 
-1. Przejdź na stronę **płatności > [zakupu usług](https://go.microsoft.com/fwlink/p/?linkid=868433) ** .
-
+1. Przejdź do strony **> [zakup usług.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
 2. Użyj pola wyszukiwania, aby wyszukać "Power BI".
+3. Wybierz plan usługi Power BI, który chcesz kupić, wybierz pozycję **Szczegóły,** a następnie wybierz **pozycję Kup.**
+4. Wprowadź liczbę potrzebnych licencji i wybierz, czy chcesz płacić co miesiąc, czy za cały rok. Określ, czy chcesz automatycznie przypisywać licencje do każdego użytkownika, który obecnie nie ma licencji. Następnie wybierz **pozycję Wyewidencjlij teraz.**
+5. Przejrzyj informacje o cenach i wybierz przycisk **Dalej.**
+6. Podaj informacje o płatności, a następnie wybierz pozycję **Z place order** Go to Admin Home  >  (Przejdź do strony głównej **administratorów).**
 
-3. Wybierz plan usługi Power BI, który chcesz kupić.
+Aby przypisać licencje do użytkowników, zobacz ["Przypisywanie licencji do użytkowników".](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-4. Wybierz liczbę użytkowników, którzy będą korzystać z usługi Power BI.
-
-Aby przypisać licencje do użytkowników, zobacz [Przypisywanie licencji użytkownikom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-
-Aby kupić więcej licencji lub aby usunąć licencje, zobacz [Dodawanie/usuwanie licencji dla subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Aby kupić więcej licencji lub usunąć je, zobacz ["Kupowanie lub usuwanie licencji dla subskrypcji dla firm".](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

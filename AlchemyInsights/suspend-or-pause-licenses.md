@@ -1,5 +1,5 @@
 ---
-title: Wstrzymywanie lub wstrzymywanie licencji
+title: Zawieszanie lub wstrzymywanie licencji
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,21 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-ms.openlocfilehash: 355d83a5d99c079e5487a663f43b1155fa6f40b8
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+- commerce
+ms.openlocfilehash: b1cd19b7a3db161fcdb0d64972e6fd06b259b61b
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488927"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50470016"
 ---
-# <a name="suspend-or-pause-licenses"></a>Wstrzymywanie lub wstrzymywanie licencji
+# <a name="suspend-or-pause-licenses"></a>Zawieszanie lub wstrzymywanie licencji
 
-Aby tymczasowo wstrzymać lub wstrzymać korzystanie z licencji, możesz usunąć licencje z centrum administracyjnego usługi Microsoft 365, a następnie dodać je ponownie w późniejszym czasie.
+**OBEJRZYJ klip wideo,** w który pokazano, jak to zrobić: [usuwanie istniejących licencji](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-1. Przed usunięciem licencji z subskrypcji musisz najpierw [cofnąć przypisanie licencji użytkownikom](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
-2. Następnie przejdź do strony **rozliczanie**  >  [produktów](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-3. Na karcie **produkty** wybierz subskrypcję, którą chcesz zaktualizować.
-4. Na stronie Szczegóły subskrypcji wybierz pozycję **Usuń licencje**.
-5. W okienku **Usuwanie licencji** w polu łączna liczba **licencji** wprowadź całkowitą liczbę licencji dla tej subskrypcji, a następnie wybierz pozycję **Zapisz**. Jeśli na przykład masz licencje 100 i chcesz zawiesić lub wstrzymać 25, wprowadź 75 jako łączną liczbę licencji dla abonamentu.
+Aby tymczasowo zawiesić lub wstrzymać użycie licencji, możesz usunąć licencje z centrum administracyjnego platformy Microsoft 365, a następnie dodać je ponownie w późniejszym czasie.
 
-Aby uzyskać więcej informacji, zobacz [Zarządzanie licencjami subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+1. Przed usunięciem licencji z subskrypcji należy najpierw anulować przypisanie licencji [użytkownikom.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)
+2. Następnie przejdź do strony **Rozliczenia**  >  [produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+3. Na karcie **Produkty** wybierz subskrypcję, którą chcesz zaktualizować.
+4. Na stronie szczegółów subskrypcji wybierz pozycję **Usuń licencje.**
+5. W **okienku Usuwanie** licencji  w polu Łączna liczba licencji wprowadź łączną liczbę licencji dla tej subskrypcji, a następnie wybierz pozycję **Zapisz.** Jeśli na przykład masz 100 licencji i chcesz zawiesić lub wstrzymać 25, wprowadź liczbę 75 jako łączną liczbę licencji dla subskrypcji.
+
+Aby uzyskać więcej informacji, [zobacz Kupowanie lub usuwanie licencji.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
