@@ -1,5 +1,5 @@
 ---
-title: Środowisko badawcze aplikacji Microsoft Teams
+title: Środowisko eksploracyjne aplikacji Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "9001513"
 - "3572"
 - "7228"
-ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
-ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
+ms.openlocfilehash: 1402f0f0e65fcc4201e65f2a8d1c3b09c12a0023
+ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49019557"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50480729"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Środowisko badawcze aplikacji Microsoft Teams
+# <a name="microsoft-teams-exploratory-experience"></a>Środowisko eksploracyjne aplikacji Microsoft Teams
 
-- Co to są [zespoły](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Środowisko badawcze Microsoft Teams pozwala użytkownikom w organizacji, którzy nie mają licencji na korzystanie z aplikacji Teams, inicjować doświadczenie w zakresie połowów. Aby uzyskać więcej informacji, zobacz [co to jest w doświadczeniu badawczym w zespołach](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
-- [Kiedy moja licencja utraci ważność](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? Korzystanie z usługi badawczej Microsoft Teams jest dostępne bez dodatkowych kosztów do czasu następnego lub odnowienia umowy w dniu lub po upływie stycznia 2021.
-- Jako administrator możesz [uaktualnić użytkowników z licencji zespołu badawczego](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) przez wykupienie abonamentu obejmującego zespoły, usunięcie z użytkownika abonamentu badawczego zespołu, a następnie przypisanie nowo zakupionej licencji.
-- Aby uzyskać więcej informacji, zobacz [Zarządzanie licencją na rybołówstwo zespołu.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
+- Co to [jest eksploratorzy zespołów?](https://docs.microsoft.com/microsoftteams/teams-exploratory) Środowisko eksploracyjne usługi Microsoft Teams umożliwia użytkownikom w Twojej organizacji, którzy nie mają licencji na usługę Teams, inicjowanie eksploratorów aplikacji Teams. Aby uzyskać więcej informacji, zobacz, co [zawiera środowisko eksploracyjne](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)teams.
+- [Jak długo trwa eksploracyjny program Teams?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) Środowisko eksploracyjne aplikacji Microsoft Teams jest dostępne bez dodatkowych kosztów przez 12 miesięcy (od pierwszego konta użytkownika) oraz dodatkowy 30-dniowy okres prolongaty.
+- Jako administrator, możesz uaktualnić użytkowników z licencji [Teams Exploratory,](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) kupując subskrypcję, która obejmuje usługę Teams, usuwając subskrypcję eksploracyjną aplikacji Teams z użytkownika i przypisując nowo kupioną licencję.
+- Aby uzyskać więcej informacji, zobacz [Zarządzanie licencją Teams Exploratory.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
