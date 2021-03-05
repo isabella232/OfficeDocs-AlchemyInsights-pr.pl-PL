@@ -1,9 +1,8 @@
 ---
-title: Umowa Enterprise licencjonowania zbiorowego aktywowana na nieprawidłowym koncie
+title: Umowa Enterprise — licencjonowanie zbiorowe aktywowana dla niewłaściwego konta
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "463"
 - "1500021"
-ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: 4b432de983f1a4b0130c6f4daa4fb16a2e7307b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 4a53be17f77b0aac20140848d8fce0a510bda246
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726137"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468916"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="2e142-102">Umowa Enterprise licencjonowania zbiorowego aktywowana na nieprawidłowym koncie lub przekazywanie licencji z jednego konta do innego</span><span class="sxs-lookup"><span data-stu-id="2e142-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="dce39-102">Aktywowanie umowy Enterprise dotyczącej licencjonowania zbiorowego na niewłaściwym koncie lub przenoszenie licencji między kontami</span><span class="sxs-lookup"><span data-stu-id="dce39-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
 
-<span data-ttu-id="2e142-103">Jeśli znajdziesz abonamenty zakupione za pośrednictwem **umowy Enterprise licencjonowania zbiorowego** w **niewłaściwej dzierżawie**lub chcesz **przenieść licencje** z jednej dzierżawy do innej, skontaktuj się z [centrum usług licencjonowania zbiorowego firmy Microsoft](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).</span><span class="sxs-lookup"><span data-stu-id="2e142-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please contact the [Microsoft Volume Licensing Service Center](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).</span></span>
+<span data-ttu-id="dce39-103">Jeśli twoje subskrypcje kupione w ramach umowy **Enterprise** dotyczącej licencjonowania zbiorowego zostały  aktywowane w niewłaściwej dzierżawie lub chcesz przenieść licencje między dzierżawami, skontaktuj się z pomocą  [techniczną.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)</span><span class="sxs-lookup"><span data-stu-id="dce39-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please [contact support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products).</span></span>
