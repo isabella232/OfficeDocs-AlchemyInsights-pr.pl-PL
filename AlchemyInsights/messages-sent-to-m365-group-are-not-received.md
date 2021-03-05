@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003200"
 - "5995"
-ms.openlocfilehash: 39a4f8115a4742947b3e6394396be5ce3b01e772
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: d222eb92d806bad52264139a8ddba72f323b3783
+ms.sourcegitcommit: 10cfd9d552b0d8a096bcef34e82c04a4c166a13a
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430693"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50479463"
 ---
 # <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a>Wiadomości wysyłane do grupy usługi Microsoft 365 nie są odbierane przez wszystkich członków
 
@@ -30,3 +30,7 @@ Aby sprawdzić stan wiadomości członków, którzy zasubskrybowali grupowe wiad
 Użyj następującego polecenia EXO programu PowerShell, aby skonfigurować odbieranie wiadomości e-mail wysyłanych do grupy usługi Microsoft 365 w skrzynkach odbiorczych wszystkich członków:
 
 `$Group = "Address of [Microsoft 365 Groups]"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
+
+Przykład:
+
+`$Group = "testg@contoso.onmicrosoft.com"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
