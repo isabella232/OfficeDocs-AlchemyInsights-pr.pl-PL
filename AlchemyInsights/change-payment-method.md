@@ -9,23 +9,22 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- commerce
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: 28ea821446a563650121f80fdfe1b81604b276b6
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: ca0ebe741babe1c2177bfbc072a948143d1afe9b
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152436"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601161"
 ---
 # <a name="change-payment-method"></a>Zmienianie formy płatności
 
 Metodę płatności możesz zmienić w centrum **administracyjnym platformy Microsoft 365.**
   
 1. W centrum administracyjnym przejdź do strony Rozliczenia i &  >    >  [płatności.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
-2. Wybierz wiersz metody płatności, która ma zostać zastąpiona. W prawym okienku zostanie lista wszystkich profilów rozliczeniowych i poszczególnych subskrypcji, które korzystają z wybranej metody płatności.
+2. Wybierz wiersz metody płatności, która ma zostać zastąpiona. W prawym okienku jest lista wszystkich profilów rozliczeniowych i poszczególnych subskrypcji, które korzystają z wybranej metody płatności.
 3. W prawym okienku wybierz pozycję **Zamień metodę płatności dla wszystkich elementów.**
 4. Aby użyć istniejącej metody płatności, wybierz ją z listy rozwijanej, a następnie wybierz pozycję **Zamień.**
     > [!NOTE]
