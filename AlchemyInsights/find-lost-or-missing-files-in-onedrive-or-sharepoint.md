@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 1d615bf8dc16528d9cbf283672225364aaae9949
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa0cd1e4d5e89b9fb601c37030440bdfd2b66260
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708549"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708432"
 ---
 # <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Znajdowanie utraconych lub brakujących plików w usłudze OneDrive lub programie SharePoint
 
-- Sprawdź kosz, przeglądając folder OneDrive lub witrynę programu SharePoint w sieci Web i klikając pozycję kosz w lewym okienku. (Jeśli nie widzisz opcji kosz w okienku po lewej stronie, kliknij ikonę Ustawienia, a następnie wybierz pozycję **zawartość witryny**). **Kosz** znajduje się po prawej stronie paska poleceń u góry. 
+- Sprawdź Kosz, przeglądając usługę OneDrive lub witrynę programu SharePoint w sieci Web i klikając Pozycję Kosz w okienku po lewej stronie. (Jeśli Kosz nie jest wyświetlony w okienku po lewej stronie, kliknij ikonę Ustawienia, a następnie wybierz **pozycję Zawartość witryny.** **Kosz znajduje** się po prawej stronie paska poleceń u góry). 
     
-- Jeśli synchronizacja plików na komputerze jest synchronizowana, sprawdź kosz na komputerze. 
+- Jeśli synchronizujesz pliki na komputerze, sprawdź Kosz na komputerze. 
     
-- Jeśli nie widzisz szukanego elementu, który został ostatnio usunięty, administrator zbioru witryn może przywrócić go z kosza zbioru witryn. Jeśli jesteś administratorem zbioru witryn, zobacz [Przywracanie usuniętych elementów z kosza zbioru witryn](https://go.microsoft.com/fwlink/?linkid=866439).
+- Jeśli nie widzisz elementu, którego szukasz, a został on ostatnio usunięty, administrator zbioru witryn może go przywrócić z Kosza zbioru witryn. Jeśli jesteś administratorem zbioru witryn, zobacz Przywracanie usuniętych elementów [z Kosza zbioru witryn.](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
     
 [Więcej pomocy dotyczącej przywracania usuniętych plików i folderów w usłudze OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
   

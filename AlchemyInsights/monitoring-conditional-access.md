@@ -11,35 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "9003769"
 - "6702"
-ms.openlocfilehash: 0687875a3714067e774872d02630564858d71d1b
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: c3bf5dd9066685af2df7ba50f0eb3ba6e891c2a9
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366438"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708684"
 ---
 # <a name="monitoring-conditional-access-for-exchange"></a>Monitorowanie dostępu warunkowego dla programu Exchange
 
-Użytkownicy ukierunkowany na dostęp warunkowy otrzymają powiadomienie pocztą e-mail, jeśli nie spełnią wymagań organizacji dotyczących dostępu. W celu rozwiązania problemu zalecamy co najmniej jedno z następujących rozwiązań:
+Użytkownicy z dostępem warunkowym otrzymają powiadomienie e-mail, jeśli nie spełniają wymagań dotyczących dostępu do organizacji. Aby rozwiązać problem, zalecamy co najmniej jedno z następujących rozwiązań:
 
-- Jeśli urządzenie jest uważane za zarejestrowane, zaleca się, aby użytkownik przeszedł do aplikacji Portal firmy i upewnić się, że jest wyświetlany w portalu firmy. Jeśli nie, użytkownik powinien zarejestrować urządzenie.
-- W portalu Azure przejdź do usługi Intune > Device. W obszarze Monitor kliknij pozycję Zgodność urządzenia. Wyświetl raport zgodności urządzenia, aby sprawdzić, czy urządzenie użytkownika jest oznaczone jako zgodne.
-- W portalu Azure przejdź do usługi Intune > Device. W obszarze Zarządzanie kliknij pozycję zasady. Na liście zasad zgodności Sprawdź, czy profil jest przypisany do urządzenia użytkownika. Jeśli żaden profil nie jest przypisany, usługa Intune nie będzie mogła potwierdzić stanu zgodności urządzenia.
-- Edytowanie przydziału dostępu warunkowego użytkownika.
+- Jeśli urządzenie powinno zostać zarejestrowane, zasuń użytkownika do aplikacji Portal firmy i sprawdź, czy jest ono widoczne w portalu firmy. Jeśli tak się nie stanie, użytkownik powinien zarejestrować urządzenie.
+- W portalu Azure przejdź do usługi Intune > zgodności urządzenia. W obszarze Monitorowanie kliknij pozycję Zgodność urządzenia. Wyświetl raport zgodności urządzenia, aby sprawdzić, czy urządzenie użytkownika jest zgodne.
+- W portalu Azure przejdź do usługi Intune > zgodności urządzenia. W obszarze Zarządzanie kliknij pozycję Zasady. Na liście zasad zgodności sprawdź, czy profil jest przypisany do urządzenia użytkownika. Jeśli nie przypisano żadnego profilu, usługa Intune nie będzie mogła potwierdzić stanu zgodności urządzenia.
+- Edytuj przypisanie dostępu warunkowego użytkownika.
 
-1. W portalu Azure Portal przejdź do **Intune**  >  **zasad dostępu warunkowego**usługi Intune  >  **Policies**.
-2. Wybierz zasadę z listy.
+1. W portalu Azure przejdź do zasad **dostępu**  >    >  **warunkowego usługi Intune.**
+2. Wybierz zasady z listy.
 3. Kliknij pozycję Użytkownicy i grupy.
-4. Aby określić zasady jako docelowe dla określonej osoby, Dodaj je do listy dołączania. Aby upewnić się, że dana osoba zostanie pominięta w zasadach, Dodaj je do listy wykluczania.
+4. Aby zasady dotyczące określonej osoby dotyczyły określonej osoby, dodaj ją do listy Uwzględnij. Aby mieć pewność, że dana osoba zostanie pominięta w zasadach, dodaj ją do listy Wyklucz.
 
-Pomocne linki:
+Przydatne linki:
 
 [Omówienie zgodności urządzeń](https://docs.microsoft.com/intune/device-compliance-get-started)
 
-[Rozwiązywanie problemów dotyczących urzędu certyfikacji](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+[Rozwiązywanie problemów z urzędu certyfikacji](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Zasady rozwiązywania problemów](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[Zasady rozwiązywania problemów](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
-[Monitorowanie zgodności urządzenia usługi Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+[Monitorowanie zgodności urządzenia w usłudze Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-Uwaga: te czynności są pomocne tylko w rozwiązywaniu problemów z funkcją dostęp warunkowy usługi Azure Active Directory. Możliwe jest również poddawanie kwarantannie urządzenia blokującego dostęp do poczty e-mail za pomocą zasad programu Exchange. Więcej informacji na temat zarządzania urządzeniami programu Exchange można znaleźć [tutaj](<https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141>).
+Uwaga: te kroki są pomocne tylko podczas rozwiązywania problemów z dostępem warunkowym funkcji usługi Azure Active Directory. Za pomocą zasad programu Exchange można także poddać kwarantannie urządzenie, które blokuje dostęp do poczty e-mail. Więcej informacji na temat zarządzania urządzeniami z programem Exchange można znaleźć [tutaj]( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .

@@ -1,5 +1,5 @@
 ---
-title: 1:1 rozmowy telefoniczne
+title: Nagrywanie rozmów 1:1
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: cab6f1cb79c88ca4fad53dcc8970ca37b507eae3
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
+ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722110"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50733859"
 ---
-# <a name="11-call-recording"></a>1:1 rozmowy telefoniczne
+# <a name="11-call-recording"></a>Nagrywanie rozmów 1:1
 
-1:1 zmiany zasad rejestrowania rozmów w usłudze Teams są już wkrótce. Aby uzyskać więcej informacji, zobacz następujący wpis w centrum wiadomości:
+Administratorzy muszą teraz podjąć działania, aby nadal zezwalać użytkownikom na nagrywanie rozmów 1:1.
+ 
+Począwszy od 12 kwietnia 2021 r., zaczniemy wymuszać nową opcję zasad połączeń usługi Teams *AllowCloudRecordingForCalls.* 
 
-[1:1 wprowadzenie zasad rejestrowania rozmów](https://admin.microsoft.com/AdminPortal/Home)
+Obecnie możliwości nagrywania rozmów 1:1 są kontrolowane przez opcję *AllowCloudRecording* w zasadach spotkania usługi Teams. Jeśli użytkownicy mogą nagrywać spotkania w aplikacji Teams, mogą również nagrywać połączenia 1:1.
+
+Jeśli wolisz zablokować wszystkim użytkownikom nagrywanie rozmów 1:1, nie musisz nic robić. *Opcja zasad połączeń AllowCloudRecordingForCalls* zostanie domyślnie $False domyślne.
+
+Tę zmianę oprowadzono w następującym wpisie w Centrum wiadomości: (Zaktualizowano) Wprowadzenie do zasad nagrywania połączeń [(1:1)](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) Aby ustawić opcję zasad połączeń aplikacji Teams, należy użyć [programu Teams PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-install)
+
+Aby włączyć rejestrowanie połączeń w połączeniach **1:1:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True
+
+Aby wyłączyć rejestrowanie połączeń w połączeniach **1:1:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False
+

@@ -14,21 +14,21 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: 3d140de70a96864ff0042b3b505335163bf80a2e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220495332098cf700afa429f36749e71668f2d5d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699385"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709296"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Aktualizowanie rekordów DNS w celu zachowania witryny sieci Web u obecnego dostawcy hostingu
 
-W ramach procesu przenoszenia publicznej witryny sieci Web programu Microsoft 365 do innego dostawcy hostingu może być konieczne wprowadzenie zmian w rekordach domeny.
+W ramach procesu przenoszenia publicznej witryny internetowej platformy Microsoft 365 do innego dostawcy hostingu prawdopodobnie trzeba będzie wprowadzić zmiany w rekordach domeny.
   
-1. W centrum administracyjnym przejdź do pozycji **Setup** \> **domeny** konfiguracji i wybierz nazwę domeny, którą chcesz zmienić.
+1. W centrum administracyjnym przejdź do strony **Konfigurowanie** domen i wybierz nazwę domeny, \>  którą chcesz zmienić.
 
-2. Wprowadź informacje, które są wyrównywane do witryny sieci Web u nowego dostawcy hostingu.
+2. Wprowadź informacje zgodne z twoją witryną sieci Web u nowego dostawcy hostingu.
 
-Aby dowiedzieć się więcej, zobacz [aktualizowanie rekordów DNS w celu zachowania witryny sieci Web u bieżącego dostawcy hostingu](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provide).
+Aby dowiedzieć się więcej, zobacz Aktualizowanie rekordów DNS w celu [zachowania witryny internetowej u obecnego dostawcy hostingu.](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide)
   
-Aby dowiedzieć się więcej o zaniechaniu witryny publicznej, zobacz [publiczne witryny sieci Web usługi SharePoint Online, które mają zostać wycofane](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).
+Aby dowiedzieć się więcej o wycofaniu witryny publicznej, zobacz wycofanie publicznych witryn internetowych usługi [SharePoint Online.](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)

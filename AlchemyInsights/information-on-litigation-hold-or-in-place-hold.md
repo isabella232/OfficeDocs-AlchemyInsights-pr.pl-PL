@@ -1,5 +1,5 @@
 ---
-title: Informacje na temat postępowania sądowego lub zatrzymywania miejscowego
+title: Informacje dotyczące postępowania sądowego lub trzymania w miejscu
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,24 +10,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 3c0681b8e031f1a060a5c400f9c10760f33749e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08579c3cf887de649480480856ba42478d488a0a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755465"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709332"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>Informacje o archiwach sporów i archiwach miejscowych
+# <a name="about-litigation-holds-and-in-place-holds"></a>Informacje o postępowaniach sądowych i blokadych w miejscu
 
-- Aby można było zastosować do skrzynki pocztowej blokadę sporną lub zamiejscową, wymagana jest [Licencja Exchange Online plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Jeśli masz inny plan, przypisz osobną licencję [usługi Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) do konta. 
+- Aby zastosować do skrzynki pocztowej zawieszenie w związku z postępowaniem sądowym lub zawieszenie w miejscu, wymagana jest licencja [usługi Exchange Online (plan 2).](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Jeśli masz inny plan, przypisz do konta osobną licencję [usługi Exchange Online Archiving.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) 
     
-- **Aby włączyć przechowywanie sporów sądowych** dla jednego użytkownika, postępuj zgodnie z przedstawionymi [tu](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)instrukcjami. W przypadku włączenia blokady sądowej cała zawartość skrzynki pocztowej jest umieszczana w blokadzie.
+- **Aby włączyć zawieszenie w związku z** postępowaniem sądowym dla jednego użytkownika, wykonaj opisane tutaj [czynności.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold) Gdy jest włączone zawieszenie w związku z postępowaniem sądowym, cała zawartość skrzynki pocztowej jest umieszczana w miejscu.
     
-- Aby zastosować **blokadę w miejscu dla pojedynczych użytkowników** lub do **wszystkich skrzynek pocztowych w całej organizacji**, możesz skorzystać z zasad przechowywania w centrum zabezpieczeń i zgodności programu Microsoft 365, postępując zgodnie z przedstawionymi [tu]( https://docs.microsoft.com/microsoft-365/compliance/retention-policies)instrukcjami.
+- Aby zastosować  wstrzymanie w miejscu do pojedynczych użytkowników lub do wszystkich skrzynek pocztowych w całej **organizacji,** możesz użyć zasad przechowywania w Centrum zabezpieczeń i zgodności platformy Microsoft 365, korzystając z procedury opisanej [poniżej.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     
     > [!NOTE]
-    > W przypadku zasad przechowywania dla całej organizacji nowi użytkownicy zostaną automatycznie dodani do blokady. 
+    > W przypadku zasad przechowywania dla całej organizacji nowi użytkownicy zostaną automatycznie dodani do zawieszonego oprogramowania. 
   
-- Aby wyświetlić lub odkryć zawartość skrzynki pocztowej zawieszonej, użyj funkcji **wyszukiwania i eksportowania zbierania elektronicznych materiałów dowodowych**. Aby uzyskać informacje na temat korzystania z **wyszukiwania i eksportu zbierania elektronicznych materiałów dowodowych**, postępuj zgodnie z przedstawionymi [tu](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)instrukcjami.
+- Aby wyświetlić lub odnaleźć zawartość skrzynki pocztowej, która znajduje się w hold, użyj funkcji wyszukiwania i **eksportowania zbierania** elektronicznych materiałów dowodowych. Aby uzyskać informacje na temat korzystania z funkcji wyszukiwania i eksportowania **zbierania** elektronicznych materiałów dowodowych, wykonaj opisane tutaj [czynności.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
     
 

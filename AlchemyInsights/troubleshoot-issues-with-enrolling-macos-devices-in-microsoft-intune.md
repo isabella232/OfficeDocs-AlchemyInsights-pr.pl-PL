@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z rejestrowaniem urządzeń macOS w usłudze Microsoft Intune
+title: Rozwiązywanie problemów z zarejestrowaniem urządzeń z systemem macOS w usłudze Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,22 @@ ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.custom:
 - "781"
 - "6200002"
-ms.openlocfilehash: 485615a706d574076f103973e09539d71498e457
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1dc43348237784e9e34273cd467aaba00269aed4
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699817"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708936"
 ---
-# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Rozwiązywanie problemów z rejestrowaniem urządzeń macOS w usłudze Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Rozwiązywanie problemów z zarejestrowaniem urządzeń z systemem macOS w usłudze Microsoft Intune
 
-Zapoznaj się z wymienionymi poniżej zasobami, aby rozwiązać problem teraz.
+Przejrzyj zasoby wymienione poniżej, aby teraz rozwiązać problem.
   
-1. Skorzystaj z [portalu usługi Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) , aby zdiagnozować i rozwiązać typowe błędy rejestracji. Przejrzyj [ten dokument](https://docs.microsoft.com/intune/help-desk-operators) , aby uzyskać więcej szczegółowych informacji.
+1. Użyj [portalu rozwiązywania problemów Intune,](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) aby zdiagnozować i rozwiązać typowe błędy rejestracji. Przejrzyj [ten dokument,](https://docs.microsoft.com/intune/help-desk-operators) aby uzyskać więcej informacji.
 
-2. Przejrzyj [ten dokument](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) , aby zapoznać się z listą typowych błędów, które uniemożliwiają rejestrowanie i rozwiązywanie problemów.
+2. Przejrzyj [ten dokument,](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) aby uzyskać listę typowych błędów, które uniemożliwiają rejestrację i rozwiązanie każdego z nich.
 
-3. [Dowiedz się, jak zarejestrować urządzenia macOS w usłudze Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).
+3. [Dowiedz się, jak zarejestrować urządzenia macOS w usłudze Microsoft Intune.](https://docs.microsoft.com/intune/macos-enroll)
 
-[Zobacz przewodnik po użytkowniku końcowym, aby zarejestrować urządzenie macOS w usłudze Microsoft Intune](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[Zapoznaj się z podręcznikiem użytkownika końcowego, aby zarejestrować urządzenie macOS w usłudze Microsoft Intune](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   

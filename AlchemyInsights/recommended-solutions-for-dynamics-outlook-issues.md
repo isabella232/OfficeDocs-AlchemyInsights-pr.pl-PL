@@ -1,5 +1,5 @@
 ---
-title: Zalecane rozwiązania problemów z magazynowaniem w usłudze Dynamics 365
+title: Zalecane rozwiązania problemów dotyczących magazynu usługi Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -14,31 +14,31 @@ ms.custom:
 - "1451"
 - "1452"
 - "6200008"
-ms.openlocfilehash: 8f8d318c6c1f07342241bf71aab8fd8148e3a9d4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 5a1c95907a7e9a3287fa9be467d4eb45602c7abe
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086130"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708828"
 ---
-# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Zalecane rozwiązania problemów z magazynowaniem w usłudze Dynamics 365
+# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Zalecane rozwiązania problemów dotyczących magazynu usługi Dynamics 365
 
-* [Aplikacja: Brak wyników wyszukiwania zwróconych w odniesieniu do odnośników](https://support.microsoft.com/help/4489111)
+* [Aplikacja: w wyszukiwaniu Dotyczące nie są zwracane żadne wyniki wyszukiwania](https://support.microsoft.com/help/4489111)
 
-* [Aplikacja: podczas otwierania aplikacji dla programu Outlook jest wyświetlany błąd](https://go.microsoft.com/fwlink/p/?linkid=2007021)
+* [Aplikacja: Podczas otwierania aplikacji dla programu Outlook pojawia się błąd](https://go.microsoft.com/fwlink/p/?linkid=2007021)
 
-* [Aplikacja: adres E-mail lub termin jest wyświetlany jako "Oczekiwanie na śledzenie"](https://go.microsoft.com/fwlink/p/?linkid=2007022)
+* [Aplikacja: Wiadomość e-mail lub termin jest wyświetlany jako "Śledź oczekujące"](https://go.microsoft.com/fwlink/p/?linkid=2007022)
 
-* [Aplikacja: podczas otwierania aplikacji dla programu Outlook jest wyświetlana pusta strona](https://go.microsoft.com/fwlink/p/?linkid=2007128)
+* [Aplikacja: Podczas otwierania aplikacji dla programu Outlook jest wyświetlana pusta strona](https://go.microsoft.com/fwlink/p/?linkid=2007128)
 
-* [Pełny klient: nie można połączyć D365 dla programu Outlook w wersji 8. x z wersją 9. x D365](https://go.microsoft.com/fwlink/p/?linkid=2007023)
+* [Pełny klient: Nie można połączyć usługi D365 dla programu Outlook w wersji 8.x z wystąpieniem wersji 9.x D365](https://go.microsoft.com/fwlink/p/?linkid=2007023)
 
-* [Pełny klient: "Oczekiwanie na pobranie strony z serwera CRM..." pojawi się komunikat](https://go.microsoft.com/fwlink/p/?linkid=2007129)
+* [Pełny klient: "Oczekiwanie na pobranie strony z serwera CRM..." zostanie wyświetlony komunikat](https://go.microsoft.com/fwlink/p/?linkid=2007129)
 
-* [Klient pełny: diagnozowanie problemów z programem Outlook D365](https://go.microsoft.com/fwlink/p/?linkid=2007024)
+* [Pełny klient: diagnozowanie problemów z programem Outlook przez usługę D365](https://go.microsoft.com/fwlink/p/?linkid=2007024)
 
-* [Aplikacja: Rozwiązywanie problemów z aplikacją D365 dla programu Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
+* [Aplikacja: rozwiązywanie problemów z aplikacją D365 dla programu Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
 
-* [Aplikacja: sposób wdrażania](https://go.microsoft.com/fwlink/p/?linkid=85)
+* [Aplikacja: jak wdrożyć](https://docs.microsoft.com/dynamics365/outlook-app/deploy-dynamics-365-app-for-outlook)
 
-* [Aplikacja: Przewodnik użytkownika](https://go.microsoft.com/fwlink/p/?linkid=857091)
+* [Aplikacja: Podręcznik użytkownika](https://go.microsoft.com/fwlink/p/?linkid=857091)
