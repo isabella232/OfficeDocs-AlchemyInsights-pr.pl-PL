@@ -3,8 +3,8 @@ title: Problemy z adresem URL serwera proxy aplikacji
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/25/2021
-ms.audience: Admin
+ms.date: 03/10/2021
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "7743"
 - "9004338"
-ms.openlocfilehash: 44c9f5d7970286cd0a8419b911f5c3e287fdfd70
-ms.sourcegitcommit: 28a79ef23c4a510397f4a8339ac2c5ff70eec713
-ms.translationtype: MT
+- "9199"
+- "9004356"
+ms.openlocfilehash: 7334a0998ca30ba6957f3f15f3a6f40f8d683dda
+ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50036043"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50641492"
 ---
 # <a name="application-proxy-url-issues"></a>Problemy z adresem URL serwera proxy aplikacji
 
 Aby rozwiązać problemy związane z adresem URL serwera proxy aplikacji, zobacz:
 
-- [Linki na stronie](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem)  nie działają w przypadku aplikacji application proxy — wskazówki dotyczące rozwiązywania problemów z tym, dlaczego linki w Twojej aplikacji proxy usługi Azure Active Directory (AD) nie działają poprawnie.
+- [Linki na stronie nie działają w przypadku aplikacji serwera proxy aplikacji](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem)  - Wskazówki dotyczące rozwiązywania problemów, dlaczego linki w aplikacji serwera proxy usługi Azure Active Directory (AD) nie działają poprawnie.
 
-- [Konfigurowanie domen niestandardowych za pomocą serwera proxy aplikacji](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)  usługi Azure AD — informacje na temat tworzenia zewnętrznego adresu URL dla użytkowników.
+- [Skonfiguruj domeny niestandardowe za pomocą serwera proxy aplikacji usługi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)  - Informacje na temat tworzenia zewnętrznego adresu URL dla użytkowników.
 
-- [Przekierowywanie linków kodów twardych dla aplikacji opublikowanych](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)  za pomocą serwera proxy aplikacji usługi Azure AD — informacje na temat tłumaczenia adresów URL w tekście
+- [Przekieruj na stałe zakodowane linki do aplikacji opublikowanych za pomocą serwera proxy aplikacji usługi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)  - Informacje o tłumaczeniu wbudowanych adresów URL
+
+- [Ustaw niestandardową stronę główną dla opublikowanych aplikacji przy użyciu serwera proxy aplikacji usługi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page#change-the-home-page-in-the-azure-portal) - Podczas publikowania aplikacji za pomocą serwera proxy aplikacji można ustawić wewnętrzny adres URL, ale czasami nie jest to strona, którą użytkownicy powinni zobaczyć jako pierwsza.. Ustaw niestandardową stronę główną, aby użytkownicy mieli dostęp do właściwej strony po uzyskaniu dostępu do aplikacji. Użytkownicy zobaczą ustawioną niestandardową stronę główną, niezależnie od tego, czy uzyskują dostęp do aplikacji z poziomu Moje aplikacje usługi Azure Active Directory, czy z modułu uruchamiania platformy Microsoft 365.
+
+- Masz pytania dotyczące konfiguracji adresu URL serwera proxy aplikacji? Zobacz [Dodawanie aplikacji lokalnej do usługi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application#add-an-on-premises-app-to-azure-ad).
+ 
 

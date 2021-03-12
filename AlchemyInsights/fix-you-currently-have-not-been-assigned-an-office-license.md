@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: cf7bb0209d07ec5ccf3f06c395ca170c8d7381e3
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010192"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704868"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Rozwiązanie – „Nie masz przypisanej licencji pakietu Office”
 
 Aby zainstalować aplikacje klienta pakietu Office, upewnij się, że masz subskrypcję usługi Office 365 lub Microsoft 365 [zawierającą aplikacje klienckie pakietu Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), np. Microsoft 365 Business Premium, Aplikacje Microsoft 365 dla firm lub Aplikacje Microsoft 365 dla przedsiębiorstw.
 
-**Uwaga**: [Office dla użytkowników domowych i małych firm](https://products.office.com/home-and-business) jest produktem [Office dla użytkowników domowych](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) i nie jest częścią subskrypcji dla firm. Usługa Project Online Essentials nie obejmuje wersji klasycznej programu Project, a więc instalacja nie jest wymagana. Użytkownicy planu Visio 1 mogą korzystać z programu Visio w sieci Web, ponieważ ten plan nie zawiera aplikacji klasycznej Visio. Aplikacje klasyczne programów Project i Visio nie są dostępne na komputerach Mac
+**Uwaga**: [Office dla użytkowników domowych i małych firm](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) jest produktem [Office dla użytkowników domowych](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) i nie jest częścią subskrypcji dla firm. Usługa Project Online Essentials nie obejmuje wersji klasycznej programu Project, a więc instalacja nie jest wymagana. Użytkownicy planu Visio 1 mogą korzystać z programu Visio w sieci Web, ponieważ ten plan nie zawiera aplikacji klasycznej Visio. Aplikacje klasyczne programów Project i Visio nie są dostępne na komputerach Mac
 
-Jeśli masz subskrypcję zawierającą aplikacje pakietu Office, nie zobaczysz opcji instalacji, jeśli nie masz [przypisanej licencji](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Jeśli jesteś administratorem usługi Office 365 odpowiedzialnym za przypisywanie licencji, zobacz [Przypisywanie licencji do użytkowników](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
+Jeśli masz subskrypcję zawierającą aplikacje platformy Microsoft 365, nie zobaczysz opcji instalacji, jeśli nie masz [przypisanej licencji](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Jeśli jesteś administratorem usługi Office 365 odpowiedzialnym za przypisywanie licencji, zobacz [Przypisywanie licencji do użytkowników](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
 Dopilnuj, aby każdy użytkownik wykonał następujące czynności:
 
