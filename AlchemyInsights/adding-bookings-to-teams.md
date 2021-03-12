@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "5041"
 - "9002238"
 - "4344"
-ms.openlocfilehash: 89d57ff01873ae18db8046588df731d8923bbf78
-ms.sourcegitcommit: 312ed19d236006962f1b891d2961014959ab1898
+ms.openlocfilehash: 527f90621fb8a15967259b58de673bf28025bd3c
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43812666"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707280"
 ---
 # <a name="adding-bookings-to-teams"></a>Dodawanie usługi Bookings do usługi Teams
 
 Microsoft Bookings to aplikacja do planowania terminów pomagająca w śledzeniu rezerwacji, personelu i klientów. Administratorzy mogą dodać usługę Bookings jako aplikację na pasku aplikacji Microsoft Teams użytkowników, [zarządzając zasadami konfiguracji aplikacji w usłudze Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies).
 
-Aby uzyskać informacje na temat rozwiązywania problemów w aplikacji Bookings, zobacz [artykuły dotyczące usługi Bookings](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).
+Aby uzyskać informacje na temat rozwiązywania problemów w aplikacji Bookings, zobacz [artykuły dotyczące usługi Bookings](https://docs.microsoft.com/microsoft-365/bookings/bookings-faq).

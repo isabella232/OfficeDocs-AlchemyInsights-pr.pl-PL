@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z dostępem do aplikacji webmail
+title: Rozwiązywanie problemów z uzyskiwaniem dostępu do poczty internetowej
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003958"
 - "7014"
-ms.openlocfilehash: cc6fd9d874bb1a02a98d6d6c4c9991f0b02f91fb
-ms.sourcegitcommit: 77d16f186ac95e85be2528c4756f0dac9368fe92
+ms.openlocfilehash: 8711b33851e2dac4499f39e3bfbff955d3cb91e3
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722158"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708036"
 ---
-# <a name="troubleshoot-problems-with-accessing-webmail"></a>Rozwiązywanie problemów z dostępem do aplikacji webmail
+# <a name="troubleshoot-problems-with-accessing-webmail"></a>Rozwiązywanie problemów z uzyskiwaniem dostępu do poczty internetowej
 
-Niepoprawne ustawienia daty i godziny na komputerze mogą powodować problemy z uzyskiwaniem dostępu do serwerów poczty e-mail w sieci Web. Aby upewnić się, że ustawienia daty i godziny są właściwe, wykonaj następujące czynności:
+Niepoprawne ustawienia daty i czasu na komputerze mogą powodować problemy z dostępem do internetowych serwerów poczty e-mail. Aby upewnić się, że ustawienia daty i czasu są poprawne, wykonaj następujące czynności:
 
-1. Wybierz pozycję **Start**, wpisz **datę i godzinę**, a następnie wybierz pozycję **Data i godzina**.
-2. W oknie **data & godzina** wykonaj dowolną z następujących czynności:
+1. Wybierz **pozycję Rozpoczęcie,** **wpisz datę i godzinę,** a następnie wybierz pozycję Data i **godzina.**
+2. W **oknie & godzin** wykonaj jedną z następujących czynności:
 
-    - Włącz **Automatyczne ustawianie czasu** i **Ustaw strefę czasową automatycznie**.
+    - Automatyczne ustawianie **czasu i automatyczne** ustawianie strefy **czasowej.**
 
-    - Zachowaj ustawienia autokonfiguracji, ale wybierz przycisk **Zmień** , wybierz pozycję Ustawienia **daty** i **godziny** w oknie dialogowym **Zmienianie daty i godziny** , a następnie wybierz pozycję **Zmień**.
+    - Wyłącz automatyczne ustawienia, ale  wybierz przycisk Zmień,  wybierz ustawienia  daty i godzin w oknie dialogowym Zmienianie daty i czasu, a następnie wybierz **pozycję Zmień.** 
 
-Aby dowiedzieć się więcej, zobacz [Rozwiązywanie problemów z dostępem do aplikacji webmail przy użyciu programu Internet Explorer](https://go.microsoft.com/fwlink/?linkid=2139414).
+Aby dowiedzieć się więcej, zobacz Rozwiązywanie problemów z uzyskiwaniem dostępu do poczty [internetowej przy użyciu programu Internet Explorer.](https://answers.microsoft.com/windows/forum/all/problem-accessing-email-through-ie/41f871f3-6df3-4bc9-a5bd-7f71651a2888)

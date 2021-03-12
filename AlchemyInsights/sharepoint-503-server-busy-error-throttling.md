@@ -1,8 +1,8 @@
 ---
-title: Ograniczanie usługi SharePoint Online
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
+title: SharePoint Online — ograniczanie
+ms.author: v-smandalika
+author: v-smandalika
+ms.date: 01/05/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,20 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 21d0f8d0118d92562b425921742513157563b5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01ce7a0266eb15a04f70826cc3f5e135f384c13b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773857"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707568"
 ---
 # <a name="sharepoint-online-throttling"></a>Ograniczanie usługi SharePoint Online
 
-**Ważne**: w tych niespotykanych czasach podejmujemy kroki zapewniające stałą wysoką dostępność usług SharePoint Online i OneDrive. Aby uzyskać więcej informacji, zapoznaj się z [tymczasowymi zmianami funkcji usługi SharePoint Online](https://aka.ms/ODSPAdjustments).
+Usługa SharePoint Online używa ograniczania, aby zapewnić optymalną wydajność i niezawodność usługi SharePoint Online. Ograniczanie ogranicza liczbę akcji użytkownika lub współbieżnych połączeń (za pomocą skryptu lub kodu), aby zapobiec nadmiernemu zużyciu zasobów. 
 
-**Błąd programu 503 serwer jest zajęty**
+Aby uzyskać więcej informacji na temat ograniczania, zobacz Unikanie ograniczania lub blokowania [w usłudze SharePoint Online.](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-Po próbie przejścia do witryny programu SharePoint lub usługi OneDrive użytkownicy mogą otrzymać komunikat o błędzie serwera 503 jest zajęty. 
+Jeśli uważasz, że ten błąd nie jest związany z ograniczaniem, możesz sprawdzić, czy w Twojej dzierżawie występuje aktywna konserwacja, przechodząc do [Centrum wiadomości.](https://portal.office.com/adminportal/home#/MessageCenter)
 
-Przyczyną tego błędu może być ograniczenie w ramach usługi programu SharePoint. Usługa SharePoint Online używa ograniczania, aby zapewnić optymalną wydajność i niezawodność usługi SharePoint Online. Ograniczanie ogranicza liczbę akcji użytkownika lub współbieżnych połączeń (za pomocą skryptu lub kodu), aby zapobiec nadmiernemu zużyciu zasobów. 
-
-Aby uzyskać więcej informacji na temat ograniczania przepustowości, zobacz [unikanie ograniczania lub blokowania w usłudze SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
-
-Jeśli uważasz, że ten błąd jest niezwiązany z ograniczaniem, możesz sprawdzić, czy w dzierżawie występuje aktywna konserwacja, przechodząc do [centrum wiadomości](https://portal.office.com/adminportal/home#/MessageCenter).
-
- Na koniec upewnij się, że odwiedzasz stronę [kondycja usługi](https://portal.office.com/adminportal/home#/servicehealth) , aby sprawdzić, jakie klasyfikatory/incydenty mogą wystąpić.
+ Na koniec sprawdź, czy [na](https://portal.office.com/adminportal/home#/servicehealth) stronie Kondycja usługi nie ma żadnych porad/zdarzeń, które mogą wystąpić.
 

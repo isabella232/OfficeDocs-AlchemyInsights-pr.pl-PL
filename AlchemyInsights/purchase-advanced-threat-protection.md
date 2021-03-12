@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: dca5f0adec60af8583f286630613a4c5a94cddb4
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 6317ba5b9ba4513d6d92e06b449778aa7614fe28
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602122"
+ms.locfileid: "50707856"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Zakup usługi Microsoft Defender dla usługi Office 365
 
-Usługa Microsoft Defender dla Office 365 jest zawarta w niektórych subskrypcjach, takich jak Microsoft 365 E5, Office 365 E5, Office 365 A5 i Microsoft 365 Business Premium. Jeśli Twoja subskrypcja nie zawiera programu Microsoft Defender dla usługi Office 365, możesz kupić program Microsoft Defender dla [usługi Office 365](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) jako dodatek do określonej subskrypcji. Aby dokonać zakupu w centrum administracyjnym platformy Microsoft 365:
+Usługa Microsoft Defender dla Office 365 jest zawarta w niektórych subskrypcjach, takich jak Microsoft 365 E5, Office 365 E5, Office 365 A5 i Microsoft 365 Business Premium. Jeśli Twoja subskrypcja nie zawiera programu Microsoft Defender dla usługi Office 365, możesz kupić program Microsoft Defender dla [usługi Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) jako dodatek do określonej subskrypcji. Aby dokonać zakupu w centrum administracyjnym platformy Microsoft 365:
 
 1. W centrum administracyjnym przejdź do strony **Zakupy**  >  [rozliczeniowe usług.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 2. W dolnej  części strony Zakup  usług w sekcji Dodatki znajdź dodatek Microsoft Defender dla usługi Office 365 i wybierz pozycję **Szczegóły.**
