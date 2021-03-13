@@ -1,27 +1,28 @@
 ---
-title: Łączenie się z usługą Project Online
+title: Połączenie z usługą Project Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2661"
 - "9000697"
-ms.openlocfilehash: 3eff2e886c4bbb72e3023fe2728d3aaa4c4a800e
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
-ms.translationtype: MT
+ms.openlocfilehash: 019fedf90f44b629a41c8e6268566ddef774122a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440112"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704688"
 ---
-# <a name="connect-to-project-online"></a>Łączenie się z usługą Project Online
+# <a name="connect-to-project-online"></a>Połączenie z usługą Project Online
 
-Możesz połączyć się z usługą Project Online za pomocą:
+Połączenie z usługą Project Online jest możliwe przy użyciu:
 
-- Klient programu Project Online Desktop do łączenia się z usługą Project Online w środowisku usługi Office 365. Aby uzyskać więcej informacji, zobacz [Łączenie się z usługą Project Online za pomocą klienta klasycznego Project Online](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client).  
-- Usługa Power BI, aby odblokować wgląd z aplikacji Project Web App, aby ułatwić zarządzanie projektami, portfelami i zasobami. Aby uzyskać więcej informacji, zobacz [Łączenie się z aplikacją Project Web App za pomocą usługi Power BI](https://docs.microsoft.com/power-bi/service-connect-to-project-online).  
+- Klient stacjonarny Project Online Desktop Client służy do łączenia się z usługą Project Online w środowisku Office 365. Aby uzyskać więcej informacji, zobacz [Łączenie z usługą Project Online za pomocą klienta stacjonarnego Project Online Desktop Client](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client).  
+- Usługa Power BI służy do odblokowania szczegółowych informacji usługi Project Web App dotyczących zarządzania projektami, portoflio i zasobami. Aby uzyskać więcej informacji, zobacz [Łączenie z usługą Project Web App za pomocą usługi Power BI](https://docs.microsoft.com/power-bi/connect-data/service-connect-to-project-online).  
