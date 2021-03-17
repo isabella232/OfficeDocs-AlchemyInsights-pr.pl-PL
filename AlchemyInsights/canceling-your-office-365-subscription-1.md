@@ -1,10 +1,10 @@
 ---
-title: Anulujesz subskrypcję Microsoft 365?
+title: Anulujesz subskrypcję platformy Microsoft 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: scotv
+ms.date: ''
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 3d044424282eb03bc1a9469dafac0d9daf365171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: e0f8fc119d5476c9a392a61b2592a5a7cd844892
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757238"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837428"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="8c0eb-102">Anulujesz subskrypcję Microsoft 365?</span><span class="sxs-lookup"><span data-stu-id="8c0eb-102">Canceling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="dee79-102">Anulujesz subskrypcję platformy Microsoft 365?</span><span class="sxs-lookup"><span data-stu-id="dee79-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="8c0eb-103">Przykro nam, ale możesz dowiedzieć się, jakie są opcje anulowania abonamentu:</span><span class="sxs-lookup"><span data-stu-id="8c0eb-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
-  
-- <span data-ttu-id="8c0eb-104">**W oparciu o dane organizacji uważamy, że wszystkie bieżące subskrypcje są abonamentami wersji próbnej. Nie ma potrzeby jawnego anulowania subskrypcji wersji próbnej, ponieważ abonamenty próbne nie wymagają płatności i nie ma obowiązku po zakończeniu okresu próbnego.**</span><span class="sxs-lookup"><span data-stu-id="8c0eb-104">**Based on your organization data, we believe all your current subscriptions are Trial subscriptions. There is no need to explicitly cancel a Trial subscription because Trial subscriptions require no payments, and there is no obligation after the trial ends.**</span></span>
+<span data-ttu-id="dee79-103">Przykro nam, że odchodzysz, oto procedura anulowania subskrypcji:</span><span class="sxs-lookup"><span data-stu-id="dee79-103">We're sorry to see you go, here are the steps to cancel your subscription:</span></span>
 
-- <span data-ttu-id="8c0eb-105">Aby dowiedzieć się więcej o anulowaniu subskrypcji lub uzyskać instrukcje krok po kroku, zobacz ten artykuł: [Anulowanie subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="8c0eb-105">To learn more about canceling a subscription, or for step-by-step instructions, see this article: [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span></span>
+1. <span data-ttu-id="dee79-104">W centrum administracyjnym przejdź do **strony** Rozliczenia  >  **[twoje produkty,](https://go.microsoft.com/fwlink/p/?linkid=842054)** a następnie wybierz **kartę** Produkty.</span><span class="sxs-lookup"><span data-stu-id="dee79-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then select the **Products** tab.</span></span>
+2. <span data-ttu-id="dee79-105">Znajdź subskrypcję, którą chcesz anulować.</span><span class="sxs-lookup"><span data-stu-id="dee79-105">Find the subscription that you want to cancel.</span></span> <span data-ttu-id="dee79-106">Wybierz **pozycję Więcej akcji** (trzy kropki), a następnie wybierz Anuluj **subskrypcję**.</span><span class="sxs-lookup"><span data-stu-id="dee79-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="dee79-107">W **okienku Anulowanie** subskrypcji wybierz powód anulowania.</span><span class="sxs-lookup"><span data-stu-id="dee79-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="dee79-108">Opcjonalnie możesz przekazać opinię.</span><span class="sxs-lookup"><span data-stu-id="dee79-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="dee79-109">Wybierz **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="dee79-109">Select **Save**.</span></span>
+
+<span data-ttu-id="dee79-110">Aby dowiedzieć się więcej o anulowaniu subskrypcji lub opcji, zobacz [Anulowanie subskrypcji.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="dee79-110">To learn more about canceling a subscription, or options, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
