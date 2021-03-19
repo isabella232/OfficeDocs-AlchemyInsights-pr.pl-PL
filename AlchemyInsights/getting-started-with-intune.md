@@ -1,5 +1,5 @@
 ---
-title: Rozpoczynanie pracy z usługą Intune
+title: Wprowadzenie do usługi Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: dda42cf553b2b1e37b69f334c0ad426aa7a13d10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06b3e8b553de078a41980dc519db02ec8041e144
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706353"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50897093"
 ---
-# <a name="getting-started-with-intune"></a>Rozpoczynanie pracy z usługą Intune
+# <a name="getting-started-with-intune"></a>Wprowadzenie do usługi Intune
 
-Aby uzyskać krótki przewodnik po usłudze Intune i konsoli administracyjnej, zobacz [Przewodnik po usłudze Intune w portalu Azure](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).
+Aby uzyskać krótki przewodnik po usłudze Intune i konsoli administracyjnej, zapoznaj się ze instruktażem usługi [Intune w portalu Azure Portal.](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager)
 
-Jeśli chcesz wypróbować usługę Intune lub skonfigurować wersję próbną, zobacz [Szybki Start: Wypróbuj usługę Microsoft Intune bezpłatnie](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
+Jeśli chcesz wypróbować usługę Intune lub skonfigurować wersję próbną, sprawdź Szybki start: wypróbuj bezpłatnie [usługę Microsoft Intune.](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up)
 
-Jeśli już masz usługę Intune i możesz zacząć korzystać z niej, zapoznaj się z naszym przewodnikiem [konfigurowania usługi Intune](https://docs.microsoft.com/intune/fundamentals/setup-steps) . 
+Jeśli chcesz rozpocząć korzystanie z usługi Intune, zapoznaj się z [konfigurowaniem usługi Intune.](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps) Aby uzyskać przewodnik konfiguracji, zobacz Przewodnik [konfiguracji usługi Intune.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide)

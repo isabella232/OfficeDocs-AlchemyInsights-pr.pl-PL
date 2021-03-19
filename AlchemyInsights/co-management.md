@@ -1,9 +1,9 @@
 ---
-title: Współzarządzanie
+title: Współzawłasnie
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681270"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896805"
 ---
-# <a name="co-management"></a>Współzarządzanie
+# <a name="co-management"></a>Współzawłasnie
 
-**Wymagania wstępne dotyczące migrowania z hybrydowego Menedżera konfiguracji do usługi Intune**
+**Wymagania wstępne migracji z środowiska hybrydowego menedżera konfiguracji do usługi Intune**
 
-- Zapoznaj się z [tym artykułem](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Dodaj do użytkowników licencję usługi Intune](https://docs.microsoft.com/intune/licenses-assign).
-- Podczas konfigurowania współzarządzania Użyj [przeglądarki Edge](https://www.microsoft.com/windows/microsoft-edge) .
+- Zapoznaj się [z tym artykułem.](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Dodaj licencję usługi Intune dla użytkowników.](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)
+- Podczas [konfigurowania funkcji współzawłasniania](https://www.microsoft.com/edge) użyj przeglądarki Edge.
 
-**Jak zainstalować klienta Menedżera konfiguracji na urządzeniach zarządzanych za pomocą usługi Intune**
+Przewodnik po krok po kroku dla procesu konfigurowania współzawłasnia znajduje się [tutaj.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)
 
-Zobacz [urządzenia z systemem Windows zarządzane przez usługę INTUNE MDM](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+**Jak zainstalować klienta Menedżera konfiguracji na urządzeniach zarządzanych w usłudze Intune**
 
-**Co zrobić, jeśli tylko chcę zmienić usługę MDM Authority?**
+Zobacz [Urządzenia z systemem Windows zarządzane przez usługę Intune MDM.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
-Urząd MDM można zmienić bez otwierania sprawy pomocy technicznej. Zapoznaj się z poniższą dokumentacją, aby uzyskać pomoc w zmianie uprawnień w usłudze MDM:
+**Co zrobić, jeśli chcę tylko zmienić uprawnienia mdM?**
 
-- [Zmienianie uprawnień w usłudze MDM z programu Configuration Manager na autonomiczną usługę Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [Zmienianie uprawnień usługi MDM z autonomicznej usługi Intune na Menedżera konfiguracji](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+Można zmienić urząd zarządzania urządzeniami przenośnymi bez otwierania sprawy pomocy technicznej. Przejrzyj następującą dokumentację, aby pomóc w zmianie urzędu zarządzania usługą MDM:
+
+- [Zmienianie uprawnień MDM z Menedżer konfiguracji na autonomiczną usługę Intune](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Zmienianie uprawnień mdM z autonomicznej usługi Intune na Menedżer konfiguracji](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
