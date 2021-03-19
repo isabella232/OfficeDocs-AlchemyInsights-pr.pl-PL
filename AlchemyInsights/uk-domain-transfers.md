@@ -1,5 +1,5 @@
 ---
-title: transfery domen w Wielkiej Brytanii
+title: Transfery domeny .uk
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 42fa6189bc41c573fcb06fb41c9c6c4af82a0c8f
-ms.sourcegitcommit: 9604f7cec8bf18ae2d7e5915cab4671a3a04d316
+ms.openlocfilehash: 9b08d72834c1bbfd46e9724ecf9c564325493ba5
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598816"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896661"
 ---
-# <a name="uk-domain-transfers"></a><span data-ttu-id="5055e-102">transfery domen w Wielkiej Brytanii</span><span class="sxs-lookup"><span data-stu-id="5055e-102">.uk domain transfers</span></span>
+# <a name="uk-domain-transfers"></a><span data-ttu-id="bcc43-102">Transfery domeny .uk</span><span class="sxs-lookup"><span data-stu-id="bcc43-102">.uk domain transfers</span></span>
 
-<span data-ttu-id="5055e-103">Skontaktuj się z pomocą techniczną firmy Microsoft i poproś o **zmianę znacznika o adres IP** , aby pasował do rejestratora, który chcesz zarządzać domeną.</span><span class="sxs-lookup"><span data-stu-id="5055e-103">Contact Microsoft Support and request an **IPS Tag change** to match the registrar you want to manage your domain going forward.</span></span> <span data-ttu-id="5055e-104">Gdy znacznik zmieni się, domena natychmiast przeniesie do nowego rejestratora.</span><span class="sxs-lookup"><span data-stu-id="5055e-104">Once the tag changes, the domain immediately transfers to the new registrar.</span></span> <span data-ttu-id="5055e-105">Następnie musisz współpracować z nowym rejestratorem, aby dokończyć transfer, co może spowodować uiszczenie opłat za transfer i dodanie domeny przesłanej do konta z nowym rejestratorem.</span><span class="sxs-lookup"><span data-stu-id="5055e-105">You will then need to work with the new registrar to complete the transfer, likely paying transfer fees and adding the transferred domain to your account with your new registrar.</span></span>
+<span data-ttu-id="bcc43-103">Skontaktuj się z pomocą techniczną firmy Microsoft i poproś o zmianę **tagu usługi IPS,** aby dopasować rejestratora, który będzie zarządzał Twoją domeną w przyszłości.</span><span class="sxs-lookup"><span data-stu-id="bcc43-103">Contact Microsoft Support and request an **IPS Tag change** to match the registrar you want to manage your domain going forward.</span></span> <span data-ttu-id="bcc43-104">Po zmianie tagu domena zostanie natychmiast przekierowyna do nowego rejestratora.</span><span class="sxs-lookup"><span data-stu-id="bcc43-104">Once the tag changes, the domain immediately transfers to the new registrar.</span></span> <span data-ttu-id="bcc43-105">Następnie musisz współpracować z nowym rejestratorem, aby ukończyć transfer, prawdopodobnie naliczając opłaty za transfer i dodając przetransferowana domenę do swojego konta u nowego rejestratora.</span><span class="sxs-lookup"><span data-stu-id="bcc43-105">You will then need to work with the new registrar to complete the transfer, likely paying transfer fees and adding the transferred domain to your account with your new registrar.</span></span>
 
-<span data-ttu-id="5055e-106">Aby uzyskać więcej informacji na temat transferów domen, zobacz [Transferowanie domeny z firmy Microsoft na innego hosta](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="5055e-106">For more information on domain transfers, see [Transfer a domain from Microsoft to another host](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).</span></span>
+<span data-ttu-id="bcc43-106">Aby uzyskać więcej informacji na temat przenoszenia domen, [zobacz Przenoszenie domeny z firmy Microsoft do innego hosta.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="bcc43-106">For more information on domain transfers, see [Transfer a domain from Microsoft to another host](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).</span></span>
+
+<span data-ttu-id="bcc43-107">Przygotuj się do podania tagu IPS nowego rejestratora, który można znaleźć w https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .</span><span class="sxs-lookup"><span data-stu-id="bcc43-107">Be prepared to provide the IPS tag of the new registrar, which can be found at https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/.</span></span>
