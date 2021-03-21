@@ -1,29 +1,31 @@
 ---
-title: Problemy z urządzeniami dołączającymi
+title: Problemy z dołączaniem komputerów do usługi Zaawansowana ochrona przed zagrożeniami w usłudze Microsoft Defender
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: 19b516dc21472e2c80a8b9046f802b329d15e4d6
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
-ms.translationtype: MT
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141656"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901577"
 ---
-# <a name="issues-with-onboarding-machines"></a>Problemy z urządzeniami dołączającymi
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Problemy z dołączaniem komputerów do usługi Zaawansowana ochrona przed zagrożeniami w usłudze Microsoft Defender
 
-Mogą wystąpić problemy z komputerami dołączania do usługi MDATP. Jeśli masz dostęp do maszyny użytkownika końcowego, wykonaj następujące kroki:
+Mogą występować problemy z dołączaniem komputerów do usługi Zaawansowana ochrona przed zagrożeniami w usłudze Microsoft Defender. Jeśli możesz uzyskać dostęp do komputera użytkownika końcowego, wykonaj następujące kroki:
 
-1. Pobierz narzędzie diagnostyczne [analizatora łączności klienta.](https://aka.ms/mdatpanalyzer)
-2. Wyodrębnij i uruchom plik MDATPAnalyzer.cmd.
-3. Zlokalizuj dziennik diagnostyczny w folderze o nazwie MDATPClientAnalyzerResult, ten sam folder, w którym jest pobierane narzędzie Analizator.
-4. Przejrzyj plik dziennika, MDATPClientAnalyzer.txt, aby znaleźć problemy z łącznością lub ustawieniami serwera proxy internetowego.
+1. Pobierz najnowszą wersję zapoznawczą narzędzia diagnostycznego [Analizator klienta MDE](https://aka.ms/betamdeanalyzer).
+2. Kliknij plik **MDEClientAnalyzer.cmd** prawym przyciskiem myszy i wybierz opcję „Uruchom jako administrator”.
+3. Postępuj zgodnie ze wskazówkami wyświetlanymi w pliku **MDEClientAnalyzer.htm**.
+4. W celu uzyskania bardziej szczegółowych dzienników, przejrzyj utworzony podfolder o nazwie **MDEClientAnalyzerResult**.
+5. Jeśli potrzebne są dodatkowe wskazówki, skontaktuj się z [pomocą techniczną usługi Zaawansowana ochrona przed zagrożeniami w usłudze Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) i przekaż plik wynikowy MDEClientAnalyzerResult.zip na potrzeby analizy.
