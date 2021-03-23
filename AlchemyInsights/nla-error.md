@@ -1,0 +1,30 @@
+---
+title: Błąd nla
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 03/19/2021
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9032"
+- "9005217"
+ms.openlocfilehash: fde9896c58312ee8823a5f911bed3102ccec2495
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.translationtype: MT
+ms.contentlocale: pl-PL
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "51037384"
+---
+# <a name="nla-error"></a><span data-ttu-id="3a674-102">Błąd nla</span><span class="sxs-lookup"><span data-stu-id="3a674-102">NLA error</span></span>
+
+<span data-ttu-id="3a674-103">Zobacz następujący artykuł, który może ułatwić rozwiązywanie problemów z błędami uwierzytelniania lub błędami nlA, które występują podczas nawiązywania połączenia z maszyną wirtualną platformy Azure za pomocą połączenia protokołu RDP:</span><span class="sxs-lookup"><span data-stu-id="3a674-103">See the following article which can help you troubleshoot authentication errors or NLA errors that occur when you use Remote Desktop Protocol (RDP) connection to connect to an Azure virtual machine (VM):</span></span>
+
+<span data-ttu-id="3a674-104">[Rozwiązywanie problemów z błędami uwierzytelniania podczas używania protokołu RDP do łączenia się z maszynami maszyn wirtualnych platformy Azure — maszyny wirtualne | Dokumenty Microsoft](https://docs.microsoft.com/troubleshoot/azure/virtual-machines/cannot-connect-rdp-azure-vm).</span><span class="sxs-lookup"><span data-stu-id="3a674-104">[Troubleshoot authentication errors when you use RDP to connect to Azure VM - Virtual Machines | Microsoft Docs](https://docs.microsoft.com/troubleshoot/azure/virtual-machines/cannot-connect-rdp-azure-vm).</span></span>
+
+
+
