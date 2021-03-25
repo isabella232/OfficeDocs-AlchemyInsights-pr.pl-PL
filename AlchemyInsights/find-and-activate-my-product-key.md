@@ -2,7 +2,7 @@
 title: Znajdowanie i aktywowanie klucza produktu
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 107916aae8aef805e2adb5caaef1d06f97edeaa3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 37a847074f14ac914950ad42dfc0c6c52db942a6
+ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708585"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51200719"
 ---
 # <a name="find-and-activate-my-product-key"></a>Znajdowanie i aktywowanie klucza produktu
 
-Jeśli pakiet Microsoft 365 dla firm został zakupiony za pośrednictwem [programu licencji Open Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=613298), poniżej przedstawiono sposób znajdowania i aktywowania klucza produktu.
+Jeśli zakupiono platformę Microsoft 365 dla firm za pośrednictwem programu otwartej licencji [firmy Microsoft,](https://go.microsoft.com/fwlink/p/?LinkID=613298)oto jak znaleźć i aktywować klucz produktu.
 
-1. Po zakupieniu klucza od partnera Microsoft 365 sprawdź skrzynkę odbiorczą, aby uzyskać wiadomość e-mail od firmy Microsoft zawierającą link aktywacji.  **Uwaga**: wiadomość e-mail jest wysyłana do osoby wymienionej jako administrator online w umowie licencjonowania zbiorowego.  Jeśli nie masz pewności, kto jest administratorem online, zapytaj swojego partnera Microsoft 365.
+1. Po zakupie klucza od partnera platformy Microsoft 365 sprawdź, czy w Skrzynce odbiorczej nie ma wiadomości e-mail od firmy Microsoft zawierającej link aktywacji.
 
-2. Postępuj zgodnie z linkiem w wiadomości e-mail, aby zalogować się za pomocą konta służbowego, zaakceptować umowę licencyjną i odnowić abonament.  Aby zapoznać się z instruktażem krok po kroku, Pobierz przewodnik dotyczący plików PDF, [Aktywuj usługi online: subskrypcja programu Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
+    > [!NOTE]
+    > Ta wiadomość e-mail jest wysyłana do osoby wymienionej w umowie licencjonowania zbiorowego jako administrator online. Jeśli nie masz pewności, kto został wyznaczony jako administrator online, zapytaj swojego partnera platformy Microsoft 365.
+1. Postępuj zgodnie z linkiem w wiadomości e-mail, aby zalogować się przy użyciu konta służbowego, zaakceptować umowę licencji Open i odnowić subskrypcję. Aby uzyskać szczegółowe instrukcje, pobierz przewodnik dotyczący plików PDF, Aktywuj usługi [online: Subskrypcja platformy Microsoft 365.](https://go.microsoft.com/fwlink/p/?LinkId=618100)
 
-**Uwaga**: klienci z licencją zbiorczą mogą również aktywować abonamenty w [centrum usług licencjonowania zbiorowego](https://go.microsoft.com/fwlink/p/?LinkID=282016).  Aby dowiedzieć się, jak pobrać przewodnik PDF, zapoznaj się z [aktywnymi usługami online w centrum usług licencjonowania zbiorowego](https://go.microsoft.com/fwlink/p/?LinkId=618096).
-
-Jeśli pakiet Microsoft 365 Business Premium został kupiony w sklepie detalicznym, wykonaj poniższe czynności, aby przedłużyć datę wygaśnięcia lub dodać licencję do istniejącej subskrypcji.
-
-**Uwaga**: aby za pomocą klucza produktu przedłużyć datę wygaśnięcia lub dodać licencję do istniejącego abonamentu Microsoft 365 Business Premium Standard, potrzebny jest nowy i nieużywany klucz dla tej samej subskrypcji produktu Microsoft 365.  Wprowadzenie oryginalnego klucza produktu programu Microsoft 365 nie powiodło się, ponieważ nie można ponownie użyć klucza, który został już zrealizowany.
-
-1. W centrum administracyjnym przejdź do strony **rozliczanie**  >  **[produktów](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Znajdź subskrypcję, do której chcesz przedłużyć datę wygaśnięcia lub Dodaj licencje.  Kliknij pozycję [Rozszerz datę zakończenia](https://go.microsoft.com/fwlink/p/?linkid=842054) lub [Dodaj więcej licencji](https://go.microsoft.com/fwlink/p/?linkid=842054).
-
-3. Kliknij pozycję **Użyj nowego i nieużywanego klucza produktu** , a następnie **dalej**.
-
-4. Wprowadź klucz produktu i kliknij przycisk **dalej**.
-
-5. Przejrzyj szczegóły zamówienia.  Jeśli wszystko wygląda poprawnie, kliknij pozycję **Zrealizuj**.
+    > [!NOTE]
+    > Klienci korzystający z licencjonowania zbiorowego mogą również aktywować subskrypcje w centrum [Volume Licensing Service Center.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Aby dowiedzieć się, jak to zrobić, pobierz przewodnik w formacie PDF [Usługi Active Online z centrum Volume Licensing Service Center.](https://go.microsoft.com/fwlink/p/?LinkId=618096)
