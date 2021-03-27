@@ -1,5 +1,5 @@
 ---
-title: Zdalne debugowanie urządzenia z systemem Android za pomocą przeglądarki Microsoft Edge na komputerze deweloperskim
+title: Używanie programu Microsoft Edge do zdalnego debugowania urządzenia z systemem Android z komputera programistyki
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003928"
 - "6983"
-ms.openlocfilehash: 3a59a7d51ddd0213fa42c0e094b7269a406ae7e7
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10186"
+- "9005827"
+ms.openlocfilehash: 2dea0d38ddc97d4952f3d14efebea2eea2f760da
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583943"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398703"
 ---
-# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Zdalne debugowanie urządzenia z systemem Android za pomocą przeglądarki Microsoft Edge na komputerze deweloperskim
+# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Używanie programu Microsoft Edge do zdalnego debugowania urządzenia z systemem Android z komputera programistyki
 
-Aby zdalnie debugować zawartość na urządzeniu z systemem Android przy użyciu komputera:
+Aby zdalnie debugowanie zawartości na żywo na urządzeniu z systemem Android z komputera:
 
-1. Skonfiguruj urządzenie z systemem Android pod kątem zdalnego debugowania i odkryj je na komputerze deweloperskim.
-2. Na komputerze deweloperskim Sprawdź i Debuguj zawartość na żywo na urządzeniu z systemem Android.
-3. Screencast o tym na żywo z urządzenia z systemem Android na DevTools na komputerze deweloperskim.
+1. Skonfiguruj debugowanie zdalne na urządzeniu z systemem Android i odkryj je na komputerze programistyki.
+2. Na komputerze programisty możesz sprawdzać i debugować zawartość na żywo na urządzeniu z systemem Android.
+3. Screencast live content from the Android device onto a DevTools instance on the development computer.

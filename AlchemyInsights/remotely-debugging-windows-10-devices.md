@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003926"
 - "6980"
-ms.openlocfilehash: 4bd03461c4096cc4ee94a0308d53ba6cba473c18
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10188"
+- "9005827"
+ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583967"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398574"
 ---
 # <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Wprowadzenie do zdalnego debugowania urządzeń z systemem Windows 10
 
-Aby zdalnie debugować zawartość na urządzeniu z systemem Windows 10 z komputera z systemem Windows lub macOS:
+Aby zdalnie debugować zawartość na żywo na urządzeniu z systemem Windows 10 na komputerze z systemem Windows lub macOS:
 
-1. Skonfiguruj zdalne debugowanie urządzenia z systemem Windows 10, a następnie połącz się z nim na komputerze deweloperskim.
-2. Inspekcja i debugowanie zawartości na żywo na urządzeniu z systemem Windows 10 z komputera deweloperskiego.
-3. Screencast o tym zawartość na urządzeniu z systemem Windows 10 do wystąpienia DevTools na komputerze deweloperskim.
+1. Skonfiguruj na urządzeniu z systemem Windows 10 debugowanie zdalne, a następnie połącz się z nim z komputera programowego.
+2. Sprawdzanie i debugowanie zawartości na żywo na urządzeniu z systemem Windows 10 na komputerze programistyki.
+3. Zawartość zrzutu ekranu z urządzenia z systemem Windows 10 do wystąpienia narzędzia DevTools na komputerze programistyki.
 
-Aby dowiedzieć się więcej, zobacz Rozpoczynanie [pracy ze zdalnym debugowaniem urządzeń z systemem Windows 10 za pomocą przeglądarki Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).
+Aby dowiedzieć się więcej, zobacz Wprowadzenie do zdalnego debugowania urządzeń z [systemem Windows 10 przy użyciu programu Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142172)
