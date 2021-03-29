@@ -1,5 +1,5 @@
 ---
-title: Konfigurowanie ustawień zasad programu Microsoft Edge w systemie Windows
+title: Konfigurowanie ustawień zasad przeglądarki Microsoft Edge w systemie Windows
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,21 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003845"
+- "9004632"
 - "6894"
-ms.openlocfilehash: 7f626152c3833638436dfe05e8dcd13fc86ef594
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8358"
+ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583740"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402385"
 ---
-# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Konfigurowanie ustawień zasad programu Microsoft Edge w systemie Windows
+# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Konfigurowanie ustawień zasad przeglądarki Microsoft Edge w systemie Windows
 
-Aby skonfigurować ustawienia zasad i zarządzane aktualizacje dla programu Microsoft Edge, Użyj obiektów zasad grupy (GPO). Zasady można też zapewnić za pośrednictwem rejestru; odpowiedni dla (1) urządzeń z systemem Windows dołączonych do domeny usługi Microsoft Active Directory i dla (2) wystąpień systemu Windows 10 Pro i Enterprise zarejestrowano w celu zarządzania urządzeniami w usłudze Microsoft Intune.
+Aby skonfigurować ustawienia zasad i zarządzane aktualizacje dla przeglądarki Microsoft Edge, użyj funkcji obiekty zasady grupy (GPOS). Zasady można także zapewniać za pośrednictwem rejestru. byłoby to odpowiednie dla (1) urządzeń z systemem Windows przyłączony do domeny Microsoft Active Directory i (2) wystąpień systemu Windows 10 Pro i Enterprise zarejestrowanych do zarządzania urządzeniami w usłudze Microsoft Intune.
 
-Aby skonfigurować przeglądarkę Microsoft Edge przy użyciu obiektów zasad grupy, wykonaj następujące czynności:
+Aby skonfigurować program Microsoft Edge przy użyciu gpOs, wykonaj następujące czynności:
 
-1. Do magazynu centralnego zasad grupy w domenie usługi Active Directory lub do folderu szablonów definicji zasad na poszczególnych komputerach, zainstaluj wszystkie szablony administracyjne, które dodają reguły i ustawienia dla przeglądarki Microsoft Edge.
-2. Skonfiguruj określone zasady, które chcesz ustawić.
+1. Przejdź do magazynu zasady grupy centralnej w domenie usługi Active Directory lub do folderu szablonów definicji zasad na poszczególnych komputerach zainstaluj wszystkie szablony administracyjne, które dodają reguły i ustawienia dla przeglądarki Microsoft Edge.
+2. Skonfiguruj konkretne zasady, które chcesz ustawić.
 
-Aby dowiedzieć się więcej, zobacz [Konfigurowanie ustawień zasad programu Microsoft Edge w systemie Windows](https://go.microsoft.com/fwlink/?linkid=2135024).
+Aby dowiedzieć się więcej, zobacz [Konfigurowanie ustawień zasad przeglądarki Microsoft Edge w systemie Windows.](https://go.microsoft.com/fwlink/?linkid=2135024)

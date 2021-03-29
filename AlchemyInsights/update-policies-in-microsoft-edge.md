@@ -1,5 +1,5 @@
 ---
-title: Używanie zasad grupy związanych z aktualizacją dostępnych w przeglądarce Microsoft Edge
+title: Korzystanie z zasad grupy związanych z aktualizacją dostępnych w programie Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,14 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003843"
+- "9004632"
 - "7092"
-ms.openlocfilehash: 506681be0666c8091b86c173635f6eaa9552432d
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8359"
+ms.openlocfilehash: 3477b5a1754815e22f34a866e285096af94d6d78
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573704"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403681"
 ---
-# <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>Używanie zasad grupy związanych z aktualizacją dostępnych w przeglądarce Microsoft Edge
+# <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>Korzystanie z zasad grupy związanych z aktualizacją dostępnych w programie Microsoft Edge
 
-Za pomocą [zasad](https://go.microsoft.com/fwlink/?linkid=2134862) dostępnych w programie Microsoft Edge (wersja 77 lub nowsza) można sterować sposobem i po zaktualizowaniu przeglądarki Microsoft Edge.
+Użyj zasad [dostępnych](https://go.microsoft.com/fwlink/?linkid=2134862) w programie Microsoft Edge (w wersji 77 lub nowszej), aby kontrolować sposób i czas aktualizacji przeglądarki Microsoft Edge.
