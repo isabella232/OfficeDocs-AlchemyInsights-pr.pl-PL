@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002660"
 - "9422"
-ms.openlocfilehash: dec51a33f9801291765c48c11ec616e870f3e054
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: ecc1ecc0cede129cb66a788130d8d3bd7ab38ecf
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51404669"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440875"
 ---
 # <a name="one-drive-announcement"></a>Ogłoszenie dotyczące onego dysku
 
-Automatycznie tworzyj kopię zapasową plików i zdjęć, więc zawsze będziesz mieć do nich dostęp, nawet jeśli Twój komputer zostanie zgubiony, uszkodzony lub skradziony. Aby uzyskać więcej informacji, zobacz Konfigurowanie bezpłatnego folderu [komputera usługi OneDrive z kopią zapasową](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup).
+Automatycznie tworzyj kopię zapasową plików i zdjęć, więc zawsze będziesz mieć do nich dostęp, nawet jeśli Twój komputer zostanie zgubiony, uszkodzony lub skradziony. [Skonfiguruj bezpłatny folder komputera usługi OneDrive z kopią zapasową](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup).
