@@ -1,5 +1,5 @@
 ---
-title: Konfigurowanie programu Microsoft Information Protection
+title: Konfigurowanie ochrony informacji firmy Microsoft
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004221"
 - "7429"
-ms.openlocfilehash: bde2c53eccb4ac687a064c3ab44c362d995e2fa6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
-ms.translationtype: MT
+- "9254"
+- "9000181"
+ms.openlocfilehash: 05ba48033cde51e3055c52d9501ea0a3f573f2a5
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679339"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440939"
 ---
-# <a name="set-up-microsoft-information-protection"></a>Konfigurowanie programu Microsoft Information Protection
+# <a name="set-up-microsoft-information-protection"></a>Konfigurowanie ochrony informacji firmy Microsoft
 
-Zapoznaj się z omówieniem możliwości, które można zastosować do strategii ochrony informacji, aby mieć pewność, że poufne informacje są chronione. Korzystaj z czterech etapów cyklu życia, które odnajdują, klasyfikują, chronią i monitorują poufne informacje. Przewodnik "Instalator funkcji Microsoft Information Protection" zawiera wskazówki dotyczące kończenia każdego z tych etapów.
+Uzyskać ogólne informacje o funkcjach, które można uwzględnić w strategii ochrony informacji, aby mieć pewność, że informacje poufne będą chronione. Użyj 4-etapowego podejścia do cyklu życia, w którym będzie można odkrywać, klasyfikować, chronić i monitorować informacje poufne. [Poradnik konfiguracji ochrony informacji firmy Microsoft](https://go.microsoft.com/fwlink/?linkid=2146619) udziela wskazówek na temat wykonywania każdego z tych etapów.

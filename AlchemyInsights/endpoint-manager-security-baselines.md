@@ -1,5 +1,5 @@
 ---
-title: Menedżer programu EndPoint — linie bazowe zabezpieczeń
+title: Endpoint Manager — Plany bazowe zabezpieczeń
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,29 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "10084"
 - "6700005"
-ms.openlocfilehash: d2a063fdc4929cbee5fef71bfb47ace8f2ba458f
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
-ms.translationtype: MT
+- "10064"
+- "9003771"
+ms.openlocfilehash: 36b480c7ed4715338fda056eafd69c511093e627
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51421086"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440894"
 ---
-# <a name="endpoint-manager---security-baselines"></a>Menedżer programu EndPoint — linie bazowe zabezpieczeń
+# <a name="endpoint-manager---security-baselines"></a>Endpoint Manager — Plany bazowe zabezpieczeń
 
-Linie bazowe zabezpieczeń to wstępnie skonfigurowane grupy ustawień systemu Windows, które ułatwiają stosowanie ustawień zabezpieczeń zalecanych przez odpowiednie zespoły ds. zabezpieczeń. Te linie bazowe można dostosować, aby dostarczyć tylko żądane ustawienia i wartości. Aby uzyskać więcej informacji o planach bazowych zabezpieczeń, zobacz Konfigurowanie urządzeń z systemem [Windows 10](https://docs.microsoft.com/mem/intune/protect/security-baselines)w usłudze Intune przy użyciu planu bazowego zabezpieczeń.
+Plany bazowe zabezpieczeń to wstępnie skonfigurowane grupy ustawień systemu Windows, które ułatwiają stosowanie ustawień zabezpieczeń zalecanych przez odpowiednie zespoły ds. zabezpieczeń. Te plany bazowe można dostosować tak, aby zawierały tylko wymagane ustawienia i wartości. Aby uzyskać więcej informacji o planach bazowych zabezpieczeń, zobacz [Używanie planów bazowych zabezpieczeń do konfigurowania urządzeń z systemem Windows 10 w usłudze Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines).
 
-Obecnie istnieją linie bazowe dla tych produktów:
+Obecnie są dostępne plany bazowe dla tych produktów:
 
-- Ustawienia zabezpieczeń usługi Windows MDM
-- Program Microsoft Defender dla zabezpieczeń programu EndPoint
+- Ustawienia zabezpieczeń funkcji zarządzania urządzeniami przenośnymi z systemem Windows
+- Zabezpieczenia usługi Ochrona punktu końcowego w usłudze Microsoft Defender
 - Microsoft Edge
 
-Poszczególne linie bazowe są okresowo aktualizowane i zwalniane w wersjach przyrostowych. Każda wersja dodaje i lub usuwa ustawienia z poprzedniej wersji, aby zapewnić, że plan bazowy spełnia bieżące wytyczne. Konsola planu bazowego zabezpieczeń w zabezpieczeniach punktu końcowego umożliwia porównanie różnych wersji przez wprowadzenie zmian w poszczególnych wersjach.
+Wszystkie plany bazowe są okresowo aktualizowane i wydawane w wersjach przyrostowych. Każda wersja dodaje ustawienia do poprzedniej wersji lub usuwa je z niej, aby zapewnić, że plan bazowy spełnia bieżące wytyczne. Konsola planów bazowych zabezpieczeń w zabezpieczeniach punktów końcowych umożliwia porównanie różnych wersji przez uwidocznienie zmian wprowadzanych w poszczególnych wersjach.
 
-Aby uzyskać wskazówki dotyczące najbardziej efektywnej zmiany wersji planu bazowego, zobacz Zarządzanie profilami planu bazowego zabezpieczeń w [usłudze Microsoft Intune.](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure)
+Aby uzyskać wskazówki dotyczące najskuteczniejszego zmieniania wersji wdrożonego planu bazowego, zobacz [Zarządzanie profilami planu bazowego zabezpieczeń w usłudze Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
-Po wdrożeniu planu bazowego zabezpieczeń możesz monitorować stan wdrożenia i przeglądać ustawienia w zależności od urządzenia.
+Po wdrożeniu planu bazowego zabezpieczeń możesz monitorować stan wdrożenia i przeglądać ustawienia na poszczególnych urządzeniach.
 
-**Uwaga:** Dane raportowania dla planu bazowego mogą być wyświetlane w ciągu 24 godzin od wdrożenie wstępne do urządzenia i do 6 godzin na dodatkowe aktualizacje. 
+**Uwaga:** Zanim dane raportowania dla planów bazowych będą widoczne, od momentu wdrożenia wstępnego na urządzeniu może upłynąć do 24 godzin, a w przypadku kolejnych aktualizacji do 6 godzin. 
 
-Najczęstszą przyczyną nie zastosowania ustawienia planu bazowego jest to, że to samo ustawienie jest używane w innym profilu. Ten scenariusz można zbadać dla określonego urządzenia, wybierając je w węźle Stan urządzenia profilu planu bazowego zabezpieczeń. Aby uzyskać szczegółowe informacje, zobacz [Rozwiązywanie konfliktów dotyczących planu bazowego zabezpieczeń.](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines)
+Najczęstszą przyczyną niezastosowania ustawienia planu bazowego jest to, że to samo ustawienie jest używane w innym profilu. Ten scenariusz można zbadać dla konkretnego urządzenia, wybierając to urządzenie w węźle Stan urządzenia profilu planu bazowego zabezpieczeń. Aby uzyskać szczegółowe informacje, zobacz [Rozwiązywanie konfliktów dotyczących planów bazowych zabezpieczeń](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines).
