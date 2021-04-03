@@ -1,5 +1,5 @@
 ---
-title: Dodawanie rozszerzenia do przeglądarki Microsoft Edge z poziomu sklepu Microsoft Edge z dodatkiem
+title: Dodawanie rozszerzenia do przeglądarki Microsoft Edge ze sklepu Microsoft Edge Add-ons Store
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003858"
 - "6919"
-ms.openlocfilehash: 18c7a6a8e397744a114c4bb91df6c45416d9af87
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+- "8310"
+- "9004621"
+ms.openlocfilehash: eacc0feca236f1d25e79aa55a56645c0b290c631
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679938"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505012"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a><span data-ttu-id="714f3-102">Dodawanie rozszerzenia do przeglądarki Microsoft Edge z poziomu sklepu Microsoft Edge z dodatkiem</span><span class="sxs-lookup"><span data-stu-id="714f3-102">Add an extension to Microsoft Edge from the Microsoft Edge Add-ons Store</span></span>
+# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a><span data-ttu-id="444f5-102">Dodawanie rozszerzenia do przeglądarki Microsoft Edge ze sklepu Microsoft Edge Add-ons Store</span><span class="sxs-lookup"><span data-stu-id="444f5-102">Add an extension to Microsoft Edge from the Microsoft Edge Add-ons Store</span></span>
 
-<span data-ttu-id="714f3-103">Aby dodać rozszerzenie do przeglądarki Microsoft Edge z poziomu sklepu Microsoft Edge:</span><span class="sxs-lookup"><span data-stu-id="714f3-103">To add an extension to Microsoft Edge from the Microsoft Edge Add-ons store:</span></span>
+<span data-ttu-id="444f5-103">Aby dodać rozszerzenie do przeglądarki Microsoft Edge ze sklepu dodatków Microsoft Edge:</span><span class="sxs-lookup"><span data-stu-id="444f5-103">To add an extension to Microsoft Edge from the Microsoft Edge Add-ons store:</span></span>
 
-- <span data-ttu-id="714f3-104">Otwórz program Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="714f3-104">Open Microsoft Edge.</span></span>
-- <span data-ttu-id="714f3-105">Wybierz pozycję **... > rozszerzenia > [Uzyskaj rozszerzenia dla przeglądarki Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.</span><span class="sxs-lookup"><span data-stu-id="714f3-105">Select **... > Extensions > [Get extensions for Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.</span></span>
-- <span data-ttu-id="714f3-106">Wybierz rozszerzenie, które chcesz dodać, a następnie wybierz pozycję **Pobierz**.</span><span class="sxs-lookup"><span data-stu-id="714f3-106">Select the extension you would like to add, and then select **Get**.</span></span>
-- <span data-ttu-id="714f3-107">W oknie dialogowym potwierdzenia dokładnie Przejrzyj modyfikacje, które może wprowadzić rozszerzenie, a następnie wybierz pozycję **Dodaj rozszerzenie**.</span><span class="sxs-lookup"><span data-stu-id="714f3-107">In the confirmation dialog box, carefully review the modifications that the extension might make, and select **Add extension**.</span></span>
+- <span data-ttu-id="444f5-104">Otwórz program Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="444f5-104">Open Microsoft Edge.</span></span>
+- <span data-ttu-id="444f5-105">Wybierz **pozycję ... > rozszerzenia > [Uzyskaj rozszerzenia dla przeglądarki Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2136408)**</span><span class="sxs-lookup"><span data-stu-id="444f5-105">Select **... > Extensions > [Get extensions for Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.</span></span>
+- <span data-ttu-id="444f5-106">Wybierz rozszerzenie, które chcesz dodać, a następnie wybierz **pobierz**.</span><span class="sxs-lookup"><span data-stu-id="444f5-106">Select the extension you would like to add, and then select **Get**.</span></span>
+- <span data-ttu-id="444f5-107">W oknie dialogowym potwierdzenia uważnie przejrzyj zmiany, które może wprowadzić rozszerzenie, i wybierz **pozycję Dodaj rozszerzenie**.</span><span class="sxs-lookup"><span data-stu-id="444f5-107">In the confirmation dialog box, carefully review the modifications that the extension might make, and select **Add extension**.</span></span>
 
-<span data-ttu-id="714f3-108">Otrzymasz potwierdzenie, że rozszerzenie zostało dodane.</span><span class="sxs-lookup"><span data-stu-id="714f3-108">You will then get a confirmation that the extension has been added.</span></span>
+<span data-ttu-id="444f5-108">Otrzymasz wtedy potwierdzenie dodania rozszerzenia.</span><span class="sxs-lookup"><span data-stu-id="444f5-108">You will then get a confirmation that the extension has been added.</span></span>
