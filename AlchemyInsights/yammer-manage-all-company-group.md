@@ -1,5 +1,5 @@
 ---
-title: Usługa Yammer — zarządzanie całą grupą firmową
+title: Yammer Zarządzaj całą grupą firmową
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a7b607adba78349309d8f2ceb067f0c7493905c
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688848"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505438"
 ---
-# <a name="all-company-group"></a>Cała grupa firmy
+# <a name="all-company-group"></a>Cała grupa firmowa
 
-Grupa **cała firma** jest tworzona automatycznie podczas tworzenia sieci usługi Yammer. Jest to domyślna grupa systemowa, której nie można usunąć ani zmienić jej nazwy. Wszyscy mogą publikować w grupie **Wszyscy** , ale tylko administratorzy sieci usługi Yammer mogą publikować anonse w grupie. Korzystaj z **grup**, aby wyświetlić informacje o zakontraktowaniu w grupie **wszystkie firmy** .
+Społeczność Cała firma obsługuje teraz funkcje podobne do innych społeczności w Yammer. Obejmuje to opcje, takie jak zdjęcia okładki i nazewnictwo. Można też ograniczyć wpisy w 2010 r. do wszystkich firm Yammer. Aby uzyskać więcej informacji, zobacz Cała firma działa teraz podobnie Yammer [społeczności użytkowników.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)
 
-Aby uzyskać więcej informacji, zobacz [Zarządzanie grupą w usłudze Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).
+## <a name="common-issues-and-solutions"></a>Typowe problemy i rozwiązania
+
+- Uprawnienia do dostosowywania i publikowania treści w całej firmie nie są dostępne dla administratorów sieci. Otwórz żądanie usługi, aby włączyć grupę Nowoczesna cała firma.
+
+- W szczegółowych informacjach o społeczności nie są wyświetlane stare dane. Teraz, gdy cała firma jest rzeczywistą społecznością, poprzednie dane dotyczące sieci nie są wyświetlane.
+
+- Cała firma wydaje się zostać usunięta. Gdy społeczność jest połączona z grupą platformy Microsoft 365, można ją usunąć. W dzierżawie należy przywrócić grupę platformy Microsoft 365.
+

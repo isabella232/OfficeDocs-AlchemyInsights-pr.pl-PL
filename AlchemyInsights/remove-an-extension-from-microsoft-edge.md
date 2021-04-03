@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003881"
 - "6936"
-ms.openlocfilehash: d0fda273317a2f2437f8808cbf29d9a9788df225
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+- "8311"
+- "9004621"
+ms.openlocfilehash: 1c8cfa9e871957de647b19b3ef6746740886d2fb
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679962"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51504970"
 ---
 # <a name="remove-an-extension-from-microsoft-edge"></a>Usuwanie rozszerzenia z przeglądarki Microsoft Edge
 
 Aby usunąć rozszerzenie z przeglądarki Microsoft Edge:
 
 1. Otwórz program Microsoft Edge.
-2. Wybierz pozycję **... > rozszerzenia**.
-3. Na stronie **zainstalowane rozszerzenia** Znajdź rozszerzenie, które chcesz usunąć, a następnie wybierz pozycję **Usuń** obok niego.
+2. Wybierz **pozycję ... > rozszerzenia**.
+3. Na stronie **Zainstalowane rozszerzenia** znajdź rozszerzenie, które chcesz usunąć, a następnie wybierz pozycję **Usuń** obok niego.
 4. W oknie dialogowym potwierdzenia wybierz pozycję **Usuń**.

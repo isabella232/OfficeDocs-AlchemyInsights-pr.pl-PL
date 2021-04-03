@@ -1,5 +1,5 @@
 ---
-title: Dodawanie rozszerzenia do przeglądarki Microsoft Edge ze sklepu Chrome Web Store
+title: Dodawanie rozszerzenia do przeglądarki Microsoft Edge ze sklepu internetowego Chrome
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003868"
 - "6922"
-ms.openlocfilehash: b11a1304ce6c82c6182dfdcc13716d295ab802d3
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "8312"
+- "9004621"
+ms.openlocfilehash: 0b393d548ab8cf408c26c1548f29e02e61bd8695
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679267"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505036"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Dodawanie rozszerzenia do przeglądarki Microsoft Edge ze sklepu Chrome Web Store
+# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Dodawanie rozszerzenia do przeglądarki Microsoft Edge ze sklepu internetowego Chrome
 
-Aby dodać rozszerzenie do przeglądarki Microsoft Edge z poziomu sklepu Chrome w sieci Web, wykonaj następujące czynności:
+Aby dodać rozszerzenie do przeglądarki Microsoft Edge ze sklepu internetowego Chrome, wykonaj następujące czynności:
 
 1. Przejdź do sklepu Chrome Web Store.
-2. Na transparencie u góry strony wybierz pozycję **Zezwalaj na rozszerzenia z innych sklepów**.
-3. Wybierz rozszerzenie, które chcesz dodać, a następnie kliknij pozycję **Dodaj do Chrome**.
-4. W oknie dialogowym potwierdzenia dokładnie Przejrzyj modyfikacje, które może wprowadzić rozszerzenie, a następnie kliknij pozycję **Dodaj rozszerzenie**.
-Ostatnie okno dialogowe potwierdzi, że rozszerzenie zostało dodane.
+2. Na banerze u góry strony wybierz opcję **Zezwalaj na rozszerzenia z innych sklepów**.
+3. Wybierz rozszerzenie, które chcesz dodać, a następnie kliknij pozycję **Dodaj do przeglądarki Chrome.**
+4. W oknie dialogowym potwierdzenia uważnie przejrzyj zmiany, które może wprowadzić rozszerzenie, a następnie kliknij pozycję **Dodaj rozszerzenie**.
+Ostatnie okno dialogowe potwierdzi dodanie rozszerzenia.

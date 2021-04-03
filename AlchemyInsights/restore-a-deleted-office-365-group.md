@@ -1,5 +1,5 @@
 ---
-title: Przywracanie usuniętej grupy programu Microsoft 365
+title: Przywracanie usuniętej grupy platformy Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,20 +14,27 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 963af6d056d1df07905970b8a45f7916cdb35469
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774717"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505697"
 ---
-# <a name="restore-a-deleted-microsoft-365-group"></a>Przywracanie usuniętej grupy programu Microsoft 365
+# <a name="restore-a-deleted-microsoft-365-group"></a>Przywracanie usuniętej grupy platformy Microsoft 365
 
-Usunięte grupy są zachowywane przez 30 dni. Aby przywrócić usuniętą grupę:
-  
-1. W [centrum administracyjnym programu Exchange](https://outlook.office365.com/ecp/)wybierz pozycję **Adresaci** w okienku po lewej stronie, a następnie wybierz pozycję **grupy**. Jeśli usunięto grupę później niż 30 dni temu, zostanie ona wyświetlona na liście, a w kolumnie Stan zostanie wyświetlona data usunięcia.
+Usuniętą grupę platformy Microsoft 365 lub usługę Microsoft Teams możesz przywrócić w ciągu 30 dni od usunięcia.
 
-2. Zaznacz grupę, a następnie kliknij pozycję **Przywróć** na pasku poleceń lub kliknij łącze "kliknij tutaj, aby przywrócić" w okienku szczegółów.
+1. Aby zalogować się do centrum administracyjnego platformy Microsoft 365 i wyświetlić listę usuniętych grup i zespołów, przejdź do centrum administracyjnego platformy [Microsoft 365.](https://aka.ms/RestoreDeletedGroup)
 
-Aby uzyskać więcej informacji lub dowiedzieć się, jak przywrócić grupy za pomocą programu PowerShell, zobacz [przywracanie usuniętej grupy programu Microsoft 365](https://go.microsoft.com/fwlink/?linkid=867802).
-  
+    **Uwaga:** Zaloguj się przy użyciu konta przypisanego do administratora dzierżawy lub roli administratora grup.
+
+1. Wybierz usuniętą grupę platformy Microsoft 365/usługę Teams do przywrócenia i kliknij grupę **przywracania.**
+
+    Jeśli nie można przywrócić grupy z powodu konfliktu adresu SMTP, użyj następującego polecenia, aby znaleźć obiekt, który powoduje konflikt, i usunąć adres SMTP:
+
+    `Get-Recipient -Filter "EmailAddresses -eq '<conflictingsmtpaddress>'"`
+
+    **Uwaga:** W niektórych przypadkach przywrócenie grupy i wszystkich jej danych może potrwać nawet 24 godziny.
+
+    Aby uzyskać więcej informacji lub dowiedzieć się, jak przywrócić grupy przy użyciu programu PowerShell, zobacz [Przywracanie usuniętej grupy platformy Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=867802)
