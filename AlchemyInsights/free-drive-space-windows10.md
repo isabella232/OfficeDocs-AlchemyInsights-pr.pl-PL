@@ -1,5 +1,5 @@
 ---
-title: Wolne miejsce na dysku w systemie Windows 10
+title: Zwalnianie miejsca na dysku w systemie Windows 10
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -12,48 +12,50 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9771"
+- "9774"
+- "9005390"
 - "9005403"
-ms.openlocfilehash: 3838f3db3bc5f54bcb1a2558484056f3194b76e1
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 2313636307bfddce2810c2d4c4ce9e3b407a7bdf
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037955"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505366"
 ---
-# <a name="free-up-drive-space-in-windows-10"></a>Wolne miejsce na dysku w systemie Windows 10
+# <a name="free-up-drive-space-in-windows-10"></a>Zwalnianie miejsca na dysku w systemie Windows 10
 
-Oto dwie opcje, które można zrobić, aby uwolnić miejsce na dysku w systemie Windows:
+Oto dwie metody zwalniania miejsca na dysku w systemie Windows:
 
-- Uwolnij miejsce na dysku w systemie Windows 10.
-- Uwolnij miejsce na aktualizacje systemu Windows 10 za pomocą zewnętrznego urządzenia magazynującego.
+- Zwalnianie miejsca na dysku w systemie Windows 10
+- Zwolnij miejsce na aktualizacje systemu Windows 10 za pomocą zewnętrznego urządzenia pamięci masowej.
 
-Jeśli po użyciu funkcji Oczyszczanie dysku nadal masz mało miejsca na dysku, możliwe, że folder Temp szybko wypełnia pliki aplikacji (appx) używane w Sklepie Microsoft. Aby rozwiązać ten problem, zresetuj Sklep, wyczyść pamięć podręczną Sklepu, a następnie uruchom narzędzie do rozwiązywania problemów z usługą Windows Update. Przed kontynuowaniem tej procedury upewnij się, że Sklep Microsoft jest zamknięty.
+Jeśli po użyciu narzędzia Oczyszczanie dysku nadal masz mało miejsca na dysku, możliwe, że folder Temp szybko zapełnia się plikami aplikacji (.appx) używanymi przez Microsoft Store. Aby rozwiązać ten problem, zresetuj sklep Microsoft Store, wyczyść jego pamięć podręczną, a następnie uruchom narzędzie do rozwiązywania problemów usługi Windows Update. Przed wykonaniem tych czynności upewnij się, że sklep Microsoft Store jest zamknięty.
 
-**Krok 1. Resetowanie Sklepu Microsoft**
+**Krok 1. Resetowanie sklepu Microsoft Store**
 
-**Uwaga** Spowoduje to trwałe usunięcie danych aplikacji na urządzeniu, w tym Twoich preferencji i szczegółów logowania.
+**Uwaga** Spowoduje to trwałe usunięcie danych aplikacji z urządzenia, w tym preferencji i danych logowania.
 
-1. Wybierz **pozycję Start**  >  **Ustawienia**  >  **Aplikacje**&  >  **funkcje**.
+1. Wybierz pozycję **Start** > **Ustawienia** > **Aplikacje** > **Aplikacje i funkcje**.
 
-1. Na liście aplikacji znajdź i wybierz pozycję Microsoft Store.
+1. Na liście aplikacji znajdź i wybierz sklep Microsoft Store.
 
-1. Wybierz **pozycję Opcje zaawansowane.**
+1. Wybierz **Opcje zaawansowane**.
 
-1. Przewiń w dół i **wybierz pozycję Resetuj**, a następnie **Potwierdź resetowanie**.
+1. Przewiń w dół i wybierz **Resetowanie**, a następnie **Potwierdź resetowanie**.
 
-**Krok 2. Wyczyszczenie pamięci podręcznej Microsoft Store**
+**Krok 2. Wyczyść pamięć podręczną sklepu Microsoft Store**
 
-1. Naciśnij klawisze logo Windows + R, aby otworzyć okno dialogowe Uruchamianie.
+1. Naciśnij klawisze logo Windows+R, aby otworzyć okno dialogowe Uruchamianie.
 
-1. Wpisz wsreset.exe i wybierz przycisk **OK.**
+1. Wpisz wsreset.exe i wybierz **OK**.
 
-1. Zostanie otwarte puste okno wiersza polecenia. Po upływie około 10 sekund okno zostaje zamknięte, a Sklep jest otwierany automatycznie.
+1. Otwarte zostanie puste okno wiersza poleceń. Po upływie około 10 sekund okno zostanie zamknięte, a sklep zostanie automatycznie otwarty.
 
 **Krok 3. Resetowanie usługi Windows Update**
 
-1. Wybierz **pozycję Uruchom**  >    >  **aktualizację ustawień i & rozwiązywanie problemów z**  >  **zabezpieczeniami.**
+1. Wybierz **Start** > **Ustawienia** > **Aktualizacja i zabezpieczenia** > **Rozwiązywanie problemów**.
 
-1. Przewiń w dół i wybierz z listy usługę **Windows Update,** a następnie **wybierz pozycję Uruchom narzędzie do rozwiązywania problemów**.
+1. Przewiń w dół i wybierz **Windows Update** z listy, a następnie wybierz pozycję **Uruchom narzędzie do rozwiązywania problemów**.
 
 1. Uruchom ponownie komputer i sprawdź, czy problem nadal występuje.
 
