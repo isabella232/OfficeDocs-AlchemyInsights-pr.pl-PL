@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696299"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645177"
 ---
 # <a name="issues-when-installing-exchange-server-updates"></a>Problemy podczas instalowania Exchange Server aktualizacji
 
-Przed zainstalowaniem Exchange Server zapoznaj się z sekcją "Najlepsze rozwiązania" artykułu Uaktualnianie programu Exchange do najnowszej aktualizacji [skumulowanej.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Szczególnie ważne jest instalowanie aktualizacji za pomocą wiersza polecenia CMD z podwyższonym poziomem uprawnień (chyba że aktualizacje są instalowane za pośrednictwem usługi Microsoft Update). Dotyczy to zarówno aktualizacji skumulowanych, jak i aktualizacji zabezpieczeń!
+Jeśli musisz zaktualizować skumulowaną aktualizację do najnowszej aktualizacji skumulowanej dla systemu Exchange Server, możesz uzyskać szczegółowy zestaw czynności do zaktualizowania z bieżącej skumulowanej aktualizacji na docelową. [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard)
 
-Jeśli podczas instalowania aktualizacji zabezpieczeń lub po zainstalowaniu aktualizacji występują błędy, zobacz ten artykuł na temat rozwiązywania [problemów z instalacjami, których instalacja zakończyła się niepowodzeniem.](https://aka.ms/exupdatefaq)
+Jeśli podczas instalowania aktualizacji programu Exchange Server lub po ich zainstalowaniu występują błędy, zobacz sekcję "Najlepsze rozwiązania" w artykule Uaktualnianie programu Exchange do najnowszej aktualizacji [skumulowanej.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Bardzo ważne jest instalowanie aktualizacji zabezpieczeń za pomocą wiersza polecenia CMD z podwyższonym poziomem uprawnień (jeśli aktualizacje nie są instalowane za pośrednictwem usługi Microsoft Update).
+
+Jeśli widzisz błędy podczas instalowania aktualizacji zabezpieczeń lub po zainstalowaniu aktualizacji, zobacz Naprawianie nieudanych instalacji aktualizacji [programu Exchange Skumulowany i Aktualizacje zabezpieczeń.](https://aka.ms/exupdatefaq)
