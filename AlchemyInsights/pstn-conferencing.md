@@ -1,5 +1,5 @@
 ---
-title: Konferencje PSTN
+title: Połączenia konferencyjne z siecią PSTN
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: 4143ac7ef724bf9730a91ed8c317c4afdd122b81
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0bf07abb9f28528d6c24a801fb0c2d565654ccec
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768545"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692368"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>Połączenia z siecią PSTN za pomocą usługi Skype dla firm Online
+# <a name="pstn-calling-with-skype-for-business-online"></a>Połączenia z siecią PSTN w usłudze Skype dla firm Online
 
-Do nawiązywania połączeń z siecią PSTN w systemie Microsoft 365 potrzebny jest [Plan połączeń Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) lub połączenie z lokalną infrastrukturą telefonii PSTN. Aby uzyskać więcej informacji, zapoznaj się z następującymi zasobami: 
+Aby można było dzwonić do sieci PSTN na platformie Microsoft 365, potrzebny jest plan telefoniczny [Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) lub połączenie z lokalną infrastrukturą telefonii PSTN. Aby uzyskać więcej informacji, zapoznaj się z następującymi zasobami: 
 
-- [Dostępność kraju i regionu dla konferencji audio i planów połączeń](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
-- [Często zadawane pytania dotyczące konferencji audio](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
-- [Dodawanie funduszy i zarządzanie kredytami komunikacyjnymi](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [Połączenia konferencyjne z siecią PSTN nie mogą dołączyć do konferencji telefonicznej Skype dla firm](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [Dostępność dla krajów i regionów w przypadku konferencji audio i planów telefonicznych aplikacji Microsoft Teams](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
+- [Konferencje głosowe — typowe pytania](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [Dodawanie środków i zarządzanie środkami na komunikację](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
+- [Dzwoniący z sieci PSTN nie mogą dołączać do telefonicznego połączenia konferencyjnego programu Skype dla firm](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

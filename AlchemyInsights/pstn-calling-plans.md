@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662515"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692476"
 ---
 # <a name="pstn-calling-plans"></a>Pakiety telefoniczne sieci PSTN
 
@@ -28,4 +28,4 @@ Jeśli chcesz, aby Twoi użytkownicy mogli nawiązywać połączenia ze zwykłym
 
 - Skonfiguruj [środki na rozmowy](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization), aby zapobiec **wyczerpywaniu się minut**, jakimi dysponują użytkownicy. Zobacz stawki [tutaj](https://products.office.com/microsoft-teams/voice-calling). 
 
-- Aby uzyskać więcej informacji, zobacz [System telefoniczny i pakiety telefoniczne](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) lub [Co to są środki na rozmowy?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- Aby uzyskać więcej informacji, zobacz Plany telefoniczne aplikacji Microsoft Teams i [usługi Microsoft Teams lub](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) Co to są środki na [rozmowy?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
