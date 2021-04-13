@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: e544e1d71a4aa61c1a16f2d3647050129ceb164e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1234963d16c011a010cf2b6c99be098edce2dfb6
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764379"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692692"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Konfigurowanie konferencji głosowych w aplikacji Teams
 
@@ -36,10 +37,10 @@ Aby sprawdzić, czy użytkownik ma licencję na konferencje głosowe oraz domyś
 
 4. W sekcji **Centra administracyjne** użytkownika kliknij pozycję **Pokaż wszystko**, a następnie kliknij pozycję **Teams**.
 
-5. W **centrum administracyjnym aplikacji Microsoft Teams**kliknij pozycję **Stary portal**.
+5. W **centrum administracyjnym aplikacji Microsoft Teams** kliknij pozycję **Stary portal**.
 
 6. W **centrum administracyjnym programu Skype dla firm** kliknij pozycję **konferencja głosowa**, a następnie **użytkownicy**.
 
 7. Zaznacz danego użytkownika i sprawdź, czy ma **domyślny numer płatny**.
 
-Aby uzyskać więcej informacji, przeczytaj artykuł [pakiety telefoniczne na platformie Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) lub zadzwoń do zespołu ds. rozliczeń z przedsiębiorstwami firmy Microsoft, aby uzyskać pomoc dotyczącą licencji.
+Aby uzyskać więcej informacji, przeczytaj artykuł [Plany połączeń telefonicznych w Microsoft Teams dla Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) lub zadzwoń do zespołu ds. rozliczeń z przedsiębiorstwami firmy Microsoft, aby uzyskać pomoc dotyczącą licencji.
