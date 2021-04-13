@@ -1,5 +1,5 @@
 ---
-title: Rozpoczynanie korzystania z przeglądarki Microsoft Edge
+title: Rozpoczynanie korzystania z programu Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004163"
 - "7280"
-ms.openlocfilehash: b41b54d6888e6cfed422d0c38d17bb86b24b187b
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+- "10908"
+- "9006389"
+ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679819"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692764"
 ---
-# <a name="start-using-microsoft-edge"></a><span data-ttu-id="7960d-102">Rozpoczynanie korzystania z przeglądarki Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="7960d-102">Start using Microsoft Edge</span></span>
+# <a name="start-using-microsoft-edge"></a><span data-ttu-id="788bb-102">Rozpoczynanie korzystania z programu Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="788bb-102">Start using Microsoft Edge</span></span>
 
-<span data-ttu-id="7960d-103">Firma Microsoft opublikowała nową przeglądarkę Microsoft Edge, która jest następną generację przeglądarki sieci Web.</span><span class="sxs-lookup"><span data-stu-id="7960d-103">Microsoft has released the new Microsoft Edge, which is the next generation of its web browser.</span></span> <span data-ttu-id="7960d-104">Jest on oparty na usłudze chrom Open-Source Foundation i został zoptymalizowany pod kątem współpracy z produktami firmy Microsoft, takimi jak SharePoint i OneDrive.</span><span class="sxs-lookup"><span data-stu-id="7960d-104">It is built on the Chromium open-source foundation and has been optimized to work with Microsoft products, like SharePoint and OneDrive.</span></span>
+<span data-ttu-id="788bb-103">Firma Microsoft wydała nową przeglądarkę Microsoft Edge, która jest kolejną generacją swojej przeglądarki internetowej.</span><span class="sxs-lookup"><span data-stu-id="788bb-103">Microsoft has released the new Microsoft Edge, which is the next generation of its web browser.</span></span> <span data-ttu-id="788bb-104">Została ona zbudowana na podstawie platformy typu open source Chromium i została zoptymalizowana pod kątem współpracy z produktami firmy Microsoft, np. SharePoint i OneDrive.</span><span class="sxs-lookup"><span data-stu-id="788bb-104">It is built on the Chromium open-source foundation and has been optimized to work with Microsoft products, like SharePoint and OneDrive.</span></span>
 
-<span data-ttu-id="7960d-105">Jeśli występują problemy z usługą Google Chrome, Mozilla Firefox lub Safari, zalecamy korzystanie z przeglądarki Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="7960d-105">If you are experiencing issues with Google Chrome, Mozilla Firefox, or Safari, we recommend using Microsoft Edge.</span></span>
+<span data-ttu-id="788bb-105">Jeśli występują problemy z przeglądarką Google Chrome, Mozilla Firefox lub Safari, zalecamy używanie programu Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="788bb-105">If you are experiencing issues with Google Chrome, Mozilla Firefox, or Safari, we recommend using Microsoft Edge.</span></span>
 
-<span data-ttu-id="7960d-106">Jeśli jesteś administratorem dużej organizacji, Skorzystaj z naszego [przewodnika po konfiguracji programu Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142423) , aby rozpocząć pracę.</span><span class="sxs-lookup"><span data-stu-id="7960d-106">If you are an admin of a large organization, use our [Microsoft Edge setup guide](https://go.microsoft.com/fwlink/?linkid=2142423) to get started.</span></span>
+<span data-ttu-id="788bb-106">Jeśli jesteś administratorem w dużej organizacji, skorzystaj z przewodnika konfiguracji [programu Microsoft Edge,](https://go.microsoft.com/fwlink/?linkid=2142423) aby rozpocząć.</span><span class="sxs-lookup"><span data-stu-id="788bb-106">If you are an admin of a large organization, use our [Microsoft Edge setup guide](https://go.microsoft.com/fwlink/?linkid=2142423) to get started.</span></span>
 
-<span data-ttu-id="7960d-107">Aby pobrać aplikację Microsoft Edge na jednym urządzeniu na raz, przejdź do [strony wprowadzenie nowej przeglądarki Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).</span><span class="sxs-lookup"><span data-stu-id="7960d-107">To download Microsoft Edge on one device at a time, go to [Introducing the new Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).</span></span>
+<span data-ttu-id="788bb-107">Aby pobrać program Microsoft Edge na jedno urządzenie na raz, przejdź do [wprowadzenie nowej microsoft edge.](https://go.microsoft.com/fwlink/?linkid=2141049)</span><span class="sxs-lookup"><span data-stu-id="788bb-107">To download Microsoft Edge on one device at a time, go to [Introducing the new Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).</span></span>
