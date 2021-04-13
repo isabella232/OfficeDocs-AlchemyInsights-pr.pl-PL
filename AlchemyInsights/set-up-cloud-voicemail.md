@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "4567"
-ms.openlocfilehash: 9b59d9e8ee0a44a177a947cc5abf97e7f3c99294
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 2ba30f5ff9dc2cc5237a1ed503b00b405cc272ce
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49715643"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692872"
 ---
-# <a name="set-up-or-troubleshoot-cloud-voicemail"></a><span data-ttu-id="7cbcd-102">Konfiguracja lub rozwiązywanie problemów poczty głosowej w chmurze</span><span class="sxs-lookup"><span data-stu-id="7cbcd-102">Set up or troubleshoot Cloud Voicemail</span></span>
+# <a name="set-up-or-troubleshoot-cloud-voicemail"></a><span data-ttu-id="6a2d7-102">Konfiguracja lub rozwiązywanie problemów poczty głosowej w chmurze</span><span class="sxs-lookup"><span data-stu-id="6a2d7-102">Set up or troubleshoot Cloud Voicemail</span></span>
 
-- [<span data-ttu-id="7cbcd-103">Konfigurowanie poczty głosowej w chmurze</span><span class="sxs-lookup"><span data-stu-id="7cbcd-103">Set up Cloud Voicemail</span></span>](https://docs.microsoft.com/microsoftteams/set-up-phone-system-voicemail) 
-- [<span data-ttu-id="7cbcd-104">Licencjonowanie dodatku do aplikacji Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="7cbcd-104">Microsoft Teams add-on licensing</span></span>](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing) 
-- <span data-ttu-id="7cbcd-105">System telefoniczny ze środowiskami lokalnymi: [Konfigurowanie usługi poczty głosowej w chmurze dla użytkowników lokalnych](https://docs.microsoft.com/skypeforbusiness/hybrid/configure-cloud-voicemail)</span><span class="sxs-lookup"><span data-stu-id="7cbcd-105">Phone System with on-premises environments: [Configure Cloud Voicemail service for on-premises users](https://docs.microsoft.com/skypeforbusiness/hybrid/configure-cloud-voicemail)</span></span> 
-- [<span data-ttu-id="7cbcd-106">Plany połączeń dostępne na platformie Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="7cbcd-106">Calling Plans for Microsoft 365</span></span>](https://docs.microsoft.com//microsoftteams/calling-plans-for-office-365) 
+- [<span data-ttu-id="6a2d7-103">Konfigurowanie poczty głosowej w chmurze</span><span class="sxs-lookup"><span data-stu-id="6a2d7-103">Set up Cloud Voicemail</span></span>](https://docs.microsoft.com/microsoftteams/set-up-phone-system-voicemail) 
+- [<span data-ttu-id="6a2d7-104">Licencjonowanie dodatku do aplikacji Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="6a2d7-104">Microsoft Teams add-on licensing</span></span>](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing) 
+- <span data-ttu-id="6a2d7-105">Telefon w Microsoft Teams w otoczeniach lokalnych: [Konfigurowanie usługi poczty głosowej w chmurze Microsoft dla użytkowników lokalnych](https://docs.microsoft.com/skypeforbusiness/hybrid/configure-cloud-voicemail)</span><span class="sxs-lookup"><span data-stu-id="6a2d7-105">Microsoft Teams Phone with on-premises environments: [Configure Cloud Voicemail service for on-premises users](https://docs.microsoft.com/skypeforbusiness/hybrid/configure-cloud-voicemail)</span></span> 
+- [<span data-ttu-id="6a2d7-106">Plany połączeń telefonicznych w Microsoft Teams dla usługi Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="6a2d7-106">Microsoft Teams Calling Plans for Microsoft 365</span></span>](https://docs.microsoft.com//microsoftteams/calling-plans-for-office-365) 
 
-<span data-ttu-id="7cbcd-107">Jeśli wiadomości poczty głosowej nie są dostarczane, zobacz [Wiadomości poczty głosowej nie są dostarczane w aplikacji Teams lub do klienta programu Skype dla firm](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/hybrid-phone-system/voicemails-not-delivered).</span><span class="sxs-lookup"><span data-stu-id="7cbcd-107">If voicemail messages are not delivered, see [Voicemail messages are not delivered in Teams or Skype for Business client](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/hybrid-phone-system/voicemails-not-delivered).</span></span>
+<span data-ttu-id="6a2d7-107">Jeśli wiadomości poczty głosowej nie są dostarczane, zobacz [Wiadomości poczty głosowej nie są dostarczane w aplikacji Teams lub do klienta programu Skype dla firm](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/hybrid-phone-system/voicemails-not-delivered).</span><span class="sxs-lookup"><span data-stu-id="6a2d7-107">If voicemail messages are not delivered, see [Voicemail messages are not delivered in Teams or Skype for Business client](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/hybrid-phone-system/voicemails-not-delivered).</span></span>
