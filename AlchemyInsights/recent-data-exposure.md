@@ -1,8 +1,8 @@
 ---
-title: Ostatnie narażenie na dane
+title: Ostatnia ekspozycja na dane
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28a45f9922dd53727d80707aed781f7497c7ab9c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693241"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789370"
 ---
-# <a name="recent-data-exposure"></a>Ostatnie narażenie na dane
+# <a name="recent-data-exposure"></a>Ostatnia ekspozycja na dane
 
-Firma Microsoft powiedziała o tym, że zewnętrzna osoba prowadząca wyszukiwanie w bazie danych redacted danych pomocy technicznej firmy Microsoft była dostępna bez uwierzytelniania. W dniu 31 grudnia 2019 firma Microsoft pozabezpieczona bazą danych.
+Firma Microsoft wiedziała, że baza danych hostowana przez redagowane dane pomocy technicznej firmy Microsoft była dostępna bez uwierzytelniania. W dniu 31 grudnia 2019 r. firma Microsoft zabezpieczyła bazę danych.
 
-Jesteśmy w stanie poufności informacji i bezpieczeństwa naszych klientów oraz podjąć działania zapobiegające wystąpieniu tego problemu w przyszłości. Wysyłamy powiadomienia do klientów, których dane znajdują się w tej redactedej bazie danych. Aby uzyskać więcej informacji, zobacz [Informacje o świadomości klienta dotyczące niedawnego narażenia na informacje](https://aka.ms/privacyinfo).
+Dbamy o ochronę prywatności i bezpieczeństwo naszych klientów i staramy się zapobiegać występowaniu tego problemu w przyszłości. Rozpoczęliśmy powiadomienia dla klientów, których dane były obecne w tej redagowanych bazach danych. Aby uzyskać więcej informacji, przejdź do informacji dotyczących ostatnich informacji dotyczących kontaktu z [klientami.](https://aka.ms/privacyinfo)

@@ -1,8 +1,8 @@
 ---
-title: Konfigurowanie i włączanie automatycznej usługi Teams
+title: Konfigurowanie i włączanie automatycznej attendant w u programie Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2386"
 - "9000548"
-ms.openlocfilehash: f5c76d14970f05710670657aed8b71887944cdf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d996c31668d463a5df7be45a3e16a0ecb0946d3c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801122"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787327"
 ---
-# <a name="set-up-a-cloud-auto-attendant"></a>Konfigurowanie autouzupełniania w chmurze
+# <a name="set-up-a-cloud-auto-attendant"></a>Konfigurowanie automatycznej automatycznej automatycznej pracy w chmurze
 
-W przypadku automatycznych opiekunów są obecnie określone wymagania dotyczące licencjonowania. Zobacz [co to są automatyczne usługi chmurowe?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) aby dowiedzieć się więcej o tworzeniu i konfigurowaniu automatycznych funkcji Teams. 
+Automatyczne attendants mają obecnie określone wymagania licencyjne. Zobacz [Co to są automatyczne attendants usługi Cloud?,](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) aby dowiedzieć się, jak tworzyć i tworzyć automatyczne attendants usługi Teams. 
 
 Aby uzyskać więcej informacji, zobacz:
 
-- [Skonfiguruj automatyczne dopełnienie w chmurze](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) za pomocą aplikacji Microsoft Teams. 
-- [Utwórz kolejkę rozmów w chmurze](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) z aplikacją Microsoft Teams. 
-- Odbierz automatyczne dołączanie [i dzwoń na rozmowy kolejowe bezpośrednio z zespołów](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
+- [Skonfiguruj automatyczną automatyczną attendant chmurę w](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) usłudze Microsoft Teams. 
+- [Utwórz kolejkę połączeń w chmurze w](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) usłudze Microsoft Teams. 
+- [Odbieraj automatyczną attendant i dzwoń do kolejki bezpośrednio z usługi Teams.](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls) 

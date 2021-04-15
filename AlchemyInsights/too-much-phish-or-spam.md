@@ -1,26 +1,30 @@
 ---
-title: 665 czy w skrzynce pocztowej są wyświetlane zbyt dużo wiadomości wyłudzających informacje lub spam?
+title: 665 Czy otrzymujesz w skrzynce pocztowej zbyt dużo wiadomości wyłudowych lub spamu?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.audience: ITPro
+ms.date: 04/14/2021
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 17b31d712ce6fdb36da8bbc2839c2b1df1de3cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4422ec5ca350dbb7608f936afa708887ce509ae3
+ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700249"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767947"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Czy w skrzynce pocztowej są wyświetlane zbyt dużo wiadomości wyłudzających informacje lub spam?
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Otrzymujesz za dużo wiadomości wyłudzywu lub spamu w skrzynce pocztowej?
 
-Jako administrator usługi Microsoft 365 najlepszym sposobem ustalenia, dlaczego została dostarczona wiadomość phishingowa lub spamowa, jest przesłanie próbki do firmy Microsoft w [Eksploratorze przesyłania](https://protection.office.com/reportsubmission). Będziesz otrzymywać natychmiastowe Opinie związane z filtrowaniem wiadomości i Dlaczego występują problemy.
+> [!NOTE]
+> Dostęp do centrum zabezpieczeń platformy Microsoft 365 można uzyskać na [stronie security.microsoft.com.](https://security.microsoft.com)
 
-Aby zapewnić sobie łatwość obsługi, możesz zezwolić użytkownikom na bezpośrednią sprawozdawczość z firmą Microsoft za pośrednictwem [dodatku wiadomości raportu](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Jako administrator platformy Microsoft 365, najlepszym sposobem określenia przyczyny dostarczenia wiadomości wyłudzającej informacje lub spamu jest przesłanie tej próbki do firmy Microsoft w [Eksploratorze przesyłania.](https://security.microsoft.com/reportsubmission) Natychmiast otrzymasz opinię na temat filtrowania wiadomości i tego, dlaczego występują problemy.
 
-**Czy wiesz**, że możesz teraz przesyłać próbki bezpośrednio z [funkcji śledzenia wiadomości](https://protection.office.com/messagetrace) i E5/ATP plan 2, klienci mogą przesyłać próbki z [Eksploratora zagrożeń](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+Aby ułatwić użytkownikom zgłaszanie raportu bezpośrednio do firmy Microsoft za pomocą dodatku Report [Message (Wiadomość raportu).](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
+
+**Czy wiesz?**: Teraz możesz przesyłać próbki bezpośrednio z śledzenia wiadomości, a klienci planu E5/ATP Plan 2 mogą przesyłać próbki z [](https://security.microsoft.com/messagetrace) [Eksploratora zagrożeń.](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)

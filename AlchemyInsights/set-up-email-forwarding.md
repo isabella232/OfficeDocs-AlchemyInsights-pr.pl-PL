@@ -2,7 +2,7 @@
 title: Konfigurowanie przesyłania dalej poczty e-mail
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 4ec122967a93f707478e05ac7874cbc884a88c84
-ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
+ms.openlocfilehash: a7fba259375c667ff2e0f14a03972e102468cd27
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50037195"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787147"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Sprawdzanie ustawień przesyłania dalej poczty e-mail dla skrzynki pocztowej
 
-Po pierwsze, przesyłanie dalej poczty e-mail musi być włączone na poziomie dzierżawy. Jeśli w skrzynce pocztowej ustawiono przesyłanie dalej poczty e-mail, ale nie działa (jest wyświetlany komunikat o błędzie "Odmowa dostępu **550 5.7.520,** Twoja organizacja nie zezwala na przesyłanie dalej zewnętrzne" ) zobacz "Automatyczne zewnętrzne przesyłanie poczty e-mail na platformie [Microsoft 365".](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide)
+Po pierwsze, przesyłanie dalej poczty e-mail musi być włączone na poziomie dzierżawy. Jeśli w skrzynce pocztowej nie działa funkcja przesyłania dalej poczty e-mail (jest wyświetlany komunikat o błędzie "Odmowa dostępu **550 5.7.520,** Oznacza to, że Twoja organizacja nie zezwala na przesyłanie dalej zewnętrzne" — zobacz Kontrolowanie automatycznego zewnętrznego przesyłania dalej wiadomości e-mail na platformie [Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide)
 
 Sprawdzanie ustawień przesyłania dalej wiadomości e-mail w skrzynce pocztowej jest łatwe! Po prostu wykonaj poniższe czynności.
   
-> Jeśli jest to skrzynka pocztowa użytkownika, przejdź do **witryny Aktywni** użytkownicy użytkowników i wybierz użytkownika, którego skrzynkę \>  pocztową przesyłasz dalej. Na karcie **Poczta** wybierz pozycję Zarządzaj przesyłaniem **dalej poczty e-mail.**
+> Jeśli jest to skrzynka pocztowa użytkownika, przejdź do **witryny Aktywni** użytkownicy użytkownicy i wybierz użytkownika, którego skrzynkę \>  pocztową przesyłasz dalej. Na karcie **Poczta** wybierz pozycję **Zarządzaj przesyłaniem dalej poczty e-mail**.
 
-> Jeśli jest to udostępniona  skrzynka pocztowa, przejdź do udostępnionych skrzynek pocztowych grup i wybierz udostępnioną skrzynkę pocztową przesyłaną \>  dalej. Wybierz **pozycję Edytuj,** aby przesyłać dalej wiadomości e-mail.
+> Jeśli jest to udostępniona skrzynka pocztowa, przejdź do **grupy** Udostępnione skrzynki pocztowe i wybierz udostępnioną skrzynkę pocztową przesyłaną \>  dalej. Wybierz pozycję **Edytuj, aby** przesyłać dalej wiadomości e-mail.
 
-Aby uzyskać więcej informacji, zobacz Konfigurowanie przesyłania dalej poczty [e-mail na platformie Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
+Aby uzyskać więcej informacji, zobacz [Konfigurowanie przesyłania dalej poczty e-mail na platformie Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
   
-Aby wysłać instrukcje do użytkowników w celu skonfigurowania przesyłania dalej poczty e-mail we własnych skrzynkach pocztowych, wskaż im przesyłanie dalej wiadomości e-mail z platformy [Microsoft 365 na inne konto e-mail.](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e) Pamiętaj, że możesz przesyłać dalej tylko na jeden adres e-mail. Jeśli musisz skonfigurować przesyłanie dalej do grupy osób, utwórz listę dystrybucyjną (w obszarze **Grupy),** dodaj do tej listy użytkowników, a następnie skonfiguruj przesyłanie dalej do tej grupy.
+Aby wysłać instrukcje do użytkowników w celu skonfigurowania przesyłania dalej poczty e-mail we własnych skrzynkach pocztowych, wskaż im temat Przesyłanie dalej wiadomości e-mail z [platformy Microsoft 365 na inne konto e-mail.](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e) Pamiętaj, że możesz przesyłać dalej tylko na jeden adres e-mail. Jeśli musisz skonfigurować przesyłanie dalej do grupy osób, utwórz listę dystrybucyjną (w obszarze Grupy **),** dodaj do tej grupy użytkowników, a następnie skonfiguruj przesyłanie dalej do tej grupy.
   
-Czy pracownik odchodzi z Ciebie? Aby uzyskać zalecane instrukcje, zobacz Usuwanie byłego pracownika z platformy [Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee)
+Pracownik odchodzi z Ciebie? Zobacz [Usuwanie byłego pracownika z platformy Microsoft 365,](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee) aby uzyskać zalecane instrukcje.

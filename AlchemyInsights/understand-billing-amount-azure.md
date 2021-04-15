@@ -2,7 +2,7 @@
 title: Opis rachunku
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,69 +12,69 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 83d19b73f46a3634d67b7223f01aee8c036bec95
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808387"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782701"
 ---
-# <a name="understand-billing-amount"></a>Opis kwoty rozliczenia
+# <a name="understand-billing-amount"></a>Zapoznaj się z kwotą rozliczenia
 
-Oferta bezpłatnego konta na platformie Azure obejmuje $200 środków na platformie Azure (do użycia w ramach pierwszych 30 dni rejestracji) oraz 12 miesięcy od wybrania bezpłatnych usług (z uwzględnieniem zmian)
+Oferta bezpłatnego konta platformy Azure obejmuje środki na korzystanie z platformy Azure o wartości 200 USD (do wykorzystania w ciągu pierwszych 30 dni od rejestracji) i 12 miesięcy wybranych bezpłatnych usług (może ulec zmianie)
 
-Oferta ta jest ograniczona do jednej rejestracji przypadającej na uprawnionego klienta i nie można jej połączyć z żadną inną ofertą, chyba że firma Microsoft zezwoli inaczej
+Ta oferta jest ograniczona do jednej rejestracji na kwalifikującego się klienta i nie można jej łączyć z żadną inną ofertą, chyba że firma Microsoft zezwoli inaczej
 
-W ciągu 30 dni przed zalogowaniem lub po wyczerpaniu środków na koncie klienta (w zależności od tego, co nastąpi wcześniej), klient musi przeprowadzić uaktualnienie do konta płatne przez usunięcie limitu wydatków. Dzięki temu można nadal korzystać z bezpłatnego konta usługi Azure dla pozostałych 11 miesięcy. Po przeprowadzeniu uaktualnienia przez klienta użycie poza kredytami początkowymi i wybranie bezpłatnych usług będzie rozliczane po stawkach za wypłatę. Jeśli klient zdecyduje się nie do uaktualnienia, abonament bezpłatnego konta zostanie wyłączony.
+W ciągu 30 dni od rejestracji lub po wyczerpaniu środków klienta (w zależności od tego, co nastąpi wcześniej), klient musi dokonać aktualizacji konta do płatności zgodnie z rzeczywistym użyciem, usuwając limit wydatków. Umożliwia to dalsze korzystanie z bezpłatnego konta platformy Azure przez pozostałe 11 miesięcy. Po aktualizacji konta klienta korzystanie poza początkowymi kredytami i wybranymi bezpłatnymi usługami będzie rozliczane według stawek płatności zgodnie z rzeczywistym użyciem. Jeśli klient nie zdecyduje się na aktualizację, subskrypcja bezpłatnego konta zostanie wyłączona.
 
-Dowiedz się więcej: [produkty dostępne miesięcznie za darmo w ramach konta usługi Azure Free](https://azure.microsoft.com/free/free-account-faq/)
+Dowiedz się więcej w zakładce: [Produkty dostępne bezpłatnie co miesiąc w ramach bezpłatnego konta platformy Azure](https://azure.microsoft.com/free/free-account-faq/)
 
-**Ponownie włącz abonament wyłączony po upływie 30 dni**
+**Ponownie włącz subskrypcję wyłączoną po 30 dniach**
 
-- Po ponownym włączeniu i przekonwertowaniu bezpłatnego okresu próbnego na bezpłatne usługi płatne od PAYG należy zacząć od momentu włączenia subskrypcji. Ponadto jeśli przekonwertujesz bezpłatne konto platformy Azure na ofertę X (inną niż PAYG), możesz nadal otrzymywać korzyści.
+- Po ponownym włączeniu i przekonwertowaniu bezpłatnej subskrypcji próbnej na płatność PAYG, bezpłatne usługi Included Services powinny rozpocząć się od momentu włączenia subskrypcji. Ponadto, jeśli przez pomyłkę zamienisz bezpłatne konto platformy Azure na ofertę X (inną niż płatność PAYG), nadal będziesz otrzymywać korzyści.
 
-Dowiedz się więcej: 
-- [Ponowne włączanie subskrypcji](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Anulowanie subskrypcji platformy Azure](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)
+Dowiedz się więcej:  
+- [Ponownie włącz subskrypcję](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Anuluj subskrypcję platformy Azure](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Nieoczekiwane opłaty na konto**
+**Niespodziewane obciążenia konta**
 
-- Jeśli na koncie są widoczne nieoczekiwane opłaty, Pobierz dane użycia i sprawdź, czy masz jakiekolwiek niepożądane usługi lub zasoby.
-- Więcej informacji: [pobieranie danych użycia platformy Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#download-usage)
+- Jeśli zauważysz niespodziewane obciążenia na swoim koncie, pobierz dane użytkowania i sprawdź, czy masz uruchomione niechciane usługi lub zasoby
+- Dowiedz się więcej: [Pobierz dane użycia platformy Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#download-usage)
 
-**Często zadawane pytania:**
+**Często zadawane pytania**
 
-**Czy mogę zapłacić za darmo?**
+**Czy muszę coś płacić, korzystając z bezpłatnego konta platformy Azure?**
 
-Opłaty zostaną naliczone tylko wtedy, gdy wdrażasz usługi, które nie są objęte wolnym kontem na platformie Azure. Dopiero po wyczerpaniu doładowania konta usługi $200 lub dotarciu do 30-dniowego okresu (w zależności od tego, który z nich jest pierwszy) rozpoczyna się rozliczanie według stawek za wystawienie.
+Opłata zostanie naliczona tylko w przypadku wdrożenia usług, które nie są uwzględnione w bezpłatnym koncie platformy Azure. Dopiero po wyczerpaniu kredytu w wysokości 200 USD lub osiągnięciu 30-dniowego okresu (w zależności od tego, co nastąpi wcześniej), zaczniemy naliczać opłaty według stawek płatności zgodnie z rzeczywistym użyciem.
 
-**Ile abonamentów na bezpłatnych kontach platformy Azure można używać na moim koncie?**  
+**Ilu bezpłatnych subskrypcji konta platformy Azure mogę używać na swoim koncie?**  
 
-Istnieje ograniczenie jednej subskrypcji konta usługi Azure Free na konto.
+Na jednym koncie można używać tylko jednej bezpłatnej subskrypcji konta platformy Azure.
 
-**Jak działa bezpłatne konto platformy Azure z klientami w ramach umowy Enterprise (EA)?**  
+**Jak działa bezpłatne konto platformy Azure dla klientów z umową Enterprise Agreement (EA)?**  
 
-Ta oferta nie jest dostępna dla klientów z atrybutami EA. Jeśli jednak klient ma bezpłatne konto i ponownie przekonwertuje się na poziom EA, świadczenia z dowolnego konta będą kontynuowane przez 12 miesięcy od momentu zarejestrowania się przy użyciu bezpłatnego konta.
+Ta oferta nie jest dostępna dla klientów z umową EA. Jeśli jednak klient ma darmowe konto i dokona konwersji do poziomu umowy EA później, korzyści z bezpłatnego konta będą dostępne przez 12 miesięcy od chwili założenia darmowego konta.
 
-**Czy usługi będą oferowane w bezpłatnej warstwie za pomocą wstępnych kredytów $200?**  
+**Czy usługi oferowane na poziomie darmowym będą zużywać od przyznanych początkowo 200 USD kredytów?**  
 
-Nie. Klienci uzyskają stałą liczbę bezpłatnych usług i doładowanie konta $200 za pierwszych 30 dni. Klient może więc korzystać z doładowania konta $200 w innych usługach niebędących usługami bezpłatnymi.
+Nie. Klienci otrzymują stałą liczbę bezpłatnych usług i kredyt w wysokości 200 USD przez pierwsze 30 dni. Tak więc klient może wykorzystać kredyt w wysokości 200 USD na inne usługi, które nie są bezpłatne.
 
-**Czy mogę wyświetlić dane dotyczące sponsorowania?**
+**Czy mogę zobaczyć szczegóły mojego dostępu sponsorowanego?**
 
-- Otwieranie prywatnego/incognito okna przeglądarki (Ctrl + Shift + P na krawędzi)
-- Przechodzenie do [sponsorów platformy Azure](http://www.microsoftazuresponsorships.com/)
+- Otwórz okno przeglądarki w trybie prywatnym lub incognito (kombinacja klawiszy: Ctrl + Shift + P w przeglądarce Microsoft Edge)
+- Przejdź do opcji [Dostęp sponsorowany platformy Azure](http://www.microsoftazuresponsorships.com/)
 - Kliknij link Sprawdź saldo
-- Zaloguj się przy użyciu poświadczeń konta sponsorowanego przez administratora usługi Azure (identyfikatory logowania powinny używać formatu user.name@xxxx.onmicrosoft.com)
-- Nastąpi przekierowanie do strony zawierającej następujące informacje: Data początkowa, Data zakończenia, kwota finansowania, wykorzystane, pozostałe saldo
+- Zaloguj się przy użyciu poświadczeń do konta Azure Government Sponsored (dane logowania powinny mieć format user.name@xxxx.onmicrosoft.com)
+- Nastąpi przekierowanie na stronę wyświetlającą następujące informacje: Data rozpoczęcia, Data zakończenia, Kwota dostępu sponsorowanego, Wykorzystane, Pozostałe saldo
 
-**Jak mogę sprawdzić, czy bezpłatne usługi są aktywne lub kiedy wygasną?**
+**W jaki sposób mogę sprawdzić, czy bezpłatne usługi są aktywne lub kiedy wygasną?**
 
-Na stronie> w witrynie portalu Ibiza > przegląd > przewiń w dół do bezpłatnych usług przez 12 miesięcy, a następnie kliknij ikonę informacji. Spowoduje to wyświetlenie daty wygaśnięcia bezpłatnych usług **Uwaga** : usługi V1 nie są częścią usług, które obejmowały platformy Azure. Aby uzyskać najbardziej aktualną listę bezpłatnych usług, zobacz, [które produkty są bezpłatne przez 12 miesięcy](http://www.microsoftazuresponsorships.com/)
+Na portalu Ibiza wybierz kolejno pozycje> Subskrypcja> Przegląd strony> przewiń w dół do opcji Bezpłatne usługi przez 12 miesięcy i kliknij ikonę Informacje. Spowoduje to wyświetlenie daty wygaśnięcia bezpłatnych usług. **Uwaga**: żadne usługi V1 nie są częścią bezpłatnych usług dołączonych do platformy Azure. Aby uzyskać najbardziej aktualną listę bezpłatnych usług, zobacz,[ które produkty są bezpłatne przez 12 miesięcy](http://www.microsoftazuresponsorships.com/)
 
-Dodatkowe często zadawane pytania: [bezpłatne często zadawane pytania](https://azure.microsoft.com/free/free-account-faq/)
+Dodatkowe często zadawane pytania: [Bezpłatne konto — często zadawane pytania](https://azure.microsoft.com/free/free-account-faq/)
 
-**Polecane dokumenty**
+**Zalecane dokumenty**
 
-- [Warunki oferty bezpłatnego konta na platformie Azure](https://azure.microsoft.com/offers/ms-azr-0044p/)
-- [Ceny na platformie Azure](https://azure.microsoft.com/pricing/)
+- [Warunki oferty bezpłatnego konta platformy Azure](https://azure.microsoft.com/offers/ms-azr-0044p/)
+- [Cennik platformy Azure](https://azure.microsoft.com/pricing/)

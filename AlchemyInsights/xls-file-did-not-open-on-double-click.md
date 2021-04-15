@@ -2,7 +2,7 @@
 title: Plik XLS nie został otwarty po dwukrotnym kliknięciu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796334"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770605"
 ---
-# <a name="excel-file-doesnt-open"></a>Plik programu Excel nie jest otwarty
+# <a name="excel-file-doesnt-open"></a>Plik programu Excel nie otwiera się
 
-Wypróbuj jedną z następujących sugestii:
+Wypróbuj jedną z tych sugestii:
 
-**Wybierz pozycję Excel jako domyślny**
+**Wybieranie programu Excel jako domyślnego**
 
-* Kliknij prawym przyciskiem myszy arkusz, wybierz pozycję **Otwórz za pomocą**, a następnie wybierz pozycję **Excel**
+* Kliknij prawym przyciskiem myszy arkusz, wybierz polecenie **Otwórz za pomocą**, a następnie wybierz pozycję **Excel**
 
-**Uruchom szybką naprawę**
+**Uruchamianie szybkiej naprawy**
 
-1. Przejdź do **Panelu sterowania > programy > programy i funkcje**.
+1. Przejdź do **Panelu sterowania, > a następnie do > Programy i funkcje.**
 
 2. Wybierz produkt pakietu Office, który chcesz naprawić, a następnie wybierz pozycję **Zmień**.
 
-3. Wybierz opcję **szybka naprawa** , a następnie wybierz pozycję **napraw**.
+3. Wybierz opcję **Szybka naprawa,** a następnie wybierz pozycję **Napraw**.
 
 **Odinstalowywanie wersji pakietu Office, których nie używasz**
 
-1. Przejdź do **Panelu sterowania > Odinstaluj program**, a następnie wybierz wersję pakietu Office, którą chcesz usunąć.
+1. Przejdź do **Panelu sterowania > Pozycję Odinstaluj program, a** następnie wybierz wersję pakietu Office, którą chcesz usunąć.
 
 2. Kliknij pozycję **Odinstaluj**.
 
 3. Uruchom ponownie komputer.
 
-**Uruchom to narzędzie do rozwiązywania problemów w celu skonfigurowania rozszerzeń plików pakietu Office do otwierania w pakiecie Office**
+**Uruchom to narzędzie do rozwiązywania problemów, aby ustawić otwieranie rozszerzeń plików pakietu Office w psłudze Office**
 
-1. Uruchom to narzędzie do rozwiązywania problemów: https://aka.ms/diag_officefile .
+1. Uruchom to narzędzie do rozwiązywania https://aka.ms/diag_officefile problemów: .
 
-2. W zależności od przeglądarki **Otwórz** lub **Zapisz** narzędzie do rozwiązywania problemów na pulpicie, a następnie **Uruchom** je.
+2. W zależności od przeglądarki otwórz **lub** **zapisz** narzędzie do rozwiązywania problemów na pulpicie, a następnie **uruchom** je.
