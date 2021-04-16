@@ -1,8 +1,8 @@
 ---
-title: Jak określić opłatę za kartę kredytową lub wyciąg bankowy
+title: Jak zidentyfikować opłatę na wyciągu bankowym lub wyciągu z karty kredytowej
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,17 +15,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: b856c0ca1f02780d0828dc714a25273ed99569f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8bafbb57aae358df04332a6c5a6d00ce523c810
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780141"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810854"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Jak określić opłatę za kartę kredytową lub wyciąg bankowy
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Jak zidentyfikować opłatę na wyciągu bankowym lub wyciągu z karty kredytowej
 
-Opis opłat w ramach subskrypcji produktu Microsoft 365 wygląda następująco:
+Opis opłaty za subskrypcję platformy Microsoft 365 wygląda następująco:
   
-MSFT \* E012345ABC 0000 – MSBILL.info, WA
+MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
   
-Alfanumeryczny ciąg alfanumeryczny (10 znaków) następujący po MSFT \* to numer faktury, której dotyczy opłata. Aby znaleźć fakturę, przejdź do strony **rozliczenia** \> [rachunki & płatności](https://go.microsoft.com/fwlink/p/?linkid=848039) , aby wyświetlić ostatnie faktury. Numer faktury znajduje się blisko prawego rogu dokumentu faktury.
+10-znakowy ciąg alfanumeryczny następujący po ciągu MSFT to numer faktury, do którego \* odnosi się opłata. Aby znaleźć fakturę, przejdź do **strony** Rozliczenia &, aby wyświetlić \> [](https://go.microsoft.com/fwlink/p/?linkid=848039) ostatnie faktury. Numer faktury znajduje się w prawym rogu dokumentu faktury.

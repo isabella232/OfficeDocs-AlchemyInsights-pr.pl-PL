@@ -2,7 +2,7 @@
 title: Zmienianie rozmiaru i dołączanie obrazów w systemie Android
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001113"
 - "3074"
-ms.openlocfilehash: 18ff3a111c07e28d7e62feb404623c1a974864f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa497883706055a3124f76d731399e39ca3f72f6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795686"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809521"
 ---
 # <a name="resize-and-attach-images-on-android"></a>Zmienianie rozmiaru i dołączanie obrazów w systemie Android
 
-Po dołączeniu obrazu o rozmiarze 1 MB do wiadomości e-mail możesz w niej skompresować/zmienić rozmiar obrazów.
+W przypadku dołączenia do wiadomości e-mail obrazu o rozmiarze ponad 1 MB masz możliwość kompresowania i zmieniania rozmiaru obrazów w wiadomości.
  
-- Jeśli wybierzesz opcję zachowania oryginału, wszystkie obrazy w wiadomości zostaną wysłane w pełnym rozmiarze.
+- Jeśli zdecydujesz się zachować oryginał, wszystkie obrazy w wiadomości zostaną wysłane w pełnym rozmiarze.
  
-- Jeśli wybierzesz zmianę rozmiaru, wszystkie obrazy w wiadomości zostaną skompresowane.  Obejmuje to obrazy dodane później podczas edytowania wersji roboczej.
+- Jeśli zdecydujesz się zmienić rozmiar, WSZYSTKIE obrazy w wiadomości są skompresowane.  Dotyczy to również obrazów dodanych później podczas edytowania tej wersji roboczej.
  
-- Jeśli zapiszesz wersję roboczą i wrócisz później, a następnie dodasz kolejny duży obraz, zostanie wyświetlony monit, a wybór będzie obowiązywać we wszystkich wersjach roboczych podczas tej sesji edytowania.
+- Jeśli zapiszesz kopię roboczą i wrócisz później i dodasz kolejny duży obraz, zostanie ponownie poproszony o to pytanie i wybór będzie dotyczył wszystkich wersji roboczych w tej sesji edycji.
  

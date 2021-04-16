@@ -2,7 +2,7 @@
 title: Resetowanie lub zmienianie haseł
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692161"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810206"
 ---
 # <a name="reset-or-change-passwords"></a>Resetowanie lub zmienianie haseł
 
-Użytkownik może zmienić swoje hasło z zabezpieczeń **konta**  >  [& prywatność](https://portal.office.com/account/#security).
+Użytkownik może zmienić swoje hasło na stronie Moje **konto** Zabezpieczenia  >  [& prywatności.](https://portal.office.com/account/#security)
   
-Jeśli użytkownik zapomniał hasło, administrator może zresetować hasło, przechodząc do **użytkowników**  >  [aktywnych użytkowników](https://portal.office.com/adminportal/home#/users), zaznacz użytkowników, a następnie kliknij pozycję **Resetuj hasło**.
+Jeśli użytkownik nie pamięta swojego hasła, administrator może je zresetować, przechodząc do pozycji Użytkownicy aktywni użytkownicy, a następnie klikając pozycję  >  [](https://portal.office.com/adminportal/home#/users) **Zresetuj hasło.**
   
-[Kliknij tutaj, aby dowiedzieć się więcej](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)lub umożliwić użytkownikom zresetowanie ich zapomnianych haseł.
+[Kliknij tutaj, aby dowiedzieć się więcej](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)lub aby pozwolić użytkownikom na resetowanie zapomnianych haseł.

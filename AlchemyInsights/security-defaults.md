@@ -1,8 +1,8 @@
 ---
-title: Ustawienia domyślne zabezpieczeń
+title: Domyślne ustawienia zabezpieczeń
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: e0136705cb17e69c3b26bbf621ebb10852477eb9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d468335dbe2854bf31ef857866aac597807e0f7b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740340"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809197"
 ---
-# <a name="security-defaults"></a>Ustawienia domyślne zabezpieczeń
+# <a name="security-defaults"></a>Domyślne ustawienia zabezpieczeń
 
-Aby uzyskać informacje na temat domyślnych ustawień zabezpieczeń, zobacz [co to są domyślne zabezpieczenia?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+Aby uzyskać informacje o ustawieniach domyślnych zabezpieczeń, zobacz Co [to są ustawienia domyślne zabezpieczeń?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-Domyślne ustawienia zabezpieczeń w usłudze Azure Active Directory (Azure AD) ułatwiają Zabezpieczanie organizacji i pomaganie w niej. Ustawienia domyślne zabezpieczeń zawierają wstępnie skonfigurowane ustawienia zabezpieczeń do typowych ataków.
+Domyślne ustawienia zabezpieczeń w usłudze Azure Active Directory (Azure AD) ułatwiają zabezpieczanie i ochronę organizacji. Wartości domyślne zabezpieczeń zawierają wstępnie skonfigurowane ustawienia zabezpieczeń dla typowych ataków.
 
-Firma Microsoft udostępnia ustawienia domyślne zabezpieczeń dla wszystkich użytkowników. Celem jest zapewnienie, że dla wszystkich organizacji jest włączony podstawowy poziom zabezpieczeń bez dodatkowych kosztów. Domyślne ustawienia zabezpieczeń są włączone w portalu Azure.
+Firma Microsoft domyślnie udostępniane jest wszystkim. Celem jest zagwarantowanie, że wszystkie organizacje mają włączony podstawowy poziom zabezpieczeń bez dodatkowych kosztów. W portalu Azure Portal można włączyć ustawienia domyślne zabezpieczeń.

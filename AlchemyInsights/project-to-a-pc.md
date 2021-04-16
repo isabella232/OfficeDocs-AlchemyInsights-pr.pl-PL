@@ -1,8 +1,8 @@
 ---
-title: Program Project na komputerze PC
+title: Project to a PC
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001520"
 - "5610"
-ms.openlocfilehash: e527feec0b695b3e966ed627ca23cb1fc8f2fd34
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27775e3521cdad926f26e8d34738e8c7129fb8d9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801626"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809954"
 ---
-# <a name="project-to-a-pc"></a>Program Project na komputerze PC
+# <a name="project-to-a-pc"></a>Project to a PC
 
-Na urządzeniu docelowym (program Project to) Wyszukaj "Ustawienia projekcji", aby otworzyć stronę Ustawienia programu **Project na tym komputerze**. Następnie upewnij się, że:
-- "Niektóre urządzenia z systemem Windows i Android umożliwiają programowi Project na tym komputerze, gdy jest to możliwe, w menu rozwijanym jest ustawiona wartość **zawsze wyłączone**.
-- Menu rozwijane "Poproś o program Project do tego komputera" jest ustawiane za **każdym razem, gdy jest wymagane połączenie**.
-- Menu rozwijane "Wymagaj numeru PIN dla parowania" jest ustawione na wartość **nigdy**.
+Na urządzeniu docelowym (w projekcji do) wyszukaj pozycję "Ustawienia projekcji", aby otworzyć stronę Ustawienia projekcji **na tym komputerze.** Następnie upewnij się, że:
+- Menu rozwijane "Niektóre urządzenia z systemem Windows i Android mogą korzystać z programu na tym komputerze, gdy jest w porządku", jest ono ustawione na opcję **Zawsze wyłączone.**
+- Menu rozwijane "Poproś o projekt na tym komputerze" ma ustawioną wartość **Za każdym razem, gdy jest wymagane połączenie.**
+- Menu rozwijane "Wymagaj numeru PIN do parowania" ma ustawioną wartość **Nigdy.**
 
-Na urządzeniu docelowym Uruchom aplikację **Connect** , aby **rozpocząć** i wyszukać "Connect".
+Na urządzeniu docelowym uruchom aplikację **Połącz,** przechodząc do **przycisku Start** i wyszukaj "Połącz".
 
-Następnie na urządzeniu źródłowym, z którego próbujesz wykonać projekt:
+Następnie na urządzeniu źródłowym, z których próbujesz prognozować:
 
-1. Naciśnij klawisze **Windows + A** , aby otworzyć Centrum akcji.
-2. Kliknij pozycję **Połącz**.
-3. Kliknij urządzenie, na którym chcesz umieścić ekran.
+1. Naciśnij **klawisz systemu Windows + A,** aby otworzyć Centrum akcji.
+2. Kliknij **przycisk Połącz**.
+3. Kliknij urządzenie, na którym chcesz pokazać ekran.
 
-![Program Project na komputerze PC](media/project-to-a-pc.png)
+![Project to a PC](media/project-to-a-pc.png)
 
-Po wykonaniu powyższych czynności urządzenie docelowe powinno wyświetlać ekran urządzenia źródłowego tak, jakby jest monitorem pomocniczym.
+Po powyższych krokach urządzenie docelowe powinno wyświetlić ekran urządzenia źródłowego tak, jakby było monitorem pomocniczym.

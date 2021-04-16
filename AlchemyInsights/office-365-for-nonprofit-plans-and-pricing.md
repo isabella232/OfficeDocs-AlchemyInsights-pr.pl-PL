@@ -1,8 +1,8 @@
 ---
-title: Pakiet Office 365 dla planów i cen organizacji niedochodowych
+title: Ceny i plany usługi Office 365 dla organizacji niedochodowych
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,19 +14,19 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 120428310815dd90b1fa0e4a32a4ee2f1eccc588
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 683995071a6902276e041e914453df211cf54fd4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803111"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810314"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Pakiet Office 365 dla planów i cen organizacji niedochodowych
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Ceny i plany usługi Office 365 dla organizacji niedochodowych
 
-Kwalifikacje organizacji niedochodowych mogą otrzymywać pakiet Office 365 jako darowiznę lub uaktualnić je do zaawansowanych funkcji po znaczącym Rabacie. Aby kwalifikować się do pakietu Office 365 o niezarobkowej, musisz posiadać [uznany status charytatywny](https://go.microsoft.com/fwlink/p/?LinkID=330253) w Twoim kraju i podpisać zasady niedyskryminacji firmy Microsoft. Firma Microsoft zastrzega sobie prawo do weryfikowania uprawnień w dowolnym momencie i do zawieszania usługi dla nieuprawnionych organizacji.
+Uprawnione organizacje niedochodowe mogą otrzymać usługę Office 365 Nonprofit jako darowiznę lub uaktualnić do zaawansowanych funkcji przy znaczącym rabatie. Aby uzyskać plan usługi Office 365 Nonprofit, należy posiadać rozpoznany [status](https://go.microsoft.com/fwlink/p/?LinkID=330253) organizacji charytatywnej w swoim kraju i podpisać zasady firmy Microsoft dotyczące niekońcowych zasad. Firma Microsoft zastrzega sobie prawo do weryfikowania uprawnień w dowolnej chwili i do zawieszenia świadczenia usługi dla organizacji bez uprawnień.
   
-Zapoznaj się z [często zadawanymi](https://products.office.com/nonprofit/office-365-nonprofit) pytaniami na temat tej oferty.
+Dodatkowe pytania [dotyczące](https://products.office.com/nonprofit/office-365-nonprofit) tej oferty można znaleźć w często zadawanych pytaniach.
   
-- [Przegląd planów organizacji niedochodowych](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
+- [Przeglądanie planów dla organizacji niedochodowych](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
 
-- [Porównaj wszystkie subskrypcje Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Porównanie wszystkich subskrypcji platformy Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)

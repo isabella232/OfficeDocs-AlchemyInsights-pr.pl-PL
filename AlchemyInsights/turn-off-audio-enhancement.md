@@ -1,8 +1,8 @@
 ---
-title: Wyłączanie ulepszeń audio
+title: Wyłączanie rozszerzenia dźwięku
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3477"
 - "9001463"
-ms.openlocfilehash: 110b604be9285126cd436a27de1f053dcfd7b63c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ef63ec3a2358fc1c1aedfe1e280c46b3d0eb029
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797198"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808765"
 ---
-# <a name="turn-off-audio-enhancement"></a>Wyłączanie ulepszeń audio
+# <a name="turn-off-audio-enhancement"></a>Wyłączanie rozszerzenia dźwięku
 
 Wykonaj następujące czynności:
 
-1. Przejdź do **menu Start**, wprowadź **dźwięk**, a następnie wybierz pozycję **Panel sterowania dźwiękiem** lub **Zmień dźwięki systemowe** z listy wyników.
+1. Przejdź do **przycisku Start**, **wprowadź dźwięk** i wybierz pozycję **Panel sterowania** dźwiękiem lub Zmień **dźwięki systemowe** z listy wyników.
 
-2. Na karcie **odtwarzanie** kliknij prawym przyciskiem myszy (lub naciśnij i przytrzymaj) urządzenie domyślne i wybierz pozycję **Właściwości**.
+2. Na karcie **Odtwarzanie** kliknij prawym przyciskiem myszy (lub naciśnij i przytrzymaj) pozycję Urządzenie domyślne i wybierz pozycję **Właściwości**.
 
-3. Na karcie **ulepszenia** zaznacz pole wyboru **Wyłącz wszystkie efekty dźwiękowe** i spróbuj odtworzyć urządzenie audio. Jeśli to nie zadziała, wybierz pozycję **Anuluj** , a następnie na karcie **odtwarzanie** wybierz inne urządzenie domyślne (jeśli jest ono), zaznacz pole wyboru **Wyłącz efekty dźwiękowe** i spróbuj ponownie odtworzyć dźwięk. Zrób to dla każdego urządzenia domyślnego.
+3. Na karcie **Ulepszenia** zaznacz pole wyboru **Wyłącz wszystkie** efekty dźwiękowe i spróbuj odtworzyć urządzenie audio. Jeśli to nie zadziała, wybierz pozycję  Anuluj i na karcie Odtwarzanie wybierz inne urządzenie  domyślne (jeśli jest takie), zaznacz pole wyboru Wyłącz wszystkie efekty dźwiękowe i spróbuj ponownie odtworzyć dźwięk.  Zrób to dla każdego urządzenia domyślnego.
