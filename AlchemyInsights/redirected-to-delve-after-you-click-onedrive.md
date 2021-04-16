@@ -1,8 +1,8 @@
 ---
-title: Usługa OneDrive dla firm w sieci Web usługi OneDrive umożliwia przekierowanie do aplikacji Delve
+title: OneDrive dla Firm Web OneDrive przekierowuje do aplikacji Delve
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: faa2cf25270a3b74a12aeb63d23ce98b51e13cb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 96f23585f7cbce672842f6330ba79816f24dbc41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776389"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799999"
 ---
-# <a name="redirected-to-delve-after-you-click-onedrive"></a>Przekierowano do aplikacji Delve po kliknięciu usługi OneDrive
+# <a name="redirected-to-delve-after-you-click-onedrive"></a>Przekierowywany do aplikacji Delve po kliknięciu przycisku OneDrive
 
-Zobacz szczegółowy [Przewodnik dotyczący rozwiązywania problemów](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
+Zobacz nasz szczegółowy [przewodnik po rozwiązywaniu problemów.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
 
-Aby rozwiązać ten problem, administrator musi udzielić użytkownikom prawa do tworzenia witryny Moja witryna. Jest to spowodowane tym, że w witrynach Moja witryna jest tworzona Strona usługi OneDrive dla firm.
+Aby rozwiązać ten problem, administrator musi udzielić użytkownikom prawa do tworzenia swoich witryn Moja witryna. Jest tak, ponieważ w moich witrynach jest tworzona strona usługi OneDrive dla Firm.
 
-Aby udzielić tego prawa, wykonaj następujące czynności:
+Aby przyznać to prawo, wykonaj następujące czynności:
 
 1. W centrum administracyjnym programu SharePoint kliknij pozycję **Profile użytkowników**.
 
-2. W sekcji **kontakty** kliknij pozycję **Zarządzaj uprawnieniami użytkownika**.
+2. W sekcji **Osoby** kliknij pozycję **Zarządzaj uprawnieniami użytkowników**.
 
-3. Dodaj użytkowników, którzy wymagają uprawnień do tworzenia witryny Moja witryna. Domyślnie to ustawienie jest ustawione dla **wszystkich użytkowników poza użytkownikami zewnętrznymi**.
+3. Dodaj użytkowników wymagających uprawnień do utworzenia witryny Moja witryna. Domyślnie to ustawienie jest ustawione na Wszyscy **oprócz użytkowników zewnętrznych.**
 
-4. Po dodaniu użytkownika, użytkowników lub grupy upewnij się, że jest zaznaczony dodany użytkownik, użytkownicy lub Grupa, przewiń do sekcji **uprawnienia** , a następnie zaznacz pole wyboru obok pozycji **Utwórz witrynę osobistą (wymagane dla magazynu osobistego, kanału aktualności i obserwowanej zawartości)**.
+4. Po dodaniu użytkownika, użytkowników lub grupy upewnij się, że zaznaczono dodanego użytkownika,  użytkowników lub grupę, przewiń do sekcji uprawnień, a następnie zaznacz pole wyboru obok przycisku Utwórz witrynę osobistą (wymagane w przypadku przechowywania osobistego, kanału aktualności i obserwowanej **zawartości).**
 
-5. Kliknij przycisk **OK**, a następnie przejdź do strony usługi OneDrive, aby utworzyć witrynę.
+5. Kliknij **przycisk OK,** a następnie zachęć użytkownika do przeglądania strony usługi OneDrive w celu utworzenia witryny.

@@ -2,7 +2,7 @@
 title: Usuwanie dużego załącznika
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,24 +14,24 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 9ab6542d80ba62eb1640d0010d11ad6ae637ced9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1068f9e3b88dcc98a4d1042e923f235bf21ee727
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701689"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799243"
 ---
 # <a name="remove-the-large-attachment"></a>Usuwanie dużego załącznika
 
-1. W programie Outlook wybierz pozycję **Wyślij/Odbierz**  >  **pracę w trybie offline**. 
-2. W okienku nawigacji wybierz pozycję **Skrzynka nadawcza**. W tym miejscu możesz wykonać następujące czynności: 
-    - Usuń wiadomość (zaznacz ją, a następnie wybierz pozycję **Usuń**).
-    - Przeciągnij wiadomość do folderu wersji roboczych, kliknij dwukrotnie, aby go otworzyć, a następnie Usuń załącznik, a następnie wybierz pozycję **Usuń**.
-3. Jeśli zostanie wyświetlony komunikat o błędzie z informacją, że program Outlook próbuje przesłać wiadomość, Zamknij program Outlook. Zamknięcie może chwilę potrwać. Jeśli program Outlook nie zostanie zamknięty, naciśnij klawisze CTRL + ALT + DELETE, a następnie wybierz pozycję **Uruchom Menedżera zadań**. W Menedżerze zadań wybierz kartę **procesy** , przewiń w dół do outlook.exe i wybierz pozycję **Zakończ proces**.
+1. W programie Outlook wybierz **pozycję Wyślij/Odbierz**  >  **pracę w trybie offline.** 
+2. W okienku nawigacji wybierz pozycję **Skrzynka nadawcza**. W tym miejscu możesz: 
+    - Usuń wiadomość (zaznacz ją, a następnie wybierz **pozycję Usuń**).
+    - Przeciągnij wiadomość do folderu Wersje robocze, kliknij dwukrotnie, aby ją otworzyć, i usuń załącznik, zaznacz go, a następnie wybierz pozycję **Usuń**).
+3. Jeśli zostanie wyświetlony komunikat o błędzie informujący, że program Outlook próbuje przesłać wiadomość, zamknij program Outlook. Jego zamknięcie może chwilę potrwać. Jeśli program Outlook nie zostanie zamknij, naciśnij klawisze Ctrl+Alt+Delete i wybierz pozycję **Uruchom Menedżera zadań.** W Menedżerze zadań wybierz **kartę Procesy,** przewiń w dół do outlook.exe i wybierz pozycję **Zakończ proces.**
 4. Po zamknięciu programu Outlook uruchom go ponownie i powtórz kroki 2 i 3. 
-5. Po usunięciu załącznika kliknij pozycję **Wyślij/Odbierz**  >  **pracę w trybie offline** , aby wznowić pracę w trybie online. 
+5. Po usunięciu załącznika kliknij pozycję **Wyślij/Odbierz**  >  **pracę w trybie offline,** aby wznowić pracę w trybie online. 
 
-Wiadomości są również wyświetlane w skrzynce nadawczej po kliknięciu przycisku **Wyślij**, ale nie masz połączenia. Kliknij przycisk **Wyślij/Odbierz** i obejrzyj przycisk **Pracuj w trybie offline** . Jeśli jest niebieski, nastąpiła odłączenie. Kliknij go, aby nawiązać połączenie (przycisk zmieni biały), a następnie kliknij pozycję **Wyślij wszystko**.
+Wiadomości także utknęły w Skrzynce nadawczej po kliknięciu **przycisku** Wyślij , ale nie masz połączenia. Kliknij **pozycję Wyślij/Odbierz** i spójrz na przycisk **Pracuj w trybie offline.** Jeśli urządzenie jest niebieskie, połączenie zostanie rozłączone. Kliknij go, aby nawiązać połączenie (przycisk zmieni kolor na biały) i kliknij pozycję **Wyślij wszystko.**
  
- Aby uzyskać pełne informacje, zobacz:
-- [Klip wideo: wysyłanie lub usuwanie zablokowanej wiadomości e-mail](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+ Aby uzyskać szczegółowe informacje, zobacz:
+- [Klip wideo: wysyłanie lub usuwanie wiadomości e-mail, która utknęła](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
