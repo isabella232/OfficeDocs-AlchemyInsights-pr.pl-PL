@@ -1,40 +1,41 @@
 ---
-title: Korzystanie z programu MIP SKD
+title: Używanie SKD MIP
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "5631"
-ms.openlocfilehash: cbd35b48bc7d9f0c7b254ae5b16aa118d29fe34c
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: 79da600622cc02a3c959a32c84a413bb262bdc4b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358234"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770965"
 ---
-# <a name="using-mip-skd"></a>Korzystanie z programu MIP SKD
+# <a name="using-mip-skd"></a>Używanie SKD MIP
 
-Aby korzystać z pakietu MIP SDK, należy wykonać kilka czynności, aby skonfigurować i skonfigurować subskrypcję usługi Office 365 i kliencką stację roboczą. Te kroki obejmują:
+Aby można było korzystać z zestawu SDK MIP, w celu skonfigurowania subskrypcji usługi Office 365 i stacji roboczej klienta należy wykonać kilka czynności. Do tych czynności należą:
 
-- Zarejestruj się w celu uzyskania subskrypcji usługi Office 365.
-- Konfigurowanie etykiet czułości.
-- Skonfiguruj stację roboczą klienta.
-- Zarejestruj aplikację kliencką w usłudze Azure Active Directory.
-- Wniosek o umowę o integrację ochrony informacji (IPIA).
+- Tworzenie konta subskrypcji usługi Office 365.
+- Konfigurowanie etykiet poufności.
+- Konfigurowanie stacji roboczej klienta.
+- Rejestracja aplikacji klienckiej w usłudze Azure Active Directory.
+- Żądanie umowy o integracji ochrony informacji (IPIA, Information Protection Integration Agreement).
 - Upewnij się, że aplikacja ma wymagane środowisko uruchomieniowe.
 
-Aby uzyskać więcej informacji na temat kroków dotyczących eks-ów, zobacz [Konfigurowanie i konfigurowanie sdk mip](https://docs.microsoft.com/information-protection/develop/setup-configure-mip).
+Aby uzyskać więcej informacji na temat tych czynności, zobacz [Konfigurowanie zestawu SDK MIP](https://docs.microsoft.com/information-protection/develop/setup-configure-mip).
 
 Aby uzyskać dodatkowe zasoby, zobacz:
 
-- [Dokumentacja sdk ochrony informacji firmy Microsoft](https://docs.microsoft.com/information-protection/develop/)
+- [Dokumentacja zestawu SDK Microsoft Information Protection](https://docs.microsoft.com/information-protection/develop/)
 - [Przewodnik dla deweloperów usługi Azure Information Protection](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
-- [Pobierz zestaw Microsoft Information Protection Software Development Kit](https://www.microsoft.com/download/details.aspx?id=57392)
-- [Konfigurowanie i konfiguracja sdk programu Microsoft Information Protection (MIP)](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
-- [Przykłady kodu platformy Azure dla zestawów SDK mip](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)
+- [Pobierz zestaw SDK Microsoft Information Protection](https://www.microsoft.com/download/details.aspx?id=57392)
+- [Konfigurowanie zestawu SDK Microsoft Information Protection (MIP)](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
+- [Przykłady kodu platformy Azure dla zestawu SDK MIP](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)

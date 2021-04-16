@@ -1,8 +1,8 @@
 ---
-title: Włączanie lub wyłączanie formularzy Pro
+title: Włączanie lub wyłączanie programu Forms Pro
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2546"
 - "9000672"
-ms.openlocfilehash: 206cefb7d09b4c9c34ac2d5ca9c3a68d7412bf4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c4fad42beb2eebd96ee096732a12c206c1d6cbf4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784713"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814238"
 ---
-# <a name="enable-or-disable-forms-pro"></a>Włączanie lub wyłączanie formularzy Pro
+# <a name="enable-or-disable-forms-pro"></a>Włączanie lub wyłączanie programu Forms Pro
 
-Program Microsoft Forms Pro rozwinęł się w usłudze Dynamics 365 Customer Voice, oferuje dodatkowe możliwości ankiety i korzyści dla firm. Aby uzyskać więcej informacji, zobacz [Zasoby pomocy dotyczącej programu Dynamics 365 Customer Voice](https://go.microsoft.com/fwlink/p/?linkid=2128357).  
+Aplikacja Microsoft Forms Pro przekształciła się w usługę Dynamics 365 Customer Voice, udostępniając Ci dodatkowe funkcje ankiet i korzyści biznesowe. Aby uzyskać więcej informacji, zobacz Zasoby pomocy dotyczące funkcji Customer Voice dla usługi [Dynamics 365.](https://go.microsoft.com/fwlink/p/?linkid=2128357)  
 
-Program Microsoft Forms Pro jest dostępny w ramach licencji Dynamics 365 Enterprise. Administrator może także zakupić licencję Microsoft Forms Pro. Możesz również usunąć licencję Microsoft Forms Pro użytkownikowi.  
+Program Microsoft Forms Pro jest dołączony do licencji usługi Dynamics 365 Enterprise. Administrator może również kupić licencję programu Microsoft Forms Pro. Możesz również usunąć licencję programu Microsoft Forms Pro dla użytkownika.  
 
-Aby uzyskać więcej informacji na temat licencjonowania, zobacz [kupowanie programu Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) i [wyłączanie programu Microsoft Forms Pro dla użytkownika](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1).
+Aby uzyskać więcej informacji na temat licencjonowania, zobacz Zakup programu [Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) i Wyłączanie programu Microsoft Forms Pro dla [użytkownika.](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1)
   
-Aby uzyskać pomoc dotyczącą zasobów, zobacz [Rozwiązywanie problemów w formularzach Pro](https://docs.microsoft.com/forms-pro/troubleshoot).
+Aby uzyskać zasoby pomocy, zobacz [Rozwiązywanie problemów z programem Forms Pro.](https://docs.microsoft.com/forms-pro/troubleshoot)

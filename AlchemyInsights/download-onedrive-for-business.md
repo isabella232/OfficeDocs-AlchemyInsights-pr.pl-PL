@@ -1,8 +1,8 @@
 ---
-title: Pobieranie usługi OneDrive dla firm
+title: Pobieranie usługi OneDrive dla Firm
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003082"
 - "5904"
-ms.openlocfilehash: cd7c8badaeb9afb4bcd6ef52b6506ffeb0daca57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d5ee7fd4b3ed851c3c3b5310e718152052c0c70
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678658"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814562"
 ---
-# <a name="download-onedrive-for-business"></a>Pobieranie usługi OneDrive dla firm
+# <a name="download-onedrive-for-business"></a>Pobieranie usługi OneDrive dla Firm
 
-Jeśli masz system Windows 10, usługa OneDrive jest już zainstalowana na komputerze PC. Jeśli używasz innej wersji systemu Windows, zainstaluj usługę OneDrive, aby rozpocząć.
+Jeśli masz system Windows 10, usługa OneDrive jest już instalowana na komputerze. Jeśli korzystasz z innej wersji systemu Windows, zainstaluj usługę OneDrive, aby rozpocząć.
 
-- Usługę OneDrive dla firm można pobrać  [tutaj](https://www.microsoft.com/microsoft-365/onedrive/download).
-- Po pobraniu i zainstalowaniu użytkownicy będą monitowani o zalogowanie się do konta służbowego lub szkolnego.
-- Wyłączanie [, wyłączanie lub Odinstalowywanie usługi OneDrive](https://support.microsoft.com/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0).
-- Synchronizowanie plików za pomocą usługi OneDrive w [systemie Windows](https://support.microsoft.com/office/615391c4-2bd3-4aae-a42a-858262e42a49) lub [Mac](https://support.microsoft.com/office/d11b9f29-00bb-4172-be39-997da46f913f).
+- Usługę OneDrive dla Firm można pobrać [tutaj.](https://www.microsoft.com/microsoft-365/onedrive/download)
+- Po pobraniu i zainstalowaniu użytkownicy będą proszeni o zalogowanie się na swoje konto służbowe.
+- [Wyłącz lub odinstaluj usługę OneDrive.](https://support.microsoft.com/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+- Synchronizuj pliki za pomocą usługi OneDrive w [systemie Windows](https://support.microsoft.com/office/615391c4-2bd3-4aae-a42a-858262e42a49) lub na [komputerze Mac.](https://support.microsoft.com/office/d11b9f29-00bb-4172-be39-997da46f913f)

@@ -1,24 +1,24 @@
 ---
-title: Grupa dystrybucyjna "{AimKIObject}" nie jest wyświetlana na liście grupy po {AimKITimeElapsed} min
+title: Grupa dystrybucyjna "{AimKIObject}" nie jest pokazywana na liście grup po {AimKITimeElapsed} minutach
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
-ms.openlocfilehash: 5e813c7bf0fd98bc13ea1148167df1a576e363ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd7e5d71dd2832e253df508fe8819c137c9411aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679811"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815076"
 ---
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Grupa dystrybucyjna "{AimKIObject}" nie jest wyświetlana na liście grupy po {AimKITimeElapsed} min
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Grupa dystrybucyjna "{AimKIObject}" nie jest pokazywana na liście grup po {AimKITimeElapsed} minutach
 
-Twoja grupa "{AimKIObject}" została utworzona {AimKITimeElapsed} minut temu. W przypadku nowej grupy dystrybucyjnej wyświetlanej w centrum administracyjnym zwykle nie zajmuje więcej niż 60 minut.
+Grupa "{AimKIObject}" została utworzona przed {AimKITimeElapsed} minutami. Zwykle nowa grupa dystrybucyjna pojawia się w centrum administracyjnym nie później niż po 60 minutach.
   
-Możesz korzystać z funkcji grupy adresatów > grup w [centrum administracyjnym programu Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) , aby zarządzać swoją grupą, lub skorzystać z opcji "Pozwól nam zadzwonić do Ciebie", aby porozmawiać z inżynierem pomocy technicznej. 
+Do zarządzania grupą możesz teraz użyć funkcji Odbiorcy > Grupy w Centrum administracyjnym programu [Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) lub porozmawiać z inżynierem pomocy technicznej — w tym celu użyj opcji "Pozwól nam zadzwonić do Ciebie". 
   

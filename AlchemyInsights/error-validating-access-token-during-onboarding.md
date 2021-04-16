@@ -1,8 +1,8 @@
 ---
-title: Wystąpił błąd podczas weryfikowania błędu tokenu dostępu podczas przeprowadzania na pokładzie funkcji analizy pulpitu
+title: Wystąpił błąd sprawdzania poprawności tokenu dostępu podczas wnoszania analizy komputerowej
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 45c6fb1a1632799a07c028c0791b6b8e77635293
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12e5906ba8cbc76ba1fd99dde1cf76396c3a6942
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783561"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813698"
 ---
-# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Komunikat o błędzie "podczas sprawdzania poprawności tokenu dostępu" Wystąpił błąd podczas przechodzenia do funkcji analizy na komputerze
+# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Błąd "Wystąpił błąd sprawdzania poprawności tokenu dostępu" podczas dołączania analizy pulpitu
 
-Ten błąd jest zwykle przestrzegany, gdy token uwierzytelniania wygasa. Zazwyczaj odświeżanie strony powoduje odświeżenie tokenu. Problem ten może jednak występować, jeśli w komputerze są zastosowane zasady dostępu warunkowego do konta używanego do analizy na płycie. Możesz przejrzeć dzienniki logowania do usługi Azure AD w portalu Azure, aby sprawdzić, czy konto używane do obsługi funkcji analizy komputerów jest dołączane do wszystkich niepowodzeń logowania.
+Ten błąd jest zazwyczaj obserwowany po wygaśnięciu tokenu uwierzytelniania. Zazwyczaj odświeżanie strony odświeża token. Ten problem może jednak ustąpić, jeśli do konta używanego do analizy pulpitu na tablicy są stosowane jakieś zasady dostępu warunkowego. Dzienniki logowania usługi Azure AD możesz przejrzeć w portalu Azure Portal, aby sprawdzić, czy nie występują jakiekolwiek błędy logowania dla konta używanego do dołączania do usługi Desktop Analytics.
 
-Aby uzyskać więcej informacji na temat dostępu warunkowego, odwiedź witrynę [Planowanie wdrożenia dostępu warunkowego](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).
+Aby uzyskać więcej informacji na temat dostępu warunkowego, odwiedź [stronę Planowanie wdrożenia dostępu warunkowego.](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access)

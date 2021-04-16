@@ -1,8 +1,8 @@
 ---
-title: 0x8004de40 błąd podczas uruchamiania usługi OneDrive
+title: błąd 0x8004de40 podczas uruchamiania usługi OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6886"
 - "9003837"
-ms.openlocfilehash: f689fcf9432e9b356843efe73ed0f79a32735e6f
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: e329d7fe881a0fc9514584e06aa2d6e8ebab5b11
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823113"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813662"
 ---
-# <a name="0x8004de40-error-when-launching-onedrive"></a>0x8004de40 błąd podczas uruchamiania usługi OneDrive
+# <a name="0x8004de40-error-when-launching-onedrive"></a>błąd 0x8004de40 podczas uruchamiania usługi OneDrive
 
-Jeśli podczas logowania do usługi OneDrive zostanie wyświetlony komunikat o błędzie **0x8004de40** , uruchom ponownie komputer po połączeniu z domeną służbową lub szkolną. Jeśli po ponownym uruchomieniu komputera pojawi się ten błąd, spróbuj wykonać tę czynność po połączeniu z domeną służbową lub szkolną:
+Jeśli podczas logowania się **do usługi** OneDrive 0x8004de40 komunikat o błędzie, uruchom ponownie komputer, gdy komputer jest połączony z domeną służbowej lub szkolnej. Jeśli po ponownym uruchomieniu komputera zostanie wyświetlony ten błąd, spróbuj wykonać tę próbę, gdy komputer jest połączony z domeną służbowej lub szkolnej:
 
-1. Kliknij przycisk Start, a następnie wpisz ciąg **cmd** lub **Command**  w polu wyszukiwania, kliknij prawym przyciskiem myszy aplikację wiersza polecenia, a następnie wybierz pozycję  **Uruchom jako administrator** . Jeśli zostanie wyświetlony monit o podanie hasła administratora lub potwierdzenie, wpisz hasło lub kliknij pozycję **Zezwalaj** .  
+1. Kliknij przycisk Start i wpisz **cmd** lub **wiersz** polecenia w polu wyszukiwania, kliknij prawym przyciskiem myszy aplikację wiersza polecenia i wybierz **pozycję Uruchom jako administrator.** Jeśli zostanie wyświetlony monit o hasło administratora lub potwierdzenie, wpisz hasło lub kliknij przycisk **Zezwalaj**.  
 
-2. W oknie wiersza polecenia wpisz **dsregcmd/Leave**  i poczekaj na ukończenie polecenia. Następnie wpisz **dsregcmd/Join** i poczekaj na ukończenie polecenia.
+2. W oknie Wiersz polecenia wpisz **dsregcmd /leave**  i poczekaj na ukończenie polecenia. Następnie wpisz **dsregcmd /join** i poczekaj na ukończenie polecenia.
 3. Uruchom ponownie komputer.
