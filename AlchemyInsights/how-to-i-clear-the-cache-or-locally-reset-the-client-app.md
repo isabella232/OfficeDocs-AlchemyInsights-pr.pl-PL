@@ -2,7 +2,7 @@
 title: Jak wyczyścić pamięć podręczną lub lokalnie zresetować/odświeżyć klienta/aplikację?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3060"
 - "9001099"
-ms.openlocfilehash: ef56e513ca04f8b51390d565c18aabd7908c2f7f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e48bc08ac8098d8783bdf884aaf618feb1967327
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780285"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795958"
 ---
 # <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Jak wyczyścić pamięć podręczną lub lokalnie zresetować/odświeżyć klienta/aplikację?
 
-Jeśli widzisz dane niepełne lub niepoprawne, spróbuj wymusić zamknięcie i ponownie otworzyć aplikację.  
+Jeśli widzisz niepełne lub niepoprawne dane, spróbuj wymusić zamknięcie i ponowne otwarcie aplikacji.  
 
 Jeśli to nie zadziała, możesz spróbować zresetować konto na urządzeniu.
  
-Otwórz aplikację, przejdź do pozycji **Ustawienia**, wybierz konto e-mail, a następnie wybierz pozycję **Resetuj konto**.
+Otwórz aplikację, przejdź do **menu Ustawienia**, wybierz konto e-mail i wybierz pozycję **Resetuj konto**.

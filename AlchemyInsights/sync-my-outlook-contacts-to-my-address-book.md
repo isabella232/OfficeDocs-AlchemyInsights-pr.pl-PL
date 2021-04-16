@@ -1,8 +1,8 @@
 ---
-title: Synchronizowanie kontaktów programu Outlook z moją książką adresową
+title: Synchronizowanie kontaktów programu Outlook z książką adresową
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 3dbdfd0e6686042bd30330b4e00bc082a9655160
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a2f381eefcaf4b09713749035f390f65c53727
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737387"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797551"
 ---
-# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Synchronizowanie kontaktów programu Outlook z moją książką adresową
+# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Synchronizowanie kontaktów programu Outlook z książką adresową
 
-Program Outlook umożliwia eksportowanie kontaktów do domyślnej aplikacji Kontakty w systemie Android. Umożliwia to wyświetlenie nazwy kontaktu po odebraniu połączenia lub wiadomości SMS i wyświetlenie wszystkich informacji kontaktowych bezpośrednio w domyślnej aplikacji Kontakty.
+Program Outlook umożliwia eksportowanie kontaktów do domyślnej aplikacji Kontakty w systemie Android. Dzięki temu możesz wyświetlić nazwę kontaktu po otrzymaniu połączenia lub wiadomości SMS i wyświetlić wszystkie jego informacje kontaktowe bezpośrednio w domyślnej aplikacji Kontakty.
  
-**Aby włączyć tę funkcję**:
+**Aby włączyć tę funkcję:**
  
-1. Na urządzeniu przejdź do obszaru **Ustawienia**.
+1. Na urządzeniu przejdź do strony **Ustawienia**.
 
-2. W obszarze **konta**naciśnij konto, z którym chcesz zsynchronizować kontakty.
+2. W **obszarze** Konta naciśnij konto, z które chcesz zsynchronizować kontakty.
 
-3. Włącz suwak **Synchronizuj kontakty** włączony.
+3. Włącz **suwak Synchronizuj kontakty.**
  
-Obsługa dwukierunkowego eksportu kontaktu jest obsługiwana dla usługi Microsoft 365, Outlook.com oraz nowoczesnego uwierzytelniania hybrydowego skrzynek pocztowych. Obsługa dwukierunkowa zapewnia, że nowo dodane kontakty lub istniejące kontakty, które edytujesz, zostaną zsynchronizowane między urządzeniem a kontami programu Outlook.
+Dwukierunkowy eksport kontaktów jest obsługiwany na platformie Microsoft 365, Outlook.com i nowoczesnym uwierzytelnianiu hybrydowym dla lokalnych skrzynek pocztowych. Obsługa dwukierunkowa gwarantuje, że wszelkie nowe, przez Ciebie dodaniu lub istniejące kontakty, które edytujesz, zostaną zsynchronizowane między Twoim urządzeniem a kontami programu Outlook.
  
-W przypadku starszych kont programu Exchange można wyeksportować kontakty, aby były zapisywane na urządzeniu. Po włączeniu **synchronizacji kontaktów** nowo dodane kontakty i edycje kontaktów w programie Outlook zostaną zapisane w aplikacji Kontakty na urządzeniu. Jednak Edycja wprowadzona bezpośrednio w aplikacji Kontakty urządzenia nie zostanie zapisana w programie Outlook. Pamiętaj, że nie obsługujemy dodawania/edytowania kontaktów z aplikacji Outlook dla systemu Android dla lokalnych kont programu Exchange, więc musisz zarządzać kontaktami z innego klienta programu Outlook.
+W przypadku starszych kont programu Exchange możesz wyeksportować kontakty, aby zostały zapisane na urządzeniu. Gdy **jest włączona opcja** Synchronizuj kontakty, nowo dodane kontakty i zmiany edycji wprowadzone w kontaktach w programie Outlook zostaną zapisane w aplikacji Kontakty na Twoim urządzeniu. Jednak zmiany wprowadzone bezpośrednio w aplikacji Kontakty na urządzeniu nie zostaną zapisane w programie Outlook. Pamiętaj, że nie obsługujemy dodawania/edytowania kontaktów z aplikacji Outlook dla systemu Android w przypadku lokalnych kont programu Exchange, więc konieczne będzie zarządzanie kontaktami z innego klienta programu Outlook.
  
-Na razie synchronizacja z usługą GMAIL i iCloud nie jest obsługiwana.
+Obecnie synchronizacja kontaktów z usługami GMAIL i iCloud nie jest obsługiwana.
  
-Jeśli chcesz usunąć te zsynchronizowane kontakty, możesz w dowolnej chwili przełączyć **kontakty z synchronizacją** , a zostaną one usunięte z książki adresowej.
+Jeśli chcesz usunąć te zsynchronizowane kontakty, możesz  w dowolnym momencie przełączyć przełącznik Synchronizuj kontakty, a zostaną one usunięte z książki adresowej.
