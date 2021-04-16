@@ -1,8 +1,8 @@
 ---
-title: Wyświetlanie aktywności aplikacji Microsoft 365 dla użytkowników
+title: Wyświetlanie aktywności użytkowników aplikacji platformy Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -18,15 +18,15 @@ ms.custom:
 - "5628"
 - "9001421"
 - "5629"
-ms.openlocfilehash: 3e8878ae08ede1193e532aba6cc4b901c131327d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 13049a2f24e93a718cab26097fa8e2145fde5667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664648"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806632"
 ---
-# <a name="view-your-users-microsoft-365-apps-activity"></a><span data-ttu-id="429ec-102">Wyświetlanie aktywności aplikacji Microsoft 365 dla użytkowników</span><span class="sxs-lookup"><span data-stu-id="429ec-102">View your users' Microsoft 365 apps activity</span></span>
+# <a name="view-your-users-microsoft-365-apps-activity"></a><span data-ttu-id="417a0-102">Wyświetlanie aktywności użytkowników aplikacji platformy Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="417a0-102">View your users' Microsoft 365 apps activity</span></span>
 
-<span data-ttu-id="429ec-103">[Raport aktywacja pakietu Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) zawiera widok, w którym użytkownicy zainstalowali i aktywowali aplikacje Microsoft 365 na co najmniej jednym urządzeniu.</span><span class="sxs-lookup"><span data-stu-id="429ec-103">The [Office Activation report](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) gives you a view of which users have installed and activated their Microsoft 365 apps on at least one device.</span></span>
+<span data-ttu-id="417a0-103">Raport [Aktywacje pakietu Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) zawiera informacje o użytkownikach, którzy zainstalowali i aktywowali aplikacje platformy Microsoft 365 na co najmniej jednym urządzeniu.</span><span class="sxs-lookup"><span data-stu-id="417a0-103">The [Office Activation report](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) gives you a view of which users have installed and activated their Microsoft 365 apps on at least one device.</span></span>
 
-<span data-ttu-id="429ec-104">Ponadto możesz uzyskać widok aktywności aplikacji Microsoft 365 dla użytkowników przy użyciu [raportu Użycie aplikacji microsoft 365 Apps](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="429ec-104">Additionally, you can get a view into your users' Microsoft 365 Apps activity by using the [Microsoft 365 Apps usage report](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide).</span></span>
+<span data-ttu-id="417a0-104">Ponadto raport użycia aplikacji platformy Microsoft 365 umożliwia wyświetlenie aktywności użytkowników dotyczącej aplikacji platformy [Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="417a0-104">Additionally, you can get a view into your users' Microsoft 365 Apps activity by using the [Microsoft 365 Apps usage report](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide).</span></span>
