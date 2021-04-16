@@ -1,8 +1,8 @@
 ---
-title: Znajdowanie strony, na której znajdują się kontakty
+title: Znajdowanie strony z moimi kontaktami
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001715"
 - "3799"
-ms.openlocfilehash: 4b25ae4adb7411d721c4749e9e696b2f0dbcca1f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff3fca5a12c08314388fdb494c598c3e03d5db8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745284"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813014"
 ---
-# <a name="find-the-page-that-shows-my-contacts"></a><span data-ttu-id="033d5-102">Znajdowanie strony, na której znajdują się kontakty</span><span class="sxs-lookup"><span data-stu-id="033d5-102">Find the page that shows my contacts</span></span>
+# <a name="find-the-page-that-shows-my-contacts"></a><span data-ttu-id="694cd-102">Znajdowanie strony z moimi kontaktami</span><span class="sxs-lookup"><span data-stu-id="694cd-102">Find the page that shows my contacts</span></span>
 
-<span data-ttu-id="033d5-103">Kontakty można wyszukiwać w taki sam sposób, jak w przypadku wyszukiwania wiadomości e-mail.</span><span class="sxs-lookup"><span data-stu-id="033d5-103">You can search for your contacts in the same way as you search for your emails.</span></span>
+<span data-ttu-id="694cd-103">Możesz wyszukiwać kontakty w taki sam sposób jak w przypadku wyszukiwania wiadomości e-mail.</span><span class="sxs-lookup"><span data-stu-id="694cd-103">You can search for your contacts in the same way as you search for your emails.</span></span>
  
-<span data-ttu-id="033d5-104">Naciśnij ikonę wyszukiwania lupy, a następnie wpisz żądanie wyszukiwania kontaktów w polu u góry ekranu.</span><span class="sxs-lookup"><span data-stu-id="033d5-104">Tap the magnifying glass search icon, then type your contact search request into the box at the top of your screen.</span></span> <span data-ttu-id="033d5-105">(**PROTIP**: możesz nacisnąć dwukrotnie lupę, aby przenieść fokus do pola wyszukiwania). Wyniki zostaną wyświetlone w sekcji Kontakty.</span><span class="sxs-lookup"><span data-stu-id="033d5-105">(**Protip**: You can double-tap on the magnifying glass to bring focus to the search box.) Your results will appear in the Contacts section.</span></span>
+<span data-ttu-id="694cd-104">Naciśnij ikonę wyszukiwania w lupie, a następnie wpisz swoją prośbę o wyszukanie kontaktu w polu u góry ekranu.</span><span class="sxs-lookup"><span data-stu-id="694cd-104">Tap the magnifying glass search icon, then type your contact search request into the box at the top of your screen.</span></span> <span data-ttu-id="694cd-105">**(Etykietka:** Możesz nacisnąć dwukrotnie lupę, aby przywrócić fokus w polu wyszukiwania). Wyniki zostaną wyświetlone w sekcji Kontakty.</span><span class="sxs-lookup"><span data-stu-id="694cd-105">(**Protip**: You can double-tap on the magnifying glass to bring focus to the search box.) Your results will appear in the Contacts section.</span></span>
