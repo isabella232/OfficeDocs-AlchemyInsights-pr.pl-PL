@@ -2,21 +2,22 @@
 title: Znane problemy i rozwiązania dotyczące programu Visio
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 759991c9e22facbfac54ae686ae7af60faef404a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722594"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806596"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Znane problemy i rozwiązania dotyczące programu Visio
 
@@ -30,7 +31,7 @@ Oto kilka najczęściej zgłaszanych tematów dotyczących programu Microsoft Vi
 
 **Pobieranie, instalowanie i aktywowanie programu Visio**
 
-- W celu zainstalowania i aktywowania aplikacji klasycznej z aplikacją Visio Online w ramach planu 2 użytkownikowi musi zostać najpierw przypisana [licencja programu Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- W celu zainstalowania i aktywowania aplikacji klasycznej z aplikacją Visio Online w ramach planu 2 użytkownikowi musi zostać najpierw przypisana [licencja programu Visio](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 - Zainstaluj program Visio z poziomu portalu Moje konto, jeśli jeszcze nie został zainstalowany. Aby uzyskać pomoc, zobacz [Instalowanie programu Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710).
 
@@ -40,7 +41,7 @@ Oto kilka najczęściej zgłaszanych tematów dotyczących programu Microsoft Vi
 
 **Program Visio na komputerze Mac**
 
-Brak aplikacji klasycznej Visio dla komputerów Mac. Natomiast użytkownicy z prawidłową [licencją aplikacji Visio Online](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) mogą [wyświetlać, tworzyć i edytować diagramy](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) w aplikacji Visio Online w przeglądarce internetowej.
+Brak aplikacji klasycznej Visio dla komputerów Mac. Natomiast użytkownicy z prawidłową [licencją aplikacji Visio Online](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) mogą [wyświetlać, tworzyć i edytować diagramy](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) w aplikacji Visio Online w przeglądarce internetowej.
 
 **Diagramy, szablony, kształty oraz łączniki**
 

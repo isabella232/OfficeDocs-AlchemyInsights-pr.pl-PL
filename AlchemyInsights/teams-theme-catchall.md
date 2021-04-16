@@ -1,27 +1,26 @@
 ---
-title: Jesteś nowym użytkownikiem aplikacji Microsoft Teams?
+title: Konfigurowanie usługi Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 48f26a50c7819dd225d9e9eed28f59db42236faf
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 721858ca63d9477c234612de8306d3b20654d232
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509155"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786211"
 ---
-# <a name="new-to-microsoft-teams"></a>Jesteś nowym użytkownikiem aplikacji Microsoft Teams?
+# <a name="set-up-microsoft-teams"></a>Konfigurowanie usługi Microsoft Teams
 
-Przeczytaj artykuł  [Wprowadzenie do aplikacji Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start). Pamiętaj, że możesz też obejrzeć filmy szkoleniowe dla administratorów sieci informatycznej dotyczące aplikacji Microsoft Teams, slajdy, a także zapoznać się z dodatkowymi informacjami.
+[Przewodnik konfiguracji usługi Microsoft Teams](https://aka.ms/teamsguidance) udostępnia organizacji wskazówki dotyczące konfigurowania obszarów roboczych zespołu, które hostują konwersacje w czasie rzeczywistym za pomocą wiadomości, połączeń oraz spotkań dźwiękowych i wideo zarówno w przypadku komunikacji zespołowej, jak i prywatnej. Otrzymasz instrukcje ustalania dotyczących sieci wymagań Twojej organizacji przy użyciu narzędzia Network Planner i doradcy dla usługi Teams w centrum administracyjnym usługi Teams. Po zakończeniu wdrażania przewodnik zawiera przydatne zasoby, aby rozpocząć korzystanie z usługi Teams.
 
-Jeśli potrzebujesz pomocy przy wdrażaniu aplikacji Teams w celu umożliwienia pracownikom pracy zdalnej ze względu na epidemię COVID-19, zapoznaj się z artykułem [Wsparcie dla pracowników pracujących z domu i korzystających z aplikacji Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Ponadto możesz kwalifikować się do skorzystania z pomocy przy wdrażaniu usługi w ramach programu Microsoft 365 FastTrack. Wejdź na stronę [FastTrack Center](https://www.microsoft.com/fasttrack), aby przesłać żądanie.
-
-**Ważne**: ze względu na obserwowany w ostatnim czasie wzrost użycia usługi Teams pełne skonfigurowanie użytkownika po przypisaniu mu licencji usługi Teams może potrwać około 24 godzin. Do tego czasu użytkownik może nie mieć dostępu do niektórych funkcji aplikacji Teams, takich jak połączenia i konferencje głosowe, i nie będzie można przypisać mu zasad usługi Teams.
+Aby uzyskać dodatkowe informacje, zobacz [Wprowadzenie do usługi Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
