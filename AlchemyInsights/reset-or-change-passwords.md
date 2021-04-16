@@ -2,7 +2,7 @@
 title: Resetowanie lub zmienianie haseł
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692161"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810206"
 ---
-# <a name="reset-or-change-passwords"></a><span data-ttu-id="0aa28-102">Resetowanie lub zmienianie haseł</span><span class="sxs-lookup"><span data-stu-id="0aa28-102">Reset or change passwords</span></span>
+# <a name="reset-or-change-passwords"></a><span data-ttu-id="3e214-102">Resetowanie lub zmienianie haseł</span><span class="sxs-lookup"><span data-stu-id="3e214-102">Reset or change passwords</span></span>
 
-<span data-ttu-id="0aa28-103">Użytkownik może zmienić swoje hasło z zabezpieczeń **konta**  >  [& prywatność](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="0aa28-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="3e214-103">Użytkownik może zmienić swoje hasło na stronie Moje **konto** Zabezpieczenia  >  [& prywatności.](https://portal.office.com/account/#security)</span><span class="sxs-lookup"><span data-stu-id="3e214-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
   
-<span data-ttu-id="0aa28-104">Jeśli użytkownik zapomniał hasło, administrator może zresetować hasło, przechodząc do **użytkowników**  >  [aktywnych użytkowników](https://portal.office.com/adminportal/home#/users), zaznacz użytkowników, a następnie kliknij pozycję **Resetuj hasło**.</span><span class="sxs-lookup"><span data-stu-id="0aa28-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
+<span data-ttu-id="3e214-104">Jeśli użytkownik nie pamięta swojego hasła, administrator może je zresetować, przechodząc do pozycji Użytkownicy aktywni użytkownicy, a następnie klikając pozycję  >  [](https://portal.office.com/adminportal/home#/users) **Zresetuj hasło.**</span><span class="sxs-lookup"><span data-stu-id="3e214-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
   
-<span data-ttu-id="0aa28-105">[Kliknij tutaj, aby dowiedzieć się więcej](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)lub umożliwić użytkownikom zresetowanie ich zapomnianych haseł.</span><span class="sxs-lookup"><span data-stu-id="0aa28-105">[Click here to learn more](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
+<span data-ttu-id="3e214-105">[Kliknij tutaj, aby dowiedzieć się więcej](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)lub aby pozwolić użytkownikom na resetowanie zapomnianych haseł.</span><span class="sxs-lookup"><span data-stu-id="3e214-105">[Click here to learn more](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
