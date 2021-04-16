@@ -2,7 +2,7 @@
 title: Wprowadzanie numerów portów IMAP
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001101"
 - "3062"
-ms.openlocfilehash: a38d01f41298ff3fde1927635c31e442a19012a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8479c4af8833fc4f1dbc66ef3c59a4e24290b83c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709449"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813842"
 ---
-# <a name="enter-imap-port-numbers"></a><span data-ttu-id="e17af-102">Wprowadzanie numerów portów IMAP</span><span class="sxs-lookup"><span data-stu-id="e17af-102">Enter IMAP port numbers</span></span>
+# <a name="enter-imap-port-numbers"></a><span data-ttu-id="8adff-102">Wprowadzanie numerów portów IMAP</span><span class="sxs-lookup"><span data-stu-id="8adff-102">Enter IMAP port numbers</span></span>
 
-<span data-ttu-id="e17af-103">Zaloguj się za pomocą ekranu Konfiguracja zaawansowana i Dodaj dane swojego portu za pomocą dwukropka w wierszu z adresami serwerów poczty przychodzącej i wychodzącej.</span><span class="sxs-lookup"><span data-stu-id="e17af-103">Log in via the advance setup screen and add your port details behind a colon in line with your incoming and outgoing server addresses.</span></span> <span data-ttu-id="e17af-104">(Możesz uzyskać te informacje od swojego dostawcy usług poczty e-mail).</span><span class="sxs-lookup"><span data-stu-id="e17af-104">(You can get these details from your email service provider.)</span></span> 
+<span data-ttu-id="8adff-103">Zaloguj się za pomocą ekranu konfiguracji zaawansowanej i dodaj szczegóły portu za dwukropkiem w wierszu z adresami serwera poczty przychodzącej i wychodzącej.</span><span class="sxs-lookup"><span data-stu-id="8adff-103">Log in via the advance setup screen and add your port details behind a colon in line with your incoming and outgoing server addresses.</span></span> <span data-ttu-id="8adff-104">(Te szczegóły możesz uzyskać z poczty e-mail usługodawca).</span><span class="sxs-lookup"><span data-stu-id="8adff-104">(You can get these details from your email service provider.)</span></span> 
 
-<span data-ttu-id="e17af-105">Przejdź do obszaru **Ustawienia**  >  **Dodaj konto**  >  **IMAP** > a następnie kliknij pozycję **Pokaż ustawienia zaawansowane**, a następnie wprowadź dane.</span><span class="sxs-lookup"><span data-stu-id="e17af-105">Go to **Settings** > **Add Account** > **IMAP** > and click **Show advanced settings**; then enter your details.</span></span> 
+<span data-ttu-id="8adff-105">Przejdź do **menu Ustawienia** Dodaj konto i > kliknij pozycję Pokaż ustawienia zaawansowane , a następnie wprowadź szczegółowe  >    >   informacje. </span><span class="sxs-lookup"><span data-stu-id="8adff-105">Go to **Settings** > **Add Account** > **IMAP** > and click **Show advanced settings**; then enter your details.</span></span> 
 
-<span data-ttu-id="e17af-106">*Serwer poczty przychodzącej*: IMAP.ServerName.com:000 (zwykle 993 lub 143)</span><span class="sxs-lookup"><span data-stu-id="e17af-106">*Incoming mail server*: imap.servername.com:000 (usually 993 or 143)</span></span> 
+<span data-ttu-id="8adff-106">*Serwer poczty przychodzącej:* imap.servername.com:000 (zwykle 993 lub 143)</span><span class="sxs-lookup"><span data-stu-id="8adff-106">*Incoming mail server*: imap.servername.com:000 (usually 993 or 143)</span></span> 
 
-<span data-ttu-id="e17af-107">*Serwer poczty wychodzącej*: SMTP.ServerName.com:000 (zwykle 465 lub 25)</span><span class="sxs-lookup"><span data-stu-id="e17af-107">*Outgoing mail server*: smtp.servername.com:000 (usually 465 or 25)</span></span> 
+<span data-ttu-id="8adff-107">*Serwer poczty wychodzącej:* smtp.servername.com:000 (zazwyczaj 465 lub 25)</span><span class="sxs-lookup"><span data-stu-id="8adff-107">*Outgoing mail server*: smtp.servername.com:000 (usually 465 or 25)</span></span> 
 
-<span data-ttu-id="e17af-108">Pamiętaj, że dwukropek jest ważny.</span><span class="sxs-lookup"><span data-stu-id="e17af-108">Keep in mind the colon is important.</span></span> 
+<span data-ttu-id="8adff-108">Pamiętaj, że dwukropek jest ważny.</span><span class="sxs-lookup"><span data-stu-id="8adff-108">Keep in mind the colon is important.</span></span> 
