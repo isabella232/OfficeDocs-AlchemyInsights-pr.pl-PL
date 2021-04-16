@@ -46,7 +46,7 @@ Jeśli potrzebujesz pomocy przy wdrażaniu aplikacji Teams jako narzędzia do na
     6. W centrum administracyjnym programu Skype dla firm kliknij pozycję **konferencja głosowa**, a następnie **użytkownicy**.
     7. Zaznacz danego użytkownika i sprawdź, czy ma domyślny numer płatny.
 
-    Aby uzyskać więcej informacji, przeczytaj artykuł [Plany połączeń telefonicznych w Microsoft Teams](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) lub zadzwoń do zespołu ds. rozliczeń z przedsiębiorstwami firmy Microsoft, aby uzyskać pomoc dotyczącą licencji.
+    W celu uzyskania dodatkowych informacji zobacz artykuł [Plany połączeń telefonicznych w Microsoft Teams](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) lub zadzwoń do zespołu ds. rozliczeń handlowych firmy Microsoft, aby uzyskać pomoc w przypadku pytań związanych z licencjonowaniem.
 
     Dodatkowe zasoby
 

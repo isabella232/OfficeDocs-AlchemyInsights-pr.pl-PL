@@ -23,7 +23,7 @@ ms.locfileid: "51692872"
 
 - [Konfigurowanie poczty głosowej w chmurze](https://docs.microsoft.com/microsoftteams/set-up-phone-system-voicemail) 
 - [Licencjonowanie dodatku do aplikacji Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing) 
-- Telefon w Microsoft Teams w otoczeniach lokalnych: [Konfigurowanie usługi poczty głosowej w chmurze Microsoft dla użytkowników lokalnych](https://docs.microsoft.com/skypeforbusiness/hybrid/configure-cloud-voicemail) 
-- [Plany połączeń telefonicznych w Microsoft Teams dla usługi Microsoft 365](https://docs.microsoft.com//microsoftteams/calling-plans-for-office-365) 
+- Telefon w Microsoft Teams w środowiskach lokalnych: [konfigurowanie usługi poczty głosowej w chmurze dla użytkowników lokalnych](https://docs.microsoft.com/skypeforbusiness/hybrid/configure-cloud-voicemail) 
+- [Plany połączeń telefonicznych w Microsoft Teams dla platformy Microsoft 365](https://docs.microsoft.com//microsoftteams/calling-plans-for-office-365) 
 
 Jeśli wiadomości poczty głosowej nie są dostarczane, zobacz [Wiadomości poczty głosowej nie są dostarczane w aplikacji Teams lub do klienta programu Skype dla firm](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/hybrid-phone-system/voicemails-not-delivered).

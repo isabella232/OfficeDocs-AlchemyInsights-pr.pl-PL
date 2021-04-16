@@ -1,8 +1,8 @@
 ---
-title: Nadawanie administratorowi innego konta
+title: Nadaj iniustratorowi inne konto
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: b6de4097a23e18ac84f6afd5c9d2b3c4ff7bb856
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f1ff8eb23a58fab0cbc3db557c92feab8c45a95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794704"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795022"
 ---
-# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Zmienianie konta użytkownika standardowego na administratora w systemie Windows 10
+# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Zmienianie standardowego konta użytkownika na administratora w systemie Windows 10
 
-Poniżej opisano, jak zmienić konto użytkownika standardowego na administratora w systemie Windows 10:
+Poniżej opisano, jak można zmienić standardowe konto użytkownika na administratora w systemie Windows 10:
 
-1. Przejdź do obszaru **Uruchamianie**  >  **ustawień**  >  **Account**  >  **rodzina kont & inne osoby** (lub **inne osoby**, jeśli korzystasz z systemu Windows 10 Enterprise).
+1. Przejdź do **menu Start** Ustawienia Konto & inne osoby (lub Inne osoby , jeśli korzystasz z  >    >    >   systemu Windows 10 Enterprise). 
 2. Wybierz konto, które chcesz uczynić administratorem, a następnie wybierz pozycję **Zmień konto**.
-3. W obszarze **Typ konta**wybierz pozycję **administrator**, a następnie wybierz przycisk **OK**.
+3. W **obszarze Typ konta** wybierz pozycję **Administrator**, a następnie wybierz przycisk **OK.**
 
-**Uwaga:** Konta można zmienić tylko na konto administratora, korzystając z istniejącego konta administratora.
+**Uwaga:** Możesz zmieniać konta tylko na administratora z istniejącego konta administratora.
