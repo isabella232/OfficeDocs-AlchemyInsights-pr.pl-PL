@@ -1,8 +1,8 @@
 ---
-title: Klucz produktu serwer raportów usługi Power BI
+title: Klucz produktu programu Power BI Report Server
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: ec7b033d524ba257ee985b5cd11881b0b9109e8b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dbb7121638f56587e3e8fb065fce74da4005c94
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801959"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800692"
 ---
-# <a name="power-bi-report-server-product-key"></a>Klucz produktu serwer raportów usługi Power BI
+# <a name="power-bi-report-server-product-key"></a>Klucz produktu programu Power BI Report Server
 
-Jeśli zakupiono dodatek Power BI Premium, na karcie **Ustawienia Premium** w portalu administracyjnym usługi Power BI masz dostęp do klucza produktu serwera raportów usługi Power BI. Ta funkcja jest dostępna tylko dla administratorów globalnych lub użytkowników, którzy przypisały rolę administratora usługi Power BI.
+Jeśli zakupiono usługę Power BI Premium, na karcie **Ustawienia premium** w portalu administracyjnym usługi Power BI masz dostęp do klucza produktu programu Power BI Report Server. Ta usługa jest dostępna tylko dla administratorów globalnych lub użytkowników z przypisaną rolą administratora usługi Power BI.
 
-Wybieranie **klucza serwera raportów usługi Power BI** powoduje wyświetlenie okna dialogowego zawierającego klucz produktu. Możesz go skopiować i użyć razem z instalacją.
+Wybranie **klawisza Serwera raportów usługi Power BI** powoduje wyświetlenie okna dialogowego zawierającego klucz produktu. Możesz go skopiować i używać razem z instalacją.
 
-Jeśli masz umowę z programem SQL Server Enterprise SA, możesz uzyskać klucz produktu z [centrum usług licencjonowania zbiorowego](https://www.microsoft.com/Licensing/servicecenter/).
+Jeśli masz umowę SQL Server Enterprise SA, możesz uzyskać klucz produktu z centrum [Volume Licensing Service Center.](https://www.microsoft.com/Licensing/servicecenter/)
 
 Aby uzyskać więcej informacji: https://docs.microsoft.com/power-bi/report-server/install-report-server

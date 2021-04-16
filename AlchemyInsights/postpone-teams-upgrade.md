@@ -1,8 +1,8 @@
 ---
-title: Uaktualnienie dotyczące odroczonego zespołu
+title: Odkładanie uaktualnienia aplikacji Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: ae0611df247790200d0192e018ff5f0128f23cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: abbf696b1554743bda188704272bfd85fe6f94e2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741781"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801241"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Jak odłożyć uaktualnienie zespołów opartych na firmie Microsoft
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Jak odłożyć uaktualnienie aplikacji Teams opartej na firmie Microsoft
 
-**Ważne**: możemy pomóc rozwiązać ten problem za pomocą diagnostycznej pomocy technicznej, ale wygląda na to, że nie korzystasz z nowego centrum administracyjnego. Aby użyć nowego centrum administracyjnego, przesuń przełącznik w prawo po prawej stronie od **nowego centrum administracyjnego** . Korzystając z nowego centrum administracyjnego, kliknij widżet **potrzebujesz pomocy?** , wpisz "Odłóż uaktualnienie zespołów", a następnie postępuj zgodnie z instrukcjami, aby uruchomić diagnostykę.
+**Ważne:** możemy rozwiązać ten problem za Pomocą narzędzia diagnostycznego pomocy technicznej, ale wygląda na to, że nie korzystasz z nowego centrum administracyjnego. Aby skorzystać z nowego centrum administracyjnego, przesuń przełącznik w prawym górnym rogu z treścią **Nowe centrum** administracyjne w prawo. Za pomocą nowego centrum administracyjnego kliknij widżet Potrzebujesz **pomocy?,** wpisz "Odrocz uaktualnienie aplikacji Teams", a następnie postępuj zgodnie z monitami, aby uruchomić diagnostykę.
 
-Jeśli otrzymano komunikat o zautomatyzowanej aktualizacji prowadzonej przez firmę Microsoft z programu Skype dla firm do aplikacji Microsoft Teams i chcesz odłożyć automatyczne uaktualnienie do późniejszej daty, Administrator globalny może zalogować się do [portalu administrator zespołów](https://admin.teams.microsoft.com/dashboard) i po wybraniu przycisku **Odśwież stan** w obszarze uaktualnienie aplikacji Microsoft Teams wybierz przycisk **Odłóż** . Aby wyświetlić nową datę automatycznego uaktualnienia dzierżawy do aplikacji Microsoft Teams, Odśwież stronę portalu administrator zespołów.
+Jeśli otrzymano komunikat o zautomatyzowanym uaktualnieniu aplikacji Skype dla firm firmy Microsoft do aplikacji Microsoft Teams i chcesz odłożyć automatyczne uaktualnienie na później, administrator globalny może zalogować się do portalu administracyjnego aplikacji [Teams](https://admin.teams.microsoft.com/dashboard) i po wybraniu przycisku **Odśwież stan** w obszarze Uaktualnienia aplikacji Microsoft Teams wybrać przycisk Odrocz.  Aby zobaczyć nową datę automatycznego uaktualnienia dzierżawy do usługi Microsoft Teams, odśwież stronę portalu administracyjnego aplikacji Teams.
 
-**Uwaga:** Przycisk **Odłóż** będzie dostępny tylko wtedy, gdy otrzymano powiadomienie dotyczące automatycznego uaktualnienia w centrum wiadomości. 
+**Uwaga:** Przycisk **Odrocz** będzie dostępny tylko w przypadku, gdy otrzymano powiadomienie centrum wiadomości dotyczące automatycznego uaktualniania. 
 
-Administratorzy globalni mogą również uruchomić polecenie [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) , aby dowiedzieć się więcej o aktualnym stanie uaktualnienia.
+Administratorzy globalni mogą również uruchomić usługę [Get-CsTeamsUpgradeStatus,](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) aby dowiedzieć się więcej o ich bieżącym stanie uaktualnienia.
