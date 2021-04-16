@@ -2,7 +2,7 @@
 title: Naprawianie języka wyświetlania aplikacji
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001477"
 - "3508"
-ms.openlocfilehash: afe98f78654ba84a33f1bc3de0cf97bd22ccdb05
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 55b2ef2b47ce2451133341f7a58d7d3f3e114bfe
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730097"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812870"
 ---
 # <a name="fix-the-display-language-of-apps"></a>Naprawianie języka wyświetlania aplikacji
 
-Po zmianie języka wyświetlania w systemie Windows 10 niektóre aplikacje mogą nadal używać poprzedniego języka podczas ich otwierania. Dzieje się tak, ponieważ nowe wersje aplikacji dla tego języka muszą zostać pobrane ze sklepu. Aby rozwiązać ten problem, możesz poczekać na aktualizację automatyczną lub można ręcznie zainstalować zaktualizowaną wersję aplikacji.
+Po zmianie języka wyświetlania w systemie Windows 10 niektóre aplikacje mogą nadal używać poprzedniego języka podczas ich otwierania. Dzieje się tak, ponieważ należy pobrać ze Sklepu nowe wersje aplikacji dla tego języka. Aby rozwiązać ten problem, możesz zaczekać na automatyczną aktualizację lub ręcznie zainstalować zaktualizowaną wersję aplikacji.
 
-Aby ręcznie zainstalować aktualizację, Otwórz aplikację **Microsoft Store** i kliknij pozycję **pobrania i aktualizacje** w prawym górnym rogu. Następnie kliknij przycisk **Pobierz aktualizacje**. Jeśli po zakończeniu aktualizacji język nie zostanie zmieniony, spróbuj uruchomić ponownie komputer.
+Aby ręcznie zainstalować aktualizację, otwórz **Microsoft Store** i kliknij **pozycję** Pliki do pobrania i aktualizacje w prawym górnym rogu. Następnie kliknij **pozycję Pobierz aktualizacje**. Jeśli język nie zostanie zmieniony po zakończeniu aktualizacji, spróbuj ponownie uruchomić komputer.
 
 ![Pobierz aktualizacje.](media/get-updates.png)
 
-Aby uzyskać więcej informacji na temat ustawień języka wejścia i wideo, zobacz [Zarządzanie ustawieniami języka wejścia i wideo w systemie Windows 10](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences).
+Aby dowiedzieć się więcej o ustawieniach języka wprowadzania i wyświetlania, zobacz Zarządzanie ustawieniami języka wprowadzania i [wyświetlania w systemie Windows 10.](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences)

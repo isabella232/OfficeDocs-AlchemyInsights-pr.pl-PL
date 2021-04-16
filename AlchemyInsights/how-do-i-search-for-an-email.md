@@ -2,7 +2,7 @@
 title: Jak wyszukać wiadomość e-mail?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3054"
 - "9001093"
-ms.openlocfilehash: ca787699c55d377784d269651b19b39b4345acee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 070a264f6af068e09a4d1143b95dabcaf4aeae04
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781689"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811106"
 ---
 # <a name="how-do-i-search-for-an-email"></a>Jak wyszukać wiadomość e-mail?
 
-Możesz wyszukać wiadomość e-mail, przeglądając kontakt, który wysłał Ci wiadomość e-mail, lub wyszukując słowo kluczowe zawarte w wiadomości e-mail.
+Możesz wyszukać wiadomość e-mail, wyszukując kontakt, który wysłał ci wiadomość, lub wyszukując słowo kluczowe zawarte w wiadomości e-mail.
 
-Naciśnij ikonę lupy na dolnym pasku nawigacyjnym. Następnie wpisz żądanie wyszukiwania w polu u góry ekranu. 
+Naciśnij lupę na dolnym pasku nawigacyjnym. Następnie wpisz swoją prośbę o wyszukanie w polu u góry ekranu. 
 
-**Porada:** Możesz dwukrotnie nacisnąć lupę, aby przenieść fokus do pola wyszukiwania. Wyniki zostaną wyświetlone w trakcie wpisywania żądania. 
+**Porada:** Możesz nacisnąć dwukrotnie lupę, aby przejść do pola wyszukiwania. Wyniki będą wyświetlane podczas wpisywania żądania. 

@@ -1,8 +1,8 @@
 ---
-title: Rozwiązywanie problemów z drukarką
+title: Rozwiązywanie problemów z drukarkami
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: c8bdc9ff2ce61af24e886559bd78ecb99ce56921
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4700ba896d5101562bd78cf76ec61e47da29894
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677686"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812690"
 ---
 # <a name="troubleshoot-your-printer"></a>Rozwiązywanie problemów z drukarką
 
-Jeśli masz problemy z drukarką, najpierw spróbuj wykonać **zasilanie drukarki**. Wykonaj następujące czynności:
+Jeśli występują problemy z drukarką, najpierw spróbuj wykonać cykl zasilania **drukarki.** Wykonaj następujące czynności:
 
 1. Wyłącz drukarkę i odłącz kabel zasilający.
 2. Zaczekaj 30 sekund.
 3. Podłącz kabel i włącz drukarkę.
 
-Jeśli problem nie został rozwiązany, uruchom narzędzie do rozwiązywania problemów z drukarką, przechodząc do ustawień **Rozpocznij**  >  **Settings**  >  **aktualizację &**  >  **Rozwiązywanie problemów z**zabezpieczeniami. Wybierz pozycję **drukarka**, a następnie wybierz pozycję **Uruchom narzędzie do rozwiązywania problemów**.
+Jeśli to nie rozwiązało problemu, uruchom narzędzie do rozwiązywania problemów z drukarką, przechodząc do menu **Start**  >    >  **Settings Update & Rozwiązywanie problemów z**  >  **zabezpieczeniami.** Wybierz **drukarkę**, a następnie **wybierz pozycję Uruchom narzędzie do rozwiązywania problemów**.

@@ -1,8 +1,8 @@
 ---
-title: Pomóż w zrozumieniu rachunku
+title: Pomoc w zrozumieniu rachunku
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,20 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: bf09bf13ae38f6fee0d8e9451504e26ea68c68e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fdd92779f009626afb8e9158e09c8254f089e42
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705453"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811610"
 ---
-# <a name="help-understanding-your-bill"></a>Pomóż w zrozumieniu rachunku
+# <a name="help-understanding-your-bill"></a>Pomoc w zrozumieniu rachunku
 
-Kwota rozliczona abonamentu odzwierciedla cenę licencji pomnożoną przez liczbę zakupionych licencji oraz wymagane podatki/opłaty.
+Kwota rozliowana za subskrypcję odzwierciedla cenę licencji pomnożona przez liczbę zakupionych licencji oraz wszelkie wymagane podatki/opłaty.
   
-Jeśli kwota rozliczana jest inna niż oczekiwano, może to być spowodowane kilkoma przyczynami:
+Jeśli rozlikowana kwota jest inna niż oczekiwana, może to mieć kilka przyczyn:
   
-- Licencje zostały dodane lub usunięte z subskrypcji. Po zmianie licencji w połowie okresu jest on widoczny na poniższej fakturze. W związku z taką zmianą może pojawić się uznanie lub ponowne rozliczenie za poprzedni okres usługi.
+- Dodano lub usunięto licencje z subskrypcji. Zmiana licencji w środku okresu jest odzwierciedlana na następnej fakturze. W związku z taką zmianą może pojawić się uznanie lub ponowne rozliczenie za poprzedni okres usługi.
 
 - Subskrypcja została anulowana. Po anulowaniu otrzymasz fakturę z nieuregulowanym saldem pomniejszonym o wszelkie uznania.
 

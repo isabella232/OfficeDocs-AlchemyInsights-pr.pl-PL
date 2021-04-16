@@ -1,35 +1,36 @@
 ---
-title: Rozwiązywanie problemów z otwieraniem notesów
+title: Rozwiąż problemy z otwieraniem notesów
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002359"
 - "4718"
-ms.openlocfilehash: c867da55661bd520367b8f909ebe18656e8ffc93
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: MT
+ms.openlocfilehash: 0d31e84fbb4faaadc435f826c61860c69ba01744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "44283223"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812834"
 ---
-# <a name="fix-issues-with-opening-notebooks"></a>Rozwiązywanie problemów z otwieraniem notesów
+# <a name="fix-issues-with-opening-notebooks"></a>Rozwiąż problemy z otwieraniem notesów
 
-**Ważne:** Może zostać wyświetlony komunikat "Występują ograniczenia związane z programem OneNote w usłudze Microsoft Teams. Użyj programu OneNote dla internetu, aby edytować ten notes."
+**Important**: może zostać wyświetlony komunikat „Występują ograniczenia dotyczące programu OneNote w usłudze Microsoft Teams. Użyj programu OneNote w sieci Web, aby edytować ten notes ”.
 
-Informacje na temat [tymczasowych zmian funkcji usługi Microsoft 365 można znaleźć w witrynie Message Center ID: 207439 — Świadomość tymczasowych zmian w usłudze Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207439).
+Zobacz [Identyfikator centrum wiadomości: 207439 – Świadomość tymczasowych dostosowań funkcji platformy Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207439).
 
 Program OneNote w aplikacji Teams w dzierżawach komercyjnych i edukacyjnych będzie działał w trybie tylko do odczytu. Na potrzeby edycji należy użyć aplikacji internetowej lub klasycznej OneNote.
 
 Oto kilka typowych rozwiązań problemów z otwieraniem notesów:
 
-1. Otwarcie notesu może nie być możliwe, ponieważ zamiast konta służbowego jesteś zalogowany za pomocą konta osobistego.
-    - Jeśli notes zostanie otwarty w programie OneNote dla sieci Web, upewnij się, że logujesz się przy użyciu bieżących poświadczeń w programie OneNote.
-    - W programie OneNote 2016 kliknij pozycję **Plik > konto** i **wyloguj się** ze wszystkich kont. Zaloguj się ponownie przy użyciu konta użytkownika z ważną licencją. Aby uzyskać szczegółowe informacje, zobacz [Konta w pakiecie Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9). 
-    - W programie OneNote dla systemu Windows kliknij wielokropek (**...**) w prawym górnym rogu ekranu, kliknij **pozycję Ustawienia > konta**i upewnij się, że konto służbowe jest wymienione. 
-2. Jeśli notes, który nie zostanie otwarty, jest przechowywany w usłudze OneDrive lub usłudze SharePoint Online, spróbuj otworzyć notes w [programie OneNote dla sieci Web](https://onenote.com). Jeśli notesu nie ma na liście, możesz nie mieć do niego uprawnień. Jeśli jest to notes udostępniony, poproś właściciela o udostępnienie go i upewnij się, że do zalogowania się używasz właściwego konta.
+1. Możesz nie być w stanie otworzyć notesu, ponieważ jesteś zalogowany na swoje konto osobiste, a nie na konto służbowe lub szkolne.
+    - Jeśli notes zostanie otwarty w programie OneNote w sieci Web, upewnij się, że logujesz się przy użyciu bieżących poświadczeń w programie OneNote.
+    - W programie OneNote 2016 kliknij pozycję **Plik > Konto** i **Wyloguj się** ze wszystkich kont. Zaloguj się ponownie, używając konta użytkownika z ważną licencją. Aby uzyskać szczegółowe informacje, zobacz [Konta w pakiecie Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9). 
+    - W programie OneNote dla usługi Windows kliknij wielokropek (**…**) w prawym górnym rogu ekranu, następnie kliknij **Ustawienia > Konta** i upewnij się, że na liście jest konto służbowe. 
+2. Jeśli notes, który się nie otwiera, jest przechowywany na dysku OneDrive lub na platformie SharePoint Online, spróbuj otworzyć notes w programie [OneNote w sieci Web](https://onenote.com). Jeśli notesu nie ma na liście, być może nie masz do niego uprawnień. Jeśli jest to notes udostępniony, poproś właściciela o udostępnienie go i upewnij się, że używasz właściwego konta do logowania.
