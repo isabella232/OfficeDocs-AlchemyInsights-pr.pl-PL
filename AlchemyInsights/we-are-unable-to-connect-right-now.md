@@ -1,8 +1,8 @@
 ---
-title: Problem z aktywacją — obecnie nie możemy nawiązać połączenia
+title: Problem z aktywacją — nie można teraz nawiązać połączenia
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 24fe9910d1715b4f5f7d8d06b1d1344d4b8675bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2dd3c97bb85254215b13ee8a1222941c0492b204
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725993"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806452"
 ---
-# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Rozwiązywanie problemów z aplikacjami Microsoft 365 "komunikat nie można teraz połączyć"
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Naprawianie komunikatu "Nie można teraz nawiązać połączenia z aplikacjami platformy Microsoft 365"
 
 Jeśli zostanie wyświetlony ten komunikat, spróbuj wykonać następujące czynności:
 
-1. Sprawdź ustawienia zapory, oprogramowania antywirusowego i ustawień serwera proxy, aby upewnić się, że nie blokuje dostępu do Internetu aplikacjom Microsoft 365. Zobacz [adresy URL i zakresy adresów IP firmy Microsoft](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Sprawdź ustawienia zapory, oprogramowania antywirusowego i serwera proxy, aby upewnić się, że nie blokują one dostępu do Internetu do aplikacji platformy Microsoft 365. Zobacz [Adresy URL i zakresy adresów IP firmy Microsoft.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-2. Przejdź do **ekranu startowego**  >  **Run**, a następnie wpisz **Services. msc**. Upewnij się, że są uruchomione następujące usługi:
-    - Automatyczne konfigurowanie urządzeń podłączonych do sieci
-    - Usługa listy sieci
-    - Rozpoznawanie lokalizacji w sieci
+2. Przejdź do  >  **startowego uruchamiania**, a następnie wpisz **services.msc.** Upewnij się, że wszystkie następujące usługi są uruchomione:
+    - Automatyczne konfigurowanie urządzeń połączonych z siecią
+    - Usługa listy sieciowej
+    - Informacje o lokalizacji sieciowej
     - Dziennik zdarzeń systemu Windows
 
-Jeśli jedna z tych usług nie jest uruchomiona, spróbuj ją uruchomić. Jeśli wystąpił problem z uruchomieniem usługi, uruchom następujące polecenie, otwierając wiersz polecenia z podwyższonym poziomem uprawnień:
+Jeśli jedna z tych usług nie jest uruchomiona, spróbuj ją uruchomić. Jeśli masz problem z uruchomieniem usługi, uruchom następujące polecenie, otwierając wiersz polecenia z podwyższonym poziomem uprawnień:
 
-**sfc/scannow**
+**sfc /scannow**
 
-Po zakończeniu tego polecenia Uruchom ponownie komputer.
+Po zakończeniu tego polecenia uruchom ponownie komputer.
 
-Aby uzyskać szczegółowe informacje, zobacz ["Niestety, nie można nawiązać połączenia z kontem. Spróbuj ponownie później "błąd podczas aktywowania pakietu Office z usługi Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Aby uzyskać szczegółowe informacje, zobacz ["Niestety, nie można połączyć się z Twoim kontem. Spróbuj ponownie później" podczas aktywowania pakietu Office z platformy Microsoft 365.](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)

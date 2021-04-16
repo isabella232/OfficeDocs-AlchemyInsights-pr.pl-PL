@@ -2,7 +2,7 @@
 title: Dlaczego nie otrzymuję powiadomień o nowych wiadomościach?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002579"
 - "4995"
-ms.openlocfilehash: 0607f9cea693e0d0775326d60e76bd867ac60c6a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6128f1f68f33b0d6070ffd6f867a65ff4a5716c7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664540"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805804"
 ---
 # <a name="why-dont-i-get-new-message-notifications"></a>Dlaczego nie otrzymuję powiadomień o nowych wiadomościach?
 
@@ -27,6 +27,6 @@ Domyślnie powiadomienia będą wyświetlane tylko w przypadku nowych wiadomośc
 
 2. W obszarze **Poczta** naciśnij pozycję **Powiadomienia**.
 
-3. Zmienianie powiadomień o wiadomościach e-mail na poszczególnych kontach na **Wszystkie**, **Tylko priorytetowa skrzynka odbiorcza**lub **Brak**.
+3. Zmienianie powiadomień o wiadomościach e-mail na poszczególnych kontach na **Wszystkie**, **Tylko priorytetowa skrzynka odbiorcza** lub **Brak**.
 
 W celu otrzymywania powiadomień może być też konieczna zmiana ustawienia w systemie Android. Różni się on na poszczególnych urządzeniach, ale upewnij się, że ustawienia systemowe zezwalają programowi Outlook na odbieranie powiadomień.
