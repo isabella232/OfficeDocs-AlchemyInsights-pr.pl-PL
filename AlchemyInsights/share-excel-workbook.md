@@ -2,7 +2,7 @@
 title: Udostępnianie skoroszytu programu Excel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 7691ef33408b8aa4acc7f641699f7696785e8fe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38422d44e584c68db1913198228b0091869a87b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739295"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828450"
 ---
 # <a name="collaborate-on-excel-documents"></a>Współpraca nad dokumentami programu Excel
 
-Aby współpracować z innymi osobami nad dokumentami programu Excel, użyj **funkcji współtworzenia**. 
+Aby współpracować z innymi osobami nad dokumentami programu Excel, użyj **funkcji współtworowania**. 
 
-Dowiedz się, jak włączać i korzystać z tej funkcji, a także wyświetlać odpowiedzi na często zadawane pytania dotyczące udostępniania i współtworzenia scenariuszy, jednocześnie ze współpracownikami [nad skoroszytami programu Excel i współtworzeniem](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).
+Dowiedz się więcej o włączaniu i używaniu tej funkcji, a także poznaj odpowiedzi na często zadawane pytania dotyczące udostępniania i współtworowania scenariuszy, w tym temacie Współpraca nad skoroszytami programu [Excel](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)w tym samym czasie dzięki współtwoniu.

@@ -2,21 +2,22 @@
 title: Twoja płatność została odrzucona
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 88b754a45fe80804bfd4784bc0552499fb0371e7
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
+ms.openlocfilehash: 5938b4f91d3459f5c41711566f8afd99f0dd28ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43161016"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829062"
 ---
 # <a name="your-payment-was-declined"></a>Twoja płatność została odrzucona
 
@@ -24,20 +25,31 @@ Firma Microsoft wielokrotnie spróbuje obciążyć Twoją kartę w ciągu 3–4 
 
 **Ważne**: jeśli została dodana nowa karta, ale wciąż otrzymujesz powiadomienia o odrzuconych płatnościach dotyczące starej karty, może być konieczne skojarzenie nowej karty z subskrypcją.
 
-1. Przejdź do strony **Rozliczenia > [Produkty i usługi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+**Zastępowanie metody płatności dla wszystkich elementów**
 
-2. Wybierz subskrypcję, za którą chcesz płacić za pomocą nowej karty lub nowego konta bankowego. W sekcji **Rozliczenia** kliknij przycisk **Edytuj** obok formy płatności.
+1. W centrum administracyjnym przejdź do strony **Rachunki** > **Rachunki i płatności** > [Metody płatności](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-3. Kliknij pozycję**Zmień** obok obecnie używanej formy płatności.
+2. Zaznacz wiersz metody płatności, który chcesz zastąpić. W prawym okienku jest lista wszystkich profilów rozliczeń i poszczególnych subskrypcji, które korzystają z wybranej metody płatności.
 
-4. Wybierz inną formę płatności z menu rozwijanego lub dodaj nową formę płatności.
+3. W okienku po prawej stronie wybierz pozycję **Zastąp metodę płatności dla wszystkich elementów**.
 
-**Aktualizowanie i dodawanie nowej formy płatności**
+4. Aby użyć istniejącej metody płatności, wybierz ją z listy rozwijanej, a następnie wybierz pozycję **Zastąp**.
 
-1. Przejdź do strony **Rozliczenia > Rachunki i płatności > [Formy płatności](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+    > [!NOTE]
+    > Jeśli masz subskrypcje skojarzone z profilem rozliczeń, możesz płacić za nie tylko za pomocą karty kredytowej lub debetowej. Jeśli masz konta bankowe wymienione na stronie **Metody płatności**, nie są one dostępne do wybrania z listy rozwijanej.
 
-2. Kliknij pozycję **Dodaj formę płatności**, wybierz kartę lub konto bankowe, które chcesz zmienić, i kliknij przycisk **Edytuj**.
+5. Aby dodać nową metodę płatności, wybierz pozycję **Dodaj metodę płatności**.
 
-3. Zaktualizuj informacje o formie płatności (nazwisko posiadacza karty lub konta bankowego, adres na fakturze, numer telefonu bądź data ważności) i kliknij przycisk **Zapisz**.
+6. W okienku **Dodaj metodę płatności** wprowadź informacje o koncie, a następnie wybierz pozycję **Zapisz**. Musisz użyć metody płatności z tego samego kraju, w którym jest dzierżawa.
 
-4. Pamiętaj, aby zmienić sposób płatności za subskrypcje na swoją nową formę płatności. Aby uzyskać więcej informacji, zobacz [Dodawanie, aktualizowanie i usuwanie form płatności](https://go.microsoft.com/fwlink/?linkid=2118133). 
+7. Nowa metoda płatności jest już wybrana na liście rozwijanej. Wybierz pozycję **Zastąp**.
+
+**Aktualizuj szczegóły dotyczące metody płatności**.
+
+1. W centrum administracyjnym przejdź do strony **Rachunki** > **Rachunki i płatności** > [Metody płatności](https://go.microsoft.com/fwlink/p/?linkid=2018806).
+
+2. Zaznacz wiersz metody płatności, który chcesz zaktualizować. W okienku po prawej stronie wybierz pozycję **Edytuj**.
+
+3. Zaktualizuj informacje o metodzie płatności, a w tym nazwę na karcie kredytowej lub debetowej, adres na fakturze lub datę wygaśnięcia, a następnie wybierz pozycję **Zapisz**.
+
+Aby dowiedzieć się więcej, zobacz [Zarządzanie metodami płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

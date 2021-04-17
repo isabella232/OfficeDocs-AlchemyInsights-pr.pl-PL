@@ -1,8 +1,8 @@
 ---
-title: Wdrożenie ustawień QoS i monitorowanie jakości połączeń w usłudze Teams
+title: Wdrażanie usługi QoS i monitorowanie jakości połączeń w aplikacji Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: 5dd11506607227dae144565dac387c671b2ca6b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cede0fec9df4e12b5354db349629cf5a04f5f9bf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667960"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829242"
 ---
-# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Wdrożenie ustawień QoS i monitorowanie jakości połączeń w usłudze Teams
+# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Wdrażanie usługi QoS i monitorowanie jakości połączeń w aplikacji Teams
 
-Do rozwiązywania problemów z jakością rozmów w aplikacji Microsoft Teams można użyć funkcji analizy rozmów i jakości połączenia. Aby uzyskać więcej informacji na temat jakości usług (QoS), analizy rozmów i pulpitu nawigacyjnego jakości połączeń (CQD —), zobacz [wdrażanie ustawień QoS i monitorowanie jakości połączeń w aplikacji Microsoft Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos). 
+Za pomocą funkcji analizy połączeń i pulpitu nawigacyjnego jakości połączeń można rozwiązywać problemy z jakością połączeń w aplikacji Microsoft Teams. Aby dowiedzieć się więcej na temat usługi QoS (Quality of Service), analizy połączeń i pulpitu nawigacyjnego jakości połączeń (CQD, Call Quality Dashboard), zobacz Wdrażanie usługi QoS i monitorowanie jakości połączeń [w usłudze Microsoft Teams.](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) 

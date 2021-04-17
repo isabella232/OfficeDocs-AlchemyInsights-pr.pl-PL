@@ -2,7 +2,7 @@
 title: Problemy z aplikacją Teams często występujące u klientów z instytucji edukacyjnych
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: 6d1fac07673f6f945f382e4e640cf44afb76717d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692404"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829458"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Problemy z aplikacją Teams często występujące u klientów z instytucji edukacyjnych
 
@@ -46,7 +46,7 @@ Jeśli potrzebujesz pomocy przy wdrażaniu aplikacji Teams jako narzędzia do na
     6. W centrum administracyjnym programu Skype dla firm kliknij pozycję **konferencja głosowa**, a następnie **użytkownicy**.
     7. Zaznacz danego użytkownika i sprawdź, czy ma domyślny numer płatny.
 
-    W celu uzyskania dodatkowych informacji zobacz artykuł [Plany połączeń telefonicznych w Microsoft Teams](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) lub zadzwoń do zespołu ds. rozliczeń handlowych firmy Microsoft, aby uzyskać pomoc w przypadku pytań związanych z licencjonowaniem.
+    Aby uzyskać więcej informacji, przeczytaj artykuł [Plany połączeń telefonicznych w Microsoft Teams](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) lub zadzwoń do zespołu ds. rozliczeń z przedsiębiorstwami firmy Microsoft, aby uzyskać pomoc dotyczącą licencji.
 
     Dodatkowe zasoby
 

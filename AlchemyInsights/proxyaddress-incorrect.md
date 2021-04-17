@@ -1,8 +1,8 @@
 ---
-title: ProxyAddress nieprawidłowy
+title: Adres proxyAddress jest niepoprawny
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c4cea778-1b26-4aea-bde8-4b7605e35886
-ms.openlocfilehash: e0552b9d4ba1beeda14f6a46773060aede43e928
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1cb2b9f1980a121c21285e54e52f8403a48e4906
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801518"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828946"
 ---
-# <a name="proxyaddress-incorrect"></a>ProxyAddress nieprawidłowy
+# <a name="proxyaddress-incorrect"></a>Adres proxyAddress jest niepoprawny
 
-Gdy obiekt jest synchronizowany z usługą Azure AD, wartości określone w atrybucie proxyAddresses w usłudze Active Directory są porównywane z regułami usługi Azure AD, a następnie atrybut proxyAddresses jest wypełniany w usłudze Azure AD. Dlatego wartości atrybutu proxyAddresses dla obiektu w usłudze Active Directory mogą być inne niż wartości w atrybucie proxyAddresses w usłudze Azure AD.
+Podczas synchronizowania obiektu z usługą Azure AD wartości określone w atrybutze proxyAddresses w usłudze Active Directory są porównywane z regułami usługi Azure AD, a następnie atrybut proxyAddresses jest wypełniany w usłudze Azure AD. Dlatego wartości atrybutu proxyAddresses obiektu w usłudze Active Directory mogą być inne niż wartości atrybutu proxyAddresses w usłudze Azure AD.
   
-Aby dowiedzieć się więcej o tym, jak ProxyAddress jest wypełniany, zobacz [jak jest wypełniany atrybut ProxyAddress w usłudze Azure AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
+Aby dowiedzieć się więcej na temat sposobu wypełniania atrybutu proxyaddress, zobacz Jak jest wypełniany atrybut [proxyAddress w usłudze Azure AD.](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad)
   
 

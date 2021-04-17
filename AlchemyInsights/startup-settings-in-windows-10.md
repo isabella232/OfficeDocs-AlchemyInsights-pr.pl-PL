@@ -2,7 +2,7 @@
 title: Ustawienia uruchamiania w systemie Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,43 +12,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: e49faca66785c6611dda702a381c39cdb10884f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dfae58a398db088ba00d9c2ea9788bab929ccc1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751145"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828162"
 ---
 # <a name="startup-settings-in-windows-10"></a>Ustawienia uruchamiania w systemie Windows 10
 
-**Zmienianie aplikacji uruchamianych automatycznie podczas uruchamiania**
+**Zmienianie aplikacji uruchomionych automatycznie podczas uruchamiania**
 
-1. Przejdź do obszaru [ustawienia > aplikacje > uruchamiania](ms-settings:startupapps?activationSource=GetHelp).
+1. Przejdź do [strony Ustawienia > Uruchamianie > uruchamianie.](ms-settings:startupapps?activationSource=GetHelp)
 
-2. Upewnij się, że wszystkie aplikacje, które chcesz uruchomić podczas uruchamiania, są **włączone.**
+2. Upewnij się, że każda aplikacja, która ma być uruchamiana podczas uruchamiania, jest **włączona.**
 
-**Dodawanie aplikacji w celu automatycznego uruchamiania podczas uruchamiania**
+**Dodawanie aplikacji, która będzie uruchamiana automatycznie przy uruchamianiu**
 
-1. Kliknij lub naciśnij pozycję **Rozpocznij** i Znajdź aplikację, którą chcesz uruchomić podczas uruchamiania.
+1. Kliknij lub naciśnij **przycisk Start** i znajdź aplikację, którą chcesz uruchomić podczas uruchamiania.
 
-2. Kliknij prawym przyciskiem myszy aplikację, kliknij pozycję **więcej**, a następnie kliknij pozycję **Otwórz lokalizację pliku**. Spowoduje to otwarcie lokalizacji, w której zostanie zapisany skrót do aplikacji. Jeśli nie ma opcji otwierania lokalizacji pliku, oznacza to, że aplikacja nie będzie działać podczas uruchamiania.
+2. Kliknij aplikację prawym przyciskiem myszy, kliknij pozycję **Więcej**, a następnie kliknij **pozycję Otwórz lokalizację pliku**. Spowoduje to otwarcie lokalizacji, w której został zapisany skrót do aplikacji. Jeśli nie ma opcji Otwórz lokalizację pliku, oznacza to, że aplikacja nie może być uruchamiana podczas uruchamiania.
 
-3. Po otwarciu lokalizacji pliku naciśnij klawisze **logo Windows + R**, wpisz **powłokę: uruchamianie**, a następnie kliknij przycisk **OK**. Zostanie otwarty folder Autostart.
+3. Po otwarciu lokalizacji pliku naciśnij klawisze **logo Windows + R,** wpisz **shell:startup,** a następnie kliknij przycisk **OK.** Zostanie otwarty folder Autostart.
 
-4. Skopiuj i Wklej skrót do aplikacji z lokalizacji pliku do folderu Autostart.
+4. Skopiuj skrót do aplikacji i wklej go z lokalizacji pliku do folderu Autostart.
 
 **Zaawansowane opcje uruchamiania (w tym tryb awaryjny, ustawienia UEFI i rozruch z innego urządzenia)**
 
-1. Zapisz swoją pracę i Zamknij wszystkie otwarte dokumenty, ponieważ te czynności spowodują ponowne uruchomienie komputera.
+1. Zapisz pracę i zamknij wszystkie otwarte dokumenty, ponieważ spowoduje to ponowne uruchomienie komputera.
 
-2. Przejdź do obszaru [ustawienia > aktualizowanie & zabezpieczenia > odzyskiwanie](ms-settings:recovery?activationSource=GetHelp).
+2. Przejdź do [strony Ustawienia > i & w celu > zabezpieczeń.](ms-settings:recovery?activationSource=GetHelp)
 
-3. W obszarze **Uruchamianie zaawansowane**kliknij pozycję **Uruchom ponownie teraz**. 
+3. W **obszarze Uruchamianie zaawansowane** kliknij pozycję Uruchom ponownie **teraz.** 
 
-4. Po ponownym uruchomieniu komputera na ekranie wybierz opcję:
+4. Po ponownym uruchomieniu komputera i wybraniu ekranu Wybierz opcję:
 
-    - Aby wykonać rozruch z urządzenia podobnego do dysku USB, kliknij pozycję **Użyj urządzenia**.
+    - Aby uruchomić komputer z urządzenia, takiego jak dysk USB, kliknij **pozycję Użyj urządzenia**.
 
-    - Aby wprowadzić ustawienia interfejsu UEFI (czasami nazywane konfiguracją systemu BIOS), kliknij pozycję **Rozwiązywanie problemów > opcje zaawansowane > ustawienia oprogramowania UEFI**. 
+    - Aby wprowadzić ustawienia UEFI (czasami nazywane konfiguracją KARTO), kliknij pozycję Rozwiązywanie problemów z > zaawansowane opcje > ustawienia oprogramowania **układowego UEFI.** 
 
-    - Aby wprowadzić tryb awaryjny lub zmienić zaawansowane ustawienia uruchamiania, kliknij pozycję **Rozwiązywanie problemów > opcje zaawansowane > ustawienia uruchamiania**, a następnie kliknij pozycję **Uruchom ponownie**. Może zostać wyświetlony monit o wprowadzenie [klucza odzyskiwania funkcji BitLocker](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key). Po ponownym uruchomieniu komputera kliknij ustawienie uruchamiania, którego chcesz użyć.
+    - Aby wejść w tryb awaryjny lub zmienić zaawansowane ustawienia uruchamiania, kliknij pozycję Rozwiązywanie problemów z > zaawansowane > Ustawienia **uruchamiania**, a następnie kliknij pozycję Uruchom **ponownie.** Może pojawić się monit o wprowadzenie klucza [odzyskiwania funkcji BitLocker.](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key) Po ponownym uruchomieniu komputera kliknij ustawienie uruchamiania, którego chcesz użyć.

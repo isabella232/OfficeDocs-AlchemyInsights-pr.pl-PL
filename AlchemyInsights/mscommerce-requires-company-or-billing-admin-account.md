@@ -1,8 +1,8 @@
 ---
-title: Nawiązywanie połączenia z modułem MSCommerce
+title: Nawiązywanie połączenia z modułem MS Commerce
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: 15dc7038426a8d436c236a91aa0f3462f6a3e366
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6819f6d6ff37baab4bdd49cb5a87c32490f841
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702625"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829746"
 ---
-# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce wymaga konta administratora firmy lub rozliczeń
+# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MS Commerce wymaga konta firmy lub administratora rozliczeń
 
-Moduł MSCommerce wymaga konta z uprawnieniami firmy lub administratora rozliczeń. Jeśli otrzymasz następujący komunikat o błędzie, konieczne będzie ponowne nawiązanie połączenia przy użyciu innego konta.
+Moduł MS Commerce wymaga konta z uprawnieniami Firma lub Administrator rozliczeń. Jeśli jest wyświetlany następujący błąd, należy ponownie nawiązać połączenie z innym kontem.
 
-*ErrorMessage — serwer zdalny zwrócił błąd: (403) zabroniony. ErrorDetails-at C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 znak: 5*<br>
-*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError-ErrorContext $ _-CustomErrorMessage "nie można retri...*<br>
+*ErrorMessage — serwer zdalny zwrócił błąd: (403) Forbidden. ErrorDetails - At C:\Program Files\WindowsPowerShell\Modules\MS Commerce\1.2\MS Commerce.psm1:216 char:5*<br>
+*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage "Nie można ponownie...*<br>
 \+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo: NotSpecified: (:) [Write-Error], WriteErrorException*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId: Microsoft. PowerShell. Commands. WriteErrorException, HandleError*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ Informacje o kategorii: Nieokreślone: (:) [Błąd zapisu], WriteErrorException*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId: Microsoft.PowerShell.Commands.WriteErrorException,HandleError*
 
-Jeśli konto nie ma uprawnień administratora firmy lub konta Administrator, skontaktuj się z administratorem IT.
+Jeśli Twoje konto nie ma uprawnień Firma ani Administrator rozliczeń, skontaktuj się z administratorem IT.
