@@ -2,7 +2,7 @@
 title: Konfigurowanie jednego monitora zewnętrznego
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773920"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835533"
 ---
 # <a name="set-up-one-monitor"></a>Konfigurowanie jednego monitora
 
-**Sprawdzanie ustawień projektu komputera**
+**Sprawdzanie ustawień projektu na komputerze**
 
-1. Otwórz ustawienia projektu, naciskając następujące klawisze w tym samym czasie: klawisz systemu Windows (przycisk Windows logo Start) + P.
-2. Wybierz pozycję **Duplikuj**, **Rozszerz**lub **drugi ekran**, w zależności od preferencji.
+1. Otwórz ustawienia projektu, naciskając jednocześnie następujące klawisze: klawisz systemu Windows (przycisk Start logo Systemu Windows) + P.
+2. W **zależności** od **preferencji** wybierz opcję Duplikuj, Rozszerz **lub Drugi** ekran.
 
-**Uwaga:** Jeśli na komputerze jest tylko jeden port wyświetlania (na przykład HDMI lub VGA), w celu skonfigurowania wielu monitorów potrzebna jest stacja dokująca lub karta USB.
+**Uwaga:** Jeśli komputer ma tylko jeden port wyświetlania (taki jak HDMI lub VGA), do skonfigurowania wielu monitorów jest potrzebna stacja dokująca lub karta USB.
 
-Ponadto, jeśli możesz skonfigurować jeden monitor, ale nie wiele, komputer może być niezgodny z wieloma monitorami. Aby uzyskać więcej informacji, zapoznaj się z oryginalnymi dokumentami komputera.
+Ponadto jeśli możesz skonfigurować jeden monitor, ale nie wiele, komputer może nie być zgodny z wieloma monitorami. Aby uzyskać więcej informacji, sprawdź oryginalne dokumenty komputera.

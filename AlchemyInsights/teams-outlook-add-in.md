@@ -1,8 +1,8 @@
 ---
-title: Dodatek Teams dla programu Outlook
+title: Teams dodatek programu Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,22 +14,22 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 2cfa8f02ed7238d059ec7796786bc1b80d013251
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736000"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835029"
 ---
-# <a name="teams-outlook-add-in"></a>Dodatek Teams dla programu Outlook
+# <a name="teams-outlook-add-in"></a>Teams dodatek programu Outlook
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Aby rozwiązać problem z brakującym dodatkiem programu Outlook dla aplikacji Teams
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Aby rozwiązać problem z brakującym zespołem dodatek programu Outlook
 
-1. Uruchom diagnostykę usługi w portalu administracyjnym. 
-2. Jeśli Diagnostyka usługi wskazuje na brak problemów, Diagnozuj i rozwiąż wszelkie problemy z klientami na komputerach użytkowników, pobierając i uruchamiając scenariusz dodatku do programu Outlook z [centrum pomocy technicznej i odzyskiwania firmy Microsoft](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook Add-in Scenario**.
+1. Uruchom narzędzie diagnostyczne usługi w portalu administracyjnym. 
+2. Jeśli diagnostyka usługi nie wskazuje żadnych problemów, diagnozuj i poprawiaj problemy klienta na odpowiednich komputerach użytkowników, pobierając i uruchamiając dodatek Asystent odzyskiwania i pomocy technicznej firmy [Microsoft](https://aka.ms/SaRA-TeamsAddInScenario)dla aplikacji Teams — scenariusz dodatku dla  >  **programu Outlook.**
 
-Aby ręcznie rozwiązać problem z brakującym dodatkiem programu Outlook, przejrzyj listę potencjalnych czynników, które mogą spowodować, że dodatek Teams nie będzie widoczny na liście. Aby uzyskać więcej informacji, zobacz [dodatek program Teams — spotkanie w programie Outlook dla systemu Windows nie jest widoczny](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+Aby ręcznie rozwiązać problemy z brakującą listą dodatek programu Outlook Teams, przejrzyj listę potencjalnych czynników, które mogą spowodować, że dodatek Teams nie zostanie wyświetlony na liście. Aby uzyskać więcej informacji, zobacz Dodatek Spotkanie aplikacji Teams w programie Outlook dla [systemu Windows nie wyświetla się.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Rozwiązywanie problemów dotyczących planowania spotkania aplikacji Teams w imieniu innej osoby (pełnomocnik)
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Aby rozwiązać problemy z planowaniem spotkania w uimieniu innej osoby (pełnomocnika)
 
-Aby zaplanować spotkanie aplikacji Teams w imieniu innej osoby, zobacz [Rozwiązywanie problemów ze interakcją Microsoft Teams i Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Aby zaplanować spotkanie aplikacji Teams w imieniu innej osoby, zobacz Rozwiązywanie problemów z usługą [Microsoft Teams Exchange Server interakcjami.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

@@ -1,8 +1,8 @@
 ---
-title: Aktualizowanie informacji o moim profilu lub zmienianie mojego obrazu
+title: Aktualizowanie informacji o profilu lub zmienianie własnego zdjęcia
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 4aaba47b069690e96deb3453a2bcec42461f6767
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6e9494889035320fd658f9c6a04e37d2f569d50
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796946"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834453"
 ---
-# <a name="update-my-profile-information-or-change-my-picture"></a>Aktualizowanie informacji o moim profilu lub zmienianie mojego obrazu
+# <a name="update-my-profile-information-or-change-my-picture"></a>Aktualizowanie informacji o profilu lub zmienianie własnego zdjęcia
 
-Obecnie nie można edytować ani aktualizować informacji o profilu bezpośrednio z poziomu programu Outlook dla systemu iOS, ale można edytować te informacje w innym miejscu. 
+Obecnie nie można edytować ani aktualizować informacji w profilu bezpośrednio z aplikacji Outlook dla systemu iOS, ale można edytować te informacje w innym miejscu. 
 
-Aktualizacje profilu można wprowadzać w programie Outlook dla systemu Windows lub w aplikacji Outlook w sieci Web (OWA). 
+Możesz dokonać aktualizacji profilu w programie Outlook dla systemu Windows lub aplikacji Outlook w sieci Web (OWA). 
 
-**Program Outlook dla systemu Windows**: 
+**Outlook dla systemu Windows:** 
 
-- **Plik**  >  **Konto**  >  pakietu Office **Informacje o**  >  użytkowniku **O mnie** (powoduje przełączenie do aplikacji Microsoft 365 profile online) > **zaktualizowanie profilu** lub kliknięcie ikony aparatu w celu zmiany Zdjęcia  
+- **Plik**  >  **Konto pakietu Office**  >  **Informacje o użytkowniku**  >  **O mnie** (prowadzi Cię do profilu platformy Microsoft 365 w trybie online) > Profil aktualizacji lub kliknij ikonę aparatu, aby zmienić swoje zdjęcie   
   
-Aplikacja **Outlook w sieci Web (OWA)**: 
+**Outlook w sieci Web (OWA)**: 
 
-- **Obraz profilu**  >  **Mój profil**  >  **Aktualizuj profil**
+- **Obraz profilu**  >  **Mój profil**  >  **Zaktualizuj profil**

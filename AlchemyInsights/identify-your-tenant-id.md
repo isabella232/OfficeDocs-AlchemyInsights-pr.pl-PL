@@ -2,7 +2,7 @@
 title: Identyfikowanie identyfikatora dzierżawy
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002889"
 - "5517"
-ms.openlocfilehash: 7b41f44e251fa1668c6fc5073a432681fc9265a7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b64e3ea72265e99f843ef47b37a29c85738009aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668284"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834057"
 ---
 # <a name="identify-your-tenant-id"></a>Identyfikowanie identyfikatora dzierżawy
 
-Znajdź identyfikator organizacji Microsoft 365 (identyfikator dzierżawy) w centrum administracyjnym platformy Azure.
+Znajdź identyfikator organizacji platformy Microsoft 365 (identyfikator dzierżawy) w centrum administracyjnym platformy Azure.
 
-1. Na [stronie właściwości](https://aka.ms/AzurePropertiesPage)przejdź do pola **Identyfikator katalogu** .
+1. Na stronie [Właściwości przejdź](https://aka.ms/AzurePropertiesPage)do pola **Identyfikator** katalogu.
 
-2. Kopiuj identyfikator stosownie do potrzeb.
+2. Skopiuj identyfikator zgodnie z potrzebami.
 
-Aby uzyskać więcej informacji, zobacz [Znajdowanie identyfikatora organizacji w usłudze Microsoft 365](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id).
+Aby uzyskać więcej informacji, zobacz Znajdowanie identyfikatora organizacji [platformy Microsoft 365.](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id)

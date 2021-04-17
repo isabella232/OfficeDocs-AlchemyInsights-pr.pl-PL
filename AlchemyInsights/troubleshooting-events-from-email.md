@@ -1,8 +1,8 @@
 ---
-title: Rozwiązywanie problemów z pocztą E-mail
+title: Rozwiązywanie problemów ze zdarzeniami z poczty e-mail
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cea347f248a3b04873428946f1817657af04773
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658744"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834849"
 ---
-# <a name="troubleshooting-events-from-email"></a>Rozwiązywanie problemów z pocztą E-mail
+# <a name="troubleshooting-events-from-email"></a>Rozwiązywanie problemów ze zdarzeniami z poczty e-mail
 
-1. Sprawdzanie, czy funkcja jest włączona dla skrzynki pocztowej: **Get-EventsFromEmailConfiguration <mailbox> -Identity**
+1. Sprawdzanie, czy funkcja jest włączona dla skrzynki pocztowej: **Get-EventsFromEmailConfiguration -Identity <mailbox>**
 
-2. Następnie sprawdź dzienniki "zdarzenia z poczty E-mail" **Export-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
+2. Następnie przyjrzyj się dziennikom "Zdarzenia z poczty **e-mail" Export-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
 
-3. W dziennikach "zdarzenia z poczty E-mail" Znajdź InternetMessageId pasujący do elementu w skrzynce pocztowej.  
+3. W dziennikach "Events from Email" (Zdarzenia z poczty e-mail) znajdź element InternetMessageId, który odpowiada elementowi w skrzynce pocztowej.  
 
-4. TrustScore określa, czy dany element został dodany, czy nie. Zdarzenia zostaną dodane tylko wtedy, gdy TrustScore = "zaufane".
+4. Wartość TrustScore określa, czy element został dodany. Zdarzenia zostaną dodane tylko wtedy, gdy trustScore = "Trusted".
 
-TrustScore jest określany na podstawie właściwości SPF, DKIM lub DMARC, które znajdują się w nagłówku wiadomości.
+Wartość TrustScore jest określana przez właściwości SPF, Dkim lub Dmarc, które znajdują się w nagłówku wiadomości.
 
 Aby wyświetlić te właściwości:
 
-**Program Outlook dla komputerów stacjonarnych**
+**Klasyczny program Outlook**
 
-- Otwórz element
-- Plik — właściwości >-> nagłówki internetowe
+- Otwieranie elementu
+- Plik — > właściwości -> nagłówków internetowych
 
 lub
 
 **MFCMapi**
 
 - Przechodzenie do elementu w skrzynce odbiorczej
-- Szukaj PR_TRANSPORT_MESSAGE_HEADERS_W
+- Poszukaj PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Te właściwości są określane i rejestrowane podczas transportu i routingu. Aby uzyskać dalsze Rozwiązywanie problemów, może być konieczne wykonanie dodatkowych czynności w zakresie pomocy technicznej transportowej dotyczących błędów w programie SPF, DKIM i. lub DMARC.
+Te właściwości są określane i rejestrowane podczas transportu i routingu. W celu dalszego rozwiązywania problemów może być konieczne swoicie się z pomocą techniczną transportu w przypadku błędów SPF, DKIM i DMARC.

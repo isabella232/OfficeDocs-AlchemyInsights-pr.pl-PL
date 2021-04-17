@@ -2,7 +2,7 @@
 title: Uprawnienia aplikacji Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: e4acfcfdb65bbe5310f062f4f6cd21889159ec4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6ce1a6344c70f43f76164612bc55b95a61e97d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777722"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833769"
 ---
 # <a name="microsoft-teams-permissions"></a>Uprawnienia aplikacji Microsoft Teams
 
-Aplikacja Microsoft Teams obejmuje dwie role użytkowników: właściciel i członek. Domyślnie użytkownik tworzący nowy zespół otrzymuje rolę właściciela. Ponadto właściciele i członkowie mogą mieć funkcje moderatora dla kanału (jeśli jest skonfigurowane moderowanie). Jeśli zespół został utworzony na podstawie istniejącej grupy Microsoft 365, uprawnienia są dziedziczone. Aby uzyskać więcej informacji, zobacz:
+Aplikacja Microsoft Teams obejmuje dwie role użytkownika: właściciela i członka. Domyślnie użytkownik tworzący nowy zespół otrzymuje rolę właściciela. Ponadto właściciele i członkowie mogą mieć możliwości moderatora kanału (jeśli moderowanie zostało ustawione). Jeśli zespół jest tworzony na podstawie istniejącej grupy platformy Microsoft 365, uprawnienia są dziedziczone. Aby uzyskać więcej informacji, zobacz:
 
 - [Przypisywanie właścicieli i członków zespołu w aplikacji Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- [Uprawnienia i uwagi dotyczące aplikacji Microsoft Teams](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [Uprawnienia i zagadnienia dotyczące aplikacji Microsoft Teams](https://docs.microsoft.com/microsoftteams/app-permissions)
 - [Ustawianie uprawnień gościa do kanałów w aplikacji Teams](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)

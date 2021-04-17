@@ -1,8 +1,8 @@
 ---
-title: Włączanie i wyłączanie funkcji udostępniania zewnętrznego dla witryny
+title: Włączanie i wyłączanie udostępniania zewnętrznego dla witryny
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 24d170132070008b9c78aca39a0208f028e639b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd1c3dd013d5f1f823555e3cd4aa6e0dcdac1b62
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797162"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834669"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-site"></a>Włączanie i wyłączanie funkcji udostępniania zewnętrznego dla witryny
+# <a name="turn-external-sharing-on-or-off-for-a-site"></a>Włączanie i wyłączanie udostępniania zewnętrznego dla witryny
 
-Aby zmienić ustawienie udostępniania zewnętrznego dla witryny (wcześniej nazywanej "zbiorem witryn"), musisz być administratorem globalnym lub administratorem programu SharePoint. Właściciele witryn nie mogą zmienić tego ustawienia. 
+Musisz być administratorem globalnym lub administratorem programu SharePoint, aby zmienić ustawienie udostępniania zewnętrznego witryny (wcześniej nazywane "zbiorem witryn"). Właściciele witryn nie mogą zmieniać tego ustawienia. 
 
-Aby uzyskać więcej informacji, zobacz [Włączanie lub wyłączanie funkcji udostępniania zewnętrznego dla witryny](https://docs.microsoft.com/sharepoint/change-external-sharing-site).
+Aby uzyskać więcej informacji, zobacz Włączanie lub wyłączanie udostępniania [zewnętrznego dla witryny.](https://docs.microsoft.com/sharepoint/change-external-sharing-site)

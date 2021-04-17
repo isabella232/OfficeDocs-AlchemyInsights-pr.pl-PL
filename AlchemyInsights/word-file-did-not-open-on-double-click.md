@@ -2,7 +2,7 @@
 title: Plik programu Word nie został otwarty po dwukrotnym kliknięciu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 15ace133c344020e0056eff32d77911a9c23d376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794813"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834129"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Dokument programu Word otwarty w niewłaściwej aplikacji lub nie został otwarty
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Dokument programu Word otwarty w nieprawidłowej aplikacji lub nie został otwarty
 
-Wypróbuj jedną z następujących sugestii:
+Wypróbuj jedną z tych sugestii:
 
-**Wybierz pozycję Word jako domyślny**
+**Wybieranie programu Word jako domyślnego**
 
-- Kliknij prawym przyciskiem myszy dokument, wybierz polecenie **Otwórz za pomocą**, a następnie wybierz pozycję **Word**
+- Kliknij dokument prawym przyciskiem myszy, wybierz polecenie **Otwórz za pomocą**, a następnie wybierz pozycję **Word**
 
-**Uruchom szybką naprawę**
+**Uruchamianie szybkiej naprawy**
 
-1. Przejdź do **Panelu sterowania > programy > programy i funkcje**.
+1. Przejdź do **Panelu sterowania, > a następnie do > Programy i funkcje.**
 
 2. Wybierz produkt pakietu Office, który chcesz naprawić, a następnie wybierz pozycję **Zmień**.
 
-3. Wybierz opcję **szybka naprawa** , a następnie wybierz pozycję **napraw**.
+3. Wybierz opcję **Szybka naprawa,** a następnie wybierz pozycję **Napraw**.
 
 **Odinstalowywanie wersji pakietu Office, których nie używasz**
 
-1. Przejdź do **Panelu sterowania > Odinstaluj program**, a następnie wybierz wersję pakietu Office, którą chcesz usunąć.
+1. Przejdź do **Panelu sterowania > Pozycję Odinstaluj program, a** następnie wybierz wersję pakietu Office, którą chcesz usunąć.
 
 2. Kliknij pozycję **Odinstaluj**.
 
 3. Uruchom ponownie komputer.
 
-**Uruchom to narzędzie do rozwiązywania problemów w celu skonfigurowania rozszerzeń plików pakietu Office do otwierania w pakiecie Office**
+**Uruchom to narzędzie do rozwiązywania problemów, aby ustawić otwieranie rozszerzeń plików pakietu Office w psłudze Office**
 
-1. Uruchom to narzędzie do rozwiązywania problemów: https://aka.ms/diag_officefile .
+1. Uruchom to narzędzie do rozwiązywania https://aka.ms/diag_officefile problemów: .
 
-2. W zależności od przeglądarki **Otwórz** lub **Zapisz** narzędzie do rozwiązywania problemów na pulpicie, a następnie **Uruchom** je.
+2. W zależności od przeglądarki otwórz **lub** **zapisz** narzędzie do rozwiązywania problemów na pulpicie, a następnie **uruchom** je.

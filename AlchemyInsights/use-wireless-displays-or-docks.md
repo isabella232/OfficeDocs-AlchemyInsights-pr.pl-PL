@@ -2,21 +2,22 @@
 title: Korzystanie z bezprzewodowych wyświetlaczy lub stacji dokujących
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: 39b377b654f485ed8914d4d7fbb3c2faf97d079f
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: b769773206aa2be4118d655a82cb8d0703f1149b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034263"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834417"
 ---
 # <a name="use-wireless-displays-or-docks"></a>Korzystanie z bezprzewodowych wyświetlaczy lub stacji dokujących
 
@@ -40,7 +41,7 @@ ms.locfileid: "43034263"
 
 3. Upewnij się, że wyświetlacz obsługuje Miracast i że jest włączony. Jeśli wyświetlacz bezprzewodowy nie obsługuje Miracast, potrzebny jest adapter (klucz) Miracast podłączany do portu HDMI.
 
-4. Upewnij się, że sterowniki urządzenia są zaktualizowane i że na Twoim bezprzewodowym wyświetlaczu, adapterze lub stacji dokującej zainstalowane jest najnowsze oprogramowanie układowe. Aby uzyskać instrukcje, zapoznaj się z informacjami pomocy technicznej na witrynie internetowej producenta, lub wyszukaj aplikację producenta w sklepie ** Microsoft Store**, aby uzyskać pomoc.
+4. Upewnij się, że sterowniki urządzenia są zaktualizowane i że na Twoim bezprzewodowym wyświetlaczu, adapterze lub stacji dokującej zainstalowane jest najnowsze oprogramowanie układowe. Aby uzyskać instrukcje, zapoznaj się z informacjami pomocy technicznej na witrynie internetowej producenta, lub wyszukaj aplikację producenta w sklepie **Microsoft Store**, aby uzyskać pomoc.
 
 5. Uruchom ponownie komputer lub telefon oraz bezprzewodowy wyświetlacz lub stację dokującą.
 
