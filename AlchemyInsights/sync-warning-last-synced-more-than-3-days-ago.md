@@ -1,8 +1,8 @@
 ---
-title: 'Ostrzeżenie synchronizacji: Ostatnia synchronizacja ponad 3 dni temu'
+title: 'Ostrzeżenie dotyczące synchronizacji: ostatnia synchronizacja ponad 3 dni temu'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001505"
 - "3562"
-ms.openlocfilehash: 0263dd1e7490e5fecb461fecaff875194acb9e60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 786178b1cea84d1e01a43ce4c84df0a3846953c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737099"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831096"
 ---
-# <a name="sync-warning-last-synced-more-than-3-days-ago"></a>Ostrzeżenie synchronizacji: Ostatnia synchronizacja ponad 3 dni temu
+# <a name="sync-warning-last-synced-more-than-3-days-ago"></a>Ostrzeżenie dotyczące synchronizacji: ostatnia synchronizacja ponad 3 dni temu
 
-Aby uzyskać dodatkowe informacje dotyczące rozwiązywania problemów, zobacz [Rozwiązywanie problemów z synchronizacją katalogów](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization).
+Aby uzyskać dodatkowe informacje na temat rozwiązywania problemów, zobacz [Rozwiązywanie problemów z synchronizacją katalogów.](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization)
 
-W portalu administracyjnym pakietu Office można sprawdzić stan synchronizacji, postępując zgodnie z instrukcjami wyświetlanymi w obszarze [Wyświetl stan synchronizacji katalogów](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).
+Stan synchronizacji możesz sprawdzić w portalu administracyjnym pakietu Office, korzystając z instrukcji podanych w tece Wyświetlanie [stanu synchronizacji katalogów.](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status)
 

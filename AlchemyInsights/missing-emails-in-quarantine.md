@@ -2,7 +2,7 @@
 title: Brakujące wiadomości e-mail w kwarantannie
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 55ed9a92675939c05477fbf6d12bbedd6eb931d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43f9a1f03084bf9adab706b3f77eff1d1db888ca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673724"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831744"
 ---
-# <a name="missing-emails-in-quarantine"></a>Brakujące wiadomości e-mail w kwarantannie
+# <a name="missing-emails-in-quarantine"></a>Brakujące wiadomości e-mail w kwarantannie"
 
-Administratorzy mogą [wyświetlać, zwalniać lub usuwać te wiadomości.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)
+Administratorzy [mogą wyświetlać, zwalniać lub usuwać te wiadomości.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)
 
-Aby otworzyć Centrum zabezpieczeń & zgodności, przejdź do [https://protection.office.com](https://protection.office.com/) . Aby otworzyć stronę kwarantanny bezpośrednio, przejdź do strony [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
+Aby otworzyć Centrum zgodności & zabezpieczeń, przejdź do [https://protection.office.com](https://protection.office.com/) . Aby otworzyć stronę kwarantanny bezpośrednio, przejdź do [https://protection.office.com/quarantine](https://protection.office.com/quarantine) strony .  
 
 Możesz wyszukiwać według następujących wartości:  
 
-- **Identyfikator wiadomości**: unikatowy identyfikator globalny wiadomości. Po zaznaczeniu wiadomości na liście zostanie wyświetlona wartość  **identyfikatora wiadomości**  w wyświetlonym okienku menu wysuwanego  **szczegóły**  . Administratorzy mogą używać [funkcji śledzenia wiadomości](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) do znajdowania wiadomości i ich odpowiednich wartości identyfikatorów wiadomości.
-- **Adres E-mail nadawcy**: adres e-mail jednego nadawcy.
-- **Adres E-mail adresata**: adres e-mail jednego adresata.
-- **Temat**: Użyj całego tematu wiadomości. W wyszukiwaniu wielkość liter nie jest uwzględniana.
+- **Identyfikator wiadomości:** unikatowy identyfikator globalny wiadomości. Jeśli wybierzesz wiadomość na liście, wartość Identyfikator wiadomości zostanie wyświetlona w  **wyświetlonym okienku wysuwu** Szczegóły. Administratorzy mogą za [pomocą funkcji śledzenia wiadomości](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) znaleźć wiadomości i odpowiadające im wartości identyfikatora wiadomości.
+- **Adres e-mail nadawcy:** adres e-mail jednego nadawcy.
+- **Adres e-mail adresata:** adres e-mail pojedynczego adresata.
+- **Temat:** użyj całego tematu wiadomości. W wyszukiwaniu nie jest wróżniana wielkość liter.
 
-Po wprowadzeniu kryteriów wyszukiwania kliknij przycisk ![ Odśwież ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **Odśwież** , aby przefiltrować wyniki.  
+Po wprowadzeniu kryteriów wyszukiwania kliknij przycisk Odśwież, aby ![ ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide)  przefiltrować wyniki.  
 
-Polecenia cmdlet służące do wyświetlania i zarządzania wiadomościami oraz plikami w kwarantannie są następujące:
-- [DELETE-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
-- [Eksportowanie — QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+Polecenia cmdlet, których używasz do wyświetlania wiadomości i plików w kwarantannie oraz zarządzania nimi w kwarantannie, to:
+- [Delete-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
+- [Export-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
 - [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
-- [Wersja Preview — QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage): Zauważ, że to polecenie cmdlet jest przeznaczone tylko dla wiadomości, a nie do plików złośliwego oprogramowania w usłudze SharePoint Online, OneDrive dla firm lub w usłudze Teams.
+- [Preview-QuarantineMessage:](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage)Pamiętaj, że to polecenie cmdlet jest tylko dla wiadomości, a nie plików złośliwego oprogramowania z atp dla usługi SharePoint Online, OneDrive dla Firm lub Teams.
 - [Release-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)

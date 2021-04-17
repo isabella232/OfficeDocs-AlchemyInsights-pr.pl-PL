@@ -2,7 +2,7 @@
 title: Zwiększanie rozmiaru skrzynki pocztowej
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,29 +13,29 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: fb5662363a385e2fbbae852df77d80b6317698fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756184"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830223"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Przełączanie subskrypcji w celu zwiększenia rozmiaru skrzynki pocztowej
 
-Jeśli rozmiar skrzynki pocztowej wynosi już 100 GB, nie ma sposobu na jej zwiększenie.
+Jeśli rozmiar skrzynki pocztowej wynosi już 100 GB, nie można go już zwiększyć.
   
-Jeśli rozmiar skrzynki pocztowej wynosi 50 GB, możesz zwiększyć szybkość do 100 GB, przechodząc do [pakietu office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) lub [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Poniżej przedstawiono procedurę przełączenia na inny abonament:
+Jeśli rozmiar skrzynki pocztowej wynosi 50 GB, możesz go zwiększyć do 100 GB, przełączając usługę na [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) lub [Office 365 Enterprise E5.](https://products.office.com/business/office-365-enterprise-e5-business-software) Oto procedura przełączania do innej subskrypcji:
   
-1. W centrum administracyjnym usługi Microsoft 365 przejdź do strony **rozliczanie** \> **[produktów](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. W centrum administracyjnym platformy Microsoft 365 przejdź do **strony** Rozliczenia \> **[Twoje](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkty.
 
 2. Wybierz subskrypcję, którą chcesz uaktualnić.
 
-3. Na stronie Szczegóły subskrypcji wybierz pozycję **Uaktualnij**.
+3. Na stronie szczegółów subskrypcji wybierz pozycję **Uaktualnij**.
 
-4. Znajdź plan, do którego chcesz uaktualnić, a następnie wybierz przycisk **Uaktualnij** .
+4. Znajdź plan, który chcesz uaktualnić, a następnie wybierz **przycisk** Uaktualnij.
 
-5. Wprowadź liczbę potrzebnych licencji, wybierz, czy chcesz zapłacić za miesiąc, czy za cały rok, a następnie wybierz pozycję **realizacja zamówienia**.
+5. Wprowadź liczbę potrzebnych licencji, wybierz, czy chcesz płacić co miesiąc, czy za cały rok, a następnie wybierz pozycję **Finalizuj transakcje.**
 
-Aby uzyskać więcej informacji, zobacz [uaktualnianie do innego planu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+Aby uzyskać więcej szczegółowych informacji, [zobacz Uaktualnianie do innego planu.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)
 
-Jeśli masz [subskrypcję obsługującą archiwum miejscowe](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), możesz także uzyskać dodatkowe miejsce do magazynowania poczty e-mail, włączając w niej archiwalną skrzynkę pocztową. Archiwum Skrzynka pocztowa udostępnia dodatkowe miejsce do magazynowania i umożliwia przenoszenie, kopiowanie i wyszukiwanie wiadomości zarówno w głównej, jak i archiwalnej skrzynce pocztowej. Aby uzyskać instrukcje dotyczące włączania archiwalnej skrzynki pocztowej, zobacz [Włączanie archiwum Skrzynka pocztowa](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes).
+Jeśli masz [subskrypcję, która obsługuje](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)archiwum w miejscu, możesz również uzyskać dodatkowe miejsce do magazynowania poczty e-mail, włączając archiwalne skrzynki pocztowe. Archiwalne skrzynki pocztowe zapewnia dodatkowe miejsce do magazynowania oraz umożliwia przenoszenie, kopiowanie i wyszukiwanie wiadomości zarówno w podstawowej, jak i archiwaowej skrzynce pocztowej. Aby uzyskać instrukcje dotyczące włączania archiwazyjnych skrzynek pocztowych, [zobacz Włączanie archiwa pocztowej.](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
