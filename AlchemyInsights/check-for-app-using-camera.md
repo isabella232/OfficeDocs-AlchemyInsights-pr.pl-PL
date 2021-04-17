@@ -1,8 +1,8 @@
 ---
-title: Sprawdzanie aplikacji za pomocą kamery
+title: Sprawdzanie, czy aplikacja korzysta z aparatu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 611cdb28c8fac766f25583100e28854149b8f79a
-ms.sourcegitcommit: 56e0cd81b44ae8fe7a63810a043a452f407e87d6
+ms.openlocfilehash: d7f35bbe482d3bc5bae8c9d7af4ec1e3dcd0de35
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48274830"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817830"
 ---
-# <a name="check-for-app-using-camera"></a><span data-ttu-id="428f1-102">Sprawdzanie aplikacji za pomocą kamery</span><span class="sxs-lookup"><span data-stu-id="428f1-102">Check for app using camera</span></span>
+# <a name="check-for-app-using-camera"></a><span data-ttu-id="f0ccd-102">Sprawdzanie, czy aplikacja korzysta z aparatu</span><span class="sxs-lookup"><span data-stu-id="f0ccd-102">Check for app using camera</span></span>
 
-1. <span data-ttu-id="428f1-103">Wybierz przycisk **Start**, a następnie wybierz pozycję **ustawienia > prywatność > kamera** (MS-Settings: prywatność — kamera internetowa)</span><span class="sxs-lookup"><span data-stu-id="428f1-103">Select **Start**, then select **Settings > Privacy > Camera** (ms-settings:privacy-webcam)</span></span>
-2. <span data-ttu-id="428f1-104">Na liście aplikacji Znajdź aplikację z "obecnie używanym" i Zamknij aplikację.</span><span class="sxs-lookup"><span data-stu-id="428f1-104">In the application list, find the app with the “currently in use”, and close the application.</span></span>
+1. <span data-ttu-id="f0ccd-103">Wybierz **Start**, a następnie **wybierz Ustawienia > Prywatność > Aparat** fotograficzny (ms-settings:privacy-webcam)</span><span class="sxs-lookup"><span data-stu-id="f0ccd-103">Select **Start**, then select **Settings > Privacy > Camera** (ms-settings:privacy-webcam)</span></span>
+2. <span data-ttu-id="f0ccd-104">Na liście aplikacji znajdź aplikację, która zawiera "obecnie używaną", i zamknij aplikację.</span><span class="sxs-lookup"><span data-stu-id="f0ccd-104">In the application list, find the app with the “currently in use”, and close the application.</span></span>
