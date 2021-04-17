@@ -1,8 +1,8 @@
 ---
-title: Wygaśnięcie i odnawianie zespołu w aplikacji Microsoft Teams
+title: Wygasanie i odnawianie zespołu w aplikacji Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6666"
 - "9003760"
-ms.openlocfilehash: 4514f06282f33a5dc360c2214cedf714633b34f0
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 8b82ef216903502e589c6b01cd7fe946e84cd54c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365051"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827910"
 ---
-# <a name="team-expiration-and-renewal-in-microsoft-teams"></a>Wygaśnięcie i odnawianie zespołu w aplikacji Microsoft Teams
+# <a name="team-expiration-and-renewal-in-microsoft-teams"></a>Wygasanie i odnawianie zespołu w aplikacji Microsoft Teams
 
-Wygaśnięcie i odnawianie zespołu w aplikacji Microsoft Teams może pomóc w zarządzaniu nieużywanymi zespołami. Jako administrator możesz automatycznie oczyścić nieużywane zespoły za pomocą  [zasad wygasania grup programu Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  . Ponieważ aplikacja Teams jest obsługiwana przez grupy, zasady wygasania grupy są automatycznie stosowane do aplikacji Teams.
+Wygaśnięcie i odnowienie zespołu w aplikacji Microsoft Teams może ułatwić zarządzanie nieużywanymi zespołami. Jako administrator możesz korzystać z zasad wygasania grupy platformy  [Microsoft 365,](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  aby automatycznie oczyszczać nieużywane zespoły. Ponieważ zespoły są tworzone w grupach, zasady wygasania grup również są stosowane automatycznie do zespołów.
 
-Aby zapobiec przypadkowemu usunięciu, automatyczne odnawianie jest włączane automatycznie dla zespołu w zasadach wygasania grupy. Po skonfigurowaniu zasad wygasania grupy każdy zespół, który ma co najmniej jedną wizytę w kanale od dowolnego członka zespołu, przed jego upływem jest automatycznie odnawiany bez ręcznej interwencji od właściciela zespołu.  
+Aby zapobiec przypadkowemu usunięciu, automatyczne odnawianie jest automatycznie włączone dla zespołu w zasadach wygasania grupy. Po skonfigurowaniu zasad wygasania grupy każdy zespół, który ma co najmniej jedną wizyta w kanale od dowolnego członka zespołu przed datą wygaśnięcia, zostanie automatycznie odnowiony bez ręcznej interwencji właściciela zespołu.  
 
-Aby uzyskać więcej informacji  [, zobacz wygasanie i odnawianie zespołu w aplikacji Microsoft Teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  .
+Aby uzyskać więcej informacji, zobacz Wygasanie [i odnawianie zespołu w aplikacji Microsoft Teams.](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)
