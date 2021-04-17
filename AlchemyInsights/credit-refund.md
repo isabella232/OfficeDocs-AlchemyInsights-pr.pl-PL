@@ -1,8 +1,8 @@
 ---
-title: Środki na koncie kredyt/zwrot kosztów
+title: Kredyt/zwrot kosztów
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,25 +13,25 @@ ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 27f1b43c7e00114d51bb3f1c5769936b72635a21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e40dcf238ce4bc05c55c78e29c54fc260523bc2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746589"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815877"
 ---
-# <a name="creditrefund"></a>Środki na koncie kredyt/zwrot kosztów
+# <a name="creditrefund"></a>Kredyt/zwrot kosztów
 
-**Anulowan**
+**Anulowanie**
   
-Po anulowaniu subskrypcji otrzymasz końcową fakturę z doładowaniem należności w dniu następnej daty rozliczenia. Może to potrwać do 30 dni od daty anulowania subskrypcji.
+Podczas anulowania subskrypcji otrzymasz końcową fakturę z należnym kredytem w dniu następnego rozliczenia. Od daty anulowania subskrypcji może upłynie do 30 dni od daty jej anulowania.
   
-**Zmiana siedzenia**
+**Zmiana miejsca siedzącego**
   
-Gdy licencje zostaną usunięte z abonamentu, nieużywany czas na tych licencjach zostanie zastosowany jako doładowanie kolejnego rachunku. Może to potrwać do 30 dni od daty usunięcia licencji.
+Po usunięciu licencji z subskrypcji niewykorzystany czas tych licencji zostanie zastosowany jako kredyt na następnym rachunku. Odjęcie licencji od daty usunięcia licencji może potrwać do 30 dni.
 
-**Zwrotu**
+**Zwrot kosztów**
 
 **Zwrot odpowiedniej ilości środków otrzymasz w następnym cyklu rozliczeniowym.**
 
-Aby uzyskać więcej informacji, zobacz [Anulowanie i proces zwrotu pieniędzy](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide). 
+Aby uzyskać więcej informacji, zobacz [Proces anulowania i zwrotu kosztów.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide) 

@@ -1,50 +1,51 @@
 ---
-title: Tworzenie relacji organizacji w celu umożliwienia użytkownikom współpracy z inną organizacją
+title: Utwórz relację organizacyjną, aby umożliwić użytkownikom współpracę z inną organizacją
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 2c6cd6a178c6e012bfe1c8d769b037168ffa3254
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
-ms.translationtype: MT
+ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862198"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816138"
 ---
-# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Tworzenie relacji organizacji w celu umożliwienia użytkownikom współpracy z inną organizacją
+# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Utwórz relację organizacyjną, aby umożliwić użytkownikom współpracę z inną organizacją
 
-1. Na pulpicie nawigacyjnym centrum administracyjnego usługi Microsoft 365 przejdź do **witryny Admin**  >  **Exchange**.
-2. Przejdź do udostępniania **organizacji**  >  **sharing**.
-3. W obszarze **Udostępnianie organizacji**kliknij pozycję **Nowy** .
-4. W **nowej relacji organizacyjnej**w polu **Nazwa relacji** wpisz przyjazną nazwę relacji organizacji.
-5. W polu **Domeny do udostępnienia** wpisz domenę zewnętrznej organizacji usługi Office 365 lub lokalnej programu Exchange, która ma być widoczna w kalendarzach. Jeśli chcesz wprowadzić więcej niż jedną domenę, oddziel nazwy domen przecinkiem. Na przykład contoso.com, service.contoso.com.
-6. Zaznacz pole wyboru **Włącz udostępnianie informacji wolnych/zajętych kalendarza,** aby włączyć udostępnianie kalendarza w wymienionych domenach. Ustaw poziom udostępniania dla kalendarza wolnych / zajętych informacji i ustawić, którzy użytkownicy mogą udostępniać kalendarz wolny / zajęty informacji.  
+1. Z pulpitu nawigacyjnego centrum administracyjnego platformy Microsoft 365 przejdź do **Administrator** > **Usługa Exchange**.
+2. Przejdź do pozycji **Organizacja** > **Udostępnianie**.
+3. W obszarze **Udostępnianie organizacji** kliknij pozycję **Nowe** .
+4. W **nowej relacji organizacji** w polu **Nazwa relacji** wpisz przyjazną nazwę relacji organizacji.
+5. W polu **Domeny do udostępnienia** wpisz domenę dla lokalnej organizacji usługi Office 365 lub usługi Exchange, której chcesz udostępniać kalendarze. Jeśli chcesz wprowadzić więcej niż jedną domenę, oddziel nazwy domen przecinkami. Na przykład: contoso.com, service.contoso.com.
+6. Zaznacz pole wyboru **Włącz udostępnianie informacji o stanie wolny lub zajęty dla kalendarza**, aby włączyć udostępnianie kalendarza w wymienionych domenach. Ustaw poziom udostępniania informacji wolny lub zajęty dla kalendarza i określ, którzy użytkownicy mogą udostępniać informacje o stanie wolny lub zajęty dla kalendarza.  
 
-Aby ustawić poziom dostępu wolny/zajęty, wybierz jedną z następujących opcji:
+Aby ustawić poziom dostępu wolny lub zajęty dla kalendarza, wybierz jedną z następujących opcji:
 
-- **Informacje wolny/zajęty z kalendarza tylko z godziną**
-- **Kalendarz wolny/zajęty czasem, tematem i lokalizacją**  
+- **Informacje o stanie wolny lub zajęty dla kalendarza zawierające tylko określenie czasu**
+- **Kalendarz wolny lub zajęty z określeniem czasu, tematu i lokalizacji**  
 
- Aby ustawić, którzy użytkownicy będą udostępniać informacje o kalendarzu wolny/zajęty, wybierz jedną z następujących opcji:
+ Aby określić, którzy użytkownicy będą udostępniać informacje o stanie wolny lub zajęty dla kalendarza, wybierz jedną z następujących opcji:
 
-- **Wszyscy w twojej organizacji**
+- **Wszyscy w Twojej organizacji**
 - **Określona grupa zabezpieczeń**  
 
-Kliknij **przycisk Przeglądaj,** aby wybrać grupę zabezpieczeń z listy, a następnie kliknij **przycisk OK**.
+Kliknij przycisk **Przeglądaj**, aby wybrać grupę zabezpieczeń z listy, a następnie kliknij przycisk **OK**.
 
-Kliknij **przycisk Zapisz,** aby utworzyć relację organizacyjną.  
+Kliknij przycisk **Zapisz**, aby utworzyć relację organizacyjną.  
 
-**Uwaga:** Konfiguracje między dzierżawcami nie obsługują kontaktów osobistych dla wyszukiwania wolnego/zajętego. Kontakty muszą być uwzględnione na globalnej liście adresów, aby wyszukiwanie swobodne/zajęte działało.
+**Uwaga:** konfiguracje między dzierżawcami nie obsługują kontaktów osobistych na potrzeby wyszukiwania informacji o stanie wolny lub zajęty. Aby wyszukiwanie informacji o stanie wolny lub zajęty działało, kontakty muszą znajdować się na globalnej liście adresów.
 
 **Aby uzyskać pełne zrozumienie tego tematu, przeczytaj:**
 
-- [Tworzenie relacji organizacji w usłudze Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
-- [Modyfikowanie relacji organizacji w usłudze Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
-- [Usuwanie relacji organizacji w usłudze Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)
+- [Utwórz relację organizacyjną w usłudze Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
+- [Zmodyfikuj relację organizacyjną w usłudze Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
+- [Usuń relację organizacyjną w usłudze Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)

@@ -2,7 +2,7 @@
 title: Tworzenie grupy
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003234"
 - "7230"
-ms.openlocfilehash: b8cb3f1de991bfe7197607d5e8964a018e31c122
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ec74b7c098d302d3bdeb5a412fad41efe7b82b98
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088910"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816367"
 ---
 # <a name="create-a-group"></a>Tworzenie grupy
 
@@ -25,14 +25,14 @@ W tym temacie opisano tworzenie grup.
 
 **Uprawnienie do tworzenia grupy**
 
-Upewnij się, że masz autoryzację do tworzenia nowej grupy. Administratorzy globalni mogą wyłączyć tworzenie grup w witrynie Azure Portal lub panelu programu Access. Aby utworzyć nową grupę lub uzyskać odpowiednie uprawnienia, może być konieczne posiadanie administratora.
+Upewnij się, że masz upoważnienie do tworzenia nowej grupy. Administratorzy globalni mogą wyłączyć tworzenie grup w Portalu Azure lub panelu dostępu. Administrator może utworzyć nową grupę lub nadać Ci odpowiednie uprawnienia.
 
 **Zarządzanie uprawnieniami do tworzenia grup**
 
-1. Administratorzy globalni mogą zarządzać uprawnieniami do tworzenia grup (z powodów związanych z zabezpieczeniami) lub grup usługi Office 365 utworzonych w witrynie Azure Portal lub panelu dostępu, wybierając pozycję "użytkownicy mogą tworzyć grupy zabezpieczeń w portalu Azure" lub "użytkownicy mogą tworzyć grupy usługi Office 365 w obszarze portale Azure" — Opcje we **wszystkich grupach**—  >  **Ogólne (Ustawienia)**.
-2. Możesz również ograniczyć możliwość tworzenia grup, aby wybrać grupę użytkowników, jeśli masz licencję usługi Azure Active Directory P1 Premium.
+1. Administratorzy globalni mogą zarządzać uprawnieniami do tworzenia grup (ze względów bezpieczeństwa) lub grupami usługi Office 365 utworzonymi w Portalu Azure lub w Panelu dostępu, wybierając pozycję "Użytkownicy mogą tworzyć grupy zabezpieczeń w portalach Azure" lub "Użytkownicy mogą tworzyć grupy usługi Office 365 w portalach Azure" w grupie Wszystkie grupy ogólne  >  **(ustawienia).**
+2. Jeśli masz licencję Usługi Azure Active Directory P1 Premium, możesz też ograniczyć tworzenie grup w celu wybrania grupy użytkowników.
 
-**Wyłączanie powiadomienia powitalnego dla nowych członków grupy pakietu Office 365**
+**Wyłączanie powiadomień powitalnych dla nowych członków grupy usługi Office 365**
 
-Powiadomienie powitalne wysyłane do użytkowników, którzy są dodawani do grup usługi Office 365, można wyłączyć, ustawiając **UnifiedGroupWelcomeMessageEnabled** na false (FAŁSZ) w programie PowerShell. Dowiedz się więcej o [tym ustawieniu.](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true)
+Powiadomienie powitalne wysyłane do użytkowników dodanych do grup usługi Office 365 można wyłączyć, ustawiając dla opcji **UnifiedGroupWelcomeMessageEnabled wartość False** w programie PowerShell. Tutaj dowiesz się o tym [ustawieniu.](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true)
 
