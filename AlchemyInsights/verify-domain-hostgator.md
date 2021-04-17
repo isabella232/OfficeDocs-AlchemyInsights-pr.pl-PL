@@ -1,8 +1,8 @@
 ---
-title: Weryfikowanie domeny za pomocą Hostgator
+title: Weryfikowanie domeny u rejestratora domen Hostgator
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: e364551f50e8c8efdee74842be2fb4fab734bb71
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: c333322ff791a288607e4f6a090d655106e93420
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816407"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824301"
 ---
-# <a name="verify-your-domain-with-hostgator"></a>Weryfikowanie domeny za pomocą Hostgator
+# <a name="verify-your-domain-with-hostgator"></a>Weryfikowanie domeny u rejestratora domen Hostgator
 
-Aby zweryfikować domenę, musisz dodać rekord TXT do rejestratora domen, aby zweryfikować, że jesteś właścicielem domeny. 
+Aby zweryfikować domenę, musisz dodać rekord TXT u rejestratora domen w celu zweryfikowania, że jesteś właścicielem domeny. 
 
-Najpierw postępuj zgodnie z instrukcjami [Kreatora dodawania domeny](https://admin.microsoft.com/Adminportal#/Domains) , wybierając pozycję **Ustawienia** \> **domen**, a następnie **Dodaj domenę**.
+Najpierw wykonaj czynności w [kreatorze Dodawanie domeny,](https://admin.microsoft.com/Adminportal#/Domains) wybierając **pozycję Ustawienia** \> **Domeny,** a następnie **pozycję Dodaj domenę.**
   
-Aby uzyskać instrukcje krok po kroku, zobacz [tworzenie rekordów DNS w witrynie Hostgator dla systemu Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) .
+Aby uzyskać instrukcje krok po kroku, zobacz Tworzenie rekordów DNS dla platformy [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) w witrynie Hostgator.

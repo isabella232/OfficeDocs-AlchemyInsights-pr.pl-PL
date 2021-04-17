@@ -1,8 +1,8 @@
 ---
-title: Aktywowanie systemu Windows 10 po raz pierwszy lub po ponownym uruchomieniu
+title: Aktywacja systemu Windows 10 po raz pierwszy lub po ponownym zainstalowaniu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3485"
 - "9001418"
-ms.openlocfilehash: 981583abd210c3263bfe09e4c3147870a1ae0c7c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1117105c30db642ae2d47df6caa57ed51529b04a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698179"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823077"
 ---
-# <a name="activate-windows-10"></a>Aktywacja systemu Windows 10
+# <a name="activate-windows-10"></a>Aktywowanie systemu Windows 10
 
-**Aby aktywować system Windows 10 po raz pierwszy:**
+**Aby aktywować system Windows 10 po zainstalowaniu go po raz pierwszy:**
 
-- Musisz użyć prawidłowego klucza produktu, aby aktywować system Windows 10 na urządzeniu, na którym nie ma już uaktywnionej kopii systemu Windows 10.
-- Jeśli instalujesz wersję systemu Windows 10, która nie została wcześniej aktywowana na urządzeniu, musisz mieć także prawidłowy klucz produktu. Aby na przykład zainstalować i aktywować system Windows 10 Pro na urządzeniu z zainstalowanym systemem Windows 10 Home, potrzebny jest prawidłowy klucz produktu Windows 10 Pro.
-- Podczas instalacji zostanie wyświetlony monit o wprowadzenie prawidłowego klucza produktu. Po zakończeniu instalacji system Windows 10 zostanie automatycznie aktywowany w trybie online. Aby sprawdzić stan aktywacji w systemie Windows 10, wybierz pozycję **Rozpocznij** >  **Settings**  >  **aktualizację ustawień &**  >  **Aktywacja**zabezpieczeń.
+- Do aktywacji systemu Windows 10 na urządzeniu, które nigdy nie zawierało aktywowanego systemu Windows 10, należy użyć ważnego klucza produktu.
+- Potrzebujesz także ważnego klucza produktu, jeśli instalujesz wersję systemu Windows 10, która nie została wcześniej aktywowana na urządzeniu. Aby na przykład zainstalować i aktywować system Windows 10 Pro na urządzeniu z zainstalowanym systemem Windows 10 Home, potrzebujesz ważnego klucza produktu systemu Windows 10 Pro.
+- Podczas instalacji zostaniesz poproszony o wprowadzenie prawidłowego klucza produktu. Po zakończeniu instalacji system Windows 10 zostanie automatycznie aktywowany w trybie online. Aby sprawdzić stan aktywacji w systemie Windows 10, wybierz **pozycję Uruchom** >  **aktualizację** ustawień  >  **i & zabezpieczeń.**  >  
 
 **Aby aktywować po ponownym zainstalowaniu systemu Windows 10:**
 
-- W przypadku aktywacji bezpłatnego uaktualnienia do systemu Windows 10 lub zakupu i aktywacji systemu Windows 10 ze sklepu Microsoft Store użytkownik będzie miał licencję cyfrową na urządzenie zamiast klucza produktu. Oznacza to, że możesz ponownie zainstalować tę samą wersję systemu Windows 10, z którą urządzenie ma licencję cyfrową bez wprowadzenia klucza produktu.
-- W trakcie ponownej instalacji, jeśli zostanie wyświetlony monit o wprowadzenie klucza produktu, wybierz pozycję **Pomiń**. W większości przypadków, jeśli system Windows 10 został aktywowany na urządzeniu przed ponownym zainstalowaniem, zostanie on automatycznie aktywowany po przejściu do trybu online.
+- Jeśli aktywowano bezpłatne uaktualnienie do systemu Windows 10 lub zakupiono i aktywowano system Windows 10 w sklepie Microsoft Store, zamiast klucza produktu otrzymasz licencję cyfrową na to urządzenie. Oznacza to, że możesz ponownie zainstalować tę samą wersję systemu Windows 10, na które urządzenie ma licencję cyfrową, bez wprowadzania klucza produktu.
+- Jeśli podczas ponownej instalacji zostaniesz poproszony(-a) o wprowadzenie klucza produktu, wybierz pozycję **Pomiń**. W większości przypadków, jeśli system Windows 10 został aktywowany na urządzeniu przed ponownym zainstalowaniem, zostanie on automatycznie aktywowany po twoim zakończeniu pracy w trybie online.

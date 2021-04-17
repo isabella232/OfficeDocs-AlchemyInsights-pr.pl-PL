@@ -1,8 +1,8 @@
 ---
-title: Która wersja systemu Android obsługuje tę aplikację?
+title: Która wersja systemu Android jest dostępna w Twojej aplikacji?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: e3e4f3bb248959b3826438578c5ae274ac04992f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773065"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824193"
 ---
-# <a name="what-version-of-android-does-your-app-support"></a>Która wersja systemu Android obsługuje tę aplikację?
+# <a name="what-version-of-android-does-your-app-support"></a>Która wersja systemu Android jest dostępna w Twojej aplikacji?
 
-W celu uzyskania najlepszej wydajności Nasza aplikacja działa na dowolnym urządzeniu z systemem Android w wersji 5,0 lub nowszej.
+W celu zachowania najlepszej wydajności aplikacja działa na dowolnym urządzeniu z systemem Android w wersji 5.0 lub powyższej.
 
-Jeśli masz aktualną wersję w systemie operacyjnym Android, ale nadal otrzymujesz powiadomienia dotyczące systemu operacyjnego niezgodnego z Twoim urządzeniem, spróbuj wyczyścić pamięć podręczną i dane aplikacji do odtwarzania.
+Jeśli twój system operacyjny Android jest aktualny, ale nadal otrzymujesz powiadomienia o tym, że system operacyjny jest niezgodny z urządzeniem, spróbuj wyczyścić pamięć podręczną i dane z aplikacji Sklep Play.
 
 W tym celu: 
 
-1. Na telefonie lub tablecie z systemem Android Otwórz okno **Ustawienia** , a następnie pozycję **aplikacje** lub **aplikacje**.
+1. Na telefonie lub tablecie z systemem Android otwórz **pozycję Ustawienia,** a następnie **pozycję Aplikacje** lub **Aplikacje.**
 
-2. W górnej części ekranu naciśnij pozycję **więcej** (może to być również wielokropek lub trzy kropki w pionie), a następnie **Pokaż system**. 
+2. U góry ekranu naciśnij pozycję Więcej **(może** to być również wielokropek lub trzy pionowe **kropki),** a następnie pozycję Pokaż system . 
 
-3. Przewiń w dół i naciśnij pozycję **usługi Google Play**. 
+3. Przewiń w dół i naciśnij **pozycję Usługi Google Play.** 
 
-4. Naciśnij pozycję **Magazyn** , a następnie **Wyczyść pamięć podręczną**. 
+4. Naciśnij **pozycję Magazyn,** a następnie **Pozycję Wyczyść pamięć podręczną.** 
 
-5. Naciśnij pozycję **Zarządzaj miejscem** , a następnie **Wyczyść wszystkie dane**. 
+5. Naciśnij **pozycję Zarządzaj przestrzenią,** a **następnie pozycję Wyczyść wszystkie dane.** 
 
-6. Otwórz **sklep Google Play**. 
+6. Otwórz **sklep Google Play.** 
 
-7. Odczekaj 5 minut, a następnie spróbuj ponownie. 
+7. Poczekaj 5 minut, a następnie spróbuj ponownie. 

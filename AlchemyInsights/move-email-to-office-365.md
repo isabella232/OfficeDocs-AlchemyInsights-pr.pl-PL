@@ -1,8 +1,8 @@
 ---
-title: Przenoszenie wiadomości e-mail do programu Microsoft 365
+title: Przenoszenie poczty e-mail na usługę Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: abe11201d2c6dc4c517231b191f22e8ed2038411
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ace759a6cfe6e161c5572472b7459f8fd4c6021
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799754"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823725"
 ---
-# <a name="move-email-to-microsoft-365"></a>Przenoszenie wiadomości e-mail do programu Microsoft 365
+# <a name="move-email-to-microsoft-365"></a>Przenoszenie poczty e-mail na usługę Microsoft 365
 
-Istnieje kilka opcji migrowania poczty e-mail do programu Microsoft 365. [Doradca migracji usługi Microsoft 365](https://aka.ms/alchemyinsight-mailmigrationadvisor) ułatwia wybranie najlepszej dla środowiska i przeprowadzi Cię przez migrację poczty.
+Dostępnych jest kilka opcji migrowania poczty e-mail do platformy Microsoft 365. Doradca migracji poczty platformy [Microsoft 365](https://aka.ms/alchemyinsight-mailmigrationadvisor) pomaga w wybraniu najlepszego rozwiązania dla środowiska, a także prowadzi Cię przez proces migracji poczty.
   
-Aby zapoznać się z opcjami bez rozpoczynania migracji, zobacz [Określanie ścieżki migracji](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
+Aby zapoznać się z opcjami bez rozpoczynania migracji, zobacz Wybierz [ścieżkę migracji.](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path)
 
-W celu uzyskania pomocy dotyczącej migracji, w razie potrzeby, zaznacz również stronę Zaakceptuj [Microsoft 365 z FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) .
+Jeśli się kwalifikujesz, odwiedź stronę ["Adopt Microsoft 365 with FastTrack"](https://www.microsoft.com/fasttrack/microsoft-365/office-365) (Przyjmij platformę Microsoft 365 z usługą FastTrack).
   
