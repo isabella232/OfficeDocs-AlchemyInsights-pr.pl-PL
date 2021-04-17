@@ -2,7 +2,7 @@
 title: Rozwiązywanie problemów z zapisywaniem plików w programie Excel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000703"
 - "2608"
-ms.openlocfilehash: 71de9a0fced18d90468da4c103e1707c506590c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 809774fd5a8c1fea087d1c9f000f24f3d56175b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664864"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832176"
 ---
-# <a name="how-to-troubleshoot-errors-when-you-save-excel-workbooks"></a>Jak rozwiązywać problemy podczas zapisywania skoroszytów programu Excel
+# <a name="how-to-troubleshoot-errors-when-you-save-excel-workbooks"></a>Jak rozwiązywać problemy występujące podczas zapisywania plików programu Excel
 
-Jeśli masz problemy z zapisaniem skoroszytu w programie Excel, zobacz [ Jak rozwiązywać problemy podczas zapisywania skoroszytów programu Excel](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks).
+Jeśli masz problem z zapisaniem skoroszytu w programie Excel, zobacz Jak rozwiązywać problemy z błędami [podczas zapisywania skoroszytów programu Excel.](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks)

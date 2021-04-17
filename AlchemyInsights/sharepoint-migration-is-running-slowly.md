@@ -2,7 +2,7 @@
 title: Dlaczego nie mogę edytować tego pliku?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: 56031848ef23fb4823327970efa65b00d0bf9218
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f0e3992ff88e57aa595790b0ef77ff2a1acb4680
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662002"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833517"
 ---
-# <a name="sharepoint-migration-is-running-slowly"></a>Migracja programu SharePoint działa wolno
+# <a name="sharepoint-migration-is-running-slowly"></a>Migracja programu SharePoint jest powoli uruchomiona
 
 Na wydajność migracji może mieć wpływ infrastruktura sieciowa, rozmiar pliku, godzina przeprowadzania migracji czy ograniczanie. Ich znajomość ułatwi Ci zaplanowanie migracji i zmaksymalizowanie jej wydajności.
 

@@ -2,7 +2,7 @@
 title: iOS 13 — iPadOS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2701"
 - "6700003"
-ms.openlocfilehash: 747c24250b911f30176ff03ed623ae38488ab57f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d851fcc6c8514300d5f67b5755caa729c5441a67
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695947"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833157"
 ---
-# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>System iOS 13 +/iPadOS aktualizacje zasad dostępu warunkowego
+# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>Aktualizacje systemu iOS 13+ / iPadOS dotyczące zasad dostępu warunkowego
 
-Jeśli występują problemy związane z dostępem warunkowym na tabletach iPad, które zostały uaktualnione do iPadOS (wersja dla systemu iOS w wersji 13 lub nowszej), należy zapoznać się z następującym artykułem z zespołu AAD w celu uzyskania zmian, które mogą być konieczne, aby zapewnić, że dostęp warunkowy będzie nadal działał w miarę potrzeb:
+W przypadku wystąpienia problemów związanych z dostępem warunkowym na tabletach iPad, które zostały uaktualnione do systemu iPadOS (iOS 13 lub wyższego), zapoznaj się z następującym artykułem od zespołu AAD dotyczącym zmian, które mogą być konieczne w celu zapewnienia, że dostęp warunkowy będzie nadal działać zgodnie z potrzebami:
 
-[Wymagane działanie: Oceń i zaktualizuj zasady dostępu warunkowego w przygotowaniu do wydania iPadOS](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)
+[Wymagane działanie: Ocenianie i aktualizowanie zasad dostępu warunkowego w ramach przygotowań do wydania na tablet iPadOS](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)

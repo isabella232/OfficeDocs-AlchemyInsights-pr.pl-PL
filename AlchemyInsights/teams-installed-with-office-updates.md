@@ -1,8 +1,8 @@
 ---
-title: Aplikacja Teams instalowana z aktualizacjami pakietu Office
+title: Zainstalowano aplikację Teams z aktualizacjami pakietu Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,25 +14,25 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 9a09800fcc36876629c7d59182f20b5b16393ef8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36b0b1a7bf37c27304b4124157dba9aba337678c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736514"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832392"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Aplikacja Microsoft Teams zainstalowana z aktualizacjami pakietu Office
 
-Aplikacja Microsoft Teams jest dołączona jako część ***nowych instalacji*** aplikacji Microsoft 365 dla przedsiębiorstw, aplikacji Microsoft 365 Apps dla firm i pakietu Office dla komputerów Mac. Aby uzyskać więcej informacji, zobacz [Kiedy pakiet Microsoft Teams zostanie dołączony do nowych instalacji pakietu Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+Aplikacja Microsoft Teams jest  dołączona do nowych instalacji aplikacji Platformy Microsoft 365 dla przedsiębiorstw, aplikacji platformy Microsoft 365 dla firm i pakietu Office dla komputerów Mac. Aby uzyskać więcej informacji, zobacz Kiedy usługa Microsoft Teams zacznie być [dołączona do nowych instalacji pakietu Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Ponadto, począwszy od wersji 1906 w bieżącym kanale, zespoły zostaną stopniowo dodawane do ***istniejących instalacji*** aplikacji Microsoft 365 Apps dla przedsiębiorstw (oraz aplikacji Microsoft 365 dla firm) na urządzeniach z systemem Windows po zaktualizowaniu istniejącej instalacji do najnowszej wersji. Aby uzyskać więcej informacji, zobacz [Omówienie istniejących instalacji pakietu Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Ponadto, począwszy od wersji 1906 w bieżącym kanale,  zespoły będą stopniowo dodawane do istniejących instalacji aplikacji Microsoft 365 dla przedsiębiorstw (i Aplikacji Microsoft 365 dla firm) na urządzeniach z systemem Windows po zaktualizowaniu istniejącej instalacji do najnowszej wersji. Aby uzyskać więcej informacji, zobacz [Co z istniejącymi instalacjami pakietu Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-**Uwaga:** Jeśli nie chcesz czekać na ten harmonogram wdrażania, możesz wdrożyć zespoły jako autonomiczne dla użytkowników, postępując zgodnie z [tymi instrukcjami](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)lub możesz mieć możliwość zainstalowania aplikacji Teams przez użytkowników https://teams.microsoft.com/downloads .
+**Uwaga:** Jeśli nie chcesz czekać na ten harmonogram wdrożenia, możesz wdrożyć aplikację Teams jako autonomiczną dla swoich użytkowników, korzystając z tych instrukcji [lub](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)zainstalować aplikację Teams dla siebie z https://teams.microsoft.com/downloads .
 
-Jeśli Twoja organizacja nie jest gotowa do wdrożenia aplikacji Teams, możesz ***wykluczyć zespoły*** z [nowych](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) lub [istniejących](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) instalacji pakietu Office. Jeśli chcesz, aby zespoły były instalowane, ale nie chcesz, aby zespoły były uruchamiane automatycznie dla użytkownika po jego zainstalowaniu, zobacz [Zapobieganie automatycznemu uruchamianiu aplikacji Microsoft Teams po instalacji](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
+Jeśli Twoja organizacja nie jest jeszcze gotowa do wdrożenia usługi Teams, możesz wykluczyć aplikację ***Teams*** z [nowych](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) lub istniejących [instalacji](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) pakietu Office. Jeśli chcesz, aby aplikacja Teams była instalowana, ale nie chcesz, aby aplikacja Teams uruchamiała się automatycznie dla użytkownika po jej zainstalowaniu, zobacz Uniemożliwianie automatycznego uruchamiania aplikacji Microsoft Teams po [zakończeniu instalacji.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)
 
-Aby ***odinstalować aplikację Teams*** z urządzenia z systemem Windows, zobacz [Odinstalowywanie aplikacji Microsoft Teams](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Aby oczyścić aplikację Microsoft Teams z wielu komputerów docelowych lub użytkowników, zobacz [oczyszczanie wdrażania aplikacji Microsoft Teams](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
+Aby ***odinstalować aplikację Teams*** z urządzenia z systemem Windows, zobacz [Odinstalowywanie aplikacji Microsoft Teams.](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81) Aby oczyścić usługę Microsoft Teams z wielu komputerów docelowych lub użytkowników, zobacz [Oczyszczanie wdrożenia usługi Microsoft Teams.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
 
-Jeśli korzystasz z komputerów udostępnionych, usług pulpitu zdalnego (RDS) lub infrastruktury pulpitów wirtualnych (VDI, Virtual Desktop Infrastructure), zobacz [współużytkowane środowiska komputera i infrastruktury VDI z aplikacją Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Jeśli korzystasz z pakietu Office dla komputerów Mac, zobacz [instalacje aplikacji Microsoft Teams na komputerze Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Jeśli korzystasz z komputerów udostępnionych, usług pulpitu zdalnego (RDS) lub infrastruktury pulpitów wirtualnych (VDI), zobacz Środowisko komputerów udostępnionych i [środowisk VDI](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)w aplikacji Microsoft Teams. Jeśli korzystasz z pakietu Office dla komputerów Mac, zobacz Instalacje [aplikacji Microsoft Teams na komputerze Mac.](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
 
-**Uwaga:** Po zainstalowaniu aplikacji Teams jest ona [automatycznie aktualizowana](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) co dwa tygodnie za pomocą nowych funkcji i aktualizacji jakości. 
+**Uwaga:** Po zainstalowaniu aplikacji Teams jest ona automatycznie [aktualizowana](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) co około dwa tygodnie o nowe funkcje i aktualizacje jakości. 
