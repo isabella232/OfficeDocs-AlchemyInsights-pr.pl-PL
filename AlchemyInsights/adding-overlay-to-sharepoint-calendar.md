@@ -2,7 +2,7 @@
 title: Dodawanie nakładki do kalendarza programu SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 62db9568f228d0a14413c1678b47cfb09a3d25c4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f105c2e6035f7ac49c669d1196b688ab20ce34a7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663379"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822069"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Dodawanie nakładki do kalendarza programu SharePoint
 
-Kalendarze programu SharePoint to klasyczne typy list, które czasami są demylone z kalendarzami w grupie Microsoft 365.
+Kalendarze programu SharePoint to klasyczne typy list, które czasami są mylone z kalendarzami grupy platformy Microsoft 365.
  
-Jeśli korzystasz z kalendarza programu SharePoint w witrynie, możesz w nim nałożyć na niego własny kalendarz programu Exchange, aby utworzyć połączony widok kalendarza. Możesz też nałożyć inny Kalendarz programu SharePoint, o ile oba kalendarze programu SharePoint znajdują się w tym samym zbiorze witryn.
+Jeśli w witrynie używasz kalendarza programu SharePoint, możesz nałożyć na niego własny kalendarz programu Exchange, aby utworzyć połączony widok kalendarza. Ewentualnie możesz nałożyć inny kalendarz programu SharePoint, o ile oba kalendarze programu SharePoint znajdują się w tym samym zbiorze witryn.
  
-Aby dodać nakładkę do klasycznego kalendarza programu SharePoint, wykonaj czynności podane w artykule [nakładka kalendarza programu SharePoint z kalendarzem programu Exchange lub programu SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).
+Aby dodać pozycję Nakładka do klasycznego kalendarza programu SharePoint, wykonaj czynności opisane w tece Nakładanie kalendarza programu SharePoint z kalendarzem z [programu Exchange lub SharePoint.](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)

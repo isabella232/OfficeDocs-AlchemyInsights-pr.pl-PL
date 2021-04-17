@@ -2,7 +2,7 @@
 title: Dodawanie hasła do dokumentu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001454"
 - "3464"
-ms.openlocfilehash: 439b18c025d4ef8defccece24557493fce4af8cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 171c1716012240bd79f77148086adfee2d324667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688524"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822717"
 ---
 # <a name="add-a-password-to-a-word-document"></a>Dodawanie hasła do dokumentu programu Word
 
-1. Przejdź do **File**  >  **info o**plikach  >  **Chroń dokument**  >  **za pomocą hasła**.
-2. Wprowadź hasło, którego chcesz użyć, a następnie wybierz przycisk **OK**.
-3. Wprowadź ponownie hasło, a następnie wybierz przycisk **OK**.
+1. Przejdź do **tematu**  >  **Informacje o pliku** Chroń szyfrowanie  >  **dokumentu** przy użyciu  >  **hasła.**
+2. Wprowadź hasło, którego chcesz użyć, a następnie wybierz przycisk **OK.**
+3. Ponownie wprowadź hasło, a następnie wybierz przycisk **OK.**

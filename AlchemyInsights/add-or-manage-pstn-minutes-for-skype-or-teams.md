@@ -1,8 +1,8 @@
 ---
-title: Dodawanie minut z sieci PSTN lub zarządzanie nimi w Skypie lub zespołach
+title: Dodawanie minut na połączenia PSTN w programie Skype lub aplikacji Teams lub zarządzanie nimi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001679"
 - "3744"
-ms.openlocfilehash: 71b96ba17bdad438a62cbf3e6b80dff34fda32f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3800e5bb4aaf614ef39dfdb72bdb973bfa9a1568
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688056"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822465"
 ---
-# <a name="add-or-manage-pstn-minutes-for-skype-or-teams"></a>Dodawanie minut z sieci PSTN lub zarządzanie nimi w Skypie lub zespołach
+# <a name="add-or-manage-pstn-minutes-for-skype-or-teams"></a>Dodawanie minut na połączenia PSTN w programie Skype lub aplikacji Teams lub zarządzanie nimi
 
-Jeśli otrzymasz powiadomienie z ostrzeżeniem o niemal użyciu minut na rozmowy przez Skype lub zespoły, zapoznaj się ze sposobami [dodawania środków i zarządzania nimi w dzierżawie](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits).
+Jeśli masz powiadomienie z ostrzeżeniem, że minuty na rozmowy przez Skype'a lub aplikację Teams są prawie wykorzystane, sprawdź, jak dodawać środki i zarządzać środkami na komunikację [dla twojej dzierżawy.](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)

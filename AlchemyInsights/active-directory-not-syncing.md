@@ -1,8 +1,8 @@
 ---
-title: Usługa Active Directory nie jest synchronizowana
+title: Nie można zsynchronizować usługi Active Directory
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697639"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822861"
 ---
-# <a name="active-directory-not-syncing"></a>Usługa Active Directory nie jest synchronizowana
+# <a name="active-directory-not-syncing"></a>Nie można zsynchronizować usługi Active Directory
 
-Jeśli otrzymujesz błędy synchronizacji, na przykład "Brak ostatniej synchronizacji", lub Zwróć uwagę, że stan synchronizacji katalogów w portalu Office Admin zawiera komunikat "Ostatnia synchronizacja: ponad 3 dni temu", być może AADConnect ma niepoprawne ustawienia lub nie masz wystarczających uprawnień do przeprowadzenia synchronizacji.  
+Jeśli otrzymujesz błędy synchronizacji, takie jak "nie masz ostatniej synchronizacji", lub zwróć uwagę na stan synchronizacji katalogów w portalu administracyjnym pakietu Office o treści "Ostatnia synchronizacja ponad 3 dni temu", może to oznaczać, że program AADConnect ma nieprawidłowe ustawienia lub niewystarczające uprawnienia do przeprowadzenia synchronizacji.  
 
-Ponowna instalacja AADConnect za pomocą ustawień ekspresowych może szybko rozwiązać ten problem:
+Ponowne zainstalowanie programu AADConnect przy użyciu ustawień ekspresowych może szybko rozwiązać ten problem:
 
-1. [Pobierz najnowszą wersję programu AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).
+1. [Pobierz najnowszą wersję programu AADConnect.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Postępuj zgodnie z instrukcjami dotyczącymi instalacji ekspresowej](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Postępuj zgodnie z instrukcjami dotyczącymi instalacji ekspresowej.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
 
-Aby uzyskać więcej informacji na temat kont usługi AADConnect, zobacz [usługa Azure AD Connect: konta i uprawnienia](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+Aby uzyskać więcej informacji o kontach usługi AADConnect, zobacz [Azure AD Connect: konta i uprawnienia.](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)

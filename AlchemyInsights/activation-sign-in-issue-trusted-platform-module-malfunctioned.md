@@ -1,8 +1,8 @@
 ---
-title: Problem dotyczący aktywacji/logowania — moduł zaufanej platformy
+title: Problem z aktywacją/logowaniem — niepoprawny moduł zaufanej platformy
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3406"
 - "9001429"
-ms.openlocfilehash: 13e6fcd18047e511452f0180dc2e4677466d4db3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 468d197ae1ad6a3ee13cbcc683a59f0d9f193af7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697531"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822897"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Rozwiązywanie problemów z aplikacjami Microsoft 365 "moduł zaufanej platformy na komputerze nie działa prawidłowo"
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Naprawianie komunikatu "Moduł zaufanej platformy komputera nie działa poprawnie" w aplikacjach platformy Microsoft 365
 
 Aby naprawić ten błąd, wypróbuj poniższe rozwiązania:
 
 1. Otwórz aplikację pakietu Office i [wyloguj się](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) z istniejących kont użytkowników.   
-2. Za pomocą **Settings**  >  **Accounts**  >  **kont & konta e-mail**konta systemu Windows Usuń istniejące konta służbowe. 
-3. Przy użyciu apletu **Ustawienia**  >  **kont**systemu Windows  >  **dostęp do służbowego i szkolnego**rozłączania istniejących kont. 
+2. Za pomocą ustawień **systemu** Windows  >    >  **Konta e-& usuń** istniejące konta służbowe. 
+3. Za pomocą ustawień **systemu** Windows  >  **Konta** Uzyskaj dostęp  >  **do konta służbowego** lub szkolnego, odłącz istniejące konta. 
 4. Zresetuj stan aktywacji pakietu Office. [Dowiedz się, jak to zrobić](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 ).
-5. Spróbuj naprawić błędy modułu TPM (Trusted Platform Module) za pomocą [procesu odzyskiwania](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) .
+5. Spróbuj wykonać [proces odzyskiwania użytkowników,](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) aby naprawić błędy modułu TPM.
