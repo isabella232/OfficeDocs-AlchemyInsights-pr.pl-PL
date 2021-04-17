@@ -2,24 +2,35 @@
 title: Zasady konfiguracji aplikacji dla usługi Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 6f7c5f7cc3dc47ca8f5899ef96c5aafa8505342b
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
-ms.translationtype: MT
+- "9003770"
+- "6709"
+ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423970"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821340"
 ---
 # <a name="app-configuration-policies-for-microsoft-intune"></a>Zasady konfiguracji aplikacji dla usługi Microsoft Intune
 
-Zasady konfiguracji aplikacji w usłudze Microsoft Intune zapewniają ustawienia konfiguracji dla aplikacji dla systemu iOS lub Android. Te ustawienia konfiguracji umożliwiają dostosowanie aplikacji. Obsługa zasad konfiguracji jest ograniczona przez wersje i aplikacje systemu operacyjnego.
+Zasady konfiguracji aplikacji w usłudze Microsoft Intune są używane do zapewniania ustawień konfiguracji aplikacji dla systemu iOS lub Android. Te ustawienia konfiguracji umożliwiają dostosowanie aplikacji. Należy pamiętać, że istnieją ograniczenia dotyczące wersji systemu operacyjnego i aplikacji, które obsługują korzystanie z zasad konfiguracji.
 
-Aby uzyskać więcej informacji, zobacz [Zasady konfiguracji aplikacji dla usługi Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview).
+Zapoznaj się z następującą dokumentacją w celu uzyskania szczegółów
+
+[Zasady dotyczące konfiguracji aplikacji dla usługi Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[Dodawanie zasad konfiguracji aplikacji dla zarządzanych urządzeń z systemem iOS](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[Dodawanie zasad konfiguracji aplikacji dla zarządzanych urządzeń z systemem Android](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[Dodawanie zasad konfiguracji aplikacji dla zarządzanych aplikacji bez rejestracji urządzenia](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)

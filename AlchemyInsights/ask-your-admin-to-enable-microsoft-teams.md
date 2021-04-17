@@ -1,8 +1,8 @@
 ---
-title: Poproś administratora, aby włączył aplikację Microsoft Teams
+title: Poproś administratora o włączenie usługi Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 62ec9b385b3827395a757150a75ac6bb4237941b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d401a0f29bdd808622cf8348ef1ae3770bb54c3a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716255"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821196"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Brakuje Ci! Poproś administratora, aby włączył aplikację Microsoft Teams
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Brakuje Ci teraz! Poproś administratora o włączenie usługi Microsoft Teams
 
-Jeżeli korzystasz z dzierżawy edukacyjnej, musisz ręcznie udostępnić aplikację Microsoft Teams. Aby to zrobić, przejdź do centrum administracyjnego usługi Microsoft 365 > **usług i dodatków > aplikacji Microsoft Teams**. Jeśli korzystasz z nowego centrum administracyjnego Teams, musisz wyłączyć **nowe centrum administracyjne**,   Aby znaleźć odpowiednie **usługi i dodatki**. 
+Jeżeli korzystasz z dzierżawy edukacyjnej, musisz ręcznie udostępnić aplikację Microsoft Teams. W tym celu przejdź do centrum administracyjnego platformy Microsoft 365 i >usługi i dodatki  **dla > Microsoft Teams.** Jeśli korzystasz z nowego centrum administracyjnego usługi Teams, **** musisz wyłączyć pozycję Wypróbuj nowe centrum administracyjne, aby znaleźć Usługi i    **dodatki.** 
 
-**Ważne**: aby zmiany zostały wprowadzone, może być konieczne poczekanie na 24 godziny.
+**WAŻNE:** Może upłynieć do 24 godzin, aby zmiany zostały wprowadzone.

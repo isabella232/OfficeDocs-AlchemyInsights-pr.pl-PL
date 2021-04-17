@@ -2,7 +2,7 @@
 title: Funkcje ATP
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "3455"
-ms.openlocfilehash: 339d0d9342fad9da851ec565f65b95cb53c21716
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: daf5b9df7f00940c8a3db3fb14f24be61ab2be91
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715607"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820980"
 ---
-# <a name="whats-new-in-atp"></a>Co nowego w usłudze ATP
+# <a name="whats-new-in-atp"></a>Co nowego w programie ATP
 
-Aby dowiedzieć się więcej na temat najnowszych ulepszeń dotyczących zaawansowanej ochrony przed zagrożeniami w usłudze Windows Defender, zobacz [co nowego w usłudze ATP w usłudze Windows Defender](https://www.microsoft.com/security/blog/2018/11/15/whats-new-in-windows-defender-atp/).
+Aby dowiedzieć się więcej o najnowszych ulepszeniach zaawansowanej ochrony przed zagrożeniami w programie Windows Defender, zobacz Co nowego w programie [Windows Defender ATP.](https://www.microsoft.com/security/blog/2018/11/15/whats-new-in-windows-defender-atp/)
