@@ -2,22 +2,23 @@
 title: Zmienianie serwerów nazw
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5"
 - "14"
-ms.openlocfilehash: 572f8befd84f55cb07a3535852a46e735d3ed620
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 67680a6fa514d31ccb88cc8691a199cd1f58a402
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706765"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818622"
 ---
 # <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Aktualizowanie serwerów nazw domeny, aby wskazywały firmę Microsoft
 
@@ -35,5 +36,5 @@ Aby skonfigurować domenę w usłudze Microsoft 365, należy zaktualizować serw
 
 3. Zapisywanie zmian.
 
-Szczegółowe instrukcje można także znaleźć w tym artykule: [Zmienianie serwerów nazw u dowolnego rejestratora domen](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+Szczegółowe instrukcje można także znaleźć w tym artykule: [Zmienianie serwerów nazw u dowolnego rejestratora domen](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

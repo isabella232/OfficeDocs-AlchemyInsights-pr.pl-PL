@@ -1,8 +1,8 @@
 ---
-title: Nie można połączyć się z Internetem
+title: Nie można nawiązać połączenia z Internetem
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 50e901a0bb6e6b4abefbb3aa8946c40fb11dfc99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d865aa08a5703ec5906d7f263532184fc50ed7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794272"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819450"
 ---
 # <a name="fix-network-connection"></a>Naprawianie połączenia sieciowego
 
 Aby rozwiązać problemy z połączeniem sieciowym, najpierw spróbuj uruchomić narzędzie do rozwiązywania problemów z siecią. 
 
-1. [Otwórz ustawienia rozwiązywania problemów](ms-settings:troubleshoot).
+1. [Otwórz ustawienia rozwiązywania problemów.](ms-settings:troubleshoot)
 
-2. W obszarze **połączenia internetowe**wybierz pozycję **Uruchom narzędzie do rozwiązywania problemów**.
+2. W **obszarze Połączenia internetowe** wybierz pozycję Uruchom narzędzie do **rozwiązywania problemów**.
 
-Jeśli korzystasz z połączenia Wi-Fi, upewnij się, że sieć Wi-Fi jest włączona dla Twojego urządzenia (łącznie z dowolnym fizycznym przełącznikiem Wi-Fi) i że tryb samolotowy nie jest włączony.
+Jeśli korzystasz z połączenia sieci Wi-Fi, upewnij się, że tryb Wi-Fi jest włączony dla urządzenia (w tym dowolnego przełącznika fizycznego Wi-Fi) i że tryb samolotowy nie jest włączony.
 
-Jeśli korzystasz z połączenia Ethernet, upewnij się, że kabel jest poprawnie podłączony do komputera i routera lub modemu.
+Jeśli korzystasz z połączenia Ethernet, upewnij się, że kabel jest prawidłowo podłączony do komputera i routera lub modemu.
 
-Jeśli to nie zadziała, spróbuj uruchomić ponownie komputer, modem i router (Jeśli masz taki):
+Jeśli to nie zadziała, spróbuj ponownie uruchomić komputer, modem i router (jeśli go masz):
 
-1. Odłącz zasilanie od modemu i routera. Jeśli Twój modem ma kopię zapasową baterii, musisz usunąć baterię, aby całkowicie wyłączyć zasilanie.
+1. Odłącz telefon od modemu i routera. Jeśli modem ma kopię zapasową baterii, musisz ją usunąć, aby całkowicie wyłączyć jej zasilanie.
 
-2. Poczekaj około 30 sekund. Jeśli bateria została wyjęta z modemu, umieść ją ponownie.
+2. Poczekaj około 30 sekund. Jeśli bateria została usunięta z modemu, należy ją włożyć z powrotem.
 
-3. Podłącz kabel zasilający modemu i routera.
+3. Podłącz kabel zasilający do modemu i routera.
 
-4. W czasie oczekiwania na pełne włączenie modemu i routera Uruchom ponownie **komputer: Uruchom**  >  **Power**  >  **ponownie**zasilanie.
+4. Gdy zaczekasz na pełne uruchomienie modemu i routera, uruchom ponownie komputer: **Uruchom ponownie program**  >  **Power**  >  **Restart.**
 
 **Zaawansowane rozwiązywanie problemów**
 
-Aby uzyskać bardziej zaawansowane instrukcje dotyczące rozwiązywania problemów, zobacz [Rozwiązywanie problemów z połączeniem Wi-Fi w systemie Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
+Aby uzyskać bardziej zaawansowane instrukcje rozwiązywania problemów, zobacz [Rozwiązywanie Wi-Fi problemów z połączeniem w systemie Windows.](https://support.microsoft.com/help/10741?ocid=SMC10741%2F) 
 
-Jeśli nie masz doświadczenia w rozwiązywaniu dodatkowych procedur rozwiązywania problemów technicznych, [skontaktuj się z nami](https://support.microsoft.com/contactus).
+Jeśli nie wiesz, jak wykonać bardziej techniczną procedurę rozwiązywania problemów, skontaktuj [się z nami.](https://support.microsoft.com/contactus)

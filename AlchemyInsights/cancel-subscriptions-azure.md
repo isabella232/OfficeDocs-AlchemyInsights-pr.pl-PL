@@ -1,8 +1,8 @@
 ---
-title: Anulowanie subskrypcji na platformie Azure
+title: Anuluj subskrypcję na platformie Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: f85608446c8b230753dccd06ee5b5ea36aed7802
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: fcb767f5e981e8e208914a76f3b88f4433e42818
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807946"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819594"
 ---
-# <a name="cancel-subscription"></a>Anulowanie subskrypcji
+# <a name="cancel-subscription"></a>Anuluj subskrypcje
 
-Tylko administrator konta lub prawo właściciela subskrypcji możesz anulować subskrypcję platformy Azure w witrynie Azure Portal, jeśli nie potrzebujesz już subskrypcji. Postępuj zgodnie z poniższymi instrukcjami.
+Tylko administrator konta lub właściciel prawa do subskrypcji może anulować subskrypcję platformy Azure w witrynie Azure Portal, jeśli subskrypcja nie jest już potrzebna. Wykonaj poniższe kroki.
 
-1. Wybierz abonament na [stronie Subskrypcje w portalu Azure](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
+1. Wybierz swoją subskrypcję na stronie [Subskrypcje w witrynie Azure Portal](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
 2. Wybierz subskrypcję, którą chcesz anulować.
-3. Wybierz pozycję **Omówienie** , a następnie wybierz pozycję **Anuluj subskrypcję** .
+3. Wybierz opcję **Omówienie**, a następnie wybierz pozycję **Anuluj subskrypcję**.
 
 **Co się stanie po anulowaniu subskrypcji?**
 
-Po anulowaniu rozliczenia zostaną natychmiast zatrzymane. Może jednak upłynąć nawet do 10 minut, aż anulowanie będzie widoczne w portalu. Jeśli anulujesz w połowie okresu rozliczeniowego, wyślemy końcową fakturę na podstawie typowej daty faktury po zakończeniu okresu.
+Po anulowaniu naliczanie opłat zostanie natychmiast wstrzymane. Jednak anulowanie może pojawić się w portalu do 10 minut. Jeśli anulujesz subskrypcję w trakcie okresu rozliczeniowego, wyślemy fakturę w ustalonym dniu na wysyłkę faktury, po zakończeniu okresu.
 
-Po anulowaniu usługi zostaną wyłączone. Oznacza to, że maszyny wirtualne są przydzielone, tymczasowe adresy IP są zwalniane, a magazyn jest tylko do odczytu.
+Po anulowaniu Twoje usługi zostaną wyłączone. Oznacza to, że maszyny wirtualne wracają do czasu sprzed alokacji, tymczasowe adresy IP są zwalniane, a pamięć jest tylko w wersji do odczytu.
 
-Po anulowaniu subskrypcji firma Microsoft czeka 30-90 dni przed trwałym usunięciem danych na wypadek, gdyby trzeba było uzyskać do niego dostęp lub zmienić zdanie. Nie naliczamy opłat za zachowywanie danych. Aby dowiedzieć się więcej, zobacz [Centrum zaufania Microsoft — sposób zarządzania danymi](https://go.microsoft.com/fwLink/p/?LinkID=822930&clcid=0x409).
+Po anulowaniu subskrypcji firma Microsoft czeka 30-90 dni, zanim trwale usunie Twoje dane na wypadek, gdybyś musiał uzyskać do nich dostęp lub zmienisz zdanie. Nie pobieramy opłat za przechowywanie danych. Aby dowiedzieć się więcej, zobacz [Centrum zaufania Microsoft – Jak zarządzamy Twoimi danymi](https://go.microsoft.com/fwLink/p/?LinkID=822930&clcid=0x409).
 
 **Anuluj subskrypcję platformy Azure**
 
-- [Kto może anulować abonament?](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#who-can-cancel-a-subscription)
-- [Co się dzieje po subskrypcji](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#what-happens-after-i-cancel-my-subscription)
+- [Kto może anulować subskrypcję?](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#who-can-cancel-a-subscription)
+- [Co dzieje się po zakończeniu subskrypcji](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#what-happens-after-i-cancel-my-subscription)
 
-**Polecane dokumenty**
+**Zalecane dokumenty**
 
-- [Aktywuj ponownie subskrypcję](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#reactivate-subscription)
-- [Przełączanie subskrypcji](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Ponownie aktywuj subskrypcję](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#reactivate-subscription)
+- [Zmień subskrypcję](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)

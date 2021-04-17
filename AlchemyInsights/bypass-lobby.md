@@ -1,8 +1,8 @@
 ---
-title: Obejdź poczekalnię
+title: Pomijanie poczekalni
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 44a930355f1faf8ad747885b72753aaeeb80a6f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684960"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820044"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Sterowanie ustawieniami poczekalni i poziomem uczestnictwa w aplikacji Teams
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Kontrolowanie ustawień poczekalni i poziomu uczestnictwa w aplikacji Teams
 
-Jeśli chcesz zezwolić wszystkim, w tym użytkownikom telefonicznym, zewnętrznym i anonimowym, na **pomijanie poczekalni**, użyj programu PowerShell, aby wykonać to zadanie. Oto przykładowa modyfikacja globalnych zasad spotkań dla organizacji.
+Jeśli chcesz zezwolić wszystkim, w tym użytkownikom korzystającym z połączeń telefonicznych, zewnętrznych i anonimowych, na ominięcie poczekalni, użyj programu PowerShell, aby wykonać to zadanie. Oto przykład modyfikowania globalnych zasad spotkań dla organizacji.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-To polecenie cmdlet wymaga obecnie korzystania z modułu programu PowerShell w programie Skype dla firm. Aby skonfigurować korzystanie z tego polecenia cmdlet, zobacz [Zarządzanie zasadami za pomocą programu PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+To polecenie cmdlet obecnie wymaga użycia modułu programu Skype dla firm PowerShell. Aby skonfigurować używanie tego polecenia cmdlet, zobacz [Zarządzanie zasadami za pomocą programu PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)
 
-Po skonfigurowaniu zasad trzeba je zastosować do użytkowników; Jeśli zasady globalne zostały zmodyfikowane, będą one automatycznie stosowane do użytkowników. W przypadku każdej zmiany zasad musisz poczekać co najmniej **4 godziny na 24 godziny** , aby zasady zostały zastosowane. 
+Po skonfigurowaniu zasad należy je zastosować do użytkowników. lub, jeśli zmodyfikowasz zasady globalne, zostaną one automatycznie stosowane do użytkowników. W przypadku każdej zmiany zasad należy zaczekać od co najmniej 4 godzin do **24** godzin na ich skutek. 
 
-Przed wprowadzeniem tych zmian należy zapoznać się z poniższą dokumentacją.
+Przed wprowadzeniem tych zmian należy zapoznać się z poniższymi dokumentami, aby dokładnie zrozumieć, na czym to pozwala.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Opis formantów zasad poczekalni spotkań aplikacji Teams
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Opis kontrolek zasad poczekalni spotkania w u teamsie
 
-Te ustawienia kontrolują, które uczestnicy spotkania czekają na poczekalnię, zanim zostaną przyjęte na spotkanie i poziom uczestnictwa w spotkaniu. Za pomocą programu PowerShell można aktualizować ustawienia zasad spotkań, które nie zostały jeszcze zaimplementowane ("już wkrótce") w centrum administracyjnym aplikacji Teams. Poniżej znajduje się przykładowe polecenie cmdlet programu PowerShell, które umożliwia wszystkim użytkownikom pomijanie poczekalni.
+Te ustawienia kontrolują, którzy uczestnicy spotkania czekają w poczekalni przed wpuszczeniem na spotkanie, oraz jaki jest dozwolony poziom uczestnictwa w spotkaniu. Za pomocą programu PowerShell możesz zaktualizować ustawienia zasad spotkania, które nie zostały jeszcze zaimplementowane (oznaczone jako "wkrótce") w centrum administracyjnym usługi Teams. Poniżej znajduje się przykładowe polecenie cmdlet programu PowerShell, które umożliwia wszystkim użytkownikom pomijanie poczekalni.
 
-- [Automatyczne przyjmowanie osób](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) to zasady dotyczące każdego organizatora, które kontrolują, czy osoby dołączające do spotkania bezpośrednio lub oczekują w poczekalni do momentu ich otrzymania przez uwierzytelnionego użytkownika.
+- [Automatyczne wpuszczanie osób](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) to zasady per-organizer, które sterują tym, czy osoby mogą dołączać do spotkania bezpośrednio, czy czekać w poczekalni na wpuszczenie przez uwierzytelnionego użytkownika.
 
-- [Zezwól anonimowym użytkownikom na Rozpoczynanie spotkania](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) to zasady dotyczące każdego organizatora, które kontrolują, czy anonimowe osoby, w tym użytkownicy typu B2B i federacyjnego, mogą dołączać do spotkania użytkownika bez uwierzytelnionego użytkownika w organizacji w ramach uczestnictwa.
+- [](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) Zezwalaj osobom anonimowym na rozpoczynanie spotkania to zasady dla organizatorów, które sterują tym, czy anonimowe osoby, w tym B2B i użytkownicy federacyjni, mogą dołączać do spotkania użytkownika bez uwierzytelnionego użytkownika z organizacji w obecności.
 
-- [Zezwalaj użytkownikom telefonowania na pomijanie poczekalni](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**już wkrótce**) jest to zasada dla każdego organizatora, która kontroluje, czy osoby, które wybierają numery telefoniczne bezpośrednio do spotkania lub oczekują w poczekalni bez względu na ustawienie automatyczne akceptowanie **osób** .
+- Zezwalaj użytkownikom korzystającym z połączeń telefonicznych na ominięcie poczekalni [(już](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) **wkrótce)** to zasady dotyczące  per-organizera, które sterują tym, czy osoby dołączane telefonicznie mogą dołączać do spotkania bezpośrednio, czy czekać w poczekalni bez względu na ustawienie Automatycznie wpuszczaj osoby.
 
-- [Zezwól organizatorom na zastępowanie ustawień lobby](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**już wkrótce**) to zasady dotyczące organizatora określające, czy organizator spotkania może zastępować ustawienia lobby, które administrator ustawił w polu **automatycznie dopuścić osoby** i **zezwala użytkownikom na połączenia z pominięciem poczekalni** podczas planowania nowego spotkania.
+- Zezwalaj organizatorom na zastępowanie ustawień poczekalni [(już](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) **wkrótce)** to zasady dla organizatorów,  które sterują tym, czy organizator spotkania może zastąpić ustawienia poczekalni ustawione przez administratora w polach Automatyczne wpuszczanie osób i Zezwalaj użytkownikom korzystającym z poczekalni na pomijanie poczekalni podczas planowania nowego spotkania. 
 
-**Uwaga:** Przeczytaj temat [Zarządzanie zasadami dotyczącymi spotkań w aplikacji Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) , aby zapoznać się z pełnym omówieniem zasad spotkań aplikacji Microsoft Teams.
+**Uwaga:** Przeczytaj [Zarządzanie zasadami spotkań w aplikacji Teams,](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) aby uzyskać pełne omówienie zasad spotkania w aplikacji Microsoft Teams.

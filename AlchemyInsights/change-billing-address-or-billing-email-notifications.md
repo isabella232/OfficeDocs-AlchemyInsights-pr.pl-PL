@@ -1,8 +1,8 @@
 ---
-title: Zmienianie adresu do rozliczeń lub powiadomień e-mail dotyczących rozliczeń
+title: Zmienianie adresu rozliczeniowego lub powiadomień rozliczeniowych e-mail
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,33 +13,33 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1200012"
 - "4716"
-ms.openlocfilehash: 4a280eb646270bf5597e4e390be9c73bf3c357d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 013fd35e4c299d78504adbb59675a22df301c503
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793552"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819198"
 ---
-# <a name="change-billing-address-or-billing-email-notifications"></a>Zmienianie adresu do rozliczeń lub powiadomień e-mail dotyczących rozliczeń
+# <a name="change-billing-address-or-billing-email-notifications"></a>Zmienianie adresu rozliczeniowego lub powiadomień rozliczeniowych e-mail
 
-**Zmienianie adresu płatnika**
+**Zmienianie adresu Bill-To adresowego**
 
-1. W centrum administracyjnym przejdź do strony ** [metody płatności](https://go.microsoft.com/fwlink/p/?linkid=2018806) > rozliczenia** .
+1. W centrum administracyjnym przejdź do strony Rozliczenia **> [metodach](https://go.microsoft.com/fwlink/p/?linkid=2018806)** płatności.
 
 2. Wybierz kartę kredytową lub konto bankowe, które chcesz zmienić.
 
 3. Na stronie **Szczegóły metody płatności** kliknij pozycję **Edytuj**.
 
-4. Zaktualizuj adres rozliczeniowy, a następnie kliknij przycisk **zapisz >**.
+4. Zaktualizuj adres rozliczeniowy, a następnie kliknij **pozycję Zapisz > Gotowe**.
 
 **Zmienianie alternatywnego adresu e-mail, na który są wysyłane powiadomienia o rozliczeniach** 
 
-1. Kliknij **ikonę użytkownika**, a następnie kliknij pozycję **Moje konto**.
+1. Kliknij **ikonę Użytkownik,** a następnie kliknij **pozycję Moje konto**.
 
-2. Kliknij pozycję **informacje osobiste**.
+2. Kliknij **pozycję Informacje osobiste.**
 
-3. W polu **szczegóły kontaktu** kliknij pozycję **Edytuj**.
+3. W polu **Szczegóły kontaktu** kliknij pozycję **Edytuj**.
 
-4. W polu **alternatywny** adres e-mail wpisz alternatywny adres e-mail, którego chcesz użyć, a następnie kliknij przycisk **Zapisz**.
+4. W polu **Alternatywny adres e-mail** wpisz alternatywny adres e-mail, którego chcesz użyć, a następnie kliknij przycisk **Zapisz**.
 
-Aby uzyskać więcej informacji na temat zmiany adresu i powiadomienia, zobacz [zmienianie adresów rozliczeniowych dla programu Microsoft 365 dla firm](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
+Aby uzyskać więcej informacji na temat zmian adresu i powiadomień, zobacz Zmienianie adresu rozliczeniowego dla [platformy Microsoft 365 dla firm.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)

@@ -1,8 +1,8 @@
 ---
-title: Wszystkie problemy z synchronizacją
+title: Wychwyć wszystkie problemy z synchronizacją
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,22 +14,22 @@ ms.custom:
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: b84e73ce4776d148b8c0ff46c48ec7663a4f21b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 681bdc16efac19c4b8ea0b91b13aa38cd4e9007c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757058"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819414"
 ---
 # <a name="basic-outlook-sync-troubleshooting"></a>Podstawowe rozwiązywanie problemów z synchronizacją programu Outlook
 
 Jeśli masz problemy z synchronizacją, spróbuj wykonać następujące czynności:
 
 - Uruchom [to narzędzie diagnostyczne](https://aka.ms/sara-outlooksendreceive) na komputerze, którego dotyczy problem.
-- Zmniejsz liczbę folderów w podstawowej lub udostępnionej skrzynce pocztowej. Zobacz [problemy z wydajnością programu Outlook, gdy w trybie buforowanym znajduje się zbyt wiele elementów lub folderów](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).
+- Zmniejsz liczbę folderów w podstawowej lub udostępnionej skrzynce pocztowej. Zobacz Problemy z wydajnością programu Outlook w przypadku zbyt wielu elementów lub folderów w folderze plików ost lub pst w trybie [buforowanej.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)
 - Wyłącz buforowanie wszystkich folderów udostępnionych.
-- Zmień konfigurację skrzynki pocztowej serwera pomocniczego na drugie konto programu Exchange w swoim profilu.
-- Upewnij się, że użytkownik może połączyć się z Internetem. 
-- [Sprawdź, czy jesteś w trybie online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).
-- [Ustalanie, czy reguła jest stosowana](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).
-- Upewnij się, że funkcja **pobierania udostępnionych folderów** jest włączona, przechodząc do ustawień konta **pliku**  >  **Ustawienia**  >  **kont**  >  **Zaawansowane więcej ustawień**  >  **Advanced**.
+- Zmień konfigurację pomocniczej skrzynki pocztowej programu Exchange na drugie konto programu Exchange w profilu.
+- Upewnij się, że użytkownik może nawiązać połączenie z Internetem. 
+- [Sprawdź, czy jesteś w trybie online.](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9)
+- [Określanie, czy reguła jest stosowana.](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59)
+- Sprawdź, **czy opcja Pobierz foldery** udostępnione jest włączona, przechodząc do strony **Ustawienia** konta pliku  >    >  **Ustawienia konta**  >  **Więcej ustawień**  >  **Zaawansowane.**
