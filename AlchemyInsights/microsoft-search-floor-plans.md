@@ -1,8 +1,8 @@
 ---
-title: Plany pomieszczeń
+title: Plany kondygnacji
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003034"
 - "5789"
-ms.openlocfilehash: 33711a2f0e7b8d5e26fe8ac5f9d7c5f704f76faf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 265db958b856bf06ac9344662070370e2be0a92c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724733"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836397"
 ---
-# <a name="floor-plans"></a>Plany pomieszczeń
+# <a name="floor-plans"></a>Plany kondygnacji
 
-Aby uzyskać informacje o planach pomieszczeń **wyszukiwania firmy Microsoft**  , zapoznaj się z następującymi artykułami pomocy technicznej:
-- [Najważniejsze wskazówki dotyczące planów pomieszczeń wyszukiwania firmy Microsoft](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
-- [Zarządzanie planami pomieszczeń](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
-- Aby uzyskać informacje na temat tworzenia rozkładu pomieszczeń w programie  **Visio**, zobacz [Tworzenie rozkładu pomieszczeń](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)
+Aby uzyskać informacje na **temat planów kondygnacji**  usługi Microsoft Search, zapoznaj się z następującymi artykułami pomocy technicznej:
+- [Najlepsze rozwiązania dotyczące planów kondygnacji usługi Microsoft Search](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
+- [Zarządzanie planami budynku](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
+- Aby uzyskać informacje na temat tworzenia kondygnacji w  **programie Visio,** zobacz [Tworzenie kondygnacji](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)

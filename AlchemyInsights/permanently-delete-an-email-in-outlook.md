@@ -2,7 +2,7 @@
 title: Trwałe usuwanie wiadomości e-mail w programie Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: 85a9f244c44af7695f3bbea76ad62877172ea53e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771695"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836109"
 ---
 # <a name="permanently-delete-an-email-in-outlook"></a>Trwałe usuwanie wiadomości e-mail w programie Outlook
 
-- W widoku Skrzynka odbiorcza możesz nacisnąć wiadomość, aby wyświetlić ikonę kosza. Naciśnij tę ikonę, aby usunąć wiadomość.
+- W widoku skrzynki odbiorczej naciśnij długo wiadomość, a zobaczysz ikonę kosza na śmieci. Naciśnij tę ikonę, aby usunąć wiadomość.
 
-- Możesz również ustawić "Delete" jako opcję szybkiego przesuwania (**Settings-> opcje przesuwania**); następnie użyj palca, aby szybko przesuwać w wiadomości, którą chcesz usunąć. 
+- Możesz również ustawić opcję "usuń" jako opcję przesuwania (**Ustawienia -> Opcje przesuwania**); a następnie szybko przesuń palcem po wiadomości, którą chcesz usunąć. 
 
-- Aby usunąć wiadomość z otwartego widoku poczty e-mail, naciśnij ikonę kosza w górnej części ekranu. Usunięte wiadomości będą przenoszone do folderu kosza. 
+- Aby usunąć wiadomość z otwartego widoku wiadomości e-mail, naciśnij ikonę kosza na śmieci u góry ekranu. Usunięte wiadomości zostaną przeniesione do folderu Kosz. 
 
 **Aby trwale usunąć wiadomość e-mail**
 
-- Dostęp do folderu Kosz w widoku Poczta, naciśnij ikonę konta (3 wiersze) i naciśnij folder kosza.
+- Uzyskaj dostęp do folderu kosza w widoku poczty, naciśnij ikonę konta (3 wiersze) i naciśnij folder kosza.
 
-- Usuwanie pojedynczych wiadomości e-mail lub Oznaczanie wielu wiadomości e-mail i usuwanie ich z tego miejsca; zostaną trwale usunięte.
+- Usuwanie pojedynczych wiadomości e-mail lub oznaczanie wielu wiadomości e-mail i usuwanie ich w tym miejscu; zostaną one trwale usunięte.
