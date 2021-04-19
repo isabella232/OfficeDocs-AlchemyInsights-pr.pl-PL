@@ -1,28 +1,29 @@
 ---
-title: Wiadomość powitalna w grupach usługi Microsoft 365
+title: Wiadomość powitania w grupach platformy Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5685"
-ms.openlocfilehash: d82931ae6978a09e674b00640d1dd413bcce7cfd
-ms.sourcegitcommit: b196100759b29aecd62b693a2bfedbbd25a697c6
+ms.openlocfilehash: 6c46ba1b2c2c94e21d7c76e45df1d416ba423faf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44357838"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806416"
 ---
-# <a name="welcome-message-in-microsoft-365-groups"></a>Wiadomość powitalna w grupach usługi Microsoft 365
+# <a name="welcome-message-in-microsoft-365-groups"></a>Wiadomość powitania w grupach platformy Microsoft 365
 
-Nowi użytkownicy dołączający do grupy usługi Microsoft 365 otrzymają powitalną wiadomość e-mail, jeśli właściwość "UnifiedGroupWelcomeMessageEnabled" jest prawdziwa.
+Nowi użytkownicy dołączani do grupy platformy Microsoft 365 będą otrzymywać powitalne wiadomości e-mail, jeśli właściwość "UnifiedGroupWelcomeMessageEnabled" ma wartość True (Prawda).
 
-Jeśli chcesz wyłączyć wiadomość powitalną, użyj następującego polecenia [EXO PowerShell:](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps)
+Jeśli chcesz wyłączyć wiadomość powitawną, użyj następującego polecenia programu PowerShell programu [EXO:](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps)
 
 `
 Set-UnifiedGroup <groupname> -UnifiedGroupWelcomeMessageEnabled:$False

@@ -1,8 +1,8 @@
 ---
-title: Zespoły nagrań spotkań w usłudze OneDrive
+title: Nagrania spotkań aplikacji Teams do usługi OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003835"
 - "6853"
-ms.openlocfilehash: 04fcefaa0965129ba577af85615e762fb32ca64c
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
+ms.openlocfilehash: 9a0b610ed3101cef90c9685f5ca34c6245e86ae9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807686"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810278"
 ---
-# <a name="teams-meeting-recordings-to-onedrive"></a>Zespoły nagrań spotkań w usłudze OneDrive
+# <a name="teams-meeting-recordings-to-onedrive"></a>Nagrania spotkań aplikacji Teams do usługi OneDrive
 
-Aplikacja Microsoft Teams ma nową metodę zapisywania nagrań na spotkaniach. Jako pierwsza faza przejścia z klasycznego strumienia Microsoft Stream do [nowego strumienia](https://docs.microsoft.com/stream/streamnew/new-stream), ta metoda przechowuje nagrania w usłudze Microsoft OneDrive dla firm i w programie SharePoint w systemie Microsoft 365 i oferuje wiele korzyści.  
+Aplikacja Microsoft Teams oferuje nową metodę zapisywania nagrań spotkań. Jako pierwsza faza przejścia z klasycznej usługi Microsoft Stream do nowego strumienia [ta](https://docs.microsoft.com/stream/streamnew/new-stream)metoda przechowuje nagrania w usługach Microsoft OneDrive dla Firm i SharePoint na platformie Microsoft 365 i oferuje wiele korzyści.  
 
-- [Konfigurowanie opcji rejestrowania spotkań dla usługi OneDrive dla firm i programu SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
-- [Zrezygnuj z usługi OneDrive dla firm i programu SharePoint, aby kontynuować korzystanie ze strumienia](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
+- [Konfigurowanie opcji nagrywania spotkania w usłudze OneDrive dla Firm i programie SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
+- [Rezygnacja z usług OneDrive dla Firm i SharePoint w celu kontynuowania korzystania z usługi Stream](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
 - [Często zadawane pytania](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#frequently-asked-questions)

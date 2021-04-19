@@ -1,30 +1,31 @@
 ---
-title: Pomoc dotycząca stron SPFx i składników Web Part
+title: Pomoc na stronach i składników Web Part witryny SPFx
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003014"
 - "5806"
-ms.openlocfilehash: ce8842f1ea52501bde125812d7ed864f71a9e7f1
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 168cf7c9fbe2d1ce6c0463092770719cdc63d45c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44569787"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811538"
 ---
-# <a name="help-with-spfx-pages-and-web-parts"></a>Pomoc dotycząca stron SPFx i składników Web Part
+# <a name="help-with-spfx-pages-and-web-parts"></a>Pomoc na stronach i składników Web Part witryny SPFx
 
-SpFx jest obsługiwany tylko za pośrednictwem pomocy technicznej dla deweloperów firmy Microsoft. Zespół produktów programu SharePoint odpowiada społeczności deweloperów w kilku kanałach.
+Witryna SPFx jest obsługiwana tylko przez pomoc techniczną firmy Microsoft dla deweloperów. Zespół produktu SharePoint odpowiada społeczności deweloperów w kilku kanałach.
 
-- [Pytania dotyczące programowania](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions) można przesyłać do **gitHub sp-dev-docs** lub **Stack Overflow**.
-- [Błędy dokumentacji](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) można przesyłać do **GitHub**.
-- [Przykładowe błędy aplikacji](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) można przesłać do **gitHub**.
-- [Żądania funkcji](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests) można przesyłać do UserVoice.
+- [Pytania dotyczące](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions) programowania można przesłać do **gitHub sp-dev-docs** lub **Stack Overflow.**
+- [Usterki dokumentacji](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) można przesłać do **usługi GitHub.**
+- [Do usługi](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) GitHub można przesłać przykładowe usterki **aplikacji.**
+- [Żądania dotyczące funkcji](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests)  można przesłać do uservoice.
 
-Aby uzyskać więcej zasobów dla deweloperów, zobacz [Pomoc techniczna & opinie](https://docs.microsoft.com/sharepoint/dev/support-feedback)
+Aby uzyskać więcej zasobów dla deweloperów, zobacz  [Pomoc & opinie](https://docs.microsoft.com/sharepoint/dev/support-feedback)

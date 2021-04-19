@@ -1,23 +1,24 @@
 ---
-title: Brak konsoli wybierania numerów w zespołach
+title: Brakująca tarcza numeryczna w uciekającym się w uciekającym
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000719"
 - "5707"
-ms.openlocfilehash: 098dd889747fadcd404935c022bf1e75a283955a
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 86a642db6ec0a81f91ad07240c90cc116aa970ff
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358072"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815292"
 ---
-# <a name="dial-pad-missing-from-teams"></a>Brak konsoli wybierania numerów w zespołach
+# <a name="dial-pad-missing-from-teams"></a>Brakująca tarcza numeryczna w uciekającym się w uciekającym
 
-Nie możesz znaleźć konsoli wybierania numerów w aplikacji Teams? Sprawdź [tutaj,](https://docs.microsoft.com/alchemyinsights/teams-voice-dial-pad-missing) aby uzyskać więcej informacji.
+Nie możesz znaleźć padu wybierania numerów w programie Teams? Aby [uzyskać więcej informacji,](https://docs.microsoft.com/alchemyinsights/teams-voice-dial-pad-missing) zapoznaj się z tym tym miejscu.
