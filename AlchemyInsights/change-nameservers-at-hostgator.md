@@ -1,26 +1,27 @@
 ---
-title: Zmienianie serwerów nazw w Hostgator
+title: Zmienianie serwerów nazw w hostingu Hostgator
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5861"
 - "14"
-ms.openlocfilehash: 4258058220fd5e79242aa762339a830aff5ef3b6
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 0f77e14c7ca729370075f33e692461a15b1b4964
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44748995"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818766"
 ---
-# <a name="change-nameservers-at-hostgator"></a><span data-ttu-id="8c47c-102">Zmienianie serwerów nazw w Hostgator</span><span class="sxs-lookup"><span data-stu-id="8c47c-102">Change nameservers at Hostgator</span></span>
+# <a name="change-nameservers-at-hostgator"></a><span data-ttu-id="ddd94-102">Zmienianie serwerów nazw w hostingu Hostgator</span><span class="sxs-lookup"><span data-stu-id="ddd94-102">Change nameservers at Hostgator</span></span>
 
-[<span data-ttu-id="8c47c-103">Zmienianie serwerów nazw w celu skonfigurowania usługi Microsoft 365 za pomocą hostgatora</span><span class="sxs-lookup"><span data-stu-id="8c47c-103">Change nameservers to setup Microsoft 365 with Hostgator</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-hostgator?view=o365-worldwide)
+[<span data-ttu-id="ddd94-103">Zmienianie serwerów nazw w celu konfigurowania platformy Microsoft 365 u hosta Hostgator</span><span class="sxs-lookup"><span data-stu-id="ddd94-103">Change nameservers to setup Microsoft 365 with Hostgator</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-hostgator?view=o365-worldwide)
 
-[<span data-ttu-id="8c47c-104">W przypadku innych problemów z domenami wypróbuj często zadawane pytania dotyczące domen</span><span class="sxs-lookup"><span data-stu-id="8c47c-104">For other domains issues try the Domains FAQ</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)
+[<span data-ttu-id="ddd94-104">Aby rozwiązać inne problemy z domenami, zobacz Często zadawane pytania dotyczące domen</span><span class="sxs-lookup"><span data-stu-id="ddd94-104">For other domains issues try the Domains FAQ</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)
