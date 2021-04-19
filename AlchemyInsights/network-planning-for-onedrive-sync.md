@@ -1,8 +1,8 @@
 ---
-title: Planowanie wykorzystania sieci dla aplikacji do synchronizacji usługi OneDrive
+title: Planowanie użycia sieci dla aplikacji do synchronizacji usługi OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5838"
-ms.openlocfilehash: 2e70dfa85ce2647689f9057c8bf7ef4fd5c031f6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: a567339dcabc4df9428d36ef78fd151cd05ea7c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803219"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51791998"
 ---
-# <a name="network-utilization-planning-for-the-onedrive-sync-app"></a>Planowanie wykorzystania sieci dla aplikacji do synchronizacji usługi OneDrive
+# <a name="network-utilization-planning-for-the-onedrive-sync-app"></a>Planowanie użycia sieci dla aplikacji do synchronizacji usługi OneDrive
 
-Ten artykuł jest przeznaczony dla administratorów IT dotyczących wdrażania aplikacji do synchronizacji usługi OneDrive i chcący oszacować, że użytkownicy będą musieli przeprowadzić synchronizację.  
+Ten artykuł jest dla administratorów IT planujących wdrożenie aplikacji do synchronizacji usługi OneDrive i chcących oszacować przepustowość sieci, która będzie potrzebna użytkownikom do synchronizacji.  
 
-- [Planowanie wykorzystania sieci dla aplikacji do synchronizacji usługi OneDrive](https://docs.microsoft.com/onedrive/network-utilization-planning)
+- [Planowanie użycia sieci dla aplikacji do synchronizacji usługi OneDrive](https://docs.microsoft.com/onedrive/network-utilization-planning)
