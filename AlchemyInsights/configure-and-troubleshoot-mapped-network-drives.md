@@ -1,25 +1,26 @@
 ---
-title: Konfigurowanie i rozwiązywanie problemów z mapowanymi dyskami sieciowymi
+title: Konfigurowanie mapowanych dysków sieciowych i rozwiązywanie dotyczących ich problemów
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5300002"
 - "3180"
-ms.openlocfilehash: 386f4677a9d2fdabdea3f39ce3096f9cd6ccfec6
-ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
+ms.openlocfilehash: a47ee5cc3f8599c850e59e46c0f636715f1d12bc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44493243"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817182"
 ---
-# <a name="configure-and-troubleshoot-mapped-network-drives"></a>Konfigurowanie i rozwiązywanie problemów z mapowanymi dyskami sieciowymi
+# <a name="configure-and-troubleshoot-mapped-network-drives"></a>Konfigurowanie mapowanych dysków sieciowych i rozwiązywanie dotyczących ich problemów
 
-Mapowanie biblioteki jako dysku sieciowego jest tymczasowe i obsługiwane tylko za pośrednictwem programu Internet Explorer. Zamiast tego [należy zsynchronizować pliki programu SharePoint z nowym klientem synchronizacji usługi OneDrive,](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88)który udostępnia [pliki na żądanie](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e). Uzyskaj dostęp do wszystkich plików w usłudze OneDrive bez korzystania z lokalnego miejsca do magazynowania.
+Mapowanie biblioteki jako dysku sieciowego jest tymczasowe i obsługiwane tylko za pośrednictwem programu Internet Explorer. Zamiast tego [synchronizuj pliki programu SharePoint za pomocą](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88)nowego klienta synchronizacji OneDrive, który [udostępnia usługę Pliki na żądanie.](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e) Dostęp do wszystkich plików w usłudze OneDrive bez używania miejsca do magazynowania lokalnego.
 
-- [Rozwiązywanie problemów z mapowanymi dyskami sieciowymi łączącymi się z usługą SharePoint Online](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
+- [Rozwiązywanie problemów z zamapowanych dysków sieciowych, które łączą się z usługą SharePoint Online](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)

@@ -1,24 +1,25 @@
 ---
-title: Powiadomienie „Subskrypcja wygasła” w aplikacjach pakietu Office
+title: Powiadomienie o wygaśnięciu subskrypcji w aplikacjach platformy Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 466f164e5010476ff67d2b2bdbb1e802351795cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789276"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823581"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>Powiadomienie „Subskrypcja wygasła” w aplikacjach pakietu Office
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Powiadomienie "Subskrypcja wygasła" w aplikacjach platformy Microsoft 365
 
 - Sprawdź [stronę kondycji](https://docs.microsoft.com/office365/enterprise/view-service-health), aby zobaczyć, czy wymieniono na niej znane problemy z usługą.
 
@@ -30,7 +31,7 @@ ms.locfileid: "43789276"
 
 - Uruchom [narzędzie do rozwiązywania problemów z aktywacją](https://aka.ms/SARA-OfficeActivation-Alchemy) i uruchom ponownie komputer.
 
-- [Zresetuj stan aktywacji pakietu Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632) na komputerze, którego dotyczy problem,
+- [Zresetuj stan aktywacji pakietu Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state) na komputerze, którego dotyczy problem,
 
 Szczegółowe instrukcje znajdziesz tutaj: 
 

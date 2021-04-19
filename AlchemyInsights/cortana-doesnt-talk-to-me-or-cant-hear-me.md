@@ -1,40 +1,41 @@
 ---
-title: Cortana nie rozmawia ze mną lub mnie nie słyszy
+title: Cortana ze mną nie rozmawia lub nie słyszy mnie
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002960"
 - "5662"
-ms.openlocfilehash: f8dcd2899cad4dfd0ecc67eea6a915d2a6182982
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
+ms.openlocfilehash: c37ab73efcb39e9615397b3e84cb6e02efc0e4cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44357761"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816534"
 ---
-# <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana nie rozmawia ze mną lub mnie nie słyszy
+# <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana ze mną nie rozmawia lub nie słyszy mnie
 
-Jeśli próbujesz skorzystać z funkcji "Hey Cortana", która umożliwia rozmowę z Cortaną bez wybierania przycisku Cortana na pasku zadań lub przycisku mikrofonu w panelu Cortana, potwierdź, że funkcja jest włączona:
+Jeśli próbujesz korzystać z funkcji "Hej, Cortana", która pozwala rozmawiać z Cortaną bez wybierania przycisku Cortana na pasku zadań lub przycisku mikrofonu w panelu Cortany, upewnij się, że ta funkcja jest włączona:
 
-1. Przejdź do **ekranu startowego**, a następnie wybierz **[pozycję Ustawienia > Cortanie](ms-settings:cortana?activationSource=GetHelp)**.
-2. W **obszarze Hey Cortana**przełącz przełącznik **"Hey Cortana" na** **On**.
+1. Przejdź do **menu Start**, a następnie wybierz pozycję Ustawienia **[> Cortana](ms-settings:cortana?activationSource=GetHelp)**.
+2. W **obszarze Hej, Cortana** włącz przełącznik Ze pozwalaj Cortanie odpowiadać na **"Hej, Cortana"** w **obszarze Hej, Cortana**.
 
-![Hej Cortana](media/hey-cortana.png)
+![Hej, Cortana](media/hey-cortana.png)
 
-**Czy ustawienia prywatności uniemożliwiają Cortanie słyszenie?**
+**Czy Twoje ustawienia prywatności uniemożliwiają Cortanie słyszenie Ciebie?**
 
-Ustawienia prywatności mogą uniemożliwić Cortanie odpowiadanie na Twój głos.
-- Sprawdź, czy rozpoznawanie mowy online jest włączone:
-    - Przejdź do **ekranu startowego,** a następnie kliknij pozycję **[Ustawienia > Prywatność > mowa](ms-settings:privacy-speech?activationSource=GetHelp)**.
-    - W obszarze **Rozpoznawanie mowy online**przełącz ustawienie **Na wł.**
-- Upewnij się, że Cortana ma uprawnienia dostępu do mikrofonu. 
-    - Przejdź do ekranu startowego, a następnie kliknij pozycję **[Ustawienia > mikrofon > prywatności](ms-settings:privacy-microphone?activationSource=GetHelp)**.
-    - W **obszarze Wybierz aplikacje, które mogą uzyskać dostęp do mikrofonu**, poszukaj **Cortany** na liście aplikacji i usług i upewnij się, że przełącznik jest włączony **.**
+Twoje ustawienia prywatności mogą uniemożliwić Cortanie odpowiadanie na Twój głos.
+- Upewnij się, że jest włączone rozpoznawanie mowy w trybie online:
+    - Przejdź do **menu Start**, a następnie kliknij pozycję Ustawienia **[> prywatność > mowy.](ms-settings:privacy-speech?activationSource=GetHelp)**
+    - W **obszarze Rozpoznawanie mowy online** przełącz ustawienie na **Wł.**.
+- Sprawdź, czy Cortana ma uprawnienia dostępu do mikrofonu. 
+    - Przejdź do menu Start, a następnie kliknij **[pozycję Ustawienia > Prywatność > Mikrofon](ms-settings:privacy-microphone?activationSource=GetHelp)**.
+    - W **obszarze Wybierz, które** aplikacje mogą uzyskać dostęp do mikrofonu, odszukaj **Cortanę** na liście aplikacji i usług i upewnij się, że przełącznik jest **włączony .**
 
-Co więcej, upewnij się również, że głośniki lub mikrofony są w górze i działają, aby porozmawiać z Cortaną.
+Ponadto upewnij się, że głośniki lub mikrofony działają i działają, aby porozmawiać z Cortaną.

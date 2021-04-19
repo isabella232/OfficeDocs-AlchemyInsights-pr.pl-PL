@@ -2,24 +2,25 @@
 title: Sterowanie dostępem z poziomu urządzeń niezarządzanych
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5711"
-ms.openlocfilehash: 3a354f432c7742ba829759edb83ae66bb1326939
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: 9341a580f67c5a9724814036a8f2b62fbb43b21d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44357977"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816786"
 ---
 # <a name="control-access-from-unmanaged-devices"></a>Sterowanie dostępem z poziomu urządzeń niezarządzanych
 
-Jako administrator programu SharePoint lub administrator globalny w usłudze Microsoft 365 możesz blokować lub ograniczać dostęp do zawartości programu SharePoint i OneDrive z urządzeń niezarządzanych.
+Jako administrator programu SharePoint lub administrator globalny na platformie Microsoft 365, możesz zablokować lub ograniczyć dostęp do zawartości programu SharePoint i usługi OneDrive z urządzeń nieza zarządzania.
 
 - [Sterowanie dostępem z poziomu urządzeń niezarządzanych](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)

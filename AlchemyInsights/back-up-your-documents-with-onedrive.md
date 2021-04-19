@@ -1,25 +1,26 @@
 ---
-title: "3."
+title: Kopię zapasową folderów Dokumenty, Obrazy i Pulpit w usłudze OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003078"
 - "5853"
-ms.openlocfilehash: 9c092f729bbd36f5b34aa983edb2d18583e4a04c
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: 059432ade8db04355261e4611fc59d450d625ef3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708493"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820656"
 ---
-# <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>3.
+# <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>Kopię zapasową folderów Dokumenty, Obrazy i Pulpit w usłudze OneDrive
 
-Tworzenie [kopii zapasowych ważnych folderów (folderów](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057) Pulpit, Dokumenty i Obrazy) na komputerze z systemem Windows za pomocą kopii zapasowej folderów oneDrive PC, dzięki czemu są one chronione i dostępne na innych urządzeniach. Ta funkcja nie jest jeszcze dostępna dla komputerów Mac.  
+Możesz [tworzyć kopie](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057)  zapasowe ważnych folderów (folderów Pulpit, Dokumenty i Obrazy) na komputerze z systemem Windows, kopię zapasową folderów komputera z usługą OneDrive, aby były chronione i dostępne na innych urządzeniach. Ta funkcja nie jest jeszcze dostępna dla komputerów Mac.  
 
-Jeśli jesteś administratorem IT, który chce zarządzać tworzeniem kopii zapasowych ważnych folderów dla organizacji, dostępne są wskazówki dotyczące [przenoszenia folderów znanych w usłudze OneDrive](https://docs.microsoft.com/onedrive/redirect-known-folders).
+Jeśli jesteś administratorem IT i chcesz zarządzać kopią zapasową ważnych folderów dla organizacji, możesz uzyskać wskazówki dotyczące przenoszenia znanego folderu w usłudze [OneDrive.](https://docs.microsoft.com/onedrive/redirect-known-folders)

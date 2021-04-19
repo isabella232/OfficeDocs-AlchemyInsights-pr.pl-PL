@@ -2,7 +2,7 @@
 title: Anulowanie subskrypcji przez właściciela
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6838"
-ms.openlocfilehash: 9078c61f693294973f820e94bcea798dd319c34d
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 2a96aacb9def733451ffebc247b2e8c3967e7fa1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088895"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819810"
 ---
 # <a name="cancellation-of-a-subscription-by-owner"></a>Anulowanie subskrypcji przez właściciela
 
-Subskrypcję platformy Azure można anulować w portalu Azure tylko wtedy, gdy jesteś właścicielem abonamentu. Jeśli nie potrzebujesz już abonamentu, postępuj zgodnie z poniższymi instrukcjami.
+Subskrypcję usługi Azure możesz anulować w portalu Azure Portal tylko wtedy, gdy jesteś właścicielem subskrypcji. Jeśli nie potrzebujesz już subskrypcji, wykonaj poniższe czynności.
 
-1. Wybierz subskrypcję, którą chcesz anulować, ze [strony subskrypcje w portalu Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
-2. Wybierz pozycję **Omówienie**, a następnie wybierz pozycję **Anuluj subskrypcję**.
+1. Na stronie Subskrypcje w portalu Azure Portal wybierz subskrypcję, którą chcesz [anulować.](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)
+2. Wybierz opcję **Omówienie**, a następnie wybierz pozycję **Anuluj subskrypcję**.
 
 **Co się stanie po anulowaniu subskrypcji?**
 
-Po anulowaniu subskrypcji rozliczenia zostaną natychmiast zatrzymane. Może jednak upłynąć nawet do 10 minut, aż anulowanie będzie widoczne w portalu. Jeśli anulujesz w połowie okresu rozliczeniowego, wyślemy końcową fakturę na podstawie typowej daty faktury po zakończeniu okresu.
+Po anulowaniu subskrypcji rozliczenia są natychmiast zatrzymywane. Jednak anulowanie może pojawić się w portalu do 10 minut. Jeśli anulujesz subskrypcję w trakcie okresu rozliczeniowego, wyślemy fakturę w ustalonym dniu na wysyłkę faktury, po zakończeniu okresu.
 
-Po anulowaniu subskrypcji firma Microsoft czeka na 30-90 dni przed trwałym usunięciem danych, na wypadek, gdyby trzeba było uzyskać do niego dostęp lub zmienić zdanie. Nie naliczamy opłat za zachowywanie danych. Aby dowiedzieć się więcej, zobacz [Centrum zaufania Microsoft — sposób zarządzania danymi](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Po anulowaniu subskrypcji firma Microsoft czeka 30–90 dni przed trwałym usunięciem danych na wypadek, gdy trzeba będzie uzyskać do nich dostęp lub zmienisz zdanie. Nie pobieramy opłat za przechowywanie danych. Aby dowiedzieć się więcej, zobacz [Centrum zaufania Microsoft – Jak zarządzamy Twoimi danymi](https://www.microsoft.com/trust-center/privacy/data-management#leave).
 
 

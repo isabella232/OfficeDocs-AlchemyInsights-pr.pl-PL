@@ -1,32 +1,33 @@
 ---
-title: Zmienianie adresu e-mail grupy usługi Microsoft 365
+title: Zmienianie adresu e-mail grupy platformy Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: 32968f085a4e9d49f60ef88e4e78bf6c67629556
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
-ms.translationtype: HT
+ms.openlocfilehash: 8eaafae8650a8072cdfbec281afe6d5e93fea655
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580667"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819054"
 ---
-# <a name="change-email-address-of-a-microsoft-365-group"></a>Zmienianie adresu e-mail grupy usługi Microsoft 365
+# <a name="change-email-address-of-a-microsoft-365-group"></a>Zmienianie adresu e-mail grupy platformy Microsoft 365
 
-Adres e-mail grupy usługi Microsoft 365 można zmienić za pomocą centrum administracyjnego. Wystarczy wybrać grupę i wybrać @edit adres e-mail.
+Za pomocą centrum administracyjnego możesz zmienić adres e-mail grupy usługi Microsoft 365. Po prostu zaznacz grupę, a następnie wybierz pozycję @edytuj adres e-mail.
 
-Można również użyć następującego polecenia EXO PowerShell, aby zmienić podstawowy adres SMTP grupy microsoft 365:
+Podstawowy adres SMTP grupy platformy Microsoft 365 można również zmienić za pomocą polecenia PROGRAMU EXO PowerShell:
 
-Set-UnifiedGroup <Group Name> -PrimarySmtpAddress<new SMTP Address>
+Set-UnifiedGroup <Group Name> -PrimarySmtpAddress <new SMTP Address>
 
-Przykład:
+Przykład: 
 
 ```
     Set-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com

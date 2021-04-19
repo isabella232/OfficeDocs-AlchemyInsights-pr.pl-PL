@@ -1,30 +1,31 @@
 ---
-title: Błąd logowania zespołów adresowania AADSTS9000411
+title: Adresowanie błędu logowania do zespołów AADSTS9000411
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000744"
 - "5689"
-ms.openlocfilehash: b70f1320ea1dfa29e6fa489bd02acfcd1d92971b
-ms.sourcegitcommit: 88d2918aa51f4ba10771527380c3e0db0f5a9147
+ms.openlocfilehash: 7b0e90e3fea716df649ec906ad8b3008386684be
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357874"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821997"
 ---
-# <a name="addressing-teams-sign-in-error-aadsts9000411"></a>Błąd logowania zespołów adresowania AADSTS9000411
+# <a name="addressing-teams-sign-in-error-aadsts9000411"></a>Adresowanie błędu logowania do zespołów AADSTS9000411
 
-Podczas logowania się do usługi Microsoft Teams może pojawić się błąd: **Przepraszamy, ale mamy problemy z podpisywaniem Cię w Usłudze AADSTS9000411: Żądanie nie jest poprawnie sformatowane. Parametr "login_hint" jest duplikowany.**
+Podczas logowania się do aplikacji Microsoft Teams może zostać wyświetlony komunikat o błędzie: Niestety, ale mamy problem z zalogowaniem Cię do **AADSTS9000411: Żądanie nie jest poprawnie sformatowane. Parametr "login_hint" został zduplikowany.**
 
-Aby rozwiązać ten problem, upewnij się, że klienci usługi Microsoft Teams są aktualizowani. Aby uzyskać więcej informacji na temat aktualizowania klienta, zobacz [Aktualizowanie usługi Microsoft Teams](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
+Aby rozwiązać ten problem, upewnij się, że Twoi klienci aplikacji Microsoft Teams są zaktualizowani. Aby uzyskać więcej informacji na temat aktualizowania klienta, zobacz [Aktualizowanie aplikacji Microsoft Teams.](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1)
 
-Jeśli nie można zaktualizować klienta z jakiegoś powodu, wylogowanie klienta spowoduje wyczyszczenie większości danych w pamięci podręcznej. Jeśli jednak nadal występują problemy po wylogowaniu/logowaniu, zamknij program Teams i wyczyść pamięć podręczną klienta, wykonując następujące czynności:
-1. Zamknij usługi Microsoft Teams.
+Jeśli z jakiegoś powodu nie możesz zaktualizować klienta, wylogowanie się z klienta spowoduje wyczyszczenie większości danych buforowanych. Jeśli jednak po zalogowaniu/zalogowaniu nadal masz problemy, zamknij usługę Teams i wyczyść pamięć podręczną klienta, wykonując następujące czynności:
+1. Zamknij usługę Microsoft Teams.
 2. Przejdź do: %appdata%\microsoft\teams i usuń wszystkie pliki.
-3. Ponowne otwarcie usługi Microsoft Teams.
+3. Otwórz ponownie usługę Microsoft Teams.
