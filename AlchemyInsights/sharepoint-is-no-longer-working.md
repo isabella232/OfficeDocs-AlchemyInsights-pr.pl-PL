@@ -1,8 +1,8 @@
 ---
-title: Program SharePoint przestał działać
+title: Program SharePoint nie działa już
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003047"
 - "5801"
-ms.openlocfilehash: 8477e59e72ce7874ae805c21a971f431389574e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 42e8cab99f21b55ce463ac431df1e17b22f9460c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800762"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826641"
 ---
-# <a name="sharepoint-is-no-longer-working"></a>Program SharePoint przestał działać
+# <a name="sharepoint-is-no-longer-working"></a>Program SharePoint nie działa już
 
 Istnieje kilka powodów, dla których program SharePoint może już nie działać.
 
-1. Główna witryna programu SharePoint została usunięta i wymaga przywrócenia. Aby uzyskać więcej informacji, zobacz [usuwanie witryny głównej programu SharePoint](https://docs.microsoft.com/sharepoint/troubleshoot/sites/url-that-resides-under-root-site-collection-is-broken).
-2. Uprawnienia mogły zostać zmienione lub usunięte. Aby uzyskać więcej informacji, zobacz [nie można uzyskać dostępu do usługi SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible).
-3. Być może wystąpił problem z kondycją usługi w programie SharePoint. Aby uzyskać więcej informacji, zobacz [pulpit nawigacyjny kondycji usługi](https://admin.microsoft.com/AdminPortal/Home#/servicehealth).
-4. Problemy z przeglądarką mogą uniemożliwiać użytkownikom otwieranie programu SharePoint. Poproś użytkowników o wypróbowanie trybu prywatnego przeglądarki i zaloguj się ponownie do programu SharePoint.
+1. W programie SharePoint może wystąpić problem z kondycją usługi. Aby uzyskać więcej informacji, zobacz [Pulpit nawigacyjny kondycji usługi.](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)
+2. Uprawnienia mogą zostać zmienione lub usunięte. Aby uzyskać więcej informacji, zobacz [Nie można uzyskać dostępu do usługi SharePoint Online.](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
+3. Problemy z przeglądarką mogą uniemożliwiać użytkownikom otwieranie programu SharePoint. Poproś użytkowników o wypróbowanie trybu prywatnego w przeglądarce i zalogowanie się z powrotem do programu SharePoint.

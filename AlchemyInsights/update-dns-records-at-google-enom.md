@@ -1,26 +1,27 @@
 ---
-title: Aktualizowanie rekordów DNS w Google (eNom)
+title: Aktualizowanie rekordów DNS w witrynie Google (eNom)
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5821"
-ms.openlocfilehash: a680c4822d50588110e2f248a847158bc53a04b9
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: ae76d919bf1a0285e31d53e87219a0a204bb42e9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708117"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827586"
 ---
-# <a name="update-dns-records-at-google-enom"></a>Aktualizowanie rekordów DNS w Google (eNom)
+# <a name="update-dns-records-at-google-enom"></a>Aktualizowanie rekordów DNS w witrynie Google (eNom)
 
-Skorzystaj z poniższych łączy, aby zaktualizować rekordy DNS.
+Użyj poniższych linków, aby zaktualizować rekordy DNS.
 
-- [Tworzenie rekordów DNS w Google (eNom](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-for-domain-managed-by-google-enom?view=o365-worldwide)
+- [Tworzenie rekordów DNS w witrynie Google (eNom)](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-for-domain-managed-by-google-enom?view=o365-worldwide)
 - [Dodawanie i edytowanie niestandardowych rekordów DNS w usłudze Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)

@@ -1,24 +1,25 @@
 ---
-title: Komunikat aplikacji pakietu Office — Produkty odnalezione na koncie nie mogą posłużyć do aktywacji
+title: Komunikat aplikacji Platformy Microsoft 365 — produktów znalezionych na koncie nie można użyć do aktywacji
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
-ms.translationtype: HT
+ms.openlocfilehash: 6b44c63c3e56b5c748e4d4d4d5bb54a74c32561c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010741"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832932"
 ---
-# <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Komunikat aplikacji pakietu Office — Produkty odnalezione na koncie nie mogą posłużyć do aktywacji
+# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Komunikat aplikacji Platformy Microsoft 365 — produktów znalezionych na koncie nie można użyć do aktywacji
 
 - Sprawdź, czy [stan subskrypcji](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) jest prawidłowy i czy użytkownik, którego dotyczy problem, ma [przypisaną prawidłową licencję](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) i połączenie z Internetem. 
 
@@ -26,7 +27,7 @@ ms.locfileid: "44010741"
 
 - Uruchom [narzędzie do rozwiązywania problemów z aktywacją](https://aka.ms/SARA-OfficeActivation-Alchemy) i uruchom ponownie komputer.
 
-- Na komputerze, którego dotyczy problem, [zresetuj stan aktywacji pakietu Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Na komputerze, którego dotyczy problem, [zresetuj stan aktywacji pakietu Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 W przypadku scenariuszy z komputerem współużytkowanym zobacz [Rozwiązywanie problemów z aktywacją na komputerze współużytkowanym w przypadku aplikacji platformy Microsoft 365](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
 

@@ -1,24 +1,25 @@
 ---
-title: Wiadomość aplikacji pakietu Office — inne konto w Twojej organizacji jest już zalogowane
+title: Komunikat aplikacji platformy Microsoft 365 — niestety, inne konto z Twojej organizacji jest już zalogowane
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 5c5dfd24ccb3e31ce56db8be4f4aebcf60bfcb69
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
-ms.translationtype: HT
+ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182923"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836253"
 ---
-# <a name="office-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Wiadomość aplikacji pakietu Office — inne konto w Twojej organizacji jest już zalogowane
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Komunikat aplikacji platformy Microsoft 365 — niestety, inne konto z Twojej organizacji jest już zalogowane
 
 Aby naprawić ten błąd, wypróbuj poniższe rozwiązania:
 
@@ -31,6 +32,8 @@ Aby naprawić ten błąd, wypróbuj poniższe rozwiązania:
 - Kliknij ikonę **+**, aby dodać lub połączyć konto. Wprowadź dane logowania i zaczekaj na zakończenie procesu.
 
 - W razie potrzeby uruchom ponownie aplikację pakietu Office i zaloguj się. 
+
+**Porada** Na komputerach z systemem Windows możemy diagnozować i automatycznie rozwiązywać wiele typowych problemów z logowaniem do pakietu Office. Pobierz i uruchom  **[Asystenta odzyskiwania i pomocy technicznej dla usługi Office 365](https://aka.ms/SaRA-OfficeSignInScenario)**, aby skorzystać z naszego zautomatyzowanego narzędzia.
 
 Jeśli problem będzie nadal występował, spróbuj wykonać następujące czynności: 
 

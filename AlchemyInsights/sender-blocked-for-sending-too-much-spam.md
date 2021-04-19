@@ -1,10 +1,12 @@
 ---
-title: Nadawca zablokowany z powodu wysyłania zbyt dużej ilości spamu
+title: Nadawca ograniczony do wysyłania zbyt dużej spamu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+manager: scotv
+ms.date: 04/14/2021
+audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,15 +14,17 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ab49df06697f45e23e80e18b56257c45140722aa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: a35c235efc4571d465c6d6a375866e6570152164
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709165"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829530"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>Konto jest zablokowane z powodu wysyłania zbyt dużej ilości spamu
+# <a name="account-is-restricted-for-sending-too-much-spam"></a>Ograniczenie dotyczące konta w przypadku wysyłania zbyt dużej spamu
 
-Jeżeli jednemu z Twoich użytkowników zablokowano możliwość wysyłania wiadomości e-mail, jako administrator możesz [samodzielnie odblokować konto](https://protection.office.com/?hash=/restrictedusers) **bez otwierania zgłoszenia do pomocy technicznej**. Użytkownik będzie mógł wysyłać wiadomości e-mail w ciągu godziny od usunięcia blokady.
+**Uwaga** Dostęp do centrum zabezpieczeń platformy Microsoft 365 można uzyskać na stronie [https://security.microsoft.com](https://security.microsoft.com) .
 
-Usługa zapobiega wysyłaniu wiadomości e-mail przez użytkownika po wykryciu dowodów na złamanie zabezpieczeń konta i/lub odnotowanie wychodzącego spamu. Dla bezpieczeństwa wykonaj czynności opisane w sekcji [Reagowanie na naruszenie konta e-mail](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) dotyczące użytkownika.
+Jeżeli jednemu z Twoich użytkowników zablokowano możliwość wysyłania wiadomości e-mail, jako administrator możesz [samodzielnie odblokować konto](https://security.microsoft.com/?hash=/restrictedusers) **bez otwierania zgłoszenia do pomocy technicznej**. Użytkownik będzie mógł wysyłać wiadomości e-mail w ciągu godziny od usunięcia blokady.
+
+Usługa zapobiega wysyłaniu wiadomości e-mail przez użytkownika po wykryciu dowodów na złamanie zabezpieczeń konta i/lub odnotowanie wychodzącego spamu. Dla bezpieczeństwa wykonaj czynności opisane w sekcji [Reagowanie na naruszenie konta e-mail](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) dotyczące użytkownika.

@@ -2,26 +2,27 @@
 title: Odzyskiwanie usuniętych elementów za pomocą polecenia cmdlet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5718"
-ms.openlocfilehash: 86744d92a44096991079d1da3bdf4e95e58c55b7
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
+ms.openlocfilehash: d8f2a50f39d7bcd321692ab093e2efa6613e9814
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493166"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835821"
 ---
 # <a name="recover-deleted-items-with-cmdlet"></a>Odzyskiwanie usuniętych elementów za pomocą polecenia cmdlet
 
-- Polecenie cmdlet [Get-RecoverAbleItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) służy do wyświetlania usuniętych elementów w skrzynkach pocztowych. Po znalezieniu usuniętych elementów, należy użyć polecenia cmdlet [Restore-RecoverItems,](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) aby je przywrócić.
+- Aby wyświetlić usunięte elementy w skrzynkach pocztowych, użyj polecenia cmdlet [Get-RecoverableItems.](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) Po odnalezieniu usuniętych elementów użyj polecenia cmdlet [Restore-RecoverableItems,](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) aby je przywrócić.
 
-- Zobacz szczegółowe informacje w [get-recoverableitems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
+- Szczegółowe informacje znajdziesz w [tece Get-RecoverableItems.](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps)
 
-- Aby można było uruchomić to polecenie cmdlet, należy przypisać rolę Eksportuj skrzynkę pocztową. Aby uzyskać więcej [informacji, zobacz Get-RecoverableItems.](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps)
+- Aby można było uruchomić to polecenie cmdlet, musisz mieć przypisaną rolę importowania i eksportowania skrzynek pocztowych. Aby uzyskać więcej informacji, zobacz [Get-RecoverableItems.](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps)

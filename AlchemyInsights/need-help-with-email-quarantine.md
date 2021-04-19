@@ -1,26 +1,27 @@
 ---
-title: Potrzebujesz pomocy w zakresie kwarantanny poczty e-mail?
+title: Potrzebujesz pomocy dotyczącej kwarantanny poczty e-mail?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: 24a836365b03da4f85e6b8f0a24304d4af9efa29
-ms.sourcegitcommit: 43acdecef129bfffc8bbe8ebb08fdd581b238a03
+ms.openlocfilehash: b824e4fe12788848ff09cd7f0c6c5a43563fd5c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44281200"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836325"
 ---
-# <a name="need-help-with-email-quarantine"></a>Potrzebujesz pomocy w zakresie kwarantanny poczty e-mail?
+# <a name="need-help-with-email-quarantine"></a>Potrzebujesz pomocy dotyczącej kwarantanny poczty e-mail?
 
-- Aby **wyświetlić i zwolnić wiadomości e-mail z kwarantanny,** przejdź do [strony Kwarantanna w Centrum zgodności & zabezpieczeń usługi Office 365](https://protection.office.com/quarantine). Szczegółowe instrukcje są [tutaj](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages).
-- Jeśli wiadomość została **błędnie poddana kwarantannie (fałszywie dodatnia),** kliknij "Zgłoś wiadomości do firmy Microsoft do analizy" po znalezieniu wiadomości na stronie Kwarantanna. 
-- Znajdź **przyczynę, dla którego wiadomość została poddana kwarantannie** w polu "przyczyna kwarantanny".
-- **Brakuje e-maili w kwarantannie?** Niektóre wiadomości e-mail poddane kwarantannie nie mogą zostać wydane przez użytkowników końcowych. Są to prawdopodobnie wiadomości, które zostały sklasyfikowane jako wiadomości e-mail wyłudzające informacje o wysokim poziomie zaufania, złośliwe oprogramowanie lub akcja transportowa. Administratorzy mogą [wyświetlać, zwalniać lub usuwać te wiadomości](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide). 
+- Aby **wyświetlić i zwolnić wiadomości e-mail z kwarantanny,** przejdź do strony Kwarantanna w Centrum zabezpieczeń & zgodności usługi Office [365.](https://protection.office.com/quarantine) Szczegółowe instrukcje znajdują [się tutaj.](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages)
+- Jeśli wiadomość została błędnie poddana kwarantannie (wynik fałszywie **dodatni),** kliknij pozycję "Zgłoś wiadomości do firmy Microsoft do analizy" po znalezieniu tej wiadomości jest zaznaczona na stronie Kwarantanna. 
+- Znajdź **przyczynę kwarantanny wiadomości** w polu "kwarantanna przyczyny".
+- **W kwarantannie brakuje wiadomości e-mail?** Użytkownicy końcowi nie mogą zwalniać niektórych poddanych kwarantannie wiadomości e-mail. Są to prawdopodobnie wiadomości sklasyfikowane jako wiadomości e-mail służące do wyłudzania informacji o wysokiej pewności, złośliwe oprogramowanie lub według akcji transportu. Administratorzy [mogą wyświetlać, zwalniać lub usuwać te wiadomości.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide) 

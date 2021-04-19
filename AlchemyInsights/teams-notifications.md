@@ -2,26 +2,30 @@
 title: Powiadomienia w aplikacji Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002463"
 - "5050"
-ms.openlocfilehash: fd7fdf16dc5c1636b1096ef62604e354e12c784e
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
-ms.translationtype: HT
+ms.openlocfilehash: 281ddc7d729a8749084925b85568d441bf8e7502
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944265"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830988"
 ---
-# <a name="teams-notifications"></a>Powiadomienia w aplikacji Teams
+# <a name="teams-notifications-faq"></a>Powiadomienia aplikacji Teams — często zadawane pytania
 
-W klasycznej aplikacji Teams istnieje wiele sposobów uzyskiwania dostępu do powiadomień i zarządzania nimi. Aby dodatkowo dostosować ustawienia powiadomień, wybierz swój obrazek profilu w prawym górnym rogu aplikacji Teams i przejdź do pozycji **Ustawienia> Powiadomienia o aktywności**. W tym miejscu możesz precyzyjnie dostosować, jakie powiadomienia chcesz otrzymywać i gdzie mają być one wyświetlane. 
 
-W aplikacjach dla systemów iOS i Android naciśnij pozycję **Więcej > Ustawienia > Powiadomienia** w celu dostosowania powiadomień.
+- Powiadomienia są [ustawiane przez użytkowników,](https://support.microsoft.com/office/1cc31834-5fe5-412b-8edb-43fecc78413d)a administratorzy nie mogą zmieniać ustawień powiadomień w imieniu użytkowników. W aplikacji klasycznej Teams wybierz swój obraz profilu w prawym górnym rogu aplikacji Teams, a następnie przejdź do ustawienia>powiadomienia dotyczące aktywności
 
-Aby uzyskać więcej informacji, zobacz [Sześć kwestii dotyczących powiadomień, o których warto wiedzieć](https://support.microsoft.com/pl-PL/office/six-things-to-know-about-notifications-abb62c60-3d15-4968-b86a-42fea9c22cf4) oraz [Zarządzanie powiadomieniami w aplikacji Teams](https://support.office.com/article/manage-notifications-in-teams-1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).
+- [Rozwiązywanie problemów z powiadomieniami dla aplikacji mobilnej Teams.](https://support.microsoft.com/office/6d125ac2-e440-4fab-8e4c-2227a52d460c)
+
+- Możesz otrzymywać powiadomienia na cztery sposoby: za pośrednictwem kanału aktywność, czatu, powiadomień na banerze i wiadomości e-mail. Wiadomość e-mail z nieodebraną aktywnością jest wysyłana, gdy przez określony czas nie masz aktywności w u programie Teams. Aby uzyskać więcej informacji, zobacz [Sześć rzeczy, o których należy](https://support.microsoft.com/office/abb62c60-3d15-4968-b86a-42fea9c22cf4) wiedzieć o powiadomieniach
+
+Aby uzyskać więcej informacji na temat powiadomień w aplikacji Teams, zobacz [Zarządzanie powiadomieniami w aplikacji Teams.](https://support.office.com/article/1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA)
