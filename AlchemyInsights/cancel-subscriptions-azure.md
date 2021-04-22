@@ -3,7 +3,7 @@ title: Anuluj subskrypcję na platformie Azure
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: fcb767f5e981e8e208914a76f3b88f4433e42818
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 83fab49ccafd23352fe28569289a709a198fd402
+ms.sourcegitcommit: 80a36e6447953b3f65e45c05607dbfc585fbf8b0
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819594"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51936164"
 ---
 # <a name="cancel-subscription"></a>Anuluj subskrypcje
 
-Tylko administrator konta lub właściciel prawa do subskrypcji może anulować subskrypcję platformy Azure w witrynie Azure Portal, jeśli subskrypcja nie jest już potrzebna. Wykonaj poniższe kroki.
+Jeśli nie potrzebujesz już subskrypcji platformy Azure, możesz ją anulować w portalu Azure Portal. Subskrypcje platformy Azure mogą zostać anulowane tylko przez administratora konta lub użytkowników z uprawnieniami właściciela subskrypcji.
 
 1. Wybierz swoją subskrypcję na stronie [Subskrypcje w witrynie Azure Portal](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
 2. Wybierz subskrypcję, którą chcesz anulować.
