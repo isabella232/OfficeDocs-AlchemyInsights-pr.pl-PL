@@ -1,5 +1,5 @@
 ---
-title: Zasady przechowywania w centrum administracyjnym programu Exchange nie działają
+title: Zasady przechowywania w Centrum administracyjnym programu Exchange nie działają
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,55 +13,35 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 1fee2361b2dd6e0989d430a17aebb13bd5948578
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740520"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952238"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Zasady przechowywania w centrum administracyjnym programu Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>Zasady przechowywania w Centrum administracyjnym programu Exchange
 
-Jeśli chcesz, aby w przypadku uruchamiania zautomatyzowanej kontroli nad ustawieniami wymienionymi poniżej, wybierz przycisk Wstecz <--u góry tej strony, a następnie wprowadź adres e-mail użytkownika, który ma problemy z zasadami przechowywania.
+Jeśli chcesz, abyśmy uruchamiali automatyczne testy ustawień wymienionych poniżej, wybierz przycisk wstecz < — u góry tej strony, a następnie wprowadź adres e-mail użytkownika, który ma problemy z zasadami przechowywania.
 
- **Problem:** Nowo utworzone lub zaktualizowane zasady przechowywania w centrum administracyjnym programu Exchange nie są stosowane do skrzynek pocztowych ani elementów, które nie są przenoszone do archiwum ani do usuniętej archiwalnej skrzynki pocztowej. 
-  
- **Główne przyczyny:**
-  
-- Może to wynikać z faktu, że **Asystent folderów zarządzanych** nie przetworzył skrzynki pocztowej użytkownika. Asystent folderów zarządzanych próbuje przetwarzać każdą skrzynkę pocztową w organizacji opartą na chmurze raz na siedem dni. Jeśli zmienisz znacznik przechowywania lub zastosowano inne zasady przechowywania do skrzynki pocztowej, możesz poczekać, aż folder zarządzany będzie mógł przetworzyć skrzynkę pocztową, lub uruchomić polecenie cmdlet Start-ManagedFolderAssistant, aby uruchomić Asystenta folderów zarządzanych w celu przetworzenia określonej skrzynki pocztowej. Uruchomienie tego polecenia cmdlet jest przydatne w przypadku testowania lub rozwiązywania problemów dotyczących zasad przechowywania lub ustawień znaczników przechowywania. Aby uzyskać więcej informacji, odwiedź stronę [uruchamianie Asystenta folderów zarządzanych](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
-    
-  - **Rozwiązanie:** Uruchom następujące polecenie, aby uruchomić Asystenta folderów zarządzanych dla określonej skrzynki pocztowej:
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+Jeśli masz problemy z zasadami przechowywania w Centrum administracyjnym programu Exchange, które nie mają zastosowania do skrzynek pocztowych lub elementów, które nie są przenoszące do archiwaowej skrzynki pocztowej, sprawdź następujące kwestie:
 
-- Może to być również możliwe, jeśli w skrzynce pocztowej **włączono** **RetentionHold** . Jeśli skrzynka pocztowa została umieszczona na RetentionHoldie, zasady przechowywania w skrzynce pocztowej nie będą przetwarzane w tym czasie. Aby uzyskać więcej Informaton na temat ustawienia RetentionHold, zobacz: [Blokada przechowywania skrzynek pocztowych](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
-    
-    **Rozwiązać**
-    
-  - Sprawdź stan ustawienia RetentionHold w określonej skrzynce pocztowej w programie [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
-    
-  ```
-  Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
-  ```
+**Główne przyczyny:**
 
-  - Uruchom następujące polecenie, aby **wyłączyć** RetentionHold w określonej skrzynce pocztowej:
-    
-  ```
-  Set-Mailbox -RetentionHoldEnabled $false
-  ```
+- **Asystent folderów zarządzanych** nie przetworzył skrzynki pocztowej użytkownika. Asystent folderów zarządzanych co siedem dni podejmuje próbę przetwarzania każdej skrzynki pocztowej w organizacji opartej na chmurze.
 
-  - Teraz uruchom ponownie Asystenta zarządzanego folderu:
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+  **Rozwiązanie:** Uruchom asystenta folderów zarządzanych.
 
- **Uwaga:** Jeśli skrzynka pocztowa jest mniejsza niż 10 MB, Asystent folderów zarządzanych nie będzie automatycznie przetwarzać skrzynki pocztowej.
+- **W skrzynce pocztowej** **włączono funkcję RetentionHold.** Jeśli skrzynka pocztowa została umieszczona na wartości retentionhold, zasady przechowywania w skrzynce pocztowej nie będą przetwarzane w tym czasie.
+
+  **Rozwiązanie:** Sprawdź stan ustawienia Hold (Przechowywanie) i zaktualizuj je zgodnie z potrzebami. Aby uzyskać szczegółowe informacje, zobacz [Przechowywanie skrzynki pocztowej.](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)
  
-Aby uzyskać więcej informacji na temat zasad przechowywania w centrum administracyjnym programu Exchange, zobacz:
+**Uwaga:** Jeśli skrzynka pocztowa jest mniejsza niż 10 MB, Asystent folderów zarządzanych nie będzie automatycznie przetwarzał tej skrzynki.
+ 
+Aby uzyskać więcej informacji na temat zasad przechowywania w Centrum administracyjnym programu Exchange, zobacz:
+
 - [Tagi przechowywania i zasady przechowywania](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Stosowanie zasad przechowywania do skrzynek pocztowych](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [Dodawanie lub usuwanie znaczników przechowywania](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Jak zidentyfikować typ blokady umieszczanej w skrzynce pocztowej](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
+
+- [Stosowanie zasad przechowywania do skrzynek pocztowych lub](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) [Dodawanie lub usuwanie tagów przechowywania](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+
+- [Jak określić typ hold'a umieszczonego w skrzynce pocztowej](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
