@@ -1,5 +1,5 @@
 ---
-title: Informacje Exchange Server aktualizacji zabezpieczeń
+title: Aktualizacje Exchange Server informacje
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726537"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233472"
 ---
-# <a name="about-exchange-server-security-updates"></a>Informacje Exchange Server aktualizacji zabezpieczeń
+# <a name="about-exchange-server-updates"></a>Aktualizacje Exchange Server informacje
 
-Firma Microsoft wydała serię krytycznych aktualizacji zabezpieczeń dla Exchange Server lokalnych. Wersje serwerów, których dotyczy problem, to wszelkie poziomy aktualizacji Exchange Server 2010, 2013, 2016 i 2019. Nie ma to wpływu na usługę Exchange Online, ale jeśli masz niektóre lokalne serwery programu Exchange z powodu konfiguracji hybrydowej, są one potencjalnie narażone.
+Firma Microsoft zwykle wydaje aktualizacje Exchange Server we wtorek (aktualizacje zabezpieczeń) lub kwartalne (aktualizacje skumulowane). Aby zobaczyć ogłoszenia o najnowszych wydanych aktualizacjach, zobacz blog zespołu Exchange [zespołu.](https://aka.ms/ehlo)
 
-Zobacz poniższe ogłoszenie dotyczące lokalizacji poprawek: Wydano: marzec [2021](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901) r. Exchange Server aktualizacji zabezpieczeń
+- Aby spisować Exchange poczty, użyj [skryptu Exchange Server kondycji (GitHub, użyj najnowszej wersji).](https://aka.ms/ExchangeHealthChecker) Uruchomienie tego skryptu informuje o tym, czy któryś z Twoich serwerów Exchange na serwerach aktualizacji (dotyczy tylko aktualizacji i aktualizacji).
 
-**Ważne uwagi:**
+- Aby zaktualizować do najnowszej [](https://aka.ms/ExchangeUpdateWizard) aktualizacji skumulowanej, przejdź Exchange Kreatora aktualizacji i wybierz obecnie uruchomiona cu oraz docelową skumulowaną aktualizację skumulowaną. Wybierz **pozycję Poinformuj mnie o krokach,** aby uzyskać wskazówki dojazdu dla Twojego środowiska.
 
-W przypadku ręcznego instalowania aktualizacji zapoznaj się z sekcją "Znane problemy" artykułów z bazy wiedzy dotyczących aktualizacji, aby uzyskać ważne informacje. Aktualizacje zabezpieczeń MUSZĄ być uruchamiane z poziomu wiersza polecenia CMD/PowerShell z podwyższonym poziomem uprawnień!
-
-Informacje dotyczące rozwiązywania problemów z [aktualizacjami można znaleźć tutaj.](https://aka.ms/exupdatefaq)
+- Jeśli wystąpią błędy podczas lub po zainstalowaniu aktualizacji pakietu Exchange Server, zobacz Naprawianie nieudanych instalacji programu [Exchange aktualizacjach skumulowanych i zabezpieczeń.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)

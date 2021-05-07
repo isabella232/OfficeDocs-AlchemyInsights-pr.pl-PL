@@ -1,5 +1,5 @@
 ---
-title: Trwa Tworzenie skrzynki pocztowej użytkownika
+title: Skrzynka pocztowa użytkownika jest tworzona
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -11,15 +11,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 5e4903019f4ab1ec478ec8fb13bcfc6f4ed9f884
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ac93b93639a518a66d45f644bbd80a61c23c62
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796262"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261818"
 ---
-# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Tworzenie skrzynki pocztowej użytkownika zajmuje dużo czasu
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Tworzenie skrzynek pocztowych użytkowników trwa długo
 
-Zanim nowa skrzynka pocztowa będzie gotowa do użycia, może upłynąć do 24 godzin.
+Zanim nowa skrzynka pocztowa będzie gotowa do użycia, może upłynie do 24 godzin.
   
-Jeśli skrzynka pocztowa użytkownika jest "przygotowywana" przez ponad godzinę, spróbuj usunąć licencję programu Exchange z użytkownika i ponownie ją dodać lub [skontaktować się z pomocą techniczną](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?tabs=online).
+Jeśli skrzynka pocztowa użytkownika jest "przygotowywana" dłużej niż godzinę, spróbuj usunąć licencję programu Exchange z użytkownika i dodać ją ponownie lub skontaktować się z pomocą [techniczną.](/microsoft-365/admin/contact-support-for-business-products?tabs=online)

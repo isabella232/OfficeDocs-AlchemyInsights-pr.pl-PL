@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: e55d8e5453f60b5993500dae1eb6efce11a8aa1a
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125681"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233544"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Wdrażanie dodatków dla aplikacji Aplikacje Microsoft 365
 
 Scentralizowane wdrażanie to zalecany sposób wdrażania dodatków Office użytkowników i grup w organizacji. Aby wdrożyć dodatki, wykonaj poniższe czynności:
 
-**Uwaga:** Aby zainstalować dodatki dla użytkowników Office użytkowników, zobacz Wyświetlanie i instalowanie dodatków oraz zarządzanie nimi w [Office programów.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Upewnij się też, że jest włączone indywidualne Office dodatków ze Sklepu. 
+**Uwaga:** Aby zainstalować dodatki dla użytkowników Office użytkowników, zobacz Wyświetlanie i instalowanie dodatków oraz zarządzanie nimi w [Office programów.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Upewnij się też, że jest włączone indywidualne Office dodatków ze Sklepu. Aby uzyskać szczegółowe informacje, zobacz Uniemożliwianie pobierania dodatków przez wyłączenie [Sklepu Office wszystkich](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)klientów (z wyjątkiem Outlook).
 
 1. Upewnij się, że Twoje środowisko spełnia wymagania dotyczące wdrażania dodatków przy użyciu funkcji scentralizowanego wdrażania. Aby uzyskać szczegółowe informacje, zobacz [Wymagania.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements)
 2. Przejdź do **Ustawienia**  >  **zintegrowane aplikacje** Uzyskaj aplikacje w centrum administracyjnym usługi Microsoft 365, aby wdrożyć  >   dodatki. 
