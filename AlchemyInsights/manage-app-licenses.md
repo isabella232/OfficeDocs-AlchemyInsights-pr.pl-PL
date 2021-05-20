@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 1ab15eed7f368663843846ea970f44a0f88d3cb5
-ms.sourcegitcommit: 705c8a0c5fe31248bfa9da048cdee2c6296c6281
+ms.openlocfilehash: 8414b288dca9edae321fa0f6f7fcc5b5a394f8bb
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50237578"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545657"
 ---
 # <a name="manage-app-licenses"></a>Zarządzanie licencjami aplikacji
 
 ## <a name="to-change-license-quantity"></a>Aby zmienić liczbę licencji
 
-**OBEJRZYJ klip wideo,** w który pokazano, jak to zrobić: Kupowanie [nowych licencji](https://go.microsoft.com/fwlink/p/?linkid=2154857) lub usuwanie [istniejących licencji](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**OBEJRZYJ KLIP WIDEO,** w który pokazano, jak to zrobić: [Kupowanie](https://go.microsoft.com/fwlink/p/?linkid=2154857) nowych licencji lub [Usuwanie istniejących licencji](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-1. Przejdź do strony  >  **[Rozliczenia produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-2. Na karcie **Produkty** w **sekcji** Aplikacje znajdź aplikację, którą chcesz zarządzać. Wybierz **pozycję Więcej akcji** (trzy kropki), a następnie wybierz pozycję Kup **licencje.**
+1. Przejdź na stronę  >  **[Rozliczenia Twoje](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkty.
+2. Na karcie **Produkty** w sekcji **Aplikacje** znajdź aplikację, którą chcesz zarządzać. Wybierz trzy kropki (więcej akcji), a następnie wybierz **pozycję Kup licencje**.
 3. Jeśli chcesz zmniejszyć liczbę licencji, w górnej  części okienka Kupowanie licencji wybierz pozycję **Usuń licencje.**
-4. Aby kupić lub usunąć  licencje, w  obszarze Nowa liczba w polu Łączna liczba licencji wprowadź łączną liczbę licencji dla tej subskrypcji. Jeśli na przykład masz 100 licencji i chcesz dodać jeszcze pięć, wprowadź wartość 105. Jeśli chcesz usunąć pięć z nich, wprowadź wartość 95.
-5. Wybierz **Zapisz**.
+4. Aby kupić lub usunąć  licencje, w  obszarze Nowa liczba w polu Łączna liczba licencji wprowadź łączną liczbę licencji, które chcesz uzyskać dla tej subskrypcji. Jeśli na przykład masz 100 licencji i chcesz dodać jeszcze pięć, wprowadź wartość 105. Jeśli chcesz usunąć pięć z nich, wprowadź wartość 95.
+5. Wybierz pozycję **Zapisz**.
 
 ## <a name="to-assign-app-licenses"></a>Aby przypisać licencje aplikacji
 
-1. Przejdź do strony  >  **[Rozliczenia produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-2. Na karcie **Produkty** w **sekcji** Aplikacje znajdź i wybierz aplikację, którą chcesz zarządzać.
-3. W **obszarze & akcji** wybierz link Zarządzaj w portalu **wydawcy.**
+1. Przejdź na stronę  >  **[Rozliczenia Twoje](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkty.
+2. Na karcie **Produkty** w sekcji **Aplikacje** znajdź i wybierz aplikację, którą chcesz zarządzać.
+3. W **Ustawienia & akcji wybierz** link Zarządzaj w portalu **wydawcy**.

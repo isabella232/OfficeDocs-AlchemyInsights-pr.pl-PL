@@ -1,5 +1,5 @@
 ---
-title: 2681 symulatora ataków w systemie Microsoft 365
+title: 2681 Attack Podczas Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,31 +12,31 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: e7d71fdb77b4a047c1998e9aba75cdd469a936a8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801561"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545736"
 ---
-# <a name="attack-simulator-in-microsoft-365"></a>Symulator ataków w systemie Microsoft 365
+# <a name="attack-simulator-in-microsoft-365"></a>Attack Pochoć w Microsoft 365
 
-- Czy brakuje symulatora ataku? Symulator ataków wymaga **programu Microsoft Defender for Office 365 plan 2 (ATP plan 2)** lub **Office 365 Enterprise E5** . Aplikacja symulatora ataków **nie** jest uwzględniona w usłudze Microsoft Defender dla pakietu Office 365 plan 1 (plan ATP 1), Office 365 Enterprise E3 ani żadnych aplikacji Microsoft 365 dla subskrypcji biznesowych.
+- Czy brakuje Ci ataku? Podczas ataków Do ataki jest wymagany program **Microsoft Defender Office 365 plan 2** lub Office 365 Enterprise **E5.** Ataki Dla **usług** Microsoft Defender for Office 365 Plan 1, E3 i E3 Office 365 Enterprise nie są uwzględnione w Aplikacje Microsoft 365 dla firm subskrypcji usługi.
 
-- Konto używane do uruchamiania symulowanych ataków wymaga uprawnień administratora globalnego lub administratora zabezpieczeń oraz uwierzytelniania wieloskładnikowego (MFA). Aby uzyskać więcej informacji na temat wymagań dotyczących ataków na ataki, zobacz [ten temat](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Konto służące do uruchamiania symulowanych ataków wymaga uprawnień administratora globalnego lub administratora zabezpieczeń oraz uwierzytelniania wieloskładnikowego (MFA). Aby uzyskać więcej informacji na temat wymagań dotyczących ataków, zobacz [ten temat.](/microsoft-365/security/office-365-security/attack-simulator)
 
-- Ważne zagadnienia związane z symulacją ataków za ataki za pośrednictwem **hasła** :
+- Ważne informacje na temat symulacyjnych **ataków na wymuszanie** haseł:
 
-  - Jeśli dla konta docelowego jest włączone uwierzytelnianie wieloskładnikowe, a hasło zostało nagrane poprawnie, konto nie będzie widoczne jako zagrożone (drugi współczynnik uwierzytelniania będzie niekompletny).
+  - Jeśli dla konta docelowego włączono uwierzytelnianie MFA i hasło zostało odgadane poprawnie, konto nie będzie wyświetlane jako naruszone (drugi współczynnik uwierzytelniania będzie niekompletny).
 
-  - Rozmiar pliku hasła nie może przekraczać 10 MB. Użyj jednego hasła na wiersz i Dołącz pusty wiersz (znak powrotu karetki) po ostatnim haśle na liście.
+  - Plik hasła nie może być większy niż 10 MB. Użyj jednego hasła w wierszu i uwzględnij pusty wiersz (powrót karetki) po ostatnim hasłem na liście.
 
-- Ważne zagadnienia dotyczące **Spearych informacji** o dołączaniu do witryn wyłudzających informacje:
+- Ważne informacje na temat symulacyjnych dołączania **wiadomości wyłudzających** informacje:
 
-  - Według projektu nie można podać wartości niestandardowej dla **adresu URL serwera logowania wyłudzających informacje** .
+  - Domyślnie nie można podać niestandardowej wartości adresu URL serwera **logowania wyłudzania informacji.**
 
-  - Jeśli odbiorca używa [dodatku Włącz wiadomość raportu](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) , aby zgłosić wiadomość jako wyłudzanie informacji, użytkownik może nie otrzymywać alertów dotyczących wiadomości (ponieważ jest to symulowane ataki).
+  - Jeśli adresat użyje dodatku [Włącz](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) wiadomość raportu w celu zgłoszenia wiadomości jako próby wyłudzenia informacji, alerty dotyczące wiadomości mogą nie być odbierane (ponieważ jest to symulowany atak).
 
-- Raporty: po zakończeniu symulowanego ataku można kliknąć pozycję **szczegóły ataku** , aby wyświetlić raport.
+- Raporty: Po zakończeniu symulowanego ataku możesz kliknąć pozycję **Szczegóły** ataków, aby wyświetlić raport.
 
-- Szczegółowe instrukcje i nowe funkcje w symulatorze ataku znajdziesz [w witrynie Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Aby uzyskać szczegółowe instrukcje i nowe funkcje w programie Attack Podczas tego ataku, zobacz [Temat ataków w programie Microsoft 365.](/microsoft-365/security/office-365-security/attack-simulator)

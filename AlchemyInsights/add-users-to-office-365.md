@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: adc95413c269584d75e907fcdcb231a0a0f9a99e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7009dcf86da9d8a3fc8ea2f90ecbff3487f3fc59
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822249"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569697"
 ---
 # <a name="add-a-user"></a>Dodawanie użytkownika
 
@@ -26,6 +26,6 @@ ms.locfileid: "51822249"
 
 2. Kliknij pozycję **Dodaj użytkownika**.
 
-3. Wprowadź informacje dotyczące użytkownika. Po zakończeniu kliknij pozycję **Zakończ dodawanie**.
+3. Postępuj zgodnie z kreatorem, aby dodać informacje o użytkowniku, licencje naprodukcyjną, opcjonalne role i informacje o profilu.
 
-Aby uzyskać więcej informacji, zobacz [Pojedyncze lub zbiorcze dodawanie użytkowników](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Aby uzyskać więcej informacji, zobacz [Pojedyncze lub zbiorcze dodawanie użytkowników](/microsoft-365/admin/add-users/add-users).
