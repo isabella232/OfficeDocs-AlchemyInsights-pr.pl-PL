@@ -1,29 +1,31 @@
 ---
 title: Anulowanie subskrypcji firmy Microsoft
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 0bc16dac8daf6219fcd3507e1f47d1d62a0961d2
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707752"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543335"
 ---
-# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="a2ef3-102">Anulowanie subskrypcji firmy Microsoft</span><span class="sxs-lookup"><span data-stu-id="a2ef3-102">Cancel your Microsoft subscription</span></span>
+# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="e28fc-102">Anulowanie subskrypcji firmy Microsoft</span><span class="sxs-lookup"><span data-stu-id="e28fc-102">Cancel your Microsoft subscription</span></span>
 
-1. <span data-ttu-id="a2ef3-103">Przejdź do menu [Usługi i subskrypcje](https://account.microsoft.com/services/), a następnie zaloguj się przy użyciu konta Microsoft, które zostało użyte podczas zakupu subskrypcji.</span><span class="sxs-lookup"><span data-stu-id="a2ef3-103">Go to [Services & subscriptions](https://account.microsoft.com/services/), and sign in with the Microsoft account you used when purchasing your subscription.</span></span>
+<span data-ttu-id="e28fc-103">Administratorzy mogą anulować subskrypcję dla swojej organizacji w centrum Microsoft 365 administracyjnego.</span><span class="sxs-lookup"><span data-stu-id="e28fc-103">Admins can cancel the subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-2. <span data-ttu-id="a2ef3-104">Znajdź subskrypcję, a następnie kliknij pozycję **Zarządzaj**.</span><span class="sxs-lookup"><span data-stu-id="a2ef3-104">Find your subscription and click **Manage**.</span></span> <span data-ttu-id="a2ef3-105">Jeśli zobaczysz menu **Włączanie rozliczania cyklicznego** zamiast menu **Zarządzaj**, przejdź do sekcji Rozwiązywanie problemów. W przeciwnym razie przejdź do kroku 3.</span><span class="sxs-lookup"><span data-stu-id="a2ef3-105">If you see **Turn on recurring billing** instead of **Manage**, skip to the Troubleshooting section;  otherwise proceed to step 3.</span></span>
+1. <span data-ttu-id="e28fc-104">Przejdź na  stronę \> [Rozliczenia Twoje](https://go.microsoft.com/fwlink/p/?linkid=842054) produkty.</span><span class="sxs-lookup"><span data-stu-id="e28fc-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="e28fc-105">Na **karcie Produkty** znajdź subskrypcję, którą chcesz anulować.</span><span class="sxs-lookup"><span data-stu-id="e28fc-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="e28fc-106">Wybierz trzy kropki (więcej akcji), a następnie wybierz Anuluj **subskrypcję**.</span><span class="sxs-lookup"><span data-stu-id="e28fc-106">Select the three dots (more actions), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="e28fc-107">W **okienku Anulowanie** subskrypcji wybierz powód anulowania.</span><span class="sxs-lookup"><span data-stu-id="e28fc-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="e28fc-108">Opcjonalnie możesz przekazać opinię.</span><span class="sxs-lookup"><span data-stu-id="e28fc-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="e28fc-109">Wybierz pozycję **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="e28fc-109">Select **Save**.</span></span>
 
-3. <span data-ttu-id="a2ef3-106">Na następnej stronie kliknij pozycję **Anuluj** lub **Uaktualnij lub anuluj** — w zależności od typu subskrypcji.</span><span class="sxs-lookup"><span data-stu-id="a2ef3-106">On the next page, click **Cancel** or **Upgrade or Cancel**, depending on your subscription type.</span></span>
-
-4. <span data-ttu-id="a2ef3-107">Postępuj zgodnie z instrukcjami na stronie, aby anulować subskrypcję.</span><span class="sxs-lookup"><span data-stu-id="a2ef3-107">Follow the instructions on the page to proceed with cancellation.</span></span>
+<span data-ttu-id="e28fc-110">**Zwrot kosztów:** Wszelkie proporcjonalnie do zwrotu środków zostaną ci zwrócone w następnym cyklu rozliczeniowym.</span><span class="sxs-lookup"><span data-stu-id="e28fc-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
