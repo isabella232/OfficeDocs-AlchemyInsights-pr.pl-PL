@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z usługą Microsoft Defender dla pakietu Office 365 (ATP)
+title: Rozwiązywanie problemów z usługą Microsoft Defender dla systemu Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,21 +11,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: cf54d5b3b854587202ff1b575889b9602228dd06
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: d6170ac52b9af4d2bc6f8822ff2a9b8c1b161ed9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801417"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544768"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Rozwiązywanie problemów z pakietem Office 365 ATP
+# <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Rozwiązywanie problemów z usługą Microsoft Defender dla systemu Office 365
 
-- **Powiadomienia o opóźnieniu dostarczenia wiadomości e-mail** ? Spróbuj skorzystać z opcji dostarczania dynamicznego dla zasad dotyczących bezpiecznych załączników ATP. Spowoduje to uniknięcie opóźnień dostarczania wiadomości e-mail podczas ochrony adresatów przed złośliwymi plikami.
-- **Czy chcesz zgłosić fałszywą liczbę dodatnią, czy fałszywą negatywną** ? Użyj tego linku, aby przesłać plik do analizy: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Czy wiesz, że możesz włączyć ochronę za pośrednictwem linków bezpiecznego łącza dla wiadomości e-mail wysyłanych między osobami w organizacji** ? Wykonaj następujące czynności:
+- **Powiadomienia o opóźnieniach przy dostarczeniu wiadomości e-mail?** Spróbuj użyć opcji Dostarczanie dynamiczne dla programu Microsoft Defender dla Office 365 Sejf załączników. Pozwoli to uniknąć opóźnień dostarczania wiadomości e-mail podczas ochrony adresatów przed złośliwymi plikami.
+- **Czy należy zgłaszać wyniki fałszywie dodatnie lub ujemne?** Użyj [Eksploratora przesyłania](https://protection.office.com/reportsubmission).
+- Czy wiesz, że możesz włączyć ochronę programu Microsoft Defender dla programu Microsoft Defender Office 365 Sejf Links dla wiadomości e-mail wysyłanych między **osobami w organizacji?** Wykonaj następujące czynności:
     1. Przejdź do https://protection.office.com i zaloguj się.
-    2. Przejdź do **Threat management**  >  **Policy**  >  **bezpiecznych linków** zasad zarządzania zagrożeniami.
-    3. W obszarze **zasady dotyczące określonych adresatów** Edytuj (lub Dodaj) zasady.
-    4. Wybierz pozycję **stosuj bezpieczne linki do wiadomości wysłanych w organizacji** .
-    5. Zapisz swoje zasady i pozwól na 30 minut na wprowadzenie zmian w celu ich współdziałania z centrum danych.
-- Aby uzyskać dodatkową pomoc dotyczącą ATP, zobacz [Microsoft Defender dla Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
+    2. Przejdź do **linków do**  >  **Sejf**  >  **zarządzania Sejf zagrożeniami.**
+    3. W **obszarze Zasady dotyczące konkretnych adresatów** edytuj (lub dodaj) zasady.
+    4. Wybierz **pozycję Zastosuj bezpieczne linki do wiadomości wysyłanych w organizacji.**
+    5. Zapisz zasady i odłóż do 30 minut na zastosowanie wprowadzonych zmian.
+
+- Aby uzyskać więcej pomocy dotyczącej programu Microsoft Defender dla systemu Office 365, zobacz [Program Microsoft Defender dla systemu Office 365.](/microsoft-365/security/office-365-security/office-365-atp)

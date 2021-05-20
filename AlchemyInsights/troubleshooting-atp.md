@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z programem Microsoft Defender dla pakietu Office 365
+title: Rozwiązywanie problemów z usługą Microsoft Defender dla Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801453"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545278"
 ---
-# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Rozwiązywanie problemów z programem Microsoft Defender dla pakietu Office 365
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Rozwiązywanie problemów z usługą Microsoft Defender dla Office 365
 
-- Czy zauważysz opóźnienia dostarczenia wiadomości? Użyj opcji [dostarczania dynamicznego](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) w zasadach bezpiecznych załączników ATP. Pomoże to uniknąć opóźnień w wiadomościach chroniących adresatów przed złośliwymi plikami.
+- **Czy zauważysz opóźnienia w dostarczania wiadomości?** Użyj opcji [Dostarczanie dynamiczne](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) w programie Microsoft Defender dla Office 365 Sejf załączników. Pozwoli to uniknąć opóźnień wiadomości podczas ochrony adresatów przed złośliwymi plikami.
 
-- Czy chcesz zgłosić fałszywie dodatnie lub fałszywe wartości ujemne firmie Microsoft? Użyj tego [linku](https://www.microsoft.com/wdsi/filesubmission/) , aby przesłać pliki do analizy.
+- **Czy chcesz zgłosić do firmy Microsoft wyniki fałszywie dodatnie lub ujemne?** Użyj [Eksploratora przesyłania](https://protection.office.com/reportsubmission).
 
-- Czy wiesz, że możesz włączyć ochronę przed linkami dla wewnętrznych wiadomości e-mail wysyłanych między adresatami w organizacji? Wykonaj następujące czynności:
+-** Czy wiesz, że możesz włączyć ochronę linków Sejf-mail dla wewnętrznej poczty e-mail wysyłanej między adresatami w organizacji?** Wykonaj następujące czynności:
 
-  1. Przejdź do [https://protection.office.com](https://protection.office.com) i zaloguj się przy użyciu konta administratora globalnego lub administratora zabezpieczeń.
+  1. Przejdź do konta administratora globalnego lub administratora zabezpieczeń i [https://protection.office.com](https://protection.office.com) zaloguj się do tego konta.
 
-  2. W lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami** wybierz pozycję **zasady** \> **bezpieczne linki** .
+  2. W lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami** wybierz **pozycję Linki** \> **Sejf zasad.**
 
-  3. W **zasadach, które dotyczą całej sekcji organizacji** , zaznacz odpowiednie zasady i kliknij pozycję **Edytuj** .
+  3. W **sekcji Zasady stosowane do całej organizacji** wybierz zasady, a następnie kliknij pozycję **Edytuj**.
 
-  4. W obszarze **Ustawienia** Włącz opcję **Zastosuj bezpieczne linki do wiadomości wysłanych w organizacji** .
+  4. W **Ustawienia** wiadomości włącz opcję **Zastosuj bezpieczne linki do wiadomości wysyłanych w ramach organizacji.**

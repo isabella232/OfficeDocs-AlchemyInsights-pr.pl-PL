@@ -1,5 +1,5 @@
 ---
-title: W Centrum zabezpieczeń nie znaleziono żadnych subskrypcji
+title: Brak odnalezionych subskrypcji w Centrum zabezpieczeń
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: 01117bc535df14533e426fd2d31c336fccc75611
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: 777fb9b09aa26d166f9971589bda464ccb90f4be
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "50713961"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544118"
 ---
-# <a name="no-subscriptions-found-message-in-the-security-center"></a>W Centrum zabezpieczeń nie znaleziono żadnych subskrypcji
+# <a name="no-subscriptions-found-message-in-the-security-center"></a>Brak odnalezionych subskrypcji w Centrum zabezpieczeń
 
-Jeśli podczas uzyskiwania dostępu do usługi Microsoft Defender Security Center zostanie wyświetlony komunikat "Nie znaleziono subskrypcji", oznacza to, że użytkownik używany do logowania się do portalu w usłudze Azure Active Directory nie ma licencji Microsoft Defender ATP.  
+Jeśli podczas uzyskiwania dostępu Centrum zabezpieczeń usługi Microsoft Defender zostanie wyświetlony komunikat "Nie odnaleziono subskrypcji", oznacza to, że Azure Active Directory (AAD) używany do logowania użytkownika do portalu nie ma licencji usługi Microsoft Defender ATP.  
 
 Licencje Windows E5 i Office E5 to osobne licencje.
 
-Otwórz sprawę pomocy technicznej, jeśli licencja została zakupiona, ale nie zapewnia obsługi administracyjnej tego wystąpienia AAD. Masz: <br/>
+Otwórz sprawę pomocy technicznej, jeśli licencja została zakupiona, ale nie jest zapewniana obsługa techniczna dla tego wystąpienia AAD. Masz: <br/>
 -   Możliwy problem z inicjowaniem obsługi licencji.<br/>
--   Przypadkowo zaimprowizowano licencję do innej usługi Microsoft AAD niż ta używana do uwierzytelniania w usłudze.
+-   Przypadkowo aprowizowano licencję do innej usługi Microsoft AAD niż ta używana do uwierzytelniania w usłudze.

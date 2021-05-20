@@ -13,24 +13,24 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 0c9e7a5bed309e473cc626f2572f902f1a581234
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 464efadcfa0a80efecad107199e669dbadfbae39
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261774"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544804"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams — konferencje głosowe
 
-Potrzebujesz pomocy dotyczącej włączania lub konfigurowania [konferencji audio dla systemu Microsoft Teams?](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)  Czy użytkownik został ostatnio utworzony? Jeśli tak, wprowadzone ustawienia będą obowiązywać po kilku godzinach.
+Potrzebujesz pomocy dotyczącej włączania lub konfigurowania [konferencji audio dla systemu Microsoft Teams?](/microsoftteams/set-up-audio-conferencing-in-teams)  Czy użytkownik został ostatnio utworzony? Jeśli tak, wprowadzone ustawienia będą obowiązywać po kilku godzinach.
 
-Jeśli [kupiono licencje,](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)sprawdź, czy użytkownik ma licencję na Microsoft 365 połączeń konferencyjnych audio i ma domyślny numer płatny.
+Jeśli [kupiono licencje,](/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)sprawdź, czy użytkownik ma licencję na Microsoft 365 połączeń konferencyjnych audio i ma domyślny numer płatny.
 
 1. Przejdź do pozycji [Aktywni użytkownicy](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users), a następnie wybierz odpowiedniego użytkownika.
 
 2. W zależności od wersji centrum administracyjnego wybierz pozycję **Licencje i aplikacje** lub kliknij **Edytuj** w sekcji **Licencje na produkt**.
 
-3. Upewnij się, że użytkownik ma wybrane licencje na Microsoft 365 **audio,** Microsoft Teams i Skype dla firm **Online (plan 2).** Jeśli licencja **Microsoft 365 Audio Conferencing** nie jest obecna, musisz najpierw kupić dodatek na [licencje.](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
+3. Upewnij się, że użytkownik ma wybrane licencje na Microsoft 365 **audio,** Microsoft Teams i Skype dla firm **Online (plan 2).** Jeśli licencja **Microsoft 365 Audio Conferencing** nie jest obecna, musisz najpierw kupić dodatek na [licencje.](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
 
 4. W sekcji **Centra administracyjne** użytkownika kliknij pozycję **Pokaż wszystko**, a następnie kliknij pozycję **Teams**.
 
@@ -40,4 +40,4 @@ Jeśli [kupiono licencje,](https://docs.microsoft.com/microsoftteams/set-up-audi
 
 7. Zaznacz danego użytkownika i sprawdź, czy ma **domyślny numer płatny**.
 
-Jeśli potrzebujesz więcej pomocy dotyczącej zakupu licencji na konferencje **głosowe firmy Microsoft,** zadzwoń do pomocy technicznej [dotyczącej rozliczeń firmy Microsoft.](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)
+Jeśli potrzebujesz więcej pomocy dotyczącej zakupu licencji na konferencje **głosowe firmy Microsoft,** skontaktuj się z pomocą [techniczną firmy Microsoft w związku z rozliczeniami.](https://go.microsoft.com/fwlink/p/?linkid=518322)

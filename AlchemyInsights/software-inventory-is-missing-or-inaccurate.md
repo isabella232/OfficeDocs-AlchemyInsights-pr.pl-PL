@@ -1,5 +1,5 @@
 ---
-title: Brak pozycji spisu oprogramowania lub jest ona niedokładna
+title: Brakuje spisu oprogramowania lub niedokładne informacje
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665296"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543974"
 ---
-# <a name="software-inventory-is-missing-or-inaccurate"></a>Brak pozycji spisu oprogramowania lub jest ona niedokładna
+# <a name="software-inventory-is-missing-or-inaccurate"></a>Brakuje spisu oprogramowania lub niedokładne informacje
 
-Spis oprogramowania w usłudze Microsoft Defender ATP zawiera nazwę produktu lub dostawcę, jego najnowszy numer wersji oraz wykryte słabe strony i luki w zabezpieczeniach. Aby uzyskać więcej informacji, zobacz [Spis oprogramowania — zarządzanie zagrożeniem i luką](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+Spis oprogramowania w usłudze Microsoft Defender ATP udostępnia nazwę produktu lub dostawcę, jego najnowszy numer wersji oraz wykryte luki i luki w zabezpieczeniach. Aby uzyskać więcej informacji, zobacz [Spis oprogramowania — informacje Zarządzanie zagrożeniami i lukami.](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)
 
-Możesz zgłosić niejasne lub niepełne informacje, niedokładne numery wersji lub skorygować informacje o spisie oprogramowania, wykonując poniższe czynności.  
+Poniżej przedstawiono procedurę zgłaszania niejasnych lub niepełnych informacji, nieprawidłowych numerów wersji lub informacji o zapasach oprogramowania, które zostały usunięte.  
 
-1. Otwórz okno wysuwane oprogramowanie i wybierz aplikację na stronie Spis oprogramowania.
-2. Wybierz pozycję **Zgłoś niedokładność**, a następnie w okienku wysuwanym wybierz kategorię z menu rozwijanego.
-3. Wprowadź adres e-mail i szczegóły dotyczące niedokładności.
-4. Wybierz pozycję **Prześlij**.</br>
-    Opinia jest natychmiast wysyłana do zagrożonych & ekspertów zarządzających luką w zabezpieczeniach.
+1. Otwórz wysuwne okno wysuwu oprogramowania i wybierz aplikację na stronie Spis oprogramowania.
+2. Wybierz **pozycję Nieścisłości raportu**, a następnie w okienku wysuwu wybierz kategorię z menu rozwijanego.
+3. Wpisz swój adres e-mail i szczegóły nieścisłości.
+4. Wybierz **pozycję Prześlij**.</br>
+    Twoja opinia jest natychmiast wysyłana do ekspertów do spraw & w zakresie zarządzania lukami w zabezpieczeniach.
