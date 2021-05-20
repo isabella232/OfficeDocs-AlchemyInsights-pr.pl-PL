@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002956"
 - "5658"
-ms.openlocfilehash: c0ca49e7946ebe16dff961eb7e1cce8e428ec41c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bdd265a526b484330f81730b222bd388e867409f
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819018"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543083"
 ---
 # <a name="change-my-microsoft-account-information"></a>Zmienianie informacji o koncie Microsoft
 
@@ -25,20 +25,20 @@ Przejdź do [https://account.microsoft.com](https://account.microsoft.com/) odpo
 
 **Edytuj swoje imię i nazwisko oraz informacje osobiste**
 
-1. Na pulpicie nawigacyjnym konta obok zdjęcia i nazwy konta kliknij pozycję Więcej akcji > **Edytuj profil**.
-2. Na stronie **Edytowanie profilu** użyj podanych linków, aby zmienić swój obraz profilu, imię i nazwisko, datę urodzenia, lokalizację i preferencje języka wyświetlania. Zwróć uwagę na linki do profilów swoich kont Xbox lub Skype, gdzie możesz zmienić szczegółowe informacje dotyczące tych kont.
+1. Na pulpicie nawigacyjnym konta obok zdjęcia i nazwy konta kliknij ikonę trzema kropkami (więcej akcji) > Edytuj profil**.
+2. Na stronie **Edytowanie profilu** użyj podanych linków, aby zmienić swój obraz profilu, imię i nazwisko, datę urodzenia, lokalizację i preferencje języka wyświetlania. Zwróć uwagę na linki do konsoli Xbox lub Skype profilów, w których możesz zmienić szczegóły specyficzne dla tych kont.
 
 **Zarządzanie adresami e-mail i numerami telefonów**
 
 Konto Microsoft ma co najmniej jeden adres e-mail lub numer telefonu skojarzony z kontem jako "aliasy". Aby nimi zarządzać:
 
-1. Na pulpicie nawigacyjnym konta obok zdjęcia i nazwy konta kliknij pozycję Więcej akcji > **Edytuj profil**.
+1. Na pulpicie nawigacyjnym konta obok zdjęcia i nazwy konta kliknij ikonę z trzema kropkami (więcej akcji) > **Edytuj profil.**
 2. Na stronie **Edytowanie profilu** kliknij pozycję **Zarządzaj logowaniem do firmy Microsoft**. 
-3. Zostanie wyświetlona lista aliasów kont i będzie można zarządzać listą, łącznie z dodawaniem i usuwaniem adresów e-mail i numerów telefonów. W tym miejscu możesz również wybrać aliasy, których można używać do logowania się na koncie, a które są traktowane jako "podstawowe", które będą wyświetlane na urządzeniach z systemem Windows 10.
+3. Zostanie wyświetlona lista aliasów kont i będzie można zarządzać listą, łącznie z dodawaniem i usuwaniem adresów e-mail i numerów telefonów. W tym miejscu możesz również wybrać aliasy, których można używać do logowania się na koncie, a które są traktowane jako "podstawowe", które będą wyświetlane na twoich Windows 10 urządzeniach.
 
 **Zarządzanie metodami płatności oraz nazwiskiem i adresem do rozliczeń** 
 
-1. Na pulpicie nawigacyjnym konta obok zdjęcia i nazwy konta kliknij pozycję Więcej akcji > **Edytuj profil**.
+1. Na pulpicie nawigacyjnym konta obok zdjęcia i nazwy konta kliknij ikonę z trzema kropkami (więcej akcji) > **Edytuj profil.**
 2. W **obszarze & dla rozliczeń kliknij** pozycję **Zarządzaj**.
 
     ![Zarządzanie płatnościami i rozliczeniami](media/manage-account.png)

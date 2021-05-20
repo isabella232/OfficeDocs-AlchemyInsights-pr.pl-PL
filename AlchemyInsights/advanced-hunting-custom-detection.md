@@ -1,5 +1,5 @@
 ---
-title: 9001220 zaawansowane wykrywanie niestandardowych polowań
+title: 9001220 zaawansowane wykrywanie niestandardowego wyszukiwania
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,22 +14,22 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: ea478cfbbbe96065608990770e0453d8f2613981
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801525"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543011"
 ---
-# <a name="advanced-hunting-custom-detections"></a>Zaawansowane wykrywanie niestandardowych polowań
+# <a name="advanced-hunting-custom-detections"></a>Wykrywanie niestandardowe z zaawansowanymi wyszukiwaniami
 
-Możesz dowiedzieć się, jak tworzyć niestandardowe reguły wykrywania i zarządzać nimi na podstawie zaawansowanych zapytań o łowiectwo. Dzięki mechanizmom wykrywania niestandardowego można z wyprzedzeniem monitorować i odpowiadać na różne zdarzenia i Stany systemu, w tym podejrzane działania i źle skonfigurowane urządzenia. Możesz to zrobić za pomocą reguł wykrywania, które umożliwiają automatyczne wyzwalanie alertów i akcji związanych z odpowiedziami
+Możesz dowiedzieć się, jak tworzyć niestandardowe reguły wykrywania i zarządzać nimi na podstawie zaawansowanych zapytań myśliwnych. Wykrywanie niestandardowe pozwala aktywnie monitorować różne zdarzenia i stany systemowe, w tym podejrzewać naruszenie zabezpieczeń i źle skonfigurowane urządzenia, oraz reagować na nie. Można to zrobić za pomocą dostosowywalnych reguł wykrywania, które automatycznie wyzwalają alerty i akcje odpowiedzi.
   
-Jeśli korzystasz z usługi Microsoft Defender ATP, aby uzyskać szczegółowe informacje, zobacz następujące tematy: 
-- [Omówienie wykrywania niestandardowego](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
-- [Tworzenie niestandardowych reguł wykrywania](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
-- [Wyświetlanie niestandardowych reguł wykrywania i zarządzanie nimi](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
+Jeśli używasz programu Microsoft Defender ATP, zobacz następujące tematy, aby uzyskać szczegółowe informacje: 
+- [Wykrywanie niestandardowe — omówienie](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
+- [Tworzenie reguł wykrywania niestandardowego](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
+- [Wyświetlanie reguł wykrywania niestandardowego i zarządzanie nimi](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Jeśli korzystasz z programu Microsoft 365 Defender, zobacz poniższe tematy, aby uzyskać szczegółowe informacje: 
-- [Omówienie wykrywania niestandardowego](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
-- [Tworzenie niestandardowych reguł wykrywania i zarządzanie nimi](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)
+Jeśli używasz programu Microsoft 365 Defender, zobacz następujące tematy, aby uzyskać szczegółowe informacje: 
+- [Wykrywanie niestandardowe — omówienie](/microsoft-365/security/mtp/custom-detections-overview)
+- [Tworzenie reguł wykrywania niestandardowego i zarządzanie nimi](/microsoft-365/security/mtp/custom-detection-rules)

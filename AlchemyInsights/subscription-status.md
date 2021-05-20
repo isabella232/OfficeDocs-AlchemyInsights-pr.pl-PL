@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: edb5a78343a99196379aca052b51b0ef1f7249c5
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 262bafc9354e14c45eeda974cc9824be24f9d502
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286968"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542795"
 ---
 # <a name="subscription-status"></a>Stan subskrypcji
 
-Stan subskrypcji, Data wygaśnięcia i liczba licencji można znaleźć na stronie produkty w centrum administracyjnym **usługi** Microsoft 365.
+Stan subskrypcji, data wygaśnięcia i liczba licencji można znaleźć na stronie Twoje **produkty** w centrum Microsoft 365 administracyjnego.
 
-1. W centrum administracyjnym przejdź do strony **rozliczanie**  >  [produktów](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na karcie **produkty** domyślnie są wyświetlane wszystkie subskrypcje oraz ich stan (aktywne, wygasłe, wyłączone lub usunięte). Aby wyświetlić podzestaw wszystkich abonamentów, wybierz ikonę filtr, a następnie wybierz **stan subskrypcji** , który chcesz wyświetlić.
-3. Aby ponownie uaktywnić wygasły lub wyłączony abonament, wybierz pozycję **więcej akcji** (trzy kropki), a następnie wybierz pozycję **Aktywuj ponownie tę subskrypcję**.
-4. Na stronie **produkty** są wyświetlane również następujące informacje:
-    - Liczba licencji przypisanych do użytkowników jest wyświetlana w kolumnie **przypisane licencje** .
-    - Łączna liczba licencji uwzględnionych w subskrypcji jest wyświetlana w kolumnie **ilość zakupione** .
-    - Data wygaśnięcia lub odnowienia w kolumnie **stan subskrypcji** .
-    - Metoda płatności używana do płatności za każdy abonament jest wyświetlana w kolumnie **płatność za pomocą** .
-    - Konto rozliczeniowe skojarzone z poszczególnymi abonamentami jest wyświetlane w kolumnie **konto rozliczeniowe** .
+1. W centrum administracyjnym przejdź do strony **Rozliczenia**  >  [z produktami.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **karcie Produkty** domyślnie widać wszystkie subskrypcje i ich stan (Aktywne, Wygasłe, Wyłączone lub Usunięte). Aby wyświetlić podzbiór wszystkich subskrypcji, wybierz ikonę filtru, a następnie wybierz stan **subskrypcji,** który chcesz wyświetlić.
+3. Aby ponownie aktywować wygasłą lub wyłączono subskrypcję, wybierz trzy kropki (więcej akcji), a następnie wybierz pozycję **Aktywuj ponownie tę subskrypcję**.
+4. Na **stronie Twoje produkty** są również wyświetlane następujące informacje:
+    - Liczba licencji przypisanych do użytkowników jest wyświetlana w kolumnie **Przypisane** licencje.
+    - Łączna liczba licencji uwzględnionych w subskrypcji jest wyświetlana w **kolumnie Zakupiona liczba.**
+    - Data wygaśnięcia lub odnowienia w kolumnie **Stan subskrypcji.**
+    - Metoda płatności używana do płacenia za poszczególne subskrypcje jest wyświetlana w **kolumnie Zapłacono** za pomocą.
+    - Konto rozliczeniowe skojarzone z każdą subskrypcją jest wyświetlane w kolumnie **Konto rozliczeniowe.**
 5. Aby dodać lub usunąć kolumny, wybierz pozycję **Wybierz kolumny**.

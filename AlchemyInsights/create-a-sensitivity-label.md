@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: d90645758100e3ff29d77dd09848b36f33c3f526
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233400"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543659"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Jak utworzyć etykietę wrażliwości
 
@@ -30,8 +30,8 @@ ms.locfileid: "52233400"
 
     Aby dowiedzieć się więcej o automatycznym oznaczaniu etykiet, zobacz [Automatyczne stosowanie etykiet wrażliwości do zawartości.](https://go.microsoft.com/fwlink/?linkid=2105837)
 
-1. Powtórz te czynności, aby utworzyć więcej etykiet. Jeśli jednak chcesz utworzyć etykietę podrzędną, najpierw zaznacz etykietę nadrzędną, wybierz pozycję **...** dla opcji **Więcej** akcji , a następnie wybierz pozycję **Dodaj etykietę podrzędną**.
+1. Powtórz te czynności, aby utworzyć więcej etykiet. Jeśli jednak chcesz utworzyć etykietę podrzędną, najpierw zaznacz etykietę nadrzędną, wybierz trzy kropki (więcej akcji), a następnie wybierz pozycję **Dodaj pod etykietę**.
 
 1. Po utworzeniu wszystkich potrzebnych etykiet przejrzyj ich kolejność i w razie potrzeby przenieś je w górę lub w dół. 
     
-    Aby zmienić kolejność etykiety, wybierz pozycję **...** w przypadku opcji **Więcej akcji**, a następnie wybierz pozycję **Przenieś w** górę lub Przenieś **w dół**.
+    Aby zmienić kolejność etykiety, zaznacz trzy kropki (więcej akcji), a następnie wybierz pozycję **Przenieś w** górę lub **Przenieś w dół**.

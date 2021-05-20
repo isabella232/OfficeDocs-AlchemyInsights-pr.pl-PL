@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "86"
 - "1400001"
-ms.openlocfilehash: 0541c68ffc71503cccba47501f318939fc9e0a53
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 85ce33aaf5fbcde6a8c32c692977647f4f44c953
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416333"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543299"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Anulujesz subskrypcję Microsoft 365?
 
-Przykro nam, że już go znajdziesz!
+Z żalem Cię żenuje!
   
-W oparciu o dane organizacji uważamy, że wszystkie bieżące abonamenty mają mniej niż 25 miejsc. Aby anulować subskrypcję w trybie online, przejdź do strony **rozliczanie** \> [produktów](https://go.microsoft.com/fwlink/p/?linkid=842054) . Na karcie **produkty** Znajdź subskrypcję, którą chcesz anulować, wybierz pozycję **więcej akcji** (trzy kropki), a następnie wybierz pozycję **Anuluj subskrypcję**.
+Na podstawie danych Twojej organizacji sądzimy, że wszystkie Twoje bieżące subskrypcje mają mniej niż 25 stanowisk. Aby anulować subskrypcję w trybie online, przejdź do **strony** \> [Rozliczenia produkty.](https://go.microsoft.com/fwlink/p/?linkid=842054) Na karcie **Produkty** znajdź subskrypcję, którą chcesz anulować, wybierz trzy kropki (więcej akcji), a następnie wybierz pozycję **Anuluj subskrypcję**.
   
-**Zwrot kosztów:** W następnym cyklu rozliczeniowym zostanie zwrócona kwota doładowania po obniżonej wartości.
+**Zwrot kosztów:** Wszelkie proporcjonalnie do zwrotu środków zostaną ci zwrócone w następnym cyklu rozliczeniowym.
 
-Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

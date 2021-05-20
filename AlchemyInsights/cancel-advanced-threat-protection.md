@@ -1,5 +1,5 @@
 ---
-title: Anulowanie zaawansowanej ochrony przed zagrożeniami
+title: Anuluj zaawansowaną ochronę przed zagrożeniami
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 0919862f1954058d2d891abb35d91a19ee948933
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416282"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543515"
 ---
-# <a name="cancel-advanced-threat-protection"></a>Anulowanie zaawansowanej ochrony przed zagrożeniami
+# <a name="cancel-advanced-threat-protection"></a>Anuluj zaawansowaną ochronę przed zagrożeniami
 
-Administratorzy mogą anulować zaawansowaną subskrypcję ochrony przed zagrożeniami dla swojej organizacji w centrum administracyjnym usługi Microsoft 365.
+Administratorzy mogą anulować subskrypcję zaawansowanej ochrony przed zagrożeniami dla swojej organizacji w centrum Microsoft 365 administracyjnego.
 
-1. Przejdź do strony **rozliczanie**  >  [produktów](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na karcie **produkty** Znajdź zaawansowany plan ochrony przed zagrożeniami, który chcesz anulować. Wybierz pozycję **więcej akcji** (trzy kropki), a następnie wybierz pozycję **Anuluj subskrypcję**.
-3. W okienku **Anuluj subskrypcję** wybierz przyczynę anulowania. Opcjonalnie podaj wszelkie opinie.
-4. Wybierz **Zapisz**.
+1. Przejdź na stronę  >  [Rozliczenia Twoje](https://go.microsoft.com/fwlink/p/?linkid=842054) produkty.
+2. Na karcie **Produkty** znajdź plan Zaawansowanej ochrony przed zagrożeniami, który chcesz anulować. Wybierz trzy kropki (więcej akcji), a następnie wybierz Anuluj **subskrypcję**.
+3. W **okienku Anulowanie** subskrypcji wybierz powód anulowania. Opcjonalnie możesz przekazać opinię.
+4. Wybierz pozycję **Zapisz**.
 
-**Zwrot kosztów:** W następnym cyklu rozliczeniowym zostanie zwrócona kwota doładowania po obniżonej wartości.
+**Zwrot kosztów:** Wszelkie proporcjonalnie do zwrotu środków zostaną ci zwrócone w następnym cyklu rozliczeniowym.
 
-Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
