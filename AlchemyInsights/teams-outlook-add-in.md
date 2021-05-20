@@ -1,5 +1,5 @@
 ---
-title: Teams dodatek programu Outlook
+title: Teams Outlook dodatku (Udostępnij Teams, Spotkaj się teraz, Teams spotkania, Dołącz Teams spotkania)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835029"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542759"
 ---
-# <a name="teams-outlook-add-in"></a><span data-ttu-id="8cb98-102">Teams dodatek programu Outlook</span><span class="sxs-lookup"><span data-stu-id="8cb98-102">Teams Outlook add-in</span></span>
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a><span data-ttu-id="c1995-102">Teams Outlook dodatku (Udostępnij do spotkania Teams , Spotkaj się teraz, Teams nowe spotkanie, Dołącz Teams spotkania)</span><span class="sxs-lookup"><span data-stu-id="c1995-102">Teams Outlook add-in (Share to Teams , Meet now, New Teams meeting, Join Teams meeting)</span></span>
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a><span data-ttu-id="8cb98-103">Aby rozwiązać problem z brakującym zespołem dodatek programu Outlook</span><span class="sxs-lookup"><span data-stu-id="8cb98-103">To troubleshoot a missing Teams Outlook add-in</span></span>
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a><span data-ttu-id="c1995-103">Aby rozwiązać problem z Teams Outlook dodatku</span><span class="sxs-lookup"><span data-stu-id="c1995-103">To troubleshoot a missing Teams Outlook add-in</span></span>
 
-1. <span data-ttu-id="8cb98-104">Uruchom narzędzie diagnostyczne usługi w portalu administracyjnym.</span><span class="sxs-lookup"><span data-stu-id="8cb98-104">Run the Service Diagnostic in the Admin Portal.</span></span> 
-2. <span data-ttu-id="8cb98-105">Jeśli diagnostyka usługi nie wskazuje żadnych problemów, diagnozuj i poprawiaj problemy klienta na odpowiednich komputerach użytkowników, pobierając i uruchamiając dodatek Asystent odzyskiwania i pomocy technicznej firmy [Microsoft](https://aka.ms/SaRA-TeamsAddInScenario)dla aplikacji Teams — scenariusz dodatku dla  >  **programu Outlook.**</span><span class="sxs-lookup"><span data-stu-id="8cb98-105">If the Service Diagnostic indicates no issues, diagnose and correct any client issues on the affected user machines  by downloading and running the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) > **Teams Outlook Add-in Scenario**.</span></span>
+1. <span data-ttu-id="c1995-104">Uruchom narzędzie diagnostyczne "Brakuje dodatku zespołu w programie Outlook", co pozwala sprawdzić, czy użytkownik ma prawidłowe zasady, aby włączyć Teams Outlook dodatku.</span><span class="sxs-lookup"><span data-stu-id="c1995-104">Run the diagnostic “Team Add-in is missing in Outlook,” which validates that a user has the correct policies to enable the Teams Outlook add-in.</span></span> <span data-ttu-id="c1995-105">Aby uzyskać dostęp do tej diagnostyki, wpisz **Diag: Teams brak** dodatku w Outlook polu wyszukiwania.</span><span class="sxs-lookup"><span data-stu-id="c1995-105">To access the diagnostic, type **Diag: Teams Add-in Missing in Outlook** in the search box.</span></span>
 
-<span data-ttu-id="8cb98-106">Aby ręcznie rozwiązać problemy z brakującą listą dodatek programu Outlook Teams, przejrzyj listę potencjalnych czynników, które mogą spowodować, że dodatek Teams nie zostanie wyświetlony na liście.</span><span class="sxs-lookup"><span data-stu-id="8cb98-106">To manually troubleshoot a missing Teams Outlook add-in, review the list of potential factors that might cause your Teams add-in not to appear listed.</span></span> <span data-ttu-id="8cb98-107">Aby uzyskać więcej informacji, zobacz Dodatek Spotkanie aplikacji Teams w programie Outlook dla [systemu Windows nie wyświetla się.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)</span><span class="sxs-lookup"><span data-stu-id="8cb98-107">For more info, see [Teams Meeting add-in in Outlook for Windows does not show](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
+1. <span data-ttu-id="c1995-106">Jeśli diagnostyka usługi nie wskazuje żadnych problemów, diagnozowanie i rozwiązywanie problemów klienta na odpowiednich komputerach użytkowników przez pobranie i uruchomienie scenariusza dodatku [Microsoft Asystent odzyskiwania i pomocy technicznej](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook.**</span><span class="sxs-lookup"><span data-stu-id="c1995-106">If the Service Diagnostic indicates no issues, diagnose and correct any client issues on the affected user machines  by downloading and running the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) > **Teams Outlook Add-in Scenario**.</span></span>
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a><span data-ttu-id="8cb98-108">Aby rozwiązać problemy z planowaniem spotkania w uimieniu innej osoby (pełnomocnika)</span><span class="sxs-lookup"><span data-stu-id="8cb98-108">To troubleshoot scheduling a Teams meeting on behalf of someone else (Delegate)</span></span>
+<span data-ttu-id="c1995-107">Aby ręcznie rozwiązać problem z brakującym Teams Outlook, przejrzyj listę potencjalnych czynników, które mogą spowodować, że Teams nie będzie widoczny na liście.</span><span class="sxs-lookup"><span data-stu-id="c1995-107">To manually troubleshoot a missing Teams Outlook add-in, review the list of potential factors that might cause your Teams add-in not to appear listed.</span></span> <span data-ttu-id="c1995-108">Aby uzyskać więcej informacji, [Teams dodatku Spotkania w programie Outlook, Windows nie jest pokazywany.](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)</span><span class="sxs-lookup"><span data-stu-id="c1995-108">For more info, see [Teams Meeting add-in in Outlook for Windows does not show](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
 
-<span data-ttu-id="8cb98-109">Aby zaplanować spotkanie aplikacji Teams w imieniu innej osoby, zobacz Rozwiązywanie problemów z usługą [Microsoft Teams Exchange Server interakcjami.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)</span><span class="sxs-lookup"><span data-stu-id="8cb98-109">To schedule a Teams meeting on someone else's behalf, see [Troubleshoot Microsoft Teams and Exchange Server interaction issues](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).</span></span>
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a><span data-ttu-id="c1995-109">Aby rozwiązać problemy z Teams spotkania w imieniu innej osoby (pełnomocnik)</span><span class="sxs-lookup"><span data-stu-id="c1995-109">To troubleshoot scheduling a Teams meeting on behalf of someone else (Delegate)</span></span>
+
+<span data-ttu-id="c1995-110">Aby zaplanować Teams w imieniu innej osoby, zobacz Rozwiązywanie problemów z Microsoft Teams i Exchange Server [interakcjami.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)</span><span class="sxs-lookup"><span data-stu-id="c1995-110">To schedule a Teams meeting on someone else's behalf, see [Troubleshoot Microsoft Teams and Exchange Server interaction issues](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).</span></span>

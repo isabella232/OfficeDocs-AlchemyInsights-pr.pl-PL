@@ -1,5 +1,5 @@
 ---
-title: 9001220 zaawansowane wykrywanie niestandardowych polowań
+title: 9001220 zaawansowane wykrywanie niestandardowego wyszukiwania
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,22 +14,22 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: ea478cfbbbe96065608990770e0453d8f2613981
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801525"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543011"
 ---
-# <a name="advanced-hunting-custom-detections"></a><span data-ttu-id="6dca6-102">Zaawansowane wykrywanie niestandardowych polowań</span><span class="sxs-lookup"><span data-stu-id="6dca6-102">Advanced Hunting Custom detections</span></span>
+# <a name="advanced-hunting-custom-detections"></a><span data-ttu-id="eb2df-102">Wykrywanie niestandardowe z zaawansowanymi wyszukiwaniami</span><span class="sxs-lookup"><span data-stu-id="eb2df-102">Advanced Hunting Custom detections</span></span>
 
-<span data-ttu-id="6dca6-103">Możesz dowiedzieć się, jak tworzyć niestandardowe reguły wykrywania i zarządzać nimi na podstawie zaawansowanych zapytań o łowiectwo.</span><span class="sxs-lookup"><span data-stu-id="6dca6-103">You can learn how to create and manage custom detections rules based on advanced hunting queries.</span></span> <span data-ttu-id="6dca6-104">Dzięki mechanizmom wykrywania niestandardowego można z wyprzedzeniem monitorować i odpowiadać na różne zdarzenia i Stany systemu, w tym podejrzane działania i źle skonfigurowane urządzenia.</span><span class="sxs-lookup"><span data-stu-id="6dca6-104">With custom detections, you can proactively monitor for and respond to various events and system states, including suspected breach activity and misconfigured devices.</span></span> <span data-ttu-id="6dca6-105">Możesz to zrobić za pomocą reguł wykrywania, które umożliwiają automatyczne wyzwalanie alertów i akcji związanych z odpowiedziami</span><span class="sxs-lookup"><span data-stu-id="6dca6-105">You can do so with customizable detection rules that automatically trigger alerts and response actions</span></span>
+<span data-ttu-id="eb2df-103">Możesz dowiedzieć się, jak tworzyć niestandardowe reguły wykrywania i zarządzać nimi na podstawie zaawansowanych zapytań myśliwnych.</span><span class="sxs-lookup"><span data-stu-id="eb2df-103">You can learn how to create and manage custom detections rules based on advanced hunting queries.</span></span> <span data-ttu-id="eb2df-104">Wykrywanie niestandardowe pozwala aktywnie monitorować różne zdarzenia i stany systemowe, w tym podejrzewać naruszenie zabezpieczeń i źle skonfigurowane urządzenia, oraz reagować na nie.</span><span class="sxs-lookup"><span data-stu-id="eb2df-104">With custom detections, you can proactively monitor for and respond to various events and system states, including suspected breach activity and misconfigured devices.</span></span> <span data-ttu-id="eb2df-105">Można to zrobić za pomocą dostosowywalnych reguł wykrywania, które automatycznie wyzwalają alerty i akcje odpowiedzi.</span><span class="sxs-lookup"><span data-stu-id="eb2df-105">You can do so with customizable detection rules that automatically trigger alerts and response actions</span></span>
   
-<span data-ttu-id="6dca6-106">Jeśli korzystasz z usługi Microsoft Defender ATP, aby uzyskać szczegółowe informacje, zobacz następujące tematy:</span><span class="sxs-lookup"><span data-stu-id="6dca6-106">If you are using Microsoft Defender ATP, see the following topics for details:</span></span> 
-- [<span data-ttu-id="6dca6-107">Omówienie wykrywania niestandardowego</span><span class="sxs-lookup"><span data-stu-id="6dca6-107">Custom detections overview</span></span>](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
-- [<span data-ttu-id="6dca6-108">Tworzenie niestandardowych reguł wykrywania</span><span class="sxs-lookup"><span data-stu-id="6dca6-108">Create custom detection rules</span></span>](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
-- [<span data-ttu-id="6dca6-109">Wyświetlanie niestandardowych reguł wykrywania i zarządzanie nimi</span><span class="sxs-lookup"><span data-stu-id="6dca6-109">View and manage custom detection rules</span></span>](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
+<span data-ttu-id="eb2df-106">Jeśli używasz programu Microsoft Defender ATP, zobacz następujące tematy, aby uzyskać szczegółowe informacje:</span><span class="sxs-lookup"><span data-stu-id="eb2df-106">If you are using Microsoft Defender ATP, see the following topics for details:</span></span> 
+- [<span data-ttu-id="eb2df-107">Wykrywanie niestandardowe — omówienie</span><span class="sxs-lookup"><span data-stu-id="eb2df-107">Custom detections overview</span></span>](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
+- [<span data-ttu-id="eb2df-108">Tworzenie reguł wykrywania niestandardowego</span><span class="sxs-lookup"><span data-stu-id="eb2df-108">Create custom detection rules</span></span>](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
+- [<span data-ttu-id="eb2df-109">Wyświetlanie reguł wykrywania niestandardowego i zarządzanie nimi</span><span class="sxs-lookup"><span data-stu-id="eb2df-109">View and manage custom detection rules</span></span>](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-<span data-ttu-id="6dca6-110">Jeśli korzystasz z programu Microsoft 365 Defender, zobacz poniższe tematy, aby uzyskać szczegółowe informacje:</span><span class="sxs-lookup"><span data-stu-id="6dca6-110">If you are using Microsoft 365 Defender, see the following topics for details:</span></span> 
-- [<span data-ttu-id="6dca6-111">Omówienie wykrywania niestandardowego</span><span class="sxs-lookup"><span data-stu-id="6dca6-111">Custom detections overview</span></span>](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
-- [<span data-ttu-id="6dca6-112">Tworzenie niestandardowych reguł wykrywania i zarządzanie nimi</span><span class="sxs-lookup"><span data-stu-id="6dca6-112">Create and manage custom detections rules</span></span>](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)
+<span data-ttu-id="eb2df-110">Jeśli używasz programu Microsoft 365 Defender, zobacz następujące tematy, aby uzyskać szczegółowe informacje:</span><span class="sxs-lookup"><span data-stu-id="eb2df-110">If you are using Microsoft 365 Defender, see the following topics for details:</span></span> 
+- [<span data-ttu-id="eb2df-111">Wykrywanie niestandardowe — omówienie</span><span class="sxs-lookup"><span data-stu-id="eb2df-111">Custom detections overview</span></span>](/microsoft-365/security/mtp/custom-detections-overview)
+- [<span data-ttu-id="eb2df-112">Tworzenie reguł wykrywania niestandardowego i zarządzanie nimi</span><span class="sxs-lookup"><span data-stu-id="eb2df-112">Create and manage custom detections rules</span></span>](/microsoft-365/security/mtp/custom-detection-rules)
