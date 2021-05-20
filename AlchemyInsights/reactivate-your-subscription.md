@@ -1,10 +1,11 @@
 ---
 title: Ponowne aktywowanie subskrypcji
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -14,37 +15,32 @@ ms.custom:
 - "9001497"
 - "4736"
 - "3551"
-ms.openlocfilehash: 83f4c28ae26267e71af5488484330df53e08d1bd
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
-ms.translationtype: HT
+ms.openlocfilehash: bde53301b351359012394304a2236f526a478a32
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43160862"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544444"
 ---
 # <a name="reactivate-your-subscription"></a>Ponowne aktywowanie subskrypcji
 
-Jeśli Twoja subskrypcja wygasła lub została wyłączona przez firmę Microsoft albo jeśli została anulowana przez Ciebie w środku okresu subskrypcji, możesz ją ponownie aktywować w centrum administracyjnym. 
+Jeśli Twoja subskrypcja wygasła lub została wyłączona przez firmę Microsoft albo jeśli została anulowana przez Ciebie w środku okresu subskrypcji, możesz ją ponownie aktywować w centrum administracyjnym.
 
-1. W centrum administracyjnym przejdź do strony **Rozliczenia > [Produkty i usługi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. W centrum administracyjnym przejdź do strony **Rozliczenia**  >  [z produktami.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **karcie Produkty** znajdź subskrypcję, którą chcesz aktywować ponownie. Wybierz trzy kropki (więcej akcji), a następnie wybierz pozycję **Aktywuj ponownie tę subskrypcję**.
+3. W **okienku Aktywuj ponownie tę** subskrypcję wybierz z listy rozwijanej metodę płatności lub wybierz **pozycję Dodaj metodę płatności**.
+4. Wybierz pozycję **Zapisz**.
 
-2. Na stronie **Produkty i usługi** znajdź subskrypcję, którą chcesz aktywować ponownie.  W sekcji **Rozliczenia** kliknij pozycję **Aktywuj ponownie teraz**.  Jeśli jesteś w widoku **Karty**, kliknij wielokropek między pozycjami **Nazwa** i **Dostępna ilość**, a następnie kliknij pozycję **Aktywuj ponownie** w menu. **Uwaga**: jeśli nie widzisz szukanej subskrypcji, może być konieczne ustawienie filtru **Stan subskrypcji** u góry strony na wartość **Wszystkie**.
-
-3. Potwierdź dane dotyczące płatności.  Tutaj możesz też zaktualizować swoje istniejące informacje o płatności.  Po zakończeniu wprowadzania metody płatności kliknij pozycję **Aktywuj ponownie**.
-
-Aby dowiedzieć się więcej, zobacz [Ponowne aktywowanie subskrypcji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Aby dowiedzieć się więcej, zobacz [Ponowne aktywowanie subskrypcji](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Zarządzanie odnawianiem subskrypcji**
 
-Aby zarządzać rozliczeniami w ujęciu miesięcznym lub rocznym, możesz włączyć lub wyłączyć rozliczanie cykliczne.
+Aby zarządzać rozliczeniami w ujęciu miesięcznym lub rocznym, możesz włączyć lub wyłączyć **rozliczanie cykliczne**.
 
-1. W centrum administracyjnym przejdź do strony **Rozliczenia > [Produkty i usługi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. W centrum administracyjnym przejdź do strony **Rozliczenia**  >  [z produktami.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **karcie Produkty** wybierz subskrypcję, którą chcesz zmienić.
+3. Na stronie szczegółów subskrypcji w obszarze **Ustawienia subskrypcji i płatności wybierz** pozycję Edytuj rozliczenia **cykliczne**.
+4. W **okienku Edytuj ustawienia rozliczeń cyklicznych** wybierz pozycję **Wł.,** **Włącz, ale odnów raz** lub **Wyłącz**.
+5. Wybierz pozycję **Zapisz**.
 
-2. Wybierz subskrypcję, dla której chcesz zarządzać rozliczaniem cyklicznym. 
-
-3. W obszarze Rozliczenia obok pozycji Odnowienie lub Wygaśnięcie kliknij pozycję **Edytuj**.
-
-4. W okienku Ustawienia rozliczania cyklicznego zaznacz pole wyboru **Wyłącz**, aby wyłączyć tę funkcję. Jeśli rozliczenie cykliczne jest już wyłączone, kliknij pozycję **Co miesiąc** lub **Jeden raz**, aby włączyć tę funkcję. 
-
-5. Kliknij pozycję **Zatwierdź zmiany**.
-
-Aby uzyskać więcej informacji, zobacz [Włączanie i wyłączanie rozliczania cyklicznego](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Aby uzyskać więcej informacji, zobacz [Włączanie i wyłączanie rozliczania cyklicznego](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

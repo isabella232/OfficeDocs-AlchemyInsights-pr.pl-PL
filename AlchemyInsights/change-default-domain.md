@@ -6,27 +6,28 @@ manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5993"
 - "9003196"
-ms.openlocfilehash: 3ac582f65d00753d78ed75dc2362ed9ae3ac87c0
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: d293eb49f2f8a299feb61b4dfcd9d48011f79c3c
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088436"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569805"
 ---
 # <a name="change-default-domain"></a>Zmienianie domeny domyślnej
 
-Po dodaniu domeny niestandardowej za pomocą [Kreatora dodawania domeny domena](https://portal.office.com/adminportal/home#/Domains/Wizard)niestandardowa staje się domeną domyślną dla nowych użytkowników, ale istniejący użytkownicy nie zostaną zmienieni.
+Po dodaniu domeny niestandardowej za [pomocą](https://admin.microsoft.com/Adminportal#/Domains/Wizard)Kreatora dodawania domeny domena niestandardowa staje się domeną domyślną dla nowych użytkowników, ale istniejący użytkownicy nie są zmieniani.
 
-- Aby zmienić domenę domyślną na istniejącą domenę, wybierz domenę na [stronie Domeny](https://admin.microsoft.com/Adminportal/Home#/Domains), a następnie wybierz pozycję Ustaw **jako domyślną**.
+- Aby zmienić domenę domyślną na istniejącą domenę, wybierz domenę na stronie [Domeny,](https://admin.microsoft.com/Adminportal/Home#/Domains)a następnie wybierz **pozycję Ustaw jako domyślną.**
 
-- Aby zmienić nazwę domeny dla istniejących użytkowników, na [stronie Aktywni użytkownicy](https://admin.microsoft.com/Adminportal/Home#/users) wybierz pozycję wielu użytkowników, wybierz **pozycję ...,** a następnie wybierz pozycję **Zmień domeny**.
+- Aby zmienić nazwę domeny dla istniejących użytkowników, na stronie [Aktywni](https://admin.microsoft.com/Adminportal/Home#/users) użytkownicy zaznacz wielu użytkowników, a następnie wybierz pozycję **Zmień domeny.**
 
-- Aby zmienić domenę lub dodać alias dla pojedynczego użytkownika, na [stronie Aktywni użytkownicy](https://admin.microsoft.com/Adminportal/Home#/users) wybierz nazwę użytkownika, a następnie wybierz pozycję **Zarządzaj nazwą użytkownika i pocztą e-mail**.
+- Aby zmienić domenę lub dodać alias dla [](https://admin.microsoft.com/Adminportal/Home#/users) jednego użytkownika, na stronie Aktywni użytkownicy wybierz nazwę użytkownika, a następnie wybierz pozycję Zarządzaj nazwą użytkownika i pocztą **e-mail.**
 
-Nie można zmienić nazwy domeny początkowej onmicrosoft.com ani usunąć.
+Nazwy domeny onmicrosoft.com nie można zmienić ani usunąć.

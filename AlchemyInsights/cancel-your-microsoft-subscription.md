@@ -1,29 +1,31 @@
 ---
 title: Anulowanie subskrypcji firmy Microsoft
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 0bc16dac8daf6219fcd3507e1f47d1d62a0961d2
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707752"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543335"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Anulowanie subskrypcji firmy Microsoft
 
-1. Przejdź do menu [Usługi i subskrypcje](https://account.microsoft.com/services/), a następnie zaloguj się przy użyciu konta Microsoft, które zostało użyte podczas zakupu subskrypcji.
+Administratorzy mogą anulować subskrypcję dla swojej organizacji w centrum Microsoft 365 administracyjnego.
 
-2. Znajdź subskrypcję, a następnie kliknij pozycję **Zarządzaj**. Jeśli zobaczysz menu **Włączanie rozliczania cyklicznego** zamiast menu **Zarządzaj**, przejdź do sekcji Rozwiązywanie problemów. W przeciwnym razie przejdź do kroku 3.
+1. Przejdź na  stronę \> [Rozliczenia Twoje](https://go.microsoft.com/fwlink/p/?linkid=842054) produkty.
+2. Na **karcie Produkty** znajdź subskrypcję, którą chcesz anulować. Wybierz trzy kropki (więcej akcji), a następnie wybierz Anuluj **subskrypcję**.
+3. W **okienku Anulowanie** subskrypcji wybierz powód anulowania. Opcjonalnie możesz przekazać opinię.
+4. Wybierz pozycję **Zapisz**.
 
-3. Na następnej stronie kliknij pozycję **Anuluj** lub **Uaktualnij lub anuluj** — w zależności od typu subskrypcji.
-
-4. Postępuj zgodnie z instrukcjami na stronie, aby anulować subskrypcję.
+**Zwrot kosztów:** Wszelkie proporcjonalnie do zwrotu środków zostaną ci zwrócone w następnym cyklu rozliczeniowym.

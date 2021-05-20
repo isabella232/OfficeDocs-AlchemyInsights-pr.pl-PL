@@ -13,22 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: b6041dd41d0d94b832b962518c73560737684ce1
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088892"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573756"
 ---
 # <a name="disable-chat"></a>Wyłączanie czatu
 
-Aby wyłączyć czat dla swojej organizacji, możesz utworzyć zasady, które umożliwią kontrolowanie dostępności funkcji wiadomości czatu i kanału. Można to zrobić na kilka sposobów, w zależności od sposobu konfigurowania czatu.
+Aby włączyć lub wyłączyć czat w organizacji, możesz utworzyć zasady umożliwiające kontrolowanie, które funkcje czatu i wysyłania wiadomości kanału są dostępne. Można to zrobić na kilka sposobów, w zależności od tego, jak trzeba skonfigurować czat.
 
-- **Wiadomości**: w centrum administracyjnym zespołów przejdź do [zasad wiadomości](https://admin.teams.microsoft.com/)i Włącz lub **Wyłącz** **czat** . Aby uzyskać więcej informacji na temat niestandardowych zasad obsługi wiadomości i sposobów przypisywania zasad użytkownikom, zobacz [Zarządzanie zasadami obsługi wiadomości w aplikacji Teams](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams).
-- **Spotkanie**: w centrum administracyjnym zespołów przejdź do obszaru [zasady spotkania](https://admin.teams.microsoft.com/) — ustawienie czatu **umożliwia czat w spotkaniach**. Aby uzyskać więcej informacji na temat tworzenia niestandardowych zasad spotkań, zobacz [Zarządzanie zasadami spotkania w aplikacji Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) i [Zezwalanie na czat w spotkaniach](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings).
-- **Użytkownicy korzystający z Gości**: możesz skonfigurować zasady dostępu gościa, aby umożliwić Gościom dostęp do czatu, kto może włączać lub **wyłączać** **czat** . Aby uzyskać więcej informacji, zobacz [Konfigurowanie dostępu gościa w centrum administracyjnym aplikacji Teams](https://docs.microsoft.com/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center).
-- **Uczniowie**: Aby wyłączyć czat dla ucznia, zobacz Opcje zezwalania na czat na spotkaniach oraz Zezwalanie na czat usługi 1:1 w [zasadach i pakietach zasad programu Teams dla instytucji edukacyjnych](https://docs.microsoft.com/microsoftteams/policy-packages-edu).
+- **Spotkanie:** W centrum Teams przejdź do pozycji Zasady spotkania [—](https://admin.teams.microsoft.com/) ustawienie czatu to Zezwalaj na czat **podczas spotkań.** Aby uzyskać więcej informacji na temat tworzenia niestandardowych zasad spotkań, zobacz Zarządzanie zasadami spotkań w programie [Teams](/microsoftteams/meeting-policies-in-teams) i Zezwalanie [na czat podczas spotkań.](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)
 
+- **M*essaging:** W centrum administracyjnym usługi Teams przejdź do pozycji  Zasady wiadomości [i](https://admin.teams.microsoft.com/)włącz lub wyłącz **czat.** Aby uzyskać więcej informacji na temat niestandardowych zasad obsługi wiadomości i sposobu przypisywania zasad do użytkowników, zobacz Zarządzanie zasadami obsługi wiadomości w [programie Teams.](/microsoftteams/messaging-policies-in-teams)
+
+- **Uczniowie:** Aby wyłączyć czat dla ucznia, zapoznaj się z opcjami umożliwiającymi rozmawianie na spotkaniach i zezwolenie na czat 1:1 w zasadach programu Teams pakietach zasad dla [edukacji.](/microsoftteams/policy-packages-edu)
+
+- Użytkownicy goście: Możesz tak skonfigurować zasady dostępu gości, aby umożliwić gościom  dostęp do czatu, którzy mogą włączać lub wyłączać **czat.** Aby uzyskać więcej informacji, [zobacz Konfigurowanie dostępu gościa w centrum Teams administracyjnego.](/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center)
 
 
 

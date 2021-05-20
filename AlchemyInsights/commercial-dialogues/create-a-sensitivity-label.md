@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: c55550529aff28fd13c8329bc1f2303e04cf1316
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1869cff3a5ef80a90d36a7d40199c14011cd87a0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747880"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543767"
 ---
 # <a name="create-a-sensitivity-label"></a>Tworzenie etykiety wrażliwości
 
 Aby utworzyć etykietę wrażliwości, wykonaj następujące czynności:
 
-1. Przejdź do Centrum **[zabezpieczeń usługi Office 365 & zgodności](https://sip.protection.office.com/) > klasyfikacji > wrażliwości.**
-2. Kliknij **pozycję + Utwórz etykietę,** aby uruchomić kreatora Nowa **etykieta wrażliwości.** Aby uzyskać więcej informacji na temat [](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels) ustawień szyfrowania i automatycznego oznaczania, [](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)zobacz Ograniczanie dostępu do zawartości przy użyciu szyfrowania etykiet wrażliwości i Stosowanie etykiet wrażliwości odpowiednio do zawartości.
-3. Powtórz te czynności, aby utworzyć więcej etykiet. Jeśli jednak chcesz utworzyć etykietę podrzędną, najpierw zaznacz etykietę nadrzędną, kliknij pozycję **...** w celu wybrania opcji Więcej akcji **,** a następnie kliknij pozycję Dodaj pod **etykietę**.
-4. Po utworzeniu wszystkich potrzebnych etykiet przejrzyj ich kolejność i w razie potrzeby przenieś je w górę lub w dół. Aby zmienić kolejność etykiet, kliknij pozycję **...** w celu ustawienia **Więcej** akcji , a następnie kliknij pozycję **Przenieś w** górę lub Przenieś **w dół**. 
+1. Przejdź do centrum Office 365 zabezpieczeń & zgodności > **[](https://sip.protection.office.com/) klasyfikacji > etykietach wrażliwości.**
+2. Kliknij **pozycję + Utwórz etykietę,** aby uruchomić kreatora Nowa **etykieta wrażliwości.** Aby uzyskać więcej informacji na temat [](/microsoft-365/compliance/encryption-sensitivity-labels) ustawień szyfrowania i automatycznego oznaczania, [](/microsoft-365/compliance/apply-sensitivity-label-automatically)zobacz Ograniczanie dostępu do zawartości przy użyciu szyfrowania etykiet wrażliwości i Stosowanie etykiet wrażliwości odpowiednio do zawartości.
+3. Powtórz te czynności, aby utworzyć więcej etykiet. Jeśli jednak chcesz utworzyć etykietę podrzędną, najpierw zaznacz etykietę nadrzędną, wybierz trzy kropki (więcej akcji), a następnie wybierz pozycję **Dodaj pod etykietę**.
+4. Po utworzeniu wszystkich potrzebnych etykiet przejrzyj ich kolejność i w razie potrzeby przenieś je w górę lub w dół. Aby zmienić kolejność etykiety, zaznacz trzy kropki (więcej akcji), a następnie wybierz pozycję **Przenieś w** górę lub **Przenieś w dół**. 
