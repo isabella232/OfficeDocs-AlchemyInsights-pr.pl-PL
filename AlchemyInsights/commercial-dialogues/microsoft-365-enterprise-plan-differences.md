@@ -1,5 +1,5 @@
 ---
-title: Różnice między planami usługi Microsoft 365 Enterprise
+title: Microsoft 365 Enterprise różnic między planami
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf35cee7bf3f1d6b761043be865dc35d80071c32
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748525"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539762"
 ---
-# <a name="microsoft-365-enterprise-plan-differences"></a>Różnice między planami usługi Microsoft 365 Enterprise
+# <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Enterprise różnic między planami
 
-Usługa Microsoft 365 Enterprise E5 zawiera wszystkie funkcje usługi Microsoft 365 Enterprise E3 oraz zaawansowane funkcje zabezpieczeń, takie jak:
+Microsoft 365 Enterprise W programie E5 są dostępne wszystkie funkcje Microsoft 365 Enterprise E3 oraz zaawansowane zabezpieczenia, takie jak:
 
-- Zaawansowana ochrona przed zagrożeniami (ATP)
+- Ochrona przed zagrożeniami
 - Zaawansowane zarządzanie danymi
 - Skrytka klienta
-- Zabezpieczenia aplikacji w chmurze platformy Microsoft 365
+- Microsoft 365 Cloud App Security
 - Advanced eDiscovery
 - Usługi zarządzania prawami
 - Magazyn kluczy platformy Azure
 
-Usługa Microsoft 365 Enterprise E5 oferuje również zaawansowane funkcje analizy i głosu, takie jak:
+Microsoft 365 Enterprise W ramach usługi E5 dostępne są również zaawansowane funkcje analityczne i głosowe, takie jak:
 
 - Pulpity nawigacyjne na żywo
-- Raporty za pomocą usługi Power BI
+- Raporty z Power BI
 - Modern Voice
 - Konferencje głosowe
 - Spotkania online
 
-Aby dowiedzieć się więcej o platformie Microsoft 365 Enterprise E5 lub zapisać się na subskrypcję wersji próbnej, zobacz Wypróbowanie lub [zakup subskrypcji platformy Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2099673)
+Aby dowiedzieć się więcej na Microsoft 365 Enterprise E5 lub zapisać się na subskrypcję wersji próbnej, zobacz Wypróbowanie lub Microsoft 365 [subskrypcji.](https://go.microsoft.com/fwlink/?linkid=2099673)
 
-Aby porównać funkcje w planach dla przedsiębiorstw, zobacz [Porównanie planów dla przedsiębiorstw.](https://go.microsoft.com/fwlink/?linkid=2097200)
+Aby porównać funkcje w Enterprise, zobacz [Porównanie Enterprise planów.](https://go.microsoft.com/fwlink/?linkid=2097200)
 
 Będziemy wdzięczni za opinię, więc wybierz pozycję Tak/Nie na pytanie, które zostanie wyświetlone, a następnie oceń swoje wrażenia.

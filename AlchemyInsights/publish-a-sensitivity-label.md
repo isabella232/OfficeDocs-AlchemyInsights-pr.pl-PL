@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 2f09de066bf234bcc92935f662f2d3b1077d0217
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233796"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539654"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Jak opublikować etykietę wrażliwości
 
@@ -36,6 +36,6 @@ ms.locfileid: "52233796"
 
 1. Powtórz te czynności, jeśli potrzebujesz różnych ustawień zasad dla różnych użytkowników lub lokalizacji. Chcesz na przykład dodać etykiety dla grupy użytkowników lub inną etykietę domyślną dla podzbioru użytkowników.
 
-1. Jeśli utworzysz więcej niż jedną zasady etykiet, które mogą powodować konflikty w przypadku użytkownika lub lokalizacji, przejrzyj kolejność zasad i w razie potrzeby przenieś je w górę lub w dół. Aby zmienić kolejność zasad etykiet, wybierz pozycję **...** dla opcji **Więcej** akcji , a następnie wybierz pozycję **Przenieś w** górę lub Przenieś **w dół**.
+1. Jeśli utworzysz więcej niż jedną zasady etykiet, które mogą powodować konflikty w przypadku użytkownika lub lokalizacji, przejrzyj kolejność zasad i w razie potrzeby przenieś je w górę lub w dół. Aby zmienić kolejność zasad etykiet, wybierz trzy kropki (więcej akcji), a następnie wybierz **pozycję** Przenieś w górę lub **Przenieś w dół**.
 
 Ukończenie pracy kreatora spowoduje automatyczne opublikowanie zasad etykiet.
