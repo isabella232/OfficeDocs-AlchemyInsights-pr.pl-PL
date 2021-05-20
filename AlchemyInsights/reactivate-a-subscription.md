@@ -13,20 +13,20 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 05ce5b6d8916db795919036aee1b3687a809bf93
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 27828325832f3a7313743327a95e6cee0ae26a15
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489017"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545494"
 ---
-# <a name="reactivate-a-microsoft-365-subscription"></a><span data-ttu-id="11a2c-102">Ponowne aktywowanie subskrypcji produktu Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="11a2c-102">Reactivate a Microsoft 365 subscription</span></span>
+# <a name="reactivate-a-microsoft-365-subscription"></a><span data-ttu-id="6e76f-102">Ponowne aktywowanie subskrypcji Microsoft 365 subskrypcji usługi</span><span class="sxs-lookup"><span data-stu-id="6e76f-102">Reactivate a Microsoft 365 subscription</span></span>
 
-<span data-ttu-id="11a2c-103">Jeśli subskrypcja wygaśnie, została wyłączona przez firmę Microsoft lub anulowana w środku okresu subskrypcji, możesz ją ponownie aktywować w centrum administracyjnym.</span><span class="sxs-lookup"><span data-stu-id="11a2c-103">If your subscription expires, was disabled by Microsoft, or you cancelled it in the middle of a subscription term, you can reactivate it in the admin center.</span></span>
+<span data-ttu-id="6e76f-103">Jeśli Twoja subskrypcja wygasa, została wyłączona przez firmę Microsoft lub została anulowana w środku okresu subskrypcji, możesz ją ponownie aktywować w centrum administracyjnym.</span><span class="sxs-lookup"><span data-stu-id="6e76f-103">If your subscription expires, was disabled by Microsoft, or you cancelled it in the middle of a subscription term, you can reactivate it in the admin center.</span></span>
   
-1. <span data-ttu-id="11a2c-104">W centrum administracyjnym przejdź do strony **rozliczanie**  >  [produktów](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="11a2c-104">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="11a2c-105">Na karcie **produkty** Znajdź subskrypcję, którą chcesz ponownie uaktywnić.</span><span class="sxs-lookup"><span data-stu-id="11a2c-105">On the **Products** tab, find the subscription that you want to reactivate.</span></span> <span data-ttu-id="11a2c-106">Wybierz pozycję **więcej akcji** (trzy kropki), a następnie wybierz pozycję **Aktywuj ponownie tę subskrypcję**.</span><span class="sxs-lookup"><span data-stu-id="11a2c-106">Select **More actions** (three dots), then select **Reactivate this subscription**.</span></span>
-3. <span data-ttu-id="11a2c-107">W okienku **ponowna aktywacja tego abonamentu** wybierz metodę płatności z listy rozwijanej lub wybierz pozycję **Dodaj metodę płatności**.</span><span class="sxs-lookup"><span data-stu-id="11a2c-107">In the **Reactivate this subscription** pane, select a payment method from the drop-down list, or select **Add payment method**.</span></span>
-4. <span data-ttu-id="11a2c-108">Wybierz **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="11a2c-108">Select **Save**.</span></span>
+1. <span data-ttu-id="6e76f-104">W centrum administracyjnym przejdź do strony **Rozliczenia**  >  [z produktami.](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="6e76f-104">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="6e76f-105">Na **karcie Produkty** znajdź subskrypcję, którą chcesz aktywować ponownie.</span><span class="sxs-lookup"><span data-stu-id="6e76f-105">On the **Products** tab, find the subscription that you want to reactivate.</span></span> <span data-ttu-id="6e76f-106">Wybierz trzy kropki (więcej akcji), a następnie wybierz pozycję **Aktywuj ponownie tę subskrypcję**.</span><span class="sxs-lookup"><span data-stu-id="6e76f-106">Select the three dots (more actions), then select **Reactivate this subscription**.</span></span>
+3. <span data-ttu-id="6e76f-107">W **okienku Aktywuj ponownie tę** subskrypcję wybierz z listy rozwijanej metodę płatności lub wybierz **pozycję Dodaj metodę płatności**.</span><span class="sxs-lookup"><span data-stu-id="6e76f-107">In the **Reactivate this subscription** pane, select a payment method from the drop-down list, or select **Add payment method**.</span></span>
+4. <span data-ttu-id="6e76f-108">Wybierz pozycję **Zapisz**.</span><span class="sxs-lookup"><span data-stu-id="6e76f-108">Select **Save**.</span></span>
 
-<span data-ttu-id="11a2c-109">Aby dowiedzieć się więcej, zobacz [Ponowne aktywowanie subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="11a2c-109">To learn more, see [Reactivate your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>
+<span data-ttu-id="6e76f-109">Aby dowiedzieć się więcej, zobacz [Ponowne aktywowanie subskrypcji](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="6e76f-109">To learn more, see [Reactivate your subscription](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>
