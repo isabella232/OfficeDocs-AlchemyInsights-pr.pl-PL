@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: a8d5ad2246b9b83e1e0a4d5be4dd8bb41c16e734
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 39f180852fd0438597fa1ce665b2703fbc7b1aa4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713841"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539690"
 ---
 # <a name="issues-installing-microsoft-defender-on-mac-or-linux"></a>Problemy z instalowaniem programu Microsoft Defender na komputerach Mac lub Linux
 
 **Mac**
 
-- Przed zainstalowaniem programu Microsoft Defender ATP dla komputerów Mac upewnij się, że są spełnione wymagania systemowe. Aby uzyskać więcej informacji, zobacz [Jak zainstalować program Microsoft Defender ATP dla komputerów Mac.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#how-to-install-microsoft-defender-atp-for-mac)  
+- Upewnij się, że są spełnione wymagania systemowe przed zainstalowaniem pakietu Microsoft Defender ATP komputerów Mac. Aby uzyskać więcej informacji, [zobacz Jak zainstalować pakiet Microsoft Defender ATP dla komputerów Mac.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#how-to-install-microsoft-defender-atp-for-mac)  
 - Przejrzyj informacje w pliku: "/Library/Logs/Microsoft/mdatp/install.log".
 
 **Linux**
 
-- Przed zainstalowaniem programu Microsoft Defender ATP dla systemu Linux upewnij się, że są spełnione wymagania systemowe. Aby uzyskać więcej informacji, zobacz [Jak zainstalować program Microsoft Defender ATP dla systemu Linux.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements) 
-- Aby sprawdzić, czy usługa MDATP jest uruchomiona, zobacz [Instalacja nie powiodła się.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#installation-failed)  
-    Aby rozwiązać i rozwiązać problemy, jeśli usługa nie jest uruchomiona, zobacz Kroki rozwiązywania problemów, jeśli usługa [MDATP nie jest uruchomiona.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#steps-to-troubleshoot-if-mdatp-service-isnt-running)
-- Instrukcje sprawdzania konfiguracji klienta, sprawdzania kondycji produktu i uruchamiania testu wykrywania w pliku tekstowym EICAR można znaleźć w [teście konfiguracji klienta.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-install-manually#client-configuration)  
+- Upewnij się, że są spełnione wymagania systemowe przed zainstalowaniem pakietu Microsoft Defender ATP dla systemu Linux. Aby uzyskać więcej informacji, zobacz [Jak zainstalować system MDATP Linux.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements) 
+- Aby sprawdzić, MDATP, zobacz Instalacja [nie powiodła się.](/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#installation-failed)  
+    Aby rozwiązać problemy, jeśli usługa nie jest uruchomiona, zobacz Kroki rozwiązywania problemów z nieuprawnianą usługą [MDATP.](/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#steps-to-troubleshoot-if-mdatp-service-isnt-running)
+- Instrukcje sprawdzania konfiguracji klienta, która pozwala na sprawdzenie kondycji produktu, oraz uruchomienia testu wykrywania w pliku tekstowym EICAR, zawiera [temat Konfiguracja klienta.](/windows/security/threat-protection/microsoft-defender-atp/linux-install-manually#client-configuration)  
 
-    **Uwaga** Aby uzyskać listę obsługiwanych systemów plików do obsługi aktywności w dostępie, zobacz [Microsoft Defender ATP dla systemu Linux.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)
+    **Uwaga** Aby uzyskać listę obsługiwanych systemów plików na temat aktywności przy dostępie, zobacz informacje dla systemu [Microsoft Defender ATP Linux.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)
