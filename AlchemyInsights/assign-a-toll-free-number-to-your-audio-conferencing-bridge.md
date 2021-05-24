@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 8d0ec82e602aff6558a08c4e5b7fb02e07167969
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 76e809d49925f842e69f0b0a17fcf1e62645e75f
+ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821124"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626087"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>Przypisywanie bezpłatnego numeru do mostka konferencji głosowych
 
 Aby przypisać nowy numer telefonu do mostka konferencji głosowych:
 
-1. Zaloguj się do usługi Office 365 przy użyciu Twojego konta służbowego.
-2. Przejdź do **centrum administracyjnego usługi Microsoft 365 > Centra administracyjne > Teams i Skype > Stary portal > Głos > Numery telefonów**.
-3. Wybierz numer telefonu z listy, przejdź do okienka **Działanie** i kliknij pozycję **Przypisz**.
-4. Na stronie **Przypisywanie** kliknij pozycję **Zapisz**.
+1. Przejdź do Centrum administracyjnego usługi Teams firmy Microsoft.
+1. W lewym okienku nawigacji przejdź do **mostków**  >  **konferencyjnych spotkania.**
+1. Zaznacz płatny numer telefonu usługi, który chcesz skonfigurować jako domyślny.
+1. Wybierz pozycję **Ustaw jako domyślny**.
 
-Aby uzyskać więcej informacji, zobacz [Zmienianie numerów telefonów w mostku konferencji głosowych](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
+Aby uzyskać więcej informacji, zobacz [Zmienianie numerów telefonów w mostku konferencji głosowych](/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
