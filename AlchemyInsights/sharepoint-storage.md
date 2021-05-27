@@ -1,5 +1,5 @@
 ---
-title: Magazyn programu SharePoint
+title: Zarządzanie magazynem SharePoint online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96136c9d59ef43890a63db3a18157744bc08f9c
+ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773749"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52689868"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Zarządzanie miejscem do magazynowania usługi SharePoint Online
+# <a name="manage-your-sharepoint-online-storage"></a>Zarządzanie magazynem SharePoint online
 
-Dowiedz się, jak [Magazyn dzierżawy jest obliczany](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) na podstawie Twojego planu.
+W większości organizacji miejsce do SharePoint jest zarządzane automatycznie, więc nie trzeba ustawiać limitów dla każdego zbioru witryn. Aby uzyskać więcej informacji na temat sposobu obliczania miejsca do magazynowania w dzierżawie na podstawie Twojego planu, zobacz [Limity według planu.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)
 
-W przypadku większości organizacji magazyn programu SharePoint jest zarządzany automatycznie, więc nie trzeba ustawiać limitów dla poszczególnych zbiorów witryn.
+Aby uzyskać więcej informacji, zobacz:
 
-Dowiedz się [, jak wyświetlić całkowity i dostępny obszar przechowywania w organizacji](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+- [Zarządzanie limitami miejsca do magazynowania w witrynie](/sharepoint/manage-site-collection-storage-limits)
 
-Dowiedz się, jak [zarządzać poszczególnymi limitami miejsca do magazynowania zbioru witryn](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+- [Zarządzanie limitami miejsca do magazynowania dla poszczególnych witryn](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-Jeśli w witrynie brakuje miejsca lub chcesz się dowiedzieć, która biblioteka lub lista korzysta z miejsca, przejdź do pozycji **Ustawienia witryny**  >  **Metryka magazynowania** (uprawnienia administratora zbioru witryn są wymagane).
+Jeśli w Twojej witrynie jest za dużo miejsca lub chcesz dowiedzieć się, która biblioteka lub lista wykorzystują to miejsce, przejdź do witryny   >  **Ustawienia Storage Metryki** (wymagane są uprawnienia administratora zbioru witryn).
 
-Dowiedz się [, jak monitorować limity miejsca do magazynowania witryn za pomocą programu PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+Aby uzyskać więcej informacji, zobacz:
 
-Dowiedz się, jak [kupić dodatkowe miejsce do magazynowania](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space). 
+- [Monitorowanie limitów miejsca do magazynowania witryn przy użyciu programu PowerShell](/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+
+- [Dodawanie miejsca do magazynowania dla subskrypcji](/microsoft-365/commerce/add-storage-space) 
   
