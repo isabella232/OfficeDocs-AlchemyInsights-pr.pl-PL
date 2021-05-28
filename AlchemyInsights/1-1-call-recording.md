@@ -1,5 +1,5 @@
 ---
-title: Nagrywanie rozmów 1:1
+title: Nagrywanie rozmowy 1:1
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50733859"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696968"
 ---
-# <a name="11-call-recording"></a>Nagrywanie rozmów 1:1
+# <a name="11-call-recording"></a>Nagrywanie rozmowy 1:1
 
-Administratorzy muszą teraz podjąć działania, aby nadal zezwalać użytkownikom na nagrywanie rozmów 1:1.
- 
-Począwszy od 12 kwietnia 2021 r., zaczniemy wymuszać nową opcję zasad połączeń usługi Teams *AllowCloudRecordingForCalls.* 
+Jeśli przycisk **Rozpocznij nagrywanie** jest wyszarzony w czasie połączenia 1:1, musisz zmienić ustawienia zasad dla użytkownika, na który ma to wpływ.   
 
-Obecnie możliwości nagrywania rozmów 1:1 są kontrolowane przez opcję *AllowCloudRecording* w zasadach spotkania usługi Teams. Jeśli użytkownicy mogą nagrywać spotkania w aplikacji Teams, mogą również nagrywać połączenia 1:1.
+Począwszy od 31 maja 2021 r., zaczniemy wymuszanie nowej zasady połączeń usługi Teams *AllowCloudRecordingForCalls.* Przed tą zmianą nagrywanie połączeń 1:1 jest kontrolowane przez zasady spotkań Teams *AllowCloudRecording.* Ta zmiana została udokumentowana we wpisie w Centrum wiadomości: [(Zaktualizowano) 1:1 Wprowadzenie](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)do zasad nagrywania połączeń.  
 
-Jeśli wolisz zablokować wszystkim użytkownikom nagrywanie rozmów 1:1, nie musisz nic robić. *Opcja zasad połączeń AllowCloudRecordingForCalls* zostanie domyślnie $False domyślne.
+*AllowCloudRecordingForCalls*   opcję zasad połączeń jest domyślnie **$False** domyślne. Jeśli wolisz zablokować wszystkim użytkownikom nagrywanie połączeń 1:1, nie musisz nic robić.  
 
-Tę zmianę oprowadzono w następującym wpisie w Centrum wiadomości: (Zaktualizowano) Wprowadzenie do zasad nagrywania połączeń [(1:1)](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) Aby ustawić opcję zasad połączeń aplikacji Teams, należy użyć [programu Teams PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-install)
+Aby włączyć nagrywanie połączeń dla wszystkich użytkowników w połączeniach 1:1, użyj Teams PowerShell, aby uruchomić następujące polecenie cmdlet: 
 
-Aby włączyć rejestrowanie połączeń w połączeniach **1:1:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True
+**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
-Aby wyłączyć rejestrowanie połączeń w połączeniach **1:1:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False
+Ewentualnie możesz utworzyć nowe zasady i ustawić ustawienie **-AllowCloudRecordingForCalls** w celu $true i przypisania tych zasad do użytkowników.  
 
+Aby uzyskać więcej informacji, zobacz 1:1 Kontrolki zasad nagrywania połączeń [są (prawie!) Tutaj](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668).
