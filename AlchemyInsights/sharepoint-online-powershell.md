@@ -1,5 +1,5 @@
 ---
-title: Sharepoint Online PowerShell
+title: Program SharePoint PowerShell nie może nawiązać połączenia
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
-ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
+ms.openlocfilehash: ceb14ac484508480c771dd8406bc56220d7541ec
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52774369"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52931021"
 ---
-# <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
+# <a name="sharepoint-powershell-unable-to-connect"></a>Program SharePoint PowerShell nie może nawiązać połączenia
 
-Pracujesz z programem PowerShell lub skryptami w usłudze SharePoint Online? Aby uzyskać więcej informacji, odwiedź poniższe linki.
-- [Wprowadzenie do powłoki zarządzania SharePoint online](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [Połączenie do programu PowerShell usługi SPO za pomocą uwierzytelniania wieloskładnikowego (MFA)](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- SharePoint wzorce i wskazówki [(PnP, Patterns and Practices)](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) zawiera bibliotekę poleceń programu PowerShell, która umożliwia wykonywanie złożonych akcji zarządzania w kierunku usługi SPO.
+Jeśli występują problemy podczas nawiązywania połączenia z modułem SharePoint PowerShell w trybie online, zobacz Błędy podczas nawiązywania połączenia z powłoką SharePoint [zarządzania online.](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)
