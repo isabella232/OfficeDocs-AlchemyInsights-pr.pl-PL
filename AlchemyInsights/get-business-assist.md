@@ -13,17 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: 3adb6fb2beb8d959d170ab08ca0592a81bc62d76
-ms.sourcegitcommit: a739b533b13a9dd4c4b63f91df5629e27cc86d3d
+ms.openlocfilehash: 9a80ed4740fbc0ecb6fcdb4775678aa88ef21339
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "53005062"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023149"
 ---
 # <a name="get-business-assist"></a>Uzyskiwanie pomocy biznesowej
 
-1. W centrum centrum administracyjne platformy Microsoft 365 przejdź do **subskrypcji Pomoc**  >  **biznesowa**.
-
-1. Wybierz **pozycję Zakup z pomocą** biznesową , a następnie postępuj zgodnie z  >  kreatorem, aby kupić Pomoc biznesową.
+1. W centrum administracyjne platformy Microsoft 365 przejdź do strony Pomoc dla firm w zakresie platformy Microsoft 365 [wybierz](https://go.microsoft.com/fwlink/p/?linkid=2158423)częstotliwość rozliczeń, a następnie wybierz pozycję **Kup**.
+2. Postępuj zgodnie z instrukcjami, aby doewidencować.
 
 Aby dowiedzieć się więcej, [zobacz Pomoc dla firm w zakresie platformy Microsoft 365.](/microsoft-365/admin/misc/business-assist)

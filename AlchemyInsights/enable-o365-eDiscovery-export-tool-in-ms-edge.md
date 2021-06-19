@@ -1,5 +1,5 @@
 ---
-title: Włączanie narzędzia eksportu zbierania elektronicznych materiałów dowodowych pakietu Office 365 w programie Microsoft Edge
+title: Włączanie Office 365 eDiscovery Export Tool w programie Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583683"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023185"
 ---
-# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Włączanie narzędzia eksportu zbierania elektronicznych materiałów dowodowych pakietu Office 365 w programie Microsoft Edge
+# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Włączanie Office 365 eDiscovery Export Tool w programie Microsoft Edge
 
-W programie Microsoft Edge nie jest już domyślnie włączona obsługa funkcji ClickOnce. Aby nadal korzystać z narzędzia eksportu zbierania elektronicznych materiałów dowodowych pakietu Microsoft Office 365, musisz użyć programu Microsoft Internet Explorer lub włączyć opcję obsługi ClickOnce w programie Microsoft Edge opartą na pakiecie chromu w następujący sposób:
+Obsługa ClickOnce jest już domyślnie włączona Microsoft Edge sieci. Aby nadal korzystać z narzędzia Microsoft Office 365 eDiscovery Export Tool, musisz użyć programu Microsoft Internet Explorer lub włączyć opcję pomocy technicznej usługi ClickOnce w programie Chromium opartym na Microsoft Edge w następujący sposób:
 
-1. Przejdź do edge://flags/#edge-krotne kliknięcie.
-1. W przypadku opcji **Obsługa technologii ClickOnce** Zmień wartość z **Ustawienia domyślne** lub **wyłączone** na **włączone**.
-1. U dołu okna przeglądarki kliknij pozycję **Uruchom ponownie**. Zmiana zacznie obowiązywać po ponownym uruchomieniu przeglądarki Microsoft Edge.
+1. Przejdź do edge://flags/#edge-click-once.
+1. W przypadku **ClickOnce pomocy technicznej** zmień wartość **z** Domyślne lub Wyłączone **na** **Włączone.**
+1. U dołu okna przeglądarki kliknij pozycję Uruchom **ponownie**. Zmiany zostaną wprowadzone po ponownym uruchomieniu Microsoft Edge.
 
-Aby dowiedzieć się więcej, zobacz [Korzystanie z narzędzia eksportu zbierania elektronicznych materiałów dowodowych pakietu Office 365 w programie Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).
+Aby dowiedzieć się więcej, zobacz Używanie narzędzia [eDiscovery Export Tool Office 365 eDiscovery Export Tool w programie Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2111611)
