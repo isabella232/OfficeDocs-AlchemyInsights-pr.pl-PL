@@ -1,5 +1,5 @@
 ---
-title: Wskazówki dotyczące uaktualnienia zespołów
+title: Teams uaktualniania
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333938"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095410"
 ---
-# <a name="microsoft-teams-upgrade"></a><span data-ttu-id="a1a9b-102">Uaktualnienie aplikacji Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="a1a9b-102">Microsoft Teams upgrade</span></span>
+# <a name="microsoft-teams-upgrade"></a><span data-ttu-id="6b3e0-102">Microsoft Teams uaktualnianie</span><span class="sxs-lookup"><span data-stu-id="6b3e0-102">Microsoft Teams upgrade</span></span>
 
-<span data-ttu-id="a1a9b-103">**Ważne**: Jeśli użytkownik przeprowadził uaktualnienie z usługi Skype dla firm Online do aplikacji Microsoft Teams w trybie tylko Teams, ale nie jest jeszcze gotowy, możemy pomóc w rozwiązaniu tego problemu za pomocą diagnostycznej pomocy technicznej.</span><span class="sxs-lookup"><span data-stu-id="a1a9b-103">**Important**: If you have been upgraded from Skype for Business Online to Microsoft Teams in Teams Only mode, but find you aren’t ready yet, we can help fix this for you using a support diagnostic.</span></span> <span data-ttu-id="a1a9b-104">Upewnij się, że korzystasz z nowego centrum administracyjnego, przesuwając przełącznik w prawo po prawej stronie od **nowego centrum administracyjnego**.</span><span class="sxs-lookup"><span data-stu-id="a1a9b-104">Make sure you are using the new Admin Center by sliding the toggle in the top right that says **new Admin Center**to the right.</span></span> <span data-ttu-id="a1a9b-105">Korzystając z nowego centrum administracyjnego, kliknij widżet **potrzebujesz pomocy?** , wpisz "**uaktualnienie zespołów**", a następnie postępuj zgodnie z instrukcjami, aby uruchomić diagnostykę.</span><span class="sxs-lookup"><span data-stu-id="a1a9b-105">Using the new Admin Center, click the **Need Help?** widget, type "**Teams Upgrade**", then follow the prompts to run the diagnostic.</span></span>
+<span data-ttu-id="6b3e0-103">Niezależnie od tego, czy rozpoczynasz pracę z usługą Teams, używasz już programu Teams razem z usługą Skype dla firm, czy chcesz uaktualnić system, chcemy mieć pewność, że masz wszystko, czego potrzebujesz, aby przejść do pomyślnej podróży do Teams.</span><span class="sxs-lookup"><span data-stu-id="6b3e0-103">Whether you’re just getting started with Teams, already using Teams alongside Skype for Business, or ready to upgrade, we want to ensure you have everything you need to navigate a successful journey to Teams.</span></span> <span data-ttu-id="6b3e0-104">Aby uzyskać więcej informacji, odwiedź poniższe linki.</span><span class="sxs-lookup"><span data-stu-id="6b3e0-104">For more information please visit the links below.</span></span>
 
-<span data-ttu-id="a1a9b-106">Bez względu na to, czy właśnie rozpoczynasz pracę z zespołami, już korzystasz z aplikacji Teams obok Skype'a dla firm, czy chcesz przeprowadzić uaktualnienie, chcemy mieć pewność, że wszystko jest potrzebne, aby poruszać się po podróży do aplikacji Teams.</span><span class="sxs-lookup"><span data-stu-id="a1a9b-106">Whether you’re just getting started with Teams, already using Teams alongside Skype for Business, or ready to upgrade, we want to ensure you have everything you need to navigate a successful journey to Teams.</span></span> <span data-ttu-id="a1a9b-107">Aby uzyskać więcej informacji, Skorzystaj z linków poniżej.</span><span class="sxs-lookup"><span data-stu-id="a1a9b-107">For more information please visit the links below.</span></span>
+[<span data-ttu-id="6b3e0-105">Wprowadzenie do uaktualnienia Microsoft Teams twojego systemu</span><span class="sxs-lookup"><span data-stu-id="6b3e0-105">Getting started with your Microsoft Teams upgrade</span></span>](/MicrosoftTeams/upgrade-start-here)
 
-[<span data-ttu-id="a1a9b-108">Wprowadzenie do uaktualnienia aplikacji Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="a1a9b-108">Getting started with your Microsoft Teams upgrade</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[<span data-ttu-id="6b3e0-106">Planowanie uaktualnienia</span><span class="sxs-lookup"><span data-stu-id="6b3e0-106">Plan for your upgrade</span></span>](/MicrosoftTeams/upgrade-plan-journey)
 
-[<span data-ttu-id="a1a9b-109">Planowanie uaktualnienia</span><span class="sxs-lookup"><span data-stu-id="a1a9b-109">Plan for your upgrade</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[<span data-ttu-id="6b3e0-107">Zrozumienie Microsoft Teams i Skype dla firm współistnienia</span><span class="sxs-lookup"><span data-stu-id="6b3e0-107">Understand Microsoft Teams and Skype for Business coexistence</span></span>](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[<span data-ttu-id="a1a9b-110">Opis współistnienia aplikacji Microsoft Teams i programu Skype dla firm</span><span class="sxs-lookup"><span data-stu-id="a1a9b-110">Understand Microsoft Teams and Skype for Business coexistence</span></span>](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[<span data-ttu-id="6b3e0-108">Wykonywanie uaktualnienia usługi Skype dla firm Online do wersji Teams</span><span class="sxs-lookup"><span data-stu-id="6b3e0-108">Performing the upgrade from Skype for Business Online to Teams</span></span>](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[<span data-ttu-id="a1a9b-111">Przeprowadzanie uaktualnienia z usługi Skype dla firm Online do aplikacji Teams</span><span class="sxs-lookup"><span data-stu-id="a1a9b-111">Performing the upgrade from Skype for Business Online to Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[<span data-ttu-id="a1a9b-112">Przeprowadzanie uaktualnienia z programu Skype dla firm lokalnie do aplikacji Teams</span><span class="sxs-lookup"><span data-stu-id="a1a9b-112">Performing the upgrade from Skype for Business on-premises to Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[<span data-ttu-id="6b3e0-109">Wykonywanie uaktualnienia z Skype dla firm lokalnej do wersji Teams</span><span class="sxs-lookup"><span data-stu-id="6b3e0-109">Performing the upgrade from Skype for Business on-premises to Teams</span></span>](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[<span data-ttu-id="a1a9b-113">Sprawdzanie stanu uaktualnienia aplikacji Skype dla firm Online w aplikacji Teams za pomocą programu PowerShell</span><span class="sxs-lookup"><span data-stu-id="a1a9b-113">Check the status of Skype for Business Online to Teams upgrade with PowerShell</span></span>](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[<span data-ttu-id="6b3e0-110">Sprawdzanie stanu usługi Skype dla firm Online w celu Teams uaktualnienia za pomocą programu PowerShell</span><span class="sxs-lookup"><span data-stu-id="6b3e0-110">Check the status of Skype for Business Online to Teams upgrade with PowerShell</span></span>](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
