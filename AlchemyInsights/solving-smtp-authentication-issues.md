@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z uwierzytelnianiem SMTP
+title: Włączanie uwierzytelniania SMTP i rozwiązywania problemów
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
+ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826425"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077661"
 ---
-# <a name="solving-smtp-authentication-issues"></a>Rozwiązywanie problemów z uwierzytelnianiem SMTP
+# <a name="enable-smtp-authentication-and-troubleshooting"></a>Włączanie uwierzytelniania SMTP i rozwiązywania problemów
 
-Jeśli podczas próby wysłania wiadomości e-mail SMTP i uwierzytelnienia w kliencie lub aplikacji występują błędy 5.7.57 lub 5.7.3, należy sprawdzić kilka czynności:
+Jeśli chcesz włączyć uwierzytelnianie SMTP dla skrzynki pocztowej lub jest wyświetlany komunikat o błędzie "Klient nie uwierzytelniony", "Uwierzytelnienie nie powiodło się" lub "SmtpClientAuthentication" z kodem 5.7.57 albo 5.7.3 lub 5.7.139 podczas próby przekazywania wiadomości e-mail przez uwierzytelnienie urządzenia lub aplikacji przy użyciu programu Microsoft 365, wykonaj następujące trzy czynności, aby rozwiązać ten problem:
 
-- Uwierzytelnione przesyłanie SMTP może być wyłączone w dzierżawie lub w skrzynce pocztowej, z których próbujesz korzystać (sprawdź oba ustawienia). Aby dowiedzieć się więcej, [zobacz Włączanie lub wyłączanie przesyłania SMTP uwierzytelnionego klienta.](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission)
+1. Wyłącz domyślne [ustawienia zabezpieczeń platformy Azure,](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) przełączanie opcji Włącz **domyślne ustawienia zabezpieczeń** na **Wartość Nie.**
 
-- Sprawdzanie, [czy dla dzierżawy](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) włączono ustawienia domyślne zabezpieczeń platformy Azure; Jeśli ta funkcja jest włączona, uwierzytelnianie SMTP przy użyciu uwierzytelniania podstawowego (znanego także jako starsze; spowoduje to użycie nazwy użytkownika i hasła) nie powiedzie się.
+    a. Zaloguj się do portalu Azure jako administrator zabezpieczeń, administrator dostępu warunkowego lub administrator globalny.<BR/>
+    b. Przejdź do Azure Active Directory > **właściwości.**<BR/>
+    c. Wybierz **pozycję Zarządzaj ustawieniami domyślnymi zabezpieczeń.**<BR/>
+    d. Ustaw **wartość Włącz domyślne ustawienia zabezpieczeń** na **Nie**.<BR/>
+    e. Wybierz **Zapisz**.
+
+2. [Włącz przesyłanie smtp klienta](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) dla licencjonowanej skrzynki pocztowej.
+
+    a. Z centrum administracyjne platformy Microsoft 365 przejdź do **strony Aktywni użytkownicy** i wybierz użytkownika.<BR/>
+    b. Przejdź do karty Poczta, a następnie w obszarze **Aplikacje poczty e-mail** wybierz **pozycję Zarządzaj aplikacjami poczty e-mail**.<BR/>
+    d. Upewnij **się, że jest zaznaczona** opcja Uwierzytelniony SMTP (włączona).<BR/>
+    e. Wybierz **pozycję Zapisz zmiany.**<BR/>
+
+3. [Wyłącz uwierzytelnianie wieloskładnikowe (MFA)](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) dla licencjonowanej skrzynki pocztowej.
+
+    a. Przejdź do centrum administracyjne platformy Microsoft 365, a następnie w lewym menu nawigacji wybierz **pozycję**  >  **Aktywni użytkownicy** Użytkownicy.<BR/>
+    b. Wybierz **pozycję Uwierzytelnianie wieloskładnikowe**.<BR/>
+    c. Wybierz użytkownika i wyłącz **funkcję Multi-Factor Auth.**<BR/>
