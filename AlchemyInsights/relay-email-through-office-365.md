@@ -13,18 +13,24 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 56936541c52e56d7aa9b0f5dad7b9a359c5b6185
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 3b07dd4ccc8570e77a9ce30df48f9ac987a1db71
+ms.sourcegitcommit: 93292c46464ac94971d11adfb808d066ab8bc406
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809665"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53117993"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email"></a>Konfiguracja urządzenia wielofunkcyjnego lub aplikacji do wysyłania wiadomości e-mail
 
-Aby poznać dostępne opcje i instrukcje, zobacz [Jak skonfigurować urządzenie wielofunkcyjne lub aplikację do wysyłania wiadomości e-mail przy użyciu platformy Microsoft 365](https://docs.microsoft.com/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
+Aby poznać dostępne opcje i instrukcje, zobacz [Jak skonfigurować urządzenie wielofunkcyjne lub aplikację do wysyłania wiadomości e-mail przy użyciu platformy Microsoft 365](/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
   
-**Uwaga:** Jeśli Twoje urządzenie lub aplikacja ostatnio przestały działać, informujemy, że zgodnie z planem rozpoczęliśmy [wyłączanie szyfrowania 3DES](https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption). Aby wyświetlić urządzenia, na których występuje problem, przejdź do [raportu Klienci uwierzytelniania SMTP](https://protection.office.com/mailflow/dashboard). Typowe błędy mogą wyglądać tak, jak te: Błąd uwierzytelniania, Błąd TLS, Błąd algorytmu szyfrowania, Niedopasowanie algorytmów lub Przerwane połączenie. Aby rozwiązać problem:
+Jeśli masz urządzenie lub aplikację, która ostatnio przestała działać, najczęstszymi problemami są:
 
- - **Windows Server 2003 IIS SMTP nie będzie już dłużej działać. Wymagana jest nowsza wersja systemu Windows.**  
- - Sprawdź w aplikacji lub u dostawcy urządzenia, czy obsługiwany jest nowoczesny mechanizm szyfrowania lub czy jest dostępna aktualizacja.
+- **Błędy związane z uwierzytelnianiem podczas korzystania z przesyłania klienta uwierzytelniania SMTP** Ostatnio wpisano pewne zmiany dotyczące działania uwierzytelniania SMTP. Aby uzyskać więcej informacji na temat rozwiązywania problemów, zobacz sekcję rozwiązywanie problemów z uwierzytelnianiem za pomocą drukarki, skanerów i aplikacji biznesowych, które wysyłają wiadomości e-mail za pomocą programu Microsoft 365 lub [Office 365.](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off#error-authentication-unsuccessful)
+- Podczas bezpiecznego połączenia z internetem akceptujemy tylko wersję **TLS 1.2 Office 365** Jeśli korzystasz z bezpiecznego połączenia (TLS), upewnij się, że urządzenie aplikacji obsługuje TLS 1.2. Aby uzyskać więcej informacji, zobacz Przygotowywanie się do [1.2 TLS](/microsoft-365/compliance/prepare-tls-1.2-in-office-365)w programie Office 365 i Office 365 GCC.
+ 
+Aby uzyskać informacje na temat innych problemów i ich rozwiązań, zobacz Rozwiązywanie problemów z drukarkami, skanerami i aplikacjami LOB, które wysyłają wiadomości [e-mail](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off)przy użyciu Microsoft 365 lub Office 365.
+
+Aby wyświetlić urządzenia, na których występuje problem, przejdź do [raportu Klienci uwierzytelniania SMTP](https://protection.office.com/mailflow/dashboard).
+
+**Uwaga:** Exchange Online scenariuszy z wysyłką zbiorczą. Aby wysyłać masową komercyjną pocztę e-mail (na przykład biuletyny klientów), należy używać innych dostawców oferowanych w tych usługach.
