@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: ab0baac563fd4cce628eef0525c04b1613a2ea38
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: d5db78a8427c45c272a72435f2bf1e485a3a366b
+ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544840"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53195530"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Otrzymujesz za dużo wiadomości wyłudzywu lub spamu w skrzynce pocztowej?
 
@@ -27,3 +27,7 @@ Najlepszym sposobem Microsoft 365 wiadomości wyłudzającej informacje lub spam
 Aby ułatwić użytkownikom zgłaszanie raportu bezpośrednio do firmy Microsoft za pomocą dodatku Report [Message (Wiadomość raportu).](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
 **Czy wiesz?**: Teraz możesz przesyłać próbki bezpośrednio z usługi Śledzenie wiadomości, a klienci usługi Microsoft Defender dla programu Office 365 Plan 2 mogą przesyłać próbki z [](https://security.microsoft.com/messagetrace) [Eksploratora zagrożeń.](/microsoft-365/security/office-365-security/threat-explorer)
+
+Aby dowiedzieć się więcej o przesyłaniu wiadomości do analizy w portalu Microsoft 365 Defender, zobacz klip wideo [Przesyłanie próbek do analizy.](https://go.microsoft.com/fwlink/?linkid=2166435)
+
+Aby dowiedzieć się więcej o badanie wyników fałszywie ujemnych w programie Microsoft Defender dla Office 365, zobacz klip wideo Strategia fałszywie [ujemna.](https://go.microsoft.com/fwlink/?linkid=2166434)

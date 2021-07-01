@@ -12,29 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 010d9e6b3a4bedb5b8649ece6eaa3d857883c729
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: b6d2ff60548cfb578b30890cba069f67515e9c05
+ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470213"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53195494"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Znane problemy i rozwiązania dotyczące aplikacji zgodności
 
-Aby uzyskać pomoc na temat wyświetlania alertów, zobacz [Zasady alertów w Centrum zabezpieczeń i zgodności.](/microsoft-365/compliance/alert-policies.md)
+Aby uzyskać pomoc na temat wyświetlania alertów, zobacz [Zasady alertów w Centrum zabezpieczeń i zgodności.](/microsoft-365/compliance/alert-policies)
 
 Oto kilka najczęściej zgłaszanych tematów dotyczących zgodności:
 
-- Jak skonfigurować archiwum i wiadomości, które nie są automatycznie przenoszone do archiwum: Należy [włączyć archiwum, skonfigurować zasady archiwizacji](/microsoft-365/compliance/enable-archive-mailboxes.md) i [zwiększyć rozmiar archiwum](/microsoft-365/compliance/enable-unlimited-archiving.md).
+- Jak skonfigurować archiwum i wiadomości, które nie są automatycznie przenoszone do archiwum: Należy [włączyć archiwum, skonfigurować zasady archiwizacji](/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes) i [zwiększyć rozmiar archiwum](/microsoft-365/compliance/enable-unlimited-archiving).
 
-- Zasady przechowywania: Pytania dotyczące [obliczania wieku przechowywania](/exchange/security-and-compliance/messaging-records-management/retention-age.md), [dodawania i usuwania tagów przechowywania](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags.md), [używania zasad przechowywania w Centrum zabezpieczeń i zgodności](/microsoft-365/compliance/retention-policies.md) w celu przechowywania lub usuwania zawartości.
+- Zasady przechowywania: Pytania dotyczące [obliczania wieku przechowywania](/exchange/security-and-compliance/messaging-records-management/retention-age), [dodawania i usuwania tagów przechowywania](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags), [używania zasad przechowywania w Centrum zabezpieczeń i zgodności](/exchange/security-and-compliance/messaging-records-management/create-a-retention-policy) w celu przechowywania lub usuwania zawartości.
 
-- Konfigurowanie platformy EDiscovery oraz wyszukiwanie i eksportowanie zawartości: [Przeszukiwanie zawartości](/microsoft-365/compliance/search-for-content.md) i [eksportowanie wyników wyszukiwania](/microsoft-365/compliance/export-search-results.md).
+- Konfigurowanie funkcji zbierania elektronicznych materiałów dowodowych oraz przeszukiwania i eksportowania zawartości: [wyszukiwanie zawartości](/microsoft-365/compliance/content-search) i [eksportowanie wyników wyszukiwania.](/microsoft-365/compliance/export-search-results)
 
-- Inspekcja w usłudze O365: [Przeszukiwanie dziennika inspekcji usługi O365](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance.md).
+- Inspekcja w usłudze O365: [Przeszukiwanie dziennika inspekcji usługi O365](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
 
-- Ochrona przed utratą danych (DLP): Aby uzyskać więcej informacji, zobacz [Omówienie ochrony przed utratą danych (DLP)](/microsoft-365/compliance/data-loss-prevention-policies.md).
+- Ochrona przed utratą danych(DLP): aby uzyskać więcej informacji, zobacz Omówienie ochrony przed utratą danych [(DLP).](/microsoft-365/compliance/data-loss-prevention-policies)
  
-- Etykiety wrażliwości: Aby dowiedzieć się więcej, zobacz Tworzenie i konfigurowanie etykiet wrażliwości [oraz ich zasad.](/microsoft-365/compliance/create-sensitivity-labels.md)
+- Etykiety wrażliwości: Aby dowiedzieć się więcej, zobacz Tworzenie i konfigurowanie etykiet wrażliwości [oraz ich zasad.](/microsoft-365/compliance/create-sensitivity-labels)
+
+- Wyświetlanie zasad alertów: Zobacz [Zasady alertów w Centrum zgodności platformy Microsoft 365.](/microsoft-365/compliance/alert-policies)
+
+- Uprawnienia centrum redagowania: Zobacz [Uprawnienia w Centrum zgodności platformy Microsoft 365.](/microsoft-365/compliance/microsoft-365-compliance-center-permissions)
 
 **Uwaga**: W celu uzyskania bardziej szczegółowych informacji na temat problemów związanych ze zgodnością, przeformułuj krótko pytanie, aby uwzględnić w nim błędy, które wyświetlają się na Twoim ekranie, lub funkcje, z których korzystasz.
