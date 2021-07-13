@@ -1,7 +1,7 @@
 ---
-title: Omówienie procesu przekazywania w uwitrynie Microsoft Stream
-ms.author: cmcatee
-author: cmcatee-MSFT
+title: Upload o procesów w uwitrynie Microsoft Stream
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5095"
-ms.openlocfilehash: d290650a1d8766650e6f88e8b0a671d67f2be85d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0b13484f14ffb55d0569625bb06a199321725345
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782305"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389119"
 ---
-# <a name="upload-process-overview-in-microsoft-stream"></a>Omówienie procesu przekazywania w uwitrynie Microsoft Stream
+# <a name="upload-process-overview-in-microsoft-stream"></a>Upload o procesów w uwitrynie Microsoft Stream
 
 Za każdym razem, gdy przesyłasz klip wideo, usługa Microsoft Stream automatycznie koduje go do wielu transmisji bitów, aby można było przesyłać strumieniowo klip wideo przy użyciu przesyłania strumieniowego z adaptacyjną szybkością transmisji bitów. Usługa Microsoft Stream optymalizuje przepustowość transmisji bitów i jakość odtwarzanych klipów wideo na podstawie dostępnej przepustowości przeglądarki.
 
-- [Omówienie procesu przekazywania w uwitrynie Microsoft Stream](https://docs.microsoft.com/stream/upload-process-overview)
+- [Upload o procesów w uwitrynie Microsoft Stream](/stream/upload-process-overview)
