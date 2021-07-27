@@ -2,41 +2,40 @@
 title: Synchronizowanie obrazu profilu użytkownika
 ms.author: pebaum
 author: pebaum
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 2bda15b7ebe4f3b71669b961a6e5bf36fd6260a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5b55402dc3c6eb4826451ee2b4076db26773318
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673796"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532157"
 ---
 # <a name="sync-a-users-profile-picture"></a>Synchronizowanie obrazu profilu użytkownika
 
-Możesz dodać lub zmienić zdjęcie profilu w witrynie Microsoft 365 z Office.com lub używając aplikacji Microsoft na komputerze lub w przeglądarce na telefonie. Twoje zdjęcie jest wyświetlane wszędzie tam, gdzie znajduje się okrąg z zdjęciem profilu w programie Microsoft 365.
+Możesz dodać lub zmienić swoje zdjęcie profilowe w aplikacji Microsoft 365 z witryny Office.com lub podczas korzystania z aplikacji firmy Microsoft na komputerze lub w przeglądarce na telefonie. Twoje zdjęcie jest wyświetlane wszędzie, gdzie znajduje się kółko ze zdjęciem Microsoft 365.
 
-Aby dodać zdjęcie profilu do programu Microsoft 365 dla firm:
+Aby dodać swoje zdjęcie profilowe do Microsoft 365 dla firm:
 
-1. Znajdź zdjęcie, którego chcesz użyć, i umieść je na swoim komputerze, w usłudze OneDrive lub w innej lokalizacji, do której możesz uzyskać dostęp.
+1. Znajdź zdjęcie, którego chcesz użyć, i przechowuj je na komputerze, w OneDrive lub w innej lokalizacji, do której masz dostęp.
 
-2. Zalogowanie się do usługi Microsoft 365 za pomocą konta służbowego lub szkolnego pod adresem [Office.com](https://www.office.com).
+2. Zaloguj się Microsoft 365 za pomocą konta służbowego w [office.com](https://www.office.com).
 
-3. Wybierz koło w prawym górnym rogu strony, na którym są wyświetlane inicjały lub ikona osoby.
+3. Wybierz kółko w prawym górnym rogu strony, aby wyświetlać inicjały lub ikonę osoby.
 
-4. W okienku my accounts (moje konta) wybierz okrąg przedstawiający inicjały lub ikonę osoby. Zmień swoje zdjęcie w wyświetlonym wyskakującym okienku.
+4. W okienku Moje konta wybierz kółko z inicjałami lub ikoną osoby. Zmień zdjęcie w wyświetlonym oknie.
 
-**Uwaga** Jeśli obraz został już przekazany, warto spróbować wybrać kafelek programu SharePoint lub usługi OneDrive w celu ponownego zsynchronizowania tego obrazu.
-
-Jeśli obraz profilu użytkownika wygląda inaczej w programie SharePoint w porównaniu z innymi aplikacjami firmy Microsoft, wykonaj następujące czynności:
+**Uwaga:** Jeśli obraz profilu użytkownika wygląda inaczej w aplikacji SharePoint w porównaniu z innymi aplikacjami firmy Microsoft, użytkownik powinien wykonać następujące czynności:
 
 1. Otwórz prywatną (InPrivate/incognito) sesję przeglądarki.
-2. Przejdź do witryny [https://www.office.com](https://www.office.com/).
-3. Wybierz ikonę programu SharePoint.
-4. Przejdź do witryny lub strony, na której nie zaktualizowano zdjęcia, lub strony, na której znajduje się użytkownik w składniku Web Part osób.
+1. Przejdź do [Microsoft Office 365.](https://www.office.com)
+1. Wybierz ikonę SharePoint ekranie.
+1. Przejdź do witryny lub strony, na której zdjęcie nie jest aktualizowane, lub do strony, na której użytkownik znajduje się w składników Web Part Osoby.
 
-Aby uzyskać więcej informacji, zobacz [Informacje o synchronizacji obrazów profilu w programie Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).
+Aby uzyskać więcej informacji, zobacz [Informacje o synchronizacji obrazów profilu w programie Microsoft 365.](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
 
