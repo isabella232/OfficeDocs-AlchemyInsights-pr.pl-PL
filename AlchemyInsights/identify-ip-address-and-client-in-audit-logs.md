@@ -13,27 +13,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 295418f3c433df2ba1004f4bec4377c68e6bb155
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a596dd4bed90a0d777dcf19c4c82b41c67fac812
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668320"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630295"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identyfikowanie adresu IP i klienta w dziennikach inspekcji
 
-W dziennikach inspekcji jest wyświetlany adres IP, który odpowiada działaniu użytkownika lub administratora usługi Microsoft 365. Informacje dotyczące klienta są również rejestrowane. Poniżej przedstawiono procedurę identyfikowania takich informacji
+Adres IP odpowiadający działaniu innego użytkownika lub Microsoft 365 jest wyświetlany w dziennikach inspekcji. Rejestrowane są również informacje o kliencie. Poniżej po procedurach identyfikowania takich informacji
 
-1. Zaloguj się do [Centrum zabezpieczeń & programu Microsoft 365](https://protection.office.com/).
+1. Zaloguj się do [centrum Microsoft 365 zgodności.](https://protection.office.com/)
 
-2. Przejdź do strony **Search**  >  **wyszukiwania dziennika inspekcji** wyszukiwania.
+2. Przejdź do **strony Przeszukiwanie**  >  **dziennika inspekcji wyszukiwania.**
 
-   Jeśli chcesz skorzystać z określonej czynności, wybierz ją z listy **działań** . Jeśli nie, wszystkie działania zostaną zwrócone dla wybranego użytkownika (ustawienie domyślne).
+   Jeśli interesuje Cię określone działanie, wybierz je z **listy Działania.** Jeśli nie, zostaną zwrócone wszystkie działania dla wybranego użytkownika (ustawienie domyślne).
 
-   **Uwaga**: niektóre działania mogą nie być dostępne w menu **działania** ; Jednak te elementy inspekcji zostaną zwrócone, jeśli wybrano opcję **Pokaż wyniki dla wszystkich działań** (ustawienie domyślne).
+   **Uwaga:** Niektóre działania mogą nie być dostępne w menu **Działania.** jednak te elementy inspekcji zostaną zwrócone, jeśli wybrano opcję Pokaż wyniki dla **wszystkich** działań (ustawienie domyślne).
 
-3. Określ nazwę użytkownika w polu **Użytkownicy** , wybierz odpowiedni zakres dat dla działania, a następnie kliknij przycisk **Wyszukaj**.
+3. Określ nazwę użytkownika w **polu Użytkownicy,** wybierz odpowiedni zakres dat dla działania, a następnie kliknij pozycję **Wyszukaj**.
 
-W wynikach wyszukiwania w okienku wyniki jest widoczny adres IP dla tego działania. Wybierz rekord inspekcji, aby wyświetlić szczegółowe informacje w menu wysuwanym **szczegóły** (na przykład klient, użytkownik, który wykonał akcję itd.).
+W wynikach wyszukiwania zobaczysz adres IP tego działania w okienku wyników. Wybierz rekord inspekcji, aby wyświetlić szczegółowe informacje w **wysuwanych** szczegółach (na przykład Klient, Użytkownik, który wykonał akcję itp.).
 
-Aby uzyskać więcej informacji, zobacz [Znajdowanie adresu IP komputera, za pomocą którego można uzyskać dostęp do złamanego konta](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Aby uzyskać więcej informacji, zobacz Znajdowanie adresu IP komputera użytego do uzyskania dostępu [do naruszonego konta.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)

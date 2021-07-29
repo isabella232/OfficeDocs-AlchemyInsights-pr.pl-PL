@@ -1,5 +1,5 @@
 ---
-title: Identyfikowanie zewnętrznych przekierowywania wiadomości e-mail dotyczących skrzynek pocztowych w dziennikach inspekcji
+title: Identyfikowanie zewnętrznego przesyłania dalej wiadomości e-mail w skrzynkach pocztowych w dziennikach inspekcji
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,31 +13,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d06ef83adcae1342173a6fe75f79525c7e1797ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7146b2b09b6ac1e33b192dcbcbfb72ea2593313
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696307"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630259"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Określanie, czy w skrzynkach pocztowych jest skonfigurowana zewnętrzna przekierowywanie poczty e-mail
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Określanie, kiedy w skrzynkach pocztowych skonfigurowano zewnętrzne przesyłanie dalej poczty e-mail
 
-Gdy użytkownik programu Microsoft 365 skonfiguruje zewnętrzną przekierowywanie poczty e-mail w skrzynce pocztowej, działanie jest poddawane inspekcji w ramach polecenia cmdlet **Set-Mailbox** . Działanie można wyświetlić przy użyciu funkcji wyszukiwania dziennika inspekcji w centrum zabezpieczeń & zgodności.
+Gdy użytkownik Microsoft 365 konfiguruje w skrzynce pocztowej zewnętrzne przesyłanie dalej wiadomości e-mail, działanie jest insektowane w ramach polecenia cmdlet **Set-Mailbox.** Możesz zobaczyć działanie za pomocą przeszukiwania dziennika inspekcji w Centrum zabezpieczeń & zgodności.
 
-1. Zaloguj się do [Centrum zabezpieczeń & programu Microsoft 365](https://protection.office.com/).
+1. Zaloguj się do [centrum Microsoft 365 zgodności.](https://protection.office.com/)
 
-2. Przejdź do strony **Search**  >  **wyszukiwania dziennika inspekcji** wyszukiwania.
+2. Przejdź do **strony Przeszukiwanie**  >  **dziennika inspekcji wyszukiwania.**
 
-3. Wybierz zakres dat w polach **Data rozpoczęcia** i **Data zakończenia** . Nie musisz określać nazwy użytkownika. Upewnij się, że w polu **działania** jest ustawiona wartość **Pokaż wyniki dla wszystkich działań**.
+3. Zaznacz zakres dat w **polach Data rozpoczęcia** **i Data zakończenia.** Nie musisz określać nazwy użytkownika. Sprawdź, **czy pole Działania** ma ustawioną wartość Pokaż wyniki dla wszystkich **działań.**
 
-4. Kliknij przycisk **Wyszukaj**.
+4. Kliknij **przycisk Wyszukaj**.
 
-W wynikach kliknij pozycję **Filtruj wyniki** i wpisz wpis **Set-Skrzynka pocztowa** w polu Filtr aktywności. Wybierz rekord inspekcji w wynikach. W menu wysuwanym **szczegóły** kliknij pozycję **więcej informacji**. Aby określić, czy działanie jest powiązane z przesyłaniem wiadomości e-mail, należy przejrzeć szczegóły każdego rekordu inspekcji.
+W wynikach kliknij pozycję **Filtruj wyniki** i wpisz **Set-Mailbox** w polu filtru aktywności. Zaznacz rekord inspekcji w wynikach. W **wysuwanych** szczegółach kliknij pozycję **Więcej informacji.** Aby ustalić, czy dane działanie jest związane z przesyłaniem dalej poczty e-mail, należy przyjrzeć się szczegółom każdego rekordu inspekcji.
 
-- **Objectid**: wartość aliasu skrzynki pocztowej, która została zmodyfikowana.
+- **ObjectId:** wartość aliasu zmodyfikowanej skrzynki pocztowej.
 
-- **Parametry**: _ForwardingSmtpAddress_ wskazuje docelowy adres e-mail.
+- **Parametry:** _ForwardingSmtpAddress_ wskazuje docelowy adres e-mail.
 
-- **UserID**: użytkownik, który skonfigurował przesyłanie dalej wiadomości e-mail w skrzynce pocztowej w polu **objectid** .
+- **UserId**: Użytkownik, który skonfigurował przesyłanie dalej poczty e-mail w skrzynce pocztowej w polu **ObjectId.**
 
-Aby uzyskać więcej informacji, zobacz [Określanie, kto konfiguruje przekierowywanie poczty e-mail dla skrzynki pocztowej](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).
+Aby uzyskać więcej informacji, zobacz Określanie, kto s skonfigurować [przesyłanie dalej poczty e-mail dla skrzynki pocztowej.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)

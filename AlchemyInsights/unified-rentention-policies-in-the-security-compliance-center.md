@@ -1,5 +1,5 @@
 ---
-title: Ujednolicone zasady przechowywania w centrum zabezpieczeń & zgodności
+title: Ujednolicone zasady przechowywania w Centrum & zabezpieczeń
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669221"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630151"
 ---
-# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Ujednolicone zasady przechowywania w centrum zabezpieczeń & zgodności
+# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Ujednolicone zasady przechowywania w Centrum & zabezpieczeń
 
-Zasady przechowywania umożliwiają zarządzanie zawartością organizacji za pomocą ustawień przechowywania i usuwania. Ujednolicone zasady przechowywania można tworzyć w centrum zgodności & zabezpieczeń pakietu Office 365 lub w centrum zgodności z programem Microsoft 365. 
+Zasady przechowywania umożliwiają zarządzanie zawartością organizacji przy użyciu ustawień przechowywania i usuwania. Ujednolicone zasady przechowywania można utworzyć w Centrum Office 365 zabezpieczeń & zgodności lub w centrum Microsoft 365 zgodności. 
 
-1. W [Centrum zabezpieczeń & zgodności](https://go.microsoft.com/fwlink/p/?linkid=2077143)wybierz kolejno **informacje zarządzanie**  >  **przechowywaniem**  >  **+ Tworzenie**. <br/>
-    W [Centrum zgodności z programem Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2077149)wybierz pozycję dane **zasad**  >  **> przechowywania > + nowe zasady przechowywania.**
-2. Dodaj **nazwę**, **Ustawienia**i **Wybierz lokalizacje**.
-3. Przejrzyj ustawienia, a następnie wybierz pozycję **Utwórz te zasady** lub **Zapisz w przyszłości**.  
+1. W Centrum [zabezpieczeń & zgodności](https://go.microsoft.com/fwlink/p/?linkid=2077143)wybierz pozycję Zarządzanie   >  **informacjami Przechowywanie**  >  **+Tworzenie.** <br/>
+    W Centrum [Microsoft 365 zgodności](https://go.microsoft.com/fwlink/p/?linkid=2077149)wybierz pozycję **Dane** zasad i > przechowywania > + Nowe  >  **zasady przechowywania.**
+2. Dodaj **Nazwę,** **Ustawienia** i **Wybierz lokalizacje.**
+3. Przejrzyj ustawienia, a następnie wybierz pozycję **Utwórz te zasady lub** Zapisz na **później.**  
       
-Aby uzyskać więcej szczegółowych informacji na temat zasad przechowywania zawartości, takich jak wiadomości e-mail programu Exchange, usługi OneDrive, SharePoint i zespoły, zobacz [Omówienie zasad przechowywania](https://go.microsoft.com/fwlink/?linkid=2127785).  
+Aby uzyskać więcej szczegółowych informacji na temat zasad przechowywania dotyczących zawartości, takiej Exchange e-mail, OneDrive, SharePoint i Teams, zobacz Omówienie [zasad przechowywania.](https://go.microsoft.com/fwlink/?linkid=2127785)  
     
-Jeśli korzystasz z zasad przechowywania obok siebie w centrum administracyjnym programu Exchange i w centrum zabezpieczeń & zgodności, zapoznaj się z tym zaleceniem, aby [użyć zasad przechowywania zamiast starszych funkcji](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
+Jeśli używasz zasad przechowywania obok siebie w centrum administracyjnym usługi Exchange i Centrum zgodności usługi & Security, zobacz to zalecenie dotyczące używania zasad przechowywania zamiast starszych [funkcji.](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features)  
     
-Aby uzyskać szczegółowe informacje na temat przechowywania aplikacji Teams, zobacz [zasady przechowywania w aplikacji Teams](https://docs.microsoft.com/microsoftteams/retention-policies).
+Aby uzyskać szczegółowe informacje na Teams przechowywania, zobacz [Zasady przechowywania w programie Teams.](/microsoftteams/retention-policies)
