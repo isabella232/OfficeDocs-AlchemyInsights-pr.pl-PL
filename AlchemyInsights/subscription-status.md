@@ -3,6 +3,7 @@ title: Stan subskrypcji
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9001519"
 - "3586"
-ms.openlocfilehash: 262bafc9354e14c45eeda974cc9824be24f9d502
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 9d26786b1d1643278b50d25fd52f8eb46b4cfbef
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542795"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689560"
 ---
 # <a name="subscription-status"></a>Stan subskrypcji
 
-Stan subskrypcji, data wygaśnięcia i liczba licencji można znaleźć na stronie Twoje **produkty** w centrum Microsoft 365 administracyjnego.
+Stan subskrypcji, data wygaśnięcia i liczba licencji można znaleźć na stronie Twoje **produkty** w centrum administracyjne platformy Microsoft 365.
 
 1. W centrum administracyjnym przejdź do strony **Rozliczenia**  >  [z produktami.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **karcie Produkty** domyślnie widać wszystkie subskrypcje i ich stan (Aktywne, Wygasłe, Wyłączone lub Usunięte). Aby wyświetlić podzbiór wszystkich subskrypcji, wybierz ikonę filtru, a następnie wybierz stan **subskrypcji,** który chcesz wyświetlić.

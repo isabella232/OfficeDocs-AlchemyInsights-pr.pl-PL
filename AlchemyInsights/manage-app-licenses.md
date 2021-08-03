@@ -3,6 +3,8 @@ title: Zarządzanie licencjami aplikacji
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, micurn
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +14,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 8414b288dca9edae321fa0f6f7fcc5b5a394f8bb
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: cfed9a827219a20c6ff204134eb2b5a05a707ba7
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545657"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689380"
 ---
 # <a name="manage-app-licenses"></a>Zarządzanie licencjami aplikacji
 
@@ -29,7 +31,7 @@ ms.locfileid: "52545657"
 2. Na karcie **Produkty** w sekcji **Aplikacje** znajdź aplikację, którą chcesz zarządzać. Wybierz trzy kropki (więcej akcji), a następnie wybierz **pozycję Kup licencje**.
 3. Jeśli chcesz zmniejszyć liczbę licencji, w górnej  części okienka Kupowanie licencji wybierz pozycję **Usuń licencje.**
 4. Aby kupić lub usunąć  licencje, w  obszarze Nowa liczba w polu Łączna liczba licencji wprowadź łączną liczbę licencji, które chcesz uzyskać dla tej subskrypcji. Jeśli na przykład masz 100 licencji i chcesz dodać jeszcze pięć, wprowadź wartość 105. Jeśli chcesz usunąć pięć z nich, wprowadź wartość 95.
-5. Wybierz pozycję **Zapisz**.
+5. Wybierz **Zapisz**.
 
 ## <a name="to-assign-app-licenses"></a>Aby przypisać licencje aplikacji
 

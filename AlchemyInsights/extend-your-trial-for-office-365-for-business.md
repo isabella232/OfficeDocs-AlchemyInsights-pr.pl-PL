@@ -1,8 +1,10 @@
 ---
-title: Przedłużanie okresu próbnego dla programu Microsoft 365 dla firm
+title: Przedłużanie okresu próbnego Microsoft 365 dla firm
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,23 +12,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 470d9e0ccca52d28a6bf51e65706fe3b0c316214
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 68dab6e3c3661bcaa93695b2612e4fc46fe43aa1
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307316"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687544"
 ---
-# <a name="extend-your-trial-for-microsoft-365-for-business"></a>Przedłużanie okresu próbnego dla programu Microsoft 365 dla firm
+# <a name="extend-your-trial-for-microsoft-365-for-business"></a>Przedłużanie okresu próbnego Microsoft 365 dla firm
 
-Możesz przedłużyć bezpłatny okres próbny, korzystając z jednego kolejnego okresu 30-dniowego. Po upływie tego okresu okres próbny będzie przekroczyć 30-dniowy [okres prolongaty](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). Wykonaj poniższe czynności, aby przedłużyć okres próbny:
+Możesz przedłużyć bezpłatny okres próbny o jeden dodatkowy 30-dniowy okres. Po upływie tego okresu próbnego trwa 30-dniowy [okres prolongaty.](/alchemyinsights/grace-period-for-microsoft-365-free-trial) Aby przedłużyć okres próbny, wykonaj następujące czynności:
   
-1. W centrum administracyjnym przejdź do strony **rozliczanie** \> [produktów](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na karcie **produkty** wybierz subskrypcję wersji próbnej, którą chcesz przedłużyć.
-3. Na stronie Szczegóły subskrypcji w sekcji **Ustawienia subskrypcji i płatności** wybierz pozycję **Przedłuż datę zakończenia**.
-4. W okienku **rozszerzanie daty zakończenia** Przejrzyj informacje o rozszerzeniu i w razie potrzeby wybierz metodę płatności. Po zakończeniu wybierz pozycję **Przedłuż okres próbny**.
+1. W centrum administracyjnym przejdź do strony **Rozliczenia** \> [z produktami.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na karcie **Produkty** wybierz subskrypcję wersji próbnej, którą chcesz przedłużyć.
+3. Na stronie szczegółów subskrypcji w sekcji Ustawienia subskrypcji **i płatności** wybierz pozycję **Przedłuż datę zakończenia**.
+4. W **okienku Przedłuż datę zakończenia** sprawdź informacje dotyczące rozszerzenia i w razie potrzeby wybierz metodę płatności. Po zakończeniu wybierz pozycję Przedłuż **wersję próbną**.
 
-Aby dowiedzieć się więcej na temat przedłużenia okresu próbnego lub uzyskać instrukcje krok po kroku, zobacz [przedłużenie okresu próbnego dla pakietu Office 365 dla firm](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
+Aby dowiedzieć się więcej o przedłużaniu okresu próbnego lub uzyskać instrukcje krok po kroku, zobacz Przedłużanie okresu próbnego dla Office 365 [dla firm.](/microsoft-365/commerce/extend-your-trial)
