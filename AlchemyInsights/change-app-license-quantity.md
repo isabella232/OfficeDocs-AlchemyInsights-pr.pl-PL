@@ -3,6 +3,8 @@ title: Zmienianie liczby licencji aplikacji
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, micurn
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +12,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9000568"
 - "2425"
-ms.openlocfilehash: 3e892e4754b959851fe82e15ee2f4c1eb355fd32
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1af3d36dead1db10ed3857d2f75b2c16d31c854e
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543155"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687112"
 ---
 # <a name="change-app-license-quantity"></a>Zmienianie liczby licencji aplikacji
 
-Liczbę posiadanych licencji możesz wyświetlić lub zmienić, a także przypisać je użytkownikom w centrum Microsoft 365 administracyjnego.
+Możesz wyświetlić lub zmienić liczbę posiadanych licencji i przypisać je do użytkowników w centrum administracyjne platformy Microsoft 365.
 
 ## <a name="to-change-license-quantity"></a>Aby zmienić liczbę licencji
 
@@ -31,7 +34,7 @@ Liczbę posiadanych licencji możesz wyświetlić lub zmienić, a także przypis
 2. Na karcie **Produkty** w sekcji **Aplikacje** znajdź aplikację, którą chcesz zarządzać. Wybierz trzy kropki (więcej akcji), a następnie wybierz **pozycję Kup licencje**.
 3. Jeśli chcesz zmniejszyć liczbę licencji, w górnej  części okienka Kupowanie licencji wybierz pozycję **Usuń licencje.**
 4. Aby kupić lub usunąć  licencje, w  obszarze Nowa liczba w polu Łączna liczba licencji wprowadź łączną liczbę licencji, które chcesz uzyskać dla tej subskrypcji. Jeśli na przykład masz 100 licencji i chcesz dodać jeszcze pięć, wprowadź wartość 105. Jeśli chcesz usunąć pięć z nich, wprowadź wartość 95.
-5. Wybierz pozycję **Zapisz**.
+5. Wybierz **Zapisz**.
 
 ## <a name="to-assign-app-licenses"></a>Aby przypisać licencje aplikacji
 

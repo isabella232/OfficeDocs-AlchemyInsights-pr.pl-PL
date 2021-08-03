@@ -3,6 +3,7 @@ title: Wygasła subskrypcja
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: f8e317f5911105e495d17f1242da86fe590651f9
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 23deea0e03b1d9a2208de38d16018a3679e8add3
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544192"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686788"
 ---
 # <a name="expired-subscription"></a>Wygasła subskrypcja
 
@@ -31,7 +33,7 @@ Wygląda na to, że masz co najmniej jedną wygasłą subskrypcję. Jeśli chces
     > [!NOTE]
     > Jeśli nie widzisz tematu **Aktywuj ponownie tę subskrypcję,** zadzwoń do pomocy technicznej.
 3. W **okienku Aktywuj ponownie tę** subskrypcję wybierz z listy rozwijanej metodę płatności lub wybierz **pozycję Dodaj metodę płatności**.
-4. Wybierz pozycję **Zapisz**.
+4. Wybierz **Zapisz**.
 
 Aby dowiedzieć się więcej, zobacz [Ponowne aktywowanie subskrypcji](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 

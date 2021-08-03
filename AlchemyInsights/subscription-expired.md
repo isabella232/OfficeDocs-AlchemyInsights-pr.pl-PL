@@ -3,6 +3,7 @@ title: Subskrypcja wygasła
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,15 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: d26c4e6738ed1d34a642436b09c67853a88586a8
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: e397f9cb39f289b96f20a9d69b8ff9e8efe5f40c
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544300"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687436"
 ---
 # <a name="subscription-expired"></a>Subskrypcja wygasła
 
@@ -31,7 +33,7 @@ Jeśli Twoja subskrypcja wygasła lub została wyłączona przez firmę Microsof
     > [!NOTE]
     > Jeśli nie widzisz tematu **Aktywuj ponownie tę subskrypcję,** skontaktuj się z pomocą techniczną.
 3. W **okienku Aktywuj ponownie tę** subskrypcję wybierz z listy rozwijanej metodę płatności lub wybierz **pozycję Dodaj metodę płatności**.
-4. Wybierz pozycję **Zapisz**.
+4. Wybierz **Zapisz**.
 
 Aby dowiedzieć się więcej, zobacz [Ponowne aktywowanie subskrypcji](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
@@ -43,6 +45,6 @@ Aby zarządzać rozliczeniami w ujęciu miesięcznym lub rocznym, możesz włąc
 2. Na **karcie Produkty** wybierz subskrypcję, którą chcesz zarządzać.
 3. Na stronie szczegółów subskrypcji w obszarze **Ustawienia subskrypcji i płatności wybierz** pozycję Edytuj rozliczenia **cykliczne**.
 4. W **okienku Edytuj ustawienia rozliczeń cyklicznych** wybierz pozycję **Wł.,** **Włącz, ale odnów raz** lub **Wyłącz**.
-5. Wybierz pozycję **Zapisz**.
+5. Wybierz **Zapisz**.
 
 Aby uzyskać więcej informacji, zobacz [Włączanie i wyłączanie rozliczania cyklicznego](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

@@ -1,9 +1,9 @@
 ---
-title: Aktywowanie subskrypcji licencji zbiorczej firmy Microsoft
+title: Aktywowanie subskrypcji licencji licencjonowania woluminowego firmy Microsoft
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
+ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,23 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: b98f8c2da22e07c6e99e04c7e7e06f4d9b1fbcc7
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.date: 04/21/2020
+ms.openlocfilehash: f00526f507826cf4e58967531fff73183461e3b9
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307187"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685816"
 ---
-# <a name="activating-a-microsoft-volume-license-subscription"></a>Aktywowanie subskrypcji licencji zbiorczej firmy Microsoft
+# <a name="activating-a-microsoft-volume-license-subscription"></a>Aktywowanie subskrypcji licencji licencjonowania woluminowego firmy Microsoft
 
-1. Zaloguj się do [portalu usługi licencjonowania zbiorowego (VLSC)](https://go.microsoft.com/fwlink/p/?LinkId=329762).
-2. Przejdź do subskrypcji i wybierz pozycję **Aktywuj**.
-3. Wiadomość e-mail jest wysyłana do kontaktu usługi online (OLS).
-4. W wiadomości e-mail dotyczącej aktywacji dostępne są dwie opcje: Tworzenie **konta**lub **Logowanie**. Jeśli wcześniej została utworzona wersja próbna, wybierz pozycję **Zaloguj się**. Jeśli nie masz jeszcze dzierżawy Microsoft 365, wybierz pozycję **Utwórz konto**.
-5. Zaloguj się do centrum administracyjnego usługi Microsoft 365 ( [https://admin.microsoft.com](https://admin.microsoft.com) ) przy użyciu istniejących poświadczeń administratora. Po pomyślnym zalogowaniu otrzymasz kolejną wiadomość e-mail z potwierdzeniem zakupu.
-6. Po zalogowaniu się przejdź do strony **rozliczanie** \> [produktów](https://go.microsoft.com/fwlink/p/?linkid=842054) , aby sprawdzić, czy zakupione subskrypcje są teraz aktywne. 
+1. Zaloguj się do portalu [Volume Licensing Service Center (VLSC).](https://go.microsoft.com/fwlink/p/?LinkId=329762)
+2. Przejdź do swojej subskrypcji i wybierz pozycję **Aktywuj**.
+3. Do kontaktu usług online (OLS) zostanie wysłana wiadomość e-mail.
+4. Aktywacyjny adres e-mail udostępnia dwie **opcje:** Zarejestruj się lub **Zaloguj**. Jeśli wcześniej utworzono wersję próbną, wybierz **pozycję Zaloguj się**. Jeśli nie masz jeszcze dzierżawy usługi Microsoft 365, wybierz pozycję **Zarejestruj .**
+5. Zaloguj się do centrum administracyjne platformy Microsoft 365 ( [https://admin.microsoft.com](https://admin.microsoft.com) ) przy użyciu istniejących poświadczeń administratora. Po pomyślnym zalogowaniu się otrzymasz kolejną wiadomość e-mail z potwierdzeniem zakupu.
+6. Po zalogowaniu się przejdź do  strony Rozliczenia produktów, aby sprawdzić, czy kupione subskrypcje \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) są teraz aktywne. 
     > [!NOTE]
-    > Możesz również wybrać kartę **subskrypcja** w VLSC, aby wyświetlić szczegółowe informacje potwierdzające, że Twoja subskrypcja została aktywowana.
+    > Możesz również wybrać **kartę Subskrypcja** w VLSC, aby wyświetlić szczegóły sprawdzenia, czy subskrypcja została aktywowana).

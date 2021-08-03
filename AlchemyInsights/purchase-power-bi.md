@@ -1,8 +1,10 @@
 ---
-title: Zakup usługi Power BI
+title: Kup Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,26 +12,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: ec8e44bf634eb8393e26767dc153e7e404af54d1
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: c802485272c20d21201c76ce5986834ae45e1ea0
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602050"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686428"
 ---
-# <a name="purchase-power-bi"></a>Kupowanie usługi Power BI
+# <a name="purchase-power-bi"></a>Kup Power BI
 
-Usługę Power BI można kupić w centrum **administracyjnym platformy Microsoft 365.**
+Power BI można kupić w **centrum administracyjne platformy Microsoft 365.**
 
-1. Przejdź do strony **> [zakup usług.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
-2. Użyj pola wyszukiwania, aby wyszukać "Power BI".
-3. Wybierz plan usługi Power BI, który chcesz kupić, wybierz pozycję **Szczegóły,** a następnie wybierz **pozycję Kup.**
-4. Wprowadź liczbę potrzebnych licencji i wybierz, czy chcesz płacić co miesiąc, czy za cały rok. Określ, czy chcesz automatycznie przypisywać licencje do każdego użytkownika, który obecnie nie ma licencji. Następnie wybierz **pozycję Wyewidencjlij teraz.**
-5. Przejrzyj informacje o cenach i wybierz przycisk **Dalej.**
-6. Podaj informacje o płatności, a następnie wybierz pozycję **Z place order** Go to Admin Home  >  (Przejdź do strony głównej **administratorów).**
+1. Przejdź do strony **> [zakup usług rozliczeniowych.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+2. Użyj pola Wyszukaj, aby wyszukać tekst "Power BI".
+3. Wybierz plan Power BI, który chcesz kupić, wybierz pozycję **Szczegóły**, a następnie wybierz pozycję **Kup**.
+4. Wprowadź liczbę potrzebnych licencji i wybierz, czy chcesz płacić co miesiąc, czy za cały rok. Określ, czy chcesz automatycznie przypisywać licencje do każdego użytkownika, który obecnie nie ma licencji. Następnie wybierz **pozycję Wyewidencjlij teraz**.
+5. Przejrzyj informacje o cenach i wybierz pozycję **Dalej**.
+6. Podaj informacje o płatności, a następnie wybierz pozycję **Zmów**  >  **zamówienie Przejdź do strony głównej Administrator**.
 
-Aby przypisać licencje do użytkowników, zobacz ["Przypisywanie licencji do użytkowników".](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+Aby przypisać licencje do użytkowników, zobacz [Przypisywanie licencji do użytkowników.](/microsoft-365/admin/manage/assign-licenses-to-users)
 
-Aby kupić więcej licencji lub usunąć je, zobacz ["Kupowanie lub usuwanie licencji dla subskrypcji dla firm".](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+Aby kupić więcej licencji lub usunąć je, zobacz Kupowanie lub usuwanie [licencji dla subskrypcji dla firm.](/microsoft-365/commerce/licenses/buy-licenses)

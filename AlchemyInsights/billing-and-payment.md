@@ -3,6 +3,8 @@ title: Rozliczenia i płatności
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820404"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686896"
 ---
 # <a name="billing-and-payment"></a>Rozliczenia i płatności
 
@@ -35,27 +38,27 @@ W przypadku płatności kartą kredytową lub za pomocą konta bankowego metoda 
 
 Jeśli dodano nową kartę, a na starej karcie kredytowej nadal jest nowe powiadomienie o odmowie, może być konieczne skojarzenie tej nowej karty z subskrypcją.
 
-1. W centrum administracyjnym przejdź do **strony** Rozliczenia &  >    >  [metodach](https://go.microsoft.com/fwlink/p/?linkid=2018806) płatności.
+1. W centrum administracyjnym przejdź do strony **Rachunki** > **Rachunki i płatności** > [Metody płatności](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Wybierz wiersz metody płatności, która ma zostać zastąpiona. W prawym okienku zostanie lista wszystkich profilów rozliczeń i poszczególnych subskrypcji, które korzystają z wybranej metody płatności.
+2. Zaznacz wiersz metody płatności, który chcesz zastąpić. W prawym okienku jest lista wszystkich profilów rozliczeń i poszczególnych subskrypcji, które korzystają z wybranej metody płatności.
 
-3. W prawym okienku wybierz pozycję **Zamień formę płatności dla wszystkich elementów**.
+3. W okienku po prawej stronie wybierz pozycję **Zastąp metodę płatności dla wszystkich elementów**.
 
-4. Aby użyć istniejącej metody płatności, wybierz ją z listy rozwijanej, a następnie wybierz pozycję **Zamień**.
+4. Aby użyć istniejącej metody płatności, wybierz ją z listy rozwijanej, a następnie wybierz pozycję **Zastąp**.
 
     > [!NOTE]
-    > Jeśli masz subskrypcje skojarzone z profilem rozliczeniowym, do płacenia za nie możesz użyć tylko karty kredytowej lub debetowej. Jeśli masz konta bankowe wymienione na stronie **Metody** płatności, nie są one dostępne do wyboru z listy rozwijanej.
+    > Jeśli masz subskrypcje skojarzone z profilem rozliczeń, możesz płacić za nie tylko za pomocą karty kredytowej lub debetowej. Jeśli masz konta bankowe wymienione na stronie **Metody płatności**, nie są one dostępne do wybrania z listy rozwijanej.
 
-5. Aby dodać nową metodę płatności, wybierz **pozycję Dodaj metodę płatności**.
+5. Aby dodać nową metodę płatności, wybierz pozycję **Dodaj metodę płatności**.
 
-6. W **okienku Dodaj metodę płatności** wprowadź informacje o koncie, a następnie wybierz pozycję **Zapisz**. Musisz użyć metody płatności z tego samego kraju, w którym jest dzierżawa.
+6. W okienku **Dodaj metodę płatności** wprowadź informacje o koncie, a następnie wybierz pozycję **Zapisz**. Musisz użyć metody płatności z tego samego kraju, w którym jest dzierżawa.
 
-7. Nowa metoda płatności jest już wybrana na liście rozwijanej. Wybierz **pozycję Zamień**.
+7. Nowa metoda płatności jest już wybrana na liście rozwijanej. Wybierz pozycję **Zastąp**.
 
-Aby dowiedzieć się więcej, zobacz [Zarządzanie metodami płatności.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Aby dowiedzieć się więcej, zobacz [Zarządzanie metodami płatności](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Częstotliwość rozliczeń**
 
 Rachunki są generowane co miesiąc lub co rok w zależności od częstotliwości rozliczeń wybranej przy finalizacji zakupu.  
 
-**Uwaga:** Zamówienia z rozliczeniem rocznym mogą otrzymać rachunek w połowie okresu, jeśli w nim wnoszono zmiany, takie jak dodawanie lub usuwanie licencji. [Zmień częstotliwość rozliczeń](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Uwaga:** Zamówienia z rozliczeniem rocznym mogą otrzymać rachunek w połowie okresu, jeśli w nim wnoszono zmiany, takie jak dodawanie lub usuwanie licencji. [Zmień częstotliwość rozliczeń](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

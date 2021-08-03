@@ -3,6 +3,8 @@ title: Informacje o fakturze i płatności
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,27 +13,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
+- commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 4328ced877e65de542226232e3335dd7c8046d1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1f7c6cc7003165140f519b51ac0cc40636e71a3e
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696055"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687220"
 ---
 # <a name="invoice-and-payment-information"></a>Informacje o fakturze i płatności
 
-**Płatności**
+**Płatność**
 
-Kupując subskrypcję Microsoft 365 dla firm bezpośrednio z firmy Microsoft, możesz zapłacić za pomocą karty kredytowej lub debetowej.  W niektórych krajach/regionach możesz również zapłacić za pomocą konta bankowego.  Możesz dowiedzieć się, jak zarządzać metodami płatności i rozwiązywać ich problemy, korzystając z sekcji [Zarządzanie metodami płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods). Dotyczy to rozwiązywania problemów po odrzuceniu karty kredytowej i zaktualizowaniu informacji o płatnościach.
+Kupując subskrypcję usługi Microsoft 365 dla firm bezpośrednio od firmy Microsoft, możesz zapłacić przy użyciu karty kredytowej lub debetowej.  W niektórych krajach/regionach można również płacić za pomocą konta bankowego.  Aby dowiedzieć się, jak zarządzać tymi metodami płatności i je rozwiązywać, zobacz [Zarządzanie metodami płatności.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Obejmuje to rozwiązywanie problemów, gdy Twoja karta kredytowa zostanie odrzucona, oraz aktualizowanie informacji o płatnościach.
 
 **Faktura/rachunek**
 
-Faktury można znaleźć i pobrać na stronie **rozliczenia**  >  [rachunki & płatności](https://go.microsoft.com/fwlink/p/?linkid=848039) .  
+Swoje faktury możesz znaleźć i pobrać na stronie Rozliczenia &  >  [płatności.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
 
-**Uwaga**: Jeśli żadna faktura nie jest widoczna, może być konieczne dostosowanie filtru zakresu dat.  Domyślnie wyświetlane są ostatnie 3 miesiące faktur.
+**Uwaga:** Jeśli nie widać żadnych faktur, może być konieczne dostosowanie filtru zakresu dat.  Domyślnie wyświetlane są faktury z ostatnich 3 miesięcy.
 
-Faktury są tworzone co miesiąc lub rocznie, w zależności od częstotliwości rozliczeń wybranej podczas zakupu.  W przypadku corocznej płatności za pomocą dołączania lub usuwania licencji w ramach subskrypcji może zostać wyświetlony średniookresowy okres rozliczeniowy.
+Faktury są tworzone w cyklu miesięcznym lub rocznym w zależności od częstotliwości rozliczeń wybranej podczas zakupu.  Jeśli płacisz co rok, możesz otrzymać rachunek w połowie okresu podczas dodawania lub usuwania licencji w subskrypcji.
 
-- Aby uzyskać więcej informacji, zobacz [Opis faktury dla programu Microsoft 365 dla firm](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+- Aby uzyskać więcej informacji, zobacz [Opis faktury za Microsoft 365 dla firm.](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
