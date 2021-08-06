@@ -1,5 +1,5 @@
 ---
-title: Szybkie edytowanie Autosugerowanie
+title: Szybkie edytowanie Autosuggest
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003088"
 - "7232"
-ms.openlocfilehash: 7e6781347e96a794c45ae5508282d44c958d3187
-ms.sourcegitcommit: 26e36ada9c19eb42a644a37d2cd3eb2627134f05
+ms.openlocfilehash: cdb9541c4f5a23a3c4903d0586e5eca105f473a0ab0aca68a948fdcac2363edd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49447353"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923105"
 ---
-# <a name="quick-edit-autosuggest"></a>Szybkie edytowanie Autosugerowanie
+# <a name="quick-edit-autosuggest"></a>Szybkie edytowanie Autosuggest
 
-Istnieją dwa sposoby edytowania elementu na liście programu SharePoint. W widoku listy można edytować jeden element, który jest metodą domyślną. Aby jeszcze bardziej zwiększyć produktywność, możesz edytować kilka elementów w widoku szybkiego edytowania. Aby edytować elementy, potrzebujesz uprawnień na poziomie programu Contribute lub nowszego. Aby uzyskać więcej informacji, zobacz [Edytowanie elementów listy w usłudze SharePoint Online](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7).
+Istnieją dwa sposoby edytowania elementu na SharePoint liście kontaktów. W widoku listy można edytować jeden element, co jest metodą domyślną. Aby pracować wydajniej, możesz edytować kilka elementów w widoku Szybka edycja. Do edytowania elementów są potrzebne uprawnienia na poziomie Współtwornie lub wyższa. Aby uzyskać więcej informacji, [zobacz Edytowanie elementów listy w u SharePoint Online.](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7)

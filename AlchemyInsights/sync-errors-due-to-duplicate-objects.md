@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 75b684c5c6b4a594af069d8ed668df95726e1b31
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a047afd63484423520ed80fbf223f0e50f3e02624bd9859d4dcbbd94cf23143f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708072"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998804"
 ---
 # <a name="sync-errors-due-to-duplicate-objects"></a>Błędy synchronizacji spowodowane zduplikowanymi obiektami
 
-Po zakończeniu synchronizacji katalogów na usłudze Microsoft 365 może zostać wyświetlony jeden z następujących komunikatów o błędzie:
+Po zakończeniu synchronizacji katalogów w programie Microsoft 365:
 
 - Nie można zaktualizować tego obiektu w usługach Microsoft Online Services, ponieważ następujące atrybuty skojarzone z tym obiektem mają wartości, które mogą być już skojarzone z innym obiektem w katalogu lokalnym.
 
@@ -28,6 +28,6 @@ Po zakończeniu synchronizacji katalogów na usłudze Microsoft 365 może zosta�
 
 - Nie można zaktualizować tego obiektu, ponieważ następujące atrybuty skojarzone z tym obiektem mają wartości, które mogą być już skojarzone z innym obiektem w lokalnych usługach katalogowych: UserPrincipalName.
 
-Aby zidentyfikować i rozwiązać ten problem, pobierz i uruchom narzędzie do rozwiązywania problemów [narzędzia DirSync narzędzia IdFix.](https://github.com/Microsoft/idfix)
+Aby zidentyfikować i rozwiązać ten problem, pobierz i uruchom narzędzie naprawy błędów synchronizacji katalogów narzędzia [IdFix.](https://github.com/Microsoft/idfix)
 
-Aby uzyskać więcej informacji, zobacz [ARTYKUŁ KB2647098.](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o)
+Aby uzyskać więcej informacji, [zobacz KB2647098.](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o)

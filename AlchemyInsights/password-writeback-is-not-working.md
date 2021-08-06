@@ -1,5 +1,5 @@
 ---
-title: Pisanie zwrotne hasła nie działa
+title: Pisanie zwrotne haseł nie działa
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8210"
-ms.openlocfilehash: d7766f908f025b5db8299aa45d01dc5389b321ec
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 23f5e5fe9e00a4bb00f96d2023c81f6413a7d8b808fd46bfc94483944bb898dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243518"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999754"
 ---
-# <a name="password-writeback-is-not-working"></a>Pisanie zwrotne hasła nie działa
+# <a name="password-writeback-is-not-working"></a>Pisanie zwrotne haseł nie działa
 
 **Mam problemy z konfiguracją zapisu hasła**
 
-- Funkcja zwrotu hasła jest funkcją klasy premium.
+- Pisanie hasła to funkcja premium.
 - Upewnij się, że rozumiesz wymagania dotyczące licencjonowania:
   - W organizacji musi być przypisana co najmniej jedna licencja
-  - **Tylko użytkownicy w chmurze** — dowolna płatna usługa Office 365 (O365) lub usługa Azure AD Basic
-  - **Użytkownicy chmury i/lub** lokalni — Azure AD Premium P1 lub P2, Enterprise Mobility + Security (EMS) lub Secure Productive Enterprise (SPE)
-    - Aby dowiedzieć się więcej o wymaganiach licencjonowania, zobacz Wymagania licencjonowania dotyczące samodzielnego resetowania hasła w [usłudze Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
-- Masz co najmniej jedno konto administratora i jedno testowe konto użytkownika z jedną odpowiednią licencją.
-- Aby działało, należy połączyć program Azure AD Connect Kontroler domeny podstawowym emulatorem hasła. Program Azure AD Connect można skonfigurować do używania klucza  podstawowego Kontroler domeny klikając prawym przyciskiem myszy właściwości łącznika synchronizacji usługi Active Directory, a następnie wybierając pozycję Skonfiguruj **partycje katalogowe.** W tym miejscu poszukaj sekcji **ustawień** połączenia kontrolera domeny i zaznacz pole wyboru "Użyj **tylko preferowanych kontrolerów domen".**
+  - **Użytkownicy tylko w chmurze** — Office 365 płatnej wersji SKU usługi Microsoft (O365) lub Azure AD Basic
+  - **Użytkownicy chmury i/lub** lokalni — Azure AD — wersja Premium P1 lub P2, Enterprise Mobility + Security (EMS) lub Secure Productive Enterprise (SPE)
+    - Aby dowiedzieć się więcej o wymaganiach licencjonowania, zobacz Wymagania dotyczące licencjonowania dotyczące samodzielnego resetowania hasła [w usłudze Azure AD.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
+- Masz co najmniej jedno konto administratora i jedno konto użytkownika testowego z jedną odpowiednią licencją.
+- Aby działało, należy połączyć usługę Azure AD Połączenie z Kontroler domeny Emulator podstawowym. Usługę Azure AD Połączenie w celu używania klucza podstawowego Kontroler domeny,  klikając prawym przyciskiem myszy właściwości łącznika synchronizacji usługi Active Directory, a następnie wybierając pozycję Skonfiguruj partycje **katalogu.** W tym miejscu poszukaj sekcji **ustawień** połączenia kontrolera domeny i zaznacz pole wyboru używaj tylko **preferowanych kontrolerów domen.**
   > [!NOTE]
-  > Jeśli preferowany kontroler domeny nie jest emulatorem pdc, program Azure AD Connect nadal będzie się kontaktował z tym kontrolerem w celu zapisu hasła.
-- Resetowanie hasła zostało skonfigurowane i włączone w dzierżawie. Aby uzyskać więcej informacji, zobacz "Umożliwianie użytkownikom resetowania haseł usługi [Azure AD".](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)
-- Upewnij się, że konto administratora używane do włączania funkcji zapisu zwrotnego haseł jest kontem administratora chmury (utworzone w usłudze Azure AD, a nie w lokalnej usłudze AD)
-- Masz jedno lub wielo lassowe wdrożenie lokalne usługi AD z zainstalowanymi najnowszymi pakietami Service Pack dla systemów Windows Server 2008 R2, Windows Server 2012 lub Windows Server 2012 R2
-- Masz zainstalowane narzędzie Azure AD Connect i masz przygotowane środowisko usługi AD do synchronizacji z chmurą. Przed przetestowaniem zapisu hasła upewnij się, że najpierw ukończono pełne importowanie i pełną synchronizację z usług AD i Azure AD w programie Azure AD Connect.
-- Aby dowiedzieć się więcej, zobacz, jak wykonać pełną synchronizację i [pełne importowanie w programie Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-operations)
+  > Jeśli preferowany kontroler dc nie jest emulatorem systemu PDC, usługa Azure AD Połączenie nadal będzie out out to the PDC w celu pisania hasła.
+- Resetowanie hasła zostało skonfigurowane i włączone w dzierżawie. Aby uzyskać więcej informacji, zobacz Umożliwianie użytkownikom [resetowania haseł usługi Azure AD.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)
+- Upewnij się, że konto administratora używane do włączania funkcji zapisu hasła jest kontem administratora chmury (utworzone w usłudze Azure AD, a nie w lokalnej usłudze AD)
+- Masz jedno lub wielolesiowe wdrożenie lokalne usługi AD z zainstalowanym programem Windows Server 2008 R2, Windows Server 2012 lub Windows Server 2012 R2 z zainstalowanymi najnowszymi pakietami Service Pack
+- Masz zainstalowane narzędzie do synchronizacji usługi Azure AD Połączenie oraz przygotowane środowisko usługi AD do synchronizacji z chmurą. Przed przetestowaniem zapisu hasła, upewnij się, że najpierw ukończono pełne importowanie i pełną synchronizację zarówno z usług AD, jak i Azure AD w usłudze Azure AD Połączenie.
+- Aby dowiedzieć się więcej, zobacz, jak wykonać pełną synchronizację i [pełne importowanie w usłudze Azure AD Połączenie](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-operations)
 
 **Mam problem z łącznością zapisu zwrotnego haseł**
 
-1. Pobieranie i włączanie najnowszej wersji programu [Azure AD Connect](https://www.microsoft.com/download/details.aspx?id=47594)
-2. Konfiguracja zapory: Narzędzie Azure AD Connect (1.1.443 i więcej) będzie potrzebowało wychodzącego **dostępu HTTPS** do:
+1. Pobieranie i włączanie najnowszej wersji usługi [Azure AD Połączenie](https://www.microsoft.com/download/details.aspx?id=47594)
+2. Konfiguracja zapory: narzędzie Połączenie Azure AD (1.1.443 i więcej) będzie potrzebowało dostępu **wychodzącego HTTPS** do:
     - passwordreset.microsoftonline.com
     - servicebus.windows.networks
-3. Zezwalaj na utrzymywanie bezczynnych połączeń przez co najmniej 2–3 minuty
+3. Zezwalaj na bezczynne połączenia na czas co najmniej 2–3 minut
 
 **Nadal mam problemy z zapisem hasła**
 
-- Jeśli nadal masz problemy, spróbuj wyłączyć i ponownie włączyć usługę odzyskiwania hasła w narzędziu Azure AD Connect
-- Aby dowiedzieć się więcej, zobacz, jak [wyłączyć i ponownie włączyć funkcję zapisu hasła](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot)
+- Jeśli nadal masz trudności, spróbuj wyłączyć i ponownie w ramach narzędzia do zapisu hasła w narzędziu do Połączenie Azure AD
+- Aby dowiedzieć się więcej, zobacz, jak wyłączyć i [ponownie włączyć funkcję zapisu hasła](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot)

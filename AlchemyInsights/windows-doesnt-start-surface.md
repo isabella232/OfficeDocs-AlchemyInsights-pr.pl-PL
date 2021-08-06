@@ -1,5 +1,5 @@
 ---
-title: System Windows nie uruchamia się na urządzeniach Surface
+title: Windows nie uruchamia się na surface
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9758"
 - "9005418"
-ms.openlocfilehash: d4e86433bb15e07143b0b25bb515eedcfd329cb9
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 91ccb5d24b820978579ece9a412cb87c5540564d9c1005482ab928b53a0c1a10
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036790"
 ---
-# <a name="windows-doesnt-start-on-surface"></a>System Windows nie uruchamia się na urządzeniach Surface
+# <a name="windows-doesnt-start-on-surface"></a>Windows nie uruchamia się na surface
 
-Jeśli system Windows nie uruchamia się na urządzeniu Surface lub urządzenie nie budzi się ze uśpienia, spróbuj wykonać następujące kroki rozwiązywania problemów:
+Jeśli Windows się na urządzeniu Surface lub urządzenie nie przebudzy się ze uśpienia, spróbuj wykonać następujące kroki rozwiązywania problemów:
 
-- Jeśli system Windows nie uruchamia się poprawnie po włączeniu urządzenia Surface (tzn. system Windows nie uruchamia się), aby uzyskać instrukcje dotyczące rozwiązania tego problemu, zobacz [System Windows](https://support.microsoft.com/surface/windows-doesn-t-start-on-surface-3dd47ea1-472a-4514-c8e1-ff81bd72be5c)nie uruchamia się na surface .
+- Jeśli Windows nie uruchamia się poprawnie po włączeniu urządzenia Surface (Windows nie uruchamia się), aby uzyskać instrukcje dotyczące rozwiązania tego problemu, zobacz Windows nie uruchamia się na surface [.](https://support.microsoft.com/surface/windows-doesn-t-start-on-surface-3dd47ea1-472a-4514-c8e1-ff81bd72be5c)
 
 - Jeśli urządzenie Surface nie włącza się lub nie wznawia działania, aby uzyskać instrukcje rozwiązywania problemów, zobacz Urządzenie Surface nie włącza się lub nie wybudza [się ze uśpienia](https://support.microsoft.com/surface/surface-won-t-turn-on-or-wake-from-sleep-1e181652-3db8-5ca1-9649-7390fafb102a).
 

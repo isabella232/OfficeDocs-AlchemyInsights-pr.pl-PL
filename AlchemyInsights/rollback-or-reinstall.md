@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2584"
 - "9000691"
-ms.openlocfilehash: 51ec547d99c6d13ddc14bc1b3288ff54fb1cd056
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8948c7a7c37be0e53c60d7d56cc118fc8eb49c2437e0551dd13b47cb1d683e85
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809233"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922260"
 ---
-# <a name="reinstall-or-roll-back-office"></a>Ponowne instalowanie lub wycofywanie pakietu Office
+# <a name="reinstall-or-roll-back-office"></a>Ponowne instalowanie lub wycofywanie Office
 
-Jeśli po ostatniej aktualizacji pakietu Office występują ogólne problemy, możesz go rozwiązać, wykonując ponowną instalację pakietu Office lub wracając do poprzedniej wersji pakietu Office.
+W przypadku wystąpienia ogólnych problemów po ostatniej aktualizacji pakietu Office możesz rozwiązać ten problem, wykonując ponowną instalację programu Office lub wracając do poprzedniej wersji pakietu Office.
 
-Aby ponownie zainstalować **pakiet** Office, zapoznaj się z tematem Pobieranie i instalowanie lub ponowne instalowanie usługi Office 365 lub pakietu [Office 2019 na komputerze PC lub Mac.](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)
+Aby przeprowadzić ponowną **instalację** pakietu Office, zapoznaj się z tematem Pobieranie i instalowanie lub ponowne instalowanie Office 365 lub [Office 2019 na komputerze PC lub Mac.](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)
 
-Aby wycofać **pakiet** Office, zobacz [Jak przywrócić wcześniejszą wersję pakietu Office.](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic)
+Aby wykonać **wycofywanie Office,** zobacz Jak przywrócić [wcześniejszą wersję](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic)pakietu Office.

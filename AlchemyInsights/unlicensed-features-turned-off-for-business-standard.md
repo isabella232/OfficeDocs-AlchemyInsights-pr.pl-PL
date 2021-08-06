@@ -1,5 +1,5 @@
 ---
-title: Wyłączone funkcje nielicencjonowane dla użytkowników standardowych dla firm
+title: Wyłączone funkcje bez licencji dla użytkowników wersji Business Standard
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 2fd5d03c287c81201d0d68cd718afef46db7a2f4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9dd07f2914aa78ef17ef889ced9a5de849f4c6d8175866b8ed4a41cbd28b9510
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658015"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908576"
 ---
-# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Wyłączone funkcje nielicencjonowane dla użytkowników standardowych dla firm
+# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Wyłączone funkcje bez licencji dla użytkowników wersji Business Standard
 
-W przypadku innych użytkowników i organizacji programu Microsoft 365 dla firm standardowych dostępna jest obecnie więcej funkcji, od których są udzielane licencje. Te funkcje obejmują następujące ustawienia klasyfikacji, etykietowania i ochrony (CLP) oraz zarządzania prawami cyfrowymi (DRM):
+Niektóre Microsoft 365 Business Standard użytkowników i organizacji mają obecnie do dyspozycji więcej funkcji niż jest licencjonowanych. Te funkcje obejmują następujące ustawienia klasyfikacji, etykiet i ochrony (CLP, Digital Rights Management) i zarządzania prawami cyfrowymi:
     
-Od 30 czerwca 2020 funkcje dodatkowe są wyłączone dla tych użytkowników w programach Microsoft Excel, Microsoft Word, Microsoft PowerPoint i Microsoft Outlook.
+Od 30 czerwca 2020 r. te dodatkowe funkcje są wyłączone dla tych użytkowników w usługach Microsoft Excel, Microsoft Word, Microsoft PowerPoint i Microsoft Outlook.
 
-Spróbuj zmienić typ licencji dla zastosowanego użytkownika na licencję, która zawiera te funkcje. 
+Rozważ zmianę typu licencji użytkownika, na który ma to wpływ, na licencję, która zawiera te funkcje. 
 
-Aby uzyskać więcej informacji, zobacz [funkcje bez licencji udzielone użytkownikom programu Microsoft 365 Business Standard](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)
+Aby uzyskać więcej informacji, zobacz Funkcje bez licencji [podawane Microsoft 365 Business Standard użytkowników.](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)

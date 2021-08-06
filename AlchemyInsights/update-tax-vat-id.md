@@ -1,5 +1,5 @@
 ---
-title: Aktualizowanie identyfikatora podatku/podatku VAT
+title: Aktualizacja identyfikatora VAT/podatku VAT
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7323"
-ms.openlocfilehash: 086b91c3247214d33e9b71b53ea6ba4d001936e3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 378ad1434f80d31c9649cecee363a448fb6dc342d36dc06123a59bacfd9d73f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908468"
 ---
-# <a name="update-taxvat-id"></a>Aktualizowanie identyfikatora podatku/podatku VAT
+# <a name="update-taxvat-id"></a>Aktualizacja identyfikatora VAT/podatku VAT
 
-Jeśli masz problemy związane z Twoim IDENTYFIKATORem PODATKOWym/podatkiem VAT, skontaktuj się z partnerem licencjonowania firmy Microsoft (partnerem lub oprogramowaniem Software Advisor). Skontaktują się z regionalnym centrum Operations Center (ROC), aby uzyskać pytania dotyczące identyfikatora podatku/podatku VAT. 
+Jeśli masz problemy związane z identyfikatorem VAT/VAT, skontaktuj się z partnerem licencyjnym firmy Microsoft (partnerem lub doradcą oprogramowania). W razie pytań dotyczących swojego identyfikatora VAT/PODATKU skontaktuje się z regionalnym centrum operacyjnym (ROC). 

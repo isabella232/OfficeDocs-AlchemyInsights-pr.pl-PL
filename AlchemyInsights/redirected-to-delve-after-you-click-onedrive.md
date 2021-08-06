@@ -1,5 +1,5 @@
 ---
-title: OneDrive dla Firm Web OneDrive przekierowuje do aplikacji Delve
+title: OneDrive dla Firm Przekierowywanie OneDrive sieci Web do Delve
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 96f23585f7cbce672842f6330ba79816f24dbc41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 295dea987cd14ea848d2bf802f57429642d554b9661dc4dbfc805a447b7d0ede
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799999"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922997"
 ---
-# <a name="redirected-to-delve-after-you-click-onedrive"></a>Przekierowywany do aplikacji Delve po kliknięciu przycisku OneDrive
+# <a name="redirected-to-delve-after-you-click-onedrive"></a>Przekierowywany do Delve po kliknięciu przycisku OneDrive
 
 Zobacz nasz szczegółowy [przewodnik po rozwiązywaniu problemów.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
 
-Aby rozwiązać ten problem, administrator musi udzielić użytkownikom prawa do tworzenia swoich witryn Moja witryna. Jest tak, ponieważ w moich witrynach jest tworzona strona usługi OneDrive dla Firm.
+Aby rozwiązać ten problem, administrator musi udzielić użytkownikom prawa do tworzenia swoich witryn Moja witryna. Jest tak, ponieważ OneDrive dla Firm w witrynach Moja witryna jest tworzona.
 
 Aby przyznać to prawo, wykonaj następujące czynności:
 
-1. W centrum administracyjnym programu SharePoint kliknij pozycję **Profile użytkowników**.
+1. W centrum SharePoint administracyjnego kliknij pozycję **Profile użytkowników**.
 
 2. W sekcji **Osoby** kliknij pozycję **Zarządzaj uprawnieniami użytkowników**.
 
@@ -35,4 +35,4 @@ Aby przyznać to prawo, wykonaj następujące czynności:
 
 4. Po dodaniu użytkownika, użytkowników lub grupy upewnij się, że zaznaczono dodanego użytkownika,  użytkowników lub grupę, przewiń do sekcji uprawnień, a następnie zaznacz pole wyboru obok przycisku Utwórz witrynę osobistą (wymagane w przypadku przechowywania osobistego, kanału aktualności i obserwowanej **zawartości).**
 
-5. Kliknij **przycisk OK,** a następnie zachęć użytkownika do przeglądania strony usługi OneDrive w celu utworzenia witryny.
+5. Kliknij **przycisk OK,** a następnie zachęć użytkownika do OneDrive witryny w celu utworzenia witryny.

@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "7265"
-ms.openlocfilehash: 7c4c9d1a76f395dfb2f831d555199b76c354ca57
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 1faa9f69942d39b8d78c8f3e1316f93b52eeede6408dfabc89d0f7fe38b86fb3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583948"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923141"
 ---
 # <a name="rbac-rules"></a>Reguły RBAC
 
-Jeśli zostanie wyświetlony błąd uprawnień: 
+Jeśli zostanie komunikat o błędzie uprawnień: 
 
-- **Klient z identyfikatorem obiektu nie ma autoryzacji do wykonywania akcji w zakresie (kod: AuthorizationFailed)**: podczas próby utworzenia zasobu upewnij się, że zalogowano się przy użyciu użytkownika, któremu przypisano rolę z uprawnieniami do zapisu dla zasobu w wybranym zakresie. Aby na przykład zarządzać maszynami wirtualnymi w grupie zasobów, należy mieć rolę [współautora maszyny wirtualnej](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#virtual-machine-contributor) w grupie zasobów (lub zakresie nadrzędnym). Aby uzyskać listę uprawnień poszczególnych ról wbudowanych, zobacz [wbudowane role dla zasobów platformy Azure](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support).
-- **Nie masz uprawnień do tworzenia prośby** o szczegółowe dane: podczas próby utworzenia lub zaktualizowania biletu pomocy technicznej upewnij się, że zalogowano się do użytkownika, któremu przypisano rolę z uprawnieniem Microsoft. Support/supportTickets/Write, na przykład [współautorze prośby o pomoc](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#support-request-contributor).
-- **Nie można utworzyć więcej przypisań ról (kod: RoleAssignmentLimitExceeded)**: podczas próby przypisania roli spróbuj zmniejszyć liczbę przypisań ról, przypisując role do grup. Platforma Azure obsługuje do **2000** przydziały ról na abonament.
+- Klient z identyfikatorem obiektu nie ma autoryzacji do wykonywania akcji w zakresie **(kod: AutoryzacjaFailed):** podczas próby utworzenia zasobu sprawdź, czy użytkownik, do którym przypisano rolę zapisu w wybranym zakresie, jest obecnie zalogowany do Ciebie. Aby na przykład zarządzać maszynami wirtualnymi w [](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#virtual-machine-contributor) grupie zasobów, w grupie zasobów powinna być pełnić rolę współautora maszyn wirtualnych w grupie zasobów (lub zakresie nadrzędnym). Aby uzyskać listę uprawnień dla poszczególnych wbudowanych ról, zobacz Role wbudowane dla [zasobów platformy Azure.](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Nie masz uprawnień do utworzenia wniosku o pomoc **techniczną:** podczas próby utworzenia lub zaktualizowania biletu do pomocy technicznej sprawdź, czy aktualnie jesteś zalogowany u użytkownika z przypisaną rolą, która ma uprawnienie Microsoft.Support/supportTickets/write, takie jak Współautor wniosku o pomoc [techniczną.](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#support-request-contributor)
+- Nie można tworzyć więcej przypisań ról **(kod: RolaAssignmentLimitExceeded),** gdy próbujesz przypisać rolę, spróbuj zmniejszyć liczbę przypisań ról, przypisując role do grup. Platforma Azure obsługuje **maksymalnie 2000** przypisań ról na subskrypcję.
 
-Aby uzyskać więcej szczegółowych informacji na temat ról usługi Azure RBAC, zobacz [role usługi Azure RBAC](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
+Aby uzyskać więcej szczegółowych informacji o rolach usługi Azure RBAC, zobacz [Role usługi Azure RBAC.](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal?WT.mc_id=Portal-Microsoft_Azure_Support)

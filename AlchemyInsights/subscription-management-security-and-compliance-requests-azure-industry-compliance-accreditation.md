@@ -1,5 +1,5 @@
 ---
-title: Zarządzanie subskrypcjami — żądania dotyczące zabezpieczeń i zgodności — akredytacja zgodności usługi Azure Industry
+title: Zarządzanie subskrypcjami — żądania zabezpieczeń i zgodności — norma zgodności w branży Azure
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,55 +13,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755593"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998953"
 ---
-# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Zarządzanie subskrypcjami — żądania dotyczące zabezpieczeń i zgodności — akredytacja zgodności usługi Azure Industry
+# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Zarządzanie subskrypcjami — żądania zabezpieczeń i zgodności — norma zgodności w branży Azure
 
-Na podstawie opisu swojego problemu znaleźliśmy rozwiązanie dla Ciebie. Większość klientów mogła samodzielnie rozwiązać swoje problemy po przeprowadzeniu naszej dokumentacji.
+Na podstawie opisu problemu znaleźliśmy rozwiązanie dla Ciebie. Większość klientów mogła rozwiązać swój problem samodzielnie po naszej dokumentacji.
 
-- **Zasady**: w przypadku pytań dotyczących dokumentu zgodności firmy Microsoft zobacz [zgodność z Centrum zaufania platformy Azure](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
+- **Zasady:** Jeśli masz pytania dotyczące dokumentu zgodności firmy Microsoft, zobacz Zgodność Centrum zaufania platformy [Azure.](https://docs.microsoft.com/compliance/regulatory/offering-SOC)
 
-- **HIPAA i HITECH Act**: zobacz Przewodnik po usłudze Windows Azure HIPAA, jeśli jesteś zainteresowani HIPAA i HITECH Act, aby zrozumieć istotne funkcje systemu Windows Azure.
+- **HipAA i HITECH Act:** zobacz Windows Azure HIPAA Guide if you are interested in HIPAA and the HITECH Act, aby poznać odpowiednie możliwości platformy Windows Azure.
 
-- **FedRamp**: Aby uzyskać informacje na temat certyfikacji FedRamp, zobacz FedRamp Marketplace.
+- **FedRamp Certification:** Aby uzyskać wszelkie informacje na temat certyfikacji fedRamp, zobacz FedRamp Marketplace.
 
-- **Zgodność z usługą Azure PCI DSS**: wymagane dokumenty związane z platformą Azure dla zgodności z branżowymi kartami płatniczymi są "zaświadczenia zgodności" i "macierzą odpowiedzialności", które są dostępne w centrum zaufania platformy Azure. Upewnij się, że masz te dokumenty. Jeśli masz te dokumenty, ale potrzebujesz dodatkowych dowodów zgodności ze standardem zabezpieczeń Microsoft Azure PCI Data Security, zobacz [Microsoft i PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
+- Zgodność z usługą **Azure PCI DSS:** wymagane dokumenty związane z platformą Azure, aby osiągnąć zgodność z branżą kart płatności, to "Zasady zgodności" i "Macierz odpowiedzialność", które są dostępne w Centrum zaufania platformy Azure. Sprawdź, czy masz te dokumenty. Jeśli masz te dokumenty, ale potrzebujesz dodatkowego dowodu zgodności Microsoft Azure PCI Data Security Standard Compliance, zobacz Microsoft [i PCI DSS.](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS)
 
-- **Operacje na platformie Azure/zabezpieczenia/zgodność**: Jeśli masz ogólne pytania dotyczące zabezpieczeń na platformie Azure, zobacz standardową odpowiedź na prośby o informacje dotyczące zabezpieczeń Microsoft Azure, prywatności i zgodności, jeśli masz pytania dotyczące zgodności, zobacz: Microsoft STP-zgodność z portalem zaufania usług — często zadawane pytania.
+- **Azure Operations/Security/Compliance:** Jeśli masz ogólne pytania dotyczące zabezpieczeń na platformie Azure, zobacz Standardowa odpowiedź na żądanie informacji Microsoft Azure Security, Privacy i Compliance Jeśli masz pytania dotyczące zgodności, zobacz: Microsoft STP — Portal zgodności i zaufania usług — często zadawane pytania.
 
-Jeśli masz pytania dotyczące zgodności, zobacz często zadawane pytania dotyczące portalu usługi [Microsoft STP-zgodność](https://www.microsoft.com/trust-center/compliance/compliance-overview) i zaufania usług.
+Jeśli masz pytania dotyczące zgodności, zobacz [Microsoft STP — Portal](https://www.microsoft.com/trust-center/compliance/compliance-overview) zgodności i zaufania usług — często zadawane pytania.
 
-- **Zgodność z Rodo**: Jeśli masz pytania dotyczące umowy dotyczącej przetwarzania danych, zobacz "warunki ochrony danych" rozpoczynające się na stronie 7 w temacie "warunki dotyczące usług online". OST obejmuje podstawowe terminy przetwarzania danych, które są włączone do standardowej umowy handlowej. Między innymi oferuje zobowiązanie umowne dotyczące naszych RODOych obowiązków. Ponadto zapoznaj się z warunkami określonymi na Rodo na końcu umowy w "załączniku 4", rozpoczynając od strony 42. W poniższych sekcjach omówiono obowiązki firmy Microsoft dotyczące Rodo jako przetwórca danych oraz jako podwykonawca do innego procesora danych.
-
-> [!NOTE]
-> Zdecydowanie zaleca się używanie programu Adobe Acrobat Reader do otwierania dokumentów PDF, ponieważ zanotowano problemy z innymi przeglądarkami plików PDF. Zaleca się również pobranie pliku lokalnie, a nie otwarcie go w oknie przeglądarki, ponieważ może powodować błędy.
-
-- **Zgodność z HDS**: platforma Azure to teraz "hosting danych dotyczących kondycji", certyfikowany zgodnie z wymaganiami francuskimi. Aby uzyskać więcej informacji, zobacz "platforma Microsoft Azure jest teraz certyfikowana do przechowywania ważnych danych dotyczących kondycji we Francji".
-
-- **Testowanie penetracji**: cały proces "przesłanie prośby o przeprowadzenie testu na penetrację" jest klientem samodzielnym procesem na "Pentest".
-
-Aby uzyskać więcej informacji na temat testowania penetracji, zobacz [testowanie penetracji](https://docs.microsoft.com/azure/security/fundamentals/pen-testing).
-
-- **Powiadomienia klientów o zmianach podprocesu**: możesz zrezygnować z otrzymywania powiadomień o zmianach na liście subprocesorowych danych osobowych firmy Microsoft.
+- **Zgodność z RODO:** Jeśli masz pytania dotyczące Umowy dotyczącej przetwarzania danych, zobacz "Warunki ochrony danych" począwszy od strony 7 w "Warunkach usług online". Ost zawiera podstawowe warunki przetwarzania danych, ale jest włączany do standardowej umowy komercyjnej. Zawiera ono między innymi zobowiązanie kontraktowe dotyczące zobowiązań wynikających z RODO. Dodatkowe postanowienia dotyczące rodo znajdziesz na końcu umowy w "Załączniku 4", począwszy od strony 42. Te sekcje obejmują obowiązki firmy Microsoft w zakresie RODO jako podmiot przetwarzający dane i jako podmiot podrzędny przetwarzania danych in inie innego podmiotu przetwarzającego dane.
 
 > [!NOTE]
-> Dane klienta usług online i powiadomienie osobistej listy danych są w pełni zautomatyzowane. Aby uzyskać więcej informacji, zobacz zasoby dotyczące programu Microsoft Data Protection.
+> W przypadku problemów z innymi przeglądarkami plików PDF zdecydowanie zalecamy otwieranie dokumentów PDF za pomocą programu Adobe Acrobat Reader. Zaleca się również pobranie pliku lokalnie, a nie otwarcie go w oknie przeglądarki, ponieważ może to spowodować błędy.
 
-**Polecane dokumenty**
+- **Zgodność z hds:** platforma Azure jest teraz "hostingiem danych kondycji" certyfikowanym zgodnie z wymaganiami francuskimi. Aby uzyskać więcej informacji, zobacz "Microsoft Azure jest teraz certyfikowane do hostować poufne dane dotyczące kondycji we Francji".
 
-- [Eksportowanie lub usuwanie ustawień w portalu Azure](https://docs.microsoft.com/azure/azure-portal/set-preferences)
-- [Znajdowanie raportów aktywności w portalu Azure](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
-- [Zdarzenia ryzyka usługi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Użytkownicy narażeni](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Wylogowanie ryzykowne](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Co to są raporty usługi Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
-- [Microsoft i HIPAA oraz Act HITECH](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
-- [Tymczasowy dział obrony (DoD) tymczasowej dokumentacji dotyczącej licencji na IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
+- **Testy penetracji:** Cały proces "test pentestowy przesyłania" jest procesem samodzielnej obsługi przy testowaniu pióra.
+
+Aby uzyskać więcej szczegółowych informacji na temat testów [penetracyjnych, zobacz Testy penetracyjnych.](https://docs.microsoft.com/azure/security/fundamentals/pen-testing)
+
+- **Powiadomienia klienta dotyczące zmian** dotyczących podprocesu: Możesz wyrazić zgodę na otrzymywanie powiadomień o zmianach na liście podprocesów danych osobistych Microsoft.
+
+> [!NOTE]
+> Powiadomienie o danych klientach i liście danych osobowych w chmurze jest w pełni zautomatyzowane. Aby uzyskać więcej informacji, zobacz Zasoby dotyczące ochrony danych firmy Microsoft.
+
+**Zalecane dokumenty**
+
+- [Eksportowanie lub usuwanie ustawień w portalu Azure Portal](https://docs.microsoft.com/azure/azure-portal/set-preferences)
+- [Znajdowanie raportów aktywności w portalu Azure Portal](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
+- [Azure Active Directory zdarzeń ryzyka](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Ryzykowni użytkownicy](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Ryzykowne logowania](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Co to są Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
+- [Firma Microsoft i hipaa oraz hitech act](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
+- [Dokumentacja autoryzacji autoryzacji słojów amerykańskiego departamentu obrony (DoD) w umencie IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
 
 
 

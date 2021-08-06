@@ -1,5 +1,5 @@
 ---
-title: Blokowanie wyskakujących okien w programie Microsoft Edge
+title: Blokowanie wyskakujących okien na Microsoft Edge
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,14 +15,14 @@ ms.custom:
 - "7093"
 - "9004596"
 - "8220"
-ms.openlocfilehash: da0a46efdb7dd7cd393dc69daddecaf5f915f513
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 629463e6fbd1f1b794ba04b7707d7ab9ece55ea9851352211fcaeed41ea9279d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896985"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019302"
 ---
-# <a name="block-pop-up-windows-in-microsoft-edge"></a>Blokowanie wyskakujących okien w programie Microsoft Edge
+# <a name="block-pop-up-windows-in-microsoft-edge"></a>Blokowanie wyskakujących okien na Microsoft Edge
 
 1. Przejdź **do... (Ustawienia i nie tylko)**  >  **Ustawienia**  >  **Uprawnienia witryny.**
 2. Wybierz **pozycję Wyskakujące okienka i przekierowania**.

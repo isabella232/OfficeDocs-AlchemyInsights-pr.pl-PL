@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6863"
-ms.openlocfilehash: b92613cc9a2d9a653c1e321fb566c99e383fe8bc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 43898bd85dc6d0ffcf3d9146e65583ad9532e64d342fea55fd48e055caf133a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820872"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019374"
 ---
 # <a name="download-or-request-a-copy-of-my-bill-in-azure"></a>Pobierz lub poproś o kopię rachunku na platformie Azure
 
 Aby pobrać fakturę, musisz mieć rolę administratora konta dla subskrypcji. Użytkownicy z rolami właściciela, współautora lub czytelnika mogą pobrać fakturę, jeśli administrator konta nadał uprawnienia. Aby uzyskać więcej informacji, zobacz [Zezwalanie użytkownikom na pobieranie faktur.](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access#opt-in)
 
-**Pobierz fakturę za usługę Azure (pdf)**
+**Pobierz fakturę za usługę Azure (.pdf)**
 
 1. Wybierz swoją subskrypcję na [stronie Subskrypcje w](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Portalu Azure jako użytkownik z dostępem do [faktur, a](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) następnie wybierz pozycję **Faktury**
 2. Kliknij **pozycję Pobierz fakturę,** aby wyświetlić kopię faktury PDF. Jeśli jest **dostępna,** zobacz Dlaczego nie widzę faktury [za ostatni okres rozliczeniowy?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Możesz również wyświetlić swoje codzienne użycie, klikając okres rozliczeniowy, aby uzyskać dokument PDF z fakturą i kopią szczegółowego pliku codziennego użycia (. CSV): [Uzyskaj dane dotyczące faktury i użycia](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)  
+3. Możesz również wyświetlić swoje codzienne użycie, klikając okres rozliczeniowy Aby uzyskać plik PDF faktury i kopię swojego pliku szczegółowego codziennego użycia (.CSV): Uzyskaj dane dotyczące faktury i [użycia](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
 **Zezwalanie innym osobom na pobieranie faktury za subskrypcję**
 

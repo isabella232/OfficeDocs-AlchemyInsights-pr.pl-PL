@@ -1,5 +1,5 @@
 ---
-title: Konfigurowanie pulpitu wirtualnego systemu Windows
+title: Konfigurowanie Windows wirtualnego
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "7427"
-ms.openlocfilehash: 7b3c91745d8136d6f508c8dbd3a63a1b0a67def3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 4734c05d62ca5369dee0a41ea7e361d34538481ee89335c7b47dfe4e9d2966cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679627"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036646"
 ---
-# <a name="set-up-windows-virtual-desktop"></a>Konfigurowanie pulpitu wirtualnego systemu Windows
+# <a name="set-up-windows-virtual-desktop"></a>Konfigurowanie Windows wirtualnego
 
-Pulpit wirtualny systemu Windows to kompleksowa usługa wirtualizacji pulpitu i aplikacji działająca w chmurze. To jedyna infrastruktura Virtual Desktop Infrastructure (VDI), która dostarcza uproszczonego zarządzania, wiele sesji systemu Windows 10, optymalizacje aplikacji Microsoft 365 i obsługuje środowiska usług pulpitu zdalnego. Wdrażaj i Skaluj pulpity i aplikacje systemu Windows na platformie Azure w ciągu kilku minut i uzyskaj wbudowane funkcje zabezpieczeń i zgodności.
+Windows Pulpit wirtualny to kompleksowy program do wirtualizacji pulpitu i aplikacji uruchomiony w chmurze. Jest to jedyna infrastruktura pulpitów wirtualnych (VDI), która zapewnia uproszczone zarządzanie, wielosektapowe Windows 10, optymalizacje na Aplikacje Microsoft 365 i obsługę środowisk usług pulpitu zdalnego (RDS). Wdrażaj i skaluj swoje Windows i aplikacje na platformie Azure w ciągu kilku minut, a także uzyskaj wbudowane funkcje zabezpieczeń i zgodności.
 
-[Przewodnik po konfiguracji pulpitu wirtualnego systemu Windows](https://go.microsoft.com/fwlink/?linkid=2146236) zapewnia administratorom planowanie zasobów oraz wymagania wstępne dotyczące wdrażania, wskazówek dotyczących konfiguracji oraz dodatkowych zasobów.
+Przewodnik [Windows konfiguracji pulpitu wirtualnego](https://go.microsoft.com/fwlink/?linkid=2146236) udostępnia administratorom zasoby do planowania oraz wymagania wstępne dotyczące wdrażania, wskazówek dotyczących konfiguracji i dodatkowych zasobów.

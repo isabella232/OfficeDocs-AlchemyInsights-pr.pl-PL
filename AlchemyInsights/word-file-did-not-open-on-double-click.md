@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aff548db493087e16629e81f5da9990a00c53e510bc5f92743dee393956d9c1c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834129"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036574"
 ---
 # <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Dokument programu Word otwarty w nieprawidłowej aplikacji lub nie został otwarty
 
@@ -31,19 +31,19 @@ Wypróbuj jedną z tych sugestii:
 
 1. Przejdź do **Panelu sterowania, > a następnie do > Programy i funkcje.**
 
-2. Wybierz produkt pakietu Office, który chcesz naprawić, a następnie wybierz pozycję **Zmień**.
+2. Wybierz Office produktu, który chcesz naprawić, a następnie wybierz pozycję **Zmień**.
 
 3. Wybierz opcję **Szybka naprawa,** a następnie wybierz pozycję **Napraw**.
 
-**Odinstalowywanie wersji pakietu Office, których nie używasz**
+**Odinstalowywanie Office plików, których nie używasz**
 
-1. Przejdź do **Panelu sterowania > Pozycję Odinstaluj program, a** następnie wybierz wersję pakietu Office, którą chcesz usunąć.
+1. Przejdź do **Panelu sterowania > Odinstaluj program, a** następnie wybierz wersję Office chcesz usunąć.
 
 2. Kliknij pozycję **Odinstaluj**.
 
 3. Uruchom ponownie komputer.
 
-**Uruchom to narzędzie do rozwiązywania problemów, aby ustawić otwieranie rozszerzeń plików pakietu Office w psłudze Office**
+**Uruchom to narzędzie do rozwiązywania problemów, aby Office otwierać rozszerzenia plików w Office**
 
 1. Uruchom to narzędzie do rozwiązywania https://aka.ms/diag_officefile problemów: .
 

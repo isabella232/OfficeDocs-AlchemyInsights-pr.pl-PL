@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004169"
 - "7314"
-ms.openlocfilehash: 9f53219bd504425295302500965dc526cbf75106
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1f62a3fff61dd005423574e77c70cedb4e3516d3012c69b0095246aa194154e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49565172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907928"
 ---
 # <a name="web-only-limited-access"></a>Web-Only ograniczony dostęp
 
-Web-Only ograniczony dostęp to wariant poziomu uprawnień ograniczonego dostępu, który umożliwia użytkownikom dostęp tylko do obiektu sieci Web.
+Web-Only ograniczony dostęp to wariant poziomu uprawnień "Ograniczony dostęp", który umożliwia użytkownikom dostęp tylko do obiektu sieci Web.
 
-Aby uzyskać więcej informacji, zobacz [domyślne poziomy uprawnień](https://docs.microsoft.com/sharepoint/understanding-permission-levels#default-permission-levels).
+Aby uzyskać więcej informacji, [zobacz domyślne poziomy uprawnień.](https://docs.microsoft.com/sharepoint/understanding-permission-levels#default-permission-levels)

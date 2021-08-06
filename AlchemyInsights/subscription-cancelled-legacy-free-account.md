@@ -1,5 +1,5 @@
 ---
-title: Anulowano abonament — starsze konto bez starszych wersji
+title: Subskrypcja została anulowana — Starsza wersja — bezpłatne konto
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6847"
-ms.openlocfilehash: 36755f68e45d3a0099c0e378e166bff82362e490
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: e2cedead6e93fa7303e5d54b8d79fda14ae2cb9987a17986c6327ac78189c4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999214"
 ---
-# <a name="subscription-cancelled---legacy---free-account"></a>Anulowano abonament — starsze konto bez starszych wersji
+# <a name="subscription-cancelled---legacy---free-account"></a>Subskrypcja została anulowana — Starsza wersja — bezpłatne konto
 
-Abonament został wyłączony, ponieważ środki na platformie Azure wygasną.
+Twoja subskrypcja zostanie wyłączona, ponieważ wygasła ważność środków na korzystanie z systemu Azure.
 
-**Środki na platformie Azure wygasły**
+**Ważność środków na korzystanie z systemu Azure wygasła**
 
-Gdy zalogujesz się do konta usługi Azure Free, otrzymasz bezpłatny abonament próbny, który zapewnia $200 na okres 30 dni i 12 miesięcy bezpłatnych usług na platformie Azure. Po upływie 30 dni platforma Azure wyłącza abonament. Abonament jest wyłączony w celu ochrony przed przypadkowymi opłatami za korzystanie poza doładowanie konta i bezpłatnych usług oferowanych w ramach abonamentu. Aby nadal korzystać z usług platformy Azure, musisz [uaktualnić abonament](https://docs.microsoft.com/azure/cost-management-billing/manage/upgrade-azure-subscription). Po przeprowadzeniu uaktualnienia abonament nadal będzie miał dostęp do bezpłatnych usług przez 12 miesięcy. Opłaty za korzystanie z usług można uzyskać wyłącznie za darmo.
+Po zalogowaniu się na bezpłatne konto azure otrzymasz bezpłatną subskrypcję wersji próbnej, która zapewnia 200 USD środków na korzystanie z systemu Azure na 30 dni i 12 miesięcy bezpłatnych usług. Po 30 dniach usługa Azure wyłączy Twoją subskrypcję. Twoja subskrypcja zostanie wyłączona, aby chronić Cię przed przypadkowymi opłatami za użycie poza zdolnością kredytową i bezpłatnymi usługami oferowanymi w ramach subskrypcji. Aby nadal korzystać z usług platformy Azure, musisz [uaktualnić swoją subskrypcję.](https://docs.microsoft.com/azure/cost-management-billing/manage/upgrade-azure-subscription) Po uaktualnieniu subskrypcja nadal ma dostęp do bezpłatnych usług przez 12 miesięcy. Opłata zostanie naliczona tylko za użycie poza bezpłatnymi usługami i ilościami.
 
 Wykonaj następujące czynności, aby uaktualnić subskrypcję:
 
-1. Zaloguj się w [witrynie Azure Portal](https://portal.azure.com/).
-2. Wyszukaj **abonamenty**.
-3. Wybierz subskrypcję utworzoną przy rejestrowaniu konta usługi Azure Free.
-4. W przeglądzie subskrypcji kliknij przycisk **Uaktualnij subskrypcję** na pasku poleceń. Jeśli nie widzisz przycisku Uaktualnij subskrypcję, kliknij transparent do uaktualnienia w górnej części strony.
-5. Jeśli nie masz metody płatności dla Twojego konta, zostanie wyświetlony monit o jego dodanie.
-6. Aby zweryfikować swoją tożsamość, może być konieczne wprowadzenie numeru telefonu.
+1. Zaloguj się do [portalu Azure Portal.](https://portal.azure.com/)
+2. Wyszukaj **subskrypcje.**
+3. Wybierz subskrypcję utworzoną podczas tworzenia konta w celu korzystania z bezpłatnego konta Azure.
+4. W przeglądzie subskrypcji kliknij przycisk **Uaktualnij subskrypcję** na pasku poleceń. Jeśli nie widzisz przycisku subskrypcji uaktualnienia, kliknij transparent uaktualniania u góry strony.
+5. Jeśli nie masz metody płatności dla swojego konta, zostanie wyświetlony monit o jej dodanie.
+6. W celu zweryfikowania tożsamości może być konieczne wprowadzenie numeru telefonu.
 7. Wpisz nazwę subskrypcji.
-8. Kliknij pozycję  **Uaktualnij**.
+8. Kliknij  **przycisk Uaktualnij**.

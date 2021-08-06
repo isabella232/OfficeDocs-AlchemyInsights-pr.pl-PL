@@ -14,27 +14,27 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3020837e8e8dd3b9ff4ada33f23c6118e83c3806
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 819aada39cdb819cb7a4fe30e14e88239c6352ab451eb77ee135307d5dd1cfcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664504"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907820"
 ---
 # <a name="why-cant-i-edit-files"></a>Dlaczego nie mogę edytować plików?
 
-Zapoznaj się z niektórymi przyczynami [niemożności edytowania pliku](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Przyjrzyj się szybko niektórym z powodów, dla których edytowanie pliku może [okazać się nie możliwe.](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)
 
-Jeśli masz biblioteki z kolumnami **wyewidencjonowywanie, wymaganymi** lub **metadanymi lub metadanymi** , albo gdy jest ustawiona wartość **wersja robocza elementu zabezpieczeń** , **tylko użytkownicy mogący edytować** lub **tylko użytkownicy, którzy mogą zatwierdzać elementy** w ustawieniach wersji biblioteki:
+Jeśli masz biblioteki z kolumnami lub metadanymi Wyewidencjonowanie, Wymagane lub Sprawdzanie  poprawności albo gdy zabezpieczenia wersji roboczych elementów są ustawione na Tylko użytkownicy, którzy mogą edytować lub Tylko użytkownicy, którzy mogą zatwierdzać elementy w wersji Ustawienia biblioteki:    
 
-- W przypadku bibliotek dokumentów programu SharePoint te elementy zostaną zsynchronizowane jako tylko do odczytu.
+- W SharePoint dokumentów te elementy będą synchronizowane jako tylko do odczytu.
 
-- W przypadku bibliotek usługi OneDrive w usłudze OneDrive zostanie wyświetlona ikona kłódki (blokada pliku usługi OneDrive) obok stanu synchronizacji, a użytkownik nie będzie mógł zsynchronizować biblioteki, dopóki wspomniane ustawienia nie zostaną usunięte. 
+- W przypadku bibliotek OneDrive w programie OneDrive obok stanu synchronizacji będzie wyświetlana ikona kłódki ( OneDrive ikona zablokowanego pliku ), a użytkownik nie będzie mógł synchronizować biblioteki, dopóki wymienione ustawienia nie zostaną usunięte. 
 
-Aby uzyskać więcej informacji na temat zablokowanych plików w programie Word lub Excel, Skorzystaj z poniższych artykułów.
+Aby uzyskać więcej informacji dotyczących zablokowanych plików w programie Word Excel, zapoznaj się z poniższymi artykułami.
 
-- [Podczas edytowania pliku pakietu Office pojawił się błąd "przekazywanie nie powiodło się" lub "nie można zapisać automatycznie"](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
+- [Podczas edytowania Upload pliku wyświetlany jest błąd "nie można Upload" lub "Nie można zapisać Office pliku](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
 
-- [Plik programu Excel jest zablokowany do edycji przez innego użytkownika](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Excel plik jest zablokowany do edycji przez innego użytkownika](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
 - [Plik programu Word jest zablokowany do edycji przez innego użytkownika](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
