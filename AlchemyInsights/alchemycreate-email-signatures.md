@@ -1,5 +1,5 @@
 ---
-title: Alchemy — Tworzenie podpisów e-mail
+title: Alchemy — tworzenie podpisów e-mail
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 563c1541-b4d3-4f7a-aaec-8b3b1477e517
-ms.openlocfilehash: 19bbb653d9ca5eaca45bc505e5212270d7373046
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a440239dae2978b548fdaa33bca60f2aff039756da283e86513b9ee2dbd3c59b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718847"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934087"
 ---
 # <a name="create-email-signatures"></a>Tworzenie podpisów e-mail
 
-Aby dowiedzieć się, jak tworzyć podpisy e-mail w programie Outlook, zobacz następujące tematy.
+Zobacz poniższe tematy, aby dowiedzieć się, jak tworzyć podpisy e-mail w programie Outlook.
   
-- Tworzenie podpisu e-mail dla własnych wiadomości: [Tworzenie i Dodawanie podpisu do wiadomości](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) oraz [Tworzenie i Dodawanie podpisu E-mail w aplikacji Outlook Web App](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx).
+- Tworzenie podpisu e-mail do własnych [wiadomości:](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) Tworzenie i dodawanie podpisu do wiadomości lub Tworzenie i dodawanie podpisu e-mail w aplikacji [Outlook Web App.](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx)
     
-- Tworzenie globalnego podpisu e-mail dla wszystkich wiadomości wysyłanych z firmy (zwanych też odpowiedzialnością): komunikaty dotyczące [oświadczeń, podpisów, stopek lub nagłówków w całej organizacji](https://go.microsoft.com/fwlink/p/?linkid=391096).
+- Tworzenie globalnego podpisu e-mail dla wszystkich wiadomości wysłanych z firmy (nazywanych również zastrzeżeniami): zastrzeżenia, podpisy, stopki lub nagłówki dla całej [organizacji.](https://go.microsoft.com/fwlink/p/?linkid=391096)
     
 

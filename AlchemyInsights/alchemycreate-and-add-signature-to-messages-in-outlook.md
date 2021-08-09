@@ -1,5 +1,5 @@
 ---
-title: Alchemy — tworzenie i Dodawanie podpisu do wiadomości w programie Outlook
+title: Alchemy — tworzenie i dodawanie podpisu do wiadomości w programie Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 933533b2c1065a96786522eee481abf859186342
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c676c03834f5d1b1740addd6ad108ee1176faa19e4b0a5b8927ac1e600810d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718826"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934189"
 ---
 # <a name="creating-email-signatures"></a>Tworzenie podpisów e-mail
 
 Te artykuły powinny ułatwić tworzenie podpisów e-mail w programie Outlook.
   
-- Chcę utworzyć podpis wiadomości e-mail przy użyciu programu Outlook w systemie Windows: [Tworzenie i Dodawanie podpisu do wiadomości](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
+- Chcę utworzyć podpis e-mail przy użyciu aplikacji Outlook on Windows: [Tworzenie podpisu i dodawanie go do wiadomości](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
   
-- Chcę utworzyć podpis wiadomości e-mail przy użyciu aplikacji Outlook w sieci Web: [Tworzenie i Dodawanie podpisu e-mail w aplikacji Outlook w sieci Web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
+- Chcę utworzyć podpis e-mail przy użyciu aplikacji Outlook w sieci Web: Tworzenie i [dodawanie podpisu e-mail w programie Outlook w sieci Web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
 
-- Chcę utworzyć podpis e-mail przy użyciu Outlook.com: [Tworzenie i Dodawanie podpisu e-mail w Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
+- Chcę utworzyć podpis e-mail przy użyciu adresu Outlook.com: Tworzenie i dodawanie podpisu e-mail w [Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Chcę utworzyć globalny podpis e-mail dla wszystkich wiadomości e-mail wysyłanych z mojej firmy: [Tworzenie podpisów i odzysków dla całej organizacji](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers)
+- Chcę utworzyć globalny podpis e-mail dla wszystkich wiadomości e-mail wysłanych z mojej firmy: Tworzenie podpisów i [zastrzeżeń dla całej organizacji](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers)
 
- **Porada:** Podpisy dla całej organizacji są nazywane "zastrzeżeniami".
+ **Porada:** Podpisy dla całej organizacji są określane jako "zastrzeżenia".
   

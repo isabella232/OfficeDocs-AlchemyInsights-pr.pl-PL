@@ -1,5 +1,5 @@
 ---
-title: Korzystanie z zabezpieczeń systemu Windows w celu ochrony przed wirusami i zagrożeniami
+title: Ochrona Zabezpieczenia Windows i zagrożeniami
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001517"
 - "5609"
-ms.openlocfilehash: 7fbbe5d5a7aa347541f6cedd3dc97daa2b9757d2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fce177091cd762defb549ec11bc2c9a86bea10c198b4fe5fad17c128379f2a8a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825993"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006828"
 ---
-# <a name="use-windows-security-for-virus-and-threat-protection"></a>Korzystanie z zabezpieczeń systemu Windows w celu ochrony przed wirusami i zagrożeniami
+# <a name="use-windows-security-for-virus-and-threat-protection"></a>Ochrona Zabezpieczenia Windows i zagrożeniami
 
-**Włączanie lub wyłączanie ochrony w czasie rzeczywistym zabezpieczeń systemu Windows**
+**Włączanie Zabezpieczenia Windows w czasie rzeczywistym**
 
-1. Kliknij **przycisk Start**, a następnie przejdź do > Ustawienia & zabezpieczenia > Windows Security > ochrona przed & **wirusami.**
+1. Kliknij **przycisk Start**, a następnie przejdź do Ustawienia > aktualizowanie & zabezpieczeń > Zabezpieczenia Windows > ochrony przed & **wirusami.**
 2. Wykonaj jeden z następujących kroków:
     - W obszarze "Ustawienia & ochrony przed zagrożeniami" kliknij pozycję  Zarządzaj ustawieniami  **,** a następnie włącz lub wyłącz ustawienie Ochrona w czasie **rzeczywistym.**
-    - W starszych wersjach systemu Windows 10: Kliknij pozycję **Ustawienia** ochrony przed & wirusami , a następnie przełącz ustawienie ochrona **w** czasie rzeczywistym na **Wł.** lub **Wył.**
+    - W starszych wersjach programu Windows 10: Kliknij pozycję **ustawienia** ochrony przed & przed wirusami , a następnie przełącz ustawienie ochrona **w** czasie rzeczywistym do **wartości Wł.** lub **Wył..**
 
-Usługa Windows Update automatycznie pobiera aktualizacje dla zabezpieczeń systemu Windows, aby zapewnić bezpieczeństwo komputera i chronić go przed zagrożeniami. Aby dowiedzieć się więcej o zabezpieczeniach systemu Windows, zapoznaj się z tematem Ochrona urządzenia za pomocą [zabezpieczeń systemu Windows.](https://support.microsoft.com/help/17464/windows-10-help-protect-my-device-with-windows-security)
+Windows Aktualizacja automatycznie pobiera aktualizacje dla Zabezpieczenia Windows, aby zapewnić bezpieczeństwo komputera i chronić go przed zagrożeniami. Aby dowiedzieć się więcej na Zabezpieczenia Windows, zapoznaj się z tematem Pomóż chronić moje urządzenie za pomocą [Zabezpieczenia Windows.](https://support.microsoft.com/help/17464/windows-10-help-protect-my-device-with-windows-security)

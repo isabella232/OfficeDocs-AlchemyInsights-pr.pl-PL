@@ -1,5 +1,5 @@
 ---
-title: 8000053 nie może wysyłać wiadomości e-mail dotyczących grup
+title: 8000053 nie można wysyłać grupowych wiadomości e-mail
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: dd014f9e5f4a126720614a2d92df3cfbc223bb17
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4be0f4a06100205083834763e39552a1daf008488232fbe681c3ab71e549f764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735245"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060578"
 ---
-# <a name="unable-to-send-group-emails"></a>Nie można wysłać wiadomości e-mail grupy
+# <a name="unable-to-send-group-emails"></a>Nie można wysyłać grupowych wiadomości e-mail
 
-Jeśli nie możesz wysłać wiadomości e-mail do list kontaktów lub grup kontaktów w programie Outlook.com, spróbuj wykonać następujące czynności:
+Jeśli nie możesz wysyłać wiadomości e-mail do list kontaktów lub grup kontaktów w adresie Outlook.com, spróbuj wykonać następujące czynności:
   
-1. Korzystaj z Outlook.com beta. Aby uzyskać więcej informacji, [zobacz Outlook.com beta](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
+1. Użyj Outlook.com w wersji beta. Aby uzyskać więcej informacji, [dowiedz się więcej o wersji Outlook.com w wersji beta.](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf)
     
-2. Jeśli nadal masz problemy z redagowaniem wiadomości e-mail do grupy, przejdź do pozycji [kontakty](https://outlook.live.com/people/), wybierz listę kontaktów lub grupę, a następnie wybierz pozycję **Wyślij wiadomość e-mail**.
+2. Jeśli nadal masz problem ze z napiszoną wiadomością e-mail do grupy, przejdź do kontaktów [,](https://outlook.live.com/people/)wybierz listę kontaktów lub grupę, a następnie wybierz pozycję Wyślij **wiadomość e-mail**.
     
  **Uwagi:**
   
-1. Upewnij się, że nie masz zablokowanego wyskakujących okienek: wysyłanie wiadomości e-mail z poziomu strony listy kontaktów powoduje otwarcie nowego okna.
+1. Upewnij się, że wyskakujące okienka nie są zablokowane: wysłanie wiadomości e-mail ze strony listy kontaktów powoduje otwarcie nowego okna.
     
-2. Wyślij wiadomość z listy kontaktów automatycznie umieszcza listę w wierszu **do** . Jeśli chcesz ukryć szczegóły listy kontaktów, kliknij pozycję **UDW** w prawym górnym rogu, a następnie skopiuj i Wklej listę kontaktów do pola **UDW** i Usuń wpis **do** . 
+2. Wysyłanie wiadomości e-mail z listy kontaktów automatycznie umieszcza listę w **wierszu DO.** Jeśli chcesz ukryć szczegóły listy kontaktów, kliknij pozycję **UDW** w prawym górnym rogu, a następnie skopiuj i wklej listę kontaktów do pozycji **UDW** i usuń **wpis DO.** 
     
-3. W przypadku korzystania z pola **UDW**dobrą praktyką jest zawsze stosowanie w wierszu **do** , na przykład, własnego adresu "od". 
+3. Podczas korzystania **z funkcji UDW** warto zawsze mieć w wierszu **DO** coś, na przykład własny adres "od". 
     
 

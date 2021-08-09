@@ -14,16 +14,16 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: f7871bb0f6ff289a4c20ef290b391579511233db
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7b9115f1a37de44eb5212f5bfc41b750d80200852b9982fe683b90af6a22a7df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834489"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060290"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Aktualizowanie rekordów DNS w celu zachowania witryny sieci Web u obecnego dostawcy hostingu
 
-W ramach procesu przenoszenia publicznej witryny internetowej platformy Microsoft 365 do innego dostawcy hostingu prawdopodobnie będzie konieczne wprowadzić zmiany w rekordach domeny.
+W ramach procesu przenoszenia twojej publicznej witryny Microsoft 365 sieci Web do innego dostawcy hostingu prawdopodobnie będzie konieczne wprowadzić zmiany w rekordach domeny.
   
 1. W centrum administracyjnym przejdź do pozycji **Konfiguracja** domen i wybierz nazwę domeny, \>  którą chcesz zmienić.
 
@@ -31,4 +31,4 @@ W ramach procesu przenoszenia publicznej witryny internetowej platformy Microsof
 
 Aby dowiedzieć się więcej, zobacz Aktualizowanie rekordów DNS w celu [zachowania witryny sieci Web u obecnego dostawcy hostingu.](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide)
   
-Aby dowiedzieć się więcej o wycofaniu witryn publicznych, zobacz Wycofane publiczne witryny internetowe usługi [SharePoint Online.](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)
+Aby dowiedzieć się więcej o wycofaniu witryn publicznych, zobacz [wycofanie SharePoint internetowych w trybie online.](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)
