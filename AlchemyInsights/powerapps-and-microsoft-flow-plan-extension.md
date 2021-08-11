@@ -1,5 +1,5 @@
 ---
-title: 1575 — rozszerzenie usługa PowerApps i Microsoft Flow plan
+title: 1575-PowerApps i Microsoft Flow rozszerzenia planu
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728405"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960449"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Rozszerzenie usługa PowerApps i plan Microsoft Flow
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Rozszerzenie planu usługi PowerApps Microsoft Flow usługi PowerApps
 
-Jeśli zamierzasz zażądać rozszerzenia planu dla **Microsoft Flow** lub **powerapps** , a Twoja dzierżawa ma już aktywnych użytkowników jednej z następujących funkcji, nie musisz przetwarzać prośby o pomoc.
+Jeśli zamierzasz zażądać rozszerzenia planu usługi **Microsoft Flow** lub **PowerApps,** a Twoja dzierżawa ma już aktywnych użytkowników jednej z następujących funkcji, nie musisz wnioskować o pomoc techniczną.
 
-- Tworzenie i publikowanie łączników niestandardowych w usłudze PowerApps i Microsoft Flow
-- Niestandardowe akcje HTTP zintegrowane z przepływem poza programem SharePoint i usługą OneDrive
+- Tworzenie i publikowanie łączników niestandardowych w aplikacjach PowerApps i Microsoft Flow
+- Akcje niestandardowe HTTP zintegrowane z Flow poza SharePoint i OneDrive
 - Integracja danych lokalnych za pośrednictwem lokalnej bramy danych
 
-Klienci mający aktywni użytkownicy tych funkcji uzyskają Automatyczne przedłużenie do 31 stycznia 2020 lub wygaśnięcia okresu subskrypcji usługi Microsoft 365, zależnie od tego, co jest dłuższe.
+Klienci z aktywnymi użytkownikami tych funkcji otrzymają automatyczne rozszerzenie do 31 stycznia 2020 r. lub wygaśnięcia ich istniejącego okresu subskrypcji usługi Microsoft 365, w zależności od tego, co jest dłuższe.

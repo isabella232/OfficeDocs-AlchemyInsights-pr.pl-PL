@@ -1,5 +1,5 @@
 ---
-title: Ustawienia uruchamiania w systemie Windows 10
+title: Ustawienia uruchamiania w Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: 6dfae58a398db088ba00d9c2ea9788bab929ccc1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 526b92013f26675b5bf42077271ae7dc7003af31fa8f605d76aea92e0ccabfa1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828162"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909836"
 ---
-# <a name="startup-settings-in-windows-10"></a>Ustawienia uruchamiania w systemie Windows 10
+# <a name="startup-settings-in-windows-10"></a>Ustawienia uruchamiania w Windows 10
 
 **Zmienianie aplikacji uruchomionych automatycznie podczas uruchamiania**
 
-1. Przejdź do [strony Ustawienia > Uruchamianie > uruchamianie.](ms-settings:startupapps?activationSource=GetHelp)
+1. Przejdź do [Ustawienia > Uruchamianie >.](ms-settings:startupapps?activationSource=GetHelp)
 
 2. Upewnij się, że każda aplikacja, która ma być uruchamiana podczas uruchamiania, jest **włączona.**
 
@@ -37,11 +37,11 @@ ms.locfileid: "51828162"
 
 4. Skopiuj skrót do aplikacji i wklej go z lokalizacji pliku do folderu Autostart.
 
-**Zaawansowane opcje uruchamiania (w tym tryb awaryjny, ustawienia UEFI i rozruch z innego urządzenia)**
+**Zaawansowane opcje uruchamiania (w tym tryb Sejf, ustawienia UEFI i rozruch z innego urządzenia)**
 
 1. Zapisz pracę i zamknij wszystkie otwarte dokumenty, ponieważ spowoduje to ponowne uruchomienie komputera.
 
-2. Przejdź do [strony Ustawienia > i & w celu > zabezpieczeń.](ms-settings:recovery?activationSource=GetHelp)
+2. Przejdź do [Ustawienia > & odzyskiwania > zabezpieczeń.](ms-settings:recovery?activationSource=GetHelp)
 
 3. W **obszarze Uruchamianie zaawansowane** kliknij pozycję Uruchom ponownie **teraz.** 
 
@@ -49,6 +49,6 @@ ms.locfileid: "51828162"
 
     - Aby uruchomić komputer z urządzenia, takiego jak dysk USB, kliknij **pozycję Użyj urządzenia**.
 
-    - Aby wprowadzić ustawienia UEFI (czasami nazywane konfiguracją KARTO), kliknij pozycję Rozwiązywanie problemów z > zaawansowane opcje > ustawienia oprogramowania **układowego UEFI.** 
+    - Aby wprowadzić ustawienia UEFI (czasami nazywane konfiguracją INTERFEJSU), kliknij pozycję Rozwiązywanie problemów z > opcjami zaawansowanymi > oprogramowania układowego **UEFI Ustawienia.** 
 
-    - Aby wejść w tryb awaryjny lub zmienić zaawansowane ustawienia uruchamiania, kliknij pozycję Rozwiązywanie problemów z > zaawansowane > Ustawienia **uruchamiania**, a następnie kliknij pozycję Uruchom **ponownie.** Może pojawić się monit o wprowadzenie klucza [odzyskiwania funkcji BitLocker.](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key) Po ponownym uruchomieniu komputera kliknij ustawienie uruchamiania, którego chcesz użyć.
+    - Aby wejść Sejf uruchamiania lub zmienić zaawansowane ustawienia uruchamiania, kliknij pozycję Rozwiązywanie problemów > zaawansowane opcje **> Uruchamianie Ustawienia**, a następnie kliknij pozycję Uruchom **ponownie.** Może pojawić się monit o wprowadzenie klucza [odzyskiwania funkcji BitLocker.](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key) Po ponownym uruchomieniu komputera kliknij ustawienie uruchamiania, którego chcesz użyć.

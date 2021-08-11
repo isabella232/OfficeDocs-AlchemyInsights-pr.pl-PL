@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38d650936d61b78d1f54cd3f6101283d57c6949f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39fd7a0e93fbf5d13c23f941c31293789c694929c529b70e9d2a9558dc3f2874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748426"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967487"
 ---
 # <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Urządzenia w programie Microsoft Defender dla punktu końcowego
 
-Program Microsoft Defender for Endpoint oferuje scentralizowane środowisko operacji zabezpieczeń dla systemu Windows i platform innych niż Windows. Ułatwia on ochronę sieci organizacji i przeglądanie alertów z różnych obsługiwanych systemów operacyjnych za pomocą usługi Microsoft Defender Security Center:
+Program Microsoft Defender for Endpoint udostępnia scentralizowane środowisko operacji zabezpieczeń dla Windows i innych Windows platform. Ułatwia on ochronę sieci organizacji i za pomocą aplikacji Centrum zabezpieczeń usługi Microsoft Defender sprawdzać alerty z różnych obsługiwanych systemów operacyjnych:
 
-- W **przypadku komputerów z systemem Windows 10** zobacz Narzędzia i metody dołączania do urządzeń z systemem Windows [10.](https://go.microsoft.com/fwlink/?linkid=2143460)
-- W **przypadku serwerów systemu Windows** zobacz Serwery [onboardowe usługi Microsoft Defender for Endpoint.](https://go.microsoft.com/fwlink/?linkid=2143627)
-- W **przypadku punktów końcowych innych** niż Windows sprawdź, czy twój system spełnia wymagania dotyczące systemu [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) lub [Linux,](https://go.microsoft.com/fwlink/?linkid=2143462)a następnie przejdź do [dołączania.](https://go.microsoft.com/fwlink/?linkid=2143628)
+- Aby **Windows 10 komputerów,** zobacz Narzędzia i metody dołączania do Windows 10 [urządzeniach.](https://go.microsoft.com/fwlink/?linkid=2143460)
+- Aby **Windows serwerach,** zobacz [Serwery na wschowe do usługi Microsoft Defender for Endpoint.](https://go.microsoft.com/fwlink/?linkid=2143627)
+- W **przypadku punktów Windows** innych niż program , upewnij się, że Twój system spełnia wymagania systemu [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) lub [Linux](https://go.microsoft.com/fwlink/?linkid=2143462), a następnie przejdź do [dołączania.](https://go.microsoft.com/fwlink/?linkid=2143628)
