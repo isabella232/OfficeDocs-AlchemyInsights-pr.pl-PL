@@ -1,5 +1,5 @@
 ---
-title: 1800018 Dodawanie/Konfigurowanie kont e-mail
+title: 1800018 Dodawanie/konfigurowanie kont e-mail
 ms.author: pdigia
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: de769d9ca58bfad687d586647a3ad4d9b7b2616a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd74173e62a5d2204641d0594e0e39587bbef869cb1ee7590a3db824a705bd2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687588"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935563"
 ---
-# <a name="problems-setting-up-an-email-account-in-outlook"></a>Problemy z konfigurowaniem konta e-mail w programie Outlook
+# <a name="problems-setting-up-an-email-account-in-outlook"></a>Problemy z konfigurowaniem konta e-mail w aplikacji Outlook
 
-Jeśli masz problemy z konfigurowaniem konta programu Exchange w programie Outlook, możesz uruchomić [Narzędzie Konfiguracja konta programu Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na komputerze, którego dotyczy problem. Umożliwia przeprowadzanie różnych testów i dostarczenie możliwych rozwiązań problemu z konfiguracją konta.
+Jeśli masz problemy ze skonfigurowaniem konta programu [Exchange](https://aka.ms/SaRA-OutlookSetupProfile) w programie Outlook, możesz uruchomić narzędzie do konfigurowania konta Outlook na tym komputerze. Wykonuje ona różne testy i dostarcza możliwe rozwiązania problemu z konfiguracją konta.
   
-Jeśli nadal występują problemy, zobacz [program Outlook nie może skonfigurować nowego profilu przy użyciu wykrywania automatycznego programu Exchange dla skrzynki pocztowej usługi Exchange Online](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
+Jeśli nadal masz problemy, zobacz Outlook nie możesz skonfigurować nowego profilu przy użyciu usługi wykrywania automatycznego usługi Exchange dla skrzynki [Exchange Online pocztowej.](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover)
   

@@ -1,5 +1,5 @@
 ---
-title: Rozwiązania dotyczące nieobsługiwanego systemu operacyjnego
+title: Rozwiązania dla "Nieobsługiwany system operacyjny"
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -13,24 +13,24 @@ ms.assetid: f8cf946c-89c7-4770-8f1f-d111e654e6cb
 ms.custom:
 - "906"
 - "2000023"
-ms.openlocfilehash: dbbe86406cb1b5d2166e9f5a61df6f0803f5172b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a18ae7c7a24183e2b2d9c0768ac8770be5f8e20d8c805caa8a18ab4cd1816423
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738107"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093134"
 ---
-# <a name="solutions-for-unsupported-operating-system"></a>Rozwiązania dotyczące "nieobsługiwanego systemu operacyjnego"
+# <a name="solutions-for-unsupported-operating-system"></a>Rozwiązania dla "Nieobsługiwany system operacyjny"
 
-Podczas próby zainstalowania programu Microsoft 365 może zostać wyświetlony komunikat o błędzie **nieobsługiwanego systemu operacyjnego** , jeśli urządzenie nie spełnia [wymagań systemowych](https://products.office.com/office-system-requirements).
+Podczas próby zainstalowania pakietu Microsoft 365 może zostać wyświetlony komunikat o błędzie Nieobsługiwany **system** operacyjny, jeśli Twoje urządzenie nie spełnia [wymagań systemowych.](https://products.office.com/office-system-requirements)
   
-Program Microsoft 365 wymaga:
+Microsoft 365 wymaga:
   
-- Komputer PC: Windows 10, Windows 8,1, Windows 8, Windows 7 z dodatkiem Service Pack 1, Windows Server 2016, Windows Server 2012 R2, Windows Server 2012 lub Windows Server 2008 R2
+- PC: Windows 10, Windows 8.1, Windows 8, Windows 7 z dodatkiem Service Pack 1, Windows Server 2016, Windows Server 2012 R2, Windows Server 2012 lub Windows Server 2008 R2
 
     LUB
 
-- System Mac OS X 10,10
+- Mac OS X 10.10
 
-Jeśli ta wiadomość została odebrana podczas próby zainstalowania pakietu Office na urządzeniu przenośnym lub komputerze Chromebook, zobacz [Instalowanie i uruchamianie pakietu Microsoft Office na komputerze Chromebook](https://support.office.com/article/32f14a23-2c1a-4579-b973-d4b1d78561ad?wt.mc_id=Alchemy_ClientDIA).
+Jeśli podczas próby zainstalowania pakietu Office lub komputera Chromebook pojawia się ten komunikat, zobacz Jak zainstalować i uruchomić usługę [Microsoft Office na Microsoft Office Chromebook.](https://support.office.com/article/32f14a23-2c1a-4579-b973-d4b1d78561ad?wt.mc_id=Alchemy_ClientDIA)
   

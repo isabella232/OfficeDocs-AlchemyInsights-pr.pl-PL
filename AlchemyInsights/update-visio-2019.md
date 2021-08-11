@@ -1,5 +1,5 @@
 ---
-title: Uaktualnianie do programu Visio 2019
+title: Uaktualnianie do Visio 2019 r.
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 90ba95281df41b4e715778a95a0e15a4a5b50f98
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a2c424f696d0f078962804b54da35579d079e5052e8e76ad7803b093e0f6d7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734957"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007116"
 ---
-# <a name="upgrade-to-visio-2019"></a>Uaktualnianie do programu Visio 2019
+# <a name="upgrade-to-visio-2019"></a>Uaktualnianie do Visio 2019 r.
 
-Użytkownicy, którzy zainstalowali aplikację klasyczną Visio w ramach subskrypcji programu Visio online, mają już najnowszą wersję. 
+Użytkownicy, którzy zainstalują Visio klasycznej w ramach subskrypcji usługi Visio Online, mają już najnowszą wersję. 
 
-Aby uaktualnić wersję bez subskrypcji, taką jak Visio 2016, musisz kupić subskrypcję programu Visio online lub zakup jednorazowy programu Visio Standard lub Vision Professional 2019. Zobacz [porównanie opcji programu Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
+Aby uaktualnić wersję bez subskrypcji, taką jak Visio 2016, musisz kupić subskrypcję usługi Visio Online lub zakup produktu Visio Standard lub Vision Professional 2019. Zobacz [Porównanie Visio.](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options)
 
-Jeśli już zakupiono nowszą wersję i możesz ją zainstalować, zobacz [Instalowanie programu Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) i wykonaj czynności podane w Twojej wersji. 
+Jeśli masz już kupioną nowszą wersję i [](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) możesz rozpocząć jej instalację, zobacz Instalowanie Visio i postępuj zgodnie z instrukcjami dla Twojej wersji. 
 
-Aby zainstalować program Visio obok siebie z pakietem Office, zobacz [obsługiwane scenariusze dotyczące instalowania różnych wersji pakietu Office, programu Project i programu Visio na tym samym komputerze](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
+Aby Visio jednocześnie z programem Office, zobacz Obsługiwane scenariusze instalowania różnych wersji pakietu [Office, Project](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)i Visio na tym samym komputerze.
 
-Aby uzyskać więcej informacji, zobacz:<br>
-[Przewodnik dotyczący wdrażania programu Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[Główny numer wersji programu Visio 2019 trwa do 16,0](https://docs.microsoft.com/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
-[Oznaczenie roku w pakiecie Office 2016 i aplikacje klienckie zostaną usunięte z pozycji menu Start](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
-[Office 2019 Commercial dla systemu Windows i komputerów Mac — często zadawane pytania](https://support.microsoft.com/help/4133312) 
+Więcej informacji można znaleźć w następujących artykułach:<br>
+[Przewodnik po wdrażaniu aplikacji Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[Główny numer wersji pakietu Visio 2019 pozostaje na poziomie 16.0](https://docs.microsoft.com/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
+[Oznaczenie roku w programie Office 2016 i aplikacjach klienckich zostanie usunięte z menu Start wpisów](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
+[Office 2019 Commercial for Windows for Windows mac frequently asked questions](https://support.microsoft.com/help/4133312) 

@@ -1,5 +1,5 @@
 ---
-title: Application Guard dla pakietu Office dla administratorów
+title: Application Guard dla Office dla administratorów
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004584"
 - "8187"
-ms.openlocfilehash: 4d1f136cc57b100084dd5ac137828ececb1a03b0
-ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
+ms.openlocfilehash: 6d0fc347172257be489313e0874f064620d93e8cd24ccc74520954e7427bcd95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50093128"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970125"
 ---
-# <a name="application-guard-for-office-for-admins"></a>Application Guard dla pakietu Office dla administratorów
+# <a name="application-guard-for-office-for-admins"></a>Application Guard dla Office dla administratorów
 
-Application Guard dla pakietu Office jest dostępny dla organizacji, które mają licencje Microsoft 365 E5 lub Microsoft 365 E5 Mobility + Security. Użytkownicy w tych organizacjach muszą korzystać z aplikacji platformy Microsoft 365 dla przedsiębiorstw w bieżącym kanale lub miesięcznym kanale dla przedsiębiorstw.
+Application Guard for Office is available to organizations who have Microsoft 365 E5 or Microsoft 365 E5 Mobility + Security licenses. Użytkownicy w tych organizacjach muszą korzystać z Microsoft 365 dla przedsiębiorstw w bieżącym kanale lub miesięcznym Enterprise miesięcznym.
 
 > [!NOTE]
-> Funkcja Application Guard dla pakietu Office wymaga, aby na urządzeniu najpierw włączono funkcję Microsoft Defender Application Guard (MDAG). Aby uzyskać informacje na temat wdrażania usługi MDAG na wielu urządzeniach, zobacz [Przygotowanie do zainstalowania programu Microsoft Defender Application Guard.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard)
+> Funkcja Application Guard Office wymaga, Microsoft Defender Application Guard (MDAG) jest najpierw włączona na urządzeniu. Aby uzyskać informacje dotyczące wdrażania usługi MDAG na wielu urządzeniach, [zobacz Przygotowanie do instalacji Microsoft Defender Application Guard.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard)
 
-Aby uzyskać szczegółowe informacje na temat wymagań wstępnych, konfiguracji, ograniczeń i rozwiązywania problemów z programem Application Guard dla pakietu Office, zobacz:
+Aby uzyskać szczegółowe informacje na temat wymagań wstępnych, konfiguracji, ograniczeń i rozwiązywania problemów związanych z Office, zobacz:
 
-- [Często zadawane pytania: Application Guard dla pakietu Office](https://support.microsoft.com/office/application-guard-for-office-9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
-- [Konfigurowanie programu Application Guard dla pakietu Office](https://docs.microsoft.com/microsoft-365/security/office-365-security/install-app-guard)
+- [Często zadawane pytania: Application Guard dla Office](https://support.microsoft.com/office/application-guard-for-office-9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- [Konfigurowanie programu Application Guard dla Office](https://docs.microsoft.com/microsoft-365/security/office-365-security/install-app-guard)
