@@ -1,5 +1,5 @@
 ---
-title: Wdrażanie uprzywilejowanych zarządzania tożsamościami usługi Azure AD (PIM)
+title: Wdrażanie usługi Azure AD Privileged Identity Management (PIM)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003895"
 - "6949"
-ms.openlocfilehash: 6c9bbd7e55a283e421f76ebbda70aa579cb8b60c
-ms.sourcegitcommit: 2ff035d33e3277a268a5d88f1209dca77a87d689
+ms.openlocfilehash: e7e52ebf7fdb6a7cb07cf1d960fc14263ad0dbfab00ea9968feabbfa4b05c975
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680275"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914193"
 ---
-# <a name="deploy-azure-ad-privileged-identity-management-pim"></a>Wdrażanie uprzywilejowanych zarządzania tożsamościami usługi Azure AD (PIM)
+# <a name="deploy-azure-ad-privileged-identity-management-pim"></a>Wdrażanie usługi Azure AD Privileged Identity Management (PIM)
 
-Aby dowiedzieć się, jak zaplanować wdrożenie uprzywilejowanego zarządzania tożsamościami w organizacji usługi Azure Active Directory (PIM), zobacz [wdrażanie uprzywilejowanych zarządzania tożsamościami usługi Azure AD](https://go.microsoft.com/fwlink/?linkid=2132095).
+Aby dowiedzieć się, jak zaplanować wdrożenie usługi Privileged Identity Management (PIM) w organizacji usługi Azure Active Directory (Azure AD), zobacz Wdrażanie usługi [Azure AD Privileged Identity Management (PIM).](https://go.microsoft.com/fwlink/?linkid=2132095)

@@ -12,54 +12,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: f70b43a8b914b0d2dda9db61606b8ae24523f869
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679987"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914013"
 ---
 # <a name="device-in-pending-state"></a>Urządzenie w stanie oczekiwania
 
-**Dotyczących**
+**Wymagania wstępne:**
 
-1. Jeśli konfigurujesz rejestracje urządzeń po raz pierwszy, upewnij się, że zostały przejrzane [wprowadzenie do zarządzania urządzeniami w usłudze Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) , które pomogą Ci w tym, jak uzyskać urządzenia objęte kontrolą usługi Azure AD.
-2. Jeśli rejestrujesz urządzenia w usłudze Azure AD bezpośrednio i rejestrujesz je w usłudze Intune, musisz upewnić się, że [skonfigurowano usługę Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) , a w pierwszej kolejności należy wprowadzić [licencję](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) .
-3. Upewnij się, że masz autoryzację do wykonywania operacji w usłudze Azure AD i w lokalnej usłudze AD. Tylko administrator globalny w usłudze Azure AD może zarządzać ustawieniami rejestracji urządzeń. Ponadto w przypadku konfigurowania rejestracji automatycznej w lokalnej usłudze Active Directory musisz być administratorem usługi Active Directory i usługami AD FS (jeśli jest dostępna).
+1. Jeśli używasz rejestracji urządzeń po raz pierwszy, sprawdź Wprowadzenie do zarządzania urządzeniami w usłudze [Azure Active Directory (Azure AD),](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) które poprowadzi Cię przez proces uzyskania kontroli nad urządzeniami za pomocą usługi Azure AD.
+2. Jeśli rejestrujesz urządzenia bezpośrednio w usłudze Azure AD i zapisujesz je w usłudze Intune, musisz najpierw upewnić się, że skonfigurowano usługę [Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) i że w pierwszej kolejności są [one](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) stosowane.
+3. Upewnij się, że masz uprawnienia do wykonywania operacji w usłudze Azure AD i lokalnej usłudze AD. Tylko administrator globalny w usłudze Microsoft Azure Active Directory może zarządzać ustawieniami w przypadku rejestracji urządzeń. Jeśli dodatkowo konfigurujesz automatyczne rejestracje w lokalnej usłudze Active Directory, musisz być administratorem usługi Active Directory i usług federacyjnych Active Directory (o ile mają zastosowanie).
 
-Proces rejestracji hybrydowej dołączania Azure AD wymaga, aby urządzenia były w sieci firmowej. Działa również w sieci VPN, ale istnieją pewne zastrzeżenia. Mamy do tego, aby klienci musieli uzyskać pomoc w rozwiązywaniu problemów dotyczących procesu rejestracji hybrydowej funkcji dołączania usługi Azure AD w ramach zdalnego środowiska roboczego.
+Hybrydowy proces rejestracji dołączania do usługi Azure AD wymaga, aby urządzenia trafiły do sieci firmowej. Ta funkcja działa również przez sieć VPN, ale istnieje do tego kilka zastrzeżeniem. Słyszeliśmy, że w okolicznościach pracy zdalnej klienci potrzebują pomocy przy rozwiązywaniu problemów z hybrydowym procesem rejestracji dołączania do usługi Azure AD.
 
-**Środowisko uwierzytelniania w chmurze (Korzystanie z synchronizacji skrótu hasła w usłudze Azure AD lub uwierzytelniania przekazujące)**
+**Środowisko uwierzytelniania w chmurze (za pomocą synchronizacji skrótów haseł usługi Azure AD lub uwierzytelniania przekazać)**
 
-Ten przepływ rejestracji jest również nazywany "przyłączeniem do synchronizacji".
+Ten przepływ rejestracji jest również nazywany "sprzężeniami synchronizacji".
 
-Poniżej przedstawiono podział na to, co się dzieje w trakcie procesu rejestracji:
+Oto zestawienie tego, co dzieje się podczas procesu rejestracji:
 
-1. System Windows 10 odnajduje rekord punktu połączenia usługi (SCP), gdy użytkownik loguje się do urządzenia.
+1. Windows 10 rekord punktu połączenia usługi (SCP), gdy użytkownik loguje się do urządzenia.
 
-    1. Urządzenie najpierw usiłuje pobrać informacje o dzierżawie ze strony klienta usługi SCP w rejestrze [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Aby uzyskać więcej informacji, zobacz [dokument](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
-    1. Jeśli to nie uda, urządzenie komunikuje się z lokalną usługą Active Directory, aby uzyskać informacje o dzierżawie z punktu połączenia usługi. Aby zweryfikować punkt SCP, należy odwołać się do tego [dokumentu](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
-
-    > [!NOTE]
-    > Zalecamy włączenie punktu połączenia usługi w usłudze Active Directory i korzystanie tylko z usługi SCP po stronie klienta w celu wstępnego sprawdzania poprawności.
-
-2. System Windows 10 próbuje komunikować się z usługą Azure AD w kontekście systemowym, aby uwierzytelnić się w usłudze Azure AD.
-
-    Możesz sprawdzić, czy urządzenie może uzyskać dostęp do zasobów firmy Microsoft w ramach konta system przy użyciu [skryptu łączności urządzenia testowego](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0).
-
-3. System Windows 10 generuje certyfikat z podpisem własnym i przechowuje go w obszarze obiektu komputer w usłudze Active Directory lokalnego. Wymaga to, aby kontroler domeny był oparty na linii.
-
-4. Obiekt urządzenia z certyfikatem zostanie zsynchronizowany z usługą Azure AD za pośrednictwem usługi Azure AD Connect. Cykl synchronizacji jest domyślnie co 30 minut, ale zależy od konfiguracji usługi Azure AD Connect. Aby uzyskać więcej informacji, zapoznaj się z tym [dokumentem](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
-
-5. Na tym etapie powinno być możliwe wyświetlenie urządzenia subject w stanie "**oczekujące**" w obszarze Kaseta urządzenia usługi Azure Portal.
-
-6. Po następnym zalogowaniu się użytkownika do systemu Windows 10 rejestracja zostanie zakończona.
+    1. Urządzenie najpierw próbuje pobrać informacje o dzierżawie z po stronie klienta SCP w rejestrze [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Aby uzyskać więcej informacji, zobacz [dokument](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
+    1. W przypadku niepowodzenia urządzenie komunikuje się z lokalną usługą Active Directory w celu uzyskania informacji o dzierżawie z ustawienia SCP. Aby zweryfikować SCP, zapoznaj się z tym [dokumentem.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)
 
     > [!NOTE]
-    > Jeśli korzystasz z sieci VPN, a wylogowanie/logowanie zakończy łączność z domeną, możesz wyzwolić rejestrację ręcznie. W tym celu:
+    > Zalecamy włączenie SCP w usłudze Active Directory i używanie tylko po stronie klienta SCP w celu sprawdzenia początkowego.
+
+2. Windows 10 się z usługą Azure AD w kontekście systemowym w celu uwierzytelnienia się w usłudze Azure AD.
+
+    Możesz sprawdzić, czy urządzenie może uzyskać dostęp do zasobów firmy Microsoft w ramach konta systemowego, używając skryptu Testuj łączność [z rejestracją urządzenia.](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0)
+
+3. Windows 10 wygeneruje certyfikat z podpisem własnym i przechowuje go pod obiektem komputera w lokalnej usłudze Active Directory. Wymaga to ujednania Kontroler domeny.
+
+4. Obiekt urządzenia z certyfikatem jest synchronizowany z usługą Azure AD za pośrednictwem usługi Azure AD Połączenie. Domyślnie cykl synchronizacji to co 30 minut, ale zależy to od konfiguracji usługi Azure AD Połączenie. Aby uzyskać więcej informacji, zapoznaj się z tym [dokumentem.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)
+
+5. Na tym etapie urządzenie z tematem powinno być w stanie **"** Oczekiwanie" w obszarze Urządzenie blade portalu Azure Portal.
+
+6. Podczas następnego logowania użytkownika Windows 10 rejestracja zostanie zakończona.
+
+    > [!NOTE]
+    > Jeśli używasz sieci VPN, a logowanie/logowanie powoduje zakończenie łączności z domeną, możesz wyzwolić rejestrację ręcznie. W tym celu:
     >
-    > Wygeneruj `dsregcmd /join` lokalnie monit administratora lub zdalnie, korzystając z PSExec na komputerze.
+    > Wydaj `dsregcmd /join` monit administratora lokalnego lub zdalnie za pośrednictwem programu PSExec na komputer.
     >
     > Na przykład: `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
-Aby poznać typowe problemy dotyczące rejestracji urządzeń usługi Azure Active Directory, zobacz [często zadawane pytania dotyczące urządzeń](https://docs.microsoft.com/azure/active-directory/devices/faq).
+Aby uzyskać informacje o typowych Azure Active Directory rejestracji urządzeń, zobacz [Często zadawane pytania dotyczące urządzeń.](https://docs.microsoft.com/azure/active-directory/devices/faq)

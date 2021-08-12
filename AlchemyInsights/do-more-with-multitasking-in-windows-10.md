@@ -1,5 +1,5 @@
 ---
-title: Więcej funkcji wielozadaniowości w systemie Windows 10
+title: Więcej pracy dzięki wielozadaniowości w programie Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002958"
 - "5660"
-ms.openlocfilehash: 18259192bd5e6aeb85abaf6aa988cfcbbebd88af
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0f980b93337d2a0d3af06876ac14015546b850f80205d66cdb5c4a6fce162c2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814968"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948008"
 ---
-# <a name="do-more-with-multitasking-in-windows-10"></a>Więcej funkcji wielozadaniowości w systemie Windows 10
+# <a name="do-more-with-multitasking-in-windows-10"></a>Więcej pracy dzięki wielozadaniowości w programie Windows 10
 
 Aby wyświetlić aplikacje lub przełączać  się między nimi: możesz kliknąć przycisk Widok zadań na pasku zadań lub nacisnąć klawisze **Alt-Tab** na klawiaturze. Przycisk Widok zadań wygląda następująco:
 
