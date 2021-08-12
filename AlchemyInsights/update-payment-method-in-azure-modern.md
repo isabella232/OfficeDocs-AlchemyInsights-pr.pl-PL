@@ -1,5 +1,5 @@
 ---
-title: Aktualizowanie szczegółów płatności na platformie Azure (nowoczesny)
+title: Aktualizowanie szczegółów płatności na platformie Azure (nowoczesne)
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,30 +12,30 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6857"
-ms.openlocfilehash: bb032f772077318e54ac4fde42a72f432703d828
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 39f77710d25add89d1bb9610ae1875784b538ad68512a4db29c1388e53e0fd75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807873"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007332"
 ---
 # <a name="update-payment-details-in-azure"></a>Aktualizowanie szczegółów płatności na platformie Azure
 
-Jeśli Twoja karta kredytowa zostanie odnowiona, a numer pozostaje taki sam, zaktualizuj istniejące dane karty kredytowej, takie jak data wygaśnięcia. Jeśli numer karty kredytowej zmieni się, ponieważ karta została zgubiona, skradziona lub wygasła, wykonaj czynności opisane w sekcji [Dodawanie karty kredytowej jako metody płatności](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) . Nie musisz aktualizować CVV.
+Jeśli twoja karta kredytowa zostanie odnowiona, a jej numer pozostanie taki sam, zaktualizuj dane istniejącej karty kredytowej, takie jak data wygaśnięcia. Jeśli numer twojej karty kredytowej zmieni się z powodu zgubienia, kradzieży lub wygaśnięcia karty kredytowej, postępuj zgodnie z instrukcjami w sekcji Dodawanie karty kredytowej jako [metody](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) płatności. Nie musisz aktualizować cvV.
 
-Twoje metody płatności są skojarzone z [profilami rozliczeń](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Metoda płatności może zostać zaktualizowana tylko przez użytkownika, który podpisał usługę Azure i utworzyła konto rozliczeniowe. Wykonaj poniższe czynności, aby zaktualizować metodę płatności.
+Twoje metody płatności są skojarzone z [profilami rozliczeniowymi](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Tylko użytkownik, który utworzył konto w usłudze Azure i utworzył konto rozliczeniowe, może zaktualizować metodę płatności. Wykonaj poniższe czynności, aby zaktualizować metodę płatności.
 
-1. Zaloguj się w [witrynie Azure Portal](https://portal.azure.com/).
+1. Zaloguj się do [portalu Azure Portal.](https://portal.azure.com/)
 
-2. Wyszukaj w obszarze **Zarządzanie kosztami + rozliczenia** .
+2. Szukaj w pozycji **Zarządzanie kosztami + rozliczenia**.
 
-3. W menu po lewej stronie wybierz pozycję **Profile rozliczeń** .
+3. W menu po lewej stronie wybierz pozycję **Profile rozliczeniowe**.
 
-4. Wybierz pozycję profil rozliczeniowy.
+4. Wybierz profil rozliczeniowy.
 
-5. W menu po lewej stronie wybierz pozycję **metody płatności** .
+5. W menu po lewej stronie wybierz pozycję **Metody płatności**.
 
-6. W sekcji **karty kredytowe** Znajdź kartę kredytową, którą chcesz edytować.
+6. W **sekcji Twoje karty kredytowe** znajdź kartę kredytową, którą chcesz edytować.
 7. Wybierz wielokropek **(...)** na końcu wiersza.
 
-8. Aby edytować dane karty kredytowej, wybierz pozycję  **Edytuj**  z menu kontekstowego.
+8. Aby edytować szczegóły karty kredytowej, wybierz  **pozycję Edytuj**  z menu kontekstowego.

@@ -1,5 +1,5 @@
 ---
-title: Dodawanie rozszerzenia do przeglądarki Microsoft Edge ze sklepu Microsoft Edge Add-ons Store
+title: Dodaj rozszerzenie do Microsoft Edge ze sklepu Microsoft Edge Dodatki
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6919"
 - "8310"
 - "9004621"
-ms.openlocfilehash: eacc0feca236f1d25e79aa55a56645c0b290c631
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 0533c92d17fe39325f0067cebf96c3f63b0dcc9a7ed58557e2557ef75aad55e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505012"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936427"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>Dodawanie rozszerzenia do przeglądarki Microsoft Edge ze sklepu Microsoft Edge Add-ons Store
+# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>Dodaj rozszerzenie do Microsoft Edge ze sklepu Microsoft Edge Dodatki
 
-Aby dodać rozszerzenie do przeglądarki Microsoft Edge ze sklepu dodatków Microsoft Edge:
+Aby dodać rozszerzenie do Microsoft Edge ze sklepu Microsoft Edge Dodatki:
 
-- Otwórz program Microsoft Edge.
-- Wybierz **pozycję ... > rozszerzenia > [Uzyskaj rozszerzenia dla przeglądarki Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2136408)**
+- Otwórz Microsoft Edge.
+- Wybierz **pozycję ... > rozszerzenia > uzyskaj rozszerzenia dla [Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.
 - Wybierz rozszerzenie, które chcesz dodać, a następnie wybierz **pobierz**.
 - W oknie dialogowym potwierdzenia uważnie przejrzyj zmiany, które może wprowadzić rozszerzenie, i wybierz **pozycję Dodaj rozszerzenie**.
 
