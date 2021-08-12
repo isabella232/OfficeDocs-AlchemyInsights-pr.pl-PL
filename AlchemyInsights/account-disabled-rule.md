@@ -12,57 +12,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6676"
-ms.openlocfilehash: 6a350c6bca18306e64f647cfa3a7f14fa204109b
-ms.sourcegitcommit: 9626d39e5891f83774ba31574a00b0bae92ad442
+ms.openlocfilehash: 8918b0da0172e0421ade6f0cca936e14d1d609896bc4c75c5a8491c0dbe75aff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "48758599"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938453"
 ---
-# <a name="azure-subscription-disabled"></a>Subskrypcja usługi Azure wyłączona
+# <a name="azure-subscription-disabled"></a>Subskrypcja azure jest wyłączona
 
-Abonament na platformie Azure może zostać wyłączony, ponieważ doładowanie konta wygasło, osiągnięto limit wydatków, masz przeterminowane rozliczenie, Doładuj limit karty kredytowej lub, ponieważ abonament został anulowany przez administratora konta. Poniżej podano, jak można ponownie włączyć subskrypcję. Dowiedz się więcej: [ponowne aktywowanie subskrypcji platformy Azure](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+Twoja subskrypcja platformy Azure może zostać wyłączona, ponieważ wygasła Twoja karta kredytowa, osiągnięto limit wydatków, masz za termin płatności, osiągnięto limit karty kredytowej lub subskrypcja została anulowana przez administratora konta. Poniżej opisano sposób ponownego włączania subskrypcji. Dowiedz się więcej: [Ponowne aktywowanie subskrypcji platformy Azure](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Ponownie włącz subskrypcję platformy Azure (subskrypcja została przypadkowo anulowana)** [Administrator konta](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) może ponownie uaktywnić anulowaną subskrypcję płatną w Twoim centrum kont:
+**Ponowne włączanie subskrypcji platformy Azure (subskrypcja została przypadkowo anulowana)** Administrator [konta może](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) ponownie aktywować anulowaną subskrypcję usługi Pay-As-You-Go w Centrum kont:
 
-1. Zaloguj się do [centrum kont](https://account.windowsazure.com/Subscriptions).
-2. Wybierz anulowaną subskrypcję. Kliknij pozycję **Aktywuj ponownie** .
+1. Zaloguj się do [Centrum kont.](https://account.windowsazure.com/Subscriptions)
+2. Wybierz anulowaną subskrypcję. Kliknij **pozycję Aktywuj ponownie**.
 
-W przypadku innych typów abonamentu [skontaktuj się z pomocą techniczną](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) , aby ponownie aktywować subskrypcję.
+W przypadku innych typów subskrypcji skontaktuj [się z pomocą techniczną,](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) aby ponownie aktywować subskrypcję.
 
-**Karta kredytowa utraciła ważność**
+**Wygasła karta kredytowa**
 
-Gdy zalogujesz się do **konta usługi Azure Free** , otrzymasz bezpłatny abonament próbny, który zapewnia $200 na okres 30 dni i 12 miesięcy bezpłatnych usług na platformie Azure. Po upływie 30 dni platforma Azure wyłącza abonament. Abonament jest wyłączony w celu ochrony przed przypadkowymi opłatami za korzystanie poza doładowanie konta i bezpłatnych usług oferowanych w ramach abonamentu. Aby nadal korzystać z usług platformy Azure, musisz [uaktualnić abonament](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support). Po przeprowadzeniu uaktualnienia abonament nadal będzie miał dostęp do bezpłatnych usług przez 12 miesięcy. Opłaty za korzystanie z usług można uzyskać wyłącznie za darmo.  
-Dowiedz się więcej: [karta kredytowa utraciła ważność](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support#your-credit-is-expired)
+Po zalogowaniu się na bezpłatne konto **Azure** otrzymasz bezpłatną subskrypcję wersji próbnej, która zapewnia 200 USD środków na korzystanie z systemu Azure na 30 dni i 12 miesięcy bezpłatnych usług. Po 30 dniach usługa Azure wyłączy Twoją subskrypcję. Twoja subskrypcja zostanie wyłączona, aby chronić Cię przed przypadkowymi opłatami za użycie poza zdolnością kredytową i bezpłatnymi usługami oferowanymi w ramach subskrypcji. Aby nadal korzystać z usług platformy Azure, musisz [uaktualnić swoją subskrypcję.](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support) Po uaktualnieniu subskrypcja nadal ma dostęp do bezpłatnych usług przez 12 miesięcy. Opłata zostanie naliczona tylko za użycie poza bezpłatnymi usługami i ilościami.  
+Dowiedz się więcej: [Wygasła karta kredytowa](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support#your-credit-is-expired)
 
 **Osiągnięto limit wydatków**
 
-Gdy Twoje użycie osiągnie limit wydatków, platforma Azure wyłącza abonament na pozostałą część tego okresu rozliczeniowego. Abonament jest wyłączony w celu ochrony przed przypadkowymi opłatami za użycie poza doładowaniem uwzględnionym w abonamentzie. Aby usunąć limit wydatków, zobacz [limit wydatków platformy Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support).  
-Dowiedz się więcej: [osiągnięto limit wydatków](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
+Po osiągnięciu limitu wydatków platforma Azure wyłącza Twoją subskrypcję przez resztę okresu rozliczeniowego. Twoja subskrypcja jest wyłączona, aby chronić Cię przed przypadkowymi opłatami za użycie wykraczające poza kredyt w ramach subskrypcji. Aby usunąć limit wydatków, zobacz [Limit wydatków platformy Azure.](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)  
+Dowiedz się więcej: [Osiągnięto limit wydatków](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
 
-**Weksel z zadłużeniem**
+**Zaszłe rozliczenia**
 
-Aby wyeliminować zaległe saldo, zobacz [rozwiązano zaległe saldo dla subskrypcji platformy Azure po otrzymaniu wiadomości e-mail z platformy Azure](https://docs.microsoft.com/azure/billing/billing-azure-subscription-past-due-balance?WT.mc_id=Portal-Microsoft_Azure_Support).
+Aby rozwiązać zaszłe saldo, zobacz Rozwiązywanie zaszłych opłat za subskrypcję platformy Azure po [otrzymaniu wiadomości e-mail od platformy Azure.](https://docs.microsoft.com/azure/billing/billing-azure-subscription-past-due-balance?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Bill przekracza limit karty kredytowej**
+**Rachunek przekracza limit karty kredytowej**
 
-Aby rozwiązać ten problem, [Przejdź na inną kartę kredytową](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support). Lub Jeśli reprezentujesz firmę, możesz [przełączyć się na płatność za pomocą faktury](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support).
+Aby rozwiązać ten problem, [przełącz się na inną kartę kredytową](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support). Jeśli natomiast reprezentujesz firmę, możesz przełączyć się na [płatność na podstawie faktury.](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Uwaga** : nowa data rocznicy subskrypcji zostanie przypisana do abonamentów, które zostały ponownie włączone. Liczba dni (interwału), w których abonament został zawieszony, zostanie dodana do oryginalnej daty skojarzenia zabezpieczeń. Każda Data rocznicy przypadające na 29, 30 lub 31 spowoduje, że data z zestawu skojarzeń zabezpieczeń zostanie ustawiona na 1 dzień następnego miesiąca.  
-Przykłady
+**Uwaga:** Do subskrypcji, które zostały ponownie włączone, zostanie przypisana nowa data rocznicy subskrypcji (SA). Liczba dni (interwał), na które subskrypcja została zawieszona, zostanie dodana do oryginalnej daty SA. Każda data rocznicy przypadająca 29, 30 lub 31 dnia spowoduje, że data SA zostanie ustawiona na 1. dnia następnego miesiąca.  
+Przykład:
 
-- Pierwotna rocznica abonamentu to 25;
-- Abonament został zawieszony w dniu 10/3 i ponownie włączony na 10/9;
-- Abonament został wyłączony przez 6 dni (interwał 6);
-- Następnie przedział zostanie dodany do pierwotnego skojarzenia zabezpieczeń, a suma staje się datą nowego skojarzenia zabezpieczeń (25 + 6 = 31). 
+- Oryginalna rocznica subskrypcji to 25.
+- Subskrypcja została zawieszona 3 października i ponownie włączona 9 stycznia.
+- Subskrypcja została wyłączona na 6 dni (interwał 6).
+- Interwał zostanie dodany do pierwotnego sa, a suma stanie się nową datą SA (25+6=31). 
 
-**Uwaga** : w tym przykładzie, ponieważ data skojarzenia zabezpieczeń jest już większa niż 28, nowa data jest równa 1 dnia następnego miesiąca.
+**Uwaga:** w tym przykładzie, ponieważ data SA jest teraz większa niż 28, nowa data SA będzie pierwszym dniem następnego miesiąca.
 
-**Polecane dokumenty**
+**Zalecane dokumenty**
 
-- [Przełączanie subskrypcji](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)  
-- [Anulowanie subskrypcji](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)  
+- [Zmień subskrypcję](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)  
+- [Anuluj subskrypcję](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)  
 - [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/?source=datamarket)
-- Znajdowanie [administratora konta](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
-- [Co zrobić, jeśli abonament na platformie Azure zostanie wyłączony?](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Limit wydatków platformy Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Odszukaj administratora konta](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
+- [Co zrobić, jeśli moja subskrypcja platformy Azure zostanie wyłączona?](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Limit wydatków w usłudze Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)

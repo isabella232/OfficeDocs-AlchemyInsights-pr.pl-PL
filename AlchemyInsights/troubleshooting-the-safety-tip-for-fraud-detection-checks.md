@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z poradami w zakresie bezpieczeństwa podczas sprawdzania wykrywania oszustw
+title: Rozwiązywanie problemów z porada dotycząca bezpieczeństwa wykrywania oszustw
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 85faa0086935fb7e7132ee9fdced546bafdb344c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c7ee1fcc887a3221b5f2acda1aa6ae6beb03cb96686d4ecb7828a02f8ff48302
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834741"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955976"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Rozwiązywanie problemów z poradami w zakresie bezpieczeństwa podczas sprawdzania wykrywania oszustw
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Rozwiązywanie problemów z porada dotycząca bezpieczeństwa wykrywania oszustw
 
-Jeśli jest wyświetlana porada o bezpieczeństwie z treścią informacji "Nadawca zakończył testy wykrywania oszustw i może nie być tym, kto tak jest", oznacza to, że nadawca nie przejdzie testów uwierzytelniania DKIM lub SPF. Najlepszą metodą rozwiązania tego problemu jest autoryzacja siebie przez nadawcę. Jeśli nadawca wysyła w Twoim imieniu, musisz autoryzować go, dodając adres IP nadawcy do Twojego rekordu SPF.
+Jeśli jest wyświetlany kod porada dotycząca bezpieczeństwa o treści "Nadawca nie sprawdzał oszustw i może nie być tym, kim są", oznacza to, że nadawca nie przejdzie testów uwierzytelniania DKIM lub SPF. Najlepszą metodą rozwiązania tego problemu jest autoryzacja siebie przez nadawcę. Jeśli nadawca wysyła w Twoim imieniu, musisz autoryzować go, dodając adres IP nadawcy do Twojego rekordu SPF.
   
-Aby uzyskać więcej informacji, zobacz Rozwiązywanie problemów dotyczących [czerwonej (podejrzanej) porady](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) dotyczącej bezpieczeństwa w przypadku wykrywania oszustw.
+Aby uzyskać więcej informacji, zobacz Rozwiązywanie problemów z [czerwonym (podejrzanym) porada dotycząca bezpieczeństwa wykrywania](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) oszustw.
   
 Oto kilka innych linków, które mogą pomóc:
   

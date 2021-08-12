@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003234"
 - "7230"
-ms.openlocfilehash: ec74b7c098d302d3bdeb5a412fad41efe7b82b98
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4530abb3bf597458ea22441203a0db24b4b109f0760258310072891014c4b454
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816367"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929315"
 ---
 # <a name="create-a-group"></a>Tworzenie grupy
 
@@ -29,10 +29,10 @@ Upewnij się, że masz upoważnienie do tworzenia nowej grupy. Administratorzy g
 
 **Zarządzanie uprawnieniami do tworzenia grup**
 
-1. Administratorzy globalni mogą zarządzać uprawnieniami do tworzenia grup (ze względów bezpieczeństwa) lub grupami usługi Office 365 utworzonymi w Portalu Azure lub w Panelu dostępu, wybierając pozycję "Użytkownicy mogą tworzyć grupy zabezpieczeń w portalach Azure" lub "Użytkownicy mogą tworzyć grupy usługi Office 365 w portalach Azure" w grupie Wszystkie grupy ogólne  >  **(ustawienia).**
-2. Jeśli masz licencję Usługi Azure Active Directory P1 Premium, możesz też ograniczyć tworzenie grup w celu wybrania grupy użytkowników.
+1. Administratorzy globalni mogą zarządzać uprawnieniami do tworzenia grup (ze względów bezpieczeństwa) lub grupami programu Office 365 utworzonymi w Portalu Azure lub Panelu dostępu, wybierając opcję "Użytkownicy mogą tworzyć grupy zabezpieczeń w portalach Azure" lub "Użytkownicy mogą tworzyć grupy Office 365 w portalach Azure" w grupie Wszystkie grupy  >  **ogólne (Ustawienia).**
+2. Możesz również ograniczyć tworzenie grup, aby wybrać grupę użytkowników, jeśli masz licencję grupy Azure Active Directory P1 Premium grupy.
 
-**Wyłączanie powiadomień powitalnych dla nowych członków grupy usługi Office 365**
+**Wyłączanie powiadomień powitalnych dla nowych Office 365 członków grupy**
 
-Powiadomienie powitalne wysyłane do użytkowników dodanych do grup usługi Office 365 można wyłączyć, ustawiając dla opcji **UnifiedGroupWelcomeMessageEnabled wartość False** w programie PowerShell. Tutaj dowiesz się o tym [ustawieniu.](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true)
+Powiadomienie powitalne wysyłane do użytkowników dodanych do grup Office 365 można wyłączyć, ustawiając wartość **UnifiedGroupWelcomeMessageEnabled na** False w programie PowerShell. Tutaj dowiesz się o tym [ustawieniu.](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true)
 
