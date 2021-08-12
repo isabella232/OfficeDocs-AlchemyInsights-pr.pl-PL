@@ -1,5 +1,5 @@
 ---
-title: Trwa incydent usługi
+title: Zdarzenie usługi w toku
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -19,18 +19,18 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: d2f3d1f75c61100b3b3892d286db7af91a618ba2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ea17addde1b98b6f8b33909e126078266992a55e7eb6932443fc8f9d213c04a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751397"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061370"
 ---
-# <a name="service-incident-in-progress"></a>Trwa incydent usługi
+# <a name="service-incident-in-progress"></a>Zdarzenie usługi w toku
 
-Może to wpłynąć na wpływ incydentu usługowego lub poradnika, który jest obecnie analizowany. Możesz sprawdzić najnowszy stan, przechodząc do strony [kondycja usługi](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Może dotyczyć Cię zdarzenie dotyczące usługi lub porada, które właśnie badamy. Możesz sprawdzić najnowszy stan, przechodząc do strony [Kondycja](https://admin.microsoft.com/adminportal/home#/servicehealth) usługi.
   
-Dla wygody możesz znaleźć streszczenie tego zdarzenia poniżej:
+Dla Twojej wygody możesz znaleźć podsumowanie tego zdarzenia poniżej:
   
 > **Numer zdarzenia:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     

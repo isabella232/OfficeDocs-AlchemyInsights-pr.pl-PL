@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3ad25cd49fb37a34afe4d65106d0f881fb051224ed0a7e2a27a1fd2f52645433
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970737"
 ---
 # <a name="what-version-of-android-does-your-app-support"></a>Która wersja systemu Android jest dostępna w Twojej aplikacji?
 
@@ -27,13 +27,13 @@ Jeśli twój system operacyjny Android jest aktualny, ale nadal otrzymujesz powi
 
 W tym celu: 
 
-1. Na telefonie lub tablecie z systemem Android otwórz **pozycję Ustawienia,** a następnie **pozycję Aplikacje** lub **Aplikacje.**
+1. Na telefonie lub tablecie z systemem Android otwórz aplikację **Ustawienia** a następnie **aplikacje.**
 
 2. U góry ekranu naciśnij pozycję Więcej **(może** to być również wielokropek lub trzy pionowe **kropki),** a następnie pozycję Pokaż system . 
 
 3. Przewiń w dół i naciśnij **pozycję Usługi Google Play.** 
 
-4. Naciśnij **pozycję Magazyn,** a następnie **Pozycję Wyczyść pamięć podręczną.** 
+4. Naciśnij pozycję **Storage** a następnie **pozycję Wyczyść pamięć podręczną.** 
 
 5. Naciśnij **pozycję Zarządzaj przestrzenią,** a **następnie pozycję Wyczyść wszystkie dane.** 
 

@@ -1,5 +1,5 @@
 ---
-title: Komunikat o konserwacji — tylko do odczytu podczas próby użycia programu SharePoint lub usługi OneDrive
+title: Read-Only komunikat konserwacji podczas próby użycia SharePoint lub OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670842"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910556"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Komunikat o konserwacji — tylko do odczytu podczas próby użycia programu SharePoint lub usługi OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only komunikat konserwacji podczas próby użycia SharePoint lub OneDrive
 
-Po próbie użycia programu SharePoint lub usługi OneDrive może zostać wyświetlony komunikat **"tylko do odczytu"** w przypadku jednego z poniższych scenariuszy. 
+Użytkownicy mogą otrzymać komunikat **Tylko** do odczytu dla konserwacji podczas próby użycia SharePoint lub OneDrive w jednym z poniższych scenariuszy. 
 
--   Planowana lub aktywna aktywność konserwacyjna.  Wyszukaj je, przechodząc do [centrum wiadomości](https://portal.office.com/adminportal/home#/messagecenter).
--   Wysoki priorytet aktywnego incydentu usługowego, który może wystąpić. Sprawdź, czy są jakieś doradcy/incydenty, przechodząc do [kondycji usługi](https://portal.office.com/adminportal/home#/servicehealth).
--   Nieznaczny scenariusz automatycznej naprawy, który może być spowodowany nieoczekiwanymi zdarzeniami na serwerach, które mogą trwać krócej niż 30 minut. 
+-   Planowane lub aktywne działanie konserwacyjne.  Sprawdź je, przechodząc do [Centrum wiadomości.](https://portal.office.com/adminportal/home#/messagecenter)
+-   Może mieć miejsce zdarzenie o wysokim priorytecie aktywnej usługi. Sprawdź, czy nie ma żadnych porad i zdarzeń, przechodząc do [tematu Kondycja usługi.](https://portal.office.com/adminportal/home#/servicehealth)
+-   Scenariusz odzyskiwania autoodzywu, który może wystąpić z powodu nieoczekiwanych zdarzeń na serwerach, które mogą trwać dłużej niż 30 minut. 
     
-    W przypadku tych drobnych rekondycji nie ma żadnych punktów w centrum wiadomości lub kondycji usługi, ale należy szybko wrócić do normalnego.
+    Nie ma żadnych wpisów w Centrum wiadomości ani kondycji usługi dotyczącej tych drobnych odzyskanych danych, ale wkrótce powinno się wrócić do normalnego stanu.
 
-W bardzo niewielkich przypadkach zaobserwowano, że jedna z trzech opisanych powyżej scenariuszy była przyczyną, a usługa została przywrócona, ale pamięć podręczna przeglądarki użytkownicy nie została wyczyszczona.
+W bardzo niewielu przypadkach zauważyliśmy, że przyczyną jest jeden z trzech wymienionych powyżej scenariuszy i przywrócono usługę, ale pamięć podręczna przeglądarki użytkowników nie została wyczyszczana.
 
-Spróbuj wyczyścić pamięć podręczną przeglądarki przed przejściem do witryny.
+Przed przejściem do witryny spróbuj wyczyścić pamięć podręczną przeglądarki.
 
-1. W przeglądarce programu Microsoft Edge wybierz pozycję **Ustawienia**, a następnie wybierz pozycję **prywatność i zabezpieczenia**.
-2. W obszarze **Wyczyść przeglądanie**wybierz pozycję **Wybierz, co chcesz wyczyścić**.
-3. Wybierz pozycję **pliki cookie i zapisane dane witryny sieci Web**, a następnie wybierz pozycję **Wyczyść**.
-
->[!Note] 
-> Te czynności mogą się różnić w przypadku korzystania z innych przeglądarek, takich jak Mozilla Firefox czy Google Chrome.
+1. W przeglądarce Microsoft Edge wybierz **pozycję** Ustawienia , a następnie wybierz pozycję **Prywatność i zabezpieczenia**.
+2. W **obszarze Wyczyść przeglądanie** wybierz pozycję **Wybierz, co chcesz wyczyścić**.
+3. Wybierz pozycję **Pliki cookie i zapisane dane witryn** internetowych, a następnie wybierz pozycję **Wyczyść**.
 
 >[!Note] 
-> Inną opcją może być otwarcie witryny programu SharePoint lub usługi OneDrive w nowym oknie InPrivate.
+> Te kroki mogą się różnić w przypadku korzystania z innych przeglądarek, takich jak Mozilla Firefox lub Google Chrome.
+
+>[!Note] 
+> Innym rozwiązaniem jest otwarcie SharePoint lub OneDrive w nowym oknie InPrivate.

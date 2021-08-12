@@ -1,5 +1,5 @@
 ---
-title: Aktualizowanie numeru zamówienia zakupu w portalu Azure EA — zalecane kroki
+title: Aktualizacja numeru po stronie klienta w portalu Azure EA — zalecane czynności
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7290"
-ms.openlocfilehash: 0388ffa5e33cca366ab02c93bb70464fb2453752
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 160cdafd73fc3293eb154d156093a39844d0b84ea9f972691c3630693d720b38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714812"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007188"
 ---
-# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Aktualizowanie numeru zamówienia zakupu w portalu Azure EA — zalecane kroki
+# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Aktualizacja numeru po stronie klienta w portalu Azure EA — zalecane czynności
 
-Zmiany w numerze VAT/PODATKOWym lub zamówieniu zakupu zostaną uwzględnione na następnej fakturze. Aby zmienić identyfikator VAT/NIP lub numer zamówienia zakupu na fakturę, która została już wygenerowana, Otwórz bilet pomocy technicznej. Jeśli masz problemy związane z Twoim IDENTYFIKATORem VAT/PODATKIem, skontaktuj się z partnerem licencjonowania firmy Microsoft (partnerem lub doradcą oprogramowania). Skontaktują się z regionalnym centrum operacyjnym (ROC), aby uzyskać pytania dotyczące podatku VAT/identyfikatora podatku. 
+Zmiany w numerze VAT/VAT lub zamówienia zakupu zajmą się na następnej fakturze. Aby zmienić identyfikator VAT/PODATKU lub numer zakupu na fakturę, która została już wygenerowana, otwórz bilet pomocy technicznej. W przypadku jakichkolwiek problemów związanych z identyfikatorem VAT/TAX należy się z partnerem licencyjnym firmy Microsoft (partnerem lub doradcą oprogramowania). W razie pytań dotyczących identyfikatora VAT/TAX skontaktuje się z DZIAŁEM Regionalnym Operacyjnym (ROC). 
 
-Portal usługi Azure EA automatycznie generuje domyślny numer zamówienia zakupu, chyba że administrator atrybutów rozszerzonych ustawi ją przed datą faktury. Jako administrator EA (Rejestracja bezpośrednia)/administrator partnerów (Rejestracja pośrednia) możesz zaktualizować numer zamówienia zakupu w portalu Azure EA. Numer zamówienia można zaktualizować w dowolnym momencie przed wygenerowaniem faktury dla bieżącego okresu rozliczeniowego i do siedmiu dni po otrzymaniu automatycznej wiadomości e-mail z powiadomieniem o fakturze.    
+Portal Azure EA automatycznie generuje domyślny numer zakupu, chyba że administrator EA ustawia go przed datą faktury. Jako administrator EA (rejestracja bezpośrednia) /administrator partnerów (rejestracja pośrednia) możesz zaktualizować numer usługi po stronie klienta w Portalu Azure EA. Możesz zaktualizować numer zakupu w dowolnym momencie przed wygenerowaniem faktury dla bieżącego okresu rozliczeniowego i maksymalnie siedem dni po otrzymaniu automatycznego powiadomienia o fakturze.    
 
-Aby zaktualizować numer zamówienia zakupu:
+Aby zaktualizować numer aktualizacji:
 
-1. Zalogowanie się do [portalu EA](https://ea.azure.com/).
-1. W okienku po lewej stronie kliknij pozycję **raporty**.
-1. W górnej części strony kliknij pozycję **Podsumowanie użycia** , a następnie wybierz z listy rozwijanej odpowiedni okres.
-1. Kliknij pozycję **Wyświetl/Edytuj numery zamówienia**.
-1. Wprowadź nowy numer zamówienia zakupu i kliknij przycisk **Zapisz**.
+1. Zaloguj się do [portalu EA.](https://ea.azure.com/)
+1. W okienku po lewej stronie kliknij pozycję **Raporty**.
+1. U góry strony kliknij  pozycję Podsumowanie użycia i wybierz odpowiedni okres z listy rozwijanej.
+1. Kliknij **pozycję Wyświetl/Edytuj numery pos.**
+1. Wprowadź nowy numer telefonu i kliknij przycisk **Zapisz**.
 
 **Polecane dokumenty** 
 
-- [Faktury oparte na usłudze Azure Enterprise](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
-- [Rozliczenie weksla z umową na platformie Azure](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
+- [Faktury za rejestrację w przedsiębiorstwie azure](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
+- [Opis rachunku za Enterprise Agreement Usługi Azure](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
 - [Opis ról usługi Azure Enterprise](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
-- [Tworzenie innego administratora przedsiębiorstwa (administrator EA)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 
+- [Tworzenie kolejnego administratora przedsiębiorstwa (administrator EA)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 
