@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6dacba53908b3aad980d0a781d7489334a5ec054
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9e2b7ec560d92c7a74437723f0c33da9009624c7aabb5bb4cf4b3906d916051a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790414"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944177"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Kanały prywatne w aplikacji Microsoft Teams
+# <a name="private-channels-in-microsoft-teams"></a>Kanały prywatne w Microsoft Teams
 
-Kanały prywatne w aplikacji Microsoft Teams tworzą miejsca, w których można skupić się na współpracy w ramach Twoich zespołów. Do kanału mogą uzyskać dostęp tylko użytkownicy zespołu będący właścicielami lub członkami danego kanału prywatnego. Każda osoba, w tym goście, może zostać dodana jako członek kanału prywatnego, o ile jest już członkiem zespołu.
+Kanały prywatne w Microsoft Teams tworzyć skoncentrowane miejsca do współpracy w ramach Twoich zespołów. Do kanału mogą uzyskać dostęp tylko użytkownicy zespołu będący właścicielami lub członkami danego kanału prywatnego. Każda osoba, w tym goście, może zostać dodana jako członek kanału prywatnego, o ile jest już członkiem zespołu.
 
-Aby dowiedzieć się więcej, zacznij od [kanałów prywatnych w aplikacji Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams/private-channels) Obejmuje to informacje, takie jak [tworzenie kanału prywatnego, członkostwo i](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) witryny programu [SharePoint kanału prywatnego.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
+Aby dowiedzieć się więcej, zacznij od [kanałów prywatnych w Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams/private-channels) Informacje te obejmują na przykład [tworzenie kanałów prywatnych, członkostwo i](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) [kanały SharePoint prywatnych.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
 
 **Potrzebujesz nowego właściciela zespołu?**
 
 Jeśli właściciel kanału prywatnego odejdzie z organizacji lub zostanie usunięty z grupy, członek kanału prywatnego zostanie automatycznie promowany jako właściciel kanału prywatnego.
 
-Administratorzy mogą również zobaczyć zarządzanie cyklem życia kanałów prywatnych w uwitrynie [Microsoft Teams,](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) aby dowiedzieć się więcej o zasadach zarządzania tym, kto może tworzyć kanały prywatne, a także o sposobach pomagania w tworzeniu zapytań na temat zbierania elektronicznych materiałów dowodowych lub zbierania elektronicznych materiałów dowodowych.
+Administratorzy mogą również przejść do tematu Zarządzanie cyklem życia kanałów prywatnych w programie [Microsoft Teams,](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) aby dowiedzieć się więcej o zasadach zarządzania tym, kto może tworzyć kanały prywatne, a także o sposobach pomagania w tworzeniu zapytań dla zbierania elektronicznych materiałów dowodowych lub zbierania elektronicznych materiałów dowodowych.
