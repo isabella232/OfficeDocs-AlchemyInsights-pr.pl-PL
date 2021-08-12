@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 408
 ms.assetid: 99553a9f-3713-4d57-a243-add33813f360
-ms.openlocfilehash: ab0cc63ef12c675eeda8676fe129636ddb085c3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c185a606460b7b204d2f0ff11f6f77cb147c681feb6aa51401e1515ca8017a68
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797954"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911132"
 ---
 # <a name="about-room-mailboxes"></a>Informacje o skrzynkach pocztowych pokojów
 
-Sala Skrzynka pocztowa to Skrzynka pocztowa zasobu przypisana do lokalizacji fizycznej, na przykład w sali konferencyjnej, Auditorium lub pokoju szkoleniowym. Aby uzyskać więcej informacji na temat pokojów skrzynek pocztowych, zobacz [Tworzenie skrzynek pocztowych pokojów i zarządzanie nimi](https://go.microsoft.com/fwlink/p/?linkid=717533).
+Skrzynka pocztowa pokoju to skrzynka pocztowa zasobu przypisana do fizycznej lokalizacji, takiej jak sala konferencyjna, audytorium lub sala szkoleniowa. Aby uzyskać więcej informacji o skrzynkach pocztowych pokojów, zobacz Tworzenie skrzynek [pocztowych pokojów i zarządzanie nimi.](https://go.microsoft.com/fwlink/p/?linkid=717533)

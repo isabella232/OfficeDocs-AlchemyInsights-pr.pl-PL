@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003544"
 - "6460"
-ms.openlocfilehash: 77ad79da91ab0949973c5b2f8e19e5e9d4015d95
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f8f3de5a391d818447883cb8dbba2052c048fd5639c5f54c921ef5247dc6d6a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821160"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950891"
 ---
 # <a name="asms-test-solution"></a>Rozwiązanie testowe ASMS
 
-Klienci azure z umową Azure Enterprise Agreement (EA), Microsoft Customer Agreement (MCA) lub Microsoft Partner Agreement (MPA) mogą wyświetlać i pobierać swoje ceny w Portalu Azure.
+Klienci azure z subskrypcją usługi Azure Enterprise Agreement (EA), Microsoft Customer Agreement (MCA) lub Microsoft Partner Agreement (MPA) mogą wyświetlać i pobierać swoje ceny w Portalu Azure.

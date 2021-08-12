@@ -1,5 +1,5 @@
 ---
-title: Uprawnienia do rejestracji aplikacji
+title: Uprawnienia rejestracji aplikacji
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "7781"
-ms.openlocfilehash: 607d2a4405f22d9b154adfe7fdf14cfa273ee8fb
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: abd4d2600a29506efe74079709d6a974a6169260b74eb147a7787722c4b799c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901504"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951071"
 ---
-# <a name="app-registration-permissions"></a>Uprawnienia do rejestracji aplikacji
+# <a name="app-registration-permissions"></a>Uprawnienia rejestracji aplikacji
 
-[Uprawnienia do rejestracji aplikacji dla ról niestandardowych w usłudze Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions): Ten artykuł zawiera aktualnie dostępne uprawnienia do rejestracji aplikacji dla definicji ról niestandardowych w usłudze Azure Active Directory (Azure AD).
+[Uprawnienia rejestracji aplikacji dla ról niestandardowych w](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions)programie Azure Active Directory: Ten artykuł zawiera obecnie dostępne uprawnienia rejestracji aplikacji dla niestandardowych definicji ról w usłudze Azure Active Directory (Azure AD).
