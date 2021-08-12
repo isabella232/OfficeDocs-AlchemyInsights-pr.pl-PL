@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemu z PRT
+title: Rozwiązywanie problemów z PRT
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,42 +13,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: 8e654a38d720aa51daf21bf5c3fb0da8b9c3d8e7
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573722"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972726"
 ---
-# <a name="troubleshoot-prt-issue"></a>Rozwiązywanie problemu z PRT
+# <a name="troubleshoot-prt-issue"></a>Rozwiązywanie problemów z PRT
 
-W przypadku wszystkich urządzeń, które mogą dokończyć uwierzytelnianie, należy w pełni zarejestrować i w odpowiednim stanie i móc uzyskać podstawowy token odświeżania (PRT).
+Aby każde urządzenie ukończyć uwierzytelnienie, musi ono być w pełni zarejestrowane i w dobrym stanie oraz mieć możliwość uzyskania podstawowego tokenu odświeżania (PRT).
 
-Proces rejestracji hybrydowej dołączania Azure AD wymaga, aby urządzenia były w sieci firmowej. Działa również w sieci VPN, ale istnieją pewne zastrzeżenia. Przesłuchamy klientów potrzebujących pomocy w rozwiązywaniu problemów dotyczących procesu rejestracji hybrydowych funkcji dołączania usługi Azure AD w ramach sytuacji zdalnej. Poniżej przedstawiono podział tego, co się dzieje w trakcie procesu rejestracji.
+Proces rejestracji dołączania do hybrydowego programu Azure AD wymaga, aby urządzenia trafiły do sieci firmowej. Ta funkcja działa również przez sieć VPN, ale istnieje do tego kilka zastrzeżeniem. W warunkach pracy zdalnej słyszeliśmy, że klienci potrzebują pomocy przy rozwiązywaniu problemów z hybrydowym procesem rejestracji dołączania do usługi Azure AD. Oto zestawienie tego, co dzieje się "w sobie" podczas procesu rejestracji.
 
-**Środowisko uwierzytelniania w chmurze (Korzystanie z synchronizacji skrótu hasła w usłudze Azure AD lub uwierzytelniania przekazujące)**
+**Środowisko uwierzytelniania w chmurze (za pomocą synchronizacji skrótów haseł usługi Azure AD lub uwierzytelniania przekazać)**
 
-Ten przepływ rejestracji jest również nazywany "przyłączeniem do synchronizacji".
+Ten przepływ rejestracji jest również nazywany "sprzężeniami synchronizacji".
 
-1. System Windows 10 odnajduje rekord punktu SCP po zalogowaniu się użytkownika do urządzenia.
-    1. Urządzenie najpierw usiłuje pobrać informacje o dzierżawie ze strony klienta usługi SCP w rejestrze [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Aby uzyskać więcej informacji, zobacz ten [dokument](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
-    2. Jeśli to nie uda, urządzenie komunikuje się z lokalną usługą Active Directory (AD), aby uzyskać informacje o dzierżawie od punktu połączenia usługi (SCP). Aby zweryfikować punkt SCP, zapoznaj się z tym [dokumentem](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point). 
-
-> [!NOTE]
-> Zalecamy włączenie punktu SCP w REKLAMie i korzystanie tylko z funkcji SCP po stronie klienta w celu wstępnego sprawdzania poprawności.
-
-2. System Windows 10 próbuje komunikować się z usługą Azure AD w kontekście systemowym, aby uwierzytelnić się w usłudze Azure AD. Możesz sprawdzić, czy urządzenie może uzyskać dostęp do zasobów firmy Microsoft w ramach konta system przy użyciu skryptu łączności urządzenia testowego.
-
-3. System Windows 10 wygeneruje certyfikat z podpisem własnym i zapisuje go pod obiektem komputera w usłudze AD — lokalnie. Wymaga to, aby kontroler domeny był oparty na linii.
-
-4. Obiekt urządzenia z certyfikatem jest synchronizowany z usługą Azure AD za pośrednictwem usługi Azure AD Connect. Cykl synchronizacji jest domyślnie co 30 minut, ale zależy od konfiguracji usługi Azure AD Connect. Aby uzyskać więcej informacji, zapoznaj się z tym [dokumentem](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
-
-5. Na tym etapie powinno być możliwe wyświetlenie urządzenia subject w stanie "oczekujące" w obszarze Kaseta urządzenia usługi Azure Portal.
-
-6. Po następnym zalogowaniu się użytkownika do systemu Windows 10 rejestracja zostanie zakończona. 
+1. Windows 10 po zalogowaniu się użytkownika na urządzeniu wykrywany jest rekord SCP.
+    1. Urządzenie najpierw próbuje pobrać informacje o dzierżawie z po stronie klienta SCP w rejestrze [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Aby uzyskać więcej informacji, zobacz [ten dokument.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)
+    2. W przypadku awarii urządzenie komunikuje się z lokalną usługą Active Directory (AD), aby uzyskać informacje o dzierżawie z punktu połączenia usługi (SCP). Aby zweryfikować SCP, zapoznaj się z tym [dokumentem.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point) 
 
 > [!NOTE]
-> Jeśli korzystasz z sieci VPN, a proces logowania wylogowania zakończy działanie połączenia z domeną, możesz wyzwolić rejestrację ręcznie:
- 1. Wydaj dsregcmd/Join lokalnie na monit administratora lub zdalnie za pośrednictwem PSExec na Twój komputer. Na przykład PsExec-s \\ win10client01 cmd, dsregcmd/Join
+> Zalecamy włączenie SCP w UC i używanie tylko po stronie klienta SCP w celu sprawdzenia początkowego.
 
- 2. Aby uzyskać więcej informacji o problemach z dołączaniem hybrydowym, zobacz [Rozwiązywanie problemów z urządzeniami](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344).
+2. Windows 10 się z usługą Azure AD w kontekście systemowym w celu uwierzytelnienia się w usłudze Azure AD. Możesz sprawdzić, czy urządzenie może uzyskać dostęp do zasobów firmy Microsoft w ramach konta systemowego, używając skryptu Testuj łączność z rejestracją urządzenia.
+
+3. Windows 10 wygeneruje certyfikat z podpisem własnym i przechowuje go pod obiektem komputera w lokalnej u usługi AD. Wymaga to ujednania Kontroler domeny.
+
+4. Obiekt urządzenia z certyfikatem jest synchronizowany z usługą Azure AD za pośrednictwem usługi Azure AD Połączenie. Domyślnie cykl synchronizacji jest co 30 minut, ale zależy to od konfiguracji usługi Azure AD Połączenie. Aby uzyskać więcej informacji, zapoznaj się z tym [dokumentem.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)
+
+5. Na tym etapie urządzenie tematu powinno być widzieć w stanie "Oczekiwanie" w obszarze Urządzenie blade portalu Azure Portal.
+
+6. Podczas następnego logowania użytkownika Windows 10 rejestracja zostanie zakończona. 
+
+> [!NOTE]
+> Jeśli używasz sieci VPN i proces logowania logowania zakończy łączność z domeną, możesz ręcznie wyzwolić rejestrację:
+ 1. Wydaj monit dsregcmd /join lokalnie w administracyjnym lub zdalnie za pośrednictwem programu PSExec na komputer. Na przykład PsExec -s \\ win10client01 cmd, dsregcmd /join
+
+ 2. Aby uzyskać więcej szczegółowych informacji o problemach dotyczących dołączania hybrydowego, zobacz [Rozwiązywanie problemów z urządzeniami.](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)
