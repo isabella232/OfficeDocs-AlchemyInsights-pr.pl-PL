@@ -1,5 +1,5 @@
 ---
-title: Włączanie i wyłączanie funkcji udostępniania zewnętrznego dla witryny programu SharePoint
+title: Włączanie lub wyłączanie udostępniania zewnętrznego w SharePoint sieci Web
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: 63b94ccff3ed97a52ce8886f4fdce9d3fd1e4c83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5aabe52ce1a294b97b0e85fbf04c61456c87b240b40328febe1634aad1a17c6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797270"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920369"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Włączanie i wyłączanie funkcji udostępniania zewnętrznego dla witryny programu SharePoint
+# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Włączanie lub wyłączanie udostępniania zewnętrznego w SharePoint sieci Web
 
 W przypadku witryny:
   
-1. W nowym centrum administracyjnym programu SharePoint w okienku po lewej stronie kliknij pozycję **witryny**.
+1. W nowym centrum SharePoint administracyjnego w okienku po lewej stronie kliknij pozycję **witryny**.
     
-2. Wybierz witrynę lub witryny, a następnie na wstążce kliknij pozycję **udostępnianie**.
+2. Wybierz witrynę lub witryny, a następnie na wstążce kliknij pozycję **Udostępnianie**.
     
-Domyślnie nowe witryny tworzone przez użytkowników (zarówno witryny zespołu należące do grup, jak i witryny komunikacyjne programu Microsoft 365) mają takie samo ustawienie udostępniania, jak ustawienie w całej organizacji, chyba że ustawienie całej organizacji umożliwia udostępnianie plików za pomocą linków, które nie wymagają logowania. W tym przypadku witryny umożliwiają udostępnianie nowym i istniejącym użytkownikom zewnętrznym, którzy będą logować się. Aby zmienić ustawienie dla określonych witryn, Użyj nowego centrum administracyjnego programu SharePoint.
+Domyślnie nowe witryny tworzyć użytkownicy (zarówno witryny zespołu, które należą do grup programu Microsoft 365, jak i witryny do komunikacji) mają to samo ustawienie udostępniania co ustawienie dla całej organizacji, chyba że ustawienie dla całej organizacji umożliwia udostępnianie plików za pomocą linków, które nie wymagają logowania. W takim przypadku witryny umożliwiają udostępnianie nowym i istniejącym użytkownikom zewnętrznym, którzy się logują. Aby zmienić ustawienie dla określonych witryn, użyj nowej witryny SharePoint administracyjnego.
   
 > [!NOTE]
-> Ustawienia udostępniania zewnętrznego dla dowolnej witryny mogą być bardziej restrykcyjne niż ustawienia dla całej organizacji, ale nie są one ograniczane od ustawienia dla całej organizacji. 
+> Ustawienie udostępniania zewnętrznego dla dowolnej witryny może być bardziej restrykcyjne niż ustawienie w całej organizacji, ale nie może być bardziej permisywne niż ustawienie dla całej organizacji. 
   
 

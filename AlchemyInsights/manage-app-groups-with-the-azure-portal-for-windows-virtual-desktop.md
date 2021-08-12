@@ -1,5 +1,5 @@
 ---
-title: Zarządzanie grupami aplikacji przy użyciu aplikacji pulpit wirtualny usługi Azure Portal dla systemu Windows
+title: Zarządzanie grupami aplikacji za pomocą portalu Azure Portal dla Windows pulpitu wirtualnego
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003956"
 - "7013"
-ms.openlocfilehash: 0dd08d04ad6328e7afa158b36517839fc31a8566
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 260a0b2b8d3f8fcc1fd6096373a8a8ecd90585adc5865ff1fb832870cb62102e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722061"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912068"
 ---
-# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Zarządzanie grupami aplikacji przy użyciu aplikacji pulpit wirtualny usługi Azure Portal dla systemu Windows
+# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Zarządzanie grupami aplikacji za pomocą portalu Azure Portal dla Windows pulpitu wirtualnego
 
-Domyślna grupa aplikacji utworzona dla nowej puli hostów usług wirtualnych systemu Windows umożliwia również publikowanie całego pulpitu. Ponadto korzystanie z portalu Azure umożliwia tworzenie co najmniej jednej grupy aplikacji RemoteApp dla puli hostów.
+Domyślna grupa aplikacji utworzona dla nowej puli Windows pulpitu wirtualnego publikuje również pełny pulpit. Ponadto za pomocą portalu Azure Portal można utworzyć jedną lub więcej grup aplikacji RemoteApp dla puli hostów.
 
-Proces wdrażania wykona następujące czynności:
+W procesie wdrażania zostaną następujące czynności:
 
 1. Utwórz grupę aplikacji RemoteApp.
 2. Dodaj wybrane aplikacje do grupy aplikacji.
 3. Publikowanie pojedynczych użytkowników lub grup użytkowników w grupie aplikacji.
-4. Jeśli zdecydujesz, zarejestruj grupę aplikacji.
-5. Utwórz link do szablonu Menedżera zasobów platformy Azure, korzystając z konfiguracji, którą można pobrać i zapisać.
+4. Zarejestruj grupę aplikacji, jeśli chcesz to zrobić.
+5. Utwórz link do szablonu usługi Azure Resource Manager zgodnie z konfiguracją, który możesz pobrać i zapisać.
 
-Aby utworzyć grupę programów RemoteApp dla pulpitu wirtualnego systemu Windows, postępuj zgodnie z instrukcjami w obszarze [Zarządzanie grupami aplikacji za pomocą witryny Azure Portal](https://go.microsoft.com/fwlink/?linkid=2129550).
+Aby utworzyć grupę RemoteApp dla Windows Pulpit wirtualny, postępuj zgodnie z instrukcjami w tece Zarządzanie grupami aplikacji [za pomocą portalu Azure Portal.](https://go.microsoft.com/fwlink/?linkid=2129550)
