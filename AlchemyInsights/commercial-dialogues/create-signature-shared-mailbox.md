@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: b584ac2351b7ea6e0abe14db18af8785591cb5d6
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: f1b880455fdd96da7b20292a998d8e51db57f0cb7a196d5ff9dcb5ad2e484e25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482650"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916317"
 ---
 # <a name="create-an-email-signature-for-a-shared-mailbox"></a>Tworzenie podpisu e-mail dla udostępnionej skrzynki pocztowej
 
 Każda osoba, która korzysta z udostępnionej skrzynki pocztowej, musi dodać nowy podpis e-mail do swojej listy podpisów.
 
 1. Aby dowiedzieć się, jak utworzyć podpis e-mail dla dowolnego typu skrzynki pocztowej, zobacz Tworzenie [i dodawanie podpisu do wiadomości.](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2)
-2. **Porada:** gdy użytkownicy używają swojego adresu udostępnionego, będą musieli ustawić podpis udostępnionej skrzynki pocztowej jako domyślny.
-3. Następnie, gdy powrócą do pracy z własnym adresem e-mail, będą musieli ponownie zmienić podpis. W przeciwnym razie jako domyślny będzie używany adres udostępniony.
+2. **Porada:** Gdy użytkownicy używają swoich udostępnionych adresów, będą musieli ustawić podpis udostępnionej skrzynki pocztowej jako domyślny.
+3. Następnie, gdy powróci do pracy przy użyciu własnego adresu e-mail, będzie musiał ponownie zmienić podpis. W przeciwnym razie jako domyślny będzie używany adres udostępniony.
