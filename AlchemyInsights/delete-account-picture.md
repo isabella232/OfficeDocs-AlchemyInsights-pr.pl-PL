@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: c7baa3267d62ae1bef64b9f7c91b5f8aedfcbc8e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1a9e3fe14e3cd2062b54a2443fdc6dd2f1a7bcccf79538fc439295ce43082149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815553"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948229"
 ---
-# <a name="delete-an-account-picture-in-windows-10"></a>Usuwanie obrazu konta w systemie Windows 10
+# <a name="delete-an-account-picture-in-windows-10"></a>Usuwanie obrazu konta w aplikacji Windows 10
 
-System Windows zaprojektowano tak, aby można było przełączać się między trzema najnowszymi obrazami. Jeśli chcesz usunąć jeden z obrazów swojego konta:
+Windows została zaprojektowana tak, aby można było przełączać się między trzema najnowszymi obrazami. Jeśli chcesz usunąć jeden z obrazów swojego konta:
 
 1. Otwórz Eksploratora plików z paska zadań. Jeśli nie widzisz Eksploratora plików (ikony folderu) na pasku zadań, wybierz pozycję **Start i** wpisz **Eksplorator plików**.
 
-2. Przejdź do folderu C:\Users \\ *nazwa użytkownika*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
+2. Przejdź do folderu C:\Users \\ *swoją nazwę*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
     - *Zamień swoją nazwę* na nazwę konta.
     - Jeśli nie możesz znaleźć folderu AppData w Eksploratorze plików, może on być ukryty. Wybierz ustawienie **Widok** i zaznacz pole wyboru **Ukryte** elementy, aby wyświetlić wszystkie elementy w folderze.
 

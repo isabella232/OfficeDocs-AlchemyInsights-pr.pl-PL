@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 0f5d72493c219ebc007d33d48246e0fd009c6644
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fac10d862611cab95933576fde59bdaf1eb58e572d6781b087c48d2c332e205d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977703"
 ---
 # <a name="external-sharing-with-a-team-site"></a>Udostępnianie zewnętrzne w witrynie zespołu
 
-Aby włączyć udostępnianie zewnętrznego użytkownika dla witryn zespołu, wykonaj następujące czynności: 
+Aby włączyć udostępnianie witryn zespołu użytkownikom zewnętrznym, wykonaj następujące czynności: 
   
-1. W nowym centrum administracyjnym programu SharePoint kliknij pozycję **aktywne witryny**.
+1. W nowym centrum SharePoint administracyjnego kliknij pozycję **Aktywne witryny**.
   
-2. Wybierz witrynę zawierającą szablon **witryny zespołu** . 
+2. Wybierz witrynę, która zawiera **szablon Witryna** zespołu. 
   
-3. Wybierz przycisk **udostępniania** z menu u. 
+3. Wybierz przycisk **Udostępnianie** w menu u góry. 
   
- **Uwaga**: domyślnie podczas tworzenia nowoczesnej witryny zespołu opcja udostępniania zewnętrznego zostanie ustawiona na nowy i istniejący użytkownik zewnętrzny. 
+ **Uwaga:** Po utworzeniu nowoczesnej witryny zespołu opcja udostępniania zewnętrznego będzie domyślnie ustawiona na wartość Nowi i istniejący użytkownicy zewnętrzni. 
   
- **Uwaga:** Jeśli została wybrana więcej niż jedna witryna, przycisk **udostępniania** będzie wyświetlany jako wyłączony. Wybierz tylko jedną witrynę. 
+ **Uwaga:** Jeśli wybrano więcej niż jedną witrynę, **przycisk** Udostępnianie będzie wyłączony. Wybierz tylko jedną witrynę. 
   
 

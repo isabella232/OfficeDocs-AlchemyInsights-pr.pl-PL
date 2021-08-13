@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 7bb2110898e8b5b9aa9a73fb04698f759b5959b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67d87d45af15ff2e08c585f952994fbc60c3b840f92587170c45ab3c9b53c6e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731069"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948173"
 ---
 # <a name="delete-a-site"></a>Usuwanie witryny
 
-Usunięte witryny są przenoszone do witryn usuniętych i są zachowywane przez 93 dni. Aby usunąć witrynę, przejdź do obszaru [aktywne witryny](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+Po usunięciu witryna jest przenoszony do folderu Usunięte witryny i jest zachowywana przez 93 dni. Aby usunąć witrynę, przejdź do strony [Aktywne witryny.](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) 
 
-Usunięcie witryny powoduje usunięcie wszystkich elementów, w tym:
+Usunięcie witryny powoduje usunięcie jej wszystkich elementów, w tym:
 
 - Biblioteki dokumentów i pliki.
-- Listy i dane list.
+- Listy i dane listy.
 - Ustawienia i historia witryny.
-- Wszystkie podwitryny i ich zawartość.
+- Wszelkie podwiterwny i ich zawartość.
 
-Przed usunięciem witryny należy powiadomić administratorów witryn i wszystkich jej właścicieli witryn, aby mogli przenosić ich dane do innej lokalizacji, a także poinformowanić użytkowników, że witryny zostaną usunięte.
+Przed usunięciem witryny należy powiadomić administratorów i wszystkich właścicieli podwiter, aby mieli możliwość przeniesienia danych do innej lokalizacji oraz powiadom użytkowników, kiedy witryny zostaną usunięte.
 
-Aby uzyskać więcej informacji, zobacz [usuwanie witryny](https://docs.microsoft.com/sharepoint/delete-site-collection).
+Aby uzyskać więcej informacji, [zobacz Usuwanie witryny.](https://docs.microsoft.com/sharepoint/delete-site-collection)
