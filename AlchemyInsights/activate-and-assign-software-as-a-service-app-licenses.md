@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: c31de2fd6e34ffb4d510bc3bb33525e58c1c6557
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af767f4c2ab03ab4d0757b572085ff77d9a2901ddcde61523c7f314b11726f25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823221"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938047"
 ---
 # <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktywowanie i przypisywanie licencji aplikacji "oprogramowanie jako usługa" 
 
@@ -35,4 +35,4 @@ ms.locfileid: "51823221"
 
 2. Znajdź i wybierz aplikację, którą chcesz zarządzać.  
 
-3. W **obszarze & akcji** wybierz link Zarządzaj w portalu **wydawcy**.
+3. W **Ustawienia & akcji wybierz** link Zarządzaj w portalu **wydawcy**.

@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: 49b8aafe77aa6e31f8d724046c6fc0996294cc5d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 3164959f33a42e518002e4c222a344d4f638d17a32a4959db2f903ce5cb14d81
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747464"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915633"
 ---
 # <a name="set-up-rules-to-reply-to-incoming-emails"></a>Konfigurowanie reguł odpowiadania na przychodzące wiadomości e-mail
 
-Aby utworzyć szablon odpowiadania na wiadomości, a następnie skonfiguruj program Outlook tak, aby odpowiadał na każdą odbieraną wiadomość.
+Aby utworzyć szablon odpowiadania na wiadomości, należy wykonać poniższe czynności, a następnie Outlook w celu odpowiadania na każdą odbieraną wiadomość.
 
-1. W programie Outlook utwórz nową wiadomość e-mail i wprowadź temat oraz treść wiadomości dla szablonu podczas swojej pracy.
+1. W Outlook e-mail utwórz nową wiadomość e-mail i wprowadź temat oraz treść wiadomości dla szablonu podczas swojej pracy.
 2. Wybierz **pozycję Plik > Zapisz jako.**
-3. W **oknie dialogowym** Zapisywanie  jako z listy rozwijanej Zapisz jako typ wybierz pozycję Szablon **outlook (*.oft).** Nadaj mu odpowiednią nazwę, a następnie kliknij przycisk **Zapisz**.
+3. W **oknie dialogowym** Zapisywanie  jako z listy rozwijanej Zapisz jako typ wybierz pozycję Outlook **szablonu (*.oft).** Nadaj mu odpowiednią nazwę, a następnie kliknij przycisk **Zapisz**.
 4. Wybierz pozycję **Reguły**  >  **zarządzania plikami & alertów.**
 5. W **oknie dialogowym** Reguły i alerty na karcie Reguły wiadomości **e-mail** kliknij pozycję **Nowa reguła**.
 6. W **oknie dialogowym Kreator** reguł w obszarze **Rozpoczynanie od** pustej reguły wybierz pozycję Zastosuj regułę do odbieranych wiadomości , a następnie kliknij przycisk **Dalej.** 

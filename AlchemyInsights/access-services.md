@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: c5edb5d3e1cc19b2286adc50cc1a5b1d9cf3649f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67d95687db675b05fa9580aec4d444ab916e26ff73221ca289791b80807ca62f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668501"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938669"
 ---
 # <a name="access-services"></a>Usługi programu Access
 
-Funkcja usług programu Access w usłudze SharePoint Online została wycofana. Nie można już tworzyć nowych aplikacji sieci Web opartych na programie Access i baz danych sieci Web, a istniejące aplikacje sieci Web i bazy danych sieci Web zostaną zamknięte w kwietniu 2018. Ta zmiana nie ma wpływu na bazy danych programu Access dla komputerów stacjonarnych (accdb). Zalecamy korzystanie z usługi Microsoft PowerApps jako alternatywy dla aplikacji sieci Web i baz danych sieci Web. 
+Funkcja Usługi programu Access w u SharePoint Online jest wy wycofana. Nie można już tworzyć nowych aplikacji sieci Web ani baz danych sieci Web opartych na programie Access, a istniejące aplikacje i bazy danych sieci Web zostaną zamknięte do kwietnia 2018 r. Ta zmiana nie ma wpływu na bazy danych programu Access w wersji klasycznej (accdb). Zalecamy użycie Microsoft PowerApps jako alternatywy dla aplikacji i baz danych sieci Web programu Access. 
   
-[Informacje o usłudze Microsoft PowerApps](https://powerapps.microsoft.com/)
+[Dowiedz się więcej o Microsoft PowerApps](https://powerapps.microsoft.com/)
   
