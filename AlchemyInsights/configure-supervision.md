@@ -1,5 +1,5 @@
 ---
-title: Konfigurowanie nadzoru
+title: Konfiguruj nadzór
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0cbf3d1382bd4757a7a4d8e923138009f69f80f29f9f19905c88ea37ac1f0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807525"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915453"
 ---
-# <a name="configure-supervision-policies"></a>Konfigurowanie zasad nadzoru
+# <a name="configure-supervision-policies"></a>Konfigurowanie zasad nadzorów
 
-Zasady nadzoru w programie Microsoft 365 umożliwiają monitorowanie poczty e-mail programu Exchange, usługi Skype dla firm Online, aplikacji Microsoft Teams i komunikacji innych firm, wysłanych w organizacji i poza nią. Wyznaczeni Recenzenci mogą sprawdzać monitorowane wiadomości, aby upewnić się, że są one zgodne z zasadami organizacji, zarządzaniem ryzykiem i normami zgodności, a także je rozpoznać.
+Zasady nadzorów w Microsoft 365 umożliwiają monitorowanie poczty e-mail Exchange, usług Skype dla firm Online, Microsoft Teams i innych firm przesyłanych w organizacji i poza nią. Wyznaczeni recenzentzy mogą sprawdzać monitorowane wiadomości, aby upewnić się, że są one zgodne z zasadami organizacji, zarządzaniem ryzykiem i normami zgodności z przepisami, a także rozwiązywać je przy użyciu typu klasyfikacji.
 
-Aby korzystać z zasad nadzoru w organizacji, należy wykonać następujące czynności:
+Aby korzystać z zasad nadzorów w Twojej organizacji, musisz:
 
-- Określanie komunikacji do monitorowania.
-- Zdecyduj, kto będzie przeprowadzać przeglądy komunikacji.
-- Zasady nadzoru konfiguracji
+- Określ komunikację do monitorowania.
+- Zdecyduj, kto będzie recenzentem komunikacji.
+- Zasady nadzór nad konfiguracją
 
-Dowiedz się więcej:
+Dowiedz się więcej: 
 
-- [Omówienie zasad nadzoru](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
-- [Konfigurowanie zasad nadzoru](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
+- [Omówienie zasad nadzorów](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Konfigurowanie zasad nadzorów](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)

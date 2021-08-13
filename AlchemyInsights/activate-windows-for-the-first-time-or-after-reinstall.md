@@ -1,5 +1,5 @@
 ---
-title: Aktywacja systemu Windows 10 po raz pierwszy lub po ponownym zainstalowaniu
+title: Aktywowanie Windows 10 po raz pierwszy lub po ponownym zainstalowaniu
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3485"
 - "9001418"
-ms.openlocfilehash: 1117105c30db642ae2d47df6caa57ed51529b04a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc10b443ef420184281a6872887ea0b9571c7dfb88c684d8399ca0c85e9f4ab3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823077"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937795"
 ---
-# <a name="activate-windows-10"></a>Aktywowanie systemu Windows 10
+# <a name="activate-windows-10"></a>Aktywowanie Windows 10
 
-**Aby aktywować system Windows 10 po zainstalowaniu go po raz pierwszy:**
+**Aby aktywować Windows 10 po zainstalowaniu go po raz pierwszy:**
 
-- Do aktywacji systemu Windows 10 na urządzeniu, które nigdy nie zawierało aktywowanego systemu Windows 10, należy użyć ważnego klucza produktu.
-- Potrzebujesz także ważnego klucza produktu, jeśli instalujesz wersję systemu Windows 10, która nie została wcześniej aktywowana na urządzeniu. Aby na przykład zainstalować i aktywować system Windows 10 Pro na urządzeniu z zainstalowanym systemem Windows 10 Home, potrzebujesz ważnego klucza produktu systemu Windows 10 Pro.
-- Podczas instalacji zostaniesz poproszony o wprowadzenie prawidłowego klucza produktu. Po zakończeniu instalacji system Windows 10 zostanie automatycznie aktywowany w trybie online. Aby sprawdzić stan aktywacji w systemie Windows 10, wybierz **pozycję Uruchom** >  **aktualizację** ustawień  >  **i & zabezpieczeń.**  >  
+- Do aktywacji klucza produktu należy użyć ważnego Windows 10 produktu na urządzeniu, na Windows 10 który nigdy nie miał aktywowanego Windows 10 produktu.
+- Jeśli instalujesz wersję pakietu Windows 10, która nie została wcześniej aktywowana na urządzeniu, będziesz potrzebować prawidłowego klucza produktu. Aby na przykład zainstalować i aktywować pakiet Windows 10 Pro na urządzeniu, na Windows 10 Home jest zainstalowany, potrzebujesz ważnego klucza Windows 10 Pro produktu.
+- Podczas instalacji zostaniesz poproszony o wprowadzenie prawidłowego klucza produktu. Po zakończeniu instalacji Windows 10 zostanie automatycznie aktywowana w trybie online. Aby sprawdzić stan aktywacji w aplikacji Windows 10, wybierz pozycję **Rozpocznij** Ustawienia >    >  **i & zabezpieczeń.**  >  
 
-**Aby aktywować po ponownym zainstalowaniu systemu Windows 10:**
+**Aby aktywować po ponownym zainstalowaniu Windows 10:**
 
-- Jeśli aktywowano bezpłatne uaktualnienie do systemu Windows 10 lub zakupiono i aktywowano system Windows 10 w sklepie Microsoft Store, zamiast klucza produktu otrzymasz licencję cyfrową na to urządzenie. Oznacza to, że możesz ponownie zainstalować tę samą wersję systemu Windows 10, na które urządzenie ma licencję cyfrową, bez wprowadzania klucza produktu.
-- Jeśli podczas ponownej instalacji zostaniesz poproszony(-a) o wprowadzenie klucza produktu, wybierz pozycję **Pomiń**. W większości przypadków, jeśli system Windows 10 został aktywowany na urządzeniu przed ponownym zainstalowaniem, zostanie on automatycznie aktywowany po twoim zakończeniu pracy w trybie online.
+- Jeśli aktywowano bezpłatne uaktualnienie do usługi Windows 10 lub kupiono i aktywowano usługę Windows 10 z usługi Microsoft Store, zamiast klucza produktu będziesz mieć licencję cyfrową na to urządzenie. Oznacza to, że możesz ponownie zainstalować tę samą wersję pakietu Windows 10, na które urządzenie ma licencję cyfrową, bez wprowadzania klucza produktu.
+- Jeśli podczas ponownej instalacji zostaniesz poproszony(-a) o wprowadzenie klucza produktu, wybierz pozycję **Pomiń**. W większości przypadków, jeśli Windows 10 na urządzeniu przed ponownym zainstalowaniem, zostanie on automatycznie aktywowany po twoim zakończeniu pracy w trybie online.
