@@ -14,12 +14,12 @@ ms.custom:
 - "9004357"
 - "9384"
 - "9863"
-ms.openlocfilehash: bd3873c2db1b8d548f81d531a8bf5747130fe761
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 62f667cccd0761e081b3f651709fadfec12500e76fd8e30b8649a28e99001e4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402277"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966047"
 ---
 # <a name="configure-seamless-single-sign-on-sso"></a>Konfigurowanie bezproblemowego logowania jednokrotnego
 
@@ -29,7 +29,7 @@ ms.locfileid: "51402277"
 2. Wiele aplikacji zostało już wstępnie skonfigurowanych do współpracy z usługą Azure AD. Te aplikacje są wymienione w galerii aplikacji, które można przeglądać podczas dodawania aplikacji do dzierżawy usługi Azure AD. Seria [Szybki start](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) umożliwia ten proces.
 3. Aby utworzyć aplikację, która nie jest galerią, kliknij przycisk **+ Utwórz** własną aplikację i nadaj nazwę aplikacji.
     - Domyślnie wybierze opcję Integruj **każdą** inną aplikację, której nie ma w galerii, co jest właściwą opcją w aplikacjach niebędąca galerią.
-    - Po umieszczeniu **nazwy aplikacji** na stronie Utwórz utworzy ona nową aplikację bez galerii dla przedsiębiorstw.
+    - Gdy po **umieszczeniu** nazwy aplikacji nacisniesz create (Utwórz), utworzy ona nową aplikację niezdaplikacyjną Enterprise aplikacji.
     - Następnie możesz przejść do logowania **pojedynczego** w obszarze Zarządzanie aplikacją, aby zobaczyć różne techniki implementowania go w środowisku. 
 
 **Konfigurowanie bezproblemowego logowania jednokrotnego dla określonej aplikacji**
@@ -38,11 +38,11 @@ Szczegółowe instrukcje krok po kroku znajdziesz w galerii aplikacji. Aby uzysk
 
 **Konfigurowanie logowania jednokrotnego opartego na programie SAML**
 
-1. Szybki start: konfigurowanie logowania jednokrotnego [(SSO)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)opartego na wersji SAML dla aplikacji w dzierżawie usługi Azure Active Directory (Azure AD).
+1. Szybki start: Konfigurowanie logowania jednokrotnego [(SSO)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)opartego na wersji SAML dla aplikacji w dzierżawie usługi Azure Active Directory (Azure AD).
 2. Aby dowiedzieć się więcej o opcji logowania pojedynczego opartego na językach SAML, zobacz Opis logowania pojedynczego opartego na programie [SAML.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-saml-single-sign-on)
-3. Aby dowiedzieć się więcej o żądaniach uwierzytelniania w wersji 2.0 SAML i odpowiedziach, które obsługuje usługa Azure Active Directory (Azure AD) dla logowania jednokrotnego (SSO), zobacz Protokół SINGLE Sign-On [Sign-On SAML.](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)
-4. Aby dowiedzieć się, jak tworzyć i konfigurować logowanie jednokrotne oparte na technologii SAML dla aplikacji w usłudze Azure Active Directory (Azure AD) przy użyciu interfejsu API Microsoft Graph, zobacz Konfigurowanie logowania jednokrotnego opartego na programie SAML dla aplikacji przy użyciu interfejsu [API Microsoft Graph.](https://docs.microsoft.com/graph/application-saml-sso-configure-api)
-5. Aby dowiedzieć się, jak usługa Azure AD używa protokołu SAML, zobacz W jaki sposób [platforma tożsamości firmy Microsoft używa protokołu SAML.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference)
+3. Aby dowiedzieć się więcej o żądaniach uwierzytelniania 2.0 SAML i odpowiedziach uwierzytelniania, które usługa Azure Active Directory (Azure AD) obsługuje dla logowania jednokrotnego (SSO), zobacz Protokół SINGLE Sign-On [Sign-On SAML.](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)
+4. Aby dowiedzieć się, jak utworzyć i skonfigurować logowanie jednokrotne oparte na forsłudze SAML dla aplikacji w usłudze Azure Active Directory (Azure AD) przy użyciu interfejsu API programu Microsoft Graph, zobacz Konfigurowanie logowania jednokrotnego opartego na forsłudze SAML dla aplikacji przy użyciu interfejsu API microsoft [Graph.](https://docs.microsoft.com/graph/application-saml-sso-configure-api)
+5. Aby dowiedzieć się, jak usługa Azure AD używa protokołu SAML, zobacz Jak Platforma tożsamości Microsoft [używa protokołu SAML.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference)
 
 **Konfigurowanie tokenów i roszczeń**
 
@@ -50,10 +50,10 @@ Szczegółowe instrukcje krok po kroku znajdziesz w galerii aplikacji. Aby uzysk
 2. Aby dowiedzieć się, jak konfigurować roszczenia przy użyciu programu PowerShell, zobacz Jak to zrobić: Dostosowywanie roszczeń pominiętych w tokenach dla określonej aplikacji w dzierżawie [(wersja Preview).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping)
 3. Aby dowiedzieć się, jak skonfigurować opcjonalne roszczenia, zobacz Jak: zapewnianie opcjonalnych [roszczeń dla aplikacji.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
 4. Aby dowiedzieć się, jak używać atrybutów rozszerzenia schematu katalogu w celu wysyłania danych użytkowników do aplikacji w oświadczeniach tokenu, zobacz Używanie atrybutów rozszerzenia schematu [katalogu w oświadczeniach.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions)
-5. Aby dowiedzieć się, jak skonfigurować okresy istnienia tokenu, zobacz Konfigurowanie okresów istnienia [tokenu w platformie tożsamości Microsoft (wersja Preview).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)
+5. Aby dowiedzieć się, jak skonfigurować okresy istnienia tokenu, zobacz Konfigurowanie okresów istnienia tokenu w Platforma tożsamości Microsoft [(wersja zapoznawcza)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
 6. Konfigurowanie zasad cyklu życia tokenu [(wersja Zapoznawcza)](https://docs.microsoft.com/azure/active-directory/develop/configure-token-lifetimes) — w tym artykule omykamy typowe scenariusze zasad, które mogą ułatwić nakładanie nowych reguł na okres istnienia tokenu. W tym przykładzie dowiesz się, jak utworzyć zasady wymagające, aby użytkownicy częściej uwierzytelniali się w aplikacji sieci Web.
 
 **Rozwiązywanie problemów z konfiguracją logowania jednokrotnego**
 
-- Aby uzyskać odpowiedzi na często zadawane pytania dotyczące bezproblemowego logowania jednokrotnego w usłudze Azure Active Directory Sign-On (bezproblemowe logowanie jednokrotne), zobacz Bezproblemowe logowanie jednokrotne w usłudze [Azure Active Directory:](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq)często zadawane pytania.
-- Aby uzyskać informacje na temat rozwiązywania typowych problemów związanych z bezproblemowym logowaniem jednokrotnym w usłudze Azure Active Directory (Azure AD Sign-On), zobacz Rozwiązywanie problemów z bezproblemowym logowaniem jednokrotnym w usłudze [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso)
+- Aby uzyskać odpowiedzi na często zadawane pytania dotyczące Azure Active Directory bezproblemowego logowania jednokrotnego Sign-On (bezproblemowe logowanie jednokrotne), zobacz Azure Active Directory Logowanie jednokrotne: często [zadawane pytania.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq)
+- Aby uzyskać informacje na temat rozwiązywania typowych problemów związanych z bezproblemowym logowaniem jednokrotnym usługi Azure Active Directory (Azure Sign-On AD), zobacz Rozwiązywanie Azure Active Directory problemów z bezproblemowym logowaniem [jednokrotnym.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso)

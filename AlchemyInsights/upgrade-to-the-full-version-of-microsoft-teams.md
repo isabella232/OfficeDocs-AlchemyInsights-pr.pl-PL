@@ -1,5 +1,5 @@
 ---
-title: Uaktualnianie do pełnej wersji aplikacji Microsoft Teams
+title: Uaktualnianie do pełnej wersji Microsoft Teams
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,19 +12,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 94249c294c095fe14c8193451275de44d21ff90e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb507bedd059b6baf23b471b0fc2d75234cfab4e41eba655a83a645c65669680
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808357"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919613"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Uaktualnianie do pełnej wersji aplikacji Microsoft Teams
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Uaktualnianie do pełnej wersji Microsoft Teams
 
-Chcesz przeprowadzić uaktualnienie z poziomu bezpłatnego do pełnej wersji aplikacji Microsoft Teams? Zobacz [Uaktualnianie aplikacji Microsoft Teams do wersji abonamentu microsoft 365](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
+Chcesz uaktualnić wersję bezpłatną do pełnej wersji pakietu Microsoft Teams? Zobacz [Uaktualnianie Microsoft Teams do wersji Microsoft 365 subskrypcji](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
-Musisz spełnić te wymagania:
+Musisz spełnić następujące wymagania:
 
-- Jesteś osobą, która jest zalogowana do bieżącej bezpłatnej wersji aplikacji Teams.
-- Jeśli masz własną domenę, nie można jej już skojarzyć z usługą Azure Active Directory.
-- Aby przesłać dane podczas uaktualniania, należy dokonać abonamentu w trakcie procesu uaktualniania. Jeśli kupisz abonament poza procesem uaktualniania, nie możesz przesyłać danych.
+- Jesteś osobą, która załozyła już bezpłatną wersję bieżącej wersji Teams.
+- Jeśli masz własną domenę, nie może ona już być skojarzona z Azure Active Directory.
+- Aby przenieść dane podczas uaktualniania, musisz subskrybować go w trakcie procesu uaktualniania. Jeśli zakupiono subskrypcję poza procesem uaktualniania, nie można przenosić danych.

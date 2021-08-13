@@ -1,5 +1,5 @@
 ---
-title: Jak zapisać kontakty programu Outlook w aplikacji kontaktów systemu iOS?
+title: Jak zapisać kontakty w Outlook systemie iOS?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: 34603d90799951a8b567f75036370aa25a33ab2e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 955c381d59b85150979efd1177d3f75802726bcfa7550cafee7eb0fb8e7381d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811142"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927227"
 ---
-# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Jak zapisać kontakty programu Outlook w aplikacji kontaktów systemu iOS?
+# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Jak zapisać kontakty w Outlook systemie iOS?
 
-Aby zapisać kontakty programu Outlook w natywnej książce adresowej:
+Aby zapisać Outlook w natywnej książce adresowej:
  
-1. Przejdź do **strony Ustawienia urządzenia** Kontakty i upewnij się, że dla konta domyślnego  >   ustawiono usługę **iCloud.**  Pamiętaj, że to ustawienie jest dostępne tylko wtedy, gdy do urządzenia dodano więcej niż jedno konto. Jeśli z urządzeniem nie jest podłączone żadne konto, kontakty programu Outlook będą zapisywane lokalnie, ale nie będą synchronizowane z innymi urządzeniami.
+1. Przejdź do **tematu Ustawienia** urządzenia i upewnij się, że dla konta domyślnego  >   ustawiono usługę **iCloud.**  Pamiętaj, że to ustawienie jest dostępne tylko wtedy, gdy do urządzenia dodano więcej niż jedno konto. Jeśli z urządzeniem nie jest podłączone żadne konto, Twoje kontakty Outlook zostaną zapisane lokalnie, ale nie będą synchronizowane z innymi urządzeniami.
  
-2. Otwórz program Outlook dla systemu iOS i w lewym menu wybierz pozycję  Koła zębatego Ustawienia, wybierz pozycję Wybierz konto **i** włącz przełącznik Zapisz kontakty.
+2. Otwórz Outlook dla systemu iOS i w lewym okienku nawigacji wybierz Ustawienia nawigacji, wybierz  pozycję Wybierz swoje konto **i** włącz przełącznik Zapisz kontakty.
  
 Zapisane kontakty zostaną dodane pod kontaktami na Twoim koncie usługi iCloud. Te kontakty zostaną zsynchronizowane ze wszystkimi urządzeniami, które są zalogowane przy użyciu tego samego konta usługi iCloud. Pamiętaj, że kontakty można eksportować tylko z jednego urządzenia na raz.
  
-Jeśli dla użytkownika włączona jest eksport kontaktów, aby uniknąć konfliktów, zarówno na tablecie iPad, jak i na telefonie iPhone należy wyłączyć eksportowanie kontaktów. Uzgadnianie duplikatów może potrwać do 24 godzin.
+Jeśli dla użytkownika włączona jest eksport kontaktów, zarówno jego iPad, jak i iPhone będzie trzeba wyłączyć, aby uniknąć konfliktów. Uzgadnianie duplikatów może potrwać do 24 godzin.

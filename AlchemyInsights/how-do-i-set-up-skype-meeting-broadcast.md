@@ -1,5 +1,5 @@
 ---
-title: Jak skonfigurować emisję spotkania w Skypie
+title: Jak skonfigurować emisję spotkanie na Skypie?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1d59207826ac284d9c95248003126b8d5a319fa9b4fa49e1c6a451558989b8cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811034"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927083"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Nie możesz rozpocząć emisji spotkania w Skypie lub dołączyć do niej?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Nie możesz rozpocząć emisji spotkania lub dołączyć do spotkanie na Skypie?
 
-Jeśli masz problem z uruchomieniem emisji spotkania w Skypie lub dołączeniem do emisji spotkania w Skypie jako członek zespołu wydarzenia (producent spotkania), sprawdź konfigurację ponownie. Emisja spotkania w Skypie wymaga pewnych czynności ręcznej konfiguracji. Wykonaj czynności opisane w tym artykule, aby upewnić się, że sieć i portal usługi Skype dla firm Online są poprawnie skonfigurowane oraz że użytkownik, którego dotyczy problem, nie jest blokowany przez licencję powodujące konflikt:
+Jeśli masz problem z uruchomieniem emisji spotkanie na Skypie lub dołączeniem do emisji spotkania jako członek zespołu wydarzenia (producent spotkania), sprawdź konfigurację ponownie. spotkanie na Skypie Emisja wymaga pewnych czynności ręcznej konfiguracji. Wykonaj czynności opisane w tym artykule, aby upewnić się, że sieć i portal Skype dla firm Online są poprawnie skonfigurowane oraz że użytkownik, którego dotyczy problem, nie został zablokowany przez licencję powodujące konflikt:
 
-[Konfigurowanie sieci pod celu emisji spotkania w Skypie](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[Konfigurowanie sieci pod spotkanie na Skypie wideo](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)

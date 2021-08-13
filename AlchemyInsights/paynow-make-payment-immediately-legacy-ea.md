@@ -1,5 +1,5 @@
 ---
-title: PayNow/Dokonaj płatności natychmiast
+title: ZapłaćNow/Zapłać natychmiast
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 822f098967fbce4a80b96b232ae3e3c7ce5470b00e0a77737c090798ca6945fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755701"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944429"
 ---
-# <a name="paynowmake-payment-immediately"></a>PayNow/Dokonaj płatności natychmiast
+# <a name="paynowmake-payment-immediately"></a>ZapłaćNow/Zapłać natychmiast
 
-Na podstawie opisu swojego problemu znaleźliśmy rozwiązanie dla Ciebie. Większość klientów mogła samodzielnie rozwiązać swoje problemy po przeprowadzeniu naszej dokumentacji.
+Na podstawie opisu problemu znaleźliśmy rozwiązanie dla Ciebie. Większość klientów mogła rozwiązać swój problem samodzielnie po naszej dokumentacji.
 
-W przypadku subskrypcji kontraktu platformy Azure Enterprise nie jest obsługiwana metoda Dodaj/Aktualizuj/Zmień metodę płatności. Jeśli chcesz zmienić adres na istniejącej fakturze, skontaktuj się z przedstawicielem firmy Microsoft.
+W przypadku subskrypcji Azure Enterprise Agreement metoda dodawania/aktualizowania/zmiany metody płatności nie jest obsługiwana. Jeśli chcesz zmienić adres na istniejącej fakturze, skontaktuj się z przedstawicielem firmy Microsoft.
 
-Jeśli chcesz użyć przedpłaty na platformie Azure do rozliczenia faktur na potrzeby użytkowania i/lub zakupów platformy Azure, skontaktuj się z pomocą techniczną. Pamiętaj, że opłaty są rozliczane osobno, a usługi rynkowe nie mogą być przesunięte za pomocą przedpłaty platformy Azure. W przypadku rejestracji pośredniej upewnij się, że partnerzy są informowani o potencjalnym wpływie na faktury. W przypadku klientów bezpośrednich może być konieczne zachowanie informacji o kontakcie z Bill-To.
+Jeśli chcesz korzystać z przedpłaty platformy Azure do rozliczania faktur za użycie platformy Azure i/lub zakupy, skontaktuj się z pomocą techniczną. Zwróć uwagę, że opłaty rozliczane oddzielnie i usługi marketplace nie mogą być przesunięte za pomocą przedpłaty platformy Azure. W przypadku rejestracji pośredniej upewnij się, że Twoi partnerzy są poinformowani o potencjalnym wpływie na faktury. W przypadku bezpośrednich klientów warto zadbać o to, aby klienci Bill-To kontaktowali się z nimi na bieżąco.
 
-**Polecane dokumenty**
+**Zalecane dokumenty**
 
-- [Płać za Ciebie przed płatnością na platformie Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)
+- [Zapłać za nadpłacenie za pomocą przedpłaty azure](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)
