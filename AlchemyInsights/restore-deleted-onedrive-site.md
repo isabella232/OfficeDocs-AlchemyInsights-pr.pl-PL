@@ -1,5 +1,5 @@
 ---
-title: Przywracanie usuniętej witryny usługi OneDrive
+title: Przywracanie usuniętej OneDrive witryny
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: ee48271ac3325881c2c2d8623be98c6d4cf3d09f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b5043c1b3aadf4e2554f3a469e5e1a53d7d038602300447599ff1c13cf31271
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728045"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991293"
 ---
-# <a name="restore-a-deleted-onedrive-site"></a>Przywracanie usuniętej witryny usługi OneDrive
+# <a name="restore-a-deleted-onedrive-site"></a>Przywracanie usuniętej OneDrive witryny
 
-Po usunięciu użytkownika w centrum administracyjnym programu Microsoft 365 (lub po usunięciu użytkownika w ramach synchronizacji usługi Active Directory) usługa OneDrive użytkownika zostanie zachowana przez określoną liczbę dni w centrum administracyjnym usługi OneDrive. (Aby uzyskać informacje, zobacz [Ustawianie domyślnego przechowywania plików dla usuniętych użytkowników usługi OneDrive](https://docs.microsoft.com/onedrive/set-retention)).
+Po usunięciu użytkownika w skoroszycie usługi centrum administracyjne platformy Microsoft 365 (lub w przypadku usunięcia użytkownika w ramach synchronizacji z usługą Active Directory) jego OneDrive będzie zachowywany przez liczbę dni podaną w centrum administracyjnym usługi OneDrive. (Aby uzyskać informacje, zobacz Ustawianie domyślnego przechowywania plików dla [usuniętych OneDrive użytkowników).](https://docs.microsoft.com/onedrive/set-retention)
 
-* [Przywracanie usuniętej witryny usługi OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+* [Przywracanie usuniętej OneDrive witryny](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Jeśli wiele plików usługi OneDrive zostanie usuniętych, zastąpionych, uszkodzonych lub zainfekowanych przez złośliwe oprogramowanie, możesz przywrócić całą swoją usługę OneDrive do poprzedniego czasu.
+Jeśli wiele Twoich OneDrive zostało usuniętych, nadpisanych, uszkodzonych lub zainfekowanych złośliwym oprogramowaniem, możesz przywrócić całą zawartość OneDrive do poprzedniego.
 
-* [Przywracanie usługi OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [Przywracanie OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)

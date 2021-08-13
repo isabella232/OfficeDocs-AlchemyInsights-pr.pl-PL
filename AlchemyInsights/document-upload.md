@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: 2797c6d0f9de274e016523ae0e71f59eb1cfc742
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38a55a38e0a69334a60e8f1c84402e75eb5796035501d39c1f217fe194dae432
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711942"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965291"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Przekazywanie plików do usługi OneDrive lub programu SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Upload plików do OneDrive lub SharePoint
 
-1. W przeglądarce sieci Web przejdź do lokalizacji, w której chcesz przekazać pliki.
+1. W przeglądarce internetowej przejdź do lokalizacji, do której chcesz przekazać pliki.
     
 2. Otwórz Eksploratora plików i przejdź do plików, które chcesz przekazać.
     
-3. Zaznacz pliki i przeciągnij je do lokalizacji w usłudze OneDrive lub w programie SharePoint. Uwaga: Jeśli korzystasz z przeglądarki Microsoft Edge, Mozilla FireFox lub Google Chrome, możesz także przekazać folder i wszystkie znajdujące się w nim pliki.
+3. Zaznacz pliki i przeciągnij je do lokalizacji w OneDrive lub SharePoint. Uwaga: jeśli używasz programu Microsoft Edge, Mozilla FireFox lub Google Chrome, możesz również przekazać folder i wszystkie jego pliki.
     
 **Uwagi:**
 
 - Możesz przekazywać pliki o rozmiarze do 15 GB. 
-- Pełna ścieżka do pliku (łącznie z nazwą pliku) nie może być dłuższa niż 400 znaków. 
-- Jeśli musisz przekazać więcej niż 100 plików, [Użyj klienta synchronizacji usługi OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
+- Pełna ścieżka do pliku (łącznie z nazwą pliku) nie może mieć więcej niż 400 znaków. 
+- Jeśli chcesz przekazać więcej niż 100 plików, [użyj synchronizacja usługi OneDrive klienta](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

@@ -1,5 +1,5 @@
 ---
-title: 922 reguły skrzynki odbiorczej
+title: 922 Reguły skrzynki odbiorczej
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: be3200b8da759be9e688030d1134784c9216a0cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00bbde6dc85f9abcb6916718966928f723df7dd12a4b0609aa454ac3c9bdb3e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926363"
 ---
-# <a name="inbox-rules-in-outlook-desktop"></a>Reguły skrzynki odbiorczej w aplikacji klasycznej Outlook
+# <a name="inbox-rules-in-outlook-desktop"></a>Reguły skrzynki odbiorczej w Outlook klasycznej
 
-1. Przejdź do **pliku > Zarządzaj regułami & alertów** , aby otworzyć okno dialogowe **reguły i alerty** .
-2. Na karcie **reguły wiadomości e-mail** kliknij pozycję **Nowa reguła**.
-3. Wybierz jeden z szablonów z **kroku 1**. Aby zacząć od pustej reguły, wybierz pozycję **Zastosuj regułę do odbieranych wiadomości lub stosuj reguły dla wysyłanych wiadomości**.
-4. W **kroku 2: edytuj pole Opis reguły**kliknij dowolne podkreślone opcje, aby je ustawić. Na przykład jeśli wybrano **flagę wiadomości od określonej osoby do monitorowania** w kroku 1, kliknij pozycję **osoby lub Grupa publiczna** , aby wybrać wiadomości nadawców, które chcesz oflagować. następnie kliknij pozycję **Flaga monitująca w tym momencie** , aby wybrać flagę i datę wykonania czynności.
-5. Kliknij przycisk **Dalej**.
+1. Przejdź do **okna > Zarządzanie regułami i & alertami,** aby otworzyć **okno** dialogowe Reguły i alerty.
+2. Na karcie **Reguły wiadomości e-mail** kliknij pozycję **Nowa reguła**.
+3. Wybierz jeden z szablonów z **kroku 1.** Aby zacząć od pustej reguły, wybierz pozycję Zastosuj regułę do odbieranych wiadomości **lub Zastosuj regułę do wysyłanych wiadomości.**
+4. W polu **Krok 2: Edytuj opis reguły** kliknij podkreślone opcje, aby je ustawić. Jeśli na przykład  w kroku nr 1 wybrano opcję  Oflaguj wiadomości od kimś w celu flagowania, kliknij pozycję Osoby lub grupa publiczna, aby wybrać wiadomości nadawców, które chcesz oflagować; a następnie **kliknij pozycję Flaga flagi** flagi i daty flagi flagi.
+5. Kliknij **Dalej**.
 
-Aby uzyskać dodatkowe informacje na temat korzystania z reguł skrzynki odbiorczej [, zobacz Zarządzanie wiadomościami e-mail za pomocą reguł](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).
+Aby uzyskać dodatkowe informacje na temat pracy z regułami skrzynki odbiorczej, zobacz [Zarządzanie wiadomościami e-mail za pomocą reguł.](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59)

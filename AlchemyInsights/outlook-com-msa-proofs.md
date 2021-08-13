@@ -1,5 +1,5 @@
 ---
-title: Dowody Outlook.com dla MSA
+title: Outlook.com Narzędzia próbne msa
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,24 +16,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 321b19efb4fe33049ac5f2267dce3cfdc2fedb01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f8cdef6068e0adef44f8b4172d2429c86947cb39e7a0eeb168ca6b4400e8b585
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776928"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983967"
 ---
 # <a name="security-info-and-security-codes"></a>Informacje zabezpieczające i kody zabezpieczeń
 
 Aby dodać informacje zabezpieczające do konta Microsoft:
 
-1. Zaloguj się do [podstawy zabezpieczeń](https://account.microsoft.com/security) przy użyciu swojego konta Microsoft.
-1. Wybierz pozycję **zabezpieczenia — informacje kontaktowe**.
-1. Wybierz pozycję **Dodaj informacje o zabezpieczeniach** i postępuj zgodnie z instrukcjami, aby wprowadzić numer telefonu lub adres e-mail.
-1. Otrzymasz kod bezpieczeństwa na tym numerze telefonu lub adresie e-mail. Wprowadź kod zabezpieczający otrzymany w oknie **Dodawanie informacji o zabezpieczeniach** , a następnie wybierz pozycję **dalej**.
+1. Zaloguj się do [podstawy zabezpieczeń za](https://account.microsoft.com/security) pomocą konta Microsoft.
+1. Wybierz **pozycję Informacje kontaktowe dotyczące zabezpieczeń.**
+1. Wybierz **pozycję Dodaj informacje zabezpieczające** i postępuj zgodnie z instrukcjami, aby wprowadzić numer telefonu lub adres e-mail.
+1. Otrzymasz kod zabezpieczeń na ten numer telefonu lub adres e-mail. Wprowadź otrzymany kod zabezpieczeń w oknie Dodaj **informacje zabezpieczające,** a następnie wybierz pozycję **Dalej**.
 
-Jeśli chcesz usunąć numer telefonu lub adres e-mail, wybierz pozycję **Usuń** obok.
+Jeśli chcesz usunąć numer telefonu lub adres e-mail, wybierz pozycję **Usuń** obok niego.
 
-Jeśli chcesz zmienić numer telefonu lub adres e-mail, który odbiera alerty zabezpieczeń, wybierz pozycję **Zmień opcje alertu**.
+Jeśli chcesz zmienić numer telefonu lub adres e-mail, dla którego są odbierane alerty zabezpieczeń, wybierz pozycję **Zmień opcje alertów.**
 
-Aby dowiedzieć się więcej, Przeczytaj [informacje zabezpieczające i kody weryfikacyjne dotyczące konta Microsoft](https://support.microsoft.com/help/12428/).
+Aby dowiedzieć się więcej, przeczytaj [Informacje zabezpieczające konto Microsoft i kody weryfikacyjne.](https://support.microsoft.com/help/12428/)
