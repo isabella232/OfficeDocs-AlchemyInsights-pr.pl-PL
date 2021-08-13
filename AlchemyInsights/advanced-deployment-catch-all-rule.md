@@ -13,20 +13,20 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: ec85676df299227a895c2755e8c26f9227fd113b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 49d922febcbbff43092c3d8a52a8037f8ba2f7127a2687ec7a85094c76e63400
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952367"
 ---
-# <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>Instalowanie pakietu Office z doradcą w zakresie wdrażania aplikacji platformy Microsoft 365
+# <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>Instalowanie Office z doradcą Aplikacje Microsoft 365 wdrażania
 
-Doradca w zakresie wdrażania aplikacji platformy [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2145748) pomaga w uruchamianiu urządzeń użytkowników z najnowszą wersją produktów pakietu Office, takich jak Word, Excel, PowerPoint i OneNote.
+Doradca Aplikacje Microsoft 365 [wdrażania](https://go.microsoft.com/fwlink/?linkid=2145748) pomaga w uruchamianiu urządzeń użytkowników z najnowszą wersją produktów firmy Office, takich jak Word, Excel, PowerPoint i OneNote.
   
 Otrzymasz wskazówki dotyczące różnych metod wdrażania, w tym łatwych opcji samodzielnej instalacji, a także wdrożeń dla przedsiębiorstw przy użyciu narzędzi do zarządzania. Instrukcje pomogą Ci ocenić środowisko, ustalić wymagania w zakresie wdrażania i zaimplementować niezbędne narzędzia pomocy technicznej, aby zapewnić pomyślną instalację.
   
-Aby uzyskać informacje dotyczące konfigurowania platformy Microsoft 365 i przygotowywania środowiska dla platformy Microsoft 365 i usług Office 365, zobacz:
+Aby uzyskać informacje dotyczące konfigurowania Microsoft 365 i przygotowywania środowiska dla usług Microsoft 365 i Office 365, zobacz:
 
 - [Przygotowywanie przewodnika po środowisku](https://go.microsoft.com/fwlink/?linkid=2005213)
-- [Przewodnik konfiguracji platformy Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2072646)
+- [Microsoft 365 konfiguracji](https://go.microsoft.com/fwlink/?linkid=2072646)

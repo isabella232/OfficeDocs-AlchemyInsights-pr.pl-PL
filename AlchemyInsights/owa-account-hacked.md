@@ -1,5 +1,5 @@
 ---
-title: Program Outlook na koncie sieci włamał
+title: Outlook w sieci Web włamał się na konto
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: b411f48ef56f32f22babbe16f13865a2d6f7cc17
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 177612e13423f8692cd8fea599861671afe7b1b7b40e7b198f5bef536d51c75c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671346"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961529"
 ---
-# <a name="outlook-on-the-web-account-hacked"></a>Program Outlook na koncie sieci włamał
+# <a name="outlook-on-the-web-account-hacked"></a>Outlook w sieci Web włamał się na konto
 
-Jeśli Twoje konto zostało włamał, postępuj zgodnie z instrukcjami w [celu zabezpieczenia i przywrócenia funkcji poczty e-mail do podejrzanego, złamanego konta Microsoft 365 i skrzynki pocztowej](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account).
+Jeśli Twoje konto zostało zaatakowane przez hakera, postępuj zgodnie z instrukcjami w tece Jak zabezpieczyć i przywrócić funkcję poczty e-mail dla podejrzewanego [Microsoft 365 konta i skrzynki pocztowej.](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)
 
-Aby dowiedzieć się więcej o dodatkowych krokach, które można wykonać w celu uniemożliwienia naruszenia zabezpieczeń Twojego konta, zobacz [reagowanie na złamane konto e-mail w programie Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account).
+Aby dowiedzieć się więcej o dodatkowych czynnościach, które możesz wykonać, aby zapobiec złamania zabezpieczeń Konta, zobacz Odpowiadanie na naruszone konto e-mail w [programie Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)
