@@ -1,5 +1,5 @@
 ---
-title: Program Outlook nie akceptuje Twojego hasła Gmail
+title: Outlook Nie można zaakceptować Twojego hasła usługi Gmail
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "7351"
-ms.openlocfilehash: 60e4f04fbf4cd2c3c2a21e6e18845ac6e93119d2
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: af07110d3b5231f25fad078cf7b71ef991600c345e1c057d8bfe1614d9570580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924671"
 ---
-# <a name="outlook-wont-accept-your-gmail-password"></a>Program Outlook nie akceptuje Twojego hasła Gmail
+# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook nie zaakceptuje Twojego hasła usługi Gmail
 
-Zalecamy włączenie uwierzytelniania dwuskładnikowego i używanie hasła aplikacji.
+Zalecamy włączenie uwierzytelniania dwuskładnikowego i użycie hasła aplikacji.
 
-Aby włączyć uwierzytelnianie dwuskładnikowe i uzyskać hasło aplikacji, wykonaj poniższe czynności.
+Aby włączyć uwierzytelnianie dwuskładnikowe i uzyskać hasło aplikacji, należy wykonać następujące czynności.
 
-1. Przejdź do witryny Gmail z przeglądarki, a następnie kliknij ikonę **Google Apps** w prawym górnym rogu ekranu.
-1. Po lewej stronie kliknij pozycję **zabezpieczenia**.
-1. W obszarze Logowanie do Google, jeśli **weryfikacja dwuetapowa** jest **wyłączona**, kliknij przycisk **>** obok pozycji **wyłączone** , aby włączyć tę funkcję. W przeciwnym razie przejdź do kroku 4.
-1. Na pierwszym ekranie kliknij przycisk **Kontynuuj**.
-1. Jeśli zostanie wyświetlony monit, wprowadź hasło w usłudze Gmail, a następnie kliknij przycisk **dalej**.
-1. Wprowadź swój numer telefonu i wybierz, czy chcesz otrzymywać kody weryfikacyjne za pomocą wiadomości SMS, czy rozmowy telefonicznej.
-1. Kliknij przycisk **dalej**.
-1. Wprowadź otrzymany kod i kliknij przycisk **dalej**.
-1. Kliknij pozycję **Włącz** , aby zakończyć konfigurowanie weryfikacji dwuetapowej.
-1. Wróć do poprzedniego ekranu, klikając strzałkę w lewo w górnej części ekranu obok pozycji **weryfikacja dwuetapowa**.
-1. Wybierz z **>** prawej strony wiersz **hasła aplikacji** .
-1. Wprowadź hasło Google, a następnie kliknij pozycję **Zaloguj się**. U dołu następnego ekranu kliknij pozycję **poczta** i **komputer z systemem Windows** na listach rozwijanych, a następnie kliknij pozycję **Generuj**.
-Google wyświetli hasło aplikacji. 
-13. Skopiuj to hasło (bez spacji) i wprowadź to hasło, gdy program Outlook wyświetli monit o podanie hasła.
+1. Przejdź do usługi Gmail w przeglądarce i kliknij ikonę **aplikacji Google** w prawym górnym rogu ekranu.
+1. Po lewej stronie kliknij pozycję **Zabezpieczenia**.
+1. W obszarze Logowanie się do usługi Google, jeśli weryfikacja **dwuetapowa** jest **WYŁĄCZONA,** kliknij przycisk **>** **WYŁ.,** aby **włączyć weryfikację.** W przeciwnym razie przejdź do kroku 4.
+1. Na pierwszym ekranie kliknij przycisk **KONTYNUUJ.**
+1. Jeśli zostanie wyświetlony monit, wprowadź hasło usługi Gmail, a następnie kliknij przycisk **DALEJ.**
+1. Wprowadź numer telefonu i określ, czy chcesz otrzymywać kody weryfikacyjne za pomocą wiadomości SMS, czy połączenia telefonicznego.
+1. Kliknij **przycisk DALEJ.**
+1. Wprowadź otrzymany kod i kliknij przycisk **DALEJ.**
+1. Kliknij **pozycję WŁĄCZ,** aby zakończyć konfigurowanie weryfikacji dwuetapowej.
+1. Aby wrócić do poprzedniego ekranu, kliknij strzałkę w lewo w górnej części ekranu obok pozycji Weryfikacja **dwuetapowa**.
+1. Wybierz pozycję **>** po prawej stronie wiersza Hasła **aplikacji.**
+1. Wprowadź hasło Google, a następnie kliknij pozycję **Zaloguj .** U dołu następnego ekranu  kliknij pozycję Poczta i kliknij pozycję **Windows z** list rozwijanych, a następnie kliknij pozycję Generuj . 
+Usługa Google wyświetli Twoje hasło aplikacji. 
+13. Skopiuj to hasło (bez spacji) i wprowadź je, Outlook monit o podanie hasła.
 
-Aby uzyskać dodatkowe informacje, zobacz [Dodawanie konta Gmail do programu Outlook — Outlook (Microsoft.com)](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081).
+Aby uzyskać dodatkowe informacje, zobacz Dodawanie konta Gmail do [Outlook — Outlook (microsoft.com).](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081)

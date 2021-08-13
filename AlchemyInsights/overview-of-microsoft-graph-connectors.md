@@ -1,5 +1,5 @@
 ---
-title: Omówienie łączników programu Microsoft Graph
+title: Omówienie łączników aplikacji Microsoft Graph Microsoft
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "6444"
 - "9003287"
-ms.openlocfilehash: 74a82751b7f97b0e195fb0c40ec44c3478af94dd
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 67350ead0eb47c17110f2e8481bec2ec470b0d64c0b9a353bfbeeebb0a04d83a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194230"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924550"
 ---
-# <a name="overview-of-microsoft-graph-connectors"></a>Omówienie łączników programu Microsoft Graph
+# <a name="overview-of-microsoft-graph-connectors"></a>Omówienie łączników aplikacji Microsoft Graph Microsoft
 
-Aby zaplanować na łączniki programu Microsoft Graph, zobacz  [Omówienie łączników](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Aby zaplanować dla łączników Graph Microsoft, zobacz Omówienie [łączników.](https://docs.microsoft.com/microsoftsearch/connectors-overview)
 
-- Zobacz [łączniki firmy Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) lub  [Łączniki według partnerów](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners).
-- [Zarządzaj łącznikiem na potrzeby wyszukiwania Microsoft](https://docs.microsoft.com/microsoftsearch/manage-connector).
+- Zobacz [Łączniki firmy Microsoft lub](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) [Łączniki partnerów.](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [Zarządzaj łącznikiem dla Microsoft Search](https://docs.microsoft.com/microsoftsearch/manage-connector).
 
-Aby zaplanować wyszukiwanie w usłudze Microsoft Search, zobacz  [Omówienie usługi Microsoft Search](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+Aby zaplanować Microsoft Search, zobacz [Omówienie Microsoft Search.](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)

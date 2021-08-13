@@ -1,5 +1,5 @@
 ---
-title: Limit synchronizacji programu Outlook wynoszący 3,99 GB
+title: 'Outlook synchronizacji: 3,99 GB'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1773"
 - "9000169"
-ms.openlocfilehash: 07a87b1f672108ed1dd8ff76cc7e571b0138314f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dc8dd130a727551181b05657d35c2872214a7b159ef42f0e52d8464fc38967b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702085"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924599"
 ---
-# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Pasek stanu synchronizacji programu Outlook pozostaje w 3,99 GB
+# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Outlook stanu synchronizacji pozostaje na poziomie 3,99 GB
 
-Zmniejsz rozmiar zawartości folderu lub Utwórz filtr synchronizacji dla dużych folderów w temperaturze lub w bliskiej 4 GB.
+Spróbuj zmniejszyć rozmiar zawartości folderu lub utwórz filtr synchronizacji dla dużych folderów o rozmiarze lub w pobliżu 4 GB.
 
-[Aby uzyskać więcej informacji,](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial)Zobacz postęp na pasku stanu nigdy nie widać więcej niż 3,99 GB pozostałej w ramach wstępnej synchronizacji dużych folderów.
+Aby uzyskać więcej informacji, zobacz Postęp paska stanu nigdy nie pokazuje więcej niż 3,99 GB w początkowej synchronizacji [dużych folderów.](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial)

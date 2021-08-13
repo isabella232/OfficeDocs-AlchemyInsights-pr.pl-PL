@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8619"
-ms.openlocfilehash: 601649f6e5212ca03df5fcc32cd1d02c133e9170
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 3cdde086e535d2397b4d1a8a66903121a5217015ca055fb9f8d025b0842f044b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50482041"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960845"
 ---
 # <a name="password-synchronization"></a>Synchronizacja haseł
 
-**Synchronizacja skrótów haseł w ogóle nie działa**
+**Synchronizacja skrótów haseł nie działa**
 
 Niektóre typowe problemy napotykane przez klientów, gdy synchronizacja skrótów haseł nie działa:
 
-- Konto usługi Active Directory używane przez usługę Azure AD Connect  do komunikowania się z lokalną usługą Active Directory nie jest udzielane uprawnień Do replikowania zmian w katalogu i replikowania zmian katalogu **Wszystkie** uprawnienia, które są wymagane do synchronizacji haseł — należy rozwiązać ten problem, udzielając tych uprawnień kontu usługi Active Directory.
-- Synchronizacja skrótów haseł jest wyłączona po zmianie  przez administratora metody user Sign-In z synchronizacji haseł na inną opcję, taką jak  federacja z usługami **AD FS** w kreatorze Azure AD Connect — ten problem można rozwiązać, ponownie włączając funkcję synchronizacji skrótów haseł w kreatorze Azure AD Connect.
-- Problem z łącznością z lokalną usługą Active Directory. Na przykład niektóre kontrolery domeny nie są dostępne [](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-ports) przez usługę Azure AD Connect lub wymagane porty są blokowane przez zaporę — należy rozwiązać ten problem, upewniając się, że łączność między serwerem Azure AD Connect a lokalną usługą Active Directory działa prawidłowo.
-- Serwer Azure AD Connect jest obecnie w trybie tymczasowego, co spowoduje, że serwer nie będzie mógł uzyskać skrótów haseł — Aby rozwiązać ten problem, wykonaj czynności opisane w sekcji Rozwiązywanie problemów z synchronizacją haseł z synchronizacją programu [Azure AD Connect —](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)nie są synchronizowane żadne hasła.
+- Konto usługi Active Directory używane przez usługę Azure AD Połączenie do  komunikowania się z lokalną usługą Active Directory nie ma uprawnień Replikuj zmiany w katalogu i Replikuj zmiany katalogu **Wszystkie** uprawnienia, które są wymagane do synchronizacji haseł — należy rozwiązać ten problem, udzielając tych uprawnień kontom usługi Active Directory.
+- Synchronizacja skrótów haseł jest wyłączona, gdy administrator  zmienił metodę synchronizacji haseł użytkownika Sign-In na inną opcję, taką jak Federacja z usługami **AD FS** w kreatorze usługi Azure AD Połączenie — ten problem można rozwiązać, ponownie włączając funkcję synchronizacji skrótów haseł w kreatorze skrótów haseł usługi Azure AD Połączenie. 
+- Problem z łącznością z lokalną usługą Active Directory. Na przykład niektóre kontrolery domeny nie są dostępne przez [](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-ports) usługę Azure AD Połączenie lub wymagane porty są zablokowane przez zaporę — należy rozwiązać ten problem, upewniając się, że łączność między serwerem usługi Azure AD Połączenie a lokalną usługą Active Directory działa prawidłowo.
+- Serwer usługi Azure AD Połączenie jest obecnie w trybie tymczasowego konfiguracji, co spowoduje, że serwer nie będzie mógł uzyskać dostępu do skrótów haseł . Aby rozwiązać ten problem, wykonaj czynności opisane w sekcji Rozwiązywanie problemów z synchronizacją haseł z synchronizacją usługi [Azure AD Połączenie](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)— Synchronizacja haseł nie jest synchronizowana.
 
 **Synchronizacja skrótów haseł nie działa w przypadku niektórych użytkowników**
 
-1. Jeśli zauważysz, że skrót haseł nie jest synchronizowany  dla użytkownika, użyj zadania rozwiązywania problemów w programie Azure AD Connect, aby zbadać i rozwiązać ten problem. Wykonaj następujące zadania:
+1. Jeśli zauważysz, że skrót haseł nie jest synchronizowany  dla użytkownika, użyj zadania rozwiązywania problemów w usłudze Azure AD Połączenie zbadać i rozwiązać ten problem. Wykonaj następujące zadania:
 
     a. [Uruchamianie zadania rozwiązywania problemów w kreatorze](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-objectsync)
 
-    b. [Używanie polecenia cmdlet do rozwiązywania problemów w celu zbadania problemu z synchronizacją skrótów haseł dla określonego użycia](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
+    b. [Badanie problemu z synchronizacją skrótów haseł na potrzeby określonego użycia przy użyciu polecenia cmdlet rozwiązywania problemów](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
 
-2. Dla obiektu użytkownika lokalnej usługi Active Directory jest włączona opcja Użytkownik musi zmienić hasło **przy następnej** opcji logowania. Gdy ta opcja jest włączona, użytkownikowi jest przypisywane hasło tymczasowe i zostanie wyświetlony monit o zmianę hasła przy następnym loganiu. Program Azure AD Connect nie synchronizuje haseł tymczasowych z usługą Azure AD.
+2. Dla obiektu użytkownik usługi Active Directory w lokalnej usłudze Active Directory jest włączona zmiana hasła **przy następnej opcji** logowania. Gdy ta opcja jest włączona, użytkownikowi zostanie przypisane hasło tymczasowe i zostanie wyświetlony monit o zmianę hasła przy następnym loganiu. Usługa Azure AD Połączenie nie synchronizuje haseł tymczasowych z usługą Azure AD.
 
 Aby rozwiązać powyższy problem, wykonaj jedną z następujących czynności:
 
-- Poproś użytkownika o zalogowanie się do aplikacji lokalnej (na przykład aplikacji klasycznej systemu Windows) i zmianę hasła. Nowe hasło zostanie zsynchronizowane z usługą Azure AD.
-- Niech administrator zaktualizuje hasło użytkownika bez włączania opcji Użytkownik musi zmienić hasło podczas następnego logowania **i** udostępnić nowe hasło użytkownikowi.
+- Poproś użytkownika o zalogowanie się do aplikacji lokalnej (na przykład Windows) i zmianę hasła. Nowe hasło zostanie zsynchronizowane z usługą Azure AD.
+- Niech administrator zaktualizuje hasło użytkownika bez włączania opcji Użytkownik musi zmienić hasło przy następnym **logie** i udostępnić nowe hasło użytkownikowi.
 
-3. Obiekt użytkownika lokalnej usługi Active Directory **nie** jest poprawnie skonfigurowany do synchronizacji obiektów lub synchronizacji haseł. Aby rozwiązać ten problem, wykonaj czynności opisane w tece Rozwiązywanie problemów z synchronizacją skrótów haseł za [pomocą synchronizacji programu Azure AD Connect.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
+3. Lokalnych obiektów użytkowników usługi Active Directory **nie** skonfigurowano poprawnie do synchronizacji obiektów i synchronizacji haseł. Aby rozwiązać ten problem, wykonaj czynności opisane w tece Rozwiązywanie problemów z synchronizacją skrótów haseł z synchronizacją skrótów [Połączenie Azure AD.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
 
 
 
