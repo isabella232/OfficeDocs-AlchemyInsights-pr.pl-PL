@@ -1,5 +1,5 @@
 ---
-title: Konfigurowanie usługi SharePoint Online lub OneDrive
+title: SharePoint Online lub OneDrive "Konfigurowanie"
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,17 +11,17 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 885be92b0a6f4156e61a2ca79be4cd9bb99bf56e18cea3aa17ef1c7d34246058
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771002"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093608"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>Usługa SharePoint Online lub OneDrive — Konfigurowanie
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online lub OneDrive "Konfigurowanie"
 
-Gdy użytkownik zostanie dodany do istniejącej dzierżawy, może zobaczyć ikony usługi SharePoint Online lub OneDrive dla firm wymienione jako "Konfigurowanie" lub "nadal pracujemy nad uzyskiwaniem konfiguracji plików" do czasu ukończenia procesu zastrzegania. Postępuj zgodnie z tym [przewodnikiem dotyczącym rozwiązywania problemów](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) .
+Po dodaniu użytkownika do istniejącej dzierżawy może on zobaczyć ikony usługi SharePoint Online lub usługi OneDrive dla Firm wymienione jako "Konfigurowanie" lub "Nadal pracujemy nad konfiguracją plików" do momentu ukończenia procesu inicjowania obsługi. Aby uzyskać [pomoc, skorzystaj](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) z tego przewodnika po rozwiązywaniu problemów.
 
-Jeśli od momentu pierwszego uruchomienia tego problemu minęło więcej niż 24 godziny, zarejestruj sprawę pomocy technicznej.
+Jeśli od pierwszego wydania tego problemu minęły więcej niż 24 godziny, należy rejestrować sprawę pomocy technicznej.
 
-Zdajemy sobie sprawę, że 24 godziny mogą wyglądać jak długo. W wielu przypadkach jesteśmy już nad rozwiązaniem. Przekaż nam co najmniej 24 godziny na zakończenie rozwiązania.
+Rozumiemy, że 24 godziny mogą wydawać się długie. W wielu przypadkach pracujemy już nad rozwiązaniem. Daj nam co najmniej 24 godziny, aby ukończyć rozwiązanie.
