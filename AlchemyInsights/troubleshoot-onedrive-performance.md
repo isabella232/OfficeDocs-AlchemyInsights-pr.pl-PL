@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z wydajnością usługi OneDrive
+title: Rozwiązywanie problemów OneDrive wydajności
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,25 +10,25 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 4699f6113acd70b4778f9feeaeec012ff8fdd63f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 15d9067e6b55b91af312671db9209f93ffc58859aaf69d63c84dbc354aff3dd3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757895"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939137"
 ---
-# <a name="troubleshoot-onedrive-performance"></a>Rozwiązywanie problemów z wydajnością usługi OneDrive
+# <a name="troubleshoot-onedrive-performance"></a>Rozwiązywanie problemów OneDrive wydajności
 
-Jeśli wystąpił problem z synchronizacją mniejszą niż oczekiwana lub podobne problemy z wydajnością w usłudze OneDrive:
+W przypadku wolno oczekiwanej synchronizacji lub podobnych problemów z wydajnością OneDrive:
 
-- Upewnij się, że nie ma żadnych znanych problemów dotyczących korzystania z [pulpitu nawigacyjnego kondycja usługi](https://portal.office.com/adminportal/home?ref=/servicehealth).
+- Upewnij się, że nie ma żadnych znanych problemów przy użyciu [pulpitu nawigacyjnego kondycji usługi](https://portal.office.com/adminportal/home?ref=/servicehealth).
 
-- [Włącz funkcję plików na żądanie](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) , aby móc uzyskiwać dostęp do wszystkich plików w usłudze OneDrive bez konieczności pobierania ich wszystkich i używania miejsca do magazynowania na urządzeniu.
+- [Włącz funkcję Pliki na](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) żądanie, aby mieć dostęp do wszystkich Twoich plików OneDrive bez konieczności ich pobierania i używania miejsca do magazynowania na Twoim urządzeniu.
 
-- Zapoznaj się z [najważniejszymi wskazówkami](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) dotyczącymi planowania i wydajności sieci.
+- [Zapoznaj się z najlepszymi rozwiązaniami](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) w zakresie planowania sieci i wydajności.
 
-- [Maksymalizuj szybkość przekazywania i pobierania](https://support.office.com/article/maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43), szczególnie jeśli synchronizacja urządzenia jest przeprowadzana po raz pierwszy.
+- [Maksymalizowanie](https://support.office.com/article/maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)szybkości przekazywania i pobierania, zwłaszcza w przypadku pierwszej synchronizacji urządzenia.
 
-- Jeśli synchronizacja biblioteki obejmuje więcej niż 100 000 elementów, synchronizacja z usługą OneDrive może pozornie być zablokowana przez dłuższy czas lub stan wskazuje, że 0KB xMB. [Dowiedz się więcej na temat synchronizowania więcej niż 100 000 plików](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) , a także [limitu obsługi plików w usłudze OneDrive o wartości 300 000](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- Jeśli synchronizujesz bibliotekę z ponad 100 000 elementów, może się synchronizacja usługi OneDrive wydawać, że utknie na dłuższy czas lub jest w stanie Przetwarzanie 0 KB z x MB". Dowiedz się więcej o synchronizowania ponad [100 000](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) plików oraz o obsługiwanym OneDrive [300 000 plików.](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- Gdy użytkownik przekroczy limity użycia, usługi SharePoint Online ograniczają wszelkie kolejne żądania od tego konta użytkownika przez krótki okres. Wszystkie działania użytkowników są ograniczane, gdy obowiązuje przepustnica.
+- Gdy użytkownik przekroczy limity użycia, SharePoint online ogranicza wszelkie dalsze żądania od tego konta użytkownika na krótki okres. Wszystkie akcje użytkowników są ograniczane, gdy ograniczenie jest w mocy.

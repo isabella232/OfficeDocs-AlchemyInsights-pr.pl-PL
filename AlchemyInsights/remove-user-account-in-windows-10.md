@@ -1,5 +1,5 @@
 ---
-title: Usuwanie konta użytkownika w systemie Windows 10
+title: Usuwanie konta użytkownika w aplikacji Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 5a6ce5805ec23a28011c5d1edc977804ef15aefc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e994388f685f1f9980c10daac48ca4facb0ca542ea352e8fbd31bf451cff305
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835785"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094616"
 ---
-# <a name="remove-an-account-in-windows-10"></a>Usuwanie konta w systemie Windows 10
+# <a name="remove-an-account-in-windows-10"></a>Usuwanie konta w aplikacji Windows 10
 
-Poniżej opisano, jak usunąć konto z systemu Windows 10:
+Poniżej opisano, jak można usunąć konto z Windows 10:
 
-1. Przejdź do **menu Start** Ustawienia Konto & inne osoby (lub Inne osoby , jeśli korzystasz z  >    >    >   systemu Windows 10 Enterprise). 
+1. Przejdź do **strony**  >  **Ustawienia**  >  **Konto rodzinne**  >  **&** inne osoby (lub Inne osoby, jeśli korzystasz z Windows 10 Enterprise).
 2. Wybierz konto, które chcesz usunąć, wybierz pozycję **Usuń**, a następnie wybierz **pozycję Usuń konto i dane**.
  
 **Uwaga:** Nie można usunąć konta, do których się zalogowano.  Jeśli chcesz zamienić konto, do których się zalogowano:

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
-ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
+ms.openlocfilehash: 549af832f9c58db1cdd8fbe80b8b5bd2aba9bd937f33116806a9391cbc9a5d4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52059825"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972429"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>Rozwiązywanie problemów z importowaniem pliku PST
 
-- Jeśli importujesz dane w obrębie samego klienta programu Outlook, zobacz Rozwiązywanie problemów z importowaniem pliku [pst programu Outlook.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
+- Jeśli importujesz dane w obrębie samego Outlook, zobacz Rozwiązywanie problemów z importowaniem pliku [Outlook pst.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
 
-- Jeśli korzystasz z usługi importowania i problem się zablokował, pamiętaj, że każdy plik PST, który przekażemy do lokalizacji magazynu platformy Azure, nie powinien być większy niż 20 GB. Pliki PST o rozmiarze większym niż 20 GB mogą mieć wpływ na wydajność procesu importowania pliku PST. Aby uzyskać więcej informacji dotyczących rozwiązywania problemów z zadaniami, które utknęły, zobacz [Problemy dotyczące zadań importu plików PST.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+- Jeśli korzystasz z usługi importowania i ta usługa utknie w miejscu, zwróć uwagę, że każdy plik PST, który przekażemy do lokalizacji usługi Azure Storage, nie powinien być większy niż 20 GB. Pliki PST o rozmiarze większym niż 20 GB mogą mieć wpływ na wydajność procesu importowania pliku PST. Aby uzyskać więcej informacji dotyczących rozwiązywania problemów z zadaniami, które utknęły, zobacz [Problemy dotyczące zadań importu plików PST.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
 
 - Jeśli chcesz sprawdzić stan określonego zadania importu, użyj [get-MailboxImportRequest -batchname.](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest)
 

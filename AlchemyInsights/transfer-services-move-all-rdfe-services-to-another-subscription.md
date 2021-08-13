@@ -1,5 +1,5 @@
 ---
-title: Transfer usług — przenoszenie wszystkich usług frontonu reddog do innej subskrypcji
+title: Usługi przesyłania — przenoszenie wszystkich usług RDFE do innej subskrypcji
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,57 +12,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004116"
 - "7196"
-ms.openlocfilehash: d6744484fe42f09f03de562a00fd56712607d418
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 89217922b8b51f2548f9fff53bf80364c0e897b1d9b34bfb7016f0b0f197cf17
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940076"
 ---
-# <a name="transfer-services---move-all-rdfe-services-to-another-subscription"></a>Transfer usług — przenoszenie wszystkich usług frontonu reddog do innej subskrypcji
+# <a name="transfer-services---move-all-rdfe-services-to-another-subscription"></a>Usługi przesyłania — przenoszenie wszystkich usług RDFE do innej subskrypcji
 
 **Przenoszenie zasobów**
 
-Zasoby platformy Azure można przenieść do innej subskrypcji platformy Azure lub grupy zasobów w ramach tej samej subskrypcji za pomocą usługi Azure Portal, platformy Azure CLI, usługi Azure CLI lub interfejsu API usługi w celu przeniesienia zasobów.
+Zasoby platformy Azure można przenosić do innej subskrypcji platformy Azure lub grupy zasobów w ramach tej samej subskrypcji za pomocą portalu Azure Portal, Azure PowerShell, interfejsu azure cli lub interfejsu API rest w celu przenoszenia zasobów.
 
-Aby można było przenosić zasoby, zobacz:
+Przed przeniesieniem zasobów zobacz:
 
 - [Lista kontrolna przed przeniesieniem zasobów](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#checklist-before-moving-resources)
 - [Usługi, które można przenosić](https://docs.microsoft.com/azure/azure-resource-manager/move-support-resources?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Jak sprawdzić poprawność przeniesienia](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#validate-move)
-- [Przenoszenie wskazówek dotyczących usług](https://docs.microsoft.com/azure/azure-resource-manager/move-limitations/app-service-move-limitations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Jak sprawdzić poprawność przenoszenia](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#validate-move)
+- [Wskazówki dotyczące przenoszenia usług](https://docs.microsoft.com/azure/azure-resource-manager/move-limitations/app-service-move-limitations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Aby przenieść istniejące zasoby do innej grupy zasobów lub abonamentu, możesz skorzystać z następujących czynności:
+Aby przenieść istniejące zasoby do innej grupy zasobów lub innej subskrypcji, możesz użyć:
 
 - [Azure Portal](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-the-portal)
-- [Środowisko Azure PowerShell](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-azure-powershell)
-- [Usługa Azure CLI](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-azure-cli)
-- [INTERFEJS API USŁUGI](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-rest-api)
+- [Azure PowerShell](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-azure-powershell)
+- [Azure CLI](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-azure-cli)
+- [REST API](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-rest-api)
 
-Samouczek: [przenoszenie zasobów platformy Azure do innej grupy zasobów lub subskrypcji](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-tutorial-move-resources)
+Samouczek: [przenoszenie zasobów platformy Azure do innej grupy zasobów lub innej subskrypcji](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-tutorial-move-resources)
 
-**Rozwiązywanie problemów z usługą Azure Resource Manager**
+**Rozwiązywanie problemów z błędami za pomocą usługi Azure Resource Manager**
 
-Zapoznaj się z poniższymi artykułami, aby dowiedzieć się więcej o typowych błędach wdrażania usługi Azure oraz otrzymywać informacje umożliwiające ich usunięcie. Jeśli nie możesz znaleźć kodu błędu dotyczącego błędu wdrażania, zobacz [Znajdowanie kodu błędu](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors?WT.mc_id=Portal-Microsoft_Azure_Support#find-error-code).
+Zapoznaj się z poniższymi artykułami, aby dowiedzieć się więcej o niektórych typowych błędach wdrażania platformy Azure i uzyskać informacje na ich temat. Jeśli nie możesz znaleźć kodu błędu dla błędu wdrożenia, zobacz [Znajdowanie kodu błędu.](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors?WT.mc_id=Portal-Microsoft_Azure_Support#find-error-code)
 
 - [Rozwiązywanie problemów z błędami wdrażania](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors)
-- [Rozwiązywanie problemów dotyczących przenoszenia zasobów platformy Azure do nowej grupy zasobów lub subskrypcji](https://docs.microsoft.com/azure/azure-resource-manager/troubleshoot-move)
+- [Rozwiązywanie problemów z przenoszeniem zasobów platformy Azure do nowej grupy zasobów lub subskrypcji](https://docs.microsoft.com/azure/azure-resource-manager/troubleshoot-move)
 
-Pamiętaj, że jeśli chcesz uaktualnić subskrypcję platformy Azure, na przykład przełączenie się za darmo w celu płacenia na bieżąco, musisz przekonwertować abonament.
+Zwróć uwagę, że jeśli chcesz uaktualnić subskrypcję platformy Azure, na przykład przełączyć się z bezpłatnej usługi na płatność na czas, konieczne będzie przekonwertowanie subskrypcji.
 
-- Aby uaktualnić bezpłatny okres próbny, zobacz [uaktualnianie bezpłatnego okresu próbnego lub abonamentu Microsoft Wyobraźmy sobie na abonament na bieżąco](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription).
-- Aby zmienić konto Płać na bieżąco, zobacz [Zmienianie abonamentu na usługę Azure Pay na bieżąco do innej oferty](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer).
+- Aby uaktualnić bezpłatną wersję próbną, zobacz Uaktualnianie bezpłatnej wersji próbnej lub subskrypcji platformy Microsoft Imagine Azure do wersji [Pay-As-You-Go.](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription)
+- Aby zmienić konto w usłudze Pay-as-you-go, zobacz Zmienianie subskrypcji usługi [Azure Pay-As-You-Go na inną ofertę.](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer)
 
-**Aby dodać lub skojarzyć subskrypcję platformy Azure Active Directory:**
+**Aby dodać lub skojarzyć subskrypcję platformy Azure z Azure Active Directory dzierżawy:**
 
-1. Zaloguj się i wybierz abonament, którego chcesz użyć, na [stronie Subskrypcje w portalu Azure Portal](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
-2. Wybierz pozycję **Zmień katalog**.
+1. Zaloguj się i wybierz subskrypcję, której chcesz używać, na stronie [Subskrypcje w Azure Portal.](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)
+2. Wybierz **pozycję Zmień katalog**.
 3. Przejrzyj wyświetlone ostrzeżenia, a następnie wybierz pozycję **Zmień**.
-4. Po zmianie katalogu dla subskrypcji zostanie wyświetlony komunikat o powodzeniu.
-5. Użyj przełącznika *katalogów* , aby przejść do nowego katalogu. Poprawne wyświetlanie wszystkich elementów może potrwać do 10 minut.
+4. Katalog zostanie zmieniony dla subskrypcji i zostanie wyświetlony komunikat o sukcesie.
+5. Użyj *przełącznika* katalogu, aby przejść do nowego katalogu. Poprawne wyświetlanie wszystkich danych może potrwać do 10 minut.
 
-**Polecane dokumenty**
+**Zalecane dokumenty**
 
 - [Przenoszenie własności subskrypcji platformy Azure](https://docs.microsoft.com/azure/billing-subscription-transfer)
 - [Przenoszenie zasobów do nowej grupy zasobów lub subskrypcji](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources)
-- [Zarządzanie zasobami za pomocą portalu Azure](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal)
+- [Zarządzanie zasobami za pomocą portalu Azure Portal](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal)

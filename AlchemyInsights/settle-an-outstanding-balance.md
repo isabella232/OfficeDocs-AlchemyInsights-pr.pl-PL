@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5606"
-ms.openlocfilehash: 1efe2de3331d161c8344a78f28c6e39e027b8dc6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 850308452a2d32cc0dbac0d981139b25a5e9585760f63174b1db37adfe0150a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831276"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094652"
 ---
 # <a name="settle-an-outstanding-balance"></a>Zaległe saldo
 
-Jeśli masz zaległe saldo, możesz rozliczyć saldo w centrum **administracyjnym platformy Microsoft 365.**
+Jeśli masz zaległe saldo, możesz je rozliczyć z **centrum administracyjne platformy Microsoft 365.**
 
 1. Przejdź do **karty Rozliczenia > [Produkty.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
