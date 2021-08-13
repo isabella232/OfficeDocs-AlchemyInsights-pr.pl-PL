@@ -1,5 +1,5 @@
 ---
-title: Przycisk Otwórz za pomocą Eksploratora jest wyłączony
+title: Przycisk Otwórz w Eksploratorze jest wyłączony
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 4bfb877c52bab26eb3e43c95901857ef731d0bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff4d8a16cbb92aa36f165f9a6525ccba7dedff49ccc1805097206dbab43ce40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694682"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944609"
 ---
 # <a name="the-open-with-explorer-button-is-disabled"></a>Przycisk Otwórz w Eksploratorze jest wyłączony
 
-- Przejdź do lokalizacji programu SharePoint lub usługi OneDrive w programie Internet Explorer 10 lub Internet Explorer 11. Przycisk nie jest zgodny z innymi przeglądarkami sieci Web.
+- Przejdź do lokalizacji SharePoint lub OneDrive w programie Internet Explorer 10 lub Internet Explorer 11. Ten przycisk nie jest zgodny z innymi przeglądarkami internetowymi.
     
 > [!NOTE]
-> Otwarcie biblioteki w Eksploratorze plików jest przydatne, jeśli trzeba raz skopiować lub przenieść wiele plików i folderów, ale jeśli chcesz regularnie pracować w bibliotece, zalecamy jej zsynchronizowanie. Aby uzyskać dodatkową pomoc i rozwiązać inne problemy z otwieraniem w Eksploratorze plików, zobacz [otwieranie w Eksploratorze](https://go.microsoft.com/fwlink/?linkid=871665). Aby uzyskać informacje na temat konfigurowania synchronizacji, zobacz [synchronizowanie plików programu SharePoint za pomocą nowego klienta synchronizacji usługi OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Otwieranie biblioteki w Eksploratorze plików jest przydatne, jeśli chcesz skopiować lub przenieść wiele plików i folderów jeden raz, ale jeśli chcesz regularnie pracować w bibliotece, zalecamy jej zsynchronizowanie. Aby uzyskać więcej pomocy i rozwiązać inne problemy podczas otwierania w Eksploratorze plików, zobacz [Otwieranie w Eksploratorze](https://go.microsoft.com/fwlink/?linkid=871665). Aby uzyskać informacje na temat konfigurowania synchronizacji, zobacz SharePoint synchronizacji plików [za pomocą nowego synchronizacja usługi OneDrive klienta](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 
