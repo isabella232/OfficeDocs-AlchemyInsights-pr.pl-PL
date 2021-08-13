@@ -13,38 +13,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: b6ac084ead88b090d6caab1405d5d96f24890ea7
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 81a7a2e9623c788743fad99e15c4d771bb12a6c1c81f35a9d2a6a0729ecf8db7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49565128"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062366"
 ---
 # <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>Odzyskiwanie elementu, który nie znajduje się już w folderze Elementy usunięte
 
-Jeśli nie możesz znaleźć elementu w folderze Elementy usunięte, następnym miejscem do wyświetlania jest folder Elementy odzyskiwalne. Folder ukryty, do którego są przenoszone elementy, gdy:
-- Są one usuwane z folderu Elementy usunięte.
-- Folder Elementy usunięte jest opróżniany przez użytkownika lub zasady określone przez administratora IT.
-- Element można usunąć, zaznaczając go i naciskając **klawisze Shift + Delete**.
+Jeśli nie możesz znaleźć elementu w folderze Elementy usunięte, poszukaj go w folderze Elementy do odzyskania. Jest to folder ukryty, do który elementy są przenoszone w momencie:
+- Zostaną one usunięte z folderu Elementy usunięte.
+- Folder Elementy usunięte jest opróżniony przez Ciebie lub przez zasady ustawione przez administratora IT.
+- Aby usunąć element, zaznacz go i naciskaj klawisze **Shift+Delete.**
 
-Aby wyświetlić i odzyskać elementy, które zostały przeniesione do folderu Elementy odzyskiwalne:
-1. W przeglądarce internetowej zaloguj się w aplikacji Outlook Web App przy użyciu adresu URL podanego przez osobę, która zarządza pocztą e-mail w Twojej organizacji. Wprowadź nazwę użytkownika i hasło, a następnie wybierz pozycję **Zaloguj się**.
-1. Na liście folderów poczty e-mail kliknij prawym przyciskiem myszy pozycję **elementy usunięte**, a następnie wybierz polecenie **Odzyskaj elementy usunięte...**.
-1. W razie potrzeby użyj pola wyszukiwania, aby znaleźć element, który chcesz odzyskać.
-1. Po znalezieniu elementu zaznacz go i kliknij pozycję **Odzyskaj**.
-   Odzyskane elementy są przenoszone do lokalizacji domyślnej każdego typu elementu.
-    - Wiadomości trafiają do skrzynki odbiorczej.
-    - Elementy kalendarza są umieszczane w kalendarzu.
-    - Kontakty możesz przejść do folderu Kontakty.
-    - Zadania przejdź do folderu zadania.
+Aby wyświetlić i odzyskać elementy, które zostały przeniesione do folderu Elementy do odzyskania:
+1. W przeglądarce internetowej zaloguj się w aplikacji Outlook Web App przy użyciu adresu URL podanego przez osobę, która zarządza pocztą e-mail w Twojej organizacji. Wprowadź nazwę użytkownika i hasło, a następnie wybierz pozycję **Zaloguj .**
+1. Na liście folderów poczty e-mail kliknij prawym przyciskiem myszy pozycję **Elementy usunięte**, a następnie wybierz polecenie **Odzyskaj usunięte elementy...**.
+1. W razie potrzeby użyj pola wyszukiwania, aby znaleźć element do odzyskania.
+1. Po odnalezieniu elementu zaznacz go i kliknij pozycję **Odzyskaj**.
+   Odzyskane elementy są przenoszone do lokalizacji domyślnej dla każdego typu elementów.
+    - Wiadomości trafiają do Skrzynki odbiorczej.
+    - Elementy kalendarza są przekierowywowywne do Kalendarza.
+    - Kontakty są przekierowywowywne do folderu Kontakty.
+    - Zadania są przekierowywowywne do folderu Zadania.
 
-**Porady dotyczące odzyskiwania elementów w folderze Elementy do odzyskania**
+**Wskazówki odzyskiwania elementów z folderu Elementy do odzyskania**
 
-- Data usunięcia elementu w folderze Elementy odzyskiwalne jest wtedy, gdy element został przeniesiony do folderu Elementy usunięte. Nie jest to data przeniesienia elementu do folderu elementy do odzyskania.
-- Elementy w folderze Elementy odzyskiwalne nie mają ikon, więc wyglądają bardzo podobne.
-    - Jeśli szukasz kontaktu, poszukaj elementu, który zawiera imię i nazwisko osoby, ale bez wiersza tematu.
-    - Jeśli szukasz terminu kalendarza, poszukaj elementu, który nie zawiera nazwiska osoby lub wiersza tematu.
-    - Jeśli szukasz kontaktu, terminu kalendarza lub zadania, odszukaj tekst tego elementu.
-- Aby odzyskać wiele elementów, umieść wskaźnik myszy na każdym elemencie, a następnie zaznacz pole wyboru obok niego, a następnie kliknij polecenie **Odzyskaj**. Możesz również odzyskać wiele sąsiadujących elementów, zaznaczając pole wyboru dla pierwszego elementu, przytrzymując naciśnięty klawisz **SHIFT** , a następnie zaznaczając pole wyboru dla ostatniego elementu. Po zaznaczeniu wszystkich elementów wybierz pozycję **Odzyskaj**.
-- Elementy z listy **Odzyskaj usunięte elementy** można przeczyścić. Po prostu zaznacz element, a następnie wybierz pozycję **Wyczyść**. Jeśli przeczyścisz element, nie będziesz w stanie użyć funkcji Odzyskaj usunięte elementy, aby ją odzyskać. Usunięcie wiadomości nie spowoduje jej usunięcia z żadnych kopii zapasowych wykonanych przed ich wyczyszczeniem.
-- Twoja organizacja mogła określić, jak długo elementy w folderze Elementy odzyskiwalne są dostępne do odzyskania. Może na przykład istnieć zasada, która usuwa elementy, które znajdują się w folderze Elementy usunięte przez 30 dni i inne zasady umożliwiające odzyskanie elementów w folderze Elementy odzyskiwalne przez maksymalnie 14 dni.
+- Data usunięcia elementu w folderze Elementy do odzyskania to czas, kiedy element został przeniesiony do folderu Elementy usunięte. Nie jest to data przenieść element do folderu Elementy do odzyskania.
+- Elementy w folderze Elementy do odzyskania nie mają ikon, więc wyglądają bardzo podobnie.
+    - Jeśli szukasz kontaktu, poszukaj elementu, który ma imię i nazwisko osoby, ale nie wiersz tematu.
+    - Jeśli szukasz terminu kalendarza, poszukaj elementu, który nie zawiera imienia i nazwiska osoby ani wiersza tematu.
+    - Jeśli szukasz kontaktu, terminu kalendarza lub zadania, poszukaj tekstu tego elementu.
+- Aby odzyskać wiele elementów, umieść wskaźnik myszy na każdym z nich i zaznacz pole wyboru obok niego, kliknij pozycję **Odzyskaj**. Możesz również odzyskać kilka sąsiadujących elementów, zaznaczając pole wyboru pierwszego z nich, a następnie przytrzymując na nim klawisz **Shift** i zaznaczając pole wyboru ostatniego z nich. Po zaznaczeniu wszystkich elementów wybierz **odzyskaj**.
+- Elementy można przeczyścić z listy **Odzyskaj usunięte** elementy. Po prostu zaznacz element, a następnie wybierz **pozycję przeczyść**. Jeśli przeczyszczysz element, nie będzie można go odzyskać za pomocą funkcji Odzyskaj usunięte elementy. Usunięcie wiadomości nie spowoduje jej usunięcia z żadnych kopii zapasowych wykonanych przed jej usunięciem.
+- Być może organizacja podała, jak długo elementy w folderze Elementy do odzyskania są dostępne do odzyskania. Na przykład mogą być zasady, które usuwają wszystko, co znajduje się w folderze Elementy usunięte przez 30 dni, oraz inna zasada, która pozwala odzyskać elementy z folderu Elementy do odzyskania przez kolejne 14 dni.

@@ -1,5 +1,5 @@
 ---
-title: Notatki z kontaktów nie są edytowalne
+title: Notatek do kontaktu nie można edytować
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1732"
 - "9000185"
-ms.openlocfilehash: ea4e9f4f41629f4207be6ff56f3ff8f7a4989cbc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f48e158e8ddf682df8d8748b929b3d4d687d5b183254c64116834210a238020d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680946"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915345"
 ---
 # <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Nie można edytować pola notatek dla kontaktu w programie Outlook
 
-Jest to znany problem. Pracujemy nad rozwiązaniem tego problemu i widzisz najnowszy status na stronie [nie można edytować pola notatki kontaktu](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
+Jest to znany problem. Pracujemy nad jego naprawą. Możesz sprawdzić najnowszy stan w polu Nie można edytować notatek [kontaktu.](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe)
 
-**Obejście**: Jeśli korzystasz z konta Microsoft 365 lub Outlook.com, możesz edytować kontakty, korzystając z sieci Web. Jeśli korzystasz z konta IMAP lub POP, obecnie nie jest dostępne żadne obejście tego problemu.
+**Obejście:** Jeśli korzystasz z konta usługi Microsoft 365 lub konta usługi Outlook.com, możesz edytować kontakty za pomocą Internetu. Jeśli korzystasz z konta IMAP lub POP, obecnie nie jest dostępne żadne obejście.

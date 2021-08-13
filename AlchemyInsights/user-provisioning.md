@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004348"
 - "8428"
-ms.openlocfilehash: bd415b2d44bccf0c2b3eccb4e38452498b748b3a
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: 12490df735ca8c524058404df92db79c6c5682fe2ecafe2b42baed70fa3ab142
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481884"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971349"
 ---
 # <a name="user-provisioning"></a>Inicjowanie obsługi administracyjnej użytkowników
 
-- Użyj funkcji [inicjowania obsługi na](https://docs.microsoft.com/azure/active-directory/app-provisioning/provision-on-demand) żądanie, aby aprowizować użytkownika i uzyskać szczegółową diagnostykę kroków.
-- Aby rozwiązać problemy napotykane podczas inicjowania obsługi administracyjnej użytkowników i grup, zobacz przewodnik po rozwiązywaniu problemów, w którym nie jest [zapewniana inicjowanie obsługi użytkowników.](https://docs.microsoft.com/azure/active-directory/app-provisioning/application-provisioning-config-problem-no-users-provisioned)
-- Jeśli zauważysz, że użytkownicy nie są aprowni adresaci, zobacz dzienniki inicjowania obsługi [administracyjnej (wersja Preview)](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-provisioning-logs) w usłudze Azure Active Directory (AD). Wyszukaj wpisy dziennika dotyczące określonego użytkownika.
-- Okresowo ponownie uruchamiaj inicjowanie obsługi administracyjnej, aby wychwycić wszystkich użytkowników, których pominięto w poprzednim cyklu inicjowania obsługi.
-- Być może obsługi administracyjnej użytkownika/grupy nie było, ponieważ usługa nie miała jeszcze możliwości oceny użytkownika. Zapoznaj się ze wskazówkami, jak długo trwa inicjowanie obsługi administracyjnej, a także z paska postępu na stronie konfiguracji inicjowania obsługi. Jeśli stan określony w sekcji dodatkowych szczegółów jest stały przed datą utworzenia/zaktualizowania/usunięcia użytkownika, oznacza to, że nie został jeszcze ocenić użytkownika. W tym scenariuszu najlepiej jest zaczekać na ukończenie obsługi administracyjnej. Jeśli stan jest stały, zalecamy wykonanie ponownego uruchomienia z interfejsu użytkownika w portalu Azure Portal.
-  - Pamiętaj, że usługa ma świadomość zmian wprowadzonych tylko do użytkownika/grupy w systemie źródłowym (Azure Active Directory). Jeśli użytkownik/grupa zostanie usunięta bezpośrednio z aplikacji (na przykład ServiceNow), nie wiemy o tych zmianach i nie cofniemy ich na podstawie stanu użytkownika w systemie źródłowym. W tym scenariuszu najlepszym rozwiązaniem jest wycofywanie zmiany bezpośrednio w aplikacji docelowej.
-- Nasza usługa oszacowała użytkownika/grupę i ustaliła, że nie należy jej zapewniać obsługi administracyjnej:
-  - Jeśli zakres został ustawiony na przypisanych użytkowników i grupy, sprawdź, czy do aplikacji przypisano użytkownika lub grupę.
+- Korzystaj z [funkcji inicjowania obsługi na](https://docs.microsoft.com/azure/active-directory/app-provisioning/provision-on-demand) żądanie, aby aprowizować użytkownika i uzyskać szczegółową diagnostykę kroków.
+- Aby rozwiązać problemy napotykane podczas inicjowania obsługi użytkowników i grup, zobacz przewodnik po rozwiązywaniu problemów Brak [obsługi administracyjnej użytkowników.](https://docs.microsoft.com/azure/active-directory/app-provisioning/application-provisioning-config-problem-no-users-provisioned)
+- Jeśli obserwujesz, że użytkownicy nie są inicjowania obsługi administracyjnej, zobacz Dzienniki inicjowania obsługi [administracyjnej (wersja zapoznawcza)](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-provisioning-logs) w programie Azure Active Directory (AD). Wyszukaj wpisy dziennika dotyczące określonego użytkownika.
+- Okresowo ponownie uruchom inicjowanie obsługi administracyjnej, aby wychwycić wszystkich użytkowników, których nie ominięto w poprzednim cyklu inicjowania obsługi.
+- Być może obsługi administracyjnej użytkownika/grupy nie było, ponieważ usługa nie miała jeszcze możliwości oceny użytkownika. Przejrzyj wskazówki dotyczące czasu inicjowania obsługi oraz paska postępu na stronie konfiguracji inicjowania obsługi. Jeśli stan stały określony w sekcji dodatkowych szczegółów jest przed datą utworzenia/zaktualizowania/usunięcia użytkownika, oznacza to, że nie ocenić jeszcze użytkownika. W tym scenariuszu najlepiej jest zaczekać na ukończenie usługi inicjowania obsługi administracyjnej. Jeśli osiągnięto stały stan, zalecamy wykonanie ponownego uruchomienia z interfejsu użytkownika w portalu Azure Portal.
+  - Pamiętaj, że nasza usługa wie tylko o zmianach użytkownika/grupy w systemie źródłowym (Azure Active Directory). Jeśli użytkownik/grupa zostanie usunięta bezpośrednio w aplikacji (na przykład ServiceNow), nie wiemy o tych zmianach i nie wycofamy ich w zależności od stanu użytkownika w systemie źródłowym. W tym scenariuszu najlepiej jest wycofać zmianę bezpośrednio w aplikacji docelowej.
+- Nasza usługa ocenić użytkownika/grupę i ustaliła, że nie powinna być zapewniana obsługa administracyjne:
+  - Jeśli został ustawiony zakres przypisany do użytkowników i grup, sprawdź, czy użytkownik/grupa nie jest przypisana do aplikacji.
   - Jeśli do aplikacji przypisano użytkownika/grupę, upewnij się, że nie jest on przypisany do domyślnej roli dostępu. Tej roli nie można używać do inicjowania obsługi administracyjnej.
-  - Jeśli ustawiono filtr zakresu oparty na atrybutach, upewnij się, że użytkownik spełnia określone kryteria.
-  - Jeśli użytkownicy już istnieją w systemie docelowym i stanie użytkownika w dopasowaniu źródłowym i docelowym, nie podejmiemy dalszych działań.
-- Usługa próbowała aprowizować użytkownika i nie powiodło się. Aby zapoznać się z tymi scenariuszami, zapoznaj się z kartą rozwiązywania problemów i zaleceń dzienników inicjowania obsługi:
-  - W usłudze Azure Active Directory może brakować wymaganego atrybutu użytkownika lub format wymagany przez aplikację innej firmy. Na przykład atrybut Country na użytkowniku może mieć wartość Stany Zjednoczone, gdy powinien to być Stan Zjednoczone.
-  - Ten atrybut jest atrybutem referential, który jeszcze nie istnieje w aplikacji docelowej. Atrybut referential to atrybut, który wskazuje inny obiekt, na przykład użytkownika, który jest członkiem grupy. Identyfikator użytkownika będzie miał atrybut członka grupy, ale może być przetwarzany tylko wtedy, gdy obiekt użytkownika, na który wskazuje, już istnieje.
+  - Jeśli ustawiono filtr zakresu określony na podstawie atrybutów, upewnij się, że użytkownik spełnia określone kryteria.
+  - Jeśli użytkownicy już istnieją w systemie docelowym oraz w stanie dopasowania źródłowego i docelowego użytkownika, nie podejmiemy dalszych działań.
+- Nasz usługa próbowała aprowizować użytkownika i nie powiodło się. Aby zapoznać się z tymi scenariuszami, zapoznaj się z kartą rozwiązywania problemów i zaleceń dzienników inicjowania obsługi:
+  - Wymagany atrybut dla użytkownika może brakować w Azure Active Directory lub nie jest w formacie wymaganym przez aplikację innej firmy. Na przykład atrybut Country użytkownika może mieć ustawioną wartość Stany Zjednoczone, jeśli ma wartość Stany Zjednoczone.
+  - Ten atrybut jest atrybutem referential, który jeszcze nie istnieje w aplikacji docelowej. Atrybut referential to atrybut, który wskazuje inny obiekt, na przykład użytkownika, który jest członkiem grupy. Identyfikator użytkownika znajduje się w atrybutym członka grupy, ale może być przetwarzany tylko wtedy, gdy obiekt użytkownika, na który wskazuje, już istnieje.
