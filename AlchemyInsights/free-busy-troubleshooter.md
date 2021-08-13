@@ -1,5 +1,5 @@
 ---
-title: 607 Rozwiązywanie problemów z wolnym/zajętym programem
+title: Narzędzie do rozwiązywania problemów z 607 godzinami wolnym/zajętym
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,15 +13,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 69a89f4a18008024bae1d24d23933276c57f189f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82ffc520211180da8118fd357f12b3559ec7eb43cc0329ad4f7e58f42bd8c3eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708045"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987693"
 ---
-# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Procedura rozwiązywania problemów z dostępnością kalendarza (wolny/zajęty)
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Procedura rozwiązywania problemów z dostępnością kalendarza (Wolny/Zajęty)
 
-Generalnie najlepszym narzędziem do rozwiązywania problemów z stanem wolny/zajęty jest [Analizator łączności zdalnej programu Exchange (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) , aby sprawdzić, gdzie jest on niemożliwy. RCA podaje Ci szczegółowy zapis dotyczący pracy, a co się nie udało z określonymi komunikatami o błędach, możesz wyszukać rozwiązania. Jest również linkiem do [asystenta pomocy technicznej i odzyskiwania firmy Microsoft](https://diagnostics.office.com/).
+Zazwyczaj najlepszym narzędziem do rozwiązywania problemów z pracą wolny/zajęty jest usługa [Exchange Remote Connectivity Analyzer (RCA, Remote Connectivity Analyzer)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) do awarii. Raport o błędach RCA zawiera szczegółowy rejestr informacji o tym, co się powiodło, oraz o tym, co zakończyło się niepowodzeniem w przypadku określonych komunikatów o błędach, które można znaleźć w celu znalezienia rozwiązań. Zawiera ona również link do aplikacji [Microsoft Asystent odzyskiwania i pomocy technicznej.](https://diagnostics.office.com/)
 
-Inne dobre narzędzie do wypróbowania to [Narzędzie do sprawdzania kalendarza dla programu Outlook](https://www.microsoft.com/download/details.aspx?id=28786) , jeśli użytkownik ma program Outlook.
+Innym dobrym narzędziem do wypróbowania jest narzędzie do sprawdzania kalendarzy dla [Outlook,](https://www.microsoft.com/download/details.aspx?id=28786) jeśli użytkownik Outlook.

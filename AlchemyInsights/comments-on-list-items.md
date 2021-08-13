@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.openlocfilehash: d72e3de6da9f51ebd5dd8a4eb06e94d7bc5cca81f86bd61902a9587b00f7b7b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724164"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995497"
 ---
 # <a name="comments-on-list-items"></a>Komentarze dotyczące elementów listy
 
-Użytkownicy mogą wyświetlać wszystkie komentarze w elemencie listy i filtrować między widokami pokazującymi komentarze lub działania związane z elementem.
+Użytkownicy mogą wyświetlać wszystkie komentarze dotyczące elementu listy i filtrować widok między widokami, w których są wyświetlane komentarze lub działania związane z elementem.
 
-Aby można było dodawać i usuwać komentarze, użytkownicy muszą zwrócić uwagę na następujące kwestie:
+Użytkownicy muszą zanotować następujące informacje, zanim będą oni mieli możliwość dodawania i usuwania komentarzy:
 
-- Komentarze są zgodne z ustawieniami uprawnień w programie SharePoint.
-- Listy klasyczne, które nie są jeszcze zbudowane do wyświetlania w nowoczesnych interfejsach użytkowników, na przykład listy zadań, nie będą miały tej funkcji komentowania.
-- Komentowanie list w aplikacji Teams nie jest dostępne w tej wersji.
+- Komentarze są zgodne z ustawieniami uprawnień, które są SharePoint.
+- Klasyczne listy, które nie są jeszcze wbudowane w nowoczesne interfejsy użytkownika, takie jak listy zadań, nie będą zawierały tej funkcji do komentowania.
+- Komentowanie list w programie Teams jest niedostępne w tej wersji.
 - Komentarze nie są indeksowane przez wyszukiwanie.
 
-Administratorzy mogą wyłączyć tę funkcję na poziomie organizacji, zmieniając parametr **CommentsOnListItemsDisabled** w poleceniu cmdlet **Set-SPOTenant** programu PowerShell.
+Administratorzy mogą wyłączyć tę funkcję na poziomie organizacji, zmieniając parametr **CommentsOnListItemsDisabled** w polu cmdlet programu PowerShell **Set-SPOTenant.**
 
-Obecnie nie można wyłączyć komentowania na poziomie witryny lub listy. Mamy nadzieję, że te kontrolki będą znajdować się w nowszej aktualizacji, prawdopodobnie w pierwszym kwartale 2021.
+Obecnie nie można wyłączyć komentowania na poziomie witryny lub listy. Mamy nadzieję, że te kontrolki będą się liczyć w późniejszej aktualizacji, prawdopodobnie w pierwszym kwartale 2021 roku.
