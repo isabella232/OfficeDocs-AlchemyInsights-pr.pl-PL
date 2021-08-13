@@ -1,5 +1,5 @@
 ---
-title: Przywracanie usuniętej podwitryny
+title: Przywracanie usuniętej podwiterwy
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 1f5db1349d2029715e9994f2872bf85cac14646b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 458cba655675f9c1f06814a71fa97128786d1d9676c29aefdfd752c2d26917d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795614"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958739"
 ---
-# <a name="restore-a-deleted-sharepoint-subsite"></a>Przywracanie usuniętej podwitryny programu SharePoint
+# <a name="restore-a-deleted-sharepoint-subsite"></a>Przywracanie usuniętej SharePoint podwiturowej
 
-Usunięte podwitryny są wysyłane do kosza zbioru witryn, gdzie są przechowywane przez 93 dni. Aby przywrócić usuniętą podwitrynę:
+Usunięte podwitryny są wysyłane do Kosza zbioru witryn, gdzie są przechowywane przez 93 dni. Aby przywrócić usuniętą podwiterę:
   
-1. W nowym centrum administracyjnym programu SharePoint Znajdź witrynę, z której usunięto podwitrynę, i upewnij się, że jesteś administratorem zbioru witryn. 
+1. W nowym SharePoint administracyjnym znajdź witrynę, z której usunięto podwiterę, i upewnij się, że jesteś administratorem zbioru witryn. 
     
-2. Przejdź do witryny. Kliknij pozycję **Kosz** w lewym okienku. (Jeśli nie widzisz kosza, kliknij ikonę Ustawienia, a następnie kliknij pozycję **zawartość witryny**. Kosz znajduje się po prawej stronie paska poleceń u góry.
+2. Przejdź do witryny. Kliknij **pozycję Kosz** w okienku po lewej stronie. (Jeśli Kosz nie jest wyświetlony, kliknij ikonę kosza Ustawienia, a następnie kliknij **pozycję Zawartość witryny**. Kosz znajduje się po prawej stronie paska poleceń u góry).
     
-3. U dołu strony kliknij pozycję **Kosz drugiego**poziomu.
+3. U dołu strony kliknij pozycję **Kosz drugiego poziomu**.
     
-4. Kliknij z lewej strony podwitryny, a następnie kliknij pozycję **Przywróć**.
+4. Kliknij z lewej strony podwiterwy, a następnie kliknij pozycję **Przywróć**.
     
 
