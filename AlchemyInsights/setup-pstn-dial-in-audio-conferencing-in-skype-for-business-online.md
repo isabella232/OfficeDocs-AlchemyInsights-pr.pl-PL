@@ -1,5 +1,5 @@
 ---
-title: Konfigurowanie konferencji telefonicznych w sieci PSTN w usłudze Skype dla firm Online
+title: Konfigurowanie konferencji telefonicznych audio z siecią PSTN w u Skype dla firm Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f88489850f30efd31af5f9ccb67edb309f45cb8e123c94befc70fdd72ee98450
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835497"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094400"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Konfigurowanie konferencji telefonicznych w sieci PSTN w usłudze Skype dla firm Online
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Konfigurowanie konferencji telefonicznych audio z siecią PSTN w u Skype dla firm Online
 
 Jeśli chcesz skonfigurować konferencje głosowe dla usługi Skype dla firm Online, musisz wykonać kilka czynności. 
 
@@ -30,4 +30,4 @@ Jeśli chcesz skonfigurować konferencje głosowe dla usługi Skype dla firm Onl
 
 - Uzyskiwanie i przypisywanie numerów usług.
 
-- Uzupełnij listę kontrolną w [tece Konfigurowanie konferencji audio dla programu Skype dla firm.](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)
+- Wypełnij listę kontrolną podaną w tece Konfigurowanie [konferencji audio dla Skype dla firm.](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)

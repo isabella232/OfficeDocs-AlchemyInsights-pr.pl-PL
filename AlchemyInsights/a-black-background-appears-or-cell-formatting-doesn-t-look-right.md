@@ -1,5 +1,5 @@
 ---
-title: Zostanie wyświetlone czarne tło lub Formatowanie komórki wygląda niewłaściwe
+title: Pojawia się czarne tło lub formatowanie komórek nie wygląda dobrze
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: 031acf2f47dbe9546a5042b88f53e03a8e96e917
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd6832e559e721a41b7afaebe97ec551d297a8b99bf1b323a5a5680365eacfac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663964"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917865"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Zostanie wyświetlone czarne tło lub Formatowanie komórki wygląda niewłaściwe
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Pojawia się czarne tło lub formatowanie komórek nie wygląda dobrze
 
-W programie Excel 2016 może być widoczne nieoczekiwane czarne tło lub może być widoczne formatowanie komórek, które nie są wyświetlane poprawnie. Może się to zdarzyć po dodaniu nagłówka lub stopki w widoku układu strony i zastosowaniu wypełnienia deseniem do komórki. Ten problem został rozwiązany w wersji 1708 (kompilacja 8431,2094). Aby rozwiązać ten problem, zaktualizuj najnowszą wersję pakietu Office. Wybierz **File** pozycję \> **Account** \> **Opcje aktualizacji** konta pliku \> **Aktualizuj teraz**.
+Na Excel 2016 może zostać wyświetlone nieoczekiwane czarne tło lub może zostać wyświetlone formatowanie komórek, które nie jest wyświetlane poprawnie. Może się tak zdarzyć po dodaniu nagłówka lub stopki w widoku układu strony i zastosowaniu wypełnienia deseniu do komórki. Ten problem został rozwiązany w wersji 1708 (kompilacja 8431.2094). Aby rozwiązać ten problem, zaktualizuj program do najnowszej Office. Wybierz **pozycję Opcje** \> **aktualizacji** konta pliku \> **Aktualizuj** \> **teraz.**
   
 
