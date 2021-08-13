@@ -1,5 +1,5 @@
 ---
-title: 124 podczas uzyskiwania dostępu do udostępnionej skrzynki pocztowej w programie OWA Wystąpił błąd uprawnień?
+title: 124 Podczas uzyskiwania dostępu do udostępnionej skrzynki pocztowej w aplikacji OWA jest wyświetlany błąd uprawnień?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,14 +14,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: ed3e94ba400a2683c2e023a1832bbd16a1e24b65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5281445378814dc9a50760420ae05815fc90836f5e66a14c00993afbb1921d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913509"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Podczas otwierania udostępnionej skrzynki pocztowej w aplikacji Outlook w sieci Web Wystąpił błąd uprawnień?
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Pojawia się błąd uprawnień podczas otwierania udostępnionej skrzynki pocztowej w programie Outlook w sieci Web?
 
-Jeśli zostanie wyświetlony błąd, wystąpił **problem. Nie masz uprawnień do otwierania tej skrzynki pocztowej.** podczas próby otwarcia udostępnionej skrzynki pocztowej w aplikacji Outlook w sieci Web Twoje konto może nie mieć uprawnień dostępu do udostępnionej skrzynki pocztowej. Administrator organizacji może przypisać uprawnienia konta do udostępnionej skrzynki pocztowej, wykonując instrukcje podane w temacie [Tworzenie udostępnionej skrzynki pocztowej](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+Jeśli zostanie komunikat o **błędzie Wystąpił problem. Nie masz uprawnień do otwierania tej skrzynki pocztowej.** gdy próbujesz otworzyć udostępnioną skrzynkę pocztową w programie Outlook w sieci Web, Twoje konto może nie mieć uprawnień dostępu do tej udostępnionej skrzynki pocztowej. Administrator organizacji może przypisać uprawnienia do konta do udostępnionej skrzynki pocztowej, korzystając z instrukcji podanych w temacie [Tworzenie udostępnionej skrzynki pocztowej.](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)
   

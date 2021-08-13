@@ -1,5 +1,5 @@
 ---
-title: Odmowa dostępu do witryny aplikacji Project Web App
+title: Odmowa dostępu do witryny Project Web App sieci Web
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: a5809e4afd3ea316bf97796899fcf2347e804ecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e242b42e76f234eb3287001e7ed3800f08b114f09aa93362eea215109ea7bac5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663667"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955355"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Udzielanie użytkownikom uprawnień w usłudze Project Online
+# <a name="give-users-permissions-in-project-online"></a>Nadawaj użytkownikom uprawnienia w aplikacji Project Online
 
-Udzielanie użytkownikom dostępu do witryny aplikacji Project Web App przy użyciu trybu uprawnień programu SharePoint:
+Zapewnianie użytkownikom dostępu do witryny Project Web App przy użyciu SharePoint uprawnień:
 
-1. Zaloguj się do usługi Project Online jako administrator.
-2. Na stronie głównej aplikacji Project Web App wybierz pozycję **Udostępnij** w prawym górnym rogu.
-3. W oknie dialogowym **udostępnianie aplikacji Project Web App** w polu **Zaproś osoby** wpisz nazwę użytkownika osoby, której chcesz udzielić dostępu.
-4. Wybierz pozycję **Pokaż opcje**, a następnie w menu **Wybierz poziom uprawnień** wybierz pozycję **menedżerowie projektów dla aplikacji Project Web App**.
-5. Wybierz pozycję **Udostępnij**.
+1. Zaloguj się Project Online jako administrator.
+2. Na Project Web App głównej wybierz **pozycję** Udostępnij w prawym górnym rogu.
+3. W **oknie Project Web App** udostępnianie wpisz nazwę użytkownika osoby, której chcesz udzielić dostępu, w polu **Zaproś** osoby.
+4. Wybierz **pozycję Pokaż opcje,** a następnie w menu Wybierz **poziom uprawnień** wybierz pozycję Menedżerowie Project **dla** Project Web App.
+5. Wybierz **pozycję Udostępnij**.
 
-Jeśli korzystasz z trybu uprawnień projektu lub chcesz uzyskać więcej informacji, zobacz [Dodawanie osób do usługi Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Jeśli używasz trybu Project lub aby uzyskać więcej informacji, zobacz [Dodawanie](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)osób do Project Online.

@@ -12,18 +12,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: e132171e6ee89fdfa011992000332ccbbbcde7b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4c03a4285ecc837c0fc7657bd6eb893586bf4aca0733ea306d6f6c783ff402d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712671"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914913"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Tworzenie i używanie udostępnionej skrzynki pocztowej
 
-Udostępniona skrzynka pocztowa umożliwia wielu osobom wysyłanie i odbieranie wiadomości e-mail do aliasu, takiego jak sales@contoso.com, bez przypisywania innej licencji.
+Udostępniona skrzynka pocztowa umożliwia kilku użytkownikom wysyłanie i odbieranie wiadomości e-mail przy sales@contoso.com, bez konieczności przypisywania innej licencji.
   
-- Aby rozpocząć, [wykonaj poniższe czynności](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) w centrum administracyjnym usługi Microsoft 365. 
+- [Aby rozpocząć,](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) wykonaj centrum administracyjne platformy Microsoft 365 poniższe czynności. 
 
-Możesz również przeczytać artykuł [Tworzenie udostępnionej skrzynki pocztowej](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) z informacją o tym, co należy wiedzieć o udostępnionych skrzynkach pocztowych, takich jak korzystanie z nich.
+Możesz również przeczytać artykuł [Tworzenie](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) udostępnionej skrzynki pocztowej, w którym znajdziesz wszystkie potrzebne informacje o udostępnionych skrzynkach pocztowych, w tym o tym, jak ich używać.
   
