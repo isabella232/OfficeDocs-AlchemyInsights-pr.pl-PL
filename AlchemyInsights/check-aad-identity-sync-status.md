@@ -14,18 +14,18 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: 27847ac62e418869cc5074808e6ccab02671ea05
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d060791e8981576c526885f171ab592f96c98783a061acbf41e659b1f896b8cf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817866"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930775"
 ---
 # <a name="check-aad-identity-sync-status"></a>Sprawdzanie stanu synchronizacji tożsamości usługi AAD
 
 Sprawdzanie stanu synchronizacji jest łatwe:
   
-- Zaloguj się do centrum administracyjnego platformy Microsoft 365 i na stronie głównej wybierz pozycję **Stan** synchronizacji katalogów.
+- Zaloguj się do centrum administracyjne platformy Microsoft 365 i wybierz pozycję Stan narzędzia **DirSync** na stronie głównej.
 
 - Możesz również przejść do strony Aktywni użytkownicy użytkownicy i na stronie Aktywni użytkownicy \> wybrać pozycję Więcej synchronizacji \> katalogów.
 

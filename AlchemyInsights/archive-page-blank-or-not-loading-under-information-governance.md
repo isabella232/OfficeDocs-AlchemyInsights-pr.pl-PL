@@ -1,5 +1,5 @@
 ---
-title: Strona archiwum pusta lub nie jest ładowana w obszarze Zarządzanie informacjami
+title: Archiwizowanie strony pustej lub niesładuj w obszarze Zarządzanie informacjami
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "8262"
-ms.openlocfilehash: eae42c31b7faf024e16ec5eb132abe30bd228b7a
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: d484d7a0cb5d4556a08639513071a9211875479a223e1da3228c7074fadcf4c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243599"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997360"
 ---
-# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Strona archiwum pusta lub nie jest ładowana w obszarze Zarządzanie informacjami
+# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Archiwizowanie strony pustej lub niesładuj w obszarze Zarządzanie informacjami
 
-Jeśli strona **Archiwum** w obszarze Zarządzanie informacjami w Centrum zabezpieczeń  i zgodności jest pusta lub nie ładuje się, użyj zamiast tego opcji Archiwum w nowym Centrum zgodności M365.
+Jeśli strona **Archiwum** w obszarze Zarządzanie informacjami w Centrum zabezpieczeń  i zgodności jest pusta lub nie ładuje się, użyj opcji Archiwum w nowym Centrum zgodności m365.
 
 1. Przejdź do [https://compliance.microsoft.com](https://compliance.microsoft.com/)
-1. Wybieranie zarządzania informacjami.
-1. Następnie kliknij opcję **Archiwizuj.**
+1. Wybierz pozycję Zarządzanie informacjami.
+1. Następnie kliknij **opcję Archiwizuj.**
 
 Lub postępuj zgodnie z tym adresem URL: [https://compliance.microsoft.com/informationgovernance?viewid=archive](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive)

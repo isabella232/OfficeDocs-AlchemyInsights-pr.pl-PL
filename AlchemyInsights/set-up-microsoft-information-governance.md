@@ -15,15 +15,15 @@ ms.custom:
 - "7428"
 - "9000273"
 - "9245"
-ms.openlocfilehash: 96fa4850636d9eb56fa91106bf5503c6eccb77ad
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 367b22259ba619230404ef967eef1530969b23aab0a5c5916382fd19cdb5986d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448768"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921629"
 ---
 # <a name="set-up-microsoft-information-governance"></a>Konfigurowanie zarządzania informacjami firmy Microsoft
 
-Przewodnik po konfiguracji zarządzania informacjami firmy [Microsoft](https://go.microsoft.com/fwlink/?linkid=2146529) zawiera informacje potrzebne do skonfigurowania strategii zarządzania organizacji i zarządzania nią w celu zapewnienia klasyfikowania danych i zarządzania nimi zgodnie z określonymi wytycznymi dotyczącymi cyklu życia.
+Przewodnik konfiguracji zarządzania informacjami firmy [Microsoft](https://go.microsoft.com/fwlink/?linkid=2146529) zawiera informacje potrzebne do skonfigurowania strategii zarządzania nią i zarządzania nią w organizacji w celu klasyfikowania i zarządzania danymi zgodnie z określonymi wytycznymi dotyczącymi cyklu życia.
 
-W tym przewodniku dowiesz się, jak tworzyć, stosować automatycznie lub publikować etykiety, zasady etykiet i zasady przechowywania stosowane do zawartości i rekordów zgodności do ponownego użycia w organizacji. Będziesz również uzyskać informacje na temat importowania plików CSV z planem plików w scenariuszach zbiorczych lub ręcznym stosowaniu ich do poszczególnych dokumentów.
+W tym przewodniku dowiesz się, jak tworzyć, stosować automatycznie lub publikować etykiety, zasady etykiet i zasady przechowywania stosowane do zawartości i rekordów zgodności wielokrotnego użytku organizacji. Otrzymasz również informacje na temat importowania plików CSV z planem zbiorczego stosowania scenariuszy lub ręcznego stosowania ich do poszczególnych dokumentów.

@@ -1,5 +1,5 @@
 ---
-title: Certyfikat wypychania Apple MDM wygasł
+title: Twój certyfikat Push usługi Apple MDM wygasł
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2635"
 - "9000770"
-ms.openlocfilehash: 5ec7989600c224281a417ea102779f9e0dd19887
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a349b0c4a7a0b7fe8e28ab0ba107ed16cccf81638544a5009e93fab66094fac4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668825"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997432"
 ---
-# <a name="your-apple-mdm-push-certificate-has-expired"></a>Certyfikat wypychania Apple MDM wygasł
+# <a name="your-apple-mdm-push-certificate-has-expired"></a>Twój certyfikat Push usługi Apple MDM wygasł
 
-Certyfikat Apple dla aktywnej komunikacji MDM jest ważny przez rok i musi być regularnie odnawiany w celu kontynuacji zarządzania urządzeń z systemem iOS i macOS. Jeśli certyfikat wygaśnie, nie można skontaktować się z zarejestrowanymi urządzeniami Apple, a nowe urządzenia nie mogą być rejestrowane.
+Certyfikat Apple dla aktywnej komunikacji MDM jest ważny przez rok i musi być regularnie odnawiany w celu kontynuacji zarządzania urządzeń z systemem iOS i macOS. Jeśli certyfikat wygasa, nie można skontaktować się z zarejestrowanymi urządzeniami firmy Apple i nie można kontaktować się z nowymi urządzeniami.
 
-Aby uzyskać instrukcje dotyczące odnawiania certyfikatu wypychania Apple MDM, zobacz [odnawianie certyfikatu wypychania oprogramowania Apple MDM](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
+Aby uzyskać instrukcje dotyczące odnawiania certyfikatu Push usługi Apple MDM, zobacz [Odnawianie certyfikatu push usługi Apple MDM.](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate)

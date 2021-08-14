@@ -1,5 +1,5 @@
 ---
-title: Jak zweryfikować konto usługi Outlook.com
+title: Jak zweryfikować konto Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,24 +14,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 602b4592ac07c655cd807f09e1a286741235e728
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d65ee2ec5507e3a691c5db6c44e5790ca60c47ac9b52e04f4c9052bf9503402d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961601"
 ---
-# <a name="how-to-verify-your-outlookcom-account"></a>Jak zweryfikować konto usługi Outlook.com
+# <a name="how-to-verify-your-outlookcom-account"></a>Jak zweryfikować konto Outlook.com
 
-Weryfikacja dwuetapowa pomaga w ochronie użytkownika, utrudniając użytkownikom logowanie się do konta Microsoft. Używa on dwóch różnych form tożsamości: hasła oraz metody kontaktu (nazywanej również informacjami o zabezpieczeniach).
+Weryfikacja dwuetapowa ułatwia ochronę, ponieważ utrudni innym osobom logowanie się na Twoim koncie Microsoft. Używane są w nim dwie różne formy tożsamości: hasło i metoda kontaktu (znana również jako informacje zabezpieczające).
   
 Aby włączyć lub wyłączyć weryfikację dwuetapową:
   
-1. Przejdź do [strony podstawy zabezpieczeń](https://go.microsoft.com/fwlink/?linkid=842325) i zaloguj się za pomocą konta Microsoft.
-2. Wybierz pozycję **więcej opcji zabezpieczeń**.
-3. W obszarze **weryfikacja dwuetapowa**wybierz pozycję **Skonfiguruj weryfikację dwuetapową** i postępuj zgodnie z instrukcjami.
+1. Przejdź do [strony Podstawy zabezpieczeń i](https://go.microsoft.com/fwlink/?linkid=842325) zaloguj się przy użyciu konta Microsoft.
+2. Wybierz **pozycję Więcej opcji zabezpieczeń.**
+3. W **obszarze Weryfikacja dwuetapowa** wybierz pozycję Skonfiguruj weryfikację **dwuetapową** i postępuj zgodnie z instrukcjami.
 
-Jeśli włączysz weryfikację dwuetapową, zawsze będziesz potrzebować dwóch form identyfikacji. Jeśli utracisz metodę kontaktu, Twoje hasło nie powróci do Twojego konta — może to potrwać 30 dni, aby odzyskać dostęp.
+Jeśli włączysz weryfikację dwuetapową, zawsze będziesz potrzebować dwóch formularzy identyfikacji. Jeśli utracisz metodę kontaktu, samo hasło nie wróci cię do Twojego konta — odzyskanie dostępu może potrwać 30 dni.
   
-Dowiedz się więcej o [weryfikacji dwuetapowej](https://go.microsoft.com/fwlink/?linkid=872270).
+Dowiedz się więcej o [weryfikacji dwuetapowej.](https://go.microsoft.com/fwlink/?linkid=872270)
   
