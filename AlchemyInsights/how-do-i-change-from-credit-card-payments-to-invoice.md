@@ -14,12 +14,12 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 2abdc805bf176eeac30e97b9cccf3cf9947b779abdae3c4566d354854a78b040
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501106"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868688"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Jak zmienić płatność kartą kredytową na fakturę?
 
@@ -34,4 +34,4 @@ ms.locfileid: "54501106"
 6. Wprowadź imię i nazwisko (nazwę), adres i numer telefonu. Możesz również dodać numer zakupu do wyświetlenia na fakturze.
 7. Po zakończeniu wybierz pozycję **Zapisz**.
 
-Aby dowiedzieć się więcej, [zobacz Jak zapłacić za subskrypcję.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Aby dowiedzieć się więcej, [zobacz Jak zapłacić za subskrypcję.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
