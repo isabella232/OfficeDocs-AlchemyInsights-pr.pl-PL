@@ -1,5 +1,5 @@
 ---
-title: Usuwanie reklam w programie Outlook.com
+title: Usuwanie reklam z Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,13 +14,13 @@ ms.custom:
 - "1917"
 - "8000028"
 ms.assetid: 718cb8b3-5d51-4e31-823d-7b306dd60f01
-ms.openlocfilehash: 6c9002d1487a8df02998c55343b452398e78a3cf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 39603738d9c7d3a7e4c189a9c0699e12108a82d84417de698b22195aef2cd2bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723509"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095192"
 ---
-# <a name="remove-ads-in-outlookcom"></a>Usuwanie reklam w programie Outlook.com
+# <a name="remove-ads-in-outlookcom"></a>Usuwanie reklam z Outlook.com
 
-Outlook.com jest bezpłatną usługą poczty e-mail, która zawiera reklamy. Jeśli chcesz usunąć reklamy w programie Outlook.com, firma Microsoft oferuje zaawansowane funkcje programu Outlook z subskrypcjami osobistymi pakietu Office 365 dla użytkowników domowych lub Office 365. Aby uzyskać więcej informacji, zobacz [Uzyskiwanie Premium funkcji programu Outlook w pakiecie Office 365](https://go.microsoft.com/fwlink/?linkid=872181).
+Outlook.com to bezpłatna usługa poczty e-mail zawierająca reklamy. Jeśli chcesz usunąć reklamy w witrynie Outlook.com, firma Microsoft oferuje funkcje premium Outlook w ramach subskrypcji Office 365 Dla Użytkowników Domowych Office 365 Personal. Aby uzyskać więcej informacji, zobacz [Uzyskiwanie Outlook premium dzięki pakietowi Office 365.](https://go.microsoft.com/fwlink/?linkid=872181)
