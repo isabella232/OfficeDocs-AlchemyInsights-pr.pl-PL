@@ -1,5 +1,5 @@
 ---
-title: 'Błąd rejestracji w przedsiębiorstwie w systemie Android: wykrywanie skonfigurowania usługi MGP'
+title: 'Błąd Enterprise rejestracji w systemie Android: wykrywanie skonfigurowania MGP'
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "8340"
-ms.openlocfilehash: 6ac90611bbe626e7f11b817965fd2d3c7fbf98c1
-ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
+ms.openlocfilehash: 9493d4cede39b4fb5aa41638c0f709b9025b2468ade322be6991bdad17e97d5d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50508563"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932863"
 ---
-# <a name="android-enterprise-enrollment-error-mgp-set-up-detection"></a>Błąd rejestracji w przedsiębiorstwie w systemie Android: wykrywanie skonfigurowania MGP
+# <a name="android-enterprise-enrollment-error-mgp-set-up-detection"></a>Błąd Enterprise rejestracji w systemie Android: wykrywanie skonfigurowania MGP
 
-Wykryliśmy, że w przypadku Twojego konta zarządzanego sklepu Google Play nie zostało skonfigurowanie ani nie rozłączyliśmy się z twoim kontem. Może to spowodować niepowodzenie zarejestrowania urządzeń w scenariuszach systemu Android Enterprise, w których wymagane jest połączenie zarządzanej usługi Google Play.
+Wykryliśmy, że dla Twojego konta nie ustawiono zarządzanej usługi Google Play lub nie zostało ona odłączona. Może to spowodować niepowodzenie zarejestrowania urządzeń w systemie Android Enterprise scenariuszach, w których wymagane jest połączenie zarządzanej usługi Google Play.
 
-Stan połączenia zarządzanego usługi Google Play możesz sprawdzić na konsoli MEM w obszarze Administracja dzierżawą > Stan łącznika **usługi > i** przejrzyj następującą dokumentację, aby dowiedzieć się, jak połączyć konto Intune z zarządzanym kontem Google: Połącz konto Intune z zarządzanym kontem Google **[Play.](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)**
+Stan połączenia zarządzanego usługi Google Play możesz sprawdzić w konsoli MEM w obszarze Administracja dzierżawą > Status dzierżawy **> Connector** i przejrzyj następującą dokumentację, aby dowiedzieć się, jak połączyć konto usługi Intune z kontem zarządzanej usługi Google: konto usługi Intune Połączenie z kontem zarządzanej usługi **[Google Play.](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)**

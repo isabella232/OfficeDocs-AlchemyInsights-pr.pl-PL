@@ -1,5 +1,5 @@
 ---
-title: 1047 AntiSpam 550 5.7.708 usługa jest niedostępna. Odmowa dostępu, ruch nieakceptowany przez ten adres IP
+title: Usługa 1047 AntiSpam 550 5.7.708 jest niedostępna. Odmowa dostępu, ruch, który nie został zaakceptowany z tego adresu IP
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "1986"
 - "3100025"
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: cbfef03232f14fa29d98f16066b4ae29dfd26660
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9cca7f38a38c28216371ac6d034d1f00870e814a48b5552edbc58f4faf871ac6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717227"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932143"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 odmowa dostępu, ruch nieakceptowany z tego adresu IP
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 Odmowa dostępu, ruch nie jest akceptowany z tego adresu IP
 
-Ten błąd występuje podczas wysyłania wiadomości e-mail z znanych, słabo atrakcyjnych adresów IP, które są zwykle używane przez nowych klientów.
+Ten błąd występuje podczas wysyłania wiadomości e-mail ze znanych adresów IP o niskiej reputacji, które są zwykle używane przez nowych klientów.
 
-Jeśli musisz wysłać wiadomość e-mail z tych adresów IP przed zakupem licencji, skontaktuj się z pomocą techniczną, aby poprosić o wyjątek do czasu zakupu licencji.
+Jeśli musisz wysłać wiadomość e-mail z tych adresów IP, aby można było kupić licencje, skontaktuj się z pomocą techniczną, aby zażądać wyjątku, dopóki nie będzie można kupić licencji.

@@ -1,5 +1,5 @@
 ---
-title: 1050 AntiSpam 4.7.500 serwer zajęty. Spróbuj ponownie później od [XXX.XXX.XXX.XXX]
+title: 1050 Ochrona przed programem Antispam 4.7.500 Serwer jest zajęty. Spróbuj ponownie później z [XXX.XXX.XXX.XXX]
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1050"
 - "3100024"
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
-ms.openlocfilehash: 76182c54fe16a01843db02f66dd7f94b4514d31e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84a5dfccd7ec3e4640c728ab1740220309a0d97b61157d0fd4e463ed95aef0d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717551"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932647"
 ---
-# <a name="47500-server-busy-please-try-again-later"></a>serwer 4.7.500 jest zajęty, spróbuj ponownie później.
+# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 Serwer jest zajęty, spróbuj ponownie później
 
-Ten błąd występuje, gdy głośność ruchu e-mail ze źródłowego adresu IP przekracza limit na podstawie reputacji (lub brak reputacji) źródłowego adresu IP.
+Ten błąd występuje, gdy ilość ruchu e-mail ze źródłowego adresu IP przekracza limit w zależności od reputacji (lub braku reputacji) źródłowego adresu IP.
 
-Zablokowanie wiadomości e-mail ze źródłowego adresu IP wygaśnie w ciągu godziny. Jeśli źródłowy adres IP jest lokalnym serwerem poczty e-mail, który należy do Ciebie, sprawdź konfigurację łącznika przepływu poczty. Jeśli to zachowanie będzie kontynuowane przez ponad godzinę, skontaktuj się z pomocą techniczną, aby poprosić o podanie wyjątku dla źródłowego adresu IP.
+Blokowanie wiadomości e-mail ze źródłowego adresu IP wygaśnie w ciągu godziny. Jeśli źródłowy adres IP należy do Ciebie, sprawdź konfigurację łącznika przepływu poczty e-mail. Jeśli zachowanie trwa dłużej niż godzinę, skontaktuj się z pomocą techniczną, aby zażądać wyjątku dla źródłowego adresu IP.

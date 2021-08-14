@@ -1,5 +1,5 @@
 ---
-title: Automatyczne podsumowanie wiadomości e-mail w programie SharePoint
+title: SharePoint Automatyczna podsumowanie wiadomości e-mail
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: f6d682947f1184c4576fca9d972da8c4cd48ae2d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6f724b73c292ca85d694eee715d435556d9cdfc9af3c9b99ddea1e094f3d16a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831204"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942179"
 ---
-# <a name="sharepoint-auto-digest-email"></a>Automatyczne podsumowanie wiadomości e-mail w programie SharePoint
+# <a name="sharepoint-auto-digest-email"></a>SharePoint Automatyczna podsumowanie wiadomości e-mail
 
-Automatyczne podsumowanie wiadomości w programie SharePoint wysyła automatyczne wiadomości e-mail do użytkowników w Firmie z informacjami o najnowszych wpisach z wiadomościami, które jeszcze nie zostały przeczytane, które są dla nich istotne.
+SharePoint Funkcja Auto-News Digest wysyła automatyczne wiadomości e-mail do użytkowników w Twojej firmie z najnowszymi wpisami z wiadomościami, które jeszcze nie zostały przeczytane, które są dla nich istotne.
 
 Aby uzyskać więcej informacji, odwiedź stronę [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- Identyfikator planu platformy Microsoft 365:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- Microsoft 365 Identyfikator planu: [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
 - Chronometraż: Klienci wydani kierowane w połowie lipca **(wcześniej** czerwiec i ukończeni dla wszystkich klientów do połowy sierpnia **(wcześniej na początku sierpnia).**
 - Rzutnie: rzutnie na użytkownika
 - Typ kontrolki: Kontrola użytkownika, **Kontrolka administratora za pośrednictwem programu PowerShell (już wkrótce)

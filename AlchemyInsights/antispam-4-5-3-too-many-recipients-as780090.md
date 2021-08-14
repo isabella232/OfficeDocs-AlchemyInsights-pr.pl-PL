@@ -1,5 +1,5 @@
 ---
-title: 1049 AntiSpam 4.5.3 zbyt dużo adresatów (AS780090)
+title: 1049 AntiSpam 4.5.3 Zbyt wielu adresatów (AS780090)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1049"
 - "3100024"
 ms.assetid: fa3d4be9-c90a-4926-9754-4b708b038bf6
-ms.openlocfilehash: deb57e6e872ce5769a339c7d130a63a8e90ab4c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f187674294a8fd64b164697946ac0366b41f30894478fba3f37843730f445d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717803"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932722"
 ---
-# <a name="453-too-many-recipients-as780090"></a>4.5.3 zbyt wielu adresatów (AS780090)
+# <a name="453-too-many-recipients-as780090"></a>4.5.3 Zbyt wielu adresatów (AS780090)
 
-Ten błąd występuje, gdy głośność ruchu e-mail ze źródłowego adresu IP przekracza limit na podstawie reputacji (lub brak reputacji) źródłowego adresu IP.
+Ten błąd występuje, gdy ilość ruchu e-mail ze źródłowego adresu IP przekracza limit w zależności od reputacji (lub braku reputacji) źródłowego adresu IP.
 
-Zablokowanie wiadomości e-mail ze źródłowego adresu IP wygaśnie w ciągu godziny. Jeśli źródłowy adres IP jest lokalnym serwerem poczty e-mail, który należy do Ciebie, sprawdź konfigurację łącznika przepływu poczty. Jeśli to zachowanie będzie kontynuowane przez ponad godzinę, skontaktuj się z pomocą techniczną, aby poprosić o podanie wyjątku dla źródłowego adresu IP.
+Blokowanie wiadomości e-mail ze źródłowego adresu IP wygaśnie w ciągu godziny. Jeśli źródłowy adres IP należy do Ciebie, sprawdź konfigurację łącznika przepływu poczty e-mail. Jeśli zachowanie trwa dłużej niż godzinę, skontaktuj się z pomocą techniczną, aby zażądać wyjątku dla źródłowego adresu IP.

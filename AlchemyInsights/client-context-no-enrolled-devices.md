@@ -1,5 +1,5 @@
 ---
-title: Kontekst klienta — brak zarejestrowanych urządzeń
+title: Kontekst klienta — bez zarejestrowanych urządzeń
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "2630"
-ms.openlocfilehash: 99e882467bdfceab4226399d3bea3950192817d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a5738d933ebe63d6ffb7e1a1008b6e3d5ea2ad47f453a4aa0028e566f344ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681342"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930549"
 ---
-# <a name="client-context---no-enrolled-devices"></a>Kontekst klienta — brak zarejestrowanych urządzeń
+# <a name="client-context---no-enrolled-devices"></a>Kontekst klienta — bez zarejestrowanych urządzeń
 
-Twoja dzierżawa nie ma zarejestrowanych urządzeń z usługą zarządzania urządzeniami przenośnymi (MDM) za pomocą usługi Intune. Jeśli chcesz zarejestrować swoje urządzenia i zarządzać nimi za pośrednictwem usługi Intune MDM, zapoznaj się [z dokumentacją](https://docs.microsoft.com/intune/device-enrollment) dotyczącą wybranej platformy. Jeśli korzystasz z funkcji oprogramowania MDM lub tylko ochrona aplikacji w innych firmach, nie może być konieczne wykonanie jakiejkolwiek akcji. 
+Dzierżawa nie ma zarejestrowanych urządzeń do zarządzania urządzeniami przenośnymi (MDM) za pomocą usługi Intune. Jeśli chcesz zarejestrować swoje urządzenia i zarządzać nimi za pośrednictwem usługi Intune MDM, przejrzyj dokumentację [tutaj](https://docs.microsoft.com/intune/device-enrollment) dla odpowiedniej platformy. Jeśli korzystasz z usługi MDM innej firmy lub tylko funkcji ochrony aplikacji, nie może być konieczne żadne działanie. 
