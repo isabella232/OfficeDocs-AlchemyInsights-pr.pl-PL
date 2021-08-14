@@ -1,5 +1,5 @@
 ---
-title: Dodatek Dynamics 365 Forms — reguły biznesowe — reguła biznesowa nie jest wyzwalana dla formularza
+title: Reguły biznesowe formularzy usługi Dynamics 365 — nie można odtworzyć reguły biznesowej dla formularza
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 2b42b007d8eecc65f098f71b5af7decd19aab505
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 085656b40cab5c918e58a821db9ad8399aa37cda871c00a7ed51411c4b733576
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711465"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947237"
 ---
-# <a name="business-rule-not-firing-for-a-form"></a>Reguła biznesowa niewyzwalana dla formularza
+# <a name="business-rule-not-firing-for-a-form"></a>Reguła biznesowa nie będzie zwalniana w przypadku formularza
 
-Nie można wykonać reguły biznesowej, ponieważ pole, do którego odwołuje się reguła biznesowa, nie jest dołączone do formularza. Aby uzyskać więcej informacji, zobacz [czy reguła biznesowa nie jest wyzwalana dla formularza?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).
+Reguła biznesowa może nie zostać wykonany, ponieważ pole, do których odwołuje się reguła biznesowa, nie jest zawarte w formularzu. Aby uzyskać więcej informacji, zobacz Czy reguła biznesowa nie jest [zwalniana w przypadku formularza?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).

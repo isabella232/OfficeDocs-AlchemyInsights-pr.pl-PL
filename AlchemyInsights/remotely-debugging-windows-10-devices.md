@@ -1,5 +1,5 @@
 ---
-title: Wprowadzenie do zdalnego debugowania urządzeń z systemem Windows 10
+title: Wprowadzenie do zdalnego debugowania dla Windows 10 przenośnych
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6980"
 - "10188"
 - "9005827"
-ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 829f8edc6c1d9887f157f503071aa7cab2f334ed34d66765042a42a4d7d97113
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398574"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959405"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Wprowadzenie do zdalnego debugowania urządzeń z systemem Windows 10
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Wprowadzenie do zdalnego debugowania dla Windows 10 przenośnych
 
-Aby zdalnie debugować zawartość na żywo na urządzeniu z systemem Windows 10 na komputerze z systemem Windows lub macOS:
+Aby zdalnie debugowanie zawartości na żywo na Windows 10 z komputera z systemem Windows lub macOS:
 
-1. Skonfiguruj na urządzeniu z systemem Windows 10 debugowanie zdalne, a następnie połącz się z nim z komputera programowego.
-2. Sprawdzanie i debugowanie zawartości na żywo na urządzeniu z systemem Windows 10 na komputerze programistyki.
-3. Zawartość zrzutu ekranu z urządzenia z systemem Windows 10 do wystąpienia narzędzia DevTools na komputerze programistyki.
+1. Skonfiguruj na urządzeniu Windows 10 do zdalnego debugowania, a następnie połącz się z nim z komputera programowego.
+2. Sprawdzanie i debugowanie zawartości na żywo na Windows 10 na komputerze programistyki.
+3. Screencast content from your Windows 10 device onto a DevTools instance on your development machine.
 
-Aby dowiedzieć się więcej, zobacz Wprowadzenie do zdalnego debugowania urządzeń z [systemem Windows 10 przy użyciu programu Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142172)
+Aby dowiedzieć się więcej, zobacz [Wprowadzenie debugowania zdalnego na Windows 10 przy użyciu aplikacji Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142172)

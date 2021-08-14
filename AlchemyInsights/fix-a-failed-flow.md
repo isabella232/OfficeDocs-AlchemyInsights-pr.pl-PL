@@ -1,5 +1,5 @@
 ---
-title: Naprawianie nieudanych przepływów
+title: Naprawianie przepływu, który nie powiodło się
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: 4d94055ca7cbf892d0818076c7a75fc033ebce5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3deb6062b5359924e15dff61b8eedd4be1ce00afe24027cd9917271bd5bbe48d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730205"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945977"
 ---
-# <a name="fix-a-flow-that-failed"></a>Naprawianie nieudanego przepływu
+# <a name="fix-a-flow-that-failed"></a>Naprawianie przepływu, który nie powiódł się
 
-1. Przejdź do obszaru [Microsoft Flow](https://flow.microsoft.com/), a następnie kliknij ikonę powiadomienia w prawym górnym rogu. (Lub w aplikacji mobilnej wybierz kartę aktywność). Wybierz przepływ, którego szczegóły nie podano.
+1. Przejdź do [Microsoft Flow](https://flow.microsoft.com/), a następnie kliknij ikonę Powiadomienia w prawym górnym rogu. (Lub w aplikacji mobilnej wybierz kartę Aktywność). Wybierz przepływ, który nie został przyjrzyny szczegółom.
     
-2. Aby wyświetlić komunikat o błędzie dla przepływu, Znajdź krok z czerwoną wykrzyknikiem.
+2. Znajdź krok z czerwoną ikoną wykrzyknika, aby wyświetlić komunikat o błędzie przepływu.
     
-3. W zależności od komunikatu o błędzie powinno być możliwe edytowanie przepływu i poprawianie go. 
+3. W zależności od komunikatu o błędzie należy edytować przepływ i go poprawić. 
     
 [Typowe błędy przepływu](https://go.microsoft.com/fwlink/?linkid=872110)
   
