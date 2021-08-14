@@ -1,5 +1,5 @@
 ---
-title: Outlook.com spersonalizowany adres e-mail nie jest wysyłany ani odbierany
+title: Outlook.com spersonalizowany adres e-mail nie wysyła ani nie otrzymuje
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,19 +10,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
-ms.openlocfilehash: cf35047c58e9b41359a5b1a92f3be494eefde455
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59ffadb8ef79594c1e0a1933038cc8c923594a30a67678aed36aa62cf174c3aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096020"
 ---
-# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Mój spersonalizowany adres e-mail Outlook.com nie jest wysyłany ani odbierany
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Mój spersonalizowany Outlook.com nie wysyła ani nie otrzymuje
 
-Wybierz ikonę rombu na pasku narzędzi, aby otworzyć pulpit nawigacyjny Premium.
+Wybierz ikonę rombu na pasku narzędzi, aby otworzyć pulpit nawigacyjny premium.
 
-Jeśli nie widzisz ikony rombu w skrzynce odbiorczej (i widzisz pozycję ads), oznacza to, że Twoja subskrypcja produktu Microsoft 365 wygasła. Przejdź do  [https://account.microsoft.com/services](https://account.microsoft.com/services) , aby ponownie aktywować subskrypcję, a następnie ponownie podłącz domenę, wykonując czynności opisane w artykule Rozpoczynanie pracy.
+Jeśli nie widzisz ikony rombu w skrzynce odbiorczej (ale widzisz za to reklamy), oznacza to, że Twoja Microsoft 365 wygasła. Przejdź do [https://account.microsoft.com/services](https://account.microsoft.com/services) tematu Ponowne aktywowanie subskrypcji, a następnie ponownie połącz domenę, korzystając z procedury opisanej we "Wstąp".
 
-Jeśli na karcie "spersonalizowany adres e-mail" znajduje się czerwony pasek stanu, Twoja domena mogła wygasnąć.
+Jeśli karta "Spersonalizowany adres e-mail" ma czerwony pasek stanu, oznacza to, że domena mógł wygasnąć.
 
-Więcej kroków dotyczących rozwiązywania problemów można znaleźć na [spersonalizowanych adresach e-mail w programie Microsoft 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).
+Przeczytaj więcej kroków rozwiązywania problemów dotyczących [spersonalizowanych adresów e-mail w Microsoft 365.](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy)

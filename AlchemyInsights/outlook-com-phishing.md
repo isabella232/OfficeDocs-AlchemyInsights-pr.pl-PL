@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z phishingiem w Outlook.com
+title: Postępowanie z wyłudzaniem informacji w Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: c678710c49366d77f7ef8ea3f0b0c02dc252529d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ecd2b35824b6ef5c3655ff88a9c93ab2abe03084c891b10a40c5dacd02818d57
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798242"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095912"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>Jak postępować w wiadomościach e-mail dotyczących wyłudzania informacji
+# <a name="how-to-deal-with-a-phishing-email"></a>Jak poradzić sobie z wiadomością wyłudzającą informacje
 
-Phishing to wiadomość e-mail, która jest nielegalna, ale w rzeczywistości próbuje ukraść dane osobowe lub pieniądze. Oszustów może również użyć techniki o nazwie fałszowanie, aby wyglądała tak jak w przypadku odebrania wiadomości e-mail od siebie.
+Wiadomość wyłudzająca informacje wygląda na legalną, ale w rzeczywistości ma na celu kradzież danych osobowych lub pieniędzy. Oszuści mogą również użyć techniki nazywanej spoofingem, aby wyglądało to tak, jakby otrzymano od siebie wiadomość e-mail.
 
-Jeśli otrzymasz wiadomość e-mail z informacją o phishingu, możesz ją zgłosić, wybierając wiadomość, a następnie wybierając wiadomości **-śmieci**  >  **Phishing**.
+Jeśli otrzymasz wiadomość e-mail, która wygląda jak wiadomość wyłudzająca informacje, możesz zgłosić to, zaznaczając wiadomość, a następnie wybierając pozycję Wyłudzanie **informacji-śmieci.**  >  
 
-*Uwaga:* Po oznaczeniu wiadomości jako phishingu jest ona tylko raportem wysyłanym przez nadawcę.Nie blokuje tego nadawcy od wysyłania wiadomości do Ciebie w przyszłości. Aby zablokować nadawcę, musisz dodać nadawcę do listy zablokowanych nadawców. Aby uzyskać więcej informacji, zobacz [blokowanie nadawców lub odblokowywanie nadawców w programie Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+*Uwaga:* Oznaczenie wiadomości jako próby wyłudzenia informacji oznacza tylko nadawcę. Nie zablokowało to nadawcy wysyłania do Ciebie wiadomości w przyszłości. Aby zablokować nadawcę, musisz dodać go do listy zablokowanych nadawców. Aby uzyskać więcej informacji, zobacz Blokowanie i odblokowywanie nadawców w [Outlook.com.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Dowiedz się, jak [zaradzić sobie z nadużyciami, phishingiem lub fałszowaniem w usłudze Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) oraz [Zaawansowane zabezpieczenia Outlook.com dla subskrybentów Microsoft 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
+Dowiedz się, jak poradzić sobie z [nadużyciami,](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) wyłudzaniem informacji i fałszerniem w witrynach Outlook.com i zaawansowanymi zabezpieczeniami witryny Outlook.com dla Microsoft 365 [subskrybentów.](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)

@@ -1,5 +1,5 @@
 ---
-title: Problemy z wiadomościami-śmieciami, które mogą pochodzić z serwisu LinkedIn
+title: Problemy z wiadomościami-śmieciami, które podszywują się pod serwis LinkedIn
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1276"
 - "8000079"
-ms.openlocfilehash: eab7f1434160b8b2b3a754235b4ea58870dc0003
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cd25e36817a9c5193a483a34d9aea1f209e8e7971c180772b32a9552ee67222
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799466"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095984"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemy z wiadomościami-śmieciami, które mogą pochodzić z serwisu LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemy z wiadomościami-śmieciami, które podszywują się pod serwis LinkedIn
 
-Zdajemy sobie sprawę, że niektórym użytkownikom odbiera wiadomości-śmieci, które zgłaszają się z serwisu LinkedIn.
+Zdajemy sobie sprawę, że niektórzy użytkownicy otrzymują wiadomości-śmieci, które , jak się podaje, pochodzi z serwisu LinkedIn.
 
-Zalecamy używanie reguły skrzynki odbiorczej do filtrowania tych wiadomości e-mail.
+Zalecamy filtrowanie tych wiadomości e-mail przy użyciu reguły skrzynki odbiorczej.
 
-Aby uzyskać więcej informacji, zobacz [Korzystanie z reguł skrzynki odbiorczej w programie Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).
+Aby uzyskać więcej informacji, przeczytaj, jak [używać reguł skrzynki odbiorczej w Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
