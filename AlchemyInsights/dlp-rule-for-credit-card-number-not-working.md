@@ -13,48 +13,48 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: d5dd6354e7a1bcbb7f2fb917952ddbee5077e88d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd4f200233d5571fc7b01576038e7b3951a07716a7d5948005418d2896291ee5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005100"
 ---
-# <a name="dlp-issues-with-credit-card-numbers"></a>Problemy dotyczące DLP z numerami kart kredytowych
+# <a name="dlp-issues-with-credit-card-numbers"></a>Problemy z DLP dotyczące numerów kart kredytowych
 
 **Ważne**: w tych niespotykanych czasach podejmujemy kroki zapewniające stałą wysoką dostępność usług SharePoint Online i OneDrive. Aby uzyskać więcej informacji, zapoznaj się z [tymczasowymi zmianami funkcji usługi SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Problemy dotyczące DLP z numerami kart kredytowych**
+**Problemy z DLP dotyczące numerów kart kredytowych**
 
-Czy problemy związane z **zapobieganiem utracie danych (DLP)** nie działają w przypadku zawartości zawierającej **numer karty kredytowej** przy użyciu informacji poufnych dla DLP w usłudze Office 365? Jeśli tak, upewnij się, że zawartość zawiera potrzebne informacje, aby wyzwolić zasady DLP podczas jej szacowania. Na przykład w przypadku **zasad dotyczących karty kredytowej** skonfigurowanych z poziomem ufności 85% obliczane są następujące wartości, które muszą zostać wykryte, aby reguła była wyzwalana:
+Czy masz problemy z zapobieganiem utracie danych **(DLP, Data Loss Prevention)** nie działa w przypadku zawartości zawierającej numer karty kredytowej podczas korzystania z typu informacji poufnych związanych z zapobieganiem utracie danych w u usługi O365?  Jeśli tak, upewnij się, że zawartość zawiera informacje potrzebne do uruchomienia zasad DLP podczas ich oceny. Na przykład w  przypadku zasad karty kredytowej skonfigurowanych z poziomem ufności 85% następujące zasady są sprawdzane i muszą zostać wykryte, aby uruchamiała regułę:
   
-- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 cyfr, które mogą być formatowane lub niesformatowane (dddddddddddddddd) i muszą przebiegać test LUHN.
+- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 cyfr, które mogą być sformatowane lub niesformatowane (ddddddddd) i muszą przejść test Luhna.
 
-- **[Wzorzec:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Bardzo skomplikowany i niezawodny deseń wykrywający karty ze wszystkich głównych marek na całym świecie, w tym karty Visa, MasterCard, Discover Card, JCB, American Express, karty upominkowe i karty Diner.
+- **[Wzorzec:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Bardzo złożony i niezawodny wzór, który wykrywa karty od wszystkich głównych marek na całym świecie, w tym Visa, MasterCard, Discover Card, JCB, American Express, bony upominkowe i karty wyeksłowe.
 
-- **[Suma kontrolna:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Tak, suma kontrolna LUHN
+- **[Sumy kontrolne:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Tak, w przypadku sumy kontrolnej Luhna
 
-- **[Definicja:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** Zasady DLP to 85% pewności, że wykryto ten typ poufnych informacji, jeśli w pobliżu 300 znaków:
+- **[Definicja:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** Zasady DLP mają 85% pewności, że wykrywane są tego typu informacje poufne, jeśli w odległości 300 znaków:
 
-  - Funkcja Func_credit_card umożliwia Znajdowanie zawartości zgodnej ze wzorcem.
+  - Funkcja Func_credit_card znajdzie zawartość, która pasuje do wzorca.
 
-  - Jest spełniony co najmniej jedna z następujących warunków:
+  - Prawdziwe jest jedno z następujących argumentów:
 
-  - Znaleziono słowo kluczowe from Keyword_cc_verification.
+  - Słowo kluczowe z Keyword_cc_verification znajduje się.
 
-  - Znaleziono słowo kluczowe z Keyword_cc_name
+  - Słowo kluczowe z Keyword_cc_name znajduje się
 
-  - Funkcja Func_expiration_date umożliwia znalezienie daty w prawidłowym formacie daty.
+  - Funkcja Func_expiration_date znajdzie datę w odpowiednim formacie daty.
 
-  - Przekazanie sumy kontrolnej
+  - Sumy kontrolne przechodzą przez
 
-    Na przykład w przypadku numeru karty kredytowej DLP jest wyzwalana następująca przykład:
+    Na przykład następująca próbka może spowodować uruchomienie zasad numerowania kart kredytowych DLP:
 
-  - Wiza: 4485 3647 3952 7352
+  - Visa: 4485 3647 3952 7352
   
-  - Wygasa: 2/2009
+  - Wygasa: 2009-02-02
 
-Aby uzyskać więcej informacji na temat tego, co jest wymagane do wykrycia **numeru karty kredytowej** dla zawartości, zobacz poniższą sekcję w tym artykule: co to są [typy informacji wrażliwych na typ karty kredytowej #](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
+Aby uzyskać więcej informacji na  temat tego, co jest wymagane, aby numer karty kredytowej był wykrywany dla zawartości, zobacz następującą sekcję w tym artykule: Typy informacji poufnych mają wartość Karta [kredytowa#](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   
-Korzystając z innego wbudowanego typu informacji poufnych, zobacz następujący artykuł, aby uzyskać informacje o tym, co jest wymagane dla innych typów: [czego szukają typy informacji wrażliwych](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions) .
+Informacje wymagane dla innych typów można znaleźć w następującym artykule, w którym podano informacje o innych [typach:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions) Typy informacji poufnych
   

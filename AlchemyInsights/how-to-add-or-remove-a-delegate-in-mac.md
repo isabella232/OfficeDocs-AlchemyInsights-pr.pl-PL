@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7336"
-ms.openlocfilehash: 631a1202eca985db93c31dbedca520674b06095e
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 90f9083d65a93cb6fc4f5ea3b8c1b378e209dc3a4500a29dbab04ef958ea93c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583688"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945383"
 ---
 # <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Jak dodać lub usunąć pełnomocnika na komputerze Mac
 
 Aby dodać lub usunąć pełnomocnika na komputerze Mac, wykonaj następujące czynności:
 
-**Jak dodać pełnomocnika na komputerze Mac**:
+**Jak dodać pełnomocnika na komputerze Mac:**
 
-1. W menu **Narzędzia** wybierz pozycję **konta**.
-1. Wybierz konto serwera Exchange, którego chcesz użyć w celu uzyskania dostępu do elementów delegowanych, kliknij pozycję **Zaawansowane**, a następnie kliknij pozycję **pełnomocnicy**.
-1. W obszarze **osoby, dla których jestem pełnomocnikiem** kliknij pozycję **Dodaj**. .
+1. Z menu **Narzędzia** wybierz pozycję **Konta.**
+1. Wybierz konto Exchange, które będzie używać do uzyskiwania dostępu do elementów delegowanych, kliknij pozycję Zaawansowane **,** a następnie kliknij pozycję **Pełnomocni.**
+1. W **obszarze Osoby, których jestem pełnomocnikiem** kliknij pozycję **Dodaj**. .
 1. Wpisz imię i nazwisko osoby, która dodała Cię jako pełnomocnika.
-1. Wybierz imię i nazwisko osoby w wynikach wyszukiwania, a następnie kliknij przycisk **Dodaj**.
+1. Wybierz imię i nazwisko osoby w wynikach wyszukiwania, a następnie kliknij pozycję **Dodaj**.
  
-**Jak usunąć pełnomocnika w systemie Mac**:
+**Jak usunąć pełnomocnika na komputerze Mac:**
 
-1. W menu **Narzędzia** wybierz pozycję **konta**.
-1. Wybierz konto programu Exchange, które chcesz zmienić, kliknij pozycję **Zaawansowane**, a następnie kliknij pozycję * * * *.
-1. W obszarze **osoby, dla których jestem pełnomocnikiem** wybierz osobę, dla której chcesz przestać być pełnomocnikiem, a następnie kliknij przycisk **Usuń**.
+1. Z menu **Narzędzia** wybierz pozycję **Konta.**
+1. Wybierz konto Exchange, które chcesz zmienić, kliknij pozycję **Zaawansowane**, a następnie kliknij kartę ****Pełnomocni.
+1. W **obszarze Osoby, których jestem pełnomocnikiem** wybierz osobę, dla której nie chcesz już być pełnomocnikiem, a następnie kliknij pozycję **Usuń**.

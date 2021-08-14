@@ -1,5 +1,5 @@
 ---
-title: Reguła DLP dla numeru PESEL nie działa
+title: Reguła DLP dla SSN nie działa
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,44 +13,44 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: b221e66862ca01074f380fbb8433f8f9cac044cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f30998fb3bc4c5442e4e1541b87d88ecd7df6eef3a50e719fa5014eb86af39c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679379"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004992"
 ---
-# <a name="dlp-issues-with-social-security-numbers"></a>Problemy dotyczące DLP z numerami PESEL
+# <a name="dlp-issues-with-social-security-numbers"></a>Problemy w zakresie ochrony przed zagrożeniami (DLP) dotyczące numerów PESEL
 
 **Ważne**: w tych niespotykanych czasach podejmujemy kroki zapewniające stałą wysoką dostępność usług SharePoint Online i OneDrive. Aby uzyskać więcej informacji, zapoznaj się z [tymczasowymi zmianami funkcji usługi SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Problemy z aplikacją DLP SSNs**
+**Problemy dotyczące DLP związane z sieciami SSN**
 
-Czy występują problemy z **zapobieganiem utracie danych (DLP)** nie działają w przypadku zawartości zawierającej **numer PESEL (SSN)** , gdy jest używany typ informacji wrażliwych w programie Microsoft 365? Jeśli tak, upewnij się, że zawartość zawiera potrzebne informacje dotyczące działania zasad DLP. 
+Czy masz problemy z zapobieganiem utracie danych **(DLP, Data Loss Prevention)** nie działa w przypadku zawartości zawierającej numer **PE** PESZ podczas korzystania z typu informacji poufnych w programie Microsoft 365? Jeśli tak, upewnij się, że zawartość zawiera niezbędne informacje na temat zasad DLP. 
   
-Na przykład w przypadku zasad SSN skonfigurowanych z poziomem ufności 85% obliczane są następujące wartości, które muszą zostać wykryte, aby reguła była wyzwalana:
+Na przykład w przypadku zasad SSN skonfigurowanych z poziomem ufności 85%, następujące zasady są sprawdzane i należy je wykrywać, aby reguła wyzwalała:
   
-- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 cyfr, które mogą znajdować się w sformatowanym lub niesformatowanym deseniu
+- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 cyfr, które mogą być sformatowane lub niesformatowane
 
-- **[Wzorzec:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Cztery funkcje Szukaj SSNs w czterech różnych wzorach:
+- **[Wzorzec:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Cztery funkcje szukają sieci SSN w czterech różnych wzorcach:
 
-  - Func_ssn odnajduje SSNs przy użyciu funkcji 2011 wcześniejszego formatowania, które są sformatowane za pomocą kresek lub spacji (DDD-DD-dddd lub DDD DD dddd)
+  - Func_ssn umożliwia znalezienie ssnów o formatowaniu silnych danych przed 2011 r. sformatowanych za pomocą kresek lub spacji (ddd-dd-dddd OR ddd dddd)
 
-  - Func_unformatted_ssn znajduje SSNs o silnym formatowaniu sprzed 2011, które nie są sformatowane jako dziewięć kolejnych cyfr (ddddddddd)
+  - Func_unformatted_ssn umożliwia znalezienie ssnów z formatowaniem znaczącym przed 2011 erą, które są niesformatowane jako dziewięć kolejnych cyfr (dddddddddd)
 
-  - Func_randomized_formatted_ssn znajduje znaki post-2011 SSNs, które są sformatowane za pomocą kresek lub spacji (DDD-DD-dddd lub DDD DD dddd)
+  - Func_randomized_formatted_ssn umożliwia znalezienie po 2011 r. SNS sformatowanych za pomocą kresek lub spacji (ddd-dd-dddd OR ddd dddd)
 
-  - Func_randomized_unformatted_ssn znajduje znaki post-2011 SSNs, które nie są sformatowane jako dziewięć kolejnych cyfr (ddddddddd)
+  - Func_randomized_unformatted_ssn umożliwia znalezienie po 2011 r. numerów SSN, które są niesformatowane jako dziewięć następujących po sobie cyfr (dddddddddd)
 
-- **[Suma kontrolna:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** Nie, nie ma żadnej sumy kontrolnej
+- **[Sumy kontrolne:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** Nie, nie ma żadnej sumy kontrolnej
 
-- **[Definicja:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** Zasady DLP to 85% pewności, że wykryto ten typ poufnych informacji, jeśli w pobliżu 300 znaków:
+- **[Definicja:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** Zasady DLP mają 85% pewności, że wykrywane są tego typu informacje poufne, jeśli w odległości 300 znaków:
 
-  - [Funkcja Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) umożliwia Znajdowanie zawartości zgodnej ze wzorcem.
+  - Funkcja [Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) umożliwia znalezienie zawartości, która pasuje do wzorca.
 
-  - Znaleziono słowo kluczowe from [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) . Przykłady słów kluczowych:  *zabezpieczenia społecznego, ubezpieczenie społeczne, #, SOC SEC, SSN*  . Na przykład poniższa przykład wywoła zasady SSN dla DLP: **SSN: 489-36-8350**
+  - Słowo kluczowe z [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) znajduje się. Przykładowe słowa kluczowe to:  *Ubezpieczenia społecznego, Ubezpieczenia Społecznego#, Soc S, SSN*  . Na przykład następująca próbka powoduje uruchomienie zasad DLP **SSN: SSN: 489-36-8350**
   
-Aby uzyskać więcej informacji na temat tego, co jest wymagane, aby SSNs został wykryty dla zawartości, zobacz poniższą sekcję w tym artykule: co to są [typy informacji wrażliwych na SSNs](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
+Aby uzyskać więcej informacji na temat tego, co jest wymagane, aby sieci SSNs zostały wykryte dla Twojej zawartości, zobacz następującą sekcję w tym artykule: Co typ informacji poufnych ma dla [tych](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn) typów.
   
-Korzystając z innego wbudowanego typu informacji poufnych, zobacz następujący artykuł, aby uzyskać informacje o tym, co jest wymagane dla innych typów: [czego szukają typy informacji wrażliwych](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions) .
+Informacje wymagane dla innych typów można znaleźć w następującym artykule, w którym podano informacje o innych [typach:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions) Typy informacji poufnych
   

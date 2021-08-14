@@ -1,5 +1,5 @@
 ---
-title: Klucz produktu programu Power BI Report Server
+title: Serwer raportów usługi Power BI Klucz produktu
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: 5dbb7121638f56587e3e8fb065fce74da4005c94
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bdc5b186e8de2c2b7c4f84ebd852520ac28274eb3f1baf0dba568cdb6d10e579
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800692"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973275"
 ---
-# <a name="power-bi-report-server-product-key"></a>Klucz produktu programu Power BI Report Server
+# <a name="power-bi-report-server-product-key"></a>Serwer raportów usługi Power BI klucza produktu
 
-Jeśli zakupiono usługę Power BI Premium, na karcie **Ustawienia premium** w portalu administracyjnym usługi Power BI masz dostęp do klucza produktu programu Power BI Report Server. Ta usługa jest dostępna tylko dla administratorów globalnych lub użytkowników z przypisaną rolą administratora usługi Power BI.
+Jeśli zakupiono usługę Power BI Premium, na **karcie** Premium w portalu administracyjnym usługi Power BI masz dostęp do klucza Serwer raportów usługi Power BI produktu. Ta usługa jest dostępna tylko dla administratorów globalnych lub użytkowników z przypisaną Power BI administratora usługi.
 
-Wybranie **klawisza Serwera raportów usługi Power BI** powoduje wyświetlenie okna dialogowego zawierającego klucz produktu. Możesz go skopiować i używać razem z instalacją.
+Wybranie **Serwer raportów usługi Power BI produktu** powoduje wyświetlenie okna dialogowego zawierającego klucz produktu. Możesz go skopiować i używać razem z instalacją.
 
 Jeśli masz umowę SQL Server Enterprise SA, możesz uzyskać klucz produktu z centrum [Volume Licensing Service Center.](https://www.microsoft.com/Licensing/servicecenter/)
 

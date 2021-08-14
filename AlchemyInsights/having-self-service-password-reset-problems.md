@@ -1,5 +1,5 @@
 ---
-title: Masz problemy z resetowaniem hasła samoobsługowego (SSPR)?
+title: Masz problemy z samodzielnym resetowaniem hasła (SSPR)?
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "7663"
-ms.openlocfilehash: 4f1f94be299c980a6a359d727fb24f411f98b785
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: bd76ae6b2ce140fd8feb490a5fffe1baa36598e7650107f176baec30d71b8628
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722038"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945860"
 ---
-# <a name="having-self-service-password-reset-sspr-problems"></a>Masz problemy z resetowaniem hasła samoobsługowego (SSPR)?
+# <a name="having-self-service-password-reset-sspr-problems"></a>Masz problemy z samodzielnym resetowaniem hasła (SSPR)?
 
-Typowe problemy polegające na samoobsługowym resetowaniu hasła (SSPR) w chmurze hybrydowej i środowisku lokalnym są następujące:
+Typowe problemy z samodzielnego resetowania hasła (SSPR) w chmurze hybrydowej i środowiskach lokalnych to:
 
-- [Funkcja zapisywania zwrotnego hasła SSPR nie jest włączona](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
-- [Licencja Azure AD Premium nie przypisana](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
-- Problemy z [siecią](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity) [Azure AD](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors)
-- [Metody uwierzytelniania SSPR nie są zarejestrowane](https://mysignins.microsoft.com/security-info)
-- [Nieobsługiwane scenariusze stornowania](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) , takie jak centrum administracyjne Microsoft 365 lub Administratorzy przy użyciu SSPR
+- [Funkcja zapisu hasła SSPR nie jest włączona](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
+- [Nie przypisano licencji Premium usługi Azure AD](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
+- [Problemy z sieciami Połączenie usługi Azure AD](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) [](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
+- [Metody SSPR Authentication not registered](https://mysignins.microsoft.com/security-info)
+- [Nieobsługiwane scenariusze zapisu,](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) takie jak centrum Administracja Microsoft 365 lub administratorzy korzystający z usług SSPR
 
 
-Aby uzyskać więcej informacji, zobacz:
+Więcej informacji można znaleźć w następujących artykułach:
 
-- [Rozwiązywanie problemów dotyczących samoobsługowego resetowania hasła](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
-- [Rozwiązywanie problemów dotyczących samoobsługowego resetowania hasła w usłudze Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
+- [Rozwiązywanie problemów z samodzielnego resetowania hasła](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
+- [Rozwiązywanie problemów z samodzielnego resetowania hasła w programie Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)

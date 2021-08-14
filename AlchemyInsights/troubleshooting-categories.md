@@ -1,5 +1,5 @@
 ---
-title: 604 kategorie rozwiązywania problemów
+title: 604 Kategorie rozwiązywania problemów
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: 4c06a6e1ddd333fff147912ac37a339574da4c9a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2ca842df04a7d4b702606d57757192ffe328cad79f3f5a07abc450f8ff92288
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690000"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972537"
 ---
-# <a name="outlook-categories"></a>Kategorie programu Outlook
+# <a name="outlook-categories"></a>Outlook kategorie
 
-Kategorie dotyczą tylko elementów w kalendarzu. W przypadku zastosowania kategorii oznaczonej kolorem do wezwania na spotkanie lub spotkania otrzymanego od innej osoby kategoria oznaczona kolorem będzie widoczna tylko w kalendarzu.  W przypadku zastosowania kategorii oznaczonej kolorem do udostępnionej skrzynki pocztowej, delegata Skrzynka pocztowa, Grupa Skrzynka pocztowa, Skrzynka pocztowa itp. kategoria oznaczona kolorem wpływa tylko na widok.
+Kategorie dotyczą tylko elementów w kalendarzu. W przypadku zastosowania kategorii kolorowej do wezwanie na spotkanie lub spotkania otrzymanego od innej osoby ta kategoria kolorowa będzie pokazywana tylko w Twoim kalendarzu.  Jeśli do udostępnionej skrzynki pocztowej zostanie zastosowania kategoria kolorowa, skrzynka pocztowa pełnomocnika, skrzynka pocztowa grupy, skrzynka pocztowa pokoju itp. Kategoria kolorowa będzie mieć wpływ tylko na widok.
 
-Aby uzyskać więcej informacji: [Przypisywanie kategorii oznaczonej kolorem do terminu, spotkania lub wydarzenia w kalendarzu](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
+Aby uzyskać więcej informacji: [Przypisywanie kategorii kolorowej do terminu, spotkania lub zdarzenia kalendarza](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)

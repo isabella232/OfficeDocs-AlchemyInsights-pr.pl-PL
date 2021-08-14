@@ -1,5 +1,5 @@
 ---
-title: Pomoc usługi Azure Kinect DK
+title: Pomoc w przypadku usługi Azure Kinect DK
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9744"
 - "9005643"
-ms.openlocfilehash: e043a3eff39f9fcfd5adbea8a93a6c4ac792913a
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
-ms.translationtype: HT
+ms.openlocfilehash: d5277cf2be141c1e0e650c1a80593cb7e3eead0b7d33f3c51f2325abfcf618b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51122853"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945788"
 ---
-# <a name="help-with-azure-kinect-dk"></a>Pomoc usługi Azure Kinect DK
+# <a name="help-with-azure-kinect-dk"></a>Pomoc w przypadku usługi Azure Kinect DK
 
-Aby uzyskać przewodniki Szybki start dla urządzenia Azure Kinect DK (konfigurowanie, pomoc dla deweloperów), przewodniki po instrukcje i rozwiązywaniu problemów, zobacz dokumentację dotyczącą czujnika [Azure Kinect DK.](https://docs.microsoft.com/azure/kinect-dk/)
+Aby uzyskać przewodniki Szybki start dla usługi Azure Kinect DK (konfigurowanie, pomoc dla deweloperów), instrukcje i rozwiązywanie problemów, zobacz Dokumentację programu [Azure Kinect DK.](https://docs.microsoft.com/azure/kinect-dk/)
 
 
-Aby uzyskać pomoc na temat xbox Kinect, [zobacz Pomoc techniczna dla xbox Kinect.](https://www.xbox.com/Search?q=kinect&rtc=1#nav-support)
+Aby uzyskać pomoc na temat konsoli Xbox Kinect, zobacz [Pomoc techniczna dla konsoli Xbox Kinect.](https://www.xbox.com/Search?q=kinect&rtc=1#nav-support)
