@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: 02f579a6b7570037261959419a6ea9586707b76e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 3bb83a4f68c49b3d30843299e6b42b9e9b9226245ebd41e75831694b95839c46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482651"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949541"
 ---
 # <a name="create-an-email-signature-in-outlook-on-the-web"></a>Tworzenie podpisu e-mail w aplikacji Outlook w sieci Web
 
 1. Zaloguj się do aplikacji Outlook w sieci Web.
-2. Na górnym pasku narracji wybierz pozycję **Poczta**  >  **ustawień.**
-3. W **panelu Opcje** w obszarze **Poczta** wybierz pozycję **Układ** podpisu  >  **e-mail.**
+2. Na górnym pasku narracji wybierz **pozycję** Ustawienia  >  **Poczta.**
+3. W **panelu Opcje** w obszarze **Poczta** wybierz pozycję Układ **podpis**  >  **e-mail**.
 4. W polu tekstowym wpisz swój podpis i użyj dostępnych opcji formatowania, aby zmienić jego wygląd.
 
-**Porada:** Wstawianie do podpisu pliku obrazu (na przykład w formacie gif lub jpg) nie jest obsługiwane, ale możesz skopiować obraz ze strony internetowej i wkleić go w polu podpisu.
+**Porada:** Wstawianie pliku obrazu (na przykład w formacie .gif lub .jpg) do podpisu nie jest obsługiwane, ale możesz skopiować obraz ze strony internetowej i wkleić go w polu podpisu.
 
-5. Jeśli chcesz, aby podpis był wyświetlany u dołu wszystkich wychodzących wiadomości e-mail, w tym odpowiedzi i wiadomości przesyłanych dalej, wybierz pozycję Automatycznie do dołączania podpisu do nowych redagowych **wiadomości.**
-6. Kliknij przycisk **Zapisz**.
+5. Jeśli chcesz, aby podpis był wyświetlany u dołu wszystkich wychodzących wiadomości e-mail, w tym odpowiedzi i wiadomości przesyłanych dalej, wybierz pozycję Automatycznie do dołączaj mój podpis do nowych wiadomości, które **redagowane .**
+6. Kliknij **Zapisz**.
