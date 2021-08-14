@@ -1,5 +1,5 @@
 ---
-title: Włączanie i wyszukiwanie dziennika inspekcji
+title: Włączanie i przeszukiwanie dziennika inspekcji
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,38 +13,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a28e1f5bb8b5e1bff2f26c0d9e9c9c42e8324583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd451a8f08f50b7b4bff7b08ec5b54b57adc1f000eb8224112d84a4fb20e4359
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806589"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003654"
 ---
-# <a name="enable-and-search-the-audit-log"></a>Włączanie i wyszukiwanie dziennika inspekcji
+# <a name="enable-and-search-the-audit-log"></a>Włączanie i przeszukiwanie dziennika inspekcji
 
 **Microsoft 365**
 
-Aby przeszukać dziennik inspekcji programu Microsoft 365, wykonaj [poniższe czynności](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Aby przeszukać Microsoft 365 inspekcji, wykonaj [następujące czynności.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
 
 **Exchange**
 
-- Działania administracyjne programu Exchange są domyślnie poddawane inspekcji.
+- Exchange działania administratora są domyślnie insytowane.
 
-- Inspekcja skrzynek pocztowych jest domyślnie włączona w programie Microsoft 365. Aby uzyskać więcej informacji, zobacz  [ten artykuł](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing).
+- Inspekcja skrzynek pocztowych jest domyślnie włączona w programie Microsoft 365. Aby uzyskać więcej informacji, zobacz [ten artykuł.](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)
 
-- Skrzynki pocztowe grup Microsoft 365 i skrzynki pocztowe folderów publicznych w usłudze Exchange Online nie obsługują rejestrowania inspekcji.
+- Microsoft 365 Skrzynki pocztowe grup i skrzynki pocztowe folderów publicznych Exchange Online nie obsługują rejestrowania inspekcji.
 
 **SharePoint i OneDrive**
 
-- Brak dodatkowej konfiguracji wymaganej do włączenia inspekcji dla programu SharePoint i usługi OneDrive.
+- Nie ma żadnych dodatkowych konfiguracji wymaganych do włączenia inspekcji SharePoint i OneDrive.
 
-- Program SharePoint i usługa OneDrive obsługują inspekcję następujących typów działań:
+- SharePoint i OneDrive obsługuje inspekcję następujących typów działań:
 
-    - Działania dotyczące plików, folderów i stron
-    - Działania dotyczące udostępniania i żądania dostępu
+    - Działania na plikach, folderach i na stronie
+    - Działania związane z udostępnianiem i żądaniami dostępu
     - Działania administracyjne witryny
     - Działania związane z synchronizacją plików
 
-- Aby uzyskać informacje o działaniach podlegających inspekcji w innych usługach, zobacz  [tabelę w tym artykule](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Aby uzyskać informacje o działaniach w innych usługach, zobacz [tabelę w tym artykule.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities)
 
-- W tym artykule zamieszczono listę często zadawanych pytań, na których [często zadawane pytania](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) dotyczące przeszukiwania dziennika inspekcji.
+- Oto lista często zadawanych [pytań](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) dotyczących przeszukiwania dziennika inspekcji.

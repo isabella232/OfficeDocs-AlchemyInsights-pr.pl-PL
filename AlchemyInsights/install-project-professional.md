@@ -1,5 +1,5 @@
 ---
-title: Instalowanie programu Project Professional
+title: Instalowanie Project Professional
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,20 +13,20 @@ ms.assetid: ''
 ms.custom:
 - "9000695"
 - "2607"
-ms.openlocfilehash: ed6f48c8a9efb53b193812e8e8b24c2a7e5044ec
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: dfb664248234a0a9e8b7e46355f8d424523c131540245184459556dc100a4924
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708396"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014478"
 ---
-# <a name="install-project-professional"></a>Instalowanie programu Project Professional
+# <a name="install-project-professional"></a>Instalowanie Project Professional
 
-Zobacz Instalowanie programu [Project,](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) aby dowiedzieć się, jak zainstalować subskrypcję usługi Project Online i wersję programu Project 2019, 2016 lub 2013 bez subskrypcji. 
+Zobacz [Instalowanie Project,](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) aby dowiedzieć się, jak zainstalować subskrypcję pakietu Project Online i wersję pakietu Project 2019, 2016 lub 2013 bez subskrypcji. 
 
-W przypadku programu Project 2010 lub 2007 wykonaj czynności opisane w psłudze [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) lub [Office 2007.](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657) 
+W przypadku Project 2010 lub 2007 postępuj zgodnie z instrukcjami w [programie Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) lub [Office 2007.](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657) 
 
-Program Project jest sprzedawany jako aplikacja autonomiczna, więc jeśli jeszcze go nie masz, kup [lub wypróbuj program Project.](https://www.microsoft.com/evalcenter/evaluate-project) 
+Project jest sprzedawana jako aplikacja autonomiczna, więc jeśli jeszcze jej nie masz, kup lub [spróbuj Project.](https://www.microsoft.com/evalcenter/evaluate-project) 
 
 
 

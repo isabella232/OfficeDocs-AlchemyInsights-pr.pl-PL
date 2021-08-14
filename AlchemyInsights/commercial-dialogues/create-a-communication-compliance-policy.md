@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ff20ee8ac33598e6f21855a2496b730ca60fd320
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b5724b4534ec17a28ebc1747a752e5bac2f14beea58146fffd8f35fad1e07edc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747906"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995055"
 ---
 # <a name="create-a-communication-compliance-policy"></a>Tworzenie zasad zgodności komunikacji
 
-Ten krok jest wymagany. W centrum zgodności platformy Microsoft 365 możesz utworzyć zasady zgodności komunikacji. W tym celu wykonaj następujące czynności:
+Ten krok jest wymagany. W tym celu możesz utworzyć zasady zgodności komunikacji w Centrum zgodności platformy Microsoft 365. W tym celu wykonaj następujące czynności:
 
-1. W centrum [zgodności platformy Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130502)wybierz pozycję **Zgodność komunikacji**.
+1. Na stronie [Centrum zgodności platformy Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130502)pozycję **Zgodność komunikacji**.
 2. Wybierz **kartę** Zasady.
 3. Wybierz **pozycję Utwórz zasady,** aby utworzyć i skonfigurować nowe zasady na podstawie szablonu lub aby utworzyć i skonfigurować zasady niestandardowe.
 4. Po zakończeniu wybierz **pozycję Utwórz zasady,** jeśli używasz szablonu, lub **Prześlij,** jeśli używasz kreatora zasad niestandardowych.
