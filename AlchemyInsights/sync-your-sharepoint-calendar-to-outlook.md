@@ -1,5 +1,5 @@
 ---
-title: Synchronizowanie kalendarza programu SharePoint z programem Outlook
+title: Synchronizowanie kalendarza SharePoint z Outlook
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 95ea9fbe0fbb4ab4d07f164e6096cc7985a72ac5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ea1a6bf5b02f804014eb6841e774a67e2e6b23dd6a0758c48f05271644f1601
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659176"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008889"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Problemy z synchronizacją kalendarza na urządzeniach
 
-Kalendarze programu SharePoint to klasyczne typy list, które czasami są demylone z kalendarzami w grupie Microsoft 365.
+SharePoint Kalendarze są klasycznymi typami list, które czasami mylą się Microsoft 365 kalendarzami grupy.
 
-Aby zsynchronizować kalendarz programu SharePoint z programem Outlook, wykonaj następujące czynności:
+Aby zsynchronizować SharePoint z usługą Outlook, wykonaj następujące czynności:
 
-1. Kliknij ikonę koła zębatego **Ustawienia** , a następnie kliknij pozycję **zawartość witryny**.
-2. Otwórz Kalendarz, który chcesz zsynchronizować (jest to typ listy wydarzeń).
-3. W menu klasyczna wstążka kliknij pozycję **Kalendarz**, a następnie kliknij pozycję **Połącz z programem Outlook**.
-4. W podręcznym oknie z prośbą o potwierdzenie synchronizacji kliknij pozycję **Zezwalaj**.
+1. Kliknij **ikonę Ustawienia** koła zębatego, a następnie kliknij pozycję **Zawartość witryny**.
+2. Otwórz kalendarz, który chcesz zsynchronizować (typ listy Zdarzenia).
+3. W klasycznym menu wstążki kliknij pozycję **Kalendarz**, a następnie kliknij pozycję Kalendarz **Połączenie, Outlook**.
+4. W oknie podręcznym z prośbą o potwierdzenie synchronizacji kliknij pozycję **Zezwalaj**.
 
 >[!Note]
-> Po wprowadzeniu zmiany w zsynchronizowanym kalendarzu programu Outlook zostanie on wyświetlony w kalendarzu programu SharePoint i odwrotnie.
+> Gdy dokonasz zmiany w zsynchronizowanym kalendarzu Outlook, pojawi się ona w kalendarzu SharePoint i na odwrót.
 
-Aby uzyskać więcej informacji na temat grup Microsoft 365, zobacz ten [artykuł](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Aby uzyskać więcej informacji na Microsoft 365 grupy, zobacz ten [artykuł.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)

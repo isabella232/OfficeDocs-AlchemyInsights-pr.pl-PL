@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: 48b5b0a1be1bc03d45a531a1093f18a3f750c37d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a187fec34ef3eae485a8a880127b5f82a028edb7f0e9a276a41b5e33cad25ead
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51797731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942845"
 ---
 # <a name="self-service-purchase-of-powershell"></a>Samoobsługowy zakup programu PowerShell
 
-Aby korzystać z modułu MS Commerce PowerShell, musisz zainstalować go na urządzeniu z systemem Windows 10 z systemem TLS 1.2 (wymagane uprawnienia administratora lokalnego).  Importowanie i łączenie się z modułem MS Commerce.  Po wyświetleniu monitu o zalogowanie się musisz użyć poświadczeń roli administratora globalnego lub administratora rozliczeń.  
+Aby użyć modułu MS Commerce PowerShell, musisz zainstalować go na urządzeniu z systemem Windows 10 Z TLS 1.2 (wymagane uprawnienia administratora lokalnego).  Importowanie i łączenie się z modułem MS Commerce.  Po wyświetleniu monitu o zalogowanie się musisz użyć poświadczeń roli administratora globalnego lub administratora rozliczeń.  
 
 Jeśli nie masz TLS 1.2, podczas próby uzyskania lub zaktualizowania zasad może zostać wyświetlony następujący błąd:
 
