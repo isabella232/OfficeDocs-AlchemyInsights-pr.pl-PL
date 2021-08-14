@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: dc81648caee1d824e525c73c9d7a90b9e1490e21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9cc6512e50a7f2c49013d6b6659240e240141337396c961edc04225e130f54b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715751"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989637"
 ---
 # <a name="associate-existing-site-with-a-hub-site"></a>Kojarzenie istniejącej witryny z witryną centrum
 
 Aby skojarzyć istniejącą witrynę z witryną centrum, wykonaj następujące czynności:
   
-1. W witrynie wybierz pozycję **Ustawienia** (ikona koła zębatego w prawym górnym rogu), a następnie wybierz pozycję **Informacje o witrynie**.
+1. W witrynie wybierz pozycję **Ustawienia** (ikona koła zębatego w prawym górnym rogu), a następnie wybierz **pozycję Informacje o witrynie**.
 
-2. W panelu **Edytowanie informacji o witrynie** w menu **skojarzenia witryny centrum** wybierz witrynę centrum, którą chcesz skojarzyć z witryną, a następnie kliknij przycisk **Zapisz**. Wygląd witryny zmieni się tak, aby pasował do witryny centrum, a na górze zostanie wyświetlony pasek nawigacyjny witryny centrum.
+2. W **panelu Edytuj informacje o** witrynie w menu Skojarzenia witryn centrum wybierz witrynę centrum, którą chcesz skojarzyć z  **witryną,** a następnie kliknij przycisk Zapisz . Wygląd witryny zmieni się na taki, który odpowiada wyglądowi witryny centrum, a w górnej części pojawi się pasek nawigacyjny witryny centrum.
 
->**Warto**
+>**Uwaga**
 >
->Jeśli nie jest dostępna opcja skojarzenia witryny centrum lub nie ma na niej żadnych witryn, witryny centrum mogą nie być włączone lub nie masz uprawnień do kojarzenia witryn z witryną centrum. Aby uzyskać więcej informacji, skontaktuj się z administratorem.
+>Jeśli opcja skojarzenia witryn Centrum nie jest dostępna lub nie ma na liście żadnych witryn, witryny centrum mogą nie być włączone lub możesz nie mieć uprawnień do kojarzenia witryn z witryną centrum. Aby uzyskać więcej informacji, skontaktuj się z administratorem.
 >
->Nie istnieje ograniczenie liczby witryn, które można skojarzyć z witryną centrum.
+>Nie ma ograniczenia liczby witryn, które mogą być skojarzone z witryną centrum.
   

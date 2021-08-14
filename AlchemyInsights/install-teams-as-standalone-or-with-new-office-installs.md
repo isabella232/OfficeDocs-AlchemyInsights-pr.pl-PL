@@ -1,5 +1,5 @@
 ---
-title: Instalowanie aplikacji Teams jako autonomicznej lub w nowych instalacjach pakietu Office
+title: Instalowanie Teams jako wersji autonomicznej lub w nowych instalacjach pakietu Office
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "5706"
-ms.openlocfilehash: b8ae6d0dbf25cfa482cdcbc93fe55a03c0dbaced
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 42d1bb1fed4286e088f76be8385ded01e83696499918df94ec438ae84fbede7c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832032"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014334"
 ---
-# <a name="install-teams-as-standalone-or-with-new-office-installs"></a>Instalowanie aplikacji Teams jako autonomicznej lub w nowych instalacjach pakietu Office
+# <a name="install-teams-as-standalone-or-with-new-office-installs"></a>Instalowanie Teams jako wersji autonomicznej lub w nowych instalacjach pakietu Office
 
-Zobacz [tutaj, aby](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) uzyskać informacje na temat wdrażania aplikacji Teams w Twojej organizacji.
+Aby uzyskać [informacje na](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) temat tego, jak wdrożyć usługę Teams organizacji, zobacz tutaj.

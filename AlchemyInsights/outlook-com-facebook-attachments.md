@@ -1,5 +1,5 @@
 ---
-title: Abonamenty e-mail Outlook.com
+title: Outlook.com
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3158"
 - "9001198"
-ms.openlocfilehash: d37d4590fb5206a30f596bf83d9665c324b27b57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c9c1ea9b3da7f035e1221b435f30ef5c801e5bdcd010c1a1922d712b6d626b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672103"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962321"
 ---
-# <a name="unable-to-attach-or-upload-files-from-facebook"></a>Nie można dołączyć lub przekazać plików z serwisu Facebook
+# <a name="unable-to-attach-or-upload-files-from-facebook"></a>Nie można dołączać ani przekazywać plików z serwisu Facebook
 
-Ze względu na zmianę warunków i postanowień w serwisie Facebook, po 23 października 2019, nie będzie już można przekazywać załączników bezpośrednio z serwisu Facebook, a serwis Facebook nie będzie już widoczny na liście lokalizacji w chmurze. 
+Ze względu na zmianę warunków i postanowień serwisu Facebook po 23 października 2019 r. nie będzie już można przekazywać załączników bezpośrednio z serwisu Facebook, a serwis Facebook nie będzie już wyświetlany na liście lokalizacji w chmurze. 
 
-Możesz zarządzać listą innych lokalizacji w chmurze na [kontach magazynu](https://go.microsoft.com/fwlink/?linkid=2111075).
+Możesz zarządzać listą innych lokalizacji w chmurze na swoich [Storage kontach.](https://go.microsoft.com/fwlink/?linkid=2111075)
 
-Dowiedz się więcej o [kontach magazynu](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
+Dowiedz się więcej [o Storage kontach](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
   
