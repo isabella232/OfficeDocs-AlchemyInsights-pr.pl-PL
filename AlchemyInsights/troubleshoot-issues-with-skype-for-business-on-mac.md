@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z aplikacją Skype dla firm na komputerze Mac
+title: Rozwiązywanie problemów z Skype dla firm komputerach Mac
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5984"
 - "9003195"
-ms.openlocfilehash: 794ec70971fc2eff31047f8346284118eb9d6add
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2bfe1f4291a7703a94582cdfe381ffbf02797a8b7a785e6ac9d74cf04290707
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665044"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980547"
 ---
-# <a name="troubleshoot-issues-with-skype-for-business-on-mac"></a>Rozwiązywanie problemów z aplikacją Skype dla firm na komputerze Mac
+# <a name="troubleshoot-issues-with-skype-for-business-on-mac"></a>Rozwiązywanie problemów z Skype dla firm komputerach Mac
 
-Aby uzyskać więcej informacji, zobacz: 
+Więcej informacji można znaleźć w następujących artykułach: 
 
-- Niektóre funkcje, takie jak funkcje grup odpowiedzi lub czat trwały, mogą nie być dostępne ani obsługiwane na platformie Mac. Sprawdź, czy funkcja jest obsługiwana na platformie Mac. Aby uzyskać dostępność funkcji dla komputerów Mac, zobacz [porównanie funkcji klienta mobilnego dotyczące](https://technet.microsoft.com/library/Dn951412.aspx) programu Skype dla firm i [funkcji klienta komputerowego dla programu Skype dla firm](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison).
-- Jeśli wystąpił problem z logowaniem w aplikacji Skype dla firm Mac, upewnij się, że Twoja topologia uwierzytelniania jest obsługiwana. Aby uzyskać szczegółowe informacje na temat obsługiwanej metody, zobacz [obsługiwane przez nowoczesne uwierzytelnienia topologie programu Skype dla firm](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/modern-authentication/topologies-supported).  
-- Jeśli te informacje nie odpowiadają na Twoje pytania, Otwórz bilet pomocy technicznej. Zbierz możliwie najwięcej informacji przed otwarciem biletu. Na przykład Zbierz wszystkie komunikaty o dziennikach i błędach. Aby zebrać dzienniki na komputerze Mac, przejdź do  **preferencji aplikacji SFB**  >  **Preferences**  >  **zbieranie dzienników**.  Dziennik powinien zawierać możliwie najwięcej szczegółów po zalogowaniu się do punktu awarii.
+- Niektóre funkcje, takie jak funkcje grupy odpowiedzi lub rozmowa trwała, mogą nie być dostępne lub obsługiwane na platformie Mac. Sprawdź, czy funkcje są obsługiwane na platformie Mac. Aby uzyskać informacje o dostępności funkcji dla komputerów Mac, zobacz Porównanie funkcji klientów przenośnych [Skype dla firm](https://technet.microsoft.com/library/Dn951412.aspx) porównanie [funkcji](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison)klientów komputerowych i Skype dla firm.
+- Jeśli występuje problem z logowaniem w aplikacji dla komputerów Skype dla firm Mac, upewnij się, że topologia uwierzytelniania jest obsługiwana. Aby uzyskać szczegółowe informacje na temat obsługiwanej metody, [Skype dla firm topologii obsługiwane przez nowoczesne uwierzytelnianie.](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/modern-authentication/topologies-supported)  
+- Jeśli te informacje nie odpowiadają na Twoje pytania, otwórz bilet pomocy technicznej. Zbierz jak najwięcej informacji przed otwarciem biletu. Na przykład zbierz wszystkie dzienniki i komunikaty o błędach. Aby zbierać dzienniki na komputerze Mac, przejdź do  **tematu Preferencje aplikacji SfB**  >  **Zbieranie**  >  **dzienników.**  Dziennik powinien zawierać możliwie najwięcej szczegółów, od logowania do punktu, w którym się nie pomylisz.

@@ -1,5 +1,5 @@
 ---
-title: Jak dodać lub usunąć pełnomocnika w programie Outlook dla systemu Windows
+title: Jak dodać lub usunąć pełnomocnika w programie Outlook dla Windows
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,46 +12,46 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7334"
-ms.openlocfilehash: fcbd6082c104f0e1bca022a23cbbeb6e3363a6c5
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: ee54e2bcca4f4591b33ee805290192311f6cde09a9e453a813e9db328d19634d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573575"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945347"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Jak dodać lub usunąć pełnomocnika w programie Outlook dla systemu Windows
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Jak dodać lub usunąć pełnomocnika w programie Outlook dla Windows
 
-Aby dodać pełnomocnika w programie Outlook dla systemu Windows: 
+Aby dodać pełnomocnika w programie Outlook dla Windows: 
 
-1. Kliknij kartę **plik** , a następnie pozycję **Ustawienia kont**, a następnie wybierz pozycję **udzielanie pełnomocnictw**.
-2. Kliknij przycisk **Dodaj**. Jeśli **Dodawanie** nie jest widoczne, między programem Outlook i programem Exchange może nie istnieć aktywne połączenie. Na pasku stanu programu Outlook zostanie wyświetlony stan połączenia.
-3. Wpisz imię i nazwisko osoby, którą chcesz wyznaczyć jako pełnomocnika, lub Wyszukaj i wybierz nazwę z listy wyników wyszukiwania.
-
-    > [!NOTE]
-    > Delegat musi być osobą z globalnej listy adresowej programu Exchange w organizacji.
-4. Kliknij pozycję **Dodaj** , a następnie kliknij przycisk **OK**.
-5. W oknie dialogowym **uprawnienia pełnomocnika** zaakceptuj domyślne ustawienia uprawnień lub wybierz pozycję niestandardowe poziomy dostępu dla folderów programu Exchange.
-
-    - Jeśli pełnomocnik potrzebuje uprawnień do działania tylko w przypadku wezwań na spotkania i odpowiedzi, domyślne ustawienia uprawnień, takie jak pełnomocnik, będą zawierać **kopie wysyłanych do mnie wiadomości związanych ze spotkaniami** . Ustawienie uprawnień **Skrzynka odbiorcza** można pozostawić **bez** zmian. Wezwania na spotkania i odpowiedzi zostaną przekierowane bezpośrednio do skrzynki odbiorczej pełnomocnika.
+1. Kliknij kartę **Plik,** a po niej **pozycję** Ustawienia , a następnie wybierz pozycję **Delegowanie dostępu.**
+2. Kliknij pozycję **Dodaj**. Jeśli **przycisk Dodaj** nie jest wyświetlany, może nie istnieć aktywne połączenie między Outlook a Exchange. Na Outlook stanu połączenia jest wyświetlany stan połączenia.
+3. Wpisz imię i nazwisko osoby, którą chcesz wyznaczyć na pełnomocnika, lub wyszukaj i wybierz nazwę z listy wyników wyszukiwania.
 
     > [!NOTE]
-    > Domyślnie pełnomocnik ma uprawnienia **redaktor (może czytać, tworzyć i modyfikować elementy)** w folderze **kalendarza** . Gdy pełnomocnik odpowie na spotkanie w Twoim imieniu, zostanie automatycznie dodany do folderu **kalendarza** .
+    > Pełnomocnik musi być osobą na globalnej liście adresowej Exchange organizacji.
+4. Kliknij pozycję **Dodaj,** a następnie kliknij przycisk **OK.**
+5. W **oknie dialogowym** Uprawnienia pełnomocnika zaakceptuj domyślne ustawienia uprawnień lub wybierz niestandardowe poziomy dostępu dla Exchange folderów.
 
-5. Aby wysłać wiadomość w celu powiadomienia pełnomocnika o zmienionych uprawnieniach, zaznacz pole wyboru **automatycznie wysyłaj wiadomość do pełnomocnika z podsumowaniem tych uprawnień** .
-6. Jeśli chcesz, zaznacz pole wyboru **pełnomocnik może widzieć moje prywatne elementy** .
+    - Jeśli pełnomocnik potrzebuje uprawnień tylko do pracy z wezwaniami na  spotkania i odpowiedziami, domyślne ustawienia uprawnień, takie jak Pełnomocnik, otrzymują kopie wysyłanych do mnie wiadomości związanych ze spotkaniami, są wystarczające. Możesz pozostawić ustawienie uprawnień **Skrzynka** odbiorcza w ustawieniu **Brak**. Wezwania na spotkania i odpowiedzi będą trafiać bezpośrednio do skrzynki odbiorczej pełnomocnika.
+
+    > [!NOTE]
+    > Domyślnie pełnomocnikowi są udzielane uprawnienia Edytor **(może czytać,** tworzyć i modyfikować elementy) do folderu **Kalendarz.** Gdy pełnomocnik odpowie na spotkanie w Twoim imieniu, zostanie ono automatycznie dodane do **folderu** Kalendarz.
+
+5. Aby wysłać wiadomość w celu powiadomienia pełnomocnika o zmienionych uprawnieniach, zaznacz pole wyboru Automatycznie wyślij do pełnomocnika wiadomość podsumowującą **te** uprawnienia.
+6. Jeśli chcesz, zaznacz pole **wyboru Pełnomocnik może widzieć moje prywatne** elementy.
 
     > [!IMPORTANT]
-    > To ustawienie ma wpływ na wszystkie foldery programu Exchange. Dotyczy to wszystkich folderów poczta, kontakty, kalendarz, zadania, notatki i dziennik. Nie ma możliwości udzielania dostępu do elementów prywatnych tylko określonym folderom.
+    > To ustawienie wpływa na wszystkie Exchange folderów. Dotyczy to również folderów Poczta, Kontakty, Kalendarz, Zadania, Notatki i Dziennik. Nie można udzielić dostępu do elementów prywatnych tylko w określonych folderach.
 
 7. Wybierz pozycję **OK**.
 
     > [!NOTE]
     >
-    > - Wiadomości wysłane przy użyciu uprawnień Wyślij w imieniu zawierają zarówno nazwisko pełnomocnika, jak i imię i **nazwisko.** Gdy wiadomość jest wysyłana za pomocą uprawnień do wysyłania, zostanie wyświetlona tylko nazwa użytkownika.
-    > - Po dodaniu osoby jako pełnomocnika można dodać swoją skrzynkę pocztową programu Exchange do swojego profilu programu Outlook. Aby uzyskać instrukcje, zobacz [Zarządzanie elementami poczty i kalendarza innej osoby](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5).
+    > - Wiadomości wysłane przy użyciu uprawnień Wyślij w imieniu obejmują zarówno pełnomocnika, jak i Twoje nazwy obok **przycisku Od.** Gdy wiadomość jest wysyłana z uprawnieniami Wyślij jako, jest wyświetlana tylko Twoja nazwa.
+    > - Po dodaniu osoby jako pełnomocnika ta osoba może dodać Twoją skrzynkę pocztową Exchange do swojego Outlook profilu. Aby uzyskać instrukcje, [zobacz Zarządzanie elementami poczty](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5)i kalendarza innej osoby.
 
-Aby usunąć pełnomocnika w programie Outlook dla systemu Windows:
+Aby usunąć pełnomocnika w programie Outlook dla Windows:
 
-1. Kliknij kartę **plik** .
-2. Kliknij **Ustawienia konta** , a następnie pozycję **udzielanie pełnomocnictw**.
-3. Wybierz nazwę pełnomocnika, dla którego chcesz zmienić uprawnienia, a następnie kliknij pozycję **Usuń** , a następnie kliknij przycisk **OK**.
+1. Kliknij **kartę** Plik.
+2. Kliknij pozycję **Konto Ustawienia** a następnie pozycję **Dostęp pełnomocnika.**
+3. Wybierz nazwę pełnomocnika, dla którego chcesz zmienić uprawnienia, a następnie kliknij pozycję **Usuń,** a następnie kliknij przycisk **OK.**
