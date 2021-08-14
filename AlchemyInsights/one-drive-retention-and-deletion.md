@@ -1,5 +1,5 @@
 ---
-title: Przechowywanie i usuwanie w usłudze OneDrive
+title: OneDrive przechowywania i usuwania
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,25 +13,25 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: c5fd94b91d0938f6adbfa10848d875a02ba23f00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ed62445ffbac108bba6e7b8b8f4d8fcbcb3777d199e2a183fa457949cfe830a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673471"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985371"
 ---
-# <a name="onedrive-retention-and-deletion"></a>Przechowywanie i usuwanie w usłudze OneDrive
+# <a name="onedrive-retention-and-deletion"></a>OneDrive przechowywania i usuwania
 
-- Możesz [przywrócić usuniętych użytkowników z usługi OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) . Są w koszu w ciągu 93 dni.
+- Możesz [przywrócić usuniętych użytkowników OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) siebie. Znajdują się one w Koszu przez 93 dni.
 
-- Zobacz [ten artykuł](https://docs.microsoft.com/onedrive/retention-and-deletion) , aby dowiedzieć się, jak to zrobić:
-    - Jak nadawać innemu użytkownikowi dostęp do usługi OneDrive użytkownika, którą usunął użytkownik.
-    - Co się dzieje z usługą OneDrive użytkownika, jeśli usuniesz konto Microsoft 365 użytkownika dla Twojej organizacji.
-    - Jak skonfigurować delegowanie dostępu automatycznego.
-    - Sposób działania procesu usuwania usługi OneDrive.
+- Zapoznaj się [z tym artykułem,](https://docs.microsoft.com/onedrive/retention-and-deletion) aby dowiedzieć się:
+    - Jak dać iniu temu użytkownikowi dostęp do folderu OneDrive.
+    - Co się dzieje z OneDrive użytkownika po usunięciu jego konta Microsoft 365 organizacji.
+    - Jak skonfigurować automatyczne delegowanie dostępu.
+    - Jak OneDrive proces usuwania.
 
-- Aby uzyskać informacje o przywracaniu elementów z Kosza w usłudze OneDrive, zobacz [Przywracanie usuniętych plików lub folderów](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
+- Aby uzyskać informacje na temat przywracania elementów z Kosza w aplikacji OneDrive, zobacz Przywracanie [usuniętych plików lub folderów.](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 
-- Chcesz zatrzymać i wstrzymać w centrum zabezpieczeń i zgodności?
-    - [Zasady przechowywania dla witryn usługi OneDrive i programu SharePoint](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-    - [Blokada zbierania elektronicznych materiałów dowodowych dla witryn usługi OneDrive i programu SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Chcesz przechowywać i trzymać Centrum zabezpieczeń i zgodności?
+    - [Zasady przechowywania witryn OneDrive i SharePoint internetowych](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+    - [Zbierania elektronicznych materiałów dowodowych dla witryn OneDrive i SharePoint internetowych](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)

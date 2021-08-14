@@ -1,5 +1,5 @@
 ---
-title: 1491 — wyniki wyszukiwania, nieoczekiwane
+title: 1491-search-not-returning-expected-results
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 5b26a6b9bbc462aac93a3a2cb4df81a14fce8b80
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e926db0d43f7586809ab78db66e861b8908a0ce61fb84498d1993bcc301d5f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802859"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985551"
 ---
-# <a name="content-search-tool-to-find-relevant-info"></a>Narzędzie do wyszukiwania zawartości umożliwia znalezienie odpowiednich informacji
+# <a name="content-search-tool-to-find-relevant-info"></a>Narzędzie do wyszukiwania zawartości w celu znalezienia odpowiednich informacji
 
-Aby szybko znaleźć wiadomości e-mail w skrzynkach pocztowych programu Exchange, dokumentach w witrynach programu SharePoint i lokalizacjach usługi OneDrive oraz konwersacjach za pomocą wiadomości błyskawicznych w programie Skype dla firm, użyj narzędzia do wyszukiwania zawartości w centrum zgodności z zabezpieczeniami &. Za pomocą narzędzia do wyszukiwania zawartości możesz wyszukiwać wiadomości e-mail, dokumenty i konwersacje w wiadomościach błyskawicznych w narzędziach współpracy Microsoft 365, takich jak Microsoft Teams i Microsoft 365 Groups.
+Za pomocą narzędzia Wyszukiwanie zawartości w Centrum zgodności & zabezpieczeń możesz szybko znaleźć wiadomości e-mail w skrzynkach pocztowych usługi Exchange, dokumentach w witrynach SharePoint i lokalizacjach usługi OneDrive oraz w konwersacjach za pomocą wiadomości błyskawicznych w programie Skype dla firm. Za pomocą narzędzia do wyszukiwania zawartości możesz wyszukiwać wiadomości e-mail, dokumenty i konwersacje za pomocą wiadomości błyskawicznych w Microsoft 365 narzędzi do współpracy, takich jak Microsoft Teams i Microsoft 365 Grupy.
 
 
-Przed rozpoczęciem korzystania z funkcji [wyszukiwania zawartości](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) w [Centrum zabezpieczeń & zgodności](https://sip.protection.office.com/homepage)należy wykonać ustawienia konfiguracji, takie jak [Konfigurowanie uprawnień](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search), [Ustawianie szybkości pobierania](https://docs.microsoft.com/microsoft-365/compliance/increase-download-speeds-when-exporting-ediscovery-results) i [ustawień eksportowania](https://docs.microsoft.com/microsoft-365/compliance/disable-reports-when-you-export-content-search-results).
+Przed użyciem wyszukiwania [zawartości](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) w Centrum & zgodności w programie Security [&](https://sip.protection.office.com/homepage)należy [](https://docs.microsoft.com/microsoft-365/compliance/increase-download-speeds-when-exporting-ediscovery-results) wykonać ustawienia konfiguracji, w tym skonfigurować uprawnienia [,](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)ustawiać szybkości pobierania i [ustawienia eksportu.](https://docs.microsoft.com/microsoft-365/compliance/disable-reports-when-you-export-content-search-results)
 
-Dowiesz się więcej o wyszukiwaniu zawartości, przeglądając [wymagania i limity](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search), [badając częściowo indeksowane elementy](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) i inne wyniki, o których należy pamiętać.
+Dowiedz się więcej o przeszukiwaniu zawartości, [](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) przeglądając wymagania i limity [,](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)badając częściowo indeksowane elementy i inne wyniki, o których należy pamiętać.
 
-Po przejrzeniu ustawień konfiguracji i ograniczeń wyszukiwania zawartości Zobacz Wyszukiwanie zawartości, aby [ </a> wyszukać w organizacji elementy, takie jak wiadomości e-mail, dokumenty i konwersacje za pomocą wiadomości błyskawicznych](https://docs.microsoft.com/microsoft-365/compliance/content-search).
+Po przejrzeniu ustawień konfiguracji i ograniczeń dotyczących przeszukiwania zawartości zobacz Wyszukiwanie elementów w miejscu, takich jak wiadomości [ </a> e-mail,](https://docs.microsoft.com/microsoft-365/compliance/content-search)dokumenty i konwersacje za pomocą wiadomości błyskawicznych w organizacji, za pomocą wyszukiwania zawartości.
 
-Aby uzyskać więcej informacji, zobacz [Wyszukiwanie zawartości w witrynie Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/search-for-content) , aby uzyskać więcej informacji.
+Aby uzyskać szczegółowe instrukcje krok po kroku dotyczące wyszukiwania zawartości, zobacz Wyszukiwanie zawartości w programie [Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/search-for-content) uzyskać więcej informacji.
