@@ -1,5 +1,5 @@
 ---
-title: Odzyskiwanie usuniętych wiadomości e-mail w programie Outlook.com
+title: Odzyskiwanie usuniętych wiadomości e-mail w Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,23 +14,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: c24980ff28d0400faadfa413eacfba37401068a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 922a793fa37a3b02502d8d7368e30f4e9335144b4b39e61ea956ea708cebf07f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723617"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095372"
 ---
-# <a name="recover-deleted-email-outlookcom"></a>Odzyskaj usunięte wiadomości e-mail Outlook.com
+# <a name="recover-deleted-email-outlookcom"></a>Odzyskiwanie usuniętych wiadomości e-Outlook.com
 
-1. W okienku po lewej stronie wybierz pozycję **elementy usunięte**.
+1. W okienku po lewej stronie wybierz **pozycję Elementy usunięte**.
 2. Wybierz element, który chcesz odzyskać, a następnie wybierz pozycję **Przywróć**.
-3. Jeśli wiadomość nie jest w folderze Elementy usunięte, wybierz pozycję **Odzyskaj elementy usunięte z tego folderu** w górnej części okna.
+3. Jeśli wiadomości nie ma w folderze Elementy usunięte, wybierz pozycję Odzyskaj elementy usunięte z tego **folderu** w górnej części okna.
 
- **Ważne informacje dotyczące elementów usuniętych:**
+ **Ważne informacje o usuniętych elementach:**
   
-- Elementy usunięte z folderu Elementy usunięte są odzyskiwane przez 30 dni.
-- Jeśli nie zarejestrowano się na koncie w ciągu 365 dni, Twoja wiadomość e-mail zostanie usunięta i nie będzie można jej odzyskać.
-- Nie można odzyskać wiadomości e-mail usuniętej z kont podrzędnych.
+- Elementy usunięte z folderu Elementy usunięte można odzyskać przez 30 dni.
+- Jeśli nie zalogowano się do konta przez 365 dni, wiadomości e-mail zostaną usunięte i nie będzie można ich odzyskać.
+- Odzyskanie wiadomości e-mail usuniętych z kont dzieci nie jest możliwe.
 
-Aby dowiedzieć się więcej, zobacz [Przywracanie usuniętych wiadomości e-mail w programie Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+Aby dowiedzieć się więcej, zobacz [Przywracanie usuniętych wiadomości e-mail w Outlook.com.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)

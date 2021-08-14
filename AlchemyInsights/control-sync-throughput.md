@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5839"
-ms.openlocfilehash: 6e45f55efac556d2d9c4f1ebd837db61dfa5422f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8b93fcb9757d3ef95a6cdc9db34f6735682cff8b9c2f9bfffa38a547326b69e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816678"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948821"
 ---
 # <a name="control-sync-throughput"></a>Sterowanie przepływnością synchronizacji
 
-Jeśli chcesz kontrolować ruch aplikacji do synchronizacji, zalecamy używanie, jeśli to możliwe, zasad usługi QoS lub zasad usługi QoS dla systemu Windows. Aby uzyskać informacje o ustawieniach sieciowych, które można udostępnić użytkownikom, zobacz Zmienianie szybkości przekazywania lub pobierania aplikacji do synchronizacji [usługi OneDrive.](https://support.office.com/article/71cc69da-2371-4981-8cc8-b4558bdda56e)
+Jeśli chcesz kontrolować ruch aplikacji do synchronizacji, zalecamy używanie zasad usługi QoS (Network Quality Of Service) lub Windows usługi QoS, jeśli to możliwe. Aby uzyskać informacje o ustawieniach sieciowych, które można udostępnić użytkownikom, zobacz Zmienianie szybkości przekazywania lub pobierania [synchronizacja usługi OneDrive aplikacji.](https://support.office.com/article/71cc69da-2371-4981-8cc8-b4558bdda56e)

@@ -1,5 +1,5 @@
 ---
-title: Brak ikony 8000049 Skype w Outlook.com
+title: 8000049 Skype brak ikony w Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
-ms.openlocfilehash: 6ff0c00245c8f6121b688e306fd56179f6cdf862
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6864ffb57acf80ad3732826618bc2e2c0dc8823a9fc91593be0a3697cd110ca0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802247"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063530"
 ---
-# <a name="skype-icon-missing"></a>Brak ikony Skype'a
+# <a name="skype-icon-missing"></a>Skype brak ikony
 
-Tymczasowo Usunięto ikonę Skype'a z Outlook.com w ramach odświeżania projektu i aktualizacji funkcji, która jest cieszymy. Doceniamy Twoją cierpliwość, przygotowując nowe i ulepszone środowisko.
+Tymczasowo usunęliśmy ikonę Skype z Outlook.com w ramach odświeżania projektu i aktualizacji funkcji, z przyjemnością wprowadzamy tę funkcję. Dziękujemy za cierpliwość podczas przygotowywania nowego i ulepszonego doświadczenia dla Ciebie.
 
-Możesz nadal korzystać ze Skype'a w przeglądarce pod adresem [Web.Skype.com](https://web.skype.com).
+Nadal możesz używać aplikacji Skype przeglądarce na stronie [web.skype.com.](https://web.skype.com)

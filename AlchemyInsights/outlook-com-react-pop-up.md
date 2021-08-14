@@ -1,5 +1,5 @@
 ---
-title: 8000091 Outlook.com wyskakujące reagowanie
+title: 8000091 Outlook.com React się okno podręczne
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.custom:
 - "1412"
 - "1413"
 - "8000091"
-ms.openlocfilehash: e12b13d193a9cb381fd455ac4fc3c2170fa2f66c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ab47415524be8d3a116144411d1b00a94b2a11be3d9f6cd3f4a755b235bf2c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728945"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095732"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com jest gotowy do uzyskania czasu
+# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com jest gotowy na czas
 
-Zdajemy sobie sprawę, że w przypadku niektórych klientów po każdym zalogowaniu się będzie wyświetlany komunikat "Outlook.com" jest gotowe, a my pracujemy nad poprawkami.
+Zdajemy sobie sprawę, że niektórzy klienci mogą widzieć wyskakujące okienko "Outlook.com jest gotowe na premierę" za każdym razem, gdy się zalogują, i pracujemy nad jego poprawą.
 
-Przepraszamy.
+Przykro nam z tego.
 
-[Dowiedz się więcej o nowych Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Dowiedz się więcej o nowej Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
