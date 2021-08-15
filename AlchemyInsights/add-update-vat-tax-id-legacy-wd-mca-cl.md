@@ -1,5 +1,5 @@
 ---
-title: Dodawanie lub aktualizowanie identyfikatora VAT/podatku — starsze czynności, które można wykonać w przypadku niezgodności WD + MCA
+title: Dodawanie lub aktualizowanie identyfikatora VAT/podatku — starsze wersje WD + MCA CL _ Zalecane czynności
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7291"
-ms.openlocfilehash: ba97ec48492b1777a12bf2b27a68d411690eab76
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 172453664d2e950634c46977b8c543a054afbf6dfbed1356b7b13416ecf80b22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679579"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953699"
 ---
-# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Dodawanie lub aktualizowanie identyfikatora podatku VAT/podatku — starsze kroki dotyczące starszych aktualizacji WD + MCA
+# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Dodawanie lub aktualizowanie identyfikatora VAT/podatku — starsze wersje WD + MCA CL — zalecane czynności
 
-IDENTYFIKATOR podatkowy jest wykorzystywany do obliczania zwolnienia z podatku i jest wyświetlany na fakturze.
+Identyfikator podatku jest używany do obliczania zwolnienia z podatku i znajduje się na fakturze.
 
-1. Przejdź do strony [Zarządzanie kosztami + rozliczenia](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) . 
-2. Kliknij pozycję **Właściwości** z lewej strony. 
-3. Kliknij pozycję **Zarządzaj identyfikatorami podatków** w okienku **identyfikatory podatków** , a następnie wprowadź nowy identyfikator podatkowy.
-4. Kliknij pozycję **Aktualizuj**. 
+1. Przejdź do [strony Zarządzanie kosztami + rozliczenia.](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) 
+2. Kliknij **pozycję** Właściwości z lewej strony. 
+3. Kliknij **pozycję Zarządzaj identyfikatorami podatkowymi** w **okienku Identyfikatory podatkowe,** a następnie wprowadź nowy identyfikator podatku.
+4. Kliknij **przycisk Aktualizuj**. 
 
-Jeśli nie widzisz okienka **identyfikatory podatku** , oznacza to, że identyfikatory podatku nie są jeszcze zbierane dla Twojego regionu lub zaktualizowanie identyfikatorów podatków w portalu nie jest obsługiwane w przypadku Twojego konta.
+Jeśli nie widzisz okienka Identyfikatory podatkowe, oznacza to, że identyfikatory podatku nie są jeszcze zbierane w Twoim regionie lub aktualizowanie identyfikatorów podatku w portalu nie jest obsługiwane dla Twojego konta. 
 
 **Polecane dokumenty**
 

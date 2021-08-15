@@ -1,5 +1,5 @@
 ---
-title: Unowocześnienie klasycznej strony głównej
+title: Unowocześnij klasyczną stronę główną
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -12,23 +12,23 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 16da500b8b7e97b9085c8e954fbf75d8c1b90c8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd26e9e923061e9bf88d8cd2c60164b95ec9cf3a671130960c0412e3f31acbaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026088"
 ---
-# <a name="modernize-the-classic-home-page"></a>Unowocześnienie klasycznej strony głównej
+# <a name="modernize-the-classic-home-page"></a>Unowocześnij klasyczną stronę główną
 
-Ostatnia aktualizacja stron głównych klasycznej witryny zespołu programu SharePoint wpływa na stronę główną klasycznych witryn zespołu (STS # 0), gdy Strona główna zawiera *tylko nieobecnościowe domyślne składniki Web Part* , takie jak wprowadzenie, Biblioteka dokumentów i kanał Aktualności.
+Ostatnia aktualizacja strony głównej witryny zespołu klasycznego programu SharePoint wpływa na stronę główną klasycznych witryn zespołu (STS#0), gdy strona główna zawiera tylko domyślne składniki *Web* Part, takie jak wprowadzenie, biblioteka dokumentów i kanał aktualności.
 
-Wyświetlenie instruktażu [zmiany.](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif) 
+Tutaj możesz przejrzeć [omów](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif)zmiany. 
 
-**Uwaga: klasyczne witryny zespołu, które zawierają niestandardową zawartość, nie zostaną automatycznie zaktualizowane.**
+**Uwaga: Klasyczne witryny zespołu, które zawierają dostosowaną zawartość, nie będą aktualizowane automatycznie.**
 
-* Dowiedz się więcej o kryteriach aktualizowania na [klasycznym uaktualnieniu strony głównej](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern).
+* Dowiedz się więcej o kryteriach aktualizacji z [tematu Unowocześnienie klasycznej strony głównej.](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern)
 
-* [Uaktualnij inne strony główne, które nie są częścią automatycznej modernizacji](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages).
+* [Uaktualnij inne strony domowe, które](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)nie były częścią automatycznej unowocześnienia .
 
-* Wyłącz to uaktualnienie w określonych witrynach przy użyciu [polecenia cmdlet programu PowerShell dotyczącego wzorów i praktyk programu SharePoint (PNP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets).
+* Wyłącz to uaktualnienie dla określonych witryn, używając SharePoint cmdlet programu PowerShell we wzorcach i rozwiązaniach [(PnP).](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)

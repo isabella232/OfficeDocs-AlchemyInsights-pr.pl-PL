@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 893b954ef6c1333f52dac645902236984a209599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef1eaa4e6ddd2995d5f6a970a6b7d1444b7746ea2251e94220c857b10da41d0d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769445"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011310"
 ---
 # <a name="organization-policy-settings-for-external-users"></a>Ustawienia zasad organizacji dla użytkowników zewnętrznych
 
 Podczas próby udostępnienia użytkownikom zewnętrznym w organizacji może zostać wyświetlony następujący komunikat ostrzegawczy: 
 
-   **Zasady Twojej organizacji nie zezwalają na udostępnianie tym użytkownikom. Przejdź do obszaru udostępnianie zewnętrzne w centrum administracyjnym usługi Microsoft 365, aby je włączyć.** 
+   **Zasady organizacji nie zezwalają na udostępnianie tych użytkowników. Przejdź do funkcji Udostępnianie zewnętrzne w centrum administracyjne platformy Microsoft 365, aby ją włączyć.** 
 
-Zdarza się to często po raz pierwszy podczas pierwszej próby udostępnienia użytkownikom zewnętrznym lub udostępnieniu go nowym użytkownikom zewnętrznym. Aby uzyskać więcej informacji, zapoznaj się z poniższym artykułem:
+Zdarza się to często podczas pierwszej próby udostępnienia użytkownikom zewnętrznym lub podczas udostępniania nowym użytkownikom zewnętrznym. Aby uzyskać więcej informacji, zobacz poniższy artykuł:
 
-[Zasady Twojej organizacji nie zezwalają na udostępnianie użytkownikom](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+[Zasady organizacji nie zezwalają na udostępnianie tych użytkowników](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 
 
 
