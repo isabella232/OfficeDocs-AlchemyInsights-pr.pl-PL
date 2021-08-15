@@ -1,5 +1,5 @@
 ---
-title: 1829 — zbieranie elektronicznych materiałów dowodowych — problemy
+title: 1829-problemy zbierania elektronicznych materiałów dowodowych
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2a949afa39da637e32c6a254b7343df0eac402b3579e511d3b41e13b2b00bf7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710961"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030435"
 ---
-# <a name="ediscovery-issues"></a>Błędy zbierania elektronicznych materiałów dowodowych
+# <a name="ediscovery-issues"></a>Problemy dotyczące zbierania elektronicznych materiałów dowodowych
 
-Szukasz opcji zbierania elektronicznych materiałów dowodowych? W przypadku ponownego projektowania nawigacji w centrum zabezpieczeń & zgodności opcje zbierania elektronicznych materiałów dowodowych mogły już zostać przeniesione.  Opcje zbierania elektronicznych materiałów dowodowych można znaleźć w następujących lokalizacjach w centrum zabezpieczeń & zgodności w oparciu o to, co próbujesz zrobić:
+Szukasz opcji zbierania elektronicznych materiałów dowodowych? W centrum zgodności zbierania elektronicznych materiałów dowodowych w & zabezpieczeń opcje zbierania elektronicznych materiałów dowodowych mogą już zostać przeniesione.  Opcje zbierania elektronicznych materiałów dowodowych możesz znaleźć w następujących lokalizacjach w Centrum zgodności usługi & w zależności od tego, co chcesz zrobić:
 
-- Wyszukiwanie zawartości w organizacji w celu przeszukiwania zawartości w wiadomościach e-mail, dokumentach, konwersacjach programu Skype dla firm, a następnie eksportowania danych — przejdź do obszaru wyszukiwanie **> wyszukiwania zawartości**
+- Przeszukiwanie zawartości w organizacji przy użyciu funkcji wyszukiwania zawartości w wiadomościach e-mail, dokumentach, konwersacjach Skype dla firm, a następnie eksportowanie danych — przejdź do tematu Wyszukiwanie > **Przeszukiwanie zawartości**
 
-- Tworzenie sprawy zbierania elektronicznych materiałów dowodowych w celu wyszukania zawartości i umieszczenia lokalizacji zawartości na zawieszeniu — przejdź do **zbierania elektronicznych** materiałów dowodowych >
+- Tworzenie sprawy zbierania elektronicznych materiałów dowodowych w celu wyszukania zawartości i umieszczenie jej w holdrze — Przejdź do witryny zbierania elektronicznych materiałów dowodowych **> eDiscovery**
 
-- Korzystanie z nowego zaawansowanego rozwiązania zbierania elektronicznych materiałów dowodowych w celu identyfikowania i komunikowania się z niektórymi powiernikami, zachowania danych dotyczących powiernika związanych z sprawą, zbierania danych i dodawania ich do zestawu do przeglądu oraz zmniejszania ilości danych przez zastosowanie analizy w celu usuwania niepotrzebnych danych i skupienie się na tym, co najważniejsze — przejdź do **> zaawansowane zbieranie elektronicznych materiałów dowodowych**
+- Za pomocą nowego, szczegółowego rozwiązania programu Advanced eDiscovery można **identyfikować** i komunikować się z użytkownikami, zachowywać dane przechowywania istotne dla danej sprawy, zbierać dane i dodawać je do zestawu recenzji, a także zmniejszać ilość danych przez zastosowanie analizy w celu wytyczania niepotrzebnych danych i skupiania się na tym, co najważniejsze w danej sprawie — przejdź do tematu Zbieranie elektronicznych materiałów dowodowych > Advanced eDiscovery
 
-Aby uzyskać więcej informacji, zobacz:
+Więcej informacji można znaleźć w następujących artykułach:
 
-- [Wyszukiwanie zawartości](https://docs.microsoft.com/microsoft-365/compliance/content-search)
+- [Przeszukiwanie zawartości](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [sprawy dotyczące zbierania elektronicznych materiałów dowodowych w centrum zabezpieczeń & zgodności](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+- [Sprawy zbierania elektronicznych materiałów dowodowych w Centrum & zgodności](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [Zaawansowane rozwiązanie zbierania elektronicznych materiałów dowodowych w programie Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)
+- [Advanced eDiscovery rozwiązania w programie Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)

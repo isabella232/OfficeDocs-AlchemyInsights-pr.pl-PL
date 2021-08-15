@@ -14,22 +14,22 @@ ms.custom:
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: 681bdc16efac19c4b8ea0b91b13aa38cd4e9007c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 16240588ac763c9da180dad94cb1dcc3eb1ecdf3b65eff99aadf478331b91d59
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819414"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979611"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a>Podstawowe rozwiązywanie problemów z synchronizacją programu Outlook
+# <a name="basic-outlook-sync-troubleshooting"></a>Podstawowe Outlook rozwiązywania problemów z synchronizacją
 
 Jeśli masz problemy z synchronizacją, spróbuj wykonać następujące czynności:
 
 - Uruchom [to narzędzie diagnostyczne](https://aka.ms/sara-outlooksendreceive) na komputerze, którego dotyczy problem.
-- Zmniejsz liczbę folderów w podstawowej lub udostępnionej skrzynce pocztowej. Zobacz Problemy z wydajnością programu Outlook w przypadku zbyt wielu elementów lub folderów w folderze plików ost lub pst w trybie [buforowanej.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)
+- Zmniejsz liczbę folderów w podstawowej lub udostępnionej skrzynce pocztowej. Zobacz Outlook problemów z wydajnością, jeśli jest zbyt wiele elementów lub folderów w folderze plików ost lub pst w trybie [buforowanej.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)
 - Wyłącz buforowanie wszystkich folderów udostępnionych.
-- Zmień konfigurację pomocniczej skrzynki pocztowej programu Exchange na drugie konto programu Exchange w profilu.
+- Zmień konfigurację pomocniczej skrzynki Exchange pocztowej na drugie konto Exchange w profilu.
 - Upewnij się, że użytkownik może nawiązać połączenie z Internetem. 
 - [Sprawdź, czy jesteś w trybie online.](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9)
 - [Określanie, czy reguła jest stosowana.](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59)
-- Sprawdź, **czy opcja Pobierz foldery** udostępnione jest włączona, przechodząc do strony **Ustawienia** konta pliku  >    >  **Ustawienia konta**  >  **Więcej ustawień**  >  **Zaawansowane.**
+- Sprawdź, **czy opcja Pobierz foldery** udostępnione jest włączona, przechodząc Ustawienia Konto pliku   >  **Ustawienia**  >    >  **Więcej Ustawienia**  >  **Zaawansowane.**
