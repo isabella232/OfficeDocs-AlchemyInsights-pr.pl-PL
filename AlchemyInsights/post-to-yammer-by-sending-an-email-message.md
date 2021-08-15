@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003219"
 - "9668"
-ms.openlocfilehash: 05402a6948b8e15aadca7e63e16ebec54a7a5082
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: f67b9e5f5e6c396a33ef638371e21387b2704cd2b1622a9955853b46bdb702b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51404796"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960665"
 ---
 # <a name="post-to-yammer-by-sending-an-email-message"></a>Opublikuj w Yammer, wysyłając wiadomość e-mail
 
-[Najnowsze wersje programu Outlook zapewniają najlepsze środowisko obsługi wiadomości e-mail](https://support.microsoft.com/office/work-with-yammer-from-outlook-fd695485-225b-410f-b24a-17f971b46b25) w Yammer. Obejmuje to w pełni interakcyjne środowisko konwersacji, w tym: oznaczanie wiadomości jako lubianych, wyświetlanie plików GIF i odpowiadanie jak w przypadku Yammer w Sieci Web. Dodatkowe typy wiadomości e-mail wykraczające poza indywidualne wątki konwersacji, takie jak wiadomości e-mail odnajdowania, staną się w przyszłości interakcyjne.
+[Najnowsze wersje programu Outlook zapewniają najlepsze środowisko pracy z](https://support.microsoft.com/office/work-with-yammer-from-outlook-fd695485-225b-410f-b24a-17f971b46b25) wiadomościami e-mail w Yammer. Obejmuje to w pełni interakcyjne środowisko konwersacji, w tym: oznaczanie wiadomości jako lubianych, wyświetlanie GIF-ów i odpowiadanie jak w przypadku korzystania z Yammer sieci Web. Dodatkowe typy wiadomości e-mail wykraczające poza indywidualne wątki konwersacji, takie jak wiadomości e-mail odnajdowania, staną się w przyszłości interakcyjne.
 
-Inni klienci mogą [publikować wiadomości Yammer wiadomości e-mail](https://support.microsoft.com/office/new-yammer-post-to-yammer-by-sending-an-email-message-830e6825-56f6-4169-a6b9-1b3ca0cdad4d) w celu rozpoczynania nowych konwersacji lub odpowiadania na istniejące konwersacje. Działa to we wszystkich systemach poczty e-mail i klientach, którzy mają prawidłową konfigurację zabezpieczeń. Klienci ze środowiskami geograficznymi UE mogą zamieszczać wpisy w społecznościach połączonych [z usługą Microsoft 365.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)
+Inni klienci mogą [publikować wiadomości Yammer wiadomości e-mail,](https://support.microsoft.com/office/new-yammer-post-to-yammer-by-sending-an-email-message-830e6825-56f6-4169-a6b9-1b3ca0cdad4d) aby rozpoczynać nowe konwersacje lub odpowiadać na istniejące konwersacje. Działa to we wszystkich systemach poczty e-mail i klientach, którzy mają prawidłową konfigurację zabezpieczeń. Klienci z krajów unii geograficznej UE mogą zamieszczać wpisy w społecznościach, które są [Microsoft 365 połączone.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)

@@ -1,5 +1,5 @@
 ---
-title: Tworzenie podpisu e-mail w programie Outlook dla systemu Windows
+title: Tworzenie podpisu e-mail w aplikacji Outlook dla Windows
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9808"
 - "9005728"
-ms.openlocfilehash: 70d3c745c251ac6a473538d991a83c3aaff730ac
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 2c284e38e36658dde8d28214908865a4cb8ed3065bf571eb450ce540b9207cd2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037163"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016350"
 ---
-# <a name="create-an-email-signature-in-outlook-for-windows"></a>Tworzenie podpisu e-mail w programie Outlook dla systemu Windows
+# <a name="create-an-email-signature-in-outlook-for-windows"></a>Tworzenie podpisu e-mail w aplikacji Outlook dla Windows
 
-Utwórz podpis e-mail dla nowszej wersji programu Outlook, takiej jak Outlook 2019, 2016 lub 2013, wykonaj następujące czynności:
+Utwórz podpis e-mail dla nowych wersji programu Outlook, takich jak Outlook 2019, 2016 lub 2013, wykonaj następujące czynności:
 
-1. W programie Outlook na **karcie Narzędzia** główne wybierz pozycję Nowa wiadomość **e-mail**, a następnie wybierz **kartę** Wiadomość.
+1. W Outlook na karcie **Narzędzia** główne wybierz **pozycję** Nowa wiadomość e-mail , a następnie wybierz **kartę** Wiadomość.
 
 1. W grupie **Dołączanie** wybierz pozycję **Podpis**, a następnie wybierz **pozycję Podpisy**.
 
@@ -36,5 +36,5 @@ Utwórz podpis e-mail dla nowszej wersji programu Outlook, takiej jak Outlook 20
 
 1. W **obszarze Edytuj** podpis wpisz podpis, którego chcesz użyć, a następnie wybierz przycisk **OK.**
 
-Aby uzyskać informacje na temat tworzenia podpisu e-mail w starszych wersjach programu Outlook, takich jak program Outlook 2010 lub 2007, zobacz Tworzenie i [dodawanie podpisu do wiadomości.](https://support.microsoft.com/office/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#ID0EAADAAA=Office_2007_-_2010)
+Aby uzyskać informacje na temat tworzenia podpisu e-mail w starszych wersjach programu Outlook, takich jak Outlook 2010 lub 2007, zobacz Tworzenie i dodawanie podpisu do [wiadomości.](https://support.microsoft.com/office/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#ID0EAADAAA=Office_2007_-_2010)
 
