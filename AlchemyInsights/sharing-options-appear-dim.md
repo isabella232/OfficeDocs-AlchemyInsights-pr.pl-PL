@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: 217c18ddaf12d688f61f030f4c650183aa1e2a2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a337e958ad140e15cd669441d771a2f50964069a43ec18bd537f0a105ae60b6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832608"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022362"
 ---
 # <a name="sharing-options-appear-dim-or-are-not-available"></a>Opcje udostępniania są wyświetlane wygasone lub są niedostępne
 
-Jeśli niektóre opcje udostępniania są dostępne podczas próby udostępniania z usługi SharePoint Online lub OneDrive, zobacz Opcje udostępniania są wyszarowane podczas udostępniania z usługi SharePoint Online lub [OneDrive.](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+Jeśli niektóre opcje udostępniania są dostępne przy próbie udostępnienia z usługi SharePoint Online lub programu OneDrive, zobacz Opcje udostępniania są wyszawe podczas udostępniania z usługi [SharePoint Online](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)lub OneDrive.

@@ -1,5 +1,5 @@
 ---
-title: Komunikat o błędzie podczas udostępniania plików w Eksploratorze Windows
+title: Komunikat o błędzie podczas udostępniania plików z Windows
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,20 +12,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 56e25b064f0a81da2c8440156d46da150d3c0436
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 516f72930765cfc5a48ad4f9182b1e90f342d8866ecb03767772f47676911d2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783849"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030102"
 ---
-# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Komunikat o błędzie podczas udostępniania plików w Eksploratorze Windows
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Komunikat o błędzie podczas udostępniania plików z Windows
 
-Podczas próby udostępnienia w Eksploratorze Windows może zostać wyświetlony następujący komunikat o błędzie:
+Podczas próby udostępnienia z Windows lub Eksploratora może zostać wyświetlony następujący komunikat o błędzie:
   
-"Niestety, nie możemy teraz skontaktować się z serwerem. Spróbuj ponownie później.
+"Niestety, nie możemy w tej chwili połączyć się z serwerem. Spróbuj ponownie później"
   
-Aby rozwiązać komunikat o błędzie, w programie Internet Explorer przejdź do **menu Narzędzia** \> **Opcje internetowe** \> kliknij kartę **Zaawansowane** , a następnie wyczyść pole wyboru nie **zapisuj zaszyfrowanych stron na dysku**.
+Aby rozwiązać problem z komunikatem o błędzie, w programie Internet Explorer przejdź do okna Narzędzia Opcje internetowe, kliknij kartę Zaawansowane, a następnie wyczyść pole wyboru Nie zapisuj  \>  \> **zaszyfrowanych** stron na dysku . 
   
- **Uwaga**: aby ustawienie zostało zastosowane, może być konieczne ponowne uruchomienie przeglądarki. Aby uzyskać dodatkowe informacje, zobacz [komunikat o błędzie "nie można nawiązać połączenia z serwerem" teraz "podczas udostępniania plików](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Uwaga:** Może być konieczne ponowne uruchomienie przeglądarki, aby ustawienie było skuteczne. Aby uzyskać dodatkowe informacje, zobacz Komunikat o błędzie "Nie można w tej chwili połączyć się z [serwerem" podczas udostępniania plików.](https://go.microsoft.com/fwlink/?linkid=2022914)
   

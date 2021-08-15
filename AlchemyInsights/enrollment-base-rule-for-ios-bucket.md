@@ -1,5 +1,5 @@
 ---
-title: Podstawowa reguła rejestracji zasobnika systemu iOS
+title: Reguła Podstawowa rejestracji dla zasobnika systemu iOS
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2684"
-ms.openlocfilehash: 7e549fe002b087fb167bd04b9a404689d19996c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 65919ac1f6c9a0314cf67b74137d3635a25313cefe7582f905466e2e31387842
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784173"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030066"
 ---
-# <a name="intune-device-enrollment"></a>Rejestracja urządzeń usługi Intune
+# <a name="intune-device-enrollment"></a>Rejestracja urządzenia w usłudze Intune
 
-[Informacje o rejestrowaniu urządzeń za pomocą usługi Intune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
+[Dowiedz się więcej o rejestracji urządzeń za pomocą usługi Intune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
 
-[Konfigurowanie rejestracji urządzeń z systemem iOS za pomocą usługi Intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[Konfigurowanie rejestracji urządzeń z systemem iOS w usłudze Intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Konfigurowanie rejestracji urządzeń z systemem Android za pomocą usługi Intune](https://docs.microsoft.com/intune/android-enroll)
+[Konfigurowanie rejestracji urządzeń z systemem Android w usłudze Intune](https://docs.microsoft.com/intune/android-enroll)
 
-[Konfigurowanie rejestracji urządzeń z systemem Windows za pomocą usługi Intune](https://docs.microsoft.com/intune/windows-enroll)
+[Konfigurowanie rejestrowania Windows w usłudze Intune](https://docs.microsoft.com/intune/windows-enroll)
 
-Rozwiązywanie problemów z rejestrowaniem urządzeń
+Rozwiązywanie problemów z rejestracją urządzenia
 
-1. Użyj [portalu rozwiązywania problemów usługi Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade),   Aby zdiagnozować i rozwiązać typowe błędy rejestracji. Przejrzyj [ten dokument](https://docs.microsoft.com/intune/help-desk-operators) , aby uzyskać więcej szczegółowych informacji.
+1. Użyj Portalu [rozwiązywania problemów Intune,](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) aby zdiagnozować i rozwiązać typowe błędy rejestracji. Przejrzyj [ten dokument,](https://docs.microsoft.com/intune/help-desk-operators) aby uzyskać więcej informacji.
 
-2. Przejrzyj te dokumenty, aby zapoznać się z listą typowych błędów, które uniemożliwiają rejestrowanie i rozwiązywanie problemów:
-    - [Przewodnik dotyczący rozwiązywania problemów](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
-    - [Dokument rozwiązywania problemów](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+2. Przejrzyj te dokumenty, aby uzyskać listę typowych błędów, które uniemożliwiają rejestrację i rozwiązanie:
+    - [Przewodnik po rozwiązywaniu problemów](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
+    - [Rozwiązywanie problemów z tym problemem.](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)

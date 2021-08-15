@@ -1,5 +1,5 @@
 ---
-title: 8000049 Rozmawiaj z rodziną i znajomymi w Skypie w Outlook.com
+title: 8000049 porozmawiać z rodziną i znajomymi na stronie Skype w Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
 ms.assetid: b6878497-5885-4241-b2d0-e951817c48d2
-ms.openlocfilehash: e6eaf11337a580395a116e8f4a8efee799c6094a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f1f7e8d0aa59fa3951ae9b3b974a42935976dbff1fbeda7d58fcc52bb39de98a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659140"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956741"
 ---
-# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Rozmawiaj z rodziną i znajomymi w Skypie w Outlook.com
+# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Rozmawiaj z rodziną i znajomymi na Skype w Outlook.com
 
-Outlook.com klienci mogą rozmawiać ze znajomymi i rodziną za pomocą funkcji czatu, głosu i wideo w Skypie. Gdy [scalasz konta Microsoft i Skype](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), automatycznie masz dostęp do Skype'a w sieci web w Outlook.com.
+Outlook.com mogą rozmawiać ze znajomymi i rodziną za pomocą funkcji czatu, rozmów głosowych i wideo w Skype. Po [scaleniu kont Microsoft i Skype](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409)automatycznie masz dostęp do witryny Skype w sieci Web w witrynie Outlook.com.
   
-Dowiedz się więcej na temat [rozmów z rodziną i znajomymi w Skypie w Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
+Dowiedz się więcej o tym, jak rozmawiać z rodziną i znajomymi [w Skype w Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409)
   
 

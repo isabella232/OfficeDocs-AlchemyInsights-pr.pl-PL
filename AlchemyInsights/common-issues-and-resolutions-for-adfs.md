@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 5e7853ea6c2a58aff6a4238e58c855a7f2071553
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 970fa8abb00cc6ea599e262df3497b96f16554d61e4b471a4d8a62506b8cb483
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817614"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978819"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Znane problemy i rozwiązania dla usług ADFS
 
@@ -25,12 +25,12 @@ Konfigurację domeny federacyjnej można zaktualizować zgodnie z następującym
 
 - [Wygasający certyfikat federacji usług ADFS](adfs-federation-certificate-expiring.md)
 
-- [Konfigurowanie usług ADFS dla usługi Office 365 dla logowania pojedynczego](https://docs.microsoft.com/office365/troubleshoot/active-directory/set-up-adfs-for-single-sign-on)
+- [Konfigurowanie usług ADFS dla Office 365 dla logowania pojedynczego](https://docs.microsoft.com/office365/troubleshoot/active-directory/set-up-adfs-for-single-sign-on)
 
-- [2713898](https://support.microsoft.com/help/2713898)  Błąd "Wystąpił problem z uzyskaniem dostępu do witryny" z usług AD FS, gdy użytkownik federowany może się do platformy Microsoft 365, Azure lub Intune.
+- [2713898](https://support.microsoft.com/help/2713898) komunikat o błędzie "Wystąpił problem z dostępem do witryny" z usług AD FS, gdy użytkownik federowany się Microsoft 365 w usłudze Microsoft 365 Azure lub Intune.
 
-- [2535191](https://support.microsoft.com/help/2535191) "Niestety, mamy problem z zalogowaniem Cię" i błąd "80048163", gdy użytkownik federowany próbuje zalogować się do platformy Microsoft 365, platformy Azure lub Intune.
+- [2535191](https://support.microsoft.com/help/2535191) błąd "Niestety, wystąpił problem z zalogowaniem Cię" i "80048163", gdy użytkownik federowany próbuje zalogować się do usługi Microsoft 365, Azure lub Intune.
 
-- [2647020](https://support.microsoft.com/help/2647020)   Błędy "Niestety, mamy problem z zalogowaniem Cię" i "80041317" lub "80043431", gdy użytkownik federowany próbuje zalogować się do platformy Microsoft 365, platformy Azure lub intune.
+- [2647020](https://support.microsoft.com/help/2647020) błędy "Niestety, wystąpił problem z zalogowaniem Cię" i "80041317" lub "80043431", gdy użytkownik federowany próbuje zalogować się do usługi Microsoft 365, Azure lub Intune.
 
-Aby uzyskać więcej informacji, zobacz Aktualizowanie lub naprawianie ustawień domeny federacji na platformie [Microsoft 365, Azure lub Intune.](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365)
+Aby uzyskać więcej informacji, zobacz Aktualizowanie lub naprawianie ustawień domeny federacji w usłudze [Microsoft 365, Azure lub Intune.](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365)

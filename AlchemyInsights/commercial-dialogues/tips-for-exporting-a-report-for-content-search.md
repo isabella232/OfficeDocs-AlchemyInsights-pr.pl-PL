@@ -1,5 +1,5 @@
 ---
-title: Porady dotyczące eksportowania raportu do przeszukiwania zawartości
+title: Wskazówki eksportowania raportu do przeszukiwania zawartości
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482124"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978891"
 ---
-# <a name="tips-for-exporting-a-report-for-content-search"></a>Porady dotyczące eksportowania raportu do przeszukiwania zawartości
+# <a name="tips-for-exporting-a-report-for-content-search"></a>Wskazówki eksportowania raportu do przeszukiwania zawartości
 
-Może być konieczne wyświetlenie raportu wyszukiwania zawartości zamiast eksportowania pełnych wyników wyszukiwania. Jeśli tak, możesz wyeksportować tylko raport z wynikami wyszukiwania. Oto kilka porad:
+Zamiast eksportowania pełnych wyników wyszukiwania może być konieczne wyświetlenie raportu przeszukiwania zawartości. Jeśli tak, możesz wyeksportować tylko raport z wynikami wyszukiwania. Oto kilka porad:
 
-- Upewnij się, że do Twojego konta przypisano rolę zarządzania wyszukiwaniem zgodności.
+- Upewnij się, że Twoje konto ma przypisaną rolę zarządzania wyszukiwaniem zgodności.
 - Upewnij się, że Twój komputer spełnił wszystkie [wymagania wstępne.](https://go.microsoft.com/fwlink/?linkid=2102407) Nie wszystkie przeglądarki, takie jak Chrome, są obsługiwane.
-- Zawęź wyniki eksportu do mniej niż 20 TB, aby eksport nie zawiódł. Spróbuj użyć mniejszego zakresu dat lub mniejszej liczby lokalizacji wyszukiwania.
-- Eksportowanie raportu jest liczone od maksymalnej liczby raportów, które mogą być uruchamiane jednocześnie.
+- Zawęź wyniki eksportu do mniej niż 20 TB, aby eksport nie zakończył się niepowodzeniem. Spróbuj użyć mniejszego zakresu dat lub mniejszej liczby lokalizacji wyszukiwania.
+- Eksportowanie raportu jest wliczane do maksymalnej liczby raportów, które można uruchamiać jednocześnie.
 
-Aby dowiedzieć się więcej, zobacz [Eksportowanie raportu wyszukiwania zawartości](https://go.microsoft.com/fwlink/?linkid=2102409)
+Aby dowiedzieć się więcej, zobacz [Eksportowanie raportu przeszukiwania zawartości.](https://go.microsoft.com/fwlink/?linkid=2102409)
