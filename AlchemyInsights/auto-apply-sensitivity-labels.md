@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707244"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969310"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Automatyczne stosowanie etykiet wrażliwości
 
-Etykiety wrażliwości mogą być ręcznie stosowane do zawartości przez użytkowników lub możesz skonfigurować ich automatyczne zastosowanie do zawartości.
+Etykiety wrażliwości mogą być stosowane ręcznie do zawartości przez użytkowników lub można skonfigurować je w celu ich automatycznego stosowania do zawartości.
 
-Automatyczne stosowanie etykiet wrażliwości usuwa konieczność szkolenia użytkowników w zakresie klasyfikowania zawartości i powiadamiania ich o konfiguracjach zasad.
+Automatyczne stosowanie etykiet wrażliwości usuwa konieczność przeszkolenia użytkowników w zakresie klasyfikowania zawartości i konieczności powiadamiania ich o konfiguracjach zasad.
 
-Aby etykiety zastosować automatycznie, wymagane są następujące elementy:
+Aby etykiety stosowaneły automatycznie, wymagane są następujące elementy:
 
-- Subskrypcja P2 usługi Azure Information Protection
-- [Pobieranie i instalowanie klienta ujednoliconego oznaczania usługi Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Subskrypcja usługi Azure Information Protection P2
+- [Pobieranie i instalowanie klienta ujednoliconego etykiet usługi Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Pracujemy nad natywnym wsparciem, które w przyszłości nie będzie wymagało klienta ujednoliconego oznaczania usługi Azure Information Protection.
+Pracujemy nad natywnym wsparciem, które w przyszłości nie będzie wymagać ujednoliconego klienta etykiet usługi Azure Information Protection.
 
-Obecnie tylko system Windows obsługuje klienta etykiet ujednoliconych.  Ta funkcja nie jest jeszcze obsługiwana na komputerach Mac, w systemach iOS i Android.
+Obecnie tylko Windows obsługuje ujednoliconego klienta etykiet.  Ta funkcja nie jest jeszcze obsługiwana na komputerach Mac, w systemach iOS i Android.
 
-Aby uzyskać więcej informacji na temat etykiet wrażliwości i ich automatycznego stosowania do zawartości, zobacz:
+Aby uzyskać więcej informacji na temat etykiet wrażliwości i automatycznego stosowania ich do zawartości, zobacz:
 
 - [Omówienie etykiet wrażliwości](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 - [Automatyczne stosowanie etykiet wrażliwości do zawartości](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
