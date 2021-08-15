@@ -1,5 +1,5 @@
 ---
-title: Dzierżawca obsługuje pilotażową obsługę aplikacji dla programu Outlook
+title: Dzierżawa pilotażowo obsługuje w aplikacji usługi Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: 76387d08ba2d99e2c27fe17f2e19840d71d24cde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 16c9929e0e0e7f13576cceea14e2cfd2cf468c475f49e216893667ca0fa1a00e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772200"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991905"
 ---
-# <a name="in-app-support-in-outlook-for-windows"></a>Pomoc techniczna w aplikacji w programie Outlook dla systemu Windows
+# <a name="in-app-support-in-outlook-for-windows"></a>Obsługa aplikacji w aplikacji Outlook dla Windows
 
-Jako Administrator dzierżawy możesz otrzymywać pomoc techniczną w aplikacji, aby uzyskać problemy w programie Outlook dla systemu Windows. W programie Outlook wybierz pozycję **Pomoc —**  >  **kontakt z pomocą techniczną**. Wprowadź pytanie, a członek zespołu pomocy technicznej programu Outlook dla systemu Windows odpowie na Twoją wiadomość.
+Jako administrator dzierżawy możesz uzyskać pomoc techniczną w aplikacji dotyczącej problemów z Outlook dla Windows. W Outlook wybierz pozycję Pomoc **Kontakt z**  >  **pomocą techniczną**. Wpisz pytanie, a członek zespołu pomocy Outlook, Windows odpowie na Twoją wiadomość.

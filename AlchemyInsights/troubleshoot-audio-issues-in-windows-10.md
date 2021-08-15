@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z dźwiękiem w systemie Windows 10
+title: Rozwiązywanie problemów z dźwiękiem w Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 81a7f77bd6565c52ec9d752934a872e59cc11e89b90a646d17c3549d72e8a69f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833301"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039436"
 ---
-# <a name="troubleshooting-audio-issues-in-windows-10"></a>Rozwiązywanie problemów z dźwiękiem w systemie Windows 10
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>Rozwiązywanie problemów z dźwiękiem w Windows 10
 
 **Uruchamianie narzędzia do rozwiązywania problemów z dźwiękiem**
 
@@ -55,12 +55,12 @@ Aby upewnić się, że sterowniki są aktualne:
 
 2. W **obszarze Kontrolery dźwięku, wideo** i gier wybierz kartę dźwiękową, otwórz ją, wybierz **kartę Sterownik** i wybierz pozycję Aktualizuj **sterownik.**
 
-**Uwaga:** Jeśli system Windows nie znajduje nowego sterownika, poszukaj go w witrynie internetowej producenta urządzenia i postępuj zgodnie z podanymi instrukcjami.
+**Uwaga:** Windows nie może znaleźć nowego sterownika, poszukaj go w witrynie internetowej producenta urządzenia i postępuj zgodnie z podanymi instrukcjami.
 
 **Ponowne instalowanie sterownika**
 
 Jeśli nie możesz zaktualizować za pomocą Menedżera urządzeń lub znaleźć nowego sterownika w witrynie internetowej producenta, spróbuj wykonać następujące czynności:
 
-1. W Menedżerze urządzeń kliknij prawym przyciskiem myszy (lub naciśnij i przytrzymaj) sterownik audio i wybierz polecenie **Odinstaluj**. Uruchom ponownie urządzenie, a system Windows spróbuje ponownie zainstalować sterownik.
+1. W Menedżerze urządzeń kliknij prawym przyciskiem myszy (lub naciśnij i przytrzymaj) sterownik audio i wybierz polecenie **Odinstaluj**. Uruchom ponownie urządzenie i Windows spróbuje ponownie zainstalować sterownik.
 
-2. Jeśli ponowna instalacja sterownika nie działa, spróbuj użyć ogólnego sterownika audio, który jest dostarczany z systemem Windows. W Menedżerze urządzeń kliknij prawym przyciskiem myszy (lub naciśnij i przytrzymaj) sterownik audio > Aktualizuj oprogramowanie sterownika Przeglądaj mój komputer w celu wybrania oprogramowania sterownika Pozwól mi wybrać z listy sterowników urządzeń na moim komputerze , wybierz pozycję Urządzenie audio Hd , wybierz pozycję Dalej i postępuj zgodnie z instrukcjami, aby je  >    >  zainstalować.  
+2. Jeśli ponowna instalacja sterownika nie działa, spróbuj użyć ogólnego sterownika audio, który jest dostarczany z Windows. W Menedżerze urządzeń kliknij prawym przyciskiem myszy (lub naciśnij i przytrzymaj) sterownik audio > Aktualizuj oprogramowanie sterownika Przeglądaj mój komputer w celu wybrania oprogramowania sterownika Pozwól mi wybrać z listy sterowników urządzeń na moim komputerze , wybierz pozycję Urządzenie audio Hd , wybierz pozycję Dalej i postępuj zgodnie z instrukcjami, aby je  >    >  zainstalować.  

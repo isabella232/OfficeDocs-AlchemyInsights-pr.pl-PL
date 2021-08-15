@@ -1,5 +1,5 @@
 ---
-title: Jak zaktualizować ustawienia poczty e-mail w programie Outlook dla komputerów PC
+title: Jak zaktualizować ustawienia poczty e-mail Outlook komputera PC
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,28 +12,28 @@ localization_priority: Normal
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: 7b98d6d7fcc3b8b59207c868c606730828d677c8
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: e586664b1c1e8435953fb8a98b2b5b6b15fe1cfa8d74b9622a257cb1751fc799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976983"
 ---
-# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Jak zaktualizować ustawienia poczty e-mail w programie Outlook dla komputerów PC
+# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Jak zaktualizować ustawienia poczty e-mail Outlook komputera PC
 
-1. Otwórz program Outlook i wybierz pozycję **plik > ustawienia kont > ustawienia kont**.
+1. Otwórz Outlook i wybierz pozycję Plik **> konto Ustawienia > konto Ustawienia.**
 
 2. Wybierz konto e-mail, które chcesz zmienić, a następnie kliknij przycisk **Zmień**. 
 
-3. Na stronie **Ustawienia** zaktualizuj nazwy serwerów poczty przychodzącej i wychodzącej, adres e-mail, imię i nazwisko, nazwę użytkownika i hasło, zależnie od potrzeb. Jeśli chcesz zmienić ustawienia protokołu SSL lub ustawienia portu, kliknij pozycję **więcej ustawień**. Najbardziej typowe ustawienia aktualizacji znajdują się na karcie **Serwer wychodzący** i na karcie **Zaawansowane** .
+3. Na stronie **Ustawienia** zaktualizuj nazwy serwerów poczty przychodzącej i wychodzącej, adres e-mail, nazwę użytkownika i hasło zgodnie z potrzebami. Jeśli chcesz zmienić ustawienia protokołu SSL lub ustawienia portu, kliknij pozycję **Więcej Ustawienia.** Najczęściej spotykane ustawienia do zaktualizowania znajdują się na kartach **Serwer wychodzący** **i** Zaawansowane.
 
-4. Jeśli występują problemy z wysyłaniem wiadomości e-mail lub otrzymywanie wiadomości dotyczących serwera poczty wychodzącej, upewnij się, że jest zaznaczone pole wyboru **Serwer wychodzący (SMTP) wymaga uwierzytelniania** .
+4. Jeśli występują problemy z wysyłaniem wiadomości e-mail lub otrzymujesz wiadomości dotyczące serwera poczty wychodzącej, upewnij się, że pole wyboru Serwer wychodzący **(SMTP) wymaga uwierzytelniania** jest zaznaczone.
 
-5. Jeśli chcesz zaktualizować porty serwera przychodzącego lub wychodzącego lub ustawienia protokołu SSL, przejdź do karty **Zaawansowane** i wprowadź odpowiednie zmiany.
+5. Jeśli musisz zaktualizować porty serwera poczty przychodzącej lub  wychodzącej albo ustawienia protokołu SSL, przejdź do karty Zaawansowane i wprowadzić zmiany.
 
 > [!NOTE]
-> **Dla klientów AOL i Verizon**: Wybieranie **protokołu SSL/TLS** z pola rozwijanego w obszarze **połączenia zaszyfrowane serwera przychodzące i wychodzące** zapewnia, że możesz nadal wysyłać i odbierać wiadomości e-mail po 7 listopada 2017.
+> W przypadku klientów **usług AOL** i Verizon: Wybranie protokołu **SSL/TLS** z listy rozwijanej w obszarze Połączenia przychodzące i wychodzące **serwera szyfrowane** gwarantuje, że nadal będzie można wysyłać i odbierać wiadomości e-mail po 7 listopada 2017 r.
 
-6. Po zakończeniu aktualizowania ustawień kliknij przycisk **OK**, kliknij przycisk **dalej**, a następnie kliknij przycisk **Zakończ**.
+6. Po zakończeniu aktualizowania ustawień kliknij przycisk **OK,** kliknij przycisk **Dalej,** a następnie kliknij przycisk **Zakończ.**
 
 

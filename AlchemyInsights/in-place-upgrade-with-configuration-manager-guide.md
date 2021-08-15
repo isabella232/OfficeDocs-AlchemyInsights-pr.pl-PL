@@ -1,5 +1,5 @@
 ---
-title: Uaktualnienie w miejscu za pomocą przewodnika po programie Configuration Manager
+title: Uaktualnianie w miejscu za pomocą przewodnika Menedżer konfiguracji w miejscu
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004199"
 - "7380"
-ms.openlocfilehash: 0c08cfee8264d6aac1166aeb11c0417e17c63fac
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 0e01230010df55e6ceb8508d86fd4833112c0972d5130871b717545d2b427170
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679363"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014766"
 ---
-# <a name="in-place-upgrade-with-configuration-manager-guide"></a>Uaktualnienie w miejscu za pomocą przewodnika po programie Configuration Manager
+# <a name="in-place-upgrade-with-configuration-manager-guide"></a>Uaktualnianie w miejscu za pomocą przewodnika Menedżer konfiguracji w miejscu
 
-Proces uaktualniania w miejscu zachowuje wszystkie dane, ustawienia, aplikacje i sterowniki z istniejącej wersji systemu operacyjnego. Jest ona przeznaczona na niezwykle niezawodne i może być automatycznie przywracana do poprzedniego systemu operacyjnego, jeśli wystąpią jakieś problemy.
+Proces uaktualniania w miejscu zachowuje wszystkie dane, ustawienia, aplikacje i sterowniki z istniejącej wersji systemu operacyjnego. Jest ona bardzo niezawodna i ma możliwość automatycznego powrotu do poprzedniego systemu operacyjnego w przypadku napotkania jakichkolwiek problemów.
 
-Podczas uaktualniania urządzeń z systemem Windows 7 i Windows 8,1 do najnowszej wersji systemu Windows 10 Użyj [przewodnika po uaktualnieniu in-Place](https://admin.microsoft.com/adminportal/home#/win10upgrade) . Użyjesz odpowiedniego skryptu, aby sprawdzić wymagania wstępne i automatycznie skonfigurować uaktualnienie w miejscu.
+Użyj przewodnika [Po uaktualnieniu](https://admin.microsoft.com/adminportal/home#/win10upgrade) w miejscu Menedżer konfiguracji uaktualnianiu do najnowszej wersji Windows 7 i Windows 8.1 do najnowszej wersji Windows 10. Użyjesz podanego skryptu do sprawdzenia wymagań wstępnych i automatycznego skonfigurowania uaktualnienia w miejscu.

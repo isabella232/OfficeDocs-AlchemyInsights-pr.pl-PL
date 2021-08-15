@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004403"
 - "7947"
-ms.openlocfilehash: ea694898baffa50fca71957175eba3664dece44e
-ms.sourcegitcommit: 112f18dce8257b98fab32d44910ee879efb44cb8
+ms.openlocfilehash: ed932592aae1158bc0c0da4817467b69d20208533bc080cb0e424f552af8601a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49935134"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023532"
 ---
 # <a name="turn-on-ndi-technology"></a>Włączanie technologii NDI
 
-Technologia NDI wymaga, aby użytkownik włączył dwie czynności:
+Technologia NDI wymaga, aby użytkownik włączył dwa kroki:
 
-1. Administrator dzierżawy musi włączyć właściwość "AllowNDIStreaming" w u administratora usługi CsTeamsMeetingPolicy.
+1. Administrator dzierżawy musi włączyć właściwość "AllowNDIStreaming" w ujmowaniu w usługę CsTeamsMeetingPolicy.
 
     `Set-CsTeamsMeetingPolicy -Identity MEETING_POLICY -AllowNDIStreaming $true`
 
-2. Po wpełnieniu tej zmiany użytkownik końcowy musi włączyć technologię NDI® dla swojego konkretnego klienta z poziomu ustawień **> uprawnień.**
+2. Po wpełnieniu tej zmiany użytkownik końcowy musi włączyć technologię NDI® dla swojego klienta z poziomu strony **Ustawienia > uprawnienia.**
 
-Aby uzyskać więcej informacji, zobacz [Korzystanie z technologii NDI w aplikacji Microsoft Teams.](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings)
+Aby uzyskać więcej informacji, zobacz [Korzystanie z technologii NDI w Microsoft Teams.](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings)

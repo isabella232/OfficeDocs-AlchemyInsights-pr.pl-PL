@@ -1,5 +1,5 @@
 ---
-title: Przeprowadzanie natychmiastowej płatności — zalecane czynności
+title: Dokonaj natychmiastowej płatności — zalecane czynności
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,36 +13,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 7c25bf8f783ca067112d0d4e5d53970324376d7c435bfc22987508edc03f9e02
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755809"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976767"
 ---
-# <a name="make-immediate-payment---recommended-steps"></a>Przeprowadzanie natychmiastowej płatności — zalecane czynności
+# <a name="make-immediate-payment---recommended-steps"></a>Dokonaj natychmiastowej płatności — zalecane czynności
 
-Na podstawie opisu swojego problemu znaleźliśmy rozwiązanie dla Ciebie. Większość klientów mogła samodzielnie rozwiązać swoje problemy po przeprowadzeniu naszej dokumentacji.
+Na podstawie opisu problemu znaleźliśmy rozwiązanie dla Ciebie. Większość klientów mogła rozwiązać swój problem samodzielnie po naszej dokumentacji.
 
-Aby przeprowadzić płatność natychmiastową, należy upewnić się, że saldo płatności upłynął. Jeśli nie otrzymasz płatności lub nie możemy przetworzyć płatności, możesz otrzymać wiadomość e-mail lub komunikat alertu o zaległym saldzie w centrum kont lub usłudze Azure Portal. 
+Aby dokonać natychmiastowej płatności, zadbaj o to, aby rozwiązać zaszłe opłaty. Jeśli płatność nie zostanie odebrana lub nie możemy przetworzyć twojej płatności, możesz otrzymać wiadomość e-mail lub w Centrum kont lub w Portalu Azure zobaczysz alert z powiadomieniem o zaszłym saldie. 
 
-Przetwarzanie płatności mogło nie powiodło się, Jeśli ważność karty kredytowej w pliku wygasła lub opłata została odrzucona przez Bank. Administrator konta może przejrzeć i zaktualizować kartę kredytową w centrum kont. 
+Przetworzenie płatności może się nie powieść, jeśli karta kredytowa w pliku wygasła lub obciążenie zostało odrzucone przez Twój bank. Administrator konta może przejrzeć i zaktualizować kartę kredytową w Centrum kont. 
 
-Abonament na platformie Azure może być wyłączony, ponieważ Twoje doładowanie straciło ważność, osiągnięto limit wydatków, masz przeterminowane rozliczenie, Doładuj limit karty kredytowej lub, ponieważ abonament został anulowany przez administratora konta.  
+Twoja subskrypcja usługi Azure może zostać wyłączona, ponieważ wygasła Twoja karta kredytowa, osiągnięto limit wydatków, masz zao termin płatności, osiągnięto limit karty kredytowej lub subskrypcja została anulowana przez administratora konta.  
 
-Jeśli dana karta została odrzucona przez instytucję finansową w przypadku oczekującej płatności, Dowiedz się do instytucji finansowej, aby rozwiązać ten problem.  
+Jeśli na karcie znajduje się oczekująca płatność, ponieważ ta karta została odrzucona przez Twoją instytucję finansową, strzygniesz się do swojej instytucji finansowej, aby rozwiązać ten problem.  
 
-Może być konieczne skontaktowanie się z bankiem w celu wyświetlenia następujących danych:
+Może być konieczne sczekię z bankiem, aby sprawdzić:
 
 - Jeśli na karcie znajduje się transakcja międzynarodowa. 
-- Jeśli karta ma limit kredytu na rozliczenie salda 
-- Jeśli na karcie jest włączona płatność cykliczna 
+- Jeśli karta ma limit środków na koncie w celu rozliczenia salda 
+- Czy włączono dla karty opcję płatności cyklicznych 
 
-Jeśli płatność została odrzucona, sprawdź, który instrument płatniczy (PI) jest odrzucany na wypadek, gdyby z abonamentem była już wiele PIs skojarzonych z subskrypcją. W razie potrzeby zmień lub Usuń PI z subskrypcji. 
+Jeśli płatność zostanie odrzucona, sprawdź, który instrument płatniczy (PI) jest odrzucany, jeśli masz wiele interfejsów PI skojarzonych z subskrypcją. W razie potrzeby zmień lub usuń swój pi z subskrypcji. 
 
 **Polecane dokumenty** 
 
-- [Zarządzanie dostępem do informacji rozliczeniowych na platformie Azure](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Pobieranie danych dotyczących faktur lub użycia z centrum kont platformy Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Zarządzanie dostępem do informacji rozliczeniowych dla platformy Azure](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Pobieranie faktury lub danych użycia z Centrum kont Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Ponowne aktywowanie subskrypcji](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Płatność za pomocą faktury na platformie Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
+- [Płacenie za usługę Azure za pomocą faktury](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
