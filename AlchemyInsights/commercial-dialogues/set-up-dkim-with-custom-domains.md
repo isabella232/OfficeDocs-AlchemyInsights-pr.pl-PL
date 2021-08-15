@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: c448956f0dad0738f4de7507ec4686c738a90a55
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bb19f0672a21ea8b99c433ad83db4d89536c9a1705245fd2a683471170ab51ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747641"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994833"
 ---
 # <a name="set-up-dkim-with-custom-domains"></a>Konfigurowanie DKIM z domenami niestandardowymi
 
@@ -34,6 +34,6 @@ Points to address or value:    selector2-<domainGUID>._domainkey.<initialDomain>
 TTL:                3600
 ```
 > [!NOTE]
-> **DomainGUID** to tekst po lewej stronie nazwy **mail.protection.outlook.com** w dostosowanym rekordzie MX domeny niestandardowej (na przykład contoso-com dla domeny **contoso.com**). **InitialDomain** to domena używana podczas rejestracji w usłudze Office 365 (na przykład **contoso.onmicrosoft.com).**
+> **DomainGUID** to tekst po lewej stronie nazwy **mail.protection.outlook.com** w dostosowanym rekordzie MX domeny niestandardowej (na przykład contoso-com dla domeny **contoso.com**). **InitialDomain** to domena używana podczas rejestracji w u rejestratora domen Office 365 (na przykład **contoso.onmicrosoft.com**).
 
-Aby uzyskać więcej informacji na temat rekordów DNS, zobacz Tworzenie rekordów DNS dla usługi [Office 365 u dowolnego dostawcy hostingu DNS.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+Aby uzyskać więcej informacji na temat rekordów DNS, zobacz [Tworzenie rekordów DNS dla](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)usługi w witrynie Office 365.
