@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 2adf35662797e9e9e354ddd0c513f5ce2463d07c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749981"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994875"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>Ustaw wartość ClientAccessServerEnabled na True
 
 Jeśli nie możesz otworzyć zaszyfrowanej wiadomości e-mail i zamiast tego zobaczysz **załącznik,** wykonaj następujące czynności:
 
-1. Połącz się z programem PowerShell dla usługi Exchange Online.
+1. Połączenie do Exchange Online PowerShell.
 
 > [!NOTE]
-> Aby nawiązać połączenie z programem PowerShell dla usługi Exchange Online, musisz zalogować się przy użyciu konta administratora globalnego lub administratora programu Exchange.
+> Aby nawiązać połączenie Exchange Online programu PowerShell, musisz zalogować się przy użyciu konta administratora globalnego Exchange administratora.
 
-   a. Otwórz program Windows PowerShell, a następnie uruchom następujące polecenie: `$UserCredential = Get-Credential`
-b. W **oknie dialogowym** Żądanie poświadczeń programu Windows PowerShell wprowadź swoje konto służbowe i hasło, c. Kliknij przycisk **OK**. 
+   a. Otwórz Windows PowerShell, a następnie uruchom następujące polecenie:`$UserCredential = Get-Credential`
+b. W **oknie Windows PowerShell poświadczenia** poświadczenia wprowadź swoje konto służbowe i hasło, c. Kliknij przycisk **OK**. 
 
 2. Uruchom następujące polecenie, aby utworzyć nową sesję:
 

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: ee233e780df0a7f686a7104551cff1f670e832a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8c7d1d384548beef56dda7fb5793e66daf15d68fa6d27999b09a6321579dfff6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818946"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017826"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Zmienianie nazwy konta lokalnego lub konta Microsoft
 
-Jeśli logujesz się do systemu Windows 10 tylko za pomocą nazwy użytkownika i hasła, używasz konta lokalnego. 
+Jeśli logujesz się do konta Windows 10, używasz tylko nazwy użytkownika i hasła, używasz konta lokalnego. 
 
 **Aby zmienić nazwę konta lokalnego:**
 
@@ -37,7 +37,7 @@ Jeśli do zalogowania się używasz adresu e-mail i hasła, używasz konta Micro
 
 **Aby zmienić nazwę wyświetlaną konta Microsoft:**
 
-Możesz używać swojej nazwy wyświetlanej przy każdym logować się do swojego konta. Jest to również nazwa, która jest widzisz na urządzeniach z systemem Windows 10 i jest to nazwa, która jest widzieć osoby, gdy wysyłasz wiadomości e-mail. Ta nazwa może być inna niż nazwa wyświetlana konta lokalnego. Oto jak zmienić nazwę wyświetlaną:
+Możesz używać swojej nazwy wyświetlanej przy każdym logować się do swojego konta. Jest to również nazwa, która jest Windows 10 urządzeniach przenośnych, i jest to nazwa, która jest widzieć osoby, gdy wysyłasz wiadomości e-mail. Ta nazwa może być inna niż nazwa wyświetlana konta lokalnego. Oto jak zmienić nazwę wyświetlaną:
 
 1. Zaloguj się na stronie **Swoich informacji** w witrynie internetowej [konta Microsoft.](https://account.microsoft.com/)
 

@@ -1,5 +1,5 @@
 ---
-title: Postępowanie ze spamem i wiadomościami-śmieciami w aplikacji Outlook w sieci Web
+title: Radzenie sobie ze spamem i wiadomościami-śmieciami w Outlook w sieci Web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 4a12668ee95aa4dd3c07b0d781a3935f69792211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd05f419fbe0ad8cc5b840d0934934aca34891c01dfb5fd258f9deba3e63ec0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982599"
 ---
-# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Oznaczanie wiadomości e-mail jako wiadomości-śmieci w aplikacji Outlook w sieci Web
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Oznaczanie wiadomości e-mail jako wiadomości-śmieci w Outlook w sieci Web
 
-Aby oznaczyć wiadomość jako wiadomość-śmieć lub jako spam, zaznacz ją na liście wiadomości i wybierz pozycję wiadomości **-**  >  **śmieci**.
+Aby oznaczyć wiadomość jako wiadomość-śmieć lub spam, zaznacz ją na liście wiadomości i wybierz pozycję **Wiadomości-śmieci**  >  .
 
-Aby zablokować wszystkie wiadomości z określonego adresu e-mail, zaznacz wiadomość lub wiadomości na liście wiadomości, a następnie wybierz pozycję blok **wiadomości-śmieci**  >  **Block**.
+Aby zablokować wszystkie wiadomości z określonego adresu e-mail, zaznacz je na liście wiadomości, a następnie wybierz pozycję **Blokowanie**  >  **wiadomości-śmieci.**
 
-Jeśli przypadkowo oznaczesz wiadomość jako wiadomość-śmieć, zaznacz ją w folderze wiadomości-śmieci i **Wybierz wiadomość**niebędącą śmieciem  >  **Not junk**. (*Uwaga:* elementy w folderze wiadomości-śmieci są usuwane po upływie 30 dni).
+Jeśli przypadkowo oznaczysz wiadomość jako wiadomość-śmieć, zaznacz ją w folderze Wiadomości-śmieci i wybierz pozycję **Wiadomość** niebędąka  >  **śmieciem**. *(Uwaga:* elementy z folderu Wiadomości-śmieci są usuwane po 30 dniach).
 
-Dowiedz się więcej o [tym, jak chronić spam i wiadomości-śmieci w skrzynce odbiorczej w sieci Web.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
+Dowiedz się więcej o tym, jak chronić skrzynkę odbiorczą przed [spamem i Outlook w sieci Web odbiorczej.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)

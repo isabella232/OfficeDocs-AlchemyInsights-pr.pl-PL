@@ -1,5 +1,5 @@
 ---
-title: Zapobieganie przechodzeniu wiadomości do folderu wiadomości-śmieci w programie Outlook.com
+title: Zatrzymywanie przekierowywu wiadomości do folderu Wiadomości-śmieci w Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 6e10fb27472c770bb9530a20d86fd0ec1d3cb0dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c4d223d25e77562b60c516a149183aab83444d011a504f71424479792c97cfa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694285"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041128"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Zapobieganie wysyłaniu wiadomości do folderu wiadomości-śmieci
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Zatrzymywanie folderu wiadomości-śmieci
 
-Jeśli okaże się, że wiadomość e-mail w folderze wiadomości-śmieci w Outlook.com nie jest śmieciem:
+Jeśli odkryjesz, że wiadomość e-mail w folderze Wiadomości-śmieci w Outlook.com nie jest śmieciem:
 
-1. Otwórz [folder wiadomości-śmieci](https://outlook.live.com/mail/junkemail).
-1. Zaznacz wiadomość. (*Uwaga:* elementy w folderze wiadomości-śmieci są usuwane po upływie 30 dni).
-1. Nad listą wiadomości wybierz pozycję **wiadomości-** śmieci nie będących  >  **śmieciami**.
+1. Otwórz folder [Wiadomości-śmieci.](https://outlook.live.com/mail/junkemail)
+1. Zaznacz wiadomość. *(Uwaga:* elementy z folderu Wiadomości-śmieci są usuwane po 30 dniach).
+1. Powyżej listy wiadomości wybierz pozycję **Wiadomość niebędące**  >  **śmieciem**.
 
-Jeśli chcesz zapobiec przechodzeniu wiadomości od nadawcy do folderu wiadomości-śmieci, Dodaj nadawcę do listy bezpiecznych nadawców:
+Jeśli chcesz uniemożliwić nadawcy jakiekolwiek wiadomości od nadawcy trafią do folderu Wiadomości-śmieci, dodaj nadawcę do listy bezpiecznych nadawców:
 
-1. Otwórz [Ustawienia wiadomości-śmieci](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. W obszarze **Bezpieczni nadawcy i domeny**wybierz pozycję **Add (Dodaj**), wprowadź adres e-mail lub domenę, którą chcesz dodać, a następnie wybierz pozycję **Zapisz**.
+1. Otwórz ustawienia [wiadomości-śmieci.](https://go.microsoft.com/fwlink/?linkid=2035804)
+1. W **Sejf nadawców i domen** wybierz pozycję **Dodaj**, wprowadź adres e-mail lub domenę, którą chcesz dodać, a następnie wybierz pozycję **Zapisz**.
 
-Aby dowiedzieć się więcej, zobacz [oznaczanie wiadomości e-mail jako wiadomości-śmieci lub blokowanie nadawców w Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Aby dowiedzieć się więcej, przeczytaj [Oznaczanie wiadomości e-mail jako wiadomości-śmieci lub blokowanie nadawców w Outlook.com.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)

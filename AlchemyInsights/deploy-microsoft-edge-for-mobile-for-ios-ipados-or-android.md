@@ -1,5 +1,5 @@
 ---
-title: Wdrażanie aplikacji Microsoft Edge dla urządzeń przenośnych w systemie iOS/iPadOS lub Android
+title: Wdrażanie aplikacji Microsoft Edge dla urządzeń przenośnych dla systemu iOS/iPadOS lub Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 98ab637b6ca0f2b3cfa98ae897d6ed1d9f36c3cd
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679939"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005460"
 ---
-# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Wdrażanie aplikacji Microsoft Edge dla urządzeń przenośnych w systemie iOS/iPadOS lub Android
+# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Wdrażanie aplikacji Microsoft Edge dla urządzeń przenośnych dla systemu iOS/iPadOS lub Android
 
-W poniższym scenariuszu przedstawionym poniżej przedstawiono sposób przypisywania przeglądarki Microsoft Edge do użytkowników urządzeń z systemem iOS, iPadOS i Android. Po wykonaniu tych kroków zasady usługi Microsoft Intune będą umożliwiały Włączanie następujących funkcji przeglądarki Microsoft Edge dla firm:
+Scenariusz z przewodnikiem podsumowany poniżej pomoże Ci przypisać Microsoft Edge użytkownikom urządzeń z systemami iOS, iPadOS i Android. Po zakończeniu tych czynności zasady Microsoft Intune włączyć następujące funkcje programu Microsoft Edge dla firm:
 
-- Podwójna tożsamość
-- Integracja z zasadami ochrony aplikacji usługi Microsoft Intune
-- Integracja z serwerem proxy aplikacji usługi Azure Active Directory
-- Skróty do zarządzanych ulubionych i stron głównych
+- Tożsamość dwurówna
+- Integracja z Microsoft Intune ochrony aplikacji
+- Integracja z Azure Active Directory proxy aplikacji
+- Zarządzane ulubione i skróty strony głównej
 
 > [!NOTE]
-> Jeśli zablokowano użytkownikom możliwość rejestrowania urządzeń przenośnych, ten scenariusz z przewodnikiem nie będzie działać, a użytkownicy będą musieli zainstalować przeglądarkę Microsoft Edge.
+> Jeśli zablokowano użytkownikom rejestrowanie urządzeń przenośnych, ten scenariusz z przewodnikiem nie będzie działać i użytkownicy będą musieli Microsoft Edge samodzielnie.
 
-Aby wdrożyć aplikację Microsoft Edge dla urządzeń przenośnych dla systemu iOS/iPadOS lub Android, zobacz:
+Aby wdrożyć aplikację Microsoft Edge dla urządzeń przenośnych z systemem iOS/iPadOS lub Android, zobacz:
 
 1. [Wymagania wstępne](https://go.microsoft.com/fwlink/?linkid=2133027)
 2. [Wprowadzenie](https://go.microsoft.com/fwlink/?linkid=2133520)
-3. [Kwestie](https://go.microsoft.com/fwlink/?linkid=2133421)
-4. [Skonfigurowan](https://go.microsoft.com/fwlink/?linkid=2133521)
-5. [Pisania](https://go.microsoft.com/fwlink/?linkid=2132869)
+3. [Podstawowe informacje](https://go.microsoft.com/fwlink/?linkid=2133421)
+4. [Konfiguracja](https://go.microsoft.com/fwlink/?linkid=2133521)
+5. [Zadania](https://go.microsoft.com/fwlink/?linkid=2132869)
 6. [Recenzja i tworzenie](https://go.microsoft.com/fwlink/?linkid=2133522)
