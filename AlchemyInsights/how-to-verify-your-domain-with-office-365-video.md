@@ -11,19 +11,19 @@ ms.assetid: 11f7503b-c802-437f-bc1d-ce13bb4d9bb2
 ms.custom:
 - "7"
 - "7593"
-ms.openlocfilehash: b220f7a1b900582ba700f0e7cb5ec2a17ba0a325
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 85780ca5e90db3b4c6d04b5bacd7874b8bce0c519642b893d34bc873dc689c83
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692264"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993399"
 ---
 # <a name="verify-your-domain"></a>Verify your domain
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOfN?autoplay=false]
 
-Aby zweryfikować domenę, postępuj zgodnie z instrukcjami [Kreatora dodawania domeny](https://admin.microsoft.com/Adminportal#/Domains/Wizard)lub ręcznie przejdź do domeny **konfiguracji**  >    >  **Dodaj domenę**.
+Aby zweryfikować domenę, postępuj zgodnie z [kreatorem Dodawanie](https://admin.microsoft.com/Adminportal#/Domains/Wizard)domeny lub ręcznie przejdź do strony **Konfiguracja**  >  **domen**  >  **Dodaj domenę.**
 
-Aby uzyskać więcej informacji o zmianach DNS wymaganych do weryfikacji domeny, zobacz instrukcje w temacie [Dodawanie rekordów DNS w celu połączenia domeny](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Aby uzyskać więcej informacji na temat zmian w systemie DNS wymaganych do zweryfikowania domeny, zobacz instrukcje w tece Dodawanie rekordów DNS w celu [połączenia Twojej domeny.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
-W przypadku innych pytań dotyczących domen zobacz [często zadawane pytania dotyczące domen](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Aby uzyskać informacje na temat innych domen, zobacz [Często zadawane pytania dotyczące domen.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)

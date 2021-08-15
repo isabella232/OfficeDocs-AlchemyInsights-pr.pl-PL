@@ -1,5 +1,5 @@
 ---
-title: Jak dodać lub usunąć pełnomocnika w aplikacji Outlook w sieci Web (OWA)
+title: Jak dodać lub usunąć pełnomocnika w aplikacji Outlook sieci Web (OWA)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: fc8e3ed77867db5242927c466e680325e471dd7a
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: d28b857a95a9959ed3b6b8954878f9c60a367db6d53e67e6729b174c5ce7b364
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573586"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993435"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Jak dodać lub usunąć pełnomocnika w aplikacji Outlook w sieci Web (OWA)
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Jak dodać lub usunąć pełnomocnika w aplikacji Outlook sieci Web (OWA)
 
-Aby przypisać redaktora lub pełnomocnika dostępu do kalendarza:
+Aby przypisać edytorowi lub pełnomocnikowi dostęp do kalendarza:
 
-1. W aplikacji Outlook w sieci Web wybierz ikonę kalendarza u dołu strony.
-2. W górnej części strony wybierz pozycję **udostępnij > kalendarz**.
-3. Na stronie **udostępnianie i uprawnienia** wpisz nazwę lub adres e-mail osoby, której chcesz udostępnić kalendarz. Chociaż możesz udostępnić kalendarz więcej niż jednej osobie, możesz w każdej chwili dodać tylko jednego użytkownika z aplikacji Outlook w sieci Web.
-4. Po dodaniu osoby, której chcesz zarządzać kalendarzem, wybierz listę rozwijaną obok jej nazwy, a następnie wybierz poziom dostępu, jaki chcesz mieć.
+1. W Outlook w sieci Web wybierz ikonę Kalendarz u dołu strony.
+2. U góry strony wybierz pozycję Udostępnij > **Kalendarz.**
+3. Na stronie **Udostępnianie i** uprawnienia wpisz nazwisko lub adres e-mail osoby, której chcesz udostępnić kalendarz. Swój kalendarz można udostępnić więcej niż jednej osobie, ale w danej chwili możesz dodać tylko jedną osobę z Outlook w sieci Web.
+4. Po dodaniu osoby, którą chcesz zarządzać Twoim kalendarzem, wybierz listę rozwijaną obok jej imienia i nazwiska, a następnie wybierz odpowiedni poziom dostępu dla tej osoby.
 
-    - Wybierz pozycję **może edytować** , aby nadać im uprawnienia do wprowadzania zmian w kalendarzu.
-    - Wybierz pozycję **pełnomocnik** , aby nadać im to samo uprawnienie, co Edytor, a ponadto będą otrzymywać wezwania na spotkania i odpowiedzi w Twoim imieniu.
+    - Wybierz **pozycję Może edytować,** aby nadać uprawnienia do zmieniania kalendarza.
+    - Wybierz **pozycję** Pełnomocnik, aby nadać mu te same uprawnienia, co edytor, a także odbierać wezwania na spotkania i odpowiedzi w Twoim imieniu.
     > [!NOTE]
-    > Gdy pełnomocnik odpowie na zaproszenie na spotkanie w Twoim imieniu, w przypadku korzystania z aplikacji Outlook w sieci Web nie będzie widoczna odpowiedź dotycząca zaproszenia w skrzynce odbiorczej. Spotkania, które zostały zaakceptowane lub wstępnie zaakceptowane, pojawią się w kalendarzu i zostaną zatwierdzone przez pełnomocnika.
-    - Opcje **mogą być wyświetlane, gdy jestem zajęty**, **może wyświetlać tytuły i lokalizacje**, a ponadto **mogą wyświetlać wszystkie szczegóły** pozwalające innym na wyświetlanie kalendarza, ale nie wprowadzać w nim zmian. Dostęp osób spoza organizacji do tych opcji jest ograniczony.
+    > Gdy pełnomocnik odpowie na zaproszenie na spotkanie w Twoim imieniu, podczas korzystania z tej funkcji nie zobaczysz tej odpowiedzi w skrzynce Outlook w sieci Web. Zaakceptowane lub wstępnie zaakceptowane spotkania zostaną wyświetlone w Twoim kalendarzu i będą pokazywane, że pełnomocnik je zaakceptował.
+    - Opcje **Może wyświetlać, kiedy** mam zajęte, Może  wyświetlać tytuły i lokalizacje **i** Może wyświetlać wszystkie szczegóły umożliwiają innym osobom wyświetlanie Twojego kalendarza, ale bez możliwości jego zmiany. Dostęp dla osób spoza organizacji jest ograniczony do tych opcji.
 
-5. Po zakończeniu dodawania osoby, której chcesz udostępnić kalendarz, i wybrania uprawnień, które chcesz nadać, wybierz pozycję **Udostępnij**. Jeśli nie chcesz udostępniać kalendarza w tym momencie, wybierz pozycję **Usuń**.
+5. Po zakończeniu dodawania osoby, której chcesz udostępnić kalendarz, i wybraniu poziomu uprawnień wybierz pozycję **Udostępnij**. Jeśli nie chcesz teraz udostępniać kalendarza, wybierz pozycję **Usuń**.
 
-Osoba, z którą udostępniono kalendarz, otrzyma wiadomość e-mail z informacją o tej osobie. Gdy wybierzesz przycisk **Zaakceptuj** w zaproszeniu, dodasz kalendarz do listy kalendarzy.
+Osoba, której udostępniono kalendarz, otrzyma wiadomość e-mail z powiadomieniem. Wybranie przycisku **Zaakceptuj** w zaproszeniu spowoduje dodanie Twojego kalendarza do ich listy kalendarzy.
 
 > [!NOTE]
-> Elementy kalendarza oznaczone jako **prywatne** są chronione. Większość osób, którym udostępniasz kalendarz, widzi tylko godziny oznaczone jako **prywatne**, a nie temat, lokalizację lub inne dane. Wyjątkiem jest to, że jest zaznaczone pole wyboru **Zezwól pełnomocnikowi na wyświetlanie zdarzeń prywatnych** .
+> Elementy kalendarza oznaczone jako **Prywatne** są chronione. Większość osób, którym udostępnisz kalendarz, będzie widzieć tylko czas elementów oznaczonych jako **Prywatne,** bez ich tematu, lokalizacji i innych szczegółów. Wyjątkiem jest zaznaczenie pola wyboru Ze pozwalaj pełnomocnikowi na wyświetlanie **zdarzeń prywatnych.**
 
-Aby usunąć pełnomocnika w aplikacji Outlook w sieci Web (OWA):
+Aby usunąć pełnomocnika w aplikacji Outlook sieci Web (OWA):
 
-1. W aplikacji Outlook w sieci Web wybierz ikonę kalendarza u dołu strony.
-2. W górnej części strony wybierz pozycję **Udostępnij**, a następnie wybierz kalendarz, którego udostępnianie chcesz zatrzymać.
-3. Wybierz pozycję **Usuń** obok osoby, której chcesz zatrzymać udostępnianie kalendarza.
+1. W Outlook w sieci Web wybierz ikonę Kalendarz u dołu strony.
+2. U góry strony wybierz pozycję **Udostępnij**, a następnie wybierz kalendarz, którego udostępnianie chcesz zatrzymać.
+3. Wybierz **pozycję** Usuń obok osoby, której nie chcesz już udostępniać kalendarza.

@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 44f06b429262e754e92cc348a1e58aa4916d10a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17558d5de8726a672887fd810760eade9528e5779edec0c98735df17d1e5ccc3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679929"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993939"
 ---
-# <a name="delete-a-sharepoint-site"></a>Usuwanie witryny programu SharePoint
+# <a name="delete-a-sharepoint-site"></a>Usuwanie witryny SharePoint sieci Web
 
-1. W nowym centrum administracyjnym programu SharePoint na stronie witryny kliknij pole wyboru obok witryny, którą chcesz usunąć.
+1. W nowym SharePoint administracyjnego na stronie Witryny kliknij pole wyboru obok witryny, którą chcesz usunąć.
     
-2. Na pasku narzędzi wstążki kliknij przycisk **Usuń**.
+2. Na pasku narzędzi wstążki kliknij pozycję **Usuń**.
     
 
