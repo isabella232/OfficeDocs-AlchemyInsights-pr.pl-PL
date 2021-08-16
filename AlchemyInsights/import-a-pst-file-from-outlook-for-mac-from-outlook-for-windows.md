@@ -1,5 +1,5 @@
 ---
-title: Importowanie pliku pst do programu Outlook dla komputerów Mac z programu Outlook dla systemu Windows
+title: Importowanie pliku pst do programu Outlook dla komputerów Mac z programu Outlook dla Windows
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,103 +13,103 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 7efb5035ee293bc2d0e8e3f36c1dd1203c6e6c12
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583662"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987405"
 ---
-# <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>Importowanie pliku PST z programu Outlook dla systemu Windows do programu Outlook dla komputerów Mac 
+# <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>Importowanie pliku pst z programu Outlook dla Windows do Outlook dla komputerów Mac 
 
-Aby przesłać wiadomości i inne elementy z komputera z systemem Windows na komputer Mac, program Outlook dla komputerów Mac może importować pliki danych programu Outlook (pst), które zostały utworzone w programie Outlook dla systemu Windows.
+Aby przenieść wiadomości i inne elementy z komputera Windows na komputer Mac, program Outlook dla komputerów Mac może zaimportować pliki danych programu Outlook (pst) utworzone w programie Outlook dla komputerów Windows.
 
-**W nowszych wersjach — Importowanie pliku PST z systemu Windows na komputer Mac**
+**W nowszej wersji — importowanie pliku pst z programu Windows komputerów Mac**
 
-1. W menu **plik** programu Outlook dla komputerów Mac wybierz pozycję **Importuj**.
+1. Z menu Outlook dla komputerów Mac **Plik** wybierz pozycję **Importuj**.
 
-2. Wybierz pozycję **plik archiwum programu Outlook dla systemu Windows (pst)**, a następnie kliknij przycisk **Kontynuuj**.
+2. Wybierz **Outlook dla Windows archiwum (pst),** a następnie kliknij przycisk **Kontynuuj.**
 
 3. Zlokalizuj plik danych na komputerze, a następnie kliknij pozycję **Importuj**.
 
-4. Po zakończeniu procesu importowania kliknij przycisk **Zakończ**.
+4. Po zakończeniu procesu importowania kliknij przycisk **Zakończ.**
 
-   Zaimportowane elementy pojawią się w okienku nawigacji w obszarze **na moim komputerze**.
+   Zaimportowane elementy zostaną wyświetlone w okienku nawigacji w **obszarze Na moim komputerze.**
 
 
-**W pakiecie Office 2011 — Importowanie pliku PST z programu Outlook dla systemu Windows**
+**W Office 2011 — importowanie pliku pst z programu Outlook dla Windows**
 
 1. Przenieś plik pst na komputer Macintosh.
 
-2. W menu **plik** programu Outlook dla komputerów Mac kliknij pozycję **Importuj**.
+2. W menu Outlook dla komputerów Mac **Plik** kliknij polecenie **Importuj**.
 
-3. Kliknij pozycję **plik danych programu Outlook**, a następnie kliknij strzałkę w prawo.
+3. Kliknij **Outlook danych**, a następnie kliknij strzałkę w prawo.
 
-4. Wybierz pozycję **plik danych programu Outlook dla systemu Windows**, a następnie kliknij strzałkę w prawo.
+4. Wybierz **Outlook plik Windows**, a następnie kliknij strzałkę w prawo.
 
 5. Zlokalizuj plik danych na komputerze, a następnie kliknij pozycję **Importuj**.
 
-6. Po zakończeniu procesu importowania kliknij pozycję **ukończone**.
+6. Po zakończeniu procesu importowania kliknij pozycję **Gotowe**.
 
-   Zaimportowane elementy pojawią się w okienku nawigacji w obszarze **na moim komputerze**.
+   Zaimportowane elementy zostaną wyświetlone w okienku nawigacji w **obszarze Na moim komputerze.**
 
 > [!NOTE]
-> Program Outlook dla komputerów Mac może importować tylko pliki PST oparte na standardzie Unicode, które są standardowym formatem plików folderów osobistych w programie Outlook (dla systemu Windows) 2003 i nowszych wersjach. Pliki PST w formacie ANSI, nazywane również plikami folderów osobistych programu Outlook 97-2002, to standardowy format folderów osobistych służący do zapisywania danych w programie Outlook dla systemu Windows w wersjach 97-2002. Nie można zaimportować tego formatu pliku do programu Outlook dla komputerów Mac. Jeśli masz starszą wersję pliku pst sformatowaną przy użyciu standardu ANSI, nie ma automatycznej procedury konwersji tego pliku na nowszy format pliku. Można jednak utworzyć nowy plik danych programu Outlook (pst) w programie Microsoft Outlook dla systemu Windows 2003 lub nowszej wersji, a następnie zaimportować elementy ze starszego pliku do nowego pliku. Następnie możesz zaimportować nowy plik PST do programu Outlook dla komputerów Mac. Aby uzyskać więcej informacji na temat tworzenia plików PST i importowania elementów, zobacz **Pomoc** dotyczącą używanej wersji programu Outlook dla systemu Windows.
+> Outlook dla komputerów Mac importować można tylko pliki pst oparte na standardzie Unicode, które są standardowym formatem plików folderów osobistych dla plików Outlook (dla Windows) 2003 i nowszych wersji. Pliki pst w formacie ANSI, znane także jako pliki folderów osobistych Outlook 97–2002, były standardowym formatem folderów osobistych do zapisywania danych w programie Outlook dla systemu Windows w wersjach 97–2002. Tego formatu pliku nie można zaimportować do Outlook dla komputerów Mac. Jeśli masz starszą wersję pliku pst w formacie ANSI, nie ma procedury automatycznej konwersji tego pliku na nowy format. Można jednak utworzyć nowy plik danych programu Outlook (pst) w programie Microsoft Outlook dla wersji Windows 2003 lub nowszej, a następnie zaimportować elementy ze starszego pliku do nowego. Następnie możesz zaimportować nowy plik pst do programu Outlook dla komputerów Mac. Aby uzyskać więcej informacji na temat tworzenia plików  pst i importowania elementów, zobacz Pomoc dla Twojej wersji programu Outlook systemu Windows.
 
-**Otwieranie pliku danych programu Outlook (pst lub olm)**
+**Otwieranie pliku Outlook danych (pst lub olm)**
 
-Możesz zaimportować plik danych programu Outlook dla systemu Windows (pst) lub plik danych programu Outlook dla komputerów Mac (OLM). Te pliki danych mogą zawierać duże ilości danych o wielu typach elementów. Pliki danych programu Outlook są często używane jako archiwum lub do przesyłania danych między komputerami.
+Plik danych programu Outlook dla Windows (pst) lub plik danych programu Outlook dla komputerów Mac (olm). Te pliki danych mogą zawierać duże ilości danych wielu typów elementów. Outlook Pliki danych są często używane jako archiwum lub do przenoszenia danych między komputerami.
 
-1. W menu plik programu Outlook dla komputerów Mac kliknij pozycję **Importuj**.
+1. W menu Outlook dla komputerów Mac Plik kliknij polecenie **Importuj**.
 
-2. Kliknij pozycję **plik danych programu Outlook**, a następnie kliknij strzałkę w prawo.
+2. Kliknij **Outlook danych**, a następnie kliknij strzałkę w prawo.
 
 3. Wybierz typ pliku danych, a następnie kliknij strzałkę w prawo.
 
 4. Zlokalizuj plik danych na komputerze, a następnie kliknij pozycję **Importuj**.
 
-5. Po zakończeniu procesu importowania kliknij przycisk **gotowe**.
+5. Po zakończeniu procesu importowania kliknij pozycję **Gotowe**.
 
-Zaimportowane elementy pojawią się w okienku nawigacji w obszarze **na moim komputerze**.
+Zaimportowane elementy zostaną wyświetlone w okienku nawigacji w **obszarze Na moim komputerze.**
 
 > [!NOTE]
-> Program Outlook dla komputerów Mac może importować tylko pliki PST oparte na standardzie Unicode, które są standardowym formatem plików folderów osobistych w programie Outlook (dla systemu Windows) 2003 i nowszych wersjach. Pliki PST w formacie ANSI, nazywane również plikami folderów osobistych programu Outlook 97-2002, nie mogą być importowane do programu Outlook dla komputerów Mac. Jeśli masz starszą wersję pliku pst sformatowaną przy użyciu standardu ANSI, nie ma automatycznej procedury konwersji tego pliku na nowszy format pliku. Można jednak utworzyć nowy plik danych programu Outlook (pst) w programie Microsoft Outlook dla systemu Windows 2003 lub nowszym, a następnie zaimportować elementy ze starszego pliku do nowego pliku. Następnie możesz zaimportować nowy plik PST do programu Outlook dla komputerów Mac. Aby uzyskać więcej informacji na temat tworzenia plików PST i importowania elementów, zobacz Pomoc dotyczącą używanej wersji programu Outlook dla systemu Windows. 
+> Outlook dla komputerów Mac importować można tylko pliki pst oparte na standardzie Unicode, które są standardowym formatem plików folderów osobistych dla plików Outlook (dla Windows) 2003 i nowszych wersji. Plików pst w formacie ANSI, znanych także jako pliki folderów osobistych Outlook 97–2002, nie można importować do Outlook dla komputerów Mac. Jeśli masz starszą wersję pliku pst w formacie ANSI, nie ma procedury automatycznej konwersji tego pliku na nowy format. Można jednak utworzyć nowy plik danych programu Outlook (pst) w programie Microsoft Outlook dla systemu Windows 2003 lub nowszego, a następnie zaimportować elementy ze starszego pliku do nowego. Następnie możesz zaimportować nowy plik pst do programu Outlook dla komputerów Mac. Aby uzyskać więcej informacji na temat tworzenia plików pst i importowania elementów, zobacz Pomoc dla Twojej wersji programu Outlook systemu Windows. 
 
 **Otwieranie elementów programu Entourage z archiwum lub wcześniejszej wersji**
 
-Możesz zaimportować elementy, takie jak wiadomości e-mail, kontakty i zdarzenia z programu Entourage 2004, Entourage 2008 lub Entourage 2008, Web Services Edition. Można też importować te elementy z archiwum programu Entourage, które ma rozszerzenie RGE.
+Możesz zaimportować elementy, takie jak wiadomości e-mail, kontakty i wydarzenia, z programu Entourage 2004, Entourage 2008 lub Entourage 2008 Web Services Edition. Możesz również zaimportować te elementy z archiwum programu Entourage, które ma rozszerzenie RGE.
 
-1. W menu **plik** programu Outlook dla komputerów Mac kliknij pozycję **Importuj**.
+1. W menu Outlook dla komputerów Mac **Plik** kliknij polecenie **Importuj**.
 
-2. Kliknij pozycję **informacje programu Entourage z archiwum lub wcześniejszej wersji**, kliknij strzałkę w prawo, a następnie postępuj zgodnie z instrukcjami.
+2. Kliknij **pozycję Informacje programu Entourage z archiwum** lub wcześniejszej wersji , kliknij strzałkę w prawo, a następnie postępuj zgodnie z instrukcjami.
 
 > [!NOTE]
-- Jeśli korzystasz z konta programu Microsoft Exchange z programem Entourage, wszystkie elementy na koncie programu Exchange są pobierane z serwera programu Exchange po zakończeniu procesu importowania. Wszelkie reguły i harmonogramy związane z kontem programu Exchange muszą być konfigurowane ponownie w programie Outlook.
+- Jeśli z programem Entourage było używane konto microsoft Exchange, wszystkie elementy na koncie programu Exchange są pobierane z serwera Exchange po zakończeniu procesu importowania. Wszelkie reguły i harmonogramy związane z kontem Exchange należy ponownie skonfigurować w programie Outlook.
 
-- W przypadku zaimportowania elementów z programu Entourage 2004 lub Entourage 2008 informacje o kategoriach elementów na koncie programu Exchange nie są importowane do programu Outlook. Jednak w przypadku programu Entourage 2008, sieci Web Services Edition informacje o kategoriach zostaną pobrane z serwera Exchange.
+- W przypadku importowania elementów z programu Entourage 2004 lub Entourage 2008 informacje o kategoriach elementów na koncie programu Exchange nie są importowane do programu Outlook. Jednak w przypadku programu Entourage 2008 Web Services Edition informacje o kategoriach są pobierane z Exchange sieci Web.
 
-- Program Outlook nie zawiera Centrum projektów. Jeśli w programie Entourage użyto Centrum projektów, a następnie zaimportuje się informacje programu Entourage do programu Outlook, skojarzenia Centrum projektów są konwertowane na kategorie. Jeśli na przykład dodano elementy do projektu o tytule "papier badawczy" w programie Entourage, te elementy mają przypisaną kategorię o nazwie "materiały poszukiwawcze" w programie Outlook.
+- Outlook nie zawiera centrum Project a. Jeśli w programie Entourage było używane Centrum programu Project, a następnie informacje z programu Entourage zostały zaimportowane do programu Outlook, skojarzenia Centrum Project zostaną przekonwertowane na kategorie. Jeśli na przykład w programie Entourage do projektu zatytułowanego "Prace badawcze" dodano elementy o nazwie "Prace badawcze", w programie Outlook.
 
-- W programie Outlook nie są importowane informacje o widokach niestandardowych, ustawieniach wyszukiwania ani czasie przejazdu zdarzenia z programu Entourage. Zdarzenia programu Outlook nie zawierają żadnych informacji o czasie podróży.
+- Widoki niestandardowe, ustawienia wyszukiwania i informacje o czasie podróży dotyczącej wydarzeń z programu Entourage nie są importowane do programu Outlook. Outlook nie zawierają żadnych informacji o czasie podróży.
 
 **Przenoszenie elementu z folderu archiwum do innego folderu w programie Outlook**
 
-1. Wybierz element, który chcesz przenieść.
+1. Zaznacz element, który chcesz przenieść.
 
-2. Na karcie **Narzędzia główne** wybierz pozycję **Przenieś**, a następnie kliknij pozycję **Wybierz folder**.
+2. Na karcie **Narzędzia** główne wybierz pozycję **Przenieś**, a następnie kliknij pozycję **Wybierz folder**.
 
-3. W polu Wyszukaj wpisz nazwę folderu, który chcesz przenieść, a następnie kliknij przycisk **Przenieś**.
+3. W polu wyszukiwania wprowadź nazwę folderu, który chcesz przenieść, a następnie kliknij pozycję **Przenieś**.
 
 > [!TIP]
 > Aby skopiować element z folderu archiwum do innego folderu w programie Outlook, po prostu przeciągnij element do folderu, w którym chcesz umieścić kopię.
 
 **Zobacz też**
 
-- [Importowanie informacji do programu Outlook] (https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c
+- [Importowanie informacji do Outlook] (https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c
 
-- [Importowanie elementów iCal lub książki adresowej do programu Outlook](https://support.microsoft.com/office/import-ical-or-address-book-items-into-outlook-for-mac-0450a248-6a40-4f84-ba9c-6c545bc11639)
+- [Importowanie elementów z pliku iCal lub z książki adresowej do Outlook](https://support.microsoft.com/office/import-ical-or-address-book-items-into-outlook-for-mac-0450a248-6a40-4f84-ba9c-6c545bc11639)
 
 
-- [Eksportowanie lub Ręczne archiwizowanie elementów programu Outlook](https://support.microsoft.com/office/export-items-to-an-archive-file-in-outlook-for-mac-281a62bf-cc42-46b1-9ad5-6bda80ca3106)
+- [Eksportowanie lub ręczne archiwizowanie Outlook elementów](https://support.microsoft.com/office/export-items-to-an-archive-file-in-outlook-for-mac-281a62bf-cc42-46b1-9ad5-6bda80ca3106)
 
-- [Automatyczne archiwizowanie i tworzenie kopii zapasowych elementów programu Outlook](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
+- [Automatyczne archiwizowanie elementów lub Outlook kopii zapasowej](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)

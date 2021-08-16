@@ -1,5 +1,5 @@
 ---
-title: 9000198 Outlook.com kalendarz w wersji beta
+title: 9000198 Outlook.com Kalendarz Beta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 687819e0374c2c7195443ad0c1f15c6160bac665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0399d1eac720d9c92afef666fa7c3563725daee21b88afb29d2d3abdb1501b58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753377"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064574"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nowe wrażenia z kalendarza Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nowe funkcje kalendarza już wkrótce Outlook.com
 
-Nowy wygląd umożliwia uzyskanie najlepszego projektu i informacji o doświadczeniu w wiadomościach w kalendarzu.
+Nowy wygląd zapewnia najlepsze projekty i nauki z widoku Poczta do kalendarza.
 
-Będziesz mieć nowoczesny wygląd, który redukuje czytelność i ułatwia nawigację w kalendarzu. Możesz również łatwiej znaleźć interesujące kalendarze ulubionych działań — od programów telewizyjnych do zespołów sportowych i wydarzeń.
+Spodoba Ci się nowoczesny projekt, który pozwala zmniejszyć czytelność wizualną i umożliwia szybsze nawigowanie w kalendarzu. Możesz też łatwiej znaleźć ciekawe kalendarze do swoich ulubionych aktywności — od programów telewizyjnych do drużyn sportowych i wydarzeń sportowych.
 
-Usunęliśmy nasze zbiory ikon zdarzeń oraz Zaktualizowano wygląd i działanie istniejących, a teraz automatycznie dodajesz odpowiednie ikony do wydarzeń, dzięki czemu możesz łatwo sprawdzić, co się dzieje z Tobą.
+Rozszerzyliśmy zbiór ikon zdarzeń i zaktualizowaliśmy wygląd oraz sposób obsługi istniejących — teraz automatycznie dodajemy odpowiednie ikony do Twoich zdarzeń, dzięki czemu możesz szybko sprawdzić, co się dzieje.
 
-Możesz przekazać Opinie na temat nowych funkcji za pośrednictwem [kanału UserVoice Outlook.com Calendar](https://go.microsoft.com/fwlink/?linkid=2103075).
+Możesz przekazać opinię na temat nowych funkcji za [pośrednictwem kanału UserVoice kalendarza Outlook.com.](https://go.microsoft.com/fwlink/?linkid=2103075)

@@ -1,5 +1,5 @@
 ---
-title: Identyfikowanie ładowni umieszczanych w skrzynkach pocztowych
+title: Identyfikowanie blokady umieszczanych w skrzynkach pocztowych
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,29 +13,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a5eeaab92ed7e687d05c212794a7adcadac6375c6e4b9ba4578835d9a9b9ef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668104"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987579"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Określenie blokad umieszczanych w skrzynkach pocztowych
+# <a name="identify-holds-placed-on-mailboxes"></a>Identyfikowanie blokady umieszczanych w skrzynkach pocztowych
 
-Czy masz zawartość programu Microsoft 365, która jest **zachowywana** przez **wstrzymanie** , którego nie można zidentyfikować? Chcesz **dowiedzieć** się, gdzie znajduje się blokada w **skrzynce pocztowej** ? Blokady (*funkcje przechowywania*) można stosować przy użyciu jednej z następujących metod:
+Czy masz Microsoft 365, która jest **zachowywana** przez **hold,** który nie jest identyfikowany? Chcesz dowiedzieć **się,** gdzie znajduje się wstrzymaj skrzynka **pocztowa?** Blokady *(funkcje przechowywania)* można stosować za pomocą jednej z następujących metod:
   
-- Przechowywanie sporów sądowych
+- Zawieszenie w postępowaniach sądowych
 
-- Blokada zbierania elektronicznych materiałów dowodowych
+- Zbierania elektronicznych materiałów dowodowych
 
-- Blokada miejscowa
+- In-Place hold
 
-- Zasady przechowywania programu Microsoft 365 
+- Microsoft 365 zasad przechowywania 
 
-  - Konkretne zasady przechowywania lokalizacji
+  - Określone zasady przechowywania lokalizacji
 
-  - Zasady przechowywania na poziomie organizacji
+  - Zasady przechowywania dla całej organizacji
 
-- Etykiety Microsoft 365
+- Microsoft 365 etykiety
 
-Aby określić typ blokady, który został zastosowany do skrzynki pocztowej użytkownika, zobacz [Jak zidentyfikować typ blokady w skrzynce pocztowej programu Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
+Aby dowiedzieć się, jaki typ blokowania został zastosowany do skrzynki pocztowej użytkownika, zobacz Jak zidentyfikować typ holdu umieszczonego w skrzynce [Exchange Online pocztowej.](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
