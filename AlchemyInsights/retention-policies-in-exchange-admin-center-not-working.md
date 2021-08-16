@@ -1,5 +1,5 @@
 ---
-title: Zasady przechowywania w Centrum administracyjnym programu Exchange nie działają
+title: Zasady przechowywania w Exchange administracyjnej nie działają
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 6652ad5fc1691e1d5a4293d81f3a649f23ec38f18c8ed9fe06665628a901d13e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074942"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Zasady przechowywania w Centrum administracyjnym programu Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>Zasady przechowywania w Exchange administracyjnym
 
 Jeśli chcesz, abyśmy uruchamiali automatyczne testy ustawień wymienionych poniżej, wybierz przycisk wstecz < — u góry tej strony, a następnie wprowadź adres e-mail użytkownika, który ma problemy z zasadami przechowywania.
 
-Jeśli masz problemy z zasadami przechowywania w Centrum administracyjnym programu Exchange, które nie mają zastosowania do skrzynek pocztowych lub elementów, które nie są przenoszące do archiwaowej skrzynki pocztowej, sprawdź następujące kwestie:
+Jeśli w Centrum administracyjnym programu Exchange występują problemy z zasadami przechowywania, które nie mają zastosowania do skrzynek pocztowych lub elementów nieunoszących się do archiwaowej skrzynki pocztowej, sprawdź następujące kwestie:
 
 **Główne przyczyny:**
 
@@ -38,7 +38,7 @@ Jeśli masz problemy z zasadami przechowywania w Centrum administracyjnym progra
  
 **Uwaga:** Jeśli skrzynka pocztowa jest mniejsza niż 10 MB, Asystent folderów zarządzanych nie będzie automatycznie przetwarzał tej skrzynki.
  
-Aby uzyskać więcej informacji na temat zasad przechowywania w Centrum administracyjnym programu Exchange, zobacz:
+Aby uzyskać więcej informacji na temat zasad przechowywania w centrum Exchange administracyjnego, zobacz:
 
 - [Tagi przechowywania i zasady przechowywania](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 

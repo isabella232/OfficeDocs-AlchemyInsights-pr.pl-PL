@@ -1,5 +1,5 @@
 ---
-title: Instalowanie pakietu aplikacji Microsoft 365 lub indywidualnej aplikacji pakietu Office
+title: Zainstaluj pakiet Microsoft 365 lub indywidualnego aplikacja pakietu Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003892"
 - "6946"
-ms.openlocfilehash: f8098b094a38ed1bffc1fd1e914d8e4ae07c310f
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 796c73262e44e8f3e74f951f9409a9c6996367edeef53572f8caf6bbb56adf47
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680394"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067418"
 ---
-# <a name="install-the-microsoft-365-app-bundle-or-an-individual-office-app"></a>Instalowanie pakietu aplikacji Microsoft 365 lub indywidualnej aplikacji pakietu Office
+# <a name="install-the-microsoft-365-app-bundle-or-an-individual-office-app"></a>Zainstaluj pakiet Microsoft 365 lub indywidualnego aplikacja pakietu Office
 
-Pakiet aplikacji Microsoft 365 zawiera programy Word, Excel i PowerPoint. Pakiet jest dostępny dla telefonu iPhone i będzie dostępny dla tabletu iPad w przyszłości. Poszczególne aplikacje są dostępne dla telefonu iPhone i tabletu iPad.
+Pakiet Microsoft 365 zawiera aplikacje Word, Excel i PowerPoint. Pakiet jest dostępny dla iPhone i będzie dostępny dla iPad w przyszłości. Poszczególne aplikacje są dostępne dla iPhone, a także dla iPad.
 
-1. [Instalowanie pakietu aplikacji](https://go.microsoft.com/fwlink/?linkid=2136762)
-1. [Zainstaluj program Word](https://go.microsoft.com/fwlink/?linkid=2136974)
-1. [Instalowanie programu Excel](https://go.microsoft.com/fwlink/?linkid=2136975)
-1. [Instalowanie programu PowerPoint](https://go.microsoft.com/fwlink/?linkid=2136882)
-1. [Instalowanie programu OneNote](https://go.microsoft.com/fwlink/?linkid=2136883)
+1. [Zainstaluj pakiet aplikacji](https://go.microsoft.com/fwlink/?linkid=2136762)
+1. [Instalowanie programu Word](https://go.microsoft.com/fwlink/?linkid=2136974)
+1. [Instalowanie Excel](https://go.microsoft.com/fwlink/?linkid=2136975)
+1. [Instalowanie PowerPoint](https://go.microsoft.com/fwlink/?linkid=2136882)
+1. [Instalowanie OneNote](https://go.microsoft.com/fwlink/?linkid=2136883)
 
-Aby dowiedzieć się więcej, zobacz [Instalowanie i Konfigurowanie pakietu Office na telefonie iPhone lub tablecie iPad](https://go.microsoft.com/fwlink/?linkid=2135560).
+Aby dowiedzieć się więcej, [zobacz Instalowanie i konfigurowanie Office w iPhone lub iPad.](https://go.microsoft.com/fwlink/?linkid=2135560)

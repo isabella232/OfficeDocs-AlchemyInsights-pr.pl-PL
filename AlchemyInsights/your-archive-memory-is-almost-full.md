@@ -1,5 +1,5 @@
 ---
-title: Archiwum Skrzynka pocztowa jest prawie pełna
+title: Archiwalne skrzynki pocztowe są prawie pełne
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100006"
 - "7960"
-ms.openlocfilehash: 5c7081f8991716a8ac72f462c6c7ef88e800ab9c
-ms.sourcegitcommit: 6f1af4aed507d4c074c36d77666cf00100efe168
+ms.openlocfilehash: 085d9b211d5a8e9a0e1eb12af14d87a4e59c844a3afa012095dfd60db316ad14
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046762"
 ---
-# <a name="your-archive-mailbox-is-almost-full"></a>Archiwum Skrzynka pocztowa jest prawie pełna
+# <a name="your-archive-mailbox-is-almost-full"></a>Archiwalne skrzynki pocztowe są prawie pełne
 
-Jeśli użytkownik otrzyma ostrzeżenie; **Archiwum Skrzynka pocztowa jest prawie pełna** lub musisz zwiększyć rozmiar swojej skrzynki pocztowej w archiwum, poniżej przedstawiono kilka porad:
+Jeśli użytkownik otrzyma ostrzeżenie; **Archiwalne skrzynki pocztowe są prawie pełne** lub musisz zwiększyć rozmiar ich archiwaalnych skrzynek pocztowych, oto kilka porad:
 
-1. Jeśli użytkownikowi jest przypisany dodatek Exchange Online (plan 1), uaktualnienie do **usługi Exchange Online (plan 2** ) w celu zwiększenia rozmiaru od 50 GB do 100 GB.
-1. Jeśli użytkownikowi przypisano już jedną z następujących opcji: **Exchange Online (plan 2** ) lub Exchange Online (plan 1) z dodatkiem Archiwizacja usługi Exchange Online, wykonaj poniższe czynności, aby włączyć automatyczne rozwijanie archiwizacji:.
+1. Jeśli użytkownikowi przypisano licencję Exchange Online Plan 1, uaktualnij go do licencji Exchange Online **Plan 2,** aby zwiększyć rozmiar z 50 GB do 100 GB.
+1. Jeśli do użytkownika przypisano już jedną z następujących funkcji: **Exchange Online Plan 2** lub Exchange Online Plan 1 z dodatku programu Exchange Online — archiwum, skorzystaj z poniższych instrukcji, aby włączyć automatyczne rozszerzanie archiwizacji:.
  
-    1. [Nawiązywanie połączenia z programem Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true).
-    2. Uruchom następujące unifiedgroup dla użytkownika:  `Enable-Mailbox <user mailbox> -AutoExpandingArchive`
-    1. Uruchom następujące unifiedgroup, aby potwierdzić, że jest on włączony dla użytkownika:  `Get-Mailbox <user mailbox> | FL AutoExpandingArchiveEnabled`
+    1. [Połączenie do Exchange Online PowerShell.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true)
+    2. Uruchom następujące polecenie polecenia dla użytkownika:  `Enable-Mailbox <user mailbox> -AutoExpandingArchive`
+    1. Uruchom następujące polecenie commandlet, aby potwierdzić, że ta funkcja jest włączona dla użytkownika:  `Get-Mailbox <user mailbox> | FL AutoExpandingArchiveEnabled`
 
-Aby uzyskać więcej informacji, zobacz:
+Więcej informacji można znaleźć w następującym artykule:
 
-- [ Włączanie archiwizacji bez ograniczeń — pomoc dla administratorów — zgodność z programem Microsoft 365 | Dokumenty Microsoft](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide&preserve-view=true)
+- [Włączanie nieograniczonej archiwizacji — Pomoc dla administratorów — Microsoft 365 dotyczące zgodności | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide&preserve-view=true)
 
-- [Limity usługi Exchange Online — opisy usług | Dokumenty Microsoft](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#storage-limits-across-standalone-plans)
+- [Exchange Online — opisy | Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#storage-limits-across-standalone-plans)
 
-- [Uaktualnij do innego planu biznesowego | Dokumenty Microsoft](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan?view=o365-worldwide&preserve-view=true)
+- [Uaktualnianie do innego planu | Microsoft Docs](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan?view=o365-worldwide&preserve-view=true)
 
