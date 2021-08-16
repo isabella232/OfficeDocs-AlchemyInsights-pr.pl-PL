@@ -1,5 +1,5 @@
 ---
-title: Program Excel zostanie otwarty pusty
+title: Excel otwiera się puste
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000707"
 - "2610"
-ms.openlocfilehash: 1e9761404b0f0ccd199d67c78c3f7c4cb445d41d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 49ea6d553c844d0b655695736f5c492f9884b288b5ce642c21859f2a3a235268
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029778"
 ---
-# <a name="excel-opens-blank"></a>Program Excel zostanie otwarty pusty
+# <a name="excel-opens-blank"></a>Excel otwiera się puste
 
-Jeśli program Excel uruchomi się, ale zostanie wyświetlony pusty ekran w miejscu, w którym plik się spodziewa, zobacz Rozwiązywanie problemów z otwieraniem pustego pliku w programie Excel po dwukrotnym kliknięciu ikony pliku [lub nazwy pliku.](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)
+Jeśli Excel zostanie uruchomiony, ale zostanie wyświetlony pusty ekran w miejscu, w którym plik się spodziewasz, zobacz Rozwiązywanie problemów Excel otwieranie pustego pliku po dwukrotnym kliknięciu ikony pliku lub [nazwy pliku.](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)
