@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004347"
 - "7761"
-ms.openlocfilehash: 4c12f768ab4bf4547f48abc19736743fa555c477
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: 0c9827ee312d6b236c86f5a2973fa61fdc78c49b8565dd4ceb41f9a3a48140bc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035968"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012894"
 ---
 # <a name="issues-with-token-claims-and-attributes"></a>Problemy z oświadczeniami i atrybutami tokenu
 
 **Aktualizowanie, konfigurowanie lub usuwanie roszczeń tokenu**
 
-1. Korzystając z usługi Azure Active Directory (Azure AD), możesz dostosować typ [oświadczenia](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) dla żądania roli w tokenie odpowiedzi, który otrzymasz po autoryzowaniu aplikacji.
-2. Deweloperzy aplikacji mogą używać opcjonalnych roszczeń w swoich aplikacjach usługi Azure AD, aby określić, które oświadczenia chcą mieć w tokenach wysyłanych do aplikacji. Aby uzyskać więcej informacji, zobacz ["Zapewnianie opcjonalnych roszczeń dotyczących aplikacji".](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
-3. [Skonfiguruj oświadczenia grupy dotyczące aplikacji za pomocą usługi Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims)
-4. W przypadku korzystania z bezproblemowego logowania pojedynczego w aplikacji zobacz oświadczenia dotyczące dostosowywania wydane w [tokenie SAML dla aplikacji dla przedsiębiorstw.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization)
+1. Za pomocą Azure Active Directory (Azure AD) możesz dostosować typ [żądania](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) dla żądania roli w tokenie odpowiedzi, który otrzymasz po autoryzowaniu aplikacji.
+2. Deweloperzy aplikacji mogą używać opcjonalnych roszczeń w swoich aplikacjach usługi Azure AD, aby określić, które roszczenia chcą mieć w tokenach wysłanych do swoich aplikacji. Aby uzyskać więcej informacji, [zobacz Zapewnianie opcjonalnych roszczeń dotyczących aplikacji.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
+3. [Konfigurowanie roszczeń grupy dla aplikacji z Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims).
+4. W przypadku korzystania z bezproblemowego logowania pojedynczego w aplikacji zobacz Dostosowywanie roszczeń wydanych w [tokenie SAML dla aplikacji dla przedsiębiorstw.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization)
 
 **Mapowanie atrybutów roszczeń**
 
 1. Aby skonfigurować zasady mapowania roszczeń przy użyciu programu PowerShell, zobacz Dostosowywanie roszczeń pominiętych w tokenach dla określonej aplikacji w dzierżawie [(wersja Preview).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping)
-2. Atrybuty rozszerzenia schematu katalogu zapewniają sposób przechowywania dodatkowych danych w usłudze Azure Active Directory na obiektach użytkowników i innych obiektach katalogu, takich jak grupy, szczegóły dzierżawy, podmioty zabezpieczeń usług. Do emitowania roszczeń aplikacji można używać tylko atrybutów rozszerzenia obiektów użytkowników. [Używanie atrybutów rozszerzenia schematu katalogu](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions) w oświadczeniach opisuje sposób używania atrybutów rozszerzenia schematu katalogu do wysyłania danych użytkowników do aplikacji w oświadczeniach tokenu.
+2. Atrybuty rozszerzenia schematu katalogu zapewniają sposób przechowywania dodatkowych danych w Azure Active Directory obiektach użytkowników i innych obiektach katalogu, takich jak grupy, szczegóły dzierżawy czy podmioty zabezpieczeń usług. Do emitowania roszczeń wobec aplikacji można używać tylko atrybutów rozszerzenia obiektów użytkownika. [Używanie atrybutów rozszerzenia schematu katalogu w oświadczeniach](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions) opisuje sposób korzystania z atrybutów rozszerzenia schematu katalogu w celu wysyłania danych użytkowników do aplikacji w oświadczeniach tokenu.
 
 Aby uzyskać więcej informacji na temat roszczeń tokenu, zobacz:
 
