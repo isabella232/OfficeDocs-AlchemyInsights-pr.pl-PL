@@ -1,5 +1,5 @@
 ---
-title: Informacje o progresywnych aplikacjach internetowych (PWAs) w przeglądarce Microsoft Edge (chrom)
+title: Informacje o progresywnych aplikacjach sieci Web (PWAs) na Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679651"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101456"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Informacje o progresywnych aplikacjach internetowych (PWAs) w przeglądarce Microsoft Edge (chrom)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Informacje o progresywnych aplikacjach sieci Web (PWAs) na Microsoft Edge (Chromium)
 
-PWAs to witryny internetowe, które są coraz lepsze do działania, podobnie jak aplikacje natywne na platformach, które je obsługują. PWAs łączyć Najlepsza jakość aplikacji internetowych i macierzystych.
+PWA to witryny sieci Web stopniowo rozbudowyane, aby działały jak natywne aplikacje na platformach, które je obsługują. PwA łączą najlepsze cechy aplikacji sieci Web i aplikacji natywnych.
 
-W perspektywie platformy sieci Web [PWAs w przeglądarce Microsoft Edge (chrom)](https://go.microsoft.com/fwlink/?linkid=2135193) są oparte na standardach. Umożliwiają użytkownikom instalowanie aplikacji bezpośrednio z poziomu przeglądarki i nie wymagają wdrożenia ani rejestracji na podstawie sklepu Microsoft Store. Pulpit PWAs jest obsługiwany na dowolnej platformie, na której jest dostępny program Microsoft Edge (chrom).
+Z perspektywy platformy internetowej [pwA na stronach Microsoft Edge (Chromium)](https://go.microsoft.com/fwlink/?linkid=2135193) są oparte na standardach. Umożliwiają one użytkownikom instalowanie aplikacji bezpośrednio z poziomu przeglądarki i nie wymagają Microsoft Store wdrażania ani rejestracji. PwA dla komputerów stacjonarnych są obsługiwane na dowolnej platformie, na Microsoft Edge (Chromium) są dostępne.

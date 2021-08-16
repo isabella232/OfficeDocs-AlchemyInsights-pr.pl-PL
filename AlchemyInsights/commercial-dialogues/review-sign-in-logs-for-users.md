@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 7e92c01b45fdad7871db734dcd35e4cf611e9e0f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 65baaa09b2e8ee55de61f1697fd8effaaabe3bccde274d6b5e5ab2382bdca8c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401989"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033972"
 ---
 # <a name="review-sign-in-logs-for-users"></a>Przeglądanie dzienników logowania użytkowników
 
 Poniżej opisano, jak to zrobić:
 
-1. Przejdź do **pozycji Centra administracyjne usługi** Azure Active  >  **[Directory.](https://go.microsoft.com/fwlink/p/?linkid=2067268)**
-1. Wybierz pozycję Logowania usługi **Azure Active Directory.**  >  
-1. Jeśli nie masz jeszcze subskrypcji Azure AD P1 lub P2, zostanie wyświetlony monit o rozpoczęcie bezpłatnej wersji próbnej Premium. Jeśli chcesz, kliknij pozycję **Rozpocznij bezpłatną** wersję próbną Premium, a następnie w polu Azure AD Premium P2 wybierz pozycję **Bezpłatna wersja próbna**  >  **Aktywuj**. Bezpłatna wersja próbna jest 30 dni.
+1. Przejdź do **pozycji Centra administracyjne**  >  **[Azure Active Directory.](https://go.microsoft.com/fwlink/p/?linkid=2067268)**
+1. Wybierz **Azure Active Directory**  >  **Logowanie**.
+1. Jeśli nie masz jeszcze subskrypcji Azure AD P1 lub P2, zostanie wyświetlony monit o rozpoczęcie bezpłatnej wersji próbnej Premium. Jeśli chcesz, kliknij pozycję **Rozpocznij bezpłatną** wersję próbną Premium , a następnie w polu Azure AD — wersja Premium P2 **wybierz** pozycję Bezpłatna wersja próbna Aktywuj  >  . Bezpłatna wersja próbna jest 30 dni.
