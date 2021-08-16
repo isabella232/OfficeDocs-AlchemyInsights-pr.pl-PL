@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 29e54e0f8255b4ce84c433f2cc827aaedf35327626f0095788faef802763bc53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826389"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049354"
 ---
 # <a name="teams-admin-center"></a>Centrum administracyjne aplikacji Teams
 
@@ -32,5 +32,5 @@ Jeżeli w Centrum administracyjnym aplikacji Teams nie widać użytkowników, sp
 
 - Czy w ciągu ostatnich 24 godzin utworzono użytkowników lub przypisano licencje? Odczekaj co najmniej 24 godziny, zanim zgłosisz się do pomocy technicznej o wsparcie.
 - Sprawdź, czy przypisano odpowiednie licencje.
-- Jeśli masz lokalną usługę Active Directory, sprawdź, czy wartość [msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) lub adresu SIP w polu ProxyAddresses w lokalnej usłudze Active Directory jest unikatowa, a format jest taki jak **sip:** Nazwa użytkownika użytkownika z centrum administracyjnego platformy [Microsoft 365.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
-- Jeśli zamierzasz zachować wdrożenie programu Skype dla firm Server i mieć użytkowników w domu oraz w trybie online: wykonaj czynności "Konfigurowanie wdrożenia hybrydowego z usługami Teams i Skype dla firm **Online"** w Panelu sterowania programu Skype dla firm Server i przenieś użytkowników do trybu online.
+- Jeśli masz lokalną usługę Active Directory, sprawdź, czy wartość [msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) lub adresu SIP w polu ProxyAddresses w lokalnej usłudze Active Directory jest unikatowa, a format jest taki jak **sip:** Nazwa użytkownika użytkownika z usługi [centrum administracyjne platformy Microsoft 365.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+- Jeśli zamierzasz zachować wdrożenie usługi Skype dla firm Server i mieć użytkowników w środowisku lokalnym oraz w trybie online: wykonaj czynności "Konfigurowanie wdrożenia hybrydowego z usługami Teams i **Skype dla firm Online"** w Panelu sterowania programu Skype dla firm Server i przenieś użytkowników do trybu online.
