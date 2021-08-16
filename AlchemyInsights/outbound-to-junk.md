@@ -1,5 +1,5 @@
 ---
-title: Wychodząca wiadomość e-mail do folderu wiadomości-śmieci
+title: Wychodzące wiadomości e-mail do folderu Wiadomości-śmieci
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 7e6f8d1a161d3eee398230750cc98a46579a56b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52aa5aa86848fa92ac082e8f672f9f501cd97cf2f3db9c40fa745aa8ebccfbb1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096668"
 ---
-# <a name="outbound-email-to-junk-email-folder"></a>Wychodząca wiadomość e-mail do folderu wiadomości-śmieci
+# <a name="outbound-email-to-junk-email-folder"></a>Wychodzące wiadomości e-mail do folderu Wiadomości-śmieci
 
-Jeśli widzisz wiadomości wychodzące oznaczone jako wiadomości-śmieci, wykonaj następujące czynności:
+Jeśli wiadomości wychodzące są oznaczane jako wiadomości-śmieci, wykonaj następujące czynności:
 
-- Jeśli jeszcze tego nie zrobiono, możesz [skonfigurować powiadomienia o zasadach dla wychodzących spamu](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
+- Jeśli jeszcze tego nie zrobić, rozważ [skonfigurowanie powiadomień o zasadach spamu ruchu wychodzącego.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)
 
-- Użyj [funkcji śledzenia wiadomości](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) , aby sprawdzić, czy wiadomość wychodząca zawiera wartość **spamu** z dodatkowymi szczegółami: **Użyj puli wysokiego ryzyka**.
+- Użyj [śledzenia wiadomości,](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) aby sprawdzić, czy wiadomość wychodząca zawiera wartość zdarzenia **Spam** z dodatkowymi **szczegółami: Użyj puli dostarczania wysokiego ryzyka.**
 
-  W przypadku tych wiadomości sprawdź zawartość wiadomości, aby zobaczyć, co można uznać za spam. Na przykład podpisy mogą czasami powodować problemy dla wielu użytkowników.
+  W przypadku tych wiadomości sprawdź ich zawartość, aby sprawdzić, co może być traktowane jako spam. Na przykład podpisy mogą czasami powodować problemy u wielu użytkowników.
 
-  Jeśli masz wiele przykładów legalnych wiadomości wychodzących oznaczonych jako wiadomości-śmieci, Otwórz bilet pomocy technicznej i poproś o pomoc agenta pomocy technicznej o przesłanie wiadomości jako fałszywych wyników do analityków spamu. Przygotuj się na dostarczenie przykładowych wiadomości zawierających wszystkie nagłówki wiadomości.
+  Jeśli masz wiele przykładów normalnych wiadomości wychodzących oznaczonych jako wiadomości-śmieci, otwórz bilet pomocy technicznej i poproś agenta pomocy technicznej o przesłanie wiadomości jako fałszywie dodatnich do naszych analityków ds. spamu. Przygotuj się na dostarczenie przykładowych wiadomości, które zawierają wszystkie nagłówki wiadomości.
