@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0f37541be26d058b4d3c1da6925cd612f254fe38
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 9b2fd9d408fbb8ee9dced7e74d9ab9d2a1295c55a2f09fd96ba75eef153138d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482779"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045646"
 ---
-# <a name="azure-active-directory-plans-comparison"></a>Porównanie planów usługi Azure Active Directory
+# <a name="azure-active-directory-plans-comparison"></a>porównanie Azure Active Directory planów Azure Active Directory
 
-Usługa Azure Active Directory jest w czterech wersjach: bezpłatna, aplikacje usługi Office 365, Premium P1 i Premium P2.
+Azure Active Directory są dostępne w czterech wersjach: bezpłatne, Office 365, Premium P1 i Premium P2.
 
-Wersja bezpłatna jest dołączona do subskrypcji platformy Azure. Wersje Premium są dostępne za pośrednictwem Twojego przedstawiciela firmy Microsoft, programu [Open Volume License i](https://go.microsoft.com/fwlink/?linkid=2110873)programów dostawców rozwiązań w [chmurze.](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409)
+Wersja bezpłatna jest dołączona do subskrypcji platformy Azure. Wersje Premium są dostępne za pośrednictwem przedstawiciela firmy Microsoft, programu [Open Volume License i](https://go.microsoft.com/fwlink/?linkid=2110873)dostawców rozwiązań w [chmurze.](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409)
 
-Subskrybenci platformy Azure i usługi Office 365 mogą również kupić usługę Azure Active Directory Premium P1 i P2 online. Aby dowiedzieć się więcej, zobacz ceny i funkcje usługi [Azure Active Directory.](https://go.microsoft.com/fwlink/?linkid=2081447)
+Subskrybenci Office 365 Azure i P2 mogą również Azure Active Directory — wersja Premium P1 Online i P2. Aby dowiedzieć się więcej, [zobacz Azure Active Directory funkcje i ceny.](https://go.microsoft.com/fwlink/?linkid=2081447)
