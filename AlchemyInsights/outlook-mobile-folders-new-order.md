@@ -1,5 +1,5 @@
 ---
-title: Foldery aplikacji Outlook Mobile w nowej kolejności
+title: Outlook Foldery na urządzeniach przenośnych w nowej kolejności
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3072"
 - "9001111"
-ms.openlocfilehash: 58cc5b4245218bf98e314ad680e62d9b719cf981
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 56c90f989f6ce918f935610b907d0cc87410dcc015a558751c9065928eb17386
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772236"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000258"
 ---
-# <a name="my-folders-are-in-a-new-order"></a>Moje foldery są w nowej kolejności
+# <a name="my-folders-are-in-a-new-order"></a>Foldery znajdują się w nowej kolejności
 
-Dzięki dodaniu ulubionych folderów i grup do aplikacji Outlook dla systemów iOS i Android, możesz zauważyć, że foldery są w nowej kolejności. Jeśli masz Ulubione, zobaczysz sekcję Ulubione u góry paska bocznego. Możesz dodać ulubione, używając ikony ołówka u góry paska bocznego. Spowoduje to pozostawienie wszystkich najważniejszych folderów i grup na górze, gdzie będzie można z łatwością uzyskać do nich dostęp.
+Dzięki dodatku ulubionych folderów i grup do aplikacji Outlook dla systemów iOS i Android możesz zauważyć, że foldery są w nowej kolejności. Jeśli masz ulubione, w górnej części paska bocznego zobaczysz sekcję Ulubione. Ulubione możesz dodać za pomocą ikony ołówka w górnej części paska bocznego. Dzięki temu wszystkie najważniejsze foldery i grupy będą na górze, gdzie będzie można łatwo uzyskać do nich dostęp.

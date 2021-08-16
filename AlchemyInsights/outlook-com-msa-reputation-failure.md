@@ -1,5 +1,5 @@
 ---
-title: Konto Outlook.com jest zablokowane
+title: Outlook.com jest zablokowane
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: 5ea4e9b9c25aa6c8136c7b8f9de682d6d741688a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3ff6abac5ed18750767f76aca158779c5cb3bba1324b0a451987cc37b4b0e239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802319"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063926"
 ---
-# <a name="account-locked"></a>Konto zostało zablokowane
+# <a name="account-locked"></a>Konto zablokowane
 
-Jeśli zobaczysz komunikat "Twoje konto zostało zablokowane" podczas próby zalogowania się do Outlook.com, ponieważ zauważymy niektóre typowe działania na Twoim koncie. Aby ułatwić ochronę przed potencjalnym oszustwem lub nadużyciami, tymczasowo zablokowano swoje konto. Wiemy, że jest to frustrujące, ale możemy pomóc w powrocie do Twojego konta za pomocą tylko kilku kroków.
+Jeśli podczas próby zalogowania się do usługi Outlook.com zobaczysz komunikat "Twoje konto zostało zablokowane", oznacza to, że zauważyliśmy nietypowe działania na Twoim koncie. Aby chronić Cię przed potencjalnymi oszustwami i nadużyciami, tymczasowo zablokowaliśmy Twoje konto. Wiemy, że jest to frustrujące, ale możemy pomóc Ci wrócić do swojego konta za pomocą zaledwie kilku kroków.
 
-1. Przejdź do [account.Microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) i zaloguj się na zablokowanym koncie.Aby odblokować konto, należy wprowadzić kod zabezpieczający podany w wiadomości tekstowej od firmy Microsoft. Aby uzyskać wiadomość SMS, musisz mieć telefon obsługujący wiadomości tekstowe. Jeśli Twój telefon nie obsługuje wiadomości SMS, możesz poprosić znajomego lub członka rodziny o korzystanie z telefonu. Firma Microsoft nie zapisuje tego numeru telefonu, więc numer telefonu używany do odbierania wiadomości SMS nie musi być skojarzony z Twoim kontem.
-2. Jeśli zobaczysz komunikat "Przekroczono limit użycia", przejdź do pozycji [przywracanie konta](https://go.microsoft.com/fwlink/?linkid=2090483)   i od jednego z naszych agentów sprawdzimy swoje konto.
+1. Przejdź do [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) i zaloguj się do zablokowanego konta. Aby odblokować konto, musisz wprowadzić kod zabezpieczeń podany w wiadomości SMS od firmy Microsoft. Aby otrzymać wiadomość SMS, musisz mieć telefon obsługujący wiadomości SMS. Jeśli Twój telefon nie obsługuje wiadomości SMS, możesz poprosić znajomego lub członka rodziny o korzystanie z jego telefonu. Firma Microsoft nie zapisze tego numeru telefonu, więc numer telefonu, za pomocą których odbierasz tę wiadomość SMS, nie musi być skojarzony z Twoim kontem.
+2. Jeśli zobaczysz komunikat "Przekroczono limit użycia", przejdź do ponownego stanu konta i jeden z naszych agentów zrecenzuje Twoje konto. [](https://go.microsoft.com/fwlink/?linkid=2090483)
 
-Aby dowiedzieć się więcej, Przeczytaj [Odblokuj moje konto Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 
+Aby dowiedzieć się więcej, [przeczytaj Odblokowywanie konta Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 

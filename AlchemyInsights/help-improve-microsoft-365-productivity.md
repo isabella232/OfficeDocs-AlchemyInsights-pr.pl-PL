@@ -1,5 +1,5 @@
 ---
-title: Pomóż zwiększyć produktywność platformy Microsoft 365
+title: Pomóż zwiększyć Microsoft 365 pracy
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004612"
 - "8268"
-ms.openlocfilehash: 599b914e15e86e7899988a0178864b24d1782af1
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 4a7aae1a1e95aa6e8d35a57ed7a7de692cf85901fc6879bcaa8dade37456eba3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256862"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002202"
 ---
-# <a name="help-improve-microsoft-365-productivity"></a>Pomóż zwiększyć produktywność platformy Microsoft 365
+# <a name="help-improve-microsoft-365-productivity"></a>Pomóż zwiększyć Microsoft 365 pracy
 
-Wynik produktywności wspiera transformację cyfrową organizacji dzięki szczegółowej informacji na temat sposobu, w jaki są używane produkty platformy Microsoft 365 i jakie są jej doświadczenia technologiczne.
+Wynik wydajności wspiera transformację cyfrową organizacji, dzięki szczegółowej informacji na temat Microsoft 365 używanych produktów i doświadczeń technologicznych, które są za nimi.
 
 Aby dowiedzieć się więcej, zobacz:
 
 - [sposób obliczania wyniku](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
-- [jak interpretować wyniki organizacji](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
-- [kontrolki prywatności na ocenę produktywności](https://docs.microsoft.com/microsoft-365/admin/productivity/privacy)
+- [jak interpretować wynik organizacji](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
+- [mechanizmy kontroli prywatności dotyczące wyników produktywności](https://docs.microsoft.com/microsoft-365/admin/productivity/privacy)
 
-Aby uzyskać więcej szczegółowych informacji, zobacz [Omówienie wyników dotyczących produktywności firmy Microsoft.](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
+Aby uzyskać więcej informacji, zobacz [Omówienie wyników produktywności firmy Microsoft.](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)

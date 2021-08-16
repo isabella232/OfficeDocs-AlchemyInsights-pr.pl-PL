@@ -1,5 +1,5 @@
 ---
-title: Program Outlook Mobile nie widzi kalendarzy podczas wybierania dostępności
+title: Outlook Urządzenia przenośne nie widzą kalendarzy po wybraniu dostępności
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3070"
 - "9001109"
-ms.openlocfilehash: e0523100caead474b63ef8ddfcd4622ccbd3669c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 150d0f470571a5e78124634f190ea61f2c5debbd13925af133c83b351bb6c6f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721817"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000330"
 ---
-# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>Podczas wybierania dostępności nie widzę oczekiwanych kalendarzy
+# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>Nie widzę kalendarzy, których oczekujem, wybierając moją dostępność
 
-Jeśli nie widzisz oczekiwanych kalendarzy, przejdź do pozycji kalendarz, naciśnij przycisk menu w lewym górnym rogu ekranu i upewnij się, że są zaznaczone kalendarze, które mają być widoczne. Po wybraniu opcji godziny wysyłania dostępności będą wyświetlane tylko kalendarze włączone.
+Jeśli nie widzisz kalendarzy, których oczekujesz, przejdź do pozycji Kalendarz, naciśnij przycisk menu w lewym górnym rogu ekranu i upewnij się, że są zaznaczone kalendarze, których oczekujesz. Podczas wybierania godzin wysyłania dostępności będą widoczne tylko kalendarze włączone w tym menu.

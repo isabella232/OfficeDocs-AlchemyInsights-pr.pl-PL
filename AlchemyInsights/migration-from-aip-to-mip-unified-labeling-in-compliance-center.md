@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 378c3f58f77db8b23682432c942cd4f9c3a392651ca6564528a635724ad66a25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825381"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000366"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migracja z usługi AIP do rozwiązania MIP/unified Labeling w Centrum zgodności
 
@@ -25,11 +25,11 @@ Aby przeprowadzić migrację etykiet AIP do funkcji Unified Labeling w Centrum z
 
 **Aktywowanie ochrony z portalu Azure Portal**
 
-1. Jeśli jeszcze tego nie zrobiono, otwórz nowe okno przeglądarki i [zaloguj się do portalu Azure Portal.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) Przejdź do **bladej usługi Azure Information Protection.** Na przykład w menu Centrum kliknij pozycję **Wszystkie** usługi i zacznij wpisywać **informacje** w polu Filtruj. Wybierz **pozycję Azure Information Protection**. Jeśli do tej pory nie uzyskiwano dostępu do grota usługi Azure Information Protection, zapoznaj się z dodatkowymi czynnościami w celu dodania tego grota do portalu. [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) Aby otworzyć blok danych usługi Azure Information Protection, musisz mieć [plan Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) lub plan usługi Office 365, który obejmuje zarządzanie prawami. Jeśli masz jedną z tych subskrypcji, ale jest wyświetlany komunikat informujący, że nie można odnaleźć ważnej subskrypcji, skontaktuj się z pomocą techniczną firmy [Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) lub skorzystaj ze standardowych kanałów pomocy technicznej.
+1. Jeśli jeszcze tego nie zrobiono, otwórz nowe okno przeglądarki i [zaloguj się do portalu Azure Portal.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) Przejdź do **bladej usługi Azure Information Protection.** Na przykład w menu Centrum kliknij pozycję **Wszystkie** usługi i zacznij wpisywać **informacje** w polu Filtruj. Wybierz **pozycję Azure Information Protection**. Jeśli do tej pory nie uzyskiwano dostępu do grota usługi Azure Information Protection, zapoznaj się z dodatkowymi czynnościami w celu dodania tego grota do portalu. [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) Aby otworzyć blok danych usługi Azure Information Protection, musisz mieć plan usługi [Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) lub plan Office 365 usługi, który obejmuje zarządzanie prawami. Jeśli masz jedną z tych subskrypcji, ale jest wyświetlany komunikat informujący, że nie można odnaleźć ważnej subskrypcji, skontaktuj się z pomocą techniczną firmy [Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) lub skorzystaj ze standardowych kanałów pomocy technicznej.
 
 2. Znajdź opcje menu **Zarządzaj** i wybierz pozycję **Aktywacja ochrony.** Kliknij **przycisk** Aktywuj , a następnie potwierdź swoje działanie. Po zakończeniu aktywacji na pasku informacji zostanie wyświetlony **komunikat Pomyślnie ukończono aktywację.**
 
-**Migrowanie etykiet usługi Azure Information Protection do Centrum zabezpieczeń & Office 365**
+**Migrowanie etykiet usługi Azure Information Protection Office 365 centrum & zgodności**
 
 1. Upewnij się, że zalogowano się jako użytkownik z uprawnieniami administratora globalnego.
 

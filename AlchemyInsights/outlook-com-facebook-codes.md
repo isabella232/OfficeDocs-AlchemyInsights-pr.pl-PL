@@ -1,5 +1,5 @@
 ---
-title: Kody serwisu Facebook Outlook.com
+title: Outlook.com Kody serwisu Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: aca8bcd07567116639d42254138513db573c8115
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4e17b68de85fa3b7d446523380e0a2780802bfe01d4c3df133f4b7231a0d16c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672066"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063962"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Nie są odbierane kody Facebook przy użyciu Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Nie otrzymujesz kodów serwisu Facebook przy użyciu Outlook.com
 
-Jeśli zażądano nowego hasła z serwisu Facebook, ale nie otrzymano wiadomości e-mail dotyczącej resetowania hasła:
+Jeśli żądano nowego hasła od serwisu Facebook, ale nie otrzymujesz wiadomości e-mail z prośbą o zresetowanie hasła:
 
-- Sprawdź swój [spam lub folder wiadomości-śmieci](https://outlook.live.com/mail/junkemail).
-- Spróbuj [ponownie zresetować swoje hasło w serwisie Facebook](https://aka.ms/facebook-password-reset).
+- Sprawdź folder [spamu lub wiadomości-śmieci.](https://outlook.live.com/mail/junkemail)
+- Spróbuj ponownie [zresetować hasło do serwisu Facebook.](https://aka.ms/facebook-password-reset)
 
-Jeśli nie możesz zresetować hasła, ponieważ nie możesz uzyskać dostępu do adresu e-mail lub numeru telefonu komórkowego na Twoim koncie, wypróbuj [porady dotyczące resetowania hasła w serwisie Facebook](https://aka.ms/facebook-password-help).
+Jeśli nie możesz zresetować hasła, ponieważ nie możesz uzyskać dostępu do adresu e-mail lub numeru telefonu komórkowego na swoim koncie, spróbuj użyć narzędzia do resetowania hasła serwisu Facebook, aby uzyskać dostęp [do tego Wskazówki.](https://aka.ms/facebook-password-help)
