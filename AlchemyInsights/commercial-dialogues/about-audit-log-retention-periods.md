@@ -1,5 +1,5 @@
 ---
-title: Informacje na temat okresów przechowywania dzienników inspekcji
+title: Informacje o okresach przechowywania dzienników inspekcji
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5a8601bc7757e77882d8dab709e007a2f6df3b0c
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: d98e11748027a0262b8353063fca68894abc3783238e368f59f7457ea2ba0a8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482443"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006327"
 ---
-# <a name="about-audit-logs-retention-periods"></a>Informacje na temat okresów przechowywania dzienników inspekcji
+# <a name="about-audit-logs-retention-periods"></a>Informacje o okresach przechowywania dzienników inspekcji
 
-Okres przechowywania dzienników inspekcji zależy od subskrypcji usługi Office 365 Twojej organizacji.
+Okres przechowywania dzienników inspekcji zależy od subskrypcji usługi Office 365 organizacji.
 
 - **Office 365 E3:** 90 dni.
-- **Office 365 E5:** 365 dni. Okres przechowywania w ciągu jednego roku jest obecnie w wersji Preview.
-- **Dodatek E3 i Office 365 Advanced Compliance:** 365 dni. Okres przechowywania w ciągu jednego roku jest obecnie w wersji Preview.
-- Aby zarejestrować się w programie w wersji Preview, zachęć go do pomocy technicznej firmy Microsoft i opisz, z czym potrzebujesz pomocy: Długoterminowy dziennik inspekcji usługi **Office 365**— wersja Preview prywatna.
+- **Office 365 E5:** 365 dni. Okres przechowywania jednego roku jest obecnie w wersji Preview.
+- **E3 i Office 365 Advanced Compliance:** 365 dni. Okres przechowywania jednego roku jest obecnie w wersji Preview.
+- Aby zarejestrować się w programie podglądu, zachęć go do pomocy technicznej firmy Microsoft i opisz, z czym potrzebujesz pomocy: Długoterminowy Office 365 podgląd prywatny dziennika **inspekcji.**
 > [!NOTE]
-> Okres przechowywania jest oparty na licencjonowaniu per-user. Jeśli na przykład użytkownik w organizacji ma licencję E3, rekordy inspekcji dotyczące działań wykonywanych przez tego użytkownika są zachowywane przez 90 dni. Jeśli inny użytkownik ma licencję E5, jego rekordy inspekcji są zachowywane przez jeden rok.
+> Okres przechowywania jest oparty na licencjonowaniu na użytkownika. Jeśli na przykład użytkownik w organizacji ma licencję E3, rekordy inspekcji dotyczące działań wykonywanych przez tego użytkownika są zachowywane przez 90 dni. Jeśli inny użytkownik ma licencję E5, jego rekordy inspekcji są zachowywane przez jeden rok.
 
 Aby dowiedzieć się więcej, zobacz te często [zadawane pytania.](https://go.microsoft.com/fwlink/?linkid=2115336)

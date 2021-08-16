@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9835"
 - "9003257"
-ms.openlocfilehash: 240bd25f4d62505202c8cd7ceabe4c1cd3d5c0b5
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 709749b1a62f2d9cdabfb3fe4b7538c22101d7109204d9163f6059336b817bf8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036000"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019158"
 ---
 # <a name="im-getting-blocked-by-conditional-access-with-compliant-device"></a>Dostęp warunkowy ze zgodnym urządzeniem jest blokowany
 
@@ -36,13 +36,13 @@ Sprawdź, czy urządzenie zostało zarejestrowane za pomocą zatwierdzonego dost
 
 2. **Urządzenie nie jest przyłączone do sieci organizacji:**
 
-Aby uzyskać dostęp do zasobów organizacji, urządzenie musi być połączone z siecią organizacji za pośrednictwem bezpośredniego połączenia lub wirtualnej sieci prywatnej (VPN), a także dołączane do lokalnego lub usługi Azure Active Directory. Aby dołączyć urządzenie służbowe do sieci organizacji, zobacz Dołączanie urządzenia służbowego do [sieci organizacji.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-join-device-on-network) Aby zarejestrować urządzenie osobiste/BYOD, zobacz Rejestrowanie urządzenia osobistego [w sieci organizacji.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-register-device-on-network)
+Aby uzyskać dostęp do zasobów organizacji, urządzenie musi być połączone z siecią organizacji za pośrednictwem bezpośredniego połączenia lub wirtualnej sieci prywatnej (VPN), a także połączone z siecią lokalną lub siecią Azure Active Directory. Aby dołączyć urządzenie służbowe do sieci organizacji, zobacz Dołączanie urządzenia służbowego do [sieci organizacji.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-join-device-on-network) Aby zarejestrować urządzenie osobiste/BYOD, zobacz Rejestrowanie urządzenia osobistego [w sieci organizacji.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-register-device-on-network)
 
 - Aby sprawdzić, czy urządzenie dołączyło do sieci, możesz wykonać tutaj instrukcje dotyczące zarejestrowanych urządzeń [lub](https://docs.microsoft.com/azure/active-directory/user-help/user-help-register-device-on-network#to-verify-that-youre-registered) urządzeń [służbowych.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-join-device-on-network#to-make-sure-youre-joined) Aby zawęzać ten problem do łączności sieciowej organizacji, postępuj zgodnie z poniższymi wskazówkami:
 
-    1. Zaloguj się do systemu Windows przy użyciu konta służbowego, na przykład alain@contoso.com.
-    2. Połącz się z siecią organizacji przez sieć VPN lub DirectAccess.
-    3. Po połączeniu naciśnij klawisze **logo Windows+L,** aby zablokować urządzenie.
+    1. Zaloguj się Windows, na przykład za pomocą konta służbowego lub szkolnego, alain@contoso.com.
+    2. Połączenie do sieci organizacji przez sieć VPN lub DirectAccess.
+    3. Po połączeniu naciśnij klawisz logo **Windows+L,** aby zablokować urządzenie.
     4. Odblokuj urządzenie przy użyciu konta służbowego, a następnie ponownie spróbuj uzyskać dostęp do problematycznej aplikacji lub usługi.
 
 Jeśli ponownie pojawi się komunikat o błędzie Nie można **przejść** z tego miejsca, problem prawdopodobnie występuje w innym miejscu.
@@ -51,7 +51,7 @@ Jeśli ponownie pojawi się komunikat o błędzie Nie można **przejść** z teg
 
 Upewnij się, że używasz obsługiwanej wersji systemu operacyjnego, na przykład:
 
-- **Klient Windows:** Windows 7 lub nowszy
+- **Windows klienta:** Windows 7 lub nowszy
 
 - **Windows Server:** Windows Server 2008 R2 lub nowszy
 
@@ -61,14 +61,14 @@ Upewnij się, że używasz obsługiwanej wersji systemu operacyjnego, na przykł
 
 4. **Przeglądarka internetowa nie jest obsługiwana:**
 
-Poniżej znajdziesz obsługiwane przeglądarki. W przypadku obsługi przeglądarki Chrome w systemie Windows 1703 lub nowszym wymagane jest rozszerzenie konta systemu Windows 10. W przypadku edge 85+, użytkownik musi być zalogowany, aby poprawnie przekazać informacje o zgodności urządzenia. Aby uzyskać więcej informacji, zobacz [tutaj](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-conditions#chrome-support).
+Poniżej znajdziesz obsługiwane przeglądarki. W przypadku obsługi przeglądarki Chrome Windows 1703 lub nowszym jest wymagane rozszerzenie Windows 10 Konta. W przypadku edge 85+, użytkownik musi być zalogowany, aby poprawnie przekazać informacje o zgodności urządzenia. Aby uzyskać więcej informacji, zobacz [tutaj](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-conditions#chrome-support).
 
 - **Windows 10:** Microsoft Edge, Internet Explorer, Chrome
 - **Windows 8 / 8.1:** Internet Explorer, Chrome
 - **Windows 7:** Internet Explorer, Chrome
-- **iOS:** Microsoft Edge, przeglądarka zarządzana Intune, Safari
-- **Android:** **Microsoft Edge:** przeglądarka zarządzana Intune, Chrome
-- **Telefon Windows Phone:** Microsoft Edge, Internet Explorer
+- **iOS:** Microsoft Edge, Intune Managed Browser, Safari
+- **Android:** **Microsoft Edge:** Intune Managed Browser, Chrome
+- **Windows Phone:** Microsoft Edge, Internet Explorer
 - **Windows Server 2019:** Microsoft Edge, Internet Explorer, Chrome
 - **Windows Server 2016:** Internet Explorer
 - **Windows Server 2012 R2:** Internet Explorer

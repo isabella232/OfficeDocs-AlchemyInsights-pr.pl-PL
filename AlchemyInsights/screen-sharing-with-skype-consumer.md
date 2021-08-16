@@ -1,5 +1,5 @@
 ---
-title: Udostępnianie ekranu skype'owi dla klientów
+title: Udostępnianie ekranu aplikacji Skype klientów
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000009"
 - "1433"
-ms.openlocfilehash: 67ac7d31e3e0aafe088bf05867b1cb1e55ccf77b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fba3e5f95414ed7215417cfac364d62781cd02436df8b741479d136a606df757
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828594"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052828"
 ---
-# <a name="screen-sharing-with-skype-consumer-users"></a>Udostępnianie ekranu użytkownikom programu Skype dla użytkowników indywidualnych
+# <a name="screen-sharing-with-skype-consumer-users"></a>Udostępnianie ekranu użytkownikom Skype użytkowników indywidualnych
 
-Aby uzyskać ogólne instrukcje dotyczące udostępniania programu, dowiedzieć się więcej o ograniczeniach związanych z udostępnianiem i uzyskać zasoby dotyczące rozwiązywania problemów, zobacz Udostępnianie ekranu w [programie Skype dla firm.](https://support.microsoft.com/office/share-and-present-content-from-skype-meetings-app-skype-for-business-web-app-234b0c06-a88d-4707-904c-4fd6c571fc01)  
+Aby uzyskać ogólne instrukcje dotyczące udostępniania programu, dowiedzieć się więcej o ograniczeniach związanych z udostępnianiem i uzyskać informacje na temat rozwiązywania problemów z zasobami, zobacz Udostępnianie ekranu w [programie Skype dla firm.](https://support.microsoft.com/office/share-and-present-content-from-skype-meetings-app-skype-for-business-web-app-234b0c06-a88d-4707-904c-4fd6c571fc01)  
 
-Obecnie użytkownicy programu Skype dla firm nie mogą udostępniać ekranu użytkownikom programu Skype dla użytkowników indywidualnych. Kliknij [tutaj, aby](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users) przekazać opinię na temat włączania udostępniania ekranu użytkownikom Skype'a dla klientów indywidualnych. 
+Obecnie użytkownicy Skype dla firm nie mogą udostępniać ekranu użytkownikom z Skype użytkowników indywidualnych. Kliknij [tutaj, aby](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users) przekazać opinię na temat włączania udostępniania ekranu użytkownikom Skype użytkowników. 
