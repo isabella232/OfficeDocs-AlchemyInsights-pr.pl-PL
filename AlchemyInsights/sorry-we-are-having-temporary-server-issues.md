@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z aplikacjami platformy Microsoft 365 Niestety, mamy komunikat o tymczasowych problemach z serwerem
+title: Naprawianie Microsoft 365 niestety, mamy komunikat o tymczasowych problemach z serwerem
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: 0adf1d66869051b9dd8290ef3466ef9b13aa2d41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aa0d625856df1027146de5af57845224e3056d8c21d9ac4cefbd4a9c329f487c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021606"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Naprawianie aplikacji platformy Microsoft 365 Komunikat "Niestety, mamy problemy z serwerem tymczasowych"
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Naprawianie Microsoft 365 "Niestety, mamy problemy z serwerem tymczasowych"
 
 Jeśli zostanie wyświetlony ten komunikat, spróbuj wykonać następujące czynności:
 
-1. Sprawdź ustawienia zapory, oprogramowania antywirusowego i serwera proxy, aby upewnić się, że nie blokują one dostępu do Internetu do aplikacji platformy Microsoft 365. Zobacz [Adresy URL i zakresy adresów IP.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+1. Sprawdź ustawienia zapory, oprogramowania antywirusowego i serwera proxy, aby upewnić się, że nie blokują one dostępu do Internetu Microsoft 365 aplikacji. Zobacz [Adresy URL i zakresy adresów IP.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
 2. Przejdź do  >  **startowego uruchamiania**, a następnie wpisz **services.msc.** Upewnij się, że wszystkie następujące usługi są uruchomione:
     - Automatyczne konfigurowanie urządzeń połączonych z siecią
     - Usługa listy sieciowej
     - Informacje o lokalizacji sieciowej
-    - Dziennik zdarzeń systemu Windows
+    - Windows Dziennik zdarzeń
 
 Jeśli jedna z tych usług nie jest uruchomiona, spróbuj ją uruchomić. Jeśli masz problem z uruchomieniem usługi, uruchom następujące polecenie, otwierając wiersz polecenia z podwyższonym poziomem uprawnień:
 
