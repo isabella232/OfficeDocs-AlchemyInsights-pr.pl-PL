@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7b4cbc70db75af36ce35160f39d06e51e21e7513
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9c95e224f64c287b04a98c2a41d7f83b32b386b7641fe483030fa8cc931855a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749019"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017106"
 ---
 # <a name="fix-languageip-filter-policy"></a>Naprawianie zasad filtrowania adresów IP/języka
 
 Ten komunikat został dostosowany do niestandardowych zasad ochrony przed spamem w dzierżawie. Aby przejrzeć zasady, wykonaj następujące czynności:
 
-1. Przejdź do Centrum zabezpieczeń [usługi Office 365 &](https://go.microsoft.com/fwlink/p/?linkid=2077143) zgodności , a następnie przejdź do strony Ochrona przed spamem przy zasadach zarządzania  >    >  [zagrożeniami.](https://go.microsoft.com/fwlink/?linkid=2101518)
+1. Przejdź do Centrum [Office 365 zabezpieczeń &](https://go.microsoft.com/fwlink/p/?linkid=2077143), a następnie przejdź do strony Ochrona przed spamem przy zasadach zarządzania  >    >  [zagrożeniami.](https://go.microsoft.com/fwlink/?linkid=2101518)
 2. Na karcie **Niestandardowe** wybierz pozycję Domyślne zasady **filtrowania spamu** lub inne utworzone przez Ciebie zasady niestandardowe, a następnie wybierz **pozycję Edytuj zasady.**
 3. Rozwiń opcję **Spam międzynarodowy** i przejrzyj ustawienia.
 

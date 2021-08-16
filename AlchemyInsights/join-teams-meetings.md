@@ -1,5 +1,5 @@
 ---
-title: Dołączanie do spotkań w ułączeniu z zespołem
+title: Dołączanie Teams spotkaniach
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1ebd54843fb99e144580dc26ce382039b5a6b0c3d85d1be45b2b49a0e92f5d46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824013"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054308"
 ---
-# <a name="join-a-meeting-in-teams"></a>Dołączanie do spotkania w u programie Teams
+# <a name="join-a-meeting-in-teams"></a>Dołączanie do spotkania w programie Teams
 
-Aby dołączyć do spotkania w aplikacji Teams, najpierw ustaw zasady spotkania, a następnie przekieruj użytkowników do dołączenia z preferowanych urządzeń:
+Aby dołączyć do spotkania Teams, najpierw ustaw zasady spotkania, a następnie kieruj użytkowników do dołączania z preferowanych urządzeń:
 
 - Ustaw zasady spotkania kontrolują, kto będzie mógł dołączyć do spotkania jako [uczestnicy lub goście.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests) 
 
-- Do zmieniania zasad [użyj poleceń cmdlet](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) programu Microsoft Teams PowerShell.    
+- Użyj Microsoft Teams [cmdlet programu PowerShell,](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) aby wprowadzić zmiany w zasadach.    
 
 **Uwaga:** Może upłynieć do 24 godzin, aż zmiany zasad zajdą w życie.

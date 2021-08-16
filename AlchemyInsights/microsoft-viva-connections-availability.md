@@ -1,5 +1,5 @@
 ---
-title: Dostępność aplikacji Microsoft Viva Connections
+title: Zasoby Microsoft Viva Dostępność
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8336"
-ms.openlocfilehash: b8bdb514949750f6041019bcbb725934b76e68f4
-ms.sourcegitcommit: 0fc6005bbe351a861be1805a2e15b52438c914c9
+ms.openlocfilehash: aca273a73ba1ae750e1467857ad777bbbfbc90e98b8ff4912e7acef498010221
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50315461"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000474"
 ---
-# <a name="microsoft-viva-connections-availability"></a>Dostępność aplikacji Microsoft Viva Connections
+# <a name="microsoft-viva-connections-availability"></a>Zasoby Microsoft Viva Dostępność
 
-Aplikacja Microsoft Viva Connections będzie dostępna na komputery stacjonarne w pierwszej połowie roku 2021, a na urządzenia przenośne w roku 2021. W trakcie roku 2022 będą dostępne dodatkowe funkcje.
+Zasoby Microsoft Viva będą dostępne dla komputerów stacjonarnych w pierwszej połowie 2021 r. i dla urządzeń przenośnych w lata 2021 r. W ciągu 2022 roku zostaną w tej aplikacji dostępne dodatkowe funkcje.
 
-Aby uzyskać więcej informacji, zobacz, jak [aplikacja Microsoft Viva Connections](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)pomaga utrzymać zaangażowanie i informacje.
+Aby uzyskać więcej informacji, zobacz Zasoby Microsoft Viva się, jak zapewnić wszystkim zaangażowanie [i informacje.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)

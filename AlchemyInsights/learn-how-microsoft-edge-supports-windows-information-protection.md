@@ -1,5 +1,5 @@
 ---
-title: Dowiedz się, jak program Microsoft Edge obsługuje funkcję Windows Information Protection (PWT)
+title: Dowiedz się, Microsoft Edge obsługuje Windows informacji (WIP, Information Protection)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003933"
 - "6988"
-ms.openlocfilehash: 51fec3423e938045d2324528e7130e933c6269f9
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: d66e7e95e3dc8e7df02b01c29bdea89895defb93a1cc0567dabc3914a8af22f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679122"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054328"
 ---
-# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Dowiedz się, jak program Microsoft Edge obsługuje funkcję Windows Information Protection (PWT)
+# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Dowiedz się, Microsoft Edge obsługuje Windows informacji (WIP, Information Protection)
 
-Jako liczba pracowników zdalnych zwiększa się w ten sposób, że na urządzeniach firmowych występują liczby prywatne i służbowe. To z kolei zwiększa ryzyko, że dane firmowe mogą zostać udostępnione poza miejscem pracy. Aby zmniejszyć ryzyko tego ryzyka, program Microsoft Edge (wersja 81 lub nowsza) obsługuje funkcję Windows Information Protection (PWT): funkcja systemu Windows 10, która ułatwia ochronę danych przedsiębiorstwa przed nieautoryzowanymi i przypadkowymi ujawnieniem.
+Wraz ze zwiększeniem liczby pracowników zdalnych liczba pracowników osobistych i służbowych występuje na urządzeniach firmowych. Z kolei to zwiększa ryzyko, że dane firmowe mogą zostać udostępnione poza miejscem pracy. Aby ograniczyć to ryzyko, program Microsoft Edge (wersja 81 lub nowsza) obsługuje usługę Windows Information Protection (WIP): funkcję programu Windows-10, która pomaga chronić dane przedsiębiorstwa przed nieuprawnionym i przypadkowym ujawnieniem.

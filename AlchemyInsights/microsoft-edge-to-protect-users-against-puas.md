@@ -1,5 +1,5 @@
 ---
-title: Ochrona użytkowników przed PUAs za pomocą przeglądarki Microsoft Edge
+title: Ochrona Microsoft Edge przed użyciem funkcji pua
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004025"
 - "7091"
-ms.openlocfilehash: 2b62e800fe67460192e0cd79a078e544004c4834
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: aaae60092dd49d15f2f437750d876d469bf7f8e39180bcaa3d44fdea5410e028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679915"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000510"
 ---
-# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Ochrona użytkowników przed PUAs za pomocą przeglądarki Microsoft Edge
+# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Ochrona Microsoft Edge przed użyciem funkcji pua
 
-Microsoft Edge w wersji 80.0.361.50 lub nowszej Blokowanie pobierania potencjalnie niechcianych aplikacji (PUAs) i skojarzonych adresów URL. Aby włączyć tę funkcję, wykonaj następujące czynności:
+Microsoft Edge wersjach 80.0.361.50 i nowszych blokują pobieranie potencjalnie niechcianych aplikacji (PUA) i skojarzonych adresów URL. Aby włączyć tę funkcję, wykonaj następujące czynności:
 
-1. Przejdź do **ustawień**  >  **prywatność i usługi** w przeglądarce.
+1. Przejdź do **Ustawienia**  >  **Prywatności i usług** w przeglądarce.
 
-2. Przewiń w dół do sekcji **usługi** i upewnij się, że jest włączona funkcja **Microsoft Defender SmartScreen** i **Blokuj potencjalnie niechciane aplikacje** .
+2. Przewiń w dół **do sekcji Usługi** i upewnij się, że **Microsoft Defender SmartScreen** i Blokuj potencjalnie **niechciane** aplikacje są włączone.
 
-    Gdy filtr Microsoft Defender SmartScreen wykryje PUA, zablokuje go i poinformuje o tym.
+    Gdy następnym razem Microsoft Defender SmartScreen użytkownika, zostanie on zablokowany i odpowiednio cię powiadomi.
 
-    Aby dowiedzieć się więcej, zobacz [blokowanie adresów URL skojarzonych z PUA](https://go.microsoft.com/fwlink/?linkid=2133024).
+    Aby dowiedzieć się więcej, [zobacz, jak blokować adresy URL skojarzone z pua.](https://go.microsoft.com/fwlink/?linkid=2133024)
