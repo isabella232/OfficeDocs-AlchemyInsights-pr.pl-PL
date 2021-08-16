@@ -1,5 +1,5 @@
 ---
-title: Instalowanie programu Visio
+title: Instalowanie Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: e11c356e5a49667d26906989038215fe65f609f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b42e8299484feb84fdbd80e26508ff110daea0191e33043d55ac9880f12919d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014298"
 ---
-# <a name="install-visio"></a>Instalowanie programu Visio
+# <a name="install-visio"></a>Instalowanie Visio
 
-Program Visio jest sprzedawany jako aplikacja autonomiczna, więc nie jest jeszcze dostępna, [Kup lub Wypróbuj program Visio](https://products.office.com/visio). 
+Visio jest sprzedawana jako aplikacja autonomiczna, więc jeśli jeszcze jej nie masz, kup lub [spróbuj Visio.](https://products.office.com/visio) 
 
-**Uwaga**: plan 1 w aplikacji Visio online nie zawiera klasycznej wersji programu Visio, dlatego instalacja nie jest możliwa.
+**Uwaga:** Visio Online Plan 1 nie zawiera klasycznej wersji pakietu Visio, więc instalacja nie jest możliwa.
 
-Jeśli masz subskrypcję aplikacji Visio online (plan 2), musisz [przypisać licencję](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) do użytkownika lub nie będzie dostępna opcja zainstalowania programu **Visio przy użyciu opcji instalacji w** [portalu My Account](https://portal.office.com/account#installs). 
+Jeśli masz subskrypcję usługi Visio Online (plan 2), musisz przypisać licencję do użytkownika lub nie będzie on  miał opcji zainstalowania pakietu Visio w witrynie Moje instalacje w portalu Moje [konto.](https://portal.office.com/account#installs) [](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) 
 
-Niezgodne wersje programu Visio Standard lub Visio Professional są skojarzone z kontami Microsoft i nie można ich zarządzać w centrum administracyjnym. Aby można było zainstalować te wersje, użytkownicy muszą zalogować się do [account.Microsoft.com](https://account.microsoft.com) przy użyciu konta Microsoft skojarzonego z tą wersją programu Visio.
+Wersje pakietu Visio Standard lub Visio Professional bez licencji Visio Professional są skojarzone z kontami Microsoft i nie można nimi zarządzać w centrum administracyjnym. Aby zainstalować te wersje, użytkownicy muszą zalogować się account.microsoft.com [pomocą](https://account.microsoft.com) konta Microsoft skojarzonego z tą wersją pakietu Visio.
 
-Aby uzyskać bardziej szczegółowe informacje, zobacz [Instalowanie programu Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) i postępuj zgodnie z instrukcjami dotyczącymi używanej wersji programu Visio.
+Aby uzyskać bardziej szczegółową pomoc, zobacz [instalowanie Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) i postępuj zgodnie z instrukcjami dla Twojej wersji pakietu Visio.
 
-Aby uzyskać więcej informacji, zobacz:<br>
-[Przewodnik dotyczący wdrażania programu Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[Obsługiwane scenariusze instalowania różnych wersji pakietu Office, programu Project i programu Visio na tym samym komputerze](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
-[Licencjonowanie programu Visio](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)
+Więcej informacji można znaleźć w następującym artykule:<br>
+[Przewodnik po wdrażaniu aplikacji Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[Obsługiwane scenariusze instalowania różnych wersji Office, Project i Visio na tym samym komputerze](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
+[Visio Licencjonowanie](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)

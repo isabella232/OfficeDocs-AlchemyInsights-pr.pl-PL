@@ -1,5 +1,5 @@
 ---
-title: Spis urządzeń w usłudze Intune
+title: Intune Device Inventory
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00ee4f1d7130c239272e28ee8e051a18e6e0baf13040d2a892866be5900adfaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667888"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014082"
 ---
-# <a name="intune-device-inventory"></a>Spis urządzeń w usłudze Intune
+# <a name="intune-device-inventory"></a>Intune Device Inventory
 
-Blok urządzenia zapewnia administratorowi wgląd w urządzenia w obszarze Zarządzanie w usłudze Intune na zasadzie na urządzenie. Wyświetlane informacje obejmują: Sprzęt, odnalezione aplikacje, stan zgodności urządzenia i stan konfiguracji urządzenia.
+Blade Devices zapewnia administratorowi wgląd w informacje dla administratorów dotyczące urządzeń w ramach zarządzania w usłudze Intune na podstawie per device. Przedstawione informacje obejmują: Sprzęt, Odkryte aplikacje, Stan zgodności urządzenia i Stan konfiguracji urządzenia.
 
-Dane spisu dla sprzętu i wykrytych aplikacji są zbierane w cyklu siedmiu dni. Aplikacje i określone elementy sprzętu są różne w zależności od systemu operacyjnego urządzenia oraz tego, czy jest to urządzenie osobiste, czy firmowe.
+Dane dotyczące zapasów sprzętu i wykrytych aplikacji są zbierane w cyklu siedmiodniowym. Zgłoszone aplikacje i konkretne elementy sprzętu różnią się w zależności od systemu operacyjnego urządzenia i tego, czy urządzenie należy do użytkownika, czy do firmy.
 
-Aby uzyskać więcej informacji, zobacz [Wyświetlanie szczegółów urządzenia w usłudze Intune](https://docs.microsoft.com/intune/device-inventory).
+Aby uzyskać więcej informacji, [zobacz Wyświetlanie szczegółów urządzenia w usłudze Intune.](https://docs.microsoft.com/intune/device-inventory)
 
 **CZĘSTO ZADAWANE PYTANIA**
 
-P: nie otrzymuję pełnej listy spisu aplikacji obecnej na urządzeniu z systemem Windows, na których zarejestrowano usługę Intune. Dlaczego nie?
+P. Nie otrzymuję pełnej listy aplikacji w spisie aplikacji obecnych w usłudze Intune zarejestrowanej Windows urządzeniach. Dlaczego nie?
 
-O: w tym momencie są wyświetlane tylko aplikacje nowoczesne dla komputerów z systemem Windows 10, które są zidentyfikowane jako urządzenia firmowe. Usługa Intune nie gromadzi informacji o aplikacjach Win32 zainstalowanych na tych urządzeniach.
+O. Obecnie na komputerach z systemem są wymienione tylko nowoczesne aplikacje Windows 10, które są identyfikowane jako urządzenia firmowe. Usługa Intune nie zbiera informacji o aplikacjach Win32 zainstalowanych na tych urządzeniach.
 
-P: Dlaczego numery telefonów nie są zbierane ze wszystkich urządzeń?
+P. Dlaczego numery telefonów nie są zbierane ze wszystkich urządzeń?
 
-A: telefony skategoryzowane jako urządzenia firmowe w usłudze Intune nie są zidentyfikowane wraz z pełnym numerem telefonu, na przykład na potrzeby uruchamiania raportu spisu urządzeń przenośnych. Poręczne numery telefonów urządzeń są zawsze częściowo maskowane znakami gwiazdki (* * * *) i są wyświetlane tylko cztery ostatnie cyfry.
+O. Telefony kategoryzowane jako urządzenia firmowe w usłudze Intune nie są oznaczone ich pełnymi numerami telefonów, na przykład w przypadku uruchamiania raportu o spisie urządzeń przenośnych. Numery telefonów własnych urządzeń są zawsze częściowo maskowane gwiazdkami (****) i są wyświetlane tylko cztery ostatnie cyfry.

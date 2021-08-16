@@ -1,5 +1,5 @@
 ---
-title: Brakuje elementu "LocalizedNames" w elemencie "SavedQuery"
+title: W elemencie "savedquery" brakuje nazwy "LocalizedNames"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1739"
 - "9000187"
-ms.openlocfilehash: 4b25596ab68cf1723df4fa6a593cef5341c8ff16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 122904b1eb2d1c20fd26bb6a388aa50ced766cec9649fce15c0fae7f6b322832
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667132"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065618"
 ---
-# <a name="missing-localizednames-in-element-savedquery"></a>Brakuje elementu "LocalizedNames" w elemencie "SavedQuery"
+# <a name="missing-localizednames-in-element-savedquery"></a>W elemencie "savedquery" brakuje nazwy "LocalizedNames"
 
-Aby uzyskać pomoc dotyczącą braku LocalizedNames, zobacz ["element SavedQuery" ma niekompletną zawartość. Lista oczekiwanych możliwych elementów: podczas importowania rozwiązania z systemem Dynamics 365 Wystąpił błąd "LocalizedNames"](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
+Aby uzyskać pomoc na temat braku zawartości "Nazwy zlokalizowane", zobacz ["Element "savedquery" ma niepełną zawartość. Oczekiwana lista możliwych elementów: Błąd "Nazwy zlokalizowane" występuje podczas importowania rozwiązania usługi Dynamics 365.](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element)
 
-W nazwie widoku Szukaj znaków specjalnych, które mogą powodować problem. Usuń wszystkie znaki specjalne w nazwie widoku i ponownie wyeksportuj rozwiązanie.
+W nazwie widoku poszukaj znaków specjalnych, które mogą być przyczyną problemu. Usuń wszystkie znaki specjalne w nazwie widoku i ponownie wyeksportuj rozwiązanie.
