@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "1546"
 - "9000076"
-ms.openlocfilehash: cecbd091447e63f2d5012ceaf96e050c92a171e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78520b416a72a3c93a3d2e7726948d59f83e681d4f09078c2a3cefac7bf1db3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658996"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020814"
 ---
 # <a name="troubleshooting-client-authentication-certificate-deployment"></a>Rozwiązywanie problemów z wdrażaniem certyfikatu uwierzytelniania klienta
 
-Profile certyfikatów klienta usługi Intune NDES/SCEP i PKCS/PFX są często używane w połączeniu z innymi typami profilów, takimi jak WiFi, VPN i poczta e-mail, aby umożliwić użytkownikom uwierzytelnianie w zasobach firmowych. Jeśli te typy profilów są połączone z profilem certyfikatu klienta, są zależne od poprawnego wdrożenia tego profilu.
+Profile klientów NDES/SCEPT i PKCS/PFX Intune są często używane w połączeniu z innymi typami profilów, takimi jak sieć Vpn i poczta e-mail, aby umożliwić użytkownikom uwierzytelnienie się w zasobach firmowych. To, czy te typy profilów są połączone z profilem certyfikatu klienta, zależy od pomyślnego wdrożenia tego profilu.
 
-Początkowa konfiguracja infrastruktury i skojarzona konfiguracja profilu certyfikatu klienta wymagają często rozwiązywania problemów. Aby zapoznać się z przewodnikiem krok po kroku dotyczącym poprawnego konfigurowania łącznika usługi NDES i wskazówek dotyczących rozwiązywania problemów z wdrażaniem certyfikatów, zobacz: 
+Początkowa konfiguracja infrastruktury i skojarzona konfiguracja profilu certyfikatu klienta często wymagają rozwiązania problemów. Aby uzyskać przewodnik krok po kroku dotyczący pomyślnego konfigurowania łącznika NDES i rozwiązywania problemów w celu wyizolowania problemów przy użyciu wdrożenia certyfikatu, zobacz: 
 
-- [Konfigurowanie infrastruktury do obsługi protokołu SCEP za pomocą usługi Intune](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
-- [Omówienie rozwiązywania problemów z profilami certyfikatów SCEP za pomocą usługi Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
+- [Konfigurowanie infrastruktury pod celu obsługi danych SCEPT za pomocą usługi Intune](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
+- [Omówienie rozwiązywania problemów z profilami certyfikatów SCEPT za pomocą Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
 
-Używanie skryptów programu PowerShell, do których można sprawdzić konfigurację. Aby uzyskać więcej informacji, zobacz [skrypty weryfikacji łącznika certyfikatów usługi Intune](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority).
+Użyj skryptów programu PowerShell, do których się odwołujesz, aby zweryfikować konfigurację. Aby uzyskać więcej informacji, zobacz Skrypty weryfikacyjne [łącznika certyfikatu usługi Intune.](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority)
 
   
 **Inne typowe problemy**
 
-**Gdy próbuję zainstalować łącznik certyfikatów usługi Intune na serwerze usługi NDES Connector, jest wyświetlany komunikat "nie można zweryfikować hasła w żądaniu certyfikatu. Być może został on już wykorzystany. Uzyskaj nowe hasło do przesłania za pomocą tego żądania.**  
+**Podczas próby zainstalowania łącznika certyfikatu usługi Intune na serwerze łącznika NDES jest wyświetlany komunikat "Nie można zweryfikować hasła w żądaniu certyfikatu. Być może już go używano. Uzyskaj nowe hasło, aby przesłać to żądanie".**  
 
-Ta wiadomość oznacza, że musisz uruchomić instalację łącznika certyfikatu jako administrator.
+Ten komunikat oznacza, że musisz uruchomić instalację łącznika certyfikatu jako administrator.
 
-W niektórych środowiskach serwery, na których jest uruchomiony certyfikat usługi Intune, muszą używać serwera proxy do nawiązywania połączenia z usługą Intune, więc łącznik certyfikatów musi używać serwera proxy. W pewnych okolicznościach łącznik usługi NDES ignoruje skonfigurowane ustawienia serwera proxy i może być konieczne skonfigurowanie ustawień serwera proxy podczas uruchamiania w kontekście zabezpieczeń LocalSystem. 
+W niektórych środowiskach serwery, na których jest uruchamiany certyfikat usługi Intune, muszą łączyć się z usługą Intune za pomocą serwera proxy, a więc łącznik certyfikatu musi używać serwera proxy. W pewnych okolicznościach łącznik NDES ignoruje skonfigurowane ustawienia serwera proxy i może być konieczne skonfigurowanie ustawień serwera proxy podczas uruchamiania w kontekście zabezpieczeń LocalSystem. 
  
-Rozwiązanie polega na uruchomieniu programu Internet Explorer w systemie i skonfigurowaniu serwera proxy w programie IE. Po ponownym uruchomieniu usługi łącznika usługi Intune łącznik usługi NDES łączy się z usługą Intune.
+Rozwiązaniem jest uruchomienie programu Internet Explorer jako systemu i skonfigurowanie serwera proxy w programie Internet Explorer. Po ponownym uruchomieniu usługi Intune Connector łącznik NDES łączy się z usługą Intune.
 
-**Urządzenia użytkowników nie odbierają już certyfikatów SCEP z usługi NDES.**
+**Urządzenia użytkowników nie otrzymują już certyfikatów SCEPT od NDES.**
 
-Możliwe, że certyfikat uwierzytelniania klienta wystawiony dla serwera NDES i określony podczas instalacji łącznika usługi NDES stracił ważność lub go brakuje. Aby rozpoznać: 
+Istnieje możliwość, że certyfikat uwierzytelniania klienta wystawiony dla serwera NDES i określony podczas instalacji łącznika NDES wygasł lub nie istnieje. Aby rozwiązać problem: 
  
-1. Odinstaluj łącznik usługi NDES.  
-2. Te szczegóły umożliwiają zażądanie nowego uwierzytelniania klienta lub certyfikatu uwierzytelniania serwera: 
+1. Odinstaluj łącznik NDES.  
+2. Skorzystaj z tych informacji, aby zażądać nowego uwierzytelniania klienta lub certyfikatu uwierzytelniania serwera: 
  
-    - Nazwa podmiotu: CN = zewnętrzna nazwa FQDN  
-    - Alternatywna nazwa podmiotu (wymagane): DNS = zewnętrzna nazwa FQDN, DNS = wewnętrzna nazwa FQDN 
+    - Nazwa tematu: CN=zewnętrzna nazwa fqdn  
+    - Nazwa alternatywna tematu (wymagane są obie nazwy): DNS=zewnętrzna nazwa fqdn, DNS=wewnętrzna nazwa fqdn 
  
-3. Ponownie zainstaluj łącznik usługi NDES z nowym certyfikatem.
+3. Ponownie zainstaluj łącznik NDES za pomocą nowego certyfikatu.

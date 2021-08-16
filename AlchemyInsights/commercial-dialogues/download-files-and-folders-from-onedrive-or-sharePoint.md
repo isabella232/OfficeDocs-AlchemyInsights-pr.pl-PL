@@ -1,5 +1,5 @@
 ---
-title: Pobieranie plików i folderów z usługi OneDrive lub programu SharePoint
+title: Pobieranie plików i folderów z OneDrive lub SharePoint
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: f2f4d458d30960d387fed158d718a963e72d4f3e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: MT
+ms.openlocfilehash: a08539f4fb9824b6ab020416cbade061e06c24ea3414078981e39c2c10f4beee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750835"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017394"
 ---
-# <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>Pobieranie plików i folderów z usługi OneDrive lub programu SharePoint
+# <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>Pobieranie plików i folderów z OneDrive lub SharePoint
 
-Możesz pobrać pliki i foldery z usługi Microsoft OneDrive lub z programu SharePoint na platformę Microsoft 365 lub program SharePoint Server 2019 na komputer za pomocą zaledwie kilku kliknięć. Aby uzyskać więcej informacji, zobacz [Pobieranie plików i folderów z usługi OneDrive lub programu SharePoint.](https://support.microsoft.com/office/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
+Możesz pobrać pliki i foldery z Microsoft OneDrive lub SharePoint w Microsoft 365 lub SharePoint Server 2019 na komputer za pomocą zaledwie kilku kliknięć. Aby uzyskać więcej informacji, zobacz Pobieranie plików i folderów z programu [OneDrive lub SharePoint.](https://support.microsoft.com/office/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
