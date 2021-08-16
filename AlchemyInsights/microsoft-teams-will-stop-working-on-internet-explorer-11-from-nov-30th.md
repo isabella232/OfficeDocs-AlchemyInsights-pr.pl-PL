@@ -1,5 +1,5 @@
 ---
-title: Aplikacja Microsoft Teams nie przestanie działać w programie Internet Explorer 11 od lis 30
+title: Microsoft Teams przestanie działać w programie Internet Explorer 11 od 30 listopada
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004213"
 - "7406"
-ms.openlocfilehash: b9558864ea632be3a69dc8af98dc4d47e19bee30
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
-ms.translationtype: MT
+ms.openlocfilehash: 339a179e1be88d80dc9df377eb06853f9184b4305b9fd029f565ba54fd30e546
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49565040"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026952"
 ---
-# <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>Aplikacja Microsoft Teams nie przestanie działać w programie Internet Explorer 11 od lis 30
+# <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>Microsoft Teams przestanie działać w programie Internet Explorer 11 od 30 listopada
 
-Zgodnie z informacją MC225570, począwszy od 30 listopada 2020 r., aplikacja Microsoft Teams w sieci Web nie będzie już obsługiwać programu Internet Explorer (IE) 11. 
+Jak pokomunikuje się firma MC225570, począwszy od 30 listopada 2020 r., aplikacja sieci Web Microsoft Teams nie będzie już obsługiwać programu Internet Explorer (IE) 11. 
 
-Zalecamy zaktualizowanie nowej [przeglądarki Microsoft Edge](https://www.microsoft.com/edge) , aby zapewnić bezpieczniejsze i bardziej innowacyjne środowisko internetowe. 
+Zalecamy aktualizację do nowej wersji [Microsoft Edge](https://www.microsoft.com/edge) w celu bezpieczniejszego i bardziej innowacyjnego środowiska online. 
 
-Aby uzyskać więcej informacji, zobacz [microsoft 365 Apps to widzenia Internet Explorer 11 i Windows 10 Sunsets Microsoft Edge Starsza wersja — społeczność techniczna firmy Microsoft](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)
+Aby uzyskać więcej informacji, zobacz Microsoft 365 do programu [Internet Explorer 11,](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) a Windows 10 zachody słońca Starsza wersja Microsoft Edge - Microsoft Tech Community
 

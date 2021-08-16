@@ -1,5 +1,5 @@
 ---
-title: Przykładowa usługa Microsoft Defender dla zasad ochrony przed wyłudzaniem informacji w usłudze Office 365
+title: Przykład programu Microsoft Defender Office 365 ochrony przed wyłudzaniem informacji
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750792"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035016"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Przykładowa usługa Microsoft Defender dla zasad ochrony przed wyłudzaniem informacji w usłudze Office 365
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Przykład programu Microsoft Defender Office 365 ochrony przed wyłudzaniem informacji
 
 Te ustawienia umożliwiają zasady o nazwie *Domain (Domena) i GENERAL (Dyrektor generalny).* Te zasady zapewniają zarówno ochronę użytkowników, jak i domen przed personifikacji, a następnie dotyczą wszystkich wiadomości e-mail odbieranych przez użytkowników w domenie. Najpierw dodaj następujące informacje, aby utworzyć zasady:
 
@@ -33,4 +33,4 @@ Te ustawienia umożliwiają zasady o nazwie *Domain (Domena) i GENERAL (Dyrektor
   - **Dodaj zaufanych nadawców i domeny:** W tym przykładzie nie definiuj żadnych zastępować.
 - Po przejrzenia ustawień wybierz pozycję Utwórz **te zasady** lub **Zapisz** odpowiednio do potrzeb.
 
-Aby dowiedzieć się więcej, zobacz [Zasady ochrony przed wyłudzaniem informacji na platformy Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2092235)
+Aby dowiedzieć się więcej, zobacz [Zasady ochrony przed wyłudzaniem informacji w Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2092235)

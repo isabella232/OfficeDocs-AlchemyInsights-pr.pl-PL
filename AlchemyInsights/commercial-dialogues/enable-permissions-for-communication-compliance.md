@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: c841232525dd2eabc068494a1e22975d428705dc
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9a845e9c51741f69edba328fbf147847d44690a211af0c091fe29733414f771b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058732"
 ---
 # <a name="enable-permissions-for-communication-compliance"></a>Włączanie uprawnień do zgodności komunikacji
 
 W tym celu wykonaj następujące czynności:
 
-1. Zaloguj [https://protection.office.com/permissions](https://go.microsoft.com/fwlink/?linkid=2129828) się, aby użyć poświadczeń dla konta administratora w organizacji platformy Microsoft 365.
-2. W Centrum [zabezpieczeń & zgodności](https://go.microsoft.com/fwlink/?linkid=2101341)przejdź **do** uprawnienia. Wybierz link, aby wyświetlić role i zarządzać nimi w usłudze Office 365, a następnie wybierz pozycję **\+ Utwórz**.
+1. Zaloguj się, [https://protection.office.com/permissions](https://go.microsoft.com/fwlink/?linkid=2129828) aby używać poświadczeń dla konta administratora w Microsoft 365 organizacji.
+2. W Centrum [zabezpieczeń & zgodności](https://go.microsoft.com/fwlink/?linkid=2101341)przejdź **do** uprawnienia. Wybierz link, aby wyświetlić role i zarządzać nimi w aplikacji Office 365, a następnie wybierz pozycję **\+ Utwórz**.
 3. W **polu Nazwa** nadaj nowej grupie ról przyjazną nazwę. Wybierz pozycję **Dalej**.
 4. Wybierz **pozycję Wybierz role**, a następnie wybierz pozycję **Dodaj**. Zaznacz pole wyboru dla administratorów **przeglądu** nadzorczych, zarządzania sprawami, administratora **zgodności** i przeglądu **,** wybierz pozycję Dodaj **,** a następnie wybierz **pozycję Gotowe**. Wybierz pozycję **Dalej**.
 5. Wybierz **pozycję Wybierz członków**, a następnie wybierz pozycję **Dodaj**. Zaznacz pole wyboru dla wszystkich użytkowników i grup, dla których chcesz utworzyć zasady i zarządzać wiadomościami z dopasowaniami zasad, wybierz pozycję Dodaj **,** a następnie wybierz pozycję **Gotowe.** Wybierz pozycję **Dalej**.
