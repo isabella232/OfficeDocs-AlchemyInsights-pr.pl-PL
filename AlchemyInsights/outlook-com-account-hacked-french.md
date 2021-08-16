@@ -1,5 +1,5 @@
 ---
-title: 8000073 Outlook.com konto włamał-francuski
+title: 8000073 Outlook.com — FRANCUSKI
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1151"
 - "8000073"
-ms.openlocfilehash: 803efdcc24eee7082ce90ee439e9836e269bc5b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aaacc7d3191b858d41765b076a0e61a5e2d0d69ae59df5ac21c9c65ce298f5a7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769085"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041560"
 ---
-# <a name="mon-compte-outlookcom-a-t-pirat"></a>PN Compte Outlook.com été piraté
+# <a name="mon-compte-outlookcom-a-t-pirat"></a>Mon compte Outlook.com a éténisé
 
-Si votre Compte été piraté, cela @ a Quelqu'un s'est procuré votre MOT de passe et qu'il peut do użytkowania votre Compte wlać accéder à Vos Information Personnelles OU Envoyer des Courriers indésirables.
+Si votre compte a été baské, cela signifie que quelqu'un'est procuré votre étretre de passe et qu'il peut utiliser votre compte pour accéder à vos informations personnelles ou envoyer des courriers indésirables.
 
-Wlać récupérer votre Compte, [suivez Les](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).
+Pour récupérer votre compte, [suivez les instructions](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).

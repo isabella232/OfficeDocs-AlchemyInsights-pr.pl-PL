@@ -1,5 +1,5 @@
 ---
-title: Blokowanie lub odblokowywanie nadawców w programie Outlook.com
+title: Blokowanie i odblokowywanie nadawców w Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,28 +16,28 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: ba52dacf8e357b1910c4e3be8714128b96e9ad0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b49b869700a3e564e0386c5bd2e3b8d539d2f47d48f3a54f3718c770ccc9a0bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753701"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041524"
 ---
-# <a name="block-or-unblock-senders"></a>Blokowanie lub odblokowywanie nadawców
+# <a name="block-or-unblock-senders"></a>Blokowanie i odblokowywanie nadawców
 
-Wiadomości z adresów e-mail lub domen na liście zablokowanych nadawców nie będą dostępne w skrzynce pocztowej programu Outlook.com.
+Wiadomości z adresów e-mail lub domen z listy zablokowanych nadawców nie będą trafiać do Twojej skrzynki Outlook.com.
 
-**Ze skrzynki odbiorczej:**
+**Z skrzynki odbiorczej:**
 
-- Na liście wiadomości Zaznacz wiadomość, a następnie wybierz pozycję blok **wiadomości-śmieci**  >  **Block**.
+- Na liście wiadomości zaznacz wiadomość, a następnie wybierz pozycję **Blok**  >  **wiadomości-śmieci**.
 
-**Od ustawień:**
+**Z Ustawienia:**
 
-1. Otwórz ustawienia wiadomości [-śmieci](https://outlook.live.com/mail/options/mail/junkEmail) .
-2. W obszarze **Zablokowani nadawcy i domeny**wybierz pozycję **Dodaj**.
-3. Wpisz adres e-mail domeny, którą chcesz zablokować, a następnie naciśnij klawisz ENTER.
+1. Otwórz [ustawienia wiadomości-śmieci.](https://outlook.live.com/mail/options/mail/junkEmail)
+2. W **obszarze Zablokowani nadawcy i domeny** wybierz pozycję **Dodaj**.
+3. Wpisz adres e-mail domeny, którą chcesz zablokować, i naciśnij klawisz Enter.
 4. Wybierz **Zapisz**.
 
-Aby odblokować nadawcę, wybierz ikonę kosza obok adresu e-mail lub domeny, które chcesz odblokować.
+Aby odblokować nadawcę, wybierz ikonę kosza obok adresu e-mail lub domeny, którą chcesz odblokować.
 
-Aby dowiedzieć się więcej, zobacz [blokowanie nadawców lub oznaczanie wiadomości e-mail jako wiadomości-śmieci](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Aby dowiedzieć się więcej, zobacz [Blokowanie nadawców i oznaczanie wiadomości e-mail jako wiadomości-śmieci.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
