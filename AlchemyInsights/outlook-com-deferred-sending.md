@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: deb5394cc0b88f061ae908c40e127d9aa087d077
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 028768348fd81b4fecc622b94b140107b58e04110127166cab8e92ce3ab33b36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752081"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041416"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a>Opóźnianie lub planowanie wysyłania wiadomości e-mail
+# <a name="delay-or-schedule-sending-email-messages"></a>Opóźnianie lub planowanie wysłania wiadomości e-mail
 
-Niestety nie można odroczyć ani zaplanować wysłania wiadomości e-mail w aplikacji mobilnej ani w przeglądarce sieci Web. W tym celu użyj [programu Outlook dla systemu Windows lub Outlook dla komputerów Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
+Niestety, ale nie można odroczyć ani zaplanować wysłania wiadomości e-mail w aplikacji mobilnej lub przeglądarce internetowej. W tym celu użyj Outlook [dla Windows lub Outlook dla komputerów Mac.](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook)
 
-**Cofnij wysyłanie**
+**Cofanie wysyłania**
 
-Możesz zmienić ustawienia Outlook.com, aby opóźnić wysyłanie wiadomości przez nawet 10 sekund. Możesz anulować wysyłanie wiadomości w tym okresie. Aby włączyć tę funkcję, Otwórz ustawienia funkcji [Cofnij wysyłanie](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .
+Możesz zmienić ustawienia witryny Outlook.com, aby opóźnić wysyłanie wiadomości o maksymalnie 10 sekund. W tym okresie możesz anulować wysłanie wiadomości. Aby włączyć tę funkcję, otwórz ustawienia [Cofnij wysyłanie.](https://outlook.live.com/mail/options/mail/messageContent/undoSend)
 
-Dowiedz się więcej [na temat odwoływania wiadomości e-mail w programie Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
+Dowiedz się więcej o [odwoływaniu wiadomości e-mail w Outlook.com.](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy)

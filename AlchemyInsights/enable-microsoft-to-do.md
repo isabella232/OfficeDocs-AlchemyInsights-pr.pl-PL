@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: 516ad0ccadd74eee7e00353d7439eebc6d88718f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1180ca96f0e1fdf0dc6e45829283fb3c99586683feb6ad7da1571fc05f41c48d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814130"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002886"
 ---
 # <a name="how-to-enable-microsoft-to-do"></a>Jak włączyć usługę Microsoft To-Do
 
-Aby korzystać z aplikacji Microsoft To-Do, administrator musi włączyć tę aplikację na kontach poszczególnych użytkowników. Przejdź do [strony Dodatki usług &amp; na](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) stronie ustawień administratora platformy Microsoft 365, aby włączyć To-Do użytkowników.
+Aby używać aplikacji Microsoft To-Do, administrator musi włączyć tę aplikację na kontach poszczególnych użytkowników. Przejdź do [strony Dodatki usług &amp; na](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) stronie ustawień administratora usługi Microsoft 365, aby włączyć To-Do użytkowników.
   
-Aplikacja Microsoft To-Do korzysta z funkcji usługi Exchange Online do synchronizowania i przechowywania elementów do zsynchronizowania i przechowywania elementów do zsynchronizowania z użytkownikami. Aby korzystać z aplikacji Microsoft To-Do, użytkownik potrzebuje ważnej skrzynki pocztowej usługi Exchange Online.
+Aplikacja Microsoft To-Do korzysta z funkcji Exchange Online do synchronizowania i przechowywania elementów do pracy użytkowników. Aby korzystać z usługi Microsoft To-Do, użytkownik potrzebuje ważnej skrzynki Exchange Online pocztowej.
   
 Aby uzyskać dodatkowe informacje, zobacz [Administrowanie programem Microsoft To-Do Preview.](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx)
   

@@ -1,5 +1,5 @@
 ---
-title: Blokowanie elementów w folderze wiadomości-śmieci
+title: Blokowanie elementów w folderze Wiadomości-śmieci
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2682"
-ms.openlocfilehash: 7f372a623ead564a341e0b4abc0c26ffa6148f15
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e19036bfbcae2e79833d90ab3bb2ab2f1b308f21569c89a8c3ab2ac321c4214a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753413"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025080"
 ---
-# <a name="blocking-items-in-your-junk-email-folder"></a>Blokowanie elementów w folderze wiadomości-śmieci
+# <a name="blocking-items-in-your-junk-email-folder"></a>Blokowanie elementów w folderze Wiadomości-śmieci
 
-Zablokowanie elementu znajdującego się już w folderze wiadomości-śmieci spowoduje jego usunięcie. Elementy znajdujące się w [folderze wiadomości-śmieci](https://outlook.live.com/mail/junkemail) są automatycznie usuwane po upływie 30 dni. Wybierz element w folderze wiadomości-śmieci, aby sprawdzić, kiedy zostanie usunięty.
+Zablokowanie elementu, który znajduje się już w folderze Wiadomości-śmieci, spowoduje jego usunięcie. Elementy w [folderze Wiadomości-śmieci](https://outlook.live.com/mail/junkemail) są automatycznie usuwane po 30 dniach. Wybierz element w folderze Wiadomości-śmieci, aby sprawdzić, kiedy zostanie usunięty.
 
-Dowiedz się więcej na temat [blokowania nadawców lub oznaczania wiadomości e-mail jako wiadomości-śmieci](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
+Dowiedz się więcej o tym, jak [blokować nadawców i oznaczać wiadomości e-mail jako wiadomości-śmieci.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)
