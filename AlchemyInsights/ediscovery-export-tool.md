@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f7b7e1ae4f1f686fa510403d398c4ff750dbadb9065b8d63701a927eeac52d9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814598"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101312"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nie możesz zainstalować lub uruchomić narzędzia eDiscovery Export Tool?
 
@@ -28,7 +28,7 @@ Jeśli nie możesz zainstalować lub uruchomić narzędzia eDiscovery Export Too
   
 - Komputer, z których korzystasz, spełnia następujące wymagania wstępne:
 
-  - 32- lub 64-bitowa wersja systemu Windows 7 i nowsze wersje
+  - Wersje 32- lub 64-bitowe Windows 7 i nowsze
 
   - Microsoft .NET Framework 4.7
 
@@ -44,7 +44,7 @@ Jeśli nie możesz zainstalować lub uruchomić narzędzia eDiscovery Export Too
 
 - Twoja organizacja może połączyć się z punktem końcowym na platformie Azure, czyli **\* .blob.core.windows.net** (symbol wieloznaczny reprezentuje symbol identyfikator unikatowy twojego zadania eksportu).
 
-- Masz przypisaną rolę eksportowania w Centrum zgodności zabezpieczeń platformy Microsoft 365. &amp; Domyślnie ta rola jest przypisana tylko do grupy ról Menedżer zbierania elektronicznych materiałów dowodowych. Zobacz [Przypisywanie uprawnień zbierania elektronicznych materiałów dowodowych.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- Masz przypisaną rolę eksportowania w Centrum zgodności Microsoft 365 &amp; zabezpieczeń. Domyślnie ta rola jest przypisana tylko do grupy ról Menedżer zbierania elektronicznych materiałów dowodowych. Zobacz [Przypisywanie uprawnień zbierania elektronicznych materiałów dowodowych.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
 Aby uzyskać więcej informacji, zobacz [Eksportowanie wyników wyszukiwania zawartości.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 
