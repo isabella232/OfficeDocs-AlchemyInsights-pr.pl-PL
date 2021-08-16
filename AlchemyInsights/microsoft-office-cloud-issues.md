@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: d6d652d107d453692751ad802ebe397e52df5627
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e80bfd24c319a411493e88c6bac31365c347a2e67f8ecb2dc9ba52fb24fc5d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724697"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012426"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Masz problemy z usługą w chmurze?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Występują problemy z usługą w chmurze?
 
-Jeśli występują problemy z usługą w chmurze, możesz sprawdzić [kondycję usługi](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) w centrum administracyjnym Microsoft 365, aby sprawdzić, czy jest to znany problem z trwającą rozdzielczością, zanim zadzwonisz do pomocy technicznej lub w trakcie rozwiązywania problemów. Problem może być bardzo tymczasowy i jest już zidentyfikowany przez firmę Microsoft, ale może się zdarzyć, że w czasie między zidentyfikowaniem problemu i publikowaniem na pulpicie nawigacyjnym kondycja usługi wystąpiła ważność. Dalsze aktualizacje można znaleźć w obszarze pulpitu nawigacyjnego usługi.
+Jeśli występują problemy z usługą w chmurze, zanim zadzwonisz do pomocy technicznej lub poświęcisz czas na ich rozwiązanie, możesz sprawdzić kondycję usługi w usłudze centrum administracyjne platformy Microsoft 365, aby ustalić, czy jest centrum administracyjne platformy Microsoft 365 znany problem w trakcie rozwiązywania. [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Problem może być bardzo tymczasowy i już zidentyfikowany przez firmę Microsoft, jednak może upłynieć okres między identyfikacją problemu a opublikowaniem go na pulpicie nawigacyjnym kondycji usługi. Nadal sprawdzaj pulpit nawigacyjny usługi, aby uzyskać dalsze aktualizacje.
 
-**Zasady powiadamiania**
+**Zasady powiadomień**
 
-W przypadku wystąpienia incydentu usługi firma Microsoft rozpoznaje ten termin, ukierunkowany i dokładny sposób komunikacji dla klientów. Firma Microsoft powiadamia administratorów przez zaktualizowanie [pulpitu nawigacyjnego kondycji usługi](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) specyficznej dla dzierżawy (SHD) w portalu administracyjnym Microsoft 365. Aktualizacje incydentów usługowych są podawane w częstotliwość godzinowej lub, jeśli jest wymagany inny częstotliwość, zostanie on podany w SHDej komunikacji. Aby uzyskać więcej informacji, zobacz [Jak sprawdzić kondycję usługi Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
+W przypadku wystąpienia zdarzenia z usługą firma Microsoft uznaje, że terminowa, docelowa i precyzyjna komunikacja ma kluczowe znaczenie dla klientów. Firma Microsoft powiadamia administratorów, aktualizując pulpit nawigacyjny kondycji usług [(SHD, Service Health Dashboard)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) dla poszczególnych dzierżawców w portalu Administracja Microsoft 365 usług. Aktualizacje zdarzeń serwisowych są udostępniane z godzinną aktualizacją. Jeśli jest wymagany inny czas, są one określone w komunikacie o komunikacji z programem SHD. Aby uzyskać więcej informacji, [zobacz Jak sprawdzić Microsoft 365 kondycję usługi.](https://docs.microsoft.com/office365/enterprise/view-service-health)
 

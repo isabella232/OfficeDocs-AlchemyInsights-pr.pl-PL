@@ -1,5 +1,5 @@
 ---
-title: 9000199 plików PST w programie Outlook.com
+title: 9000199 pst w Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,15 +14,15 @@ ms.custom:
 - "1761"
 - "1771"
 - "9000199"
-ms.openlocfilehash: 66196cc99e4475f53d02dfb291ce44e3e2b71b87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 87c54cc1e313dd33e10e94fda9f22cb705ed82b7d29484b723faafb64de89840
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777036"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024432"
 ---
-# <a name="pst-data-files-in-outlookcom"></a>Pliki danych PST w programie Outlook.com
+# <a name="pst-data-files-in-outlookcom"></a>Pliki danych PST w Outlook.com
 
-Nie można zaimportować programu Outlook. Plik danych PST na koncie usługi Outlook.com przy użyciu przeglądarki.
+Importowanie pliku danych nie jest Outlook. pliku danych PST na konto Outlook.com przy użyciu przeglądarki.
 
-W celu zaimportowania pliku. Plik danych PST, musisz użyć aplikacji klasycznej Outlook. Aby dowiedzieć się więcej, zobacz [Importowanie wiadomości e-mail, kontaktów i kalendarza z pliku pst programu Outlook](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy) .
+Aby zaimportować . pliku danych PST, musisz użyć Outlook klasycznej. Aby dowiedzieć się więcej, przeczytaj Importowanie wiadomości [e-mail, kontaktów i](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy) kalendarza z pliku Outlook pst.

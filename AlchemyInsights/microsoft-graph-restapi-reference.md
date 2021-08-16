@@ -1,5 +1,5 @@
 ---
-title: Informacje dotyczące interfejsu API w usłudze Microsoft Graph
+title: Dokumentacja interfejsu API usługi Microsoft Graph REST
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 8401b153a3ceb4cd854c7441689cf1e10d18bb07
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: f8ecb8081ee169f88ef265f4b108919df29a0ca7146835d7e0c4e85793082136
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447306"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012534"
 ---
-# <a name="microsoft-graph-rest-api-reference"></a>Informacje dotyczące interfejsu API w usłudze Microsoft Graph
+# <a name="microsoft-graph-rest-api-reference"></a>Microsoft Graph interfejsu API REST
 
-Interfejs API programu Graph-zestawy na punkcie końcowym v 1.0 są w ogólnym stanie dostępności (GA) i przeprowadziły do przetworzenia rygorystycznych procesów recenzowania i wystawiania opinii z klientami w celu osiągnięcia praktycznych wymagań dotyczących produkcji.
+Zestawy Graph API dla punktu końcowego wersji 1.0 mają ogólny stan dostępności (GA) i przeszły rygorystyczny proces recenzji i opinii z klientami, aby spełnić praktyczne, produkcyjne potrzeby.
 
-- Aby uzyskać więcej informacji o interfejsie API programu Graph w wersji 1.0, zobacz [Informacje o interfejsie API platformy Microsoft Graph w wersji 1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true). 
-- Aby uzyskać więcej informacji na temat wersji beta API programu Graph, zobacz [Informacje o punkcie końcowym programu Microsoft Graph w wersji beta](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true).
+- Aby uzyskać więcej informacji na Graph API 1.0, zobacz Microsoft [Graph API REST w wersji 1.0.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true) 
+- Aby uzyskać więcej informacji na Graph wersji beta interfejsu API, zobacz [Informacje Graph punktu końcowego beta firmy Microsoft.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true)
 
-Aby uzyskać więcej informacji na temat programu Microsoft Graph, zobacz [dokumentację programu Microsoft Graph](https://docs.microsoft.com/graph/).
+Aby uzyskać więcej informacji na temat Graph Microsoft Graph [microsoft.](https://docs.microsoft.com/graph/)
 
-Ujednoliconi klienci obsługi klienta i usług Premier mogą podnieść bilet pomocy technicznej przy użyciu tego portalu. Jeśli nie masz ujednoliconej lub premierowej pomocy technicznej, możesz uzyskać dostęp do bezpłatnej pomocy dla deweloperów dla programu Microsoft Graph w witrynie Microsoft Q&A. Opublikuj swoje pytanie tutaj: https://aka.ms/AskGraph
+Klienci pomocy technicznej Unified i Premier mogą podnieść bilet pomocy technicznej za pomocą tego portalu. Jeśli nie masz pomocy technicznej Unified ani Premier, możesz uzyskać dostęp do bezpłatnej pomocy technicznej dla deweloperów aplikacji Microsoft Graph na platformie Pytania i odpowiedzi&Microsoft. Opublikuj swoje pytanie tutaj: https://aka.ms/AskGraph

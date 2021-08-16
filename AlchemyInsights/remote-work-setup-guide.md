@@ -1,5 +1,5 @@
 ---
-title: Przewodnik po konfiguracji zdalnej współpracy
+title: Przewodnik konfiguracji pracy zdalnej
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024000"
 ---
-# <a name="remote-work-setup-guide"></a>Przewodnik po konfiguracji zdalnej współpracy
+# <a name="remote-work-setup-guide"></a>Przewodnik konfiguracji pracy zdalnej
 
-Więcej pracy jest wykonywanych zdalnie. Organizacja musi być wyposażona w celu zarządzania zwiększonym popytem na pracę zdalną.
+Coraz więcej pracy wykonywanej zdalnie. Twoja organizacja musi mieć urządzenia, aby zarządzać zwiększonym zapotrzebowaniem na pracę zdalną.
 
-Skorzystaj z [przewodnika konfigurowania pracy zdalnej](https://go.microsoft.com/fwlink/?linkid=2142062) , aby włączyć podstawowe funkcje zabezpieczeń i przejrzeć dodatkowe zalecenia dotyczące zabezpieczeń. Zostaną wyświetlone wskazówki dotyczące redukcji szczepu infrastruktury sieci VPN i opcjonalnie skonfigurowania dostępu zdalnego dla komputerów stacjonarnych i aplikacji. Następnie przejrzyj opcje wdrażania aplikacji Microsoft Teams i aplikacji pakietu Office.
+Aby [włączyć podstawowe funkcje zabezpieczeń](https://go.microsoft.com/fwlink/?linkid=2142062) i zapoznać się z dodatkowymi zaleceniami zabezpieczeń, skorzystaj z przewodnika konfiguracji pracy zdalnej. Otrzymasz wskazówki, aby zmniejszyć zmęczenie infrastruktury VPN i opcjonalnie skonfigurować dostęp zdalny do pulpitów i aplikacji. Następnie zapoznaj się z opcjami wdrażania aplikacji Microsoft Teams i Office aplikacji.
