@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: cbc856a76d811c09aefcada962376ae4e9469c3b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 85a494918d65cc026a85bdfd6348d5c3c190ef919fa88a15ffcd4e7e790b8737
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749232"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035160"
 ---
 # <a name="enable-auto-expanding-archiving"></a>Włączanie automatycznego rozwijania archiwizacji
 
@@ -29,5 +29,5 @@ Jeśli archiwalne skrzynki pocztowe są pełne (osiągnięto przydział) lub chc
 > [!TIP]
 >
 > - Po włączeniu automatycznego rozwijania może upłynieć do 30 dni, aż zostanie aprowowana dodatkowa przestrzeń dyskowa.
-> - Jeśli skrzynka pocztowa znajduje się w archiwum lub jest przypisana do zasad przechowywania usługi Office 365, przydział miejsca do magazynowania archiwaowej skrzynki pocztowej zwiększa się do łącznie **110 GB** po włączeniu nieograniczonej liczby archiwów.
-> - Aby uzyskać miejsce w archiwaowej skrzynce pocztowej, jeśli nie ma archiwów, użytkownicy mogą wyeksportować elementy archiwaowej skrzynki pocztowej do pliku PST przy użyciu programu [Outlook](https://support.office.com/article/Export-or-backup-email-contacts-and-calendar-to-an-Outlook-pst-file-14252b52-3075-4e9b-be4e-ff9ef1068f91) lub usunąć niepotrzebne elementy z archiwaowej skrzynki pocztowej.
+> - Jeśli skrzynka pocztowa znajduje się w archiwum lub jest przypisana do zasad przechowywania usługi Office 365, przydział miejsca do magazynowania archiwaowej skrzynki pocztowej zwiększa się do **łącznie 110 GB** po włączeniu nieograniczonej liczby archiwów.
+> - Jeśli nie ma archiwalnych archiwów w skrzynce pocztowej, użytkownicy mogą wyeksportować elementy archiwaowej skrzynki pocztowej do pliku PST przy użyciu programu [Outlook lub](https://support.office.com/article/Export-or-backup-email-contacts-and-calendar-to-an-Outlook-pst-file-14252b52-3075-4e9b-be4e-ff9ef1068f91) usunąć niepotrzebne elementy z archiwaowej skrzynki pocztowej.

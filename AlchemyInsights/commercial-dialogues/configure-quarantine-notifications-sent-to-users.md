@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 3e3e350f74b19420155c29cb282f065e7db6d4d7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fa38d893a8bd543e87c0239f1a88d9c1caa33153ced6e33ef31c309be8989e95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747932"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035196"
 ---
 # <a name="configure-quarantine-notifications-sent-to-users"></a>Konfigurowanie powiadomień kwarantanny wysyłanych do użytkowników
 
 Aby wysłać do użytkowników powiadomienia o tym, co jest w kwarantannie:
 
-1. W centrum administracyjnym przejdź do pozycji **Centra administracyjne Programu**  >  **Exchange** Protection  >  **:** filtr  >  **spamu**.
+1. W centrum administracyjnym przejdź do pozycji **Centra administracyjne**  >  **Exchange**  >  **Ochrona**  >  **filtru spamu.**
 2. Wybierz zasady filtru spamu, dla których chcesz włączyć powiadomienia.
 3. W prawym okienku wybierz link Konfiguruj powiadomienia **użytkowników końcowych o spamie.**
 4. W następnym oknie dialogowym wybierz pozycję **Włącz powiadomienia użytkowników końcowych o spamie.** Włącz powiadomienia o spamie dla tych zasad.

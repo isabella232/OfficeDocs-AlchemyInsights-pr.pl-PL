@@ -1,5 +1,5 @@
 ---
-title: Usuwanie witryny głównej programu SharePoint
+title: Usuwanie SharePoint głównej
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5727"
-ms.openlocfilehash: 849c5c58ab4688130d71baffac8fe39eddf92f18
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4965e38f69c9d7f3a5c1facd23a0ee487e499f55f5779672808a54b86c90aeaa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815481"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102271"
 ---
-# <a name="delete-the-sharepoint-root-site"></a>Usuwanie witryny głównej programu SharePoint
+# <a name="delete-the-sharepoint-root-site"></a>Usuwanie SharePoint głównej
 
-Usuwanie witryny głównej programu SharePoint  **nie jest obsługiwane.**
+Usuwanie witryny SharePoint głównej nie **jest obsługiwane.**
 
 1.  Jeśli witryna główna została już usunięta, podczas próby uzyskania dostępu do witryny będzie wyświetlany błąd 404 Nie można odnaleźć pliku.
-2.  Aby rozwiązać problem, przywróć witrynę z [](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) nowego centrum administracyjnego programu SharePoint, przechodząc do strony Usunięte witryny, wybierz witrynę główną i kliknij pozycję Przywróć.
-3.  Zamiast usuwać witrynę [](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site) główną, po przywróceniu witryny głównej użyj zamieniania witryny z nowego Centrum administracyjnego programu SharePoint.
+2.  Aby rozwiązać problem, przywróć witrynę z nowego [](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) centrum SharePoint, przechodząc do strony Usunięte witryny, wybierz witrynę główną i kliknij pozycję Przywróć.
+3.  Zamiast usuwać witrynę [](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site) główną, po przywróceniu witryny głównej użyj SharePoint z nowego Centrum administracyjnego usługi.
 
 Aby uzyskać więcej informacji, zobacz [Unowocześniowanie witryny głównej.](https://docs.microsoft.com/sharepoint/modern-root-site)

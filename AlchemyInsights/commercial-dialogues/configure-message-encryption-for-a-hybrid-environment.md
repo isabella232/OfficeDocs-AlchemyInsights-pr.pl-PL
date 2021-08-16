@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 22c2468b7639680b447b6464431a79b69f7198c3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 59360a040fe413e92cd880b1225b9006384a823f6e8abeb7ef922949b9a874fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747953"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035232"
 ---
 # <a name="configure-message-encryption-for-a-hybrid-environment"></a>Konfigurowanie szyfrowania wiadomości dla środowiska hybrydowego
 
-W przypadku hybrydowych środowisk programu Exchange lokalni użytkownicy mogą wysyłać zaszyfrowane wiadomości e-mail przy użyciu szyfrowania wiadomości pakietu Office (OME, Office Message Encryption) tylko wtedy, gdy wiadomości e-mail są kierowane za pośrednictwem usługi Exchange Online.
+W przypadku Exchange hybrydowych użytkownicy lokalni mogą wysyłać zaszyfrowane wiadomości e-mail przy użyciu szyfrowania Office wiadomości (OME, Message Encryption) tylko wtedy, gdy wiadomości e-mail są kierowane przez Exchange Online.
 
 Aby szyfrować wiadomości e-mail przy użyciu narzędzia OME, wykonaj następujące czynności:
 
