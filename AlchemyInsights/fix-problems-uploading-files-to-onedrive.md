@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z przekazywaniem plików do usługi OneDrive
+title: Rozwiązywanie problemów związanych z przekazywaniem plików do OneDrive
 ms.author: matteva
 author: pebaum
 ms.date: 04/21/2020
@@ -9,20 +9,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
-ms.openlocfilehash: ccc5e5b871cb014a1edf6457cf26b35cdfad706f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef5de5d8c002f30d553d5c290a43d8e83f5d3c256612833e1f90ca65b6508e09
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677650"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068501"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a>Rozwiązywanie problemów z przekazywaniem plików do usługi OneDrive
+# <a name="fix-problems-uploading-files-to-onedrive"></a>Rozwiązywanie problemów związanych z przekazywaniem plików do OneDrive
 
-Jeśli plik nie zostanie przekazany, spróbuj wykonać następujące czynności:
+Spróbuj wykonać tę próbę, jeśli nie można przekazać pliku:
   
-- Zmień nazwę pliku i spróbuj ponownie. Niektóre nazwy plików i znaki w nazwach plików nie są dozwolone. 
+- Zmień nazwę pliku i spróbuj ponownie. Niektóre nazwy plików i znaki w nazwach plików są niedozwolone. 
     
-- Jeśli synchronizujesz plik, przenieś go z folderu usługi OneDrive (na przykład przenieś go na pulpit), a gdy stan synchronizacji usługi OneDrive jest wyświetlany jako "aktualne", przenieś ją ponownie. 
+- Jeśli synchronizujesz plik, przenieś go z folderu OneDrive (na przykład przenieś na pulpit), synchronizacja usługi OneDrive gdy stan wiadomości jest wyświetlany jako "Aktualne", przenieś go z powrotem. 
     
 [Więcej porad dotyczących rozwiązywania problemów](https://go.microsoft.com/fwlink/?linkid=873155)
   

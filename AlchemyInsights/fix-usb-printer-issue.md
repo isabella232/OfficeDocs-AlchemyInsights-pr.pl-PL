@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: f6da7496ebce0c1d5e7b8c1b6ce6fcdaffd1512d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 750a4f7ac0cd36476b0f682dd8b72ee6da4df0ba6879e1f9dad32dbcea15053e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812726"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068462"
 ---
 # <a name="fix-usb-printer-connection-issues"></a>Rozwiązywanie problemów z połączeniem z drukarką USB
 
@@ -29,12 +29,12 @@ Spróbuj wykonać **poniższe czynności rozwiązywania problemów,** aby ponown
 
 Jeśli to nie zadziała, spróbuj **usunąć i ponownie zainstalować drukarkę USB:**
 
-1. Usuń drukarkę z menu Ustawienia:
+1. Usuń drukarkę z Ustawienia:
     1. Odłącz kabel USB drukarki od komputera.
-    2. Wybierz **pozycję Start**  >  **Ustawienia**  >  **Urządzenia**  >  **Drukarki & skanery**.
+    2. Wybierz **pozycję**  >  **Ustawienia**  >  **Drukarki**  >  **i & skanery**.
     3. W **obszarze & drukarki wybierz** drukarkę, na podstawie których chcesz rozwiązać problem. Wybierz **pozycję Usuń urządzenie**. Postępuj zgodnie z instrukcjami, aby całkowicie usunąć drukarkę.
 2. Usuń wszelkie oprogramowanie producenta drukarki innej firmy:
-    1. Wybierz **pozycję Start**  >  **Ustawienia**  >  **Aplikacje.**
+    1. Wybierz **pozycję Start**  >  **Ustawienia**  >  **Aplikacje**.
     2. W **obszarze & funkcje drukarki** przewiń listę, aby znaleźć dowolne oprogramowanie zainstalowane na komputerze producenta drukarki (na przykład HP, Canon lub Epson).
     3. Wybierz oprogramowanie i wybierz pozycję **Odinstaluj**.
 3. Wyłącz i włącz drukarkę.<br>
