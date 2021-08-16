@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058516"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874585"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Konfigurowanie ochrony przed spamem
 
-Poniżej opisano, jak to zrobić:
+1. W portalu Microsoft 365 Defender pod adresem przejdź do sekcji Zasady & e-mail & zasady zagrożeń zapobiegające <https://security.microsoft.com/>  \>  \>  \> **spamowi.** 
 
-1. Przejdź do centrum [Office 365 zabezpieczeń & zgodności.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Przejdź do **strony Zasady zarządzania**  >  **zagrożeniami** i kliknij pozycję **[Ochrona przed spamem.](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
-1. Na karcie **Niestandardowe** włącz pozycję **Ustawienia** niestandardowe.
-1. Rozwiń domyślne **zasady filtrowania spamu,** kliknij **pozycję Edytuj zasady,** a następnie określ następujące ustawienia:
-    1. W sekcji **Akcje spamu i** poczty masowej ustaw próg na wartość 5 lub 6.
-1. Kliknij **Zapisz**.
+   Aby przejść bezpośrednio do strony Zasady ochrony **przed spamem,** <https://security.microsoft.com/antispam> użyj .
 
-Aby dowiedzieć się więcej o opcjach zasad ochrony przed spamem, zobacz [Konfigurowanie zasad ochrony przed spamem.](https://go.microsoft.com/fwlink/?linkid=2092051)
+2. Na stronie **Zasady ochrony przed spamem** wykonaj jedną z następujących czynności:
+   - Aby dodać nowe zasady, wybierz **pozycję + Utwórz ruch** \> **przychodzący.** Zostanie uruchomienie kreatora, który pomoże Ci zdefiniować ustawienia zasad.
+   - Aby edytować istniejące zasady, wybierz je, klikając nazwę zasad **(** Wpisz Niestandardowa zasada ochrony przed spamem lub Nazwa to Zasady przychodzące przeciw **spamowi** **(domyślna).**  W wyświetlonym wysuwu szczegółów wybierz pozycję **Edytuj** w sekcji zawierającej ustawienia, które chcesz skonfigurować.
+
+3. Po przejrzeniu ustawień wybierz pozycję **Prześlij** (nowy) lub **Zapisz** (edytuj).
+
+Aby uzyskać więcej informacji, [zobacz Konfigurowanie zasad ochrony przed spamem w u usługi EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

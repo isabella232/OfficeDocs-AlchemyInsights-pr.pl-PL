@@ -1,5 +1,5 @@
 ---
-title: Wprowadzenie do usługi Microsoft Search
+title: Wprowadzenie do Microsoft Search
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006479"
 - "11046"
-ms.openlocfilehash: e897b37c7cf5721f0d68bf0212e1772591b3e684
-ms.sourcegitcommit: 29a88bc83086b18b0e0fd14fe8ed18a4f88edd06
+ms.openlocfilehash: b68ebf4c3f70821c67420b1785eb4547fe7ef210bb277720fadc26309872467e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52676385"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025980"
 ---
-# <a name="get-started-with-microsoft-search"></a>Wprowadzenie do usługi Microsoft Search
+# <a name="get-started-with-microsoft-search"></a>Wprowadzenie do Microsoft Search
 
-Usługa Microsoft Search umożliwia znajdowanie osób, plików, schematów organizacyjnych, witryn, odpowiedzi na typowe pytania i innej zawartości, która może ułatwić wykonywanie zadań w aplikacji, z których korzystasz.
+Znajdowanie Microsoft Search, plików, schematów organizacyjnych, witryn, odpowiedzi na typowe pytania i innej zawartości, która może ułatwić wykonywanie zadań w aplikacji, z których korzystasz.
 
-Aby dowiedzieć się więcej, zobacz [Omówienie usługi Microsoft Search.](https://go.microsoft.com/fwlink/?linkid=2157644)
+Aby dowiedzieć się więcej, zobacz [Omówienie Microsoft Search.](https://go.microsoft.com/fwlink/?linkid=2157644)

@@ -1,5 +1,5 @@
 ---
-title: Problemy z integracją SSO z moimi aplikacjami lokalnymi
+title: Problemy ze zintegrowaniem bezproblemowego logowania jednokrotnego z aplikacjami lokalnymi
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7798"
-ms.openlocfilehash: 785d7f842031c1056ec6868376f253439919a3ab
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 6b295f3272ba074eac3afb66f3156af7ea4065a1398a215bcb3cde5da74b198a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49868719"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028302"
 ---
-# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Problemy z integracją SSO z moimi aplikacjami lokalnymi
+# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Problemy ze zintegrowaniem bezproblemowego logowania jednokrotnego z aplikacjami lokalnymi
 
-Aby rozwiązać problemy polegające na integrowaniu bezproblemowej rejestracji jednokrotnej z aplikacjami lokalnymi, wykonaj następujące czynności:
+Aby rozwiązać problemy dotyczące integrowania bezproblemowego logowania jednokrotnego z aplikacjami lokalnymi, wykonaj następujące czynności:
 
-**Zalecane kroki**
+**Zalecane czynności**
 
-1. Aby skonfigurować **aplikację lokalną** do rejestracji jednokrotnej **za pośrednictwem serwera proxy aplikacji**, zobacz [magazynowanie haseł w celu rejestracji jednokrotnej za pomocą serwera proxy aplikacji](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
-1. **Rozwiązywanie problemów z serwerem proxy aplikacji**: zalecamy rozpoczęcie przeglądu przepływu rozwiązywania problemów oraz [Debugowanie problemów z łącznikiem serwera proxy aplikacji](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)w celu określenia, czy łączniki serwera proxy aplikacji są skonfigurowane poprawnie. Jeśli nadal występują problemy z połączeniem z aplikacją, postępuj zgodnie z instrukcjami [dotyczącymi rozwiązywania problemów z aplikacją Application proxy aplikacji](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps). [Problemy dotyczące specyfikacji CORS można znaleźć](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) przy użyciu następujących narzędzi debugowania przeglądarki:
+1. Aby skonfigurować aplikację **lokalną do** logowania pojedynczego za pośrednictwem serwera **proxy** aplikacji, zobacz Magazyn haseł dla logowania pojedynczego przy [użyciu application proxy.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting)
+1. **Rozwiązywanie problemów z serwerem proxy** aplikacji: zalecamy rozpoczęcie od przejrzenia przepływu rozwiązywania problemów, [debugowania](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)problemów z łącznikiem serwera proxy aplikacji , w celu ustalenia, czy łączniki serwera proxy aplikacji są poprawnie skonfigurowane. Jeśli nadal masz problemy z nawiązaniem połączenia z aplikacją, postępuj zgodnie z instrukcjami rozwiązywania problemów z [aplikacją debugowania](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps)proxy. Problemy z [usługą CORS można zidentyfikować,](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) korzystając z następujących narzędzi do debugowania w przeglądarce:
     1. Uruchom przeglądarkę i przejdź do aplikacji sieci Web.
-    1. Naciśnij klawisz **F12** , aby wywołać konsolę debugowania.
-    1. Spróbuj odtworzyć transakcję i przejrzyj komunikat konsoli. Naruszenie specyfikacji CORS powoduje błąd konsoli dotyczącej pochodzeniu.
-    1. Nie można rozwiązać kilku problemów dotyczących składnika CORS, takich jak aplikacja przekierowuje do login.microsoftonline.com w celu uwierzytelnienia, a token dostępu wygasa. Nawiązanie połączenia CORS nie powiedzie się. Obejście tego scenariusza polega na przedłużeniu okresu istnienia tokenu dostępu, aby zapobiec wygaśnięciu go podczas sesji użytkownika. Aby uzyskać więcej informacji o tym, jak to zrobić, zobacz [konfigurowalne okresy ważności tokenów na platformie Microsoft Identity platform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+    1. Naciśnij **klawisz F12,** aby przywrócić konsolę debugowania.
+    1. Spróbuj odtworzyć transakcję i przejrzeć komunikat konsoli. Naruszenie corsu powoduje błąd konsoli o pochodzeniu.
+    1. Niektórych problemów z usługą CORS nie można rozwiązać, na przykład gdy aplikacja przekierowuje do usługi login.microsoftonline.com w celu uwierzytelnienia i token dostępu wygasa. Połączenie CORS kończy się niepowodzeniem. Obejściem tego scenariusza jest przedłużenie okresu istnienia tokenu dostępu, aby zapobiec jego wygaśnięciu w trakcie sesji użytkownika. Aby uzyskać więcej informacji na ten temat, zobacz Konfigurowanie okresów istnienia tokenu w [programie Platforma tożsamości Microsoft.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)
 
 **Polecane dokumenty**
 
-- [Jak skonfigurować Logowanie jednokrotne w aplikacji proxy aplikacji](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
-- [Logowanie jednokrotne w usłudze SAML dla aplikacji lokalnych z serwerem proxy aplikacji](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
-- [Opis i rozwiązywanie problemów dotyczących proxy aplikacji Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
-- [Rozwiązywanie problemów dotyczących konfiguracji delegowania ograniczonego protokołu Kerberos dla serwera proxy aplikacji](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
+- [Jak skonfigurować logowanie pojedyncze do aplikacji application proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
+- [Logowanie pojedyncze SAML dla aplikacji lokalnych z serwerem proxy aplikacji](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
+- [Opis i rozwiązywanie Azure Active Directory cors serwera proxy aplikacji](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
+- [Rozwiązywanie problemów z konfiguracjami delegowania ograniczonego protokołu Kerberos dla serwera proxy aplikacji](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
