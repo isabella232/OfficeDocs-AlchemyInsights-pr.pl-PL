@@ -1,5 +1,5 @@
 ---
-title: Uniemożliwianie instalowania usługi Microsoft Search w uwitrynie Bing za pomocą aplikacji platformy Microsoft 365
+title: Uniemożliwiaj Microsoft Search instalowania Bing w programie Aplikacje Microsoft 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9211"
-ms.openlocfilehash: 354aa41475f20bc959f25ce66d75962eed2ca44a
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: f84dfeab060b819ecf76bba31cd24b05f01188316af8f4d6d02e205f8dd18b97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040120"
 ---
-# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Uniemożliwianie instalowania usługi Microsoft Search w uwitrynie Bing za pomocą aplikacji platformy Microsoft 365
+# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Uniemożliwiaj Microsoft Search instalowania Bing w programie Aplikacje Microsoft 365
 
-Aby uniemożliwić instalowanie usługi w tle dla usługi Microsoft Search w usłudze Bing z aplikacjami Microsoft 365 dla przedsiębiorstw, użyj jednej z następujących opcji:
+Aby uniemożliwić instalowanie usługi w tle Microsoft Search w Bing przy Aplikacje Microsoft 365 dla przedsiębiorstw, użyj jednej z następujących opcji:
 
-- Narzędzie wdrażania pakietu Office lub zasady grupy
-- Punkt końcowy Menedżer konfiguracji Microsoft (bieżąca gałąź) lub Microsoft Intune
+- Narzędzie Office lub zasady grupy
+- Microsoft Endpoint Configuration Manager (bieżąca gałąź) lub Microsoft Intune
 
-Aby dowiedzieć się więcej, zobacz Jak zapobiec instalowaniu usługi w tle dla usługi Microsoft Search w usłudze Bing wraz z aplikacjami [platformy Microsoft 365 dla przedsiębiorstw.](https://go.microsoft.com/fwlink/?linkid=2151946)
+Aby dowiedzieć się więcej, zobacz Jak zapobiec instalowaniu usługi w tle Microsoft Search w programie Bing razem [z programem Aplikacje Microsoft 365 dla przedsiębiorstw.](https://go.microsoft.com/fwlink/?linkid=2151946)

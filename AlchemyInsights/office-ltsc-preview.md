@@ -23,16 +23,16 @@ ms.custom:
 - "2000021"
 - "2000020"
 - "9002483"
-ms.openlocfilehash: a27662455e8b962d825ed5c44af146c8231b5b9e
-ms.sourcegitcommit: 55ec3deb7154985f0537d1c3eaab56c418deec70
+ms.openlocfilehash: 9102102ffc4a260aed74f11ad343afddd7872f1a3bcfb061f1961aef49e6e841
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52125358"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076427"
 ---
 # <a name="office-ltsc-preview"></a>Office Wersja zapoznawcza ltsc
 
-Microsoft Office Long Term Servicing Channel (LTSC) for Windows and Office 2021 for Mac are currently available in public preview. Aby uzyskać więcej informacji, zobacz:
+Microsoft Office Long Term Servicing Channel (LTSC) for Windows and Office 2021 for Mac are currently available in public preview. Więcej informacji można znaleźć w następujących artykułach:
 
 - [Omówienie wersji Office LTSC Preview](https://docs.microsoft.com/deployoffice/office2021/overview-ltsc-preview)
 

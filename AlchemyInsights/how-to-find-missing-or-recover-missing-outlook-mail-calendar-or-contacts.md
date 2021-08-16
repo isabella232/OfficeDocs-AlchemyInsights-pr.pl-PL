@@ -1,5 +1,5 @@
 ---
-title: 204 jak znaleźć brakujące lub odzyskać brakujące wiadomości e-mail, kalendarz lub kontakty w programie Outlook
+title: 204 Jak znaleźć brakujące lub odzyskać brakujące wiadomości e Outlook, kalendarz lub kontakty
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 11ece8466011440afa97fbab729bf9d6ee45a724
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17a6eb841a87b046bd822052a467b4ad40d83b76f1aeac5bc56bea29b4d9a755
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780357"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029166"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Jak znaleźć i odzyskać brakujące wiadomości, kontakty lub elementy kalendarza w programie Outlook
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Jak znaleźć i odzyskać brakujące wiadomości, kontakty lub elementy kalendarza w aplikacji Outlook
 
-1. W programie Outlook przejdź do listy folderów poczty e-mail, a następnie wybierz pozycję **elementy usunięte**. **Ważne**: Jeśli nie widzisz folderu **elementy usunięte** , ale widzisz folder **kosza** , Twoje konto nie obsługuje odzyskiwania elementu, który nie znajduje się już w folderze **elementy usunięte** .
+1. W Outlook e-mail przejdź do listy folderów poczty e-mail, a następnie wybierz pozycję **Elementy usunięte**. **Ważne:** jeśli nie widzisz folderu Elementy usunięte, ale  zamiast tego widzisz **folder** Kosz, Twoje konto nie obsługuje odzyskiwania elementu, który nie znajduje się już w folderze **Elementy** usunięte.
 
-2. W menu **Narzędzia główne** kliknij polecenie **Odzyskaj elementy usunięte z serwera**. **Ważne**: Jeśli nie ma polecenia **Odzyskaj usunięte elementy z menu serwer** , Twoje konto nie obsługuje odzyskiwania elementu, który nie znajduje się już w folderze **elementy usunięte** .
+2. W menu **Narzędzia główne** kliknij polecenie **Odzyskaj elementy usunięte z serwera**. **Ważne:** Jeśli w  menu nie ma polecenia Odzyskaj elementy usunięte z serwera, Twoje konto nie obsługuje odzyskiwania elementu, który nie znajduje się już w folderze **Elementy** usunięte.
 
-3. Zaznacz elementy, które chcesz odzyskać, kliknij pozycję **Przywróć zaznaczone elementy**, a następnie kliknij przycisk **OK**.
+3. Zaznacz elementy, które chcesz odzyskać, kliknij pozycję **Przywróć zaznaczone elementy,** a następnie kliknij przycisk **OK.**
 
-**Skąd przejść odzyskane elementy?** Po odzyskiwaniu elementów z folderu Elementy odzyskiwalne są one przenoszone do folderu **elementy usunięte** . Po odzyskaniu elementu możesz go znaleźć w folderze **elementy usunięte** , a następnie można przenieść go do innego folderu.
+**Gdzie są przechodnie odzyskane elementy?** Elementy odzyskane z folderu Elementy do odzyskania są przenoszone do folderu **Elementy** usunięte. Po odzyskaniu elementu możesz znaleźć go w **folderze** Elementy usunięte, a następnie przenieść do innego folderu.
 
-W przypadku [problemów z wysyłaniem, odbieraniem lub znajdowaniem wiadomości e-mail](https://aka.ms/SaRA-OutlookSendReceive) **na komputerze, którego dotyczy**problem, można też użyć narzędzia. To narzędzie umożliwia sprawdzenie wielu problemów i zaproponowanie możliwych rozwiązań.
+Możesz również użyć narzędzia Mam problemy z wysyłaniem, odbieraniem lub znajdowaniem wiadomości [e-mail](https://aka.ms/SaRA-OutlookSendReceive) na komputerze, którego **dotyczy problem.** To narzędzie sprawdzi wiele problemów i zasugeruje możliwe rozwiązania.
