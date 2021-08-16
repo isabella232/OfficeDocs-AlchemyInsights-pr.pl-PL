@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ae07f437ef50756862eb2f622cb107ccb003c9c9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 931e32353641e7d03a6f077206ac65a4c4c75b52a423b53817aa67db863bb20c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747958"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968135"
 ---
 # <a name="configure-communication-compliance-policies"></a>Konfigurowanie zasad zgodności komunikacji
 
-Po wydaniu w lutym 2020 r. zgodności komunikacyjnej w usłudze Microsoft 365 pod nadzorem w usłudze Office 365 jest wy wycofana kontrola. Zasady nadzorne nie będą już dostępne do tworzenia, a zasady zostaną ostatecznie usunięte po dłuższym okresie dostępu tylko do odczytu.
+W związku z wydaniem w lutym 2020 r. zasad zgodności komunikacji w Microsoft 365 zgodności, nadzór w Office 365 został wycofany. Zasady nadzorne nie będą już dostępne do tworzenia, a zasady zostaną ostatecznie usunięte po dłuższym okresie dostępu tylko do odczytu.
 
 > [!IMPORTANT]
 > Jeśli korzystasz z nadzorów, miej na uwagę, że:
@@ -30,4 +30,4 @@ Po wydaniu w lutym 2020 r. zgodności komunikacyjnej w usłudze Microsoft 365 po
 > 2. Od 31 sierpnia 2020 r. istniejące zasady przestają przechwytywać nowe wiadomości.
 > 3. Począwszy od 26 października 2020 r., istniejące zasady zostaną usunięte.
 
-Aktywnie zachęcamy klientów, którzy obecnie eksplorują lub korzystają z nadzorów w usłudze Office 365, do korzystania z nowego rozwiązania do zapewnienia zgodności komunikacyjnej na platformie [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2128593) w celu przestrzegania monitorowania komunikacji lub wymogów prawnych z znacznie bardziej rozbudowaym zestawem funkcji inteligentnych.
+Aktywnie zachęcamy klientów, którzy obecnie eksplorują lub korzystają z nadzorów w p programie Office 365, do korzystania z nowego rozwiązania do zapewnienia zgodności komunikacyjnej w programie [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2128593) w celu przestrzegania kontroli komunikacji lub wymogów prawnych za pomocą znacznie bogatszego zestawu funkcji inteligentnych.

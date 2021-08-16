@@ -1,5 +1,5 @@
 ---
-title: Zmienianie konta, za pomocą których loguje się na komputerze z systemem Windows 10
+title: Zmienianie konta, za pomocą których loguje się na komputerze Windows 10 komputera
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9816"
 - "9005388"
-ms.openlocfilehash: c2f2c1de72db3c5c33d24473420f2581d8466d83
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 578cf67ee951966ad05f2680609712ce53ac98920c609f557542c2164fd7aa36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035937"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018618"
 ---
-# <a name="change-the-account-you-use-to-sign-in-to-your-windows-10-pc"></a>Zmienianie konta, za pomocą których loguje się na komputerze z systemem Windows 10
+# <a name="change-the-account-you-use-to-sign-in-to-your-windows-10-pc"></a>Zmienianie konta, za pomocą których loguje się na komputerze Windows 10 komputera
 
-**Uwaga** Jeśli sprzedajesz lub wręczasz komputer, rozważ jego pełne zresetowanie, zamiast usuwać wszystkie informacje osobiste. Aby usunąć wszystkie pliki, ustawienia i aplikacje, zobacz Zanim sprzedasz lub podarusz swoje urządzenie z systemem [Windows 10 lub konsolę Xbox One.](https://support.microsoft.com/help/10547/microsoft-account-selling-gifting-windows-10-device-xbox-one)
+**Uwaga** Jeśli sprzedajesz lub wręczasz komputer, rozważ jego pełne zresetowanie, zamiast usuwać wszystkie informacje osobiste. Aby usunąć wszystkie pliki, ustawienia i aplikacje, zobacz Zanim sprzedasz lub podarusz swoje urządzenie Windows 10 [lub Xbox One](https://support.microsoft.com/help/10547/microsoft-account-selling-gifting-windows-10-device-xbox-one).
 
 Aby zamienić istniejącego użytkownika na nowe konto:
 
@@ -36,15 +36,15 @@ Aby zamienić istniejącego użytkownika na nowe konto:
 
 **Aby przełączyć się na inne konto użytkownika**
 
-1. Wybierz **przycisk Start** (przycisk Start logo systemu Windows) na pasku zadań. 
+1. Wybierz **przycisk Start** (Windows logo Start) na pasku zadań. 
 
-1. Po lewej stronie menu Start wybierz ikonę nazwy konta (lub obraz) > Przełączanie użytkownika > innego użytkownika.
+1. Po lewej stronie menu Start wybierz ikonę nazwy konta (lub obraz), aby > Przełączanie użytkownika > innego użytkownika.
 
 **Aby zmienić typ konta używanego do logowania się**
 
 - Zmienianie konta Microsoft na konto lokalne
 
-    1. Wybierz przycisk Start, wybierz **pozycję Ustawienia**  >  **Konta** > Twoje informacje.
+    1. Wybierz przycisk Start, wybierz pozycję **Ustawienia**  >  **Konta** > Twoje informacje.
 
     1. Jeśli korzystasz z konta lokalnego, które nie jest połączone z adresem e-mail, ale chcesz użyć konta Microsoft, zamiast tego wybierz pozycję Zaloguj się za **pomocą konta Microsoft.**
 
@@ -56,7 +56,7 @@ Aby zamienić istniejącego użytkownika na nowe konto:
 
 - Zmienianie konta standardowego na administratora
 
-    1. Wybierz przycisk Start, a następnie wybierz pozycję Ustawienia Konto — rodzina & inne osoby (lub Inne osoby, jeśli korzystasz z systemu Windows  >    >   10 Enterprise).
+    1. Wybierz przycisk Start, **Ustawienia** pozycję Rodzina & konta dla innych osób (lub Inne osoby, jeśli korzystasz  >    >   z Windows 10 Enterprise). 
 
     1. Wybierz konto, które chcesz uczynić administratorem, a następnie wybierz pozycję **Zmień konto**.
 

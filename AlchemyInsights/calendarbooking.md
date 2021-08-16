@@ -1,5 +1,5 @@
 ---
-title: Kalendarz 398 — Rezerwacja
+title: 398 Kalendarz — Rezerwacja
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 398
 ms.assetid: 9b23cfd7-bff8-4f86-bd94-e5fa07f6939f
-ms.openlocfilehash: 876fccbbb2280f282795afcc48ac7475f6b47976
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 95a8c31e0b91f85b70577279d95c458b0bb7b2d724b118c82d09fe96f09f78d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707496"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035890"
 ---
 # <a name="issues-with-microsoft-bookings"></a>Problemy z usługą Microsoft Bookings
 
-Aby rozwiązać problemy z nową funkcją Microsoft Bookings, zobacz artykuły [dotyczące usługi Bookings.](https://docs.microsoft.com/microsoft-365/bookings/bookings-faq)
+Aby rozwiązać problemy z nową funkcją Microsoft Bookings, zobacz artykuły [dotyczące aplikacji Bookings.](https://docs.microsoft.com/microsoft-365/bookings/bookings-faq)

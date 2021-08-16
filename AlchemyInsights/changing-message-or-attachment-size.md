@@ -11,19 +11,19 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: d939f9fa4f95a247d1db83cea1afb02161c19259
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be448aea85d2a498f380c628b6a80680cd68ff34852c39568b227ede3f1c2c24
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714221"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968171"
 ---
 # <a name="changing-message-or-attachment-size"></a>Zmienianie rozmiaru wiadomości lub załącznika
 
-Jako administrator Microsoft 365, możesz zmienić maksymalny/minimalny rozmiar wiadomości (zawierających załączniki) wysyłanych przez użytkowników. Możesz to zrobić dla poszczególnych użytkowników lub wszystkich użytkowników (ustawienie domyślne organizacji). Po zmianie tego ustawienia zajmiemy około 30 minut, aby przejść w życie.
+Jako administrator Microsoft 365 wiadomości możesz zmienić maksymalny/minimalny rozmiar wiadomości (w tym załączniki) wysyłanych przez użytkowników. Możesz to zrobić dla pojedynczych użytkowników lub wszystkich użytkowników (domyślnych w organizacji). Po zmianie tego ustawienia jego utworzenie potrwa około 30 minut.
   
-- Aby zmienić rozmiar wiadomości dla określonego użytkownika, przejdź do **Admin centers** \> **Exchange** \> **recipients** \> **skrzynek pocztowych**adresatów programu Exchange dla centrów administracyjnych. Wybierz skrzynkę pocztową użytkownika. Wybierz ikonę Edytuj, wybierz pozycję **funkcje skrzynki pocztowej**, a następnie w obszarze **ograniczenia rozmiaru wiadomości**wybierz pozycję **Wyświetl szczegóły** i określ nowy maksymalny rozmiar wiadomości.
+- Aby zmienić rozmiar wiadomości dla określonego  użytkownika, przejdź do tematu Centra administracyjne \> **Exchange** \>  \> **skrzynki pocztowe adresatów.** Wybierz skrzynkę pocztową użytkownika. Wybierz ikonę edycji, wybierz funkcje **skrzynki pocztowej,** a następnie w obszarze Ograniczenia rozmiaru **wiadomości** wybierz pozycję Wyświetl **szczegóły** i określ nowy maksymalny rozmiar wiadomości.
 
-- Aby dowiedzieć się, jak to zmienić we wszystkich skrzynkach pocztowych, zapoznaj się z [tym artykułem](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- Aby dowiedzieć się, jak zmienić to ustawienia dla wszystkich skrzynek pocztowych, zobacz [ten artykuł.](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)
 
-- Aby przeczytać o maksymalnych limitach za pomocą programu Outlook lub aplikacji Outlook w sieci Web, zobacz [ten artykuł](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). W programie Outlook Mobile obowiązuje maksymalny limit 25 MB. Aby uzyskać pomoc techniczną dotyczącą programu Outlook w systemie iOS i Android, [kliknij tutaj](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).
+- Aby uzyskać informacje o maksymalnych limitach Outlook lub Outlook w sieci Web, zobacz [ten artykuł.](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits) Outlook Maksymalny limit w telefonie komórkowym to 25 MB. Aby uzyskać Outlook systemu iOS i Android, [kliknij tutaj](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).
