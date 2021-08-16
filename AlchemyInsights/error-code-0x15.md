@@ -12,24 +12,24 @@ ms.custom:
 - "919"
 - "2000022"
 ms.assetid: 0d566afe-b21f-4f1b-8ca9-4b4d3b0f5435
-description: Jeśli podczas aktywowania pakietu Office 2013 na wdrożeniach usług pulpitu zdalnego (RDS) jest wyświetlany komunikat o błędzie, warto włączyć bibliotekę ADAL, edytując rejestr.
-ms.openlocfilehash: deb2ac4b0fb6a7b2e0045ff1b0ba95ad6e5e4a3a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+description: Jeśli podczas aktywowania programu Office 2013 we wdrożeniach usług pulpitu zdalnego (RDS) jest wyświetlany komunikat o błędzie, rozważ włączenie usługi ADAL, edytując rejestr.
+ms.openlocfilehash: 247686bf26c11d07ed118bdb1ba190fc718e87cf140b88f79b8aa0b40c827b4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709197"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100772"
 ---
-# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>Błąd podczas aktywowania pakietu Office 2013 w usługach pulpitu zdalnego
+# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>Błąd podczas aktywacji programu Office 2013 w usługach pulpitu zdalnego
 
-Jeśli podczas aktywowania pakietu Office 2013 na wdrożeniach usług pulpitu zdalnego (RDS) jest wyświetlany komunikat o błędzie, warto włączyć bibliotekę ADAL, edytując rejestr.
+Jeśli podczas aktywowania programu Office 2013 we wdrożeniach usług pulpitu zdalnego (RDS) jest wyświetlany komunikat o błędzie, rozważ włączenie usługi ADAL, edytując rejestr.
   
 |**Klucz rejestru**|**Type**|**Wartość**|
 |:-----|:-----|:-----|
-|HKEY_CURRENT_USER \Software\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |jedno  <br/> |
+|HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |1  <br/> |
 
-Aby uzyskać więcej informacji, zobacz [Włączanie nowoczesnego uwierzytelniania dla pakietu Office 2013 na urządzeniach z systemem Windows](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).
+Aby uzyskać więcej informacji, zobacz [Włączanie nowoczesnego uwierzytelniania Office 2013 na Windows urządzeniach.](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)
   
 > [!NOTE]
->  Wartość ADAL jest domyślnie włączona w aplikacjach Microsoft 365 dla przedsiębiorstw i pakietu Office 2016. Usługi pulpitu zdalnego (RDS) były wcześniej nazwane usługami terminalowymi.
+>  W programach Aplikacje Microsoft 365 dla przedsiębiorstw i Office 2016 jest domyślnie włączona funkcja ADAL. Usługi pulpitu zdalnego (RDS) wcześniej nazywały się Usługi terminalowe.
   

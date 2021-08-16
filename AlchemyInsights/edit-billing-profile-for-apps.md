@@ -1,5 +1,5 @@
 ---
-title: Edytowanie profilu rozliczeń dla aplikacji
+title: Edytowanie profilu rozliczeniowego dla aplikacji
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: aab084237c3ab7659da53267aff5267c7a0ff5fa
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: b00170a44afe8d3f2a28bb63df46c646a29f787b844b904bec3b3006fefba300
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100844"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Edytowanie profilu rozliczeń dla aplikacji
+# <a name="edit-billing-profile-for-apps"></a>Edytowanie profilu rozliczeniowego dla aplikacji
 
-**Edytowanie profili rozliczeń**
+**Edytowanie profilów rozliczeniowych**
 
-1. Przejdź do strony **rozliczenia**  >  **[rachunki & płatności](https://go.microsoft.com/fwlink/p/?linkid=848039)** , a następnie kliknij pozycję **Profile rozliczeń**.
+1. Przejdź do strony **Rozliczenia**  >  **[&,](https://go.microsoft.com/fwlink/p/?linkid=848039)** a następnie kliknij pozycję **Profile rozliczeniowe**.
 
-2. Z listy profili rozliczeń wybierz profil rozliczeniowy, który chcesz edytować.
+2. Z listy profilów rozliczeń wybierz profil rozliczeniowy, który chcesz edytować.
 
-**Aby zmienić profil rozliczeń w aplikacjach**
+**Aby zmienić profil rozliczeniowy w aplikacjach**
 
-1. Przejdź do strony **rozliczanie**  >  **[produktów](https://go.microsoft.com/fwlink/p/?linkid=842054)** , a następnie kliknij kartę **aplikacje** .
+1. Przejdź na stronę **Rozliczenia**  >  **[Twoje produkty,](https://go.microsoft.com/fwlink/p/?linkid=842054)** a następnie kliknij **kartę** Aplikacje.
 
 2. Znajdź i wybierz aplikację, którą chcesz zarządzać.  
 
-3. Obok pozycji **profil rozliczeniowy** kliknij pozycję **Edytuj** i wybierz profil rozliczeniowy, który chcesz skojarzyć z aplikacją.
+3. Obok profilu **rozliczeniowego** kliknij pozycję **Edytuj** i wybierz profil rozliczeniowy, który chcesz skojarzyć z aplikacją.

@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000181"
 - "4835"
-ms.openlocfilehash: 51facd7ab62b7902d7fdb3a8b480d8b07a4d40ea
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: eace2672535b04812d39aaa566603c33b95bd5069d7f0fd79e76990efd42c43d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813806"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100592"
 ---
 # <a name="error-creating-o365-groups-the-classification-field-cant-be-empty"></a>Błąd tworzenia grup usługi Office 365: pole klasyfikacji nie może być puste
 
 Podczas tworzenia nowej grupy usługi Office 365 w aplikacji OWA może zostać wyświetlony następujący komunikat o błędzie: „Pole klasyfikacji nie może być puste”.  Podczas edytowania istniejącej grupy usługi Office 365 może też zostać wyświetlony komunikat o błędzie: „Wybierz prawidłową klasyfikację”.   W grupach platformy Microsoft 365 może zostać wyświetlona opcja etykiety **Poufność**, nawet jeśli ta funkcja nie została włączona dla grup.
 
-Rozwiązanie tego problemu zostało określone i jest w trakcie wdrażania.  Aby obejść ten problem, możesz utworzyć je w centrum [administracyjnym platformy Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/create-groups?view=o365-worldwide) lub w Portalu administracyjnym Azure.
+Rozwiązanie tego problemu zostało określone i jest w trakcie wdrażania.  Aby obejść ten problem, możesz utworzyć go za [pomocą](https://docs.microsoft.com/microsoft-365/admin/create-groups/create-groups?view=o365-worldwide) centrum administracyjne platformy Microsoft 365 lub portalu administracyjnego Azure.

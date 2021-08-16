@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 97deabc8abadac8d2f3e93de0b4a3f7feb0fb4d9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: de5e808de41463381972eacd3ce477bb34f7094fabc1b94e438964c350a78c0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747277"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070262"
 ---
 # <a name="verify-your-yammer-tenant-is-in-native-mode"></a>Sprawdzanie, Yammer dzierżawy jest w trybie natywnym
 
-Ten krok jest opcjonalny. W trybie natywnym Yammer użytkowników usługi Azure Active Directory (Azure AD) wszystkie grupy są grupami platformy Microsoft 365, a wszystkie pliki są przechowywane w usłudze SharePoint Online. Dzierżawa Yammer musi być w trybie natywnym, aby umożliwić zasady zgodności komunikacji w celu skanowania i zidentyfikowania ryzykownych konwersacji w wiadomościach prywatnych i konwersacjach społeczności w Yammer.  
+Ten krok jest opcjonalny. W trybie natywnym Yammer są w usłudze Azure Active Directory (Azure AD), wszystkie grupy są Microsoft 365 Grupy, a wszystkie pliki są przechowywane w usłudze SharePoint Online. Dzierżawa Yammer musi być w trybie natywnym, aby umożliwić skanowanie i identyfikowanie ryzykownych konwersacji w wiadomościach prywatnych i konwersacjach społeczności w programie Yammer.  
   
-Aby uzyskać więcej informacji na temat konfigurowania usługi Yammer w trybie natywnym, zobacz Omówienie trybu natywnego usługi Yammer na platformie [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129829) i Konfigurowanie sieci Yammer w trybie natywnym dla platformy [Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2129772)
+Aby uzyskać więcej informacji na temat konfigurowania Yammer w trybie natywnym, zobacz Omówienie trybu natywnego usługi Yammer w programie [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129829) i Konfigurowanie sieci [Yammer](https://go.microsoft.com/fwlink/?linkid=2129772)pod Microsoft 365.
