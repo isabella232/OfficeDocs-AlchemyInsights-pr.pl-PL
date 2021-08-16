@@ -1,5 +1,5 @@
 ---
-title: Praca w usłudze Microsoft Intune
+title: Praca w Microsoft Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 2ea412617caa77d50813941dafce84a972a2cfe2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09401ceb0bcdcfe280f2e7e293caffc8a4189561bf26b713c98f015991134e21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751035"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069902"
 ---
-# <a name="working-in-microsoft-intune"></a>Praca w usłudze Microsoft Intune
+# <a name="working-in-microsoft-intune"></a>Praca w Microsoft Intune
 
 Poniżej podano podstawowe informacje dotyczące usługi Intune:
 
@@ -29,4 +29,4 @@ Poniżej podano podstawowe informacje dotyczące usługi Intune:
 - [Co to jest rejestracja urządzeń w usłudze Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)
 - [Korzystanie z portalu rozwiązywania problemów w celu pomagania użytkownikom w firmie](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
 
-[Dowiedz się więcej o usłudze Microsoft Intune...](https://docs.microsoft.com/mem/intune/)
+[Przeczytaj więcej o Microsoft Intune...](https://docs.microsoft.com/mem/intune/)

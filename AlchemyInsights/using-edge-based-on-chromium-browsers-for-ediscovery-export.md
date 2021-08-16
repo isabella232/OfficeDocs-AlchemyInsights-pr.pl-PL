@@ -1,5 +1,5 @@
 ---
-title: Korzystanie z przeglądarki Microsoft Edge opartej na przeglądarkach Chromium do eksportowania zbierania elektronicznych materiałów dowodowych
+title: Używanie Microsoft Edge w zależności od Chromium w przeglądarkach do eksportowania zbierania elektronicznych materiałów dowodowych
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: 7ee724e5109effce8883be50e360948313c84b34
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a583896b5aa8e73be5e932a729c380acc8092e73b2151647c999f9a7b69669b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834381"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998404"
 ---
-# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Korzystanie z przeglądarki Microsoft Edge opartej na przeglądarkach Chromium do eksportowania zbierania elektronicznych materiałów dowodowych
+# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Używanie Microsoft Edge w zależności od Chromium w przeglądarkach do eksportowania zbierania elektronicznych materiałów dowodowych
 
-Ze względu na niedawną zmianę obsługa technologii ClickOnce nie będzie już domyślnie włączona w przeglądarkach Microsoft Edge. Aby nadal korzystać z narzędzia Microsoft 365 eDiscovery Export Tool, musisz użyć programu Microsoft Internet Explorer lub włączyć pomoc techniczną ClickOnce w programie Microsoft Edge. 
+Ze względu na ostatnią zmianę obsługa Microsoft Edge nie będzie już ClickOnce włączona. Aby nadal korzystać z narzędzia Microsoft 365 eDiscovery Export Tool, musisz użyć programu Microsoft Internet Explorer lub włączyć ClickOnce w programie Microsoft Edge. 
 
-Aby włączyć obsługę ClickOnce w przeglądarce Microsoft Edge na podstawie chromium: 
+Aby włączyć ClickOnce pomocy technicznej w Microsoft Edge w zależności od Chromium: 
 1. W przeglądarce Microsoft Edge odwiedź stronę edge://flags/#edge-click-once.
-2. W przypadku opcji Pomoc techniczna ClickOnce zmień wartość z Domyślne **lub** **Wyłączone na** **Włączone.** 
+2. W przypadku ClickOnce pomocy technicznej zmień wartość z Domyślne **lub** **Wyłączone na** **Włączone.** 
 3. U dołu okna przeglądarki wybierz pozycję Uruchom **ponownie**. <br>
- Zmiany zostaną wprowadzone po ponownym uruchomieniu programu Microsoft Edge. 
+ Zmiany zostaną wprowadzone po ponownym uruchomieniu Microsoft Edge. 
 
 Aby uzyskać informacje na ten temat oraz procedurę instalowania narzędzia eksportu, zobacz: [Eksportowanie wyników wyszukiwania zawartości.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)

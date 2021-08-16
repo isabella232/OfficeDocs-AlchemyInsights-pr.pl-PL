@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7768"
-ms.openlocfilehash: 7c20b26e3a038dc4392684ca410eba97cec2df30
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 85cbd89e461f36a51eed816619fd132ea60dfdb0014eb850c7ec3f38d41e1ca2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014888"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069974"
 ---
 # <a name="conditional-access-issues"></a>Problemy z dostępem warunkowym
 
 **Rozwiązywanie problemów z diagnostyką logowania**
 
-Możesz szybko dowiedzieć się, co się stało lub zdiagnozować o problemach związanych z logowaniem się użytkowników przy użyciu [diagnostyki logowania](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom):
+Aby szybko dowiedzieć się, co się stało lub zdiagnozować problemy związane z logowaniem użytkownika, możesz użyć narzędzia [diagnostycznego logowania:](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
 
-1. Uruchom diagnostykę logowania.
-1. Znajdź zdarzenie, które ma zostać zanalizowane, wprowadzając szczegółowe informacje o użytkowniku, aplikacji, czasie logowania, identyfikatorze żądania lub identyfikatorze korelacji.
-1. Przejrzyj wyniki diagnostyczne przedstawiające szczegóły dotyczące tego, co się stało, oraz jakie działania możesz podjąć, aby wprowadzić zmiany (jeśli są potrzebne zmiany).
+1. Uruchom narzędzie Diagnostyczne logowanie.
+1. Znajdź zdarzenie do przeanalizowania, wprowadzając szczegółowe informacje dotyczące użytkownika, aplikacji, godziny logowania, identyfikatora żądania lub identyfikatora korelacji.
+1. Przejrzyj wyniki diagnostyczne pokazujące szczegóły tego, co się stało, i czynności, które możesz wykonać, aby wprowadzić zmiany (jeśli są potrzebne jakieś zmiany).
 
 **Procedura rozwiązywania problemów z logowaniem** 
 
-1. Przejdź do strony logowania usługi Azure AD.
-1. Filtruj logowanie według użytkownika, zakresu czasu, aplikacji, statusu, aplikacji klienckiej itd.
-1. Wybierz zdarzenie logowania i Wyświetl kartę dostęp warunkowy, aby sprawdzić, które zasady zostały oszacowane.
-1. Kliknij wiersz zasady, aby wyświetlić szczegółowe informacje o zasadach i zrozumieć, dlaczego jest ona stosowana.
+1. Przejdź do strony logowania w usłudze Azure AD.
+1. Filtruj logowania według użytkownika, zakresu czasu, aplikacji, stanu, aplikacji klienckiej i tak dalej.
+1. Wybierz zdarzenie logowania i wyświetl kartę Dostęp warunkowy, aby sprawdzić, które zasady zostały ocenione.
+1. Kliknij wiersz zasad, aby wyświetlić szczegóły zasad i dowiedzieć się, dlaczego je zastosowano.
 
 **Narzędzia do rozwiązywania problemów z zasadami dostępu warunkowego**
 
-- Tryb tylko w raporcie umożliwia ocenę zasad bez wpływu na użytkowników.
-- Narzędzie warunkowe umożliwia symulowanie zdarzeń logowania i sprawdzanie, jakie zasady obowiązują.
-- W skoroszycie informacji szczegółowych i raportowania jest wyświetlany wpływ poszczególnych zasad na czas w czasie rzeczywistym.
+- Tryb tylko do raportu umożliwia ocenę zasad bez wpływu na użytkowników.
+- Narzędzie symulacji pozwala symulować zdarzenia logowania i zobaczyć, które zasady mają zastosowanie.
+- Szczegółowe informacje i raportowania są wyświetlane wpływ poszczególnych zasad na czas rzeczywisty.
 
-**Zasady ochrony planu bazowego**
+**Zasady ochrony według planu bazowego**
 
-Zasady ochrony planu bazowego są przestarzałe. Nie są już wymuszane i wkrótce zostaną usunięte z portalu Azure Portal. Zalecamy włączenie [ustawień domyślnych zabezpieczeń](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).
+Zasady ochrony według planu bazowego zostały wycofane. Nie są one już wymuszane i wkrótce zostaną usunięte z portalu Azure Portal. Zalecamy włączenie [ustawień domyślnych zabezpieczeń.](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
 
-Aby uzyskać więcej informacji o dostępie warunkowym, zobacz:
+Aby uzyskać więcej informacji na temat dostępu warunkowego, zobacz:
 
-[Najważniejsze wskazówki dotyczące dostępu warunkowego w usłudze Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
- [Warunki w dostępie](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
- warunkowym [Formanty w dostępie](https://docs.microsoft.com/azure/active-directory/conditional-access/controls)  
- warunkowym [Lokalizacje w dostępie warunkowym](https://docs.microsoft.com/azure/active-directory/conditional-access/location-condition)
+[Najlepsze rozwiązania dotyczące dostępu warunkowego w programie Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
+ [Warunki w dostępie warunkowym](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
+ [Kontrolki w dostępie warunkowym](https://docs.microsoft.com/azure/active-directory/conditional-access/controls)  
+ [Lokalizacje w dostępie warunkowym](https://docs.microsoft.com/azure/active-directory/conditional-access/location-condition)
