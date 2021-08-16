@@ -1,5 +1,5 @@
 ---
-title: Typowe problemy i rozwiązania dotyczące programu Microsoft Graph
+title: Microsoft Graph typowych problemów i ich rozwiązywania
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004018"
 - "7081"
-ms.openlocfilehash: f6473c35cd0a0b2b5450039fca1b407f0f3f6fda
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 099fbd12a9245ad314b27d6e3eac08c1dbc57854e8d6c3165fac81141d83bde6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088874"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027276"
 ---
-# <a name="microsoft-graph-common-issues-and-resolutions"></a>Typowe problemy i rozwiązania dotyczące programu Microsoft Graph
+# <a name="microsoft-graph-common-issues-and-resolutions"></a>Microsoft Graph typowych problemów i ich rozwiązywania
 
-Aby uzyskać pełną listę znanych problemów dotyczących programu Microsoft Graph, zobacz [znane problemy dotyczące programu Microsoft Graph](https://docs.microsoft.com/graph/known-issues). Aby poznać inne pytania i zasoby, zobacz główną stronę [dokumentacji programu Microsoft Graph](https://docs.microsoft.com/graph/) .
+Aby uzyskać pełną listę znanych problemów dotyczących aplikacji Microsoft Graph, zobacz [Znane problemy dotyczące aplikacji Microsoft Graph.](https://docs.microsoft.com/graph/known-issues) Jeśli masz inne pytania i zasoby, zobacz główną [stronę Graph dokumentacji firmy Microsoft.](https://docs.microsoft.com/graph/)
 
-- [Informacje o interfejsie API platformy Microsoft Graph w wersji 1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
-- Dowiedz się, co zmieniło się w interfejsie API programu Microsoft Graph z [dziennika zmian](https://docs.microsoft.com/graph/changelog). 
-- [Zadaj pytanie lub Przekaż Opinie na temat interfejsów API i dokumentów na wykresie](https://aka.ms/GraphDeveloperSupport) , korzystając z zespołu pomocy dla deweloperów.
+- [Microsoft Graph interfejsu API REST w wersji 1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
+- Dowiedz się, co się zmieniło w interfejsie API platformy Microsoft Graph z witryny [Changelog.](https://docs.microsoft.com/graph/changelog) 
+- [Zadaj pytanie lub opinię na temat interfejsów API Graph i dokumentów zespołowi](https://aka.ms/GraphDeveloperSupport) pomocy technicznej deweloperów.
 
-Ujednolicona pomoc techniczna i klienci firmy Premier mogą podnieść bilet pomocy technicznej przy użyciu tego portalu. Inne osoby mogą uzyskać dostęp do bezpłatnej pomocy dla deweloperów w programie Microsoft Graph w witrynie [Microsoft Q&A](https://aka.ms/AskGraph).
+Unified Support klientów premier mogą podnieść bilet pomocy technicznej za pomocą tego portalu. Inni mogą uzyskać dostęp do bezpłatnej pomocy technicznej dla deweloperów Graph [Microsoft q&A.](https://aka.ms/AskGraph)

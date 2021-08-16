@@ -1,5 +1,5 @@
 ---
-title: 8000001 wyłączanie priorytetowej skrzynki odbiorczej
+title: 8000001 Wyłączanie focusedj skrzynki odbiorczej
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -15,19 +15,19 @@ ms.custom:
 - "8000001"
 - "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: eb881f0d0c5ef9dbc90b14c4f351509f55614415
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ab443c16069b44563a342948ca29a65d61a6616a5bdb8184978e70191eebcbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797090"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038707"
 ---
-# <a name="turn-off-focused-inbox"></a>Wyłączanie priorytetowej skrzynki odbiorczej
+# <a name="turn-off-focused-inbox"></a>Wyłączanie focused skrzynki odbiorczej
 
-1. Wybierz pozycję **Ustawienia** — \> **priorytetowa Skrzynka odbiorcza**.  
+1. Wybierz **Ustawienia** \> **Skrzynka odbiorcza z programem Focused.**  
 
-2. W obszarze **po odebraniu wiadomości e-mail**wybierz pozycję **nie Sortuj wiadomości**.
+2. W **obszarze Po otrzymaniu wiadomości e-mail** wybierz pozycję Nie **sortuj wiadomości**.
 
 3. Wybierz przycisk **OK**.
 
-Aby dowiedzieć się więcej, zobacz [priorytetowa Skrzynka odbiorcza w programie Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).
+Aby dowiedzieć się więcej, zobacz [Skrzynka odbiorcza skrzynki Outlook.](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy)

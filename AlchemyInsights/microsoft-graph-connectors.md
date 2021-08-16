@@ -1,5 +1,5 @@
 ---
-title: Łączniki programu Microsoft Graph
+title: Łączniki Graph Microsoft
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5910"
 - "9003123"
-ms.openlocfilehash: c2abbc23236ce4a4c232a5e96b36d9322c0e255d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 923ee836685f838aa128fd62c32b35b169f11517e16f010621e96a88a3b00afd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724913"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027312"
 ---
-# <a name="microsoft-graph-connectors"></a>Łączniki programu Microsoft Graph
+# <a name="microsoft-graph-connectors"></a>Łączniki Graph Microsoft
 
-Przy użyciu łączników programu Microsoft Graph organizacja może indeksować dane innych firm, które są wyświetlane w wynikach wyszukiwania firmy Microsoft.
+Za pomocą łączników programu Microsoft Graph organizacja może indeksować dane innych firm, aby były wyświetlane w Microsoft Search danych.
 
-- [Łączniki według firmy Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Łączniki przez naszych partnerów](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [Łączniki firmy Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
+- [Łączniki naszych partnerów](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
 
-Aby uzyskać więcej informacji, zobacz  [Omówienie łączników programu Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Aby uzyskać więcej informacji, zobacz [Omówienie łączników aplikacji Microsoft Graph .](https://docs.microsoft.com/microsoftsearch/connectors-overview)

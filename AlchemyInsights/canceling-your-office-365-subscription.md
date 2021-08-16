@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: ba8ffbb22a1c0c15044c59e7200661054ea36886
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 60b5df48f8e62ded27d9c1a3faf915afe23aec945b34cebbe6973d73fc4f5532
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686824"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996604"
 ---
 # <a name="canceling-your-subscription"></a>Anulować subskrypcję?
 
 Przykro nam, że odchodzysz, ale jeśli chcesz anulować subskrypcję, oto dostępne opcje:
   
 - Jeśli masz mniej niż 25 przypisanych licencji, możesz anulować subskrypcję w trybie online. Przejdź na  stronę \> **[Rozliczenia twoje produkty](https://go.microsoft.com/fwlink/p/?linkid=842054)** i znajdź subskrypcję, którą chcesz anulować. Wybierz trzy kropki (więcej akcji), a następnie wybierz Anuluj **subskrypcję**.
-- Jeśli masz więcej niż 25 licencji przypisanych do użytkowników, zadzwoń do pomocy technicznej, aby [anulować subskrypcję.](https://go.microsoft.com/fwlink/p/?linkid=518322)
+- Jeśli masz więcej niż 25 licencji przypisanych do użytkowników, zmniejsz ją do mniej niż 25, aby anulować lub zadzwonić do pomocy technicznej w celu [anulowania subskrypcji.](/microsoft-365/business-video/get-help-support)
   
 **Zwrot: Wszelkie proporcjonalnie do zwrotu środków zostaną Ci zwrócone w następnym cyklu rozliczeniowym.**
 

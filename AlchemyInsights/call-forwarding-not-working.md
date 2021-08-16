@@ -1,5 +1,5 @@
 ---
-title: Przekazywanie połączeń, grupy połączeń i jednoczesne dzwonienie w aplikacji Teams
+title: Przekazywanie połączeń, rozmowy grupowe i jednoczesne dzwonienie w Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004159"
 - "7251"
-ms.openlocfilehash: e9ce11063f47bc8208714186a572846544f3abd0
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: 23578487c3e5a988f888172b7a15309217c261284f662a4e07f21ba3a4971004
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447385"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996424"
 ---
-# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Przekazywanie połączeń, grupy połączeń i jednoczesne dzwonienie w aplikacji Teams
+# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Przekazywanie połączeń, rozmowy grupowe i jednoczesne dzwonienie w Teams
 
-Konfigurowanie przekierowania rozmów
+Konfigurowanie przekazywania połączeń
 
-1. W kliencie Teams kliknij swój obraz profilu u góry zespołu, a następnie wybierz pozycję **ustawienia > połączeń**.
-2. W obszarze **reguły odbierania rozmów** wybierz pozycję **Prześlij moje połączenia**, a następnie wybierz miejsce, w którym chcesz przekierować połączenia: poczta głosowa, inna osoba lub Grupa połączeń.
+1. W kliencie Teams kliknij swój obraz profilu w górnej części Teams, a następnie wybierz pozycję **Ustawienia > połączeń**.
+2. W **obszarze Reguły od odbierania** połączeń wybierz pozycję Przekaż moje połączenia , a następnie wybierz miejsce, w którym mają być przekazywane połączenia: pocztę głosową, inną osobę lub grupę połączeń. 
 
-Konfigurowanie przekierowania rozmów do grupy rozmów
+Konfigurowanie przekazywania połączeń do grupy połączeń
 
-1. W obszarze **reguły odbierania rozmów** wybierz pozycję **przekazuj moje rozmowy**.
-2. W menu **Prześlij dalej** wybierz pozycję **grupowe rozmowy**.
-3. W obszarze **Dodaj osoby** Dodaj osoby, które chcesz dodać do grupy połączeń. Możesz dodać maksymalnie 25 osób. Każda osoba, którą dodasz, otrzyma powiadomienie.
+1. W **obszarze Reguły od odbierania połączeń** wybierz pozycję Przekaż moje **połączenia**.
+2. W menu **Przekaż do** wybierz polecenie Zadzwoń **do grupy.**
+3. W **obszarze Dodaj** osoby dodaj osoby, które chcesz dodać do grupy połączeń. Możesz dodać maksymalnie 25 osób. Każda osoba, która dodasz, otrzyma powiadomienie.
