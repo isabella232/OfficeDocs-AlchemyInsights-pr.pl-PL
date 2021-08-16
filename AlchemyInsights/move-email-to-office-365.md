@@ -1,5 +1,5 @@
 ---
-title: Przenoszenie poczty e-mail na usługę Microsoft 365
+title: Przenoszenie wiadomości e-mail do Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: 4ace759a6cfe6e161c5572472b7459f8fd4c6021
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 94c762cb8fbca608b06464f79f04d0a81fa37ca1fa10204b405a18bd79f4bade
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823725"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986307"
 ---
-# <a name="move-email-to-microsoft-365"></a>Przenoszenie poczty e-mail na usługę Microsoft 365
+# <a name="move-email-to-microsoft-365"></a>Przenoszenie wiadomości e-mail do Microsoft 365
 
-Dostępnych jest kilka opcji migrowania poczty e-mail do platformy Microsoft 365. Doradca migracji poczty platformy [Microsoft 365](https://aka.ms/alchemyinsight-mailmigrationadvisor) pomaga w wybraniu najlepszego rozwiązania dla środowiska, a także prowadzi Cię przez proces migracji poczty.
+Dostępnych jest kilka opcji migrowania poczty e-mail do Microsoft 365. Doradca [Microsoft 365 migracji poczty](https://aka.ms/alchemyinsight-mailmigrationadvisor) pomaga w wybraniu najlepszego rozwiązania dla twojego środowiska, a także prowadzi Cię przez proces migracji poczty.
   
 Aby zapoznać się z opcjami bez rozpoczynania migracji, zobacz Wybierz [ścieżkę migracji.](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path)
 
-Jeśli się kwalifikujesz, odwiedź stronę ["Adopt Microsoft 365 with FastTrack"](https://www.microsoft.com/fasttrack/microsoft-365/office-365) (Przyjmij platformę Microsoft 365 z usługą FastTrack).
+Odwiedź też stronę ["Adoptuj Microsoft 365 pomocą FastTrack",](https://www.microsoft.com/fasttrack/microsoft-365/office-365) aby uzyskać asystowana pomoc w migracji, jeśli się kwalifikujesz.
   

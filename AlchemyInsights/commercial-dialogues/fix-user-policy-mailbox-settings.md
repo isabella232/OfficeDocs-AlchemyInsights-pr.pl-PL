@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: ca998c453fcb0905b122436f0eea384a9b8a9992
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fecc52bea66e0aed709a8995d2509f4432c09482459aa575d29e4c7551375211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750558"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034728"
 ---
 # <a name="fix-user-policymailbox-settings"></a>Naprawianie ustawień zasad użytkownika/skrzynki pocztowej
 
 Ustawienia wiadomości-śmieci w skrzynce pocztowej mają wpływ na tę wiadomość. Aby przejrzeć ustawienia, wykonaj następujące czynności:
 
-1. Uruchom powłokę zarządzania programu Exchange. Aby uzyskać więcej informacji, [zobacz Otwieranie powłoki zarządzania programu Exchange.](https://go.microsoft.com/fwlink/?linkid=2101432)
+1. Uruchom Exchange zarządzania. Aby uzyskać więcej informacji, [zobacz Otwieranie Exchange zarządzania danymi.](https://go.microsoft.com/fwlink/?linkid=2101432)
 2. Uruchom to polecenie (przy użyciu adresu e-mail użytkownika):  **get-mailboxjunkmailconfiguration -identity "user@domain.com"**
 3. Sprawdź, czy adres e-mail nadawcy jest częścią **trustedSendersAndDomains** lub **BlockedSendersAndDomains.** Jeśli adres e-mail znajduje się na jednej z list, może być konieczne jego usunięcie. Aby dowiedzieć się więcej, [zobacz Set-MailboxJunkEmailConfiguration.](https://go.microsoft.com/fwlink/?linkid=2101047)
