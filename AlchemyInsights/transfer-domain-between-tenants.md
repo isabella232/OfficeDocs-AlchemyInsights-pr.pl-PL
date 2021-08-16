@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7305"
-ms.openlocfilehash: d696c9d095fb6b2b374d8c5872e94cc7e32dceb8
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 942ca306951fdd8e971ea27da88af5601325185b7c169b4df3dfd9e43e1650c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564995"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048634"
 ---
 # <a name="transfer-domain-between-tenants"></a>Przenoszenie domeny między dzierżawami
 
-Domena niestandardowa, taka jak forthcoffee.com, można usunąć ręcznie z jednej dzierżawy, a następnie zweryfikować ją w nowej dzierżawie.
+Domenę niestandardową, taką jak forthcoffee.com można ręcznie usunąć z jednej dzierżawy, a następnie zweryfikować w nowej dzierżawie.
 
-Wykonaj poniższe czynności, aby [usunąć domenę](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain). Następnie w nowej dzierżawie przejdź do obszaru **Ustawienia**  >  **domen**  >  **Dodaj domenę**.
+Wykonaj poniższe czynności, [aby usunąć domenę.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain) Następnie w nowej dzierżawie przejdź **do** Ustawienia  >  **Domains** Add  >  **domain (Dodaj domenę).**
 
-Aby uzyskać bardziej złożone scenariusze, zobacz [migracje dzierżawy usługi Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations).
+Bardziej złożone scenariusze można znaleźć [Microsoft 365 migracji z dzierżawy do dzierżawy.](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations)
 
-**Ponadto Uwaga**:
-- Nie można usunąć lub przenieść domeny początkowej onmicrosoft.com między dzierżawami.
+**Uwaga:**
+- Nie można usunąć onmicrosoft.com ani przenieść domeny początkowej między dzierżawami.
 - Nie można przenosić domeny niestandardowej zakupionej od firmy Microsoft między dzierżawami.

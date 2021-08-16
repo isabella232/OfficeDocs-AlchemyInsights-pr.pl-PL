@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 88b7cbbe36882e06400869fbd211bb6fe81e845c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 452444aec11c001728c9d8de32ee0883e4d92dcafee6294b90f481dc9531ed53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831024"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048706"
 ---
 # <a name="teams-meeting-invitations"></a>Zaproszenia na spotkania aplikacji Teams
 
-Potrzebujesz pomocy w dostosowywaniu zaproszeń na spotkania aplikacji Teams w organizacji? Pamiętaj, aby zapoznać się [z dostosowywaniem zaproszeń na spotkania.](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations)  
+Potrzebujesz pomocy w dostosowywaniu Teams zaproszeń na spotkania w organizacji? Pamiętaj, aby zapoznać się [z dostosowywaniem zaproszeń na spotkania.](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations)  
 
-Aby uzyskać dodatkowe informacje, [zobacz Zarządzanie ustawieniami spotkania w aplikacji Microsoft Teams.](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams)
+Aby uzyskać dodatkowe informacje, [zobacz Zarządzanie ustawieniami spotkania w programie Microsoft Teams.](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams)

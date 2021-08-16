@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "997"
 - "6500005"
-ms.openlocfilehash: 5b4aae884bff8be2a7b2a7018eb28e65aef87e50
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9ee8e58510ec8ca550de60ff7b07855427633bae055b738eeef3e838edd7c609
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048814"
 ---
-# <a name="id-like-to-sign-up-for-teams-for-free"></a>Chcę bezpłatnie zapisać się na teams
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Chcę bezpłatnie zapisać się na Teams konta
 
-Zespoły są dostępne bezpłatnie w kilku różnych programach. Kontaktując się z pomocą techniczną, masz już istniejącą dzierżawę platformy Microsoft 365, co oznacza, że masz już usługę Microsoft Teams.
+Teams jest dostępna bezpłatnie w kilku różnych programach. Kontakt z pomocą techniczną w związku z tym żądaniem oznacza, że masz już istniejącą Microsoft 365 dzierżawę, co oznacza, że już Microsoft Teams.
 
-W większości przypadków aplikacja Teams jest domyślnie włączona dla wszystkich użytkowników. Po jej włączeniu użytkownicy mogą uruchamiać aplikację Teams, instalując klientów komputerowych i przenośnych albo korzystając z przeglądarki [](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)   w aplikacji Microsoft [](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients)  [](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client)    [Teams.](https://www.microsoft.com/microsoft-teams/teams-for-work)
+W większości przypadków Teams jest domyślnie włączone dla wszystkich użytkowników. Po jej włączeniu użytkownicy mogą uruchamiać aplikację Teams, [](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)instalując klientów komputerowych i przenośnych lub z przeglądarki   w [](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients)  [](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client)   Microsoft Teams. [](https://www.microsoft.com/microsoft-teams/teams-for-work)
 
-Wyjątkiem jest aplikacja Microsoft Teams dla edukacji (EDU). Jeśli masz licencję na usługę EDU, musisz włączyć usługę Microsoft Teams ręcznie. W tym celu przejdź do centrum administracyjnego platformy Microsoft 365, aby> usługi i dodatki > **Microsoft Teams.** Jeśli korzystasz z nowego centrum administracyjnego usługi Teams, **** musisz wyłączyć pozycję Wypróbuj nowe centrum administracyjne, aby znaleźć usługi i    **dodatki.** WAŻNE: Może upłynieć do 24 godzin, aż zmiany zostaną wprowadzone.
+Wyjątkiem jest program Microsoft Teams dla instytucji edukacyjnych (EDU). Jeśli masz licencję na usługę EDU, musisz włączyć tę Microsoft Teams ręcznie. W tym celu przejdź do centrum administracyjne platformy Microsoft 365> usług i dodatków w **> Microsoft Teams.** Jeśli korzystasz z nowego centrum Teams administracyjnego, musisz wyłączyć **** pozycję Wypróbuj nowe centrum administracyjne, aby znaleźć Usługi i    **dodatki.** WAŻNE: Może upłynieć do 24 godzin, aby zmiany zostały wprowadzone.
 
-Nie przegap wszystkich naszych wskazówek dotyczących obsługi pracowników zdalnych [za pomocą aplikacji Teams.](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)
+Nie przegap wszystkich naszych wskazówek dotyczących obsługi [pracowników](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)zdalnych Teams.

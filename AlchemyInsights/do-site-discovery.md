@@ -13,42 +13,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9143"
 - "9005291"
-ms.openlocfilehash: bdf94220de45d92f63e56501ea4e35389224d25c
-ms.sourcegitcommit: 475a9eaa095812091991857df6cf6490a8bbe179
-ms.translationtype: MT
+ms.openlocfilehash: 4653fdef7e9226f05809d56e9a445cd1da35b0578c088bea72252a281d4527d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50694562"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030768"
 ---
 # <a name="do-site-discovery"></a>Odnajdowanie witryn
 
-Jeśli Twoja organizacja nadal używa starszych aplikacji sieci Web i planuje korzystać z trybu programu Internet Explorer (co robi większość klientów), należy wykonać dodatkowe odnajdowanie witryn.
+Jeśli Twoja organizacja nadal używa starszych aplikacji i planów sieci Web korzystających z trybu programu Internet Explorer (co robi większość klientów), musisz wykonać dodatkowe odnajdowanie witryn.
 
-**Wdrożono już starszą wersję przeglądarki Microsoft Edge**
+**Wcześniej wdrożono starszą wersję pakietu Microsoft Edge**
 
-Jeśli lista witryn przedsiębiorstwa została już skonfigurowana do działania w starszej wersji przeglądarki Microsoft Edge, odnajdowanie witryn jest prawie gotowe. Jedną z rzeczy, które może być konieczne, jest dodanie witryn neutralnych.
+Jeśli masz już skonfigurowaną listę witryn Enterprise do działania dla starszej wersji programu Microsoft Edge, odnajdowanie witryn jest prawie gotowe. Jedną z rzeczy, które może być konieczne, jest dodanie witryn neutralnych.
 
-Witryny neutralne to zazwyczaj witryny, które zapewniają logowanie jednokrotne. Jeśli przejdź do witryny neutralnej z programu Microsoft Edge, chcesz pozostać w programie Microsoft Edge w celu uwierzytelnienia. Jeśli przejdźsz do witryny neutralnej w trybie programu Internet Explorer, chcesz pozostać w trybie programu Internet Explorer w celu uwierzytelnienia.
+Witryny neutralne to zazwyczaj witryny, które zapewniają logowanie jednokrotne. Jeśli przejdźsz do witryny neutralnej z Microsoft Edge, chcesz pozostać w Microsoft Edge uwierzytelnienia. Jeśli w trybie programu Internet Explorer przejdźsz do witryny neutralnej, chcesz pozostać w trybie programu Internet Explorer, aby uwierzytelnić.
 
-Zidentyfikuj wszelkie logowania jednokrotne lub inne witryny neutralne, z których korzystasz, i dodaj je do listy witryn przedsiębiorstwa.
+Zidentyfikuj wszelkie logowania jednokrotne lub inne witryny neutralne, z których korzystasz, i dodaj je Enterprise do listy witryn.
 
 **Program Internet Explorer jest domyślną przeglądarką**
 
-Jeśli teraz korzystasz tylko z programu Internet Explorer, być może nie wiesz, które witryny uaktualniły się do nowoczesnych standardów sieci Web, a które nadal wymagają programu Internet Explorer. Warto znaleźć te witryny i dodać je do listy witryn przedsiębiorstwa, aby można było używać trybu programu Internet Explorer tylko dla tych witryn.
+Jeśli teraz używasz tylko programu Internet Explorer, być może nie wiesz, które witryny zostały uaktualnione do nowoczesnych standardów sieci Web, a które nadal wymagają programu Internet Explorer. Trzeba znaleźć te witryny i dodać je do listy witryn programu Enterprise, aby można było używać trybu programu Internet Explorer tylko dla tych witryn.
 
 > [!NOTE]
-> [Odnajdowanie witryn przedsiębiorstwa](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) wykrywa witryny, które mogą wymagać trybu programu Internet Explorer. Może zbierać dane na komputerach z systemem Windows Internet Explorer 8 za pośrednictwem programu Internet Explorer 11 w systemie Windows 10, Windows 8.1 lub Windows 7.
+> [Enterprise odnajdowania](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) witryn wykrywa witryny, które mogą wymagać trybu programu Internet Explorer. Może zbierać dane na komputerach z systemem Windows Internet Explorer od 8 do Internet Explorer 11 na komputerze z systemem Windows 10, Windows 8.1 lub Windows 7.
 
 **Analizowanie danych**
 
-Po zebraniu danych witryny zalecamy, aby w celu ich przeanalizowania był następujący proces czteroetapowy:
-1. Sortuj dane według domeny, a następnie według adresu URL.
-2. Zdefiniuj granice aplikacji, aby skonfigurować tryb programu Internet Explorer. Chcesz uwzględnić wszystkie witryny i kontrolki sieci Web definiujące aplikację, ale nie chcesz uwzględniać dodatkowych witryn i kontrolek. Niektóre witryny mogą być tak proste, jak *https://contoso.com/app1* inne mogą wymagać zdefiniowania wielu witryn i stron.
-3. Przetestuj aplikację, aby sprawdzić, czy nie działa natywnie. Wiele witryn oferuje nowoczesną zawartość po wykryciu nowoczesnej przeglądarki i oferuje starszą zawartość tylko wtedy, gdy wykryje program Internet Explorer.
-4. Dodaj aplikację do listy witryn przedsiębiorstwa, jeśli testy nie powiedzie się.
+Po zebraniu danych dotyczących witryny zalecamy skorzystanie z czterech kroków procesu analizy danych:
+1. Dane można sortować według domeny, a następnie według adresu URL.
+2. Definiowanie granic aplikacji w celu skonfigurowania trybu programu Internet Explorer. Chcesz uwzględnić wszystkie witryny i kontrolki sieci Web definiujące aplikację, ale nie chcesz uwzględniać dodatkowych witryn i kontrolek. Niektóre witryny mogą być tak proste, jak inne mogą *https://contoso.com/app1* wymagać zdefiniowania wielu witryn i stron.
+3. Przetestuj aplikację, aby sprawdzić, czy nie działa natywnie. Wiele witryn oferuje nowoczesną zawartość, gdy wykryje nowoczesną przeglądarkę, i będzie oferować starszą zawartość tylko wtedy, gdy wykryje program Internet Explorer.
+4. Dodaj aplikację do listy witryn Enterprise w przypadku niepowodzenia testowania.
 
 > [!NOTE]
-> Najlepszym rozwiązaniem jest pogrupowanie wszystkich witryn składających się na aplikację. Dzięki temu podczas uaktualniania aplikacji łatwiej będzie usunąć całą witrynę z trybu programu Internet Explorer i rozpocząć korzystanie z nowoczesnej przeglądarki dla tej aplikacji.
+> Najlepszym rozwiązaniem jest pogrupowanie wszystkich witryn składających się na aplikację. Dzięki temu podczas uaktualniania aplikacji łatwiej jest usunąć całą witrynę z trybu programu Internet Explorer i zacząć korzystać z nowoczesnej przeglądarki dla tej aplikacji.
 
-Po zakończeniu odnajdowania witryn i przeanalizowaniu danych możesz zacząć analizować strategię kanału.
+Po zakończeniu odnajdowania witryny i przeanalizowaniu danych możesz zacząć szukać strategii dotyczącej kanału.
 

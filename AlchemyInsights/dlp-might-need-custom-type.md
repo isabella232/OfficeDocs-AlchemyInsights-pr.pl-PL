@@ -1,5 +1,5 @@
 ---
-title: Funkcja DLP może wymagać typu niestandardowego
+title: W przypadku zasad DLP może być potrzebny typ niestandardowy
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -13,31 +13,31 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 72b16d437f97de27cbdc364f022c3e2059b31ef0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b0beb89eaf8a4105659a1faa7cc723174a73940ef46bd2355bdddfee7b94adb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712194"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030804"
 ---
-# <a name="dlp-might-need-a-custom-type"></a>Funkcja DLP może wymagać typu niestandardowego
+# <a name="dlp-might-need-a-custom-type"></a>W przypadku zasad DLP może być potrzebny typ niestandardowy
 
 **Ważne**: w tych niespotykanych czasach podejmujemy kroki zapewniające stałą wysoką dostępność usług SharePoint Online i OneDrive. Aby uzyskać więcej informacji, zapoznaj się z [tymczasowymi zmianami funkcji usługi SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Funkcja DLP może wymagać niestandardowego typu informacji**
+**DLP może wymagać niestandardowego typu informacji**
 
-Dzięki zasadom ochrony przed utratą danych (DLP) można identyfikować i chronić poufne dane w organizacji. W przypadku kilku scenariuszy może być konieczne **utworzenie własnych typów informacji poufnych,** aby chronić dane organizacji.
+Przy użyciu zasad ochrony przed utratą danych (DLP, data loss prevention) możesz identyfikować i chronić poufne dane w swojej organizacji. W niektórych scenariuszach może być  konieczne utworzenie własnego niestandardowego typu informacji poufnych w celu ochrony danych organizacji.
 
-Na przykład organizacja może potrzebować identyfikacji i ochrony identyfikatorów pracowników lub innych danych w pewnym formacie specyficznym dla organizacji. Jeśli tak, zobacz poniższe artykuły, aby uzyskać więcej informacji.
+Na przykład organizacja może wymagać zidentyfikowania i ochrony identyfikatorów pracowników lub innych danych w innym formacie, specyficznym dla Twojej organizacji. Jeśli tak, zapoznaj się z następującymi artykułami, aby uzyskać więcej informacji.
   
  **Dostosowywanie wbudowanego typu informacji poufnych**
   
-Jeśli wbudowany typ informacji poufnych spełnia Twoje potrzeby, wystarczy kilka ulepszeń, aby [dostosować wbudowany typ informacji poufnych](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type). Możesz na przykład dodawać lub usuwać słowa kluczowe albo dodawać lub usuwać dowody dodatkowe, takie jak data lub adres.
+Jeśli wbudowany typ informacji poufnych spełni Twoje potrzeby za pomocą zaledwie kilku ulepszeń, możesz dostosować wbudowany typ informacji [poufnych.](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type) Na przykład można dodawać lub usuwać słowa kluczowe albo dodawać lub usuwać informacje dodatkowe, takie jak data lub adres.
   
  **Tworzenie niestandardowego typu informacji poufnych**
   
-Jeśli jednak konieczne jest całkowite zidentyfikowanie i chronienie różnych typów poufnych informacji, można [utworzyć niestandardowe typy informacji poufnych](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) w interfejsie użytkownika centrum zabezpieczeń & zgodności.
+Jeśli jednak musisz całkowicie zidentyfikować i chronić inny typ [](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) informacji poufnych, możesz utworzyć niestandardowy typ informacji poufnych w interfejsie użytkownika centrum zabezpieczeń & zgodności.
   
-**Tworzenie niestandardowego typu informacji poufnych w centrum zabezpieczeń & zgodności programu PowerShell**
+**Tworzenie niestandardowego typu informacji poufnych w centrum & w programie PowerShell**
 
-Na koniec, jeśli interfejs użytkownika nie udostępnia wszystkich potrzebnych opcji, możesz [utworzyć niestandardowy typ informacji poufnych w centrum zabezpieczeń & zgodności programu PowerShell](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell). Rozpoczynając od pliku XML, możesz korzystać z każdej dostępnej opcji.
+Jeśli interfejs użytkownika nie zawiera wszystkich potrzebnych opcji, możesz utworzyć niestandardowy typ informacji poufnych w programie PowerShell centrum zabezpieczeń & [zgodności.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell) Zaczynając od pliku XML, możesz użyć wszystkich dostępnych opcji.

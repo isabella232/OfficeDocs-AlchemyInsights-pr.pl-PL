@@ -13,14 +13,14 @@ ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: cc25383cc3dfa2e8fb41d0a3d7e8333ed3a57ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b677c7a119e9863db0221a4fbac1ac0a18deac1fecbc9e0ee22333d97144bc3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706857"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056536"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>Uzyskiwanie klucza hybrydowego programu Exchange
+# <a name="getting-an-exchange-hybrid-key"></a>Uzyskiwanie klucza Exchange hybrydowego
 
-Aby połączyć swoją organizację lokalną z usługą Exchange Online w programie Microsoft 365, należy skonfigurować co najmniej jeden serwer Exchange w organizacji lokalnej. Ten serwer służy do tworzenia wdrożenia hybrydowego łączącego lokalną organizację programu Exchange z usługą Exchange Online. Aby uzyskać klucz hybrydowy dla tego serwera, wykonaj czynności opisane w [Kreatorze dystrybucji kluczy produktu hybrydowego programu Exchange](https://aka.ms/hybridkey).
+Aby połączyć lokalną organizację z usługą Exchange Online w Microsoft 365, musisz skonfigurować co najmniej jeden Exchange w twojej organizacji lokalnej. Ten serwer służy do tworzenia wdrożenia hybrydowego, które łączy Twoją lokalną organizację Exchange z Exchange Online. Aby uzyskać klucz hybrydowy dla tego serwera, wykonaj czynności opisane w kreatorze Exchange [hybrydowego klucza produktu.](https://aka.ms/hybridkey)
   

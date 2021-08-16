@@ -1,5 +1,5 @@
 ---
-title: Brakuje terminów w magazynie terminów usługi SharePoint Online
+title: Brak warunków w SharePoint Online Term Store
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: fd2824521d41eac892bf3a9cd4d8093751ccaf5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c596cf02128cbe58cd97ea802bf9ca1d0ce5b3b0a4334c4423754d86661c525a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669438"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039616"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>Brakuje terminów w magazynie terminów usługi SharePoint Online
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>Brak warunków w SharePoint Online Term Store
 
-Warunki w magazynie terminów usługi SharePoint Online, które chcesz zobaczyć, nie są wyświetlane lub są sporadycznie wyświetlane.
+Terminy w spodziewanym SharePoint terminy online nie są wyświetlane lub sporadycznie się pojawiają.
   
-Jeśli od momentu pierwszego uruchomienia tego problemu minęło więcej niż 24 godziny, zarejestruj sprawę pomocy technicznej. Zdajemy sobie sprawę, że 24 godziny mogą wyglądać jak długo. W wielu przypadkach jesteśmy już nad rozwiązaniem, więc daj nam co najmniej 24 godziny.
+Jeśli od pierwszego wydania tego problemu minęły więcej niż 24 godziny, należy rejestrować sprawę pomocy technicznej. Rozumiemy, że 24 godziny mogą wydawać się długie. W wielu przypadkach pracujemy już nad rozwiązaniem, więc daj nam co najmniej 24 godziny.
   
