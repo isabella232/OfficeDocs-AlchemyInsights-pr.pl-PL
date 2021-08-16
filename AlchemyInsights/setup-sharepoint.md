@@ -1,5 +1,5 @@
 ---
-title: Konfigurowanie programu SharePoint
+title: Konfigurowanie SharePoint
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "7407"
-ms.openlocfilehash: 66b29abcbce3d5cc538969d480ec9a89ae3c6095
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: eed91d538589a3eda49d19ae60cf772b7c20cbfc12c2b47aec0bb313ebd73e00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583996"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023460"
 ---
-# <a name="set-up-sharepoint"></a>Konfigurowanie programu SharePoint
+# <a name="set-up-sharepoint"></a>Konfigurowanie SharePoint
 
-[Przewodnik po konfiguracji programu SharePoint](https://go.microsoft.com/fwlink/?linkid=2071425) ułatwia konfigurowanie przechowywania dokumentów programu SharePoint i zarządzania zawartością, tworzenie witryn, Konfigurowanie udostępniania zewnętrznego, Migrowanie danych i Konfigurowanie ustawień zaawansowanych oraz tworzenie zakontraktowań i komunikacji użytkowników w organizacji.
+Przewodnik konfiguracji programu [SharePoint](https://go.microsoft.com/fwlink/?linkid=2071425) ułatwia konfigurowanie magazynu dokumentów programu SharePoint i zarządzanie zawartością, tworzenie witryn, konfigurowanie udostępniania zewnętrznego, migrowanie danych i konfigurowanie ustawień zaawansowanych oraz ułatwianie angażowania użytkowników i komunikacji w organizacji.
 
-Postępuj zgodnie z instrukcjami dotyczącymi konfigurowania zasad uprawnień udostępniania zawartości, wybierania narzędzi do synchronizacji migracji oraz włączania ustawień zabezpieczeń środowiska programu SharePoint.
+Należy wykonać czynności w celu skonfigurowania zasad uprawnień udostępniania zawartości, wybrać narzędzia do synchronizacji migracji, a także włączyć ustawienia zabezpieczeń dla SharePoint zawartości.

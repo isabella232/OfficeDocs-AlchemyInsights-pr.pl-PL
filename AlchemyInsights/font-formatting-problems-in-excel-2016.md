@@ -1,5 +1,5 @@
 ---
-title: Problemy z formatowaniem czcionek w programie Excel 2016
+title: Problemy z formatowaniem czcionki w Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,14 +14,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 1831845768969e5fbb181276b2b66830c7d71599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77387602fda7067b469a93289dc071d0c9ba52eff67c5fb04f4426e4034eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744195"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068210"
 ---
-# <a name="font-formatting-problems-in-excel"></a>Problemy z formatowaniem czcionek w programie Excel
+# <a name="font-formatting-problems-in-excel"></a>Problemy z formatowaniem czcionki w programie Excel
 
-W programie Excel 2016 formatowanie czcionki może być niewłaściwie wyświetlane w komórce. Może się tak zdarzyć, jeśli komórka zawiera więcej niż jeden rodzaj formatowania czcionki. Jeśli na przykład niektóre znaki są pogrubione, a inne nie są pogrubione, być może nie widzisz formatu pogrubiony. Jeśli w tej samej komórce występują różne kolorowe znaki, być może kolory są niewidoczne poprawnie. Nasz Zespół inżynieryjny wie o tym problemie i obecnie pracuje nad jego rozwiązaniem. Tymczasem spróbuj użyć innej czcionki. Możesz też spróbować uniknąć używania wielu rodzajów formatowania w tej samej komórce do momentu rozwiązania tego problemu.
+W Excel 2016 formatowanie czcionki może nie być wyświetlane poprawnie w komórce. Może się tak zdarzyć, jeśli komórka zawiera więcej niż jeden rodzaj formatowania czcionki. Jeśli na przykład niektóre znaki są pogrubione, a inne nie pogrubione, formatowanie pogrubione może nie być widoczne. Jeśli w tej samej komórce występują różne kolory znaków, kolory mogą być wyświetlane nieprawidłowo. Nasz zespół inżynierów wie o tym problemie i obecnie pracuje nad jego rozwiązaniem. W międzyczasie spróbuj użyć innej czcionki. Do czasu rozwiązania tego problemu unikaj używania wielu rodzajów formatowania w tej samej komórce.
   

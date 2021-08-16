@@ -1,5 +1,5 @@
 ---
-title: Naprawianie błędów usługi Windows Update
+title: Naprawianie Windows błędów aktualizacji
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: 07a5b67270d4eb17b129452e2eee28389f79313b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6e90c0ba8a8cbe79838e1f49cd7049bf3e24e985d371ee1462d50e47834cdac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812654"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068282"
 ---
-# <a name="fix-windows-update-errors"></a>Naprawianie błędów usługi Windows Update
+# <a name="fix-windows-update-errors"></a>Naprawianie Windows błędów aktualizacji
 
-Jeśli podczas pobierania i instalowania usługi Windows Update zostanie komunikat o błędzie, narzędzie do rozwiązywania problemów z aktualizacją **może** pomóc w rozwiązaniu problemu.
+Jeśli podczas pobierania i instalowania aktualizacji zostanie Windows komunikat  o błędzie, narzędzie do rozwiązywania problemów z aktualizacjami może pomóc rozwiązać ten problem.
 
-- [Pobierz narzędzie do rozwiązywania problemów z aktualizacjami dla systemu Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- Uruchom narzędzie do rozwiązywania problemów. Gdy to zrobisz, najlepszym rozwiązaniem jest ponowne uruchomienie urządzenia. Następnie sprawdź nowe aktualizacje, przechodząc do menu [Start > Settings > Update & Security > Windows Update.](ms-settings:windowsupdate)
+- [Pobierz narzędzie do rozwiązywania problemów z aktualizacjami dla Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Uruchom narzędzie do rozwiązywania problemów. Gdy to zrobisz, najlepszym rozwiązaniem jest ponowne uruchomienie urządzenia. Następnie sprawdź, czy są dostępne nowe aktualizacje, przechodząc do > Ustawienia > [Aktualizacje & zabezpieczeń > Windows.](ms-settings:windowsupdate)
 
-Jeśli to nie zadziała, zobacz [Windows Update: często](https://support.microsoft.com/help/12373/windows-update-faq) zadawane pytania, aby uzyskać więcej informacji.
+Jeśli nadal nie działają, zapoznaj się z [artykułem Aktualizacja Windows: często zadawane](https://support.microsoft.com/help/12373/windows-update-faq) pytania, aby uzyskać więcej informacji.

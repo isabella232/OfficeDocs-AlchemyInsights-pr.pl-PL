@@ -1,5 +1,5 @@
 ---
-title: Błąd wewnętrzny serwera Outlook.com 9000234
+title: błąd 9000234 Outlook.com serwera
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 10dfff5d88ce5ff7c099ed55b1ecebe606831d64
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7c7f3f2188ef72cbcd3123b92c50fbf99c86cdbbc3c102ed151df341dc6f5910
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671598"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024540"
 ---
-# <a name="internal-server-errors-in-outlookcom"></a>Błędy serwera wewnętrznego w Outlook.com
+# <a name="internal-server-errors-in-outlookcom"></a>Wewnętrzne błędy serwera w Outlook.com
 
-Nie! Jeśli zostanie wyświetlony komunikat "błąd 500" lub "wewnętrzny błąd serwera", oznacza to, że jest to stan my, a nie przepraszam.
+O nie! Jeśli zostanie wyświetlony komunikat "Błąd 500" lub "Wewnętrzny błąd serwera", oznacza to, że to dla nas, a nie Ciebie — przykro nam z tego powodu.
 
-Sprawdź [stan usługi pakietu Office](https://portal.office.com/servicestatus) , aby upewnić się, że nie ma nic innego, ale najlepszym rozwiązaniem jest wykonanie przerwy przez kilka minut, a następnie odświeżenie przeglądarki przez naciśnięcie **klawiszy CTRL** i **F5**.
+Zapoznaj się ze stroną [Office Stan](https://portal.office.com/servicestatus) usługi, aby upewnić się, że nic się nie dzieje, ale najlepszym rozwiązaniem jest zrobić przerwę na kilka minut, a następnie odświeżyć przeglądarkę, naciskając klawisze **CTRL** i **F5.**

@@ -1,5 +1,5 @@
 ---
-title: 8000051 Outlook.com skrypt o długim czasie działania
+title: 8000051 Outlook.com Długo uruchomiony skrypt
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "856"
 - "8000051"
 ms.assetid: 3bac167e-055b-4cfb-ad3f-7b47a7492588
-ms.openlocfilehash: ab5aa86fc52615dcc0542629f827a41bd4c64355
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 219868049b88148849866377abb8549ce8b3dad2007cd35a35fc3dffcaa6ff83
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802355"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024504"
 ---
-# <a name="long-running-script"></a>Skrypt o długim czasie działania
+# <a name="long-running-script"></a>Długi uruchomiony skrypt
 
-Wiemy o problemach dotyczących "długo uruchomionego skryptu" w Outlook.com. W celu obejścia tego problemu Użyj Outlook.com w wersji beta.
+Wiemy o problemach związanych z "długim uruchomionym skryptem" w Outlook.com. Aby obejść ten problem, użyj wersji Outlook.com w wersji beta.
   
-[Dowiedz się więcej o Outlook.com w wersji beta.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Dowiedz się więcej o wersji beta Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
   
