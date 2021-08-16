@@ -1,5 +1,5 @@
 ---
-title: Procedura usunięcia błędu aktywacji pakietu 0x80070005
+title: Procedura rozwiązywania problemu z błędami aktywacji pakietu Office 0x80070005
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "914"
 - "2000021"
 ms.assetid: d291c13a-723e-4425-8e49-baa465ec2505
-ms.openlocfilehash: 70f349cf09bb0204f958735724633904b01672b7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 086c2db7775baabeb5c66eda9e767362fef20f98237021a0b348d8e5d50392b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750857"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021426"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Procedura usunięcia błędu aktywacji pakietu 0x80070005
+# <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Procedura rozwiązywania problemu z błędami aktywacji pakietu Office 0x80070005
 
-Jeśli błąd 0x80070005 został uruchomiony po zaktualizowaniu systemu Windows, możesz rozwiązać ten problem, aktualizując rejestr.
+Jeśli komunikat 0x80070005 się po zaktualizowaniu Windows, można rozwiązać ten problem, aktualizując rejestr.
   
-Pobierz i zainstaluj [asystenta odzyskiwania i pomocy technicznej](https://aka.ms/SARA-OfficeActivation-Alchemy) , a następnie uruchom **Narzędzie do rozwiązywania problemów z aktywacją**.
+Pobierz i zainstaluj [Asystent odzyskiwania i pomocy technicznej](https://aka.ms/SARA-OfficeActivation-Alchemy) i uruchom narzędzie do **rozwiązywania problemów z aktywacją.**
   
-Aby uzyskać dodatkową pomoc, zobacz: [Kod błędu pakietu Office 0x80070005 podczas aktywowania pakietu Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)
+Aby uzyskać dodatkową pomoc, zobacz: [Office kod błędu 0x80070005 aktywacji Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)
   
