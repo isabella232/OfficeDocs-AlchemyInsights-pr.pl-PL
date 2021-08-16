@@ -1,5 +1,5 @@
 ---
-title: Komunikat aplikacji platformy Microsoft 365 — nie można znaleźć skojarzonych licencji pakietu Office
+title: Microsoft 365 aplikacji — nie można znaleźć Office skojarzonych licencji
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 16cc9d8d2ede108ea8301f9971f84ac7b6bafaabab8e26edefe15acf66783339
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836217"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064957"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Komunikat aplikacji platformy Microsoft 365 — nie można znaleźć skojarzonych licencji pakietu Office
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 aplikacji — nie można znaleźć Office skojarzonych licencji
 
 Aby naprawić ten błąd, wypróbuj poniższe rozwiązania:
 
@@ -39,10 +39,10 @@ Jeśli problem będzie nadal występował, spróbuj wykonać następujące czynn
 
 - Zresetuj stan aktywacji pakietu Office. Zobacz [Resetowanie stanu aktywacji aplikacji subskrypcji Aplikacje Microsoft 365 dla przedsiębiorstw](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Sprawdź ustawienia zapory, oprogramowania antywirusowego i serwera proxy, aby upewnić się, że nie blokują one dostępu aplikacji platformy Microsoft 365 do Internetu. 
+- Sprawdź ustawienia zapory, oprogramowania antywirusowego i serwera proxy, aby upewnić się, że nie blokują one Microsoft 365 dostępu aplikacji do Internetu. 
 
 Aby poznać dodatkowe rozwiązania do rozwiązywania problemów, zobacz:
 
 [Błędy „Produkt bez licencji” i błędy aktywacji w pakiecie Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Adresy URL i zakresy adresów IP platformy Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[Microsoft 365 Adresy URL i zakresy adresów IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
