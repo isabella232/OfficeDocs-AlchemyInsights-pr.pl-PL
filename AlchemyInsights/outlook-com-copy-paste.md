@@ -1,5 +1,5 @@
 ---
-title: Outlook.com kopiowanie
+title: Outlook.com kopiowanie wklej
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "9000303"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 4dc1944b85da3367947ce01ec45b004abda045e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b70b1b7d2ac743fbd80639546ef9494de8e524071833dc276403391c560bb6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752261"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011094"
 ---
-# <a name="copy-and-paste-in-outlookcom"></a>Kopiowanie i wklejanie w programie Outlook.com
+# <a name="copy-and-paste-in-outlookcom"></a>Kopiowanie i wklejanie w oknie Outlook.com
 
-W programie Outlook.com nie ma przycisków Kopiuj lub Wklej, ale można używać skrótów klawiaturowych:
+W oknie aplikacji Outlook.com nie ma przycisków kopiowania ani wklejania, ale możesz używać skrótów klawiaturowych:
 
-**Na komputerze PC:** Naciśnij klawisze CTRL + C, aby skopiować, CTRL + X, aby wyciąć, a następnie klawisze CTRL + V, aby wkleić.
+**Na komputerze:** Klawisze CTRL+C do skopiowania, CTRL+X w celu wycięcia i CTRL+V do wklejenia.
 
-**Na komputerze Mac:** CMD + C, aby skopiować, a następnie polecenie, a następnie klawisze Cmd + V, aby wkleić.
+**Na komputerze Mac:** Klawisze CMD+C do kopiowania, CMD+X do wycięcia i CMD+V do wklejenia.

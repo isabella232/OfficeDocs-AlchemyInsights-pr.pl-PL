@@ -1,5 +1,5 @@
 ---
-title: Nie można usunąć zdjęć lub plików z plików w Outlook.com
+title: Nie można usunąć zdjęć lub plików z pliku w jęz. Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,15 +15,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: da04d3d8c9bca3f6e0e44a3a55b158e1d7b00fde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 98118c2db5468b1bca9f00014dc8221469fba7b050f4d93ec8d4707812517de9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753125"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064322"
 ---
-# <a name="cant-delete-files-or-photos-from-files"></a>Nie można usuwać plików lub zdjęć z plików
+# <a name="cant-delete-files-or-photos-from-files"></a>Nie można usunąć plików ani zdjęć z plików
 
-W Outlook.com **plików** są wyświetlane pliki i zdjęcia dołączone do wiadomości w skrzynce pocztowej. Aby usunąć pliki i zdjęcia z plików, należy usunąć wiadomości e-mail, do których są dołączone. Po usunięciu wiadomości musisz również usunąć je z folderu Elementy usunięte.
+W Outlook.com w **folderze Pliki** są wyświetlane pliki i zdjęcia dołączone do wiadomości w skrzynce pocztowej. Aby usunąć pliki i zdjęcia z pliku, musisz usunąć wiadomości e-mail, do których zostały dołączone. Po usunięciu wiadomości musisz również usunąć je z folderu Elementy usunięte.
 
-Aby dowiedzieć się więcej, zobacz [usuwanie plików lub zdjęć w Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).
+Aby dowiedzieć się więcej, [przeczytaj Jak usuwać pliki lub zdjęcia w większej Outlook.com.](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy)

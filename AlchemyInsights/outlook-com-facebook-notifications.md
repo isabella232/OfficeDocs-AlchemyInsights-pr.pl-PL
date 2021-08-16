@@ -1,5 +1,5 @@
 ---
-title: Powiadomienia w serwisie Facebook Outlook.com
+title: Outlook.com Powiadomienia z serwisu Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: f9d5b94abda70c7383221a0d04c01a6f43f16100
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b1276c7639fae8c5d3885f532995ea458abcca102288e82a9324a2f5d4bcfee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672138"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010986"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>Powiadomienia w serwisie Facebook za pomocą Outlook.com
+# <a name="facebook-notifications-using-outlookcom"></a>Powiadomienia z serwisu Facebook przy użyciu Outlook.com
 
-Jeśli nie chcesz otrzymywać powiadomień z serwisu Facebook, możesz zmienić [Ustawienia serwisu Facebook](https://aka.ms/facebook-notifications-settings) lub skonfigurować regułę skrzynki odbiorczej.
+Jeśli nie chcesz otrzymywać powiadomień z serwisu Facebook, możesz zmienić ustawienia serwisu [Facebook](https://aka.ms/facebook-notifications-settings) lub skonfigurować regułę skrzynki odbiorczej.
 
-1. Przejdź do [ustawień reguły](https://outlook.live.com/mail/options/mail/rules/inboxRules).
-1. Wybierz pozycję **Dodaj nową regułę**.
-1. Nadaj regule nazwę "Facebook".
-1. Dodaj warunek "od" i wprowadź "notification@facebookmail.com"
-1. Dodaj akcję "Usuń". Wybranie pozycji Usuń oznacza, że wiadomości pozostają w usuniętych elementach i można je odzyskać. Jeśli wybierzesz pozycję "Oznacz jako wiadomość-śmieć", wiadomości zostaną automatycznie usunięte i nie będzie można ich odzyskać.
+1. Przejdź do [ustawień Reguły.](https://outlook.live.com/mail/options/mail/rules/inboxRules)
+1. Wybierz **pozycję Dodaj nową regułę**.
+1. Nadaj reguły nazwę "Facebook".
+1. Dodaj warunek "Od" i wprowadź "notification@facebookmail.com"
+1. Dodawanie akcji "Usuń". Wybranie pozycji Usuń spowoduje, że wiadomości pozostaną w folderu Elementy usunięte i będzie można je odzyskać. Jeśli wybierzesz pozycję Oznacz jako wiadomość-śmieć, wiadomości zostaną automatycznie usunięte i nie będzie można ich odzyskać.
 1. Wybierz **Zapisz**.
