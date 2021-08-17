@@ -1,5 +1,5 @@
 ---
-title: Opróżnianie folderu Elementy usunięte w programie Outlook.com
+title: Opróżnianie folderu Elementy usunięte w Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f17cefcc981fc2637aa0c90f4b476289b97e7969a26588664baf67485daf5d5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672462"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111806"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Opróżnianie folderu Elementy usunięte
 
 1. Otwórz folder Elementy usunięte i wybierz pozycję **Opróżnij folder**.
-2. Wybierz pozycję **elementy odzyskiwalne** u góry strony i ponownie wybierz pozycję **pusty folder** .
+2. Wybierz **pozycję Elementy do odzyskania** u góry strony i ponownie wybierz pozycję **Opróżnij folder.**
 
-**Opróżnianie folderu Elementy usunięte nie powiodło się**
+**Nie można opróżnić folderu Elementy usunięte**
 
-- Jeśli usunięto mnóstwo wiadomości e-mail, może upłynąć trochę czasu, zanim te elementy zostaną przeniesione lub usunięte z folderu Elementy usunięte. Pozostawienie otwartego okna przeglądarki podczas usuwania.
-- Jeśli wiadomości e-mail nadal nie można usunąć poprawnie, wybierz mniejszą partię do usunięcia.
-- Jeśli usunięto wiadomości e-mail, może to wynikać z faktu, że ostatnio usunięto wiele wiadomości e-mail. Spróbuj ponownie później.
+- Jeśli usunięto dużą część wiadomości e-mail, przeniesienie tych elementów do folderu Elementy usunięte lub ich usunięcie może trochę potrwać. Pozostaw okno przeglądarki otwarte podczas usuwania.
+- Jeśli nadal nie można poprawnie usunąć wiadomości e-mail, wybierz mniejszą partię do usunięcia.
+- Jeśli usunięta wiadomość e-mail powraca, może to być spowodowane niedawnym usunięciem wielu wiadomości e-mail. Spróbuj ponownie później.

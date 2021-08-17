@@ -1,5 +1,5 @@
 ---
-title: Usługa Microsoft Defender dla Office 365 dla SharePoint, OneDrive i Microsoft Teams
+title: Program Microsoft Defender Office 365 dla SharePoint, OneDrive i Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 9051fb44d7d6bde388d279b3311627848b6f499e30b5eca00d6a47cef105fb77
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0d0fff3e699d46af2a19a8ad60696b824bafa109
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53997144"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314972"
 ---
-# <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Usługa Microsoft Defender dla Office 365 dla SharePoint, OneDrive i Microsoft Teams
+# <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Program Microsoft Defender Office 365 dla SharePoint, OneDrive i Microsoft Teams
 
 Wykonaj poniższe czynności, aby włączyć program Microsoft Defender dla Office 365:
 
@@ -26,10 +26,10 @@ Wykonaj poniższe czynności, aby włączyć program Microsoft Defender dla Offi
 
 2. W lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami** wybierz **pozycję Zasady** \> **Sejf załączników**.
 
-3. Wybierz **pozycję Włącz defender dla Office 365, SharePoint, OneDrive i Microsoft Teams.**
+3. Wybierz **pozycję Włącz defender dla Office 365 dla SharePoint, OneDrive i Microsoft Teams.**
 
-4. [Utwórz zasady alertów aktywności, aby](/microsoft-365/compliance/create-activity-alerts) otrzymywać powiadomienia po wykryciu złośliwych plików.
+4. [Utwórz zasady alertów aktywności, aby](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) otrzymywać powiadomienia po wykryciu złośliwych plików.
 
-Aby uzyskać pełne instrukcje, zobacz Włączanie [załączników Sejf załączników](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)wiadomości SharePoint, OneDrive i Microsoft Teams.
+Aby uzyskać pełne instrukcje, zobacz Włączanie [załączników Sejf dla plików SharePoint,](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)OneDrive i Microsoft Teams.
 
-**Uwaga:** Program Microsoft Defender for Office 365 domyślnie nie skanuje wszystkich plików w aplikacjach SharePoint Online, OneDrive dla Firm i Microsoft Teams. Pliki są skanowane asynchronicznie przez proces, który do identyfikowania złośliwych plików używa aktywności udostępniania, aktywności gościa i sygnałów zagrożeń. Aby uzyskać więcej informacji, [zobacz Sejf załączniki do SharePoint, OneDrive i Microsoft Teams.](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+**Uwaga:** Program Microsoft Defender for Office 365 domyślnie nie skanuje wszystkich plików w aplikacjach SharePoint Online, OneDrive dla Firm i Microsoft Teams. Pliki są skanowane asynchronicznie przez proces, który identyfikuje złośliwe pliki za pomocą aktywności udostępniania, aktywności gościa i sygnałów zagrożeń. Aby uzyskać więcej informacji, [zobacz Sejf załączniki wiadomości SharePoint, OneDrive i Microsoft Teams.](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)

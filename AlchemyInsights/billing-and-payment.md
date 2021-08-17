@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893065"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314926"
 ---
 # <a name="billing-and-payment"></a>Rozliczenia i płatności
 
@@ -46,8 +46,7 @@ Jeśli dodano nową kartę, a na starej karcie kredytowej nadal jest nowe powiad
 
 4. Aby użyć istniejącej metody płatności, wybierz ją z listy rozwijanej, a następnie wybierz pozycję **Zastąp**.
 
-    > [!NOTE]
-    > Jeśli masz subskrypcje skojarzone z profilem rozliczeń, możesz płacić za nie tylko za pomocą karty kredytowej lub debetowej. Jeśli masz konta bankowe wymienione na stronie **Metody płatności**, nie są one dostępne do wybrania z listy rozwijanej.
+    **Uwaga:** Jeśli masz subskrypcje skojarzone z profilem rozliczeniowym, do płacenia za nie możesz użyć tylko karty kredytowej lub debetowej. Jeśli masz konta bankowe wymienione na stronie **Metody płatności**, nie są one dostępne do wybrania z listy rozwijanej.
 
 5. Aby dodać nową metodę płatności, wybierz pozycję **Dodaj metodę płatności**.
 

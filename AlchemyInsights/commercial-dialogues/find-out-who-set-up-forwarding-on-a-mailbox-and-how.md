@@ -1,5 +1,5 @@
 ---
-title: Dowiedz się, kto s skonfigurować przesyłanie dalej w skrzynce pocztowej, i jak to zrobić
+title: Dowiedz się, kto s skonfigurować przesyłanie dalej w skrzynce pocztowej i jak to zrobić
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 6243e787bb6b51f26cf22782d9ec80f946430b864f53de7ea626b7166a674d2c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7746e44a0ee5a4442051900985aab339b09652f08e412b02a02429c93cc7c107
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988216"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895189"
 ---
-# <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Dowiedz się, kto s skonfigurować przesyłanie dalej w skrzynce pocztowej, i jak to zrobić
+# <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Dowiedz się, kto s skonfigurować przesyłanie dalej w skrzynce pocztowej i jak to zrobić
 
-Jeśli dla skrzynki pocztowej ustawiono zewnętrzne przesyłanie dalej, to działanie jest podlega inspekcji w ramach polecenia cmdlet Set-Mailbox cmdlet. Aby znaleźć działanie w dzienniku inspekcji:
+Jeśli dla skrzynki pocztowej ustawiono przesyłanie dalej zewnętrzne, działanie jest przekazywane w ramach polecenia cmdlet **Set-Mailbox.** Aby znaleźć działanie w dzienniku inspekcji:
 
-1. Przejdź do centrum [Office 365 zabezpieczeń & zgodności.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Wybierz **pozycję** >  **Przeszukiwanie dziennika inspekcji wyszukiwania**.
-    > [!NOTE]
-    > Jeśli zobaczysz powiadomienie, że musisz włączyć inspekcję, możesz włączyć ją teraz. Jeśli ta funkcja nie jest włączona, wyniki wyszukiwania nie będą mogły ściągać danych z poprzednich dat.
-1. Upewnij się, **że pole Działania** ma ustawioną wartość Pokaż wyniki dla wszystkich **działań** (ustawienie domyślne). Określ zakres dat. Nie musisz określać nazwy użytkownika.
-1. Wybierz **pozycję Wyszukaj**. Działania zostaną wyświetlone w obszarze **Wyniki**.
-1. Wybierz **pozycję Filtruj** wyniki , a następnie **wprowadź set-mailbox** w polu **filtru** Działanie. Zwraca wszystkie działania **set-mailbox.**
-1. Aby wyświetlić szczegóły, wybierz działanie, a następnie wybierz **pozycję Więcej informacji.** W **obszarze** Parametry możesz zobaczyć adres e-mail przesyłania dalej ustawiony w skrzynce pocztowej. Identyfikator **użytkownika to** użytkownik, który schowyzda zewnętrzną usługę przesyłania dalej w skrzynce pocztowej.
-Aby dowiedzieć się więcej, zobacz [Przeszukiwanie dziennika Office 365 w celu rozwiązania typowych scenariuszy.](https://go.microsoft.com/fwlink/?linkid=2103944)
+1. Wykonaj jedną z następujących czynności:
+   - Na stronie Centrum zgodności platformy Microsoft 365 <https://compliance.microsoft.com> przejdź do **tematu Inspekcja** \> **rozwiązań.** Aby przejść bezpośrednio do strony **Inspekcja,** użyj <https://compliance.microsoft.com/auditlogsearch> .
+   - W portalu Microsoft 365 Defender w <https://security.microsoft.com> witrynie przejdź do tematu **Inspekcja**. Aby przejść bezpośrednio do strony **Inspekcja,** użyj <https://security.microsoft.com/auditlogsearch> .
+
+   > [!NOTE]
+   > Jeśli zobaczysz powiadomienie, że musisz włączyć inspekcję, możesz włączyć ją teraz. Jeśli ta funkcja nie jest włączona, wyniki wyszukiwania nie będą mogły ściągać danych z poprzednich dat.
+
+2. Na stronie **Inspekcja** sprawdź, czy jest **zaznaczona** karta Wyszukiwanie, a następnie skonfiguruj następujące ustawienia:
+   - Zaznacz zakres dat i godzin w **polach Rozpoczęcie** **i** Koniec.
+   - Sprawdź, **czy pole Działania** zawiera pole Pokaż wyniki dla wszystkich **działań.**
+
+3. Po zakończeniu kliknij pozycję **Wyszukaj**. Działania zostaną wyświetlone na nowej **stronie Przeszukiwanie** inspekcji.
+
+4. W wynikach kliknij **kolumnę** Działanie, aby posortować wyniki, a następnie odszukaj pozycje **Set-Mailbox.**
+
+5. Wybierz działanie w wynikach, aby otworzyć wysuwne szczegóły. Aby ustalić, czy dane działanie jest związane z przesyłaniem dalej poczty e-mail, należy przyjrzeć się szczegółom każdego rekordu inspekcji:
+   - **ObjectId:** wartość aliasu zmodyfikowanej skrzynki pocztowej.
+   - **Parametry:** _ForwardingSmtpAddress_ wskazuje docelowy adres e-mail.
+   - **UserId**: Użytkownik, który skonfigurował przesyłanie dalej poczty e-mail w skrzynce pocztowej w polu **ObjectId.**
+
+Aby uzyskać więcej informacji, zobacz Określanie, kto s skonfigurować [przesyłanie dalej poczty e-mail dla skrzynki pocztowej.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)

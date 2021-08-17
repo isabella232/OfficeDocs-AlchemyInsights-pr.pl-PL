@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 529cba87af48c38f7a82ece63713f58a90fb61518e4ae6b6e41f0b4905dcd5ae
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 56d689521d8438cedf797d8f7e524c542fbf3fedeb3a0caaf92b6b2cff1dd9bb
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54091142"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895129"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Zgłaszanie podejrzanych wiadomości e-mail, adresów URL lub załączników
 
-Rozumiem, że potrzebujesz pomocy w zbadaniu podejrzanej wiadomości e-mail lub nieprawidłowej wiadomości e-mail, która została nieprawidłowo odfiltrowana. Mogę pomóc Ci w przesłaniu problemu do analizy za pomocą Eksploratora przesyłania, który natychmiast udzieli Ci opinii. Poniżej podsumowaliśmy kroki:
+Rozumiem, że potrzebujesz pomocy w zbadaniu podejrzanej wiadomości e-mail lub nieprawidłowej wiadomości e-mail, która została nieprawidłowo odfiltrowana. Mogę pomóc Ci w przesłaniu problemu do analizy za pomocą portalu **Przesyłanie,** który natychmiast udzieli Ci opinii. Poniżej podsumowaliśmy kroki:
 
-1. Przejdź do Centrum [Office 365 zabezpieczeń &](https://go.microsoft.com/fwlink/p/?linkid=2077143), a następnie przejdź do przesyłania zarządzania   >  [zagrożeniami.](https://go.microsoft.com/fwlink/?linkid=2101521)
-2. Wybierz **pozycję + Nowe przesyłanie.** Zostanie wyświetlone wysuwne menu z opcją przesyłania wiadomości e-mail, adresu URL lub pliku.
-    > [!NOTE]
-    > Poinformuj użytkowników, że powinni zgłosić wszystkie podejrzane wiadomości w swoich skrzynkach odbiorczych firmie Microsoft za pomocą dodatku do zgłaszania [wiadomości.](https://go.microsoft.com/fwlink/?linkid=2092385)
+1. W portalu Microsoft 365 Defender pod adresem , przejdź do tematu Przesyłanie <https://security.microsoft.com> & **e-mail** \> .
+
+   Aby przejść bezpośrednio do **strony Materiały,** <https://security.microsoft.com/reportsubmission> użyj .
+
+2. Na stronie **Przesłane sprawdź,** czy jest **zaznaczona** karta Przesłane do analizy, a następnie kliknij pozycję **+ Prześlij do firmy Microsoft w celu analizy.**
+
+3. Zostanie wyświetlone wysuwne menu z opcją przesyłania wiadomości e-mail, adresu URL lub pliku.
+
+Aby uzyskać więcej informacji, zobacz Przesyłanie przez administratora w celu przesyłania podejrzeń o spam, wyłudzy, adresy URL [i pliki do firmy Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
+
+> [!NOTE]
+> Poinformuj użytkowników, że powinni zgłosić podejrzane wiadomości w skrzynce odbiorczej za pomocą dodatku Report Message (Wiadomość raportu) lub [dodatku Do wyłudzania informacji (Report Phishing).](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

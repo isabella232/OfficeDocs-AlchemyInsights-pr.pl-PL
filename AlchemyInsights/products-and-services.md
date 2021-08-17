@@ -13,20 +13,19 @@ ms.custom:
 - commerce_subscriptions
 - "9001669"
 - "3736"
-ms.openlocfilehash: 09ab3c915a2874363ca58d8f6b4c8c5612e0c45f7d133460d6fc61bfacc8ab4f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 67201f14f6ec304507be0b1c3509aa54047244da
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54009870"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314502"
 ---
 # <a name="your-products"></a>Twoje produkty
 
 Subskrypcje należące do Twojej organizacji możesz znaleźć na **stronie** Rozliczenia  >  [Twoje](https://go.microsoft.com/fwlink/p/?linkid=842054) produkty. Poniżej znajdują się niektóre najważniejsze informacje na tej stronie wraz z linkami, które zawierają więcej informacji na temat poszczególnych funkcji:
 
 1. Wyświetl liczbę przypisanych licencji i liczbę licencji zakupionych dla każdej subskrypcji.
-    > [!NOTE]
-    > Opłata za licencje, które nie są w użyciu (nie jest przypisana do użytkownika), nadal jest naliczana. Aby nie pobierać opłaty za nieużywane licencje, zmniejsz liczbę zakupionych licencji. Aby uzyskać informacje na temat dodawania lub usuwania licencji z subskrypcji, zobacz Jak dodawać lub [zmniejszać licencje.](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)
+    **Uwaga:** opłata za licencje, które nie są w użyciu (nie jest przypisana do użytkownika), nadal jest naliczana. Aby nie była pobierana opłata za nieużywane licencje, zmniejsz liczbę zakupionych licencji. Aby uzyskać informacje na temat dodawania lub usuwania licencji z subskrypcji, zobacz Jak dodawać lub [zmniejszać licencje.](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)
 2. Wyświetl stan poszczególnych subskrypcji. Aby dowiedzieć się, jak ponownie aktywować subskrypcję, zobacz [Ponowne aktywowanie subskrypcji.](reactivate-your-subscription.md)
 3. Wyświetl datę odnowienia lub wygaśnięcia każdej subskrypcji. Możesz zarządzać odnawianiem, wybierając subskrypcję, a następnie wybierając pozycję **Edytuj rozliczenia cykliczne**. Aby dowiedzieć się, jak zarządzać rozliczeniami cyklicznmi, zobacz [Zarządzanie rozliczaniem cyklicznym.](manage-auto-renewal.md)
 4. Wyświetl metodę płatności używaną dla każdej subskrypcji. Aby dowiedzieć się, jak zmienić metodę płatności, zobacz [Zmienianie formy płatności.](change-payment-method.md)

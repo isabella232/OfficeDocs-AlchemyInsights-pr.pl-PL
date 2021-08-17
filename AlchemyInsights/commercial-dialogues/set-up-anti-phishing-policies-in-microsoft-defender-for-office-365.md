@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: bf7b6763111c92ab9b01d991a8c9598890fb973e04e66a24b1f21863e11e2d91
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313437"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895093"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Konfigurowanie zasad ochrony przed wyłudzaniem informacji w programie Microsoft Defender dla Office 365
 
-1. W portalu Microsoft 365 Defender w sekcji Zasady ochrony przed wyłudzaniem informacji przejdź & e-mail i zasad & zasady zagrożeń zapobiegające wyłudzaniu <https://security.microsoft.com/>  \>  \>  \>  informacji. 
+1. W portalu Microsoft 365 Defender pod adresem przejdź do sekcji Zasady & <https://security.microsoft.com/>  \>  \>  \> **e-mail**  & zasady zagrożeń zapobiegające wyłudzaniu informacji.
 
    Aby przejść bezpośrednio do strony ochrony **przed wyłudzaniem** informacji, <https://security.microsoft.com/antiphishing> użyj .
 
@@ -31,4 +31,4 @@ ms.locfileid: "58313437"
 
 3. Po przejrzeniu ustawień wybierz pozycję **Prześlij** (nowy) lub **Zapisz** (edytuj).
 
-Aby uzyskać więcej informacji, zobacz [Konfigurowanie zasad ochrony przed wyłudzaniem informacji w programie Microsoft Defender dla Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies)
+Aby uzyskać więcej informacji, zobacz Konfigurowanie zasad ochrony przed wyłudzaniem [informacji w programie Microsoft Defender dla Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies)

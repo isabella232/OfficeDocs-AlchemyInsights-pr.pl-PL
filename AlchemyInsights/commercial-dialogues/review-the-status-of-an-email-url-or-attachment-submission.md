@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 170219c96a82a00db66757874c9d0c447e9064c626331b153e070ad9010f7e7b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c93f281d8d9a19eb31df7c265a963e93089a0ef5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081836"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314818"
 ---
 # <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>Przeglądanie stanu przesyłania wiadomości e-mail, adresu URL lub załącznika
 
@@ -25,5 +25,4 @@ Po przesłaniu wiadomości e-mail, adresu URL lub załącznika możesz sprawdzi�
 
 Na stronie będzie widać postęp przesyłania, a także możesz przejść do szczegółów poprzednich przesyłania, aby wyświetlić szczegóły przesłania i wyniki.
 
-> [!NOTE]
-> Po przesłaniu elementu za pomocą Eksploratora przesyłania może mi potrwać kilka minut, aby uzyskać wyniki.
+**Uwaga:** Po przesłaniu elementu za pomocą Eksploratora przesyłania może mi potrwać kilka minut, aby wyniki się pojawiły.
