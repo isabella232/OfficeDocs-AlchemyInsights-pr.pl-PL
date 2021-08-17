@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "87"
 - "1400001"
-ms.openlocfilehash: 23f136bdadcb892356c6faf8fd8ae8481aa8ff83
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 132ae114cac8c2ae1af7495c960b962fadd547522c03b9887f9bde481fff4bba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686932"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893965"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Anulujesz subskrypcję Microsoft 365?
 
@@ -33,4 +33,4 @@ Na podstawie danych Twojej organizacji sądzimy, że wszystkie Twoje bieżące s
 
 **Zwrot kosztów:** Wszelkie proporcjonalnie do zwrotu środków zostaną ci zwrócone w następnym cyklu rozliczeniowym.
 
-Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

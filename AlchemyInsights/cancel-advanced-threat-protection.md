@@ -14,22 +14,22 @@ ms.custom:
 - commerce_subscriptions
 - "9003019"
 - "5777"
-ms.openlocfilehash: a7d4bd596c12609385b35d520dd1179a8c4a49b8f3d9e630ff6c3cf1acaae761
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c8c82257467a484205c4fcbb218b2441244915f943ed8d984c9d41767c676d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059416"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894033"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Anuluj zaawansowaną ochronę przed zagrożeniami
 
 Administratorzy mogą anulować subskrypcję zaawansowanej ochrony przed zagrożeniami dla swojej organizacji w centrum administracyjne platformy Microsoft 365.
 
 1. Przejdź na stronę  >  [Rozliczenia Twoje](https://go.microsoft.com/fwlink/p/?linkid=842054) produkty.
-2. Na karcie **Produkty** znajdź plan Zaawansowanej ochrony przed zagrożeniami, który chcesz anulować. Wybierz trzy kropki (więcej akcji), a następnie wybierz Anuluj **subskrypcję**.
+2. Na karcie **Produkty** znajdź plan zaawansowanej ochrony przed zagrożeniami, który chcesz anulować. Wybierz trzy kropki (więcej akcji), a następnie wybierz Anuluj **subskrypcję**.
 3. W **okienku Anulowanie** subskrypcji wybierz powód anulowania. Opcjonalnie możesz przekazać opinię.
 4. Wybierz **Zapisz**.
 
 **Zwrot kosztów:** Wszelkie proporcjonalnie do zwrotu środków zostaną ci zwrócone w następnym cyklu rozliczeniowym.
 
-Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

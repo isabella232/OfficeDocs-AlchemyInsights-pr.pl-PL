@@ -1,5 +1,5 @@
 ---
-title: Co zrobić, jeśli funkcje platformy Azure nie działają poprawnie w programie Microsoft Edge
+title: Co zrobić, jeśli funkcje platformy Azure nie działają poprawnie w Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004128"
 - "7206"
-ms.openlocfilehash: 463236bcd9ff480471604c992aa1ed1ed4ac2987
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: e188ecb375f3d84b45a1a7718b3c0b797c756f822ba64b3824976fe79c1e8298
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583787"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117098"
 ---
-# <a name="what-to-do-if-azure-features-dont-work-properly-in-microsoft-edge"></a>Co zrobić, jeśli funkcje platformy Azure nie działają poprawnie w programie Microsoft Edge
+# <a name="what-to-do-if-azure-features-dont-work-properly-in-microsoft-edge"></a>Co zrobić, jeśli funkcje platformy Azure nie działają poprawnie w Microsoft Edge
 
-W programie Microsoft Edge występują [znane problemy](https://go.microsoft.com/fwlink/?linkid=2140608) dotyczące stref zabezpieczeń, które mogą wpływać na sposób logowania użytkowników platformy Azure do centrum administracyjnego systemu Windows. Jeśli masz problemy z korzystaniem z funkcji platformy Azure w programie Microsoft Edge, spróbuj wykonać następujące czynności:
+Microsoft Edge mają [znane problemy związane](https://go.microsoft.com/fwlink/?linkid=2140608) ze strefami zabezpieczeń i mogą mieć wpływ na sposób logowania się użytkowników platformy Azure do Windows administracyjnego. Jeśli masz problem z używaniem funkcji platformy Azure z usługą Microsoft Edge, spróbuj wykonać następujące czynności:
 
-1. W menu **Start** Wyszukaj polecenie **Opcje internetowe** i wybierz je.
-2. W oknie dialogowym **Właściwości internetowe** przejdź do karty **zabezpieczenia** .
-3. Wybierz strefę **Zaufane witryny** , a następnie wybierz przycisk **witryny** .
-4. W oknie dialogowym **Zaufane witryny** Dodaj adres URL bramy oraz [https://login.microsoftonline.com](https://login.microsoftonline.com) [https://login.live.com](https://login.live.com) pozycję, a następnie wybierz pozycję **Zamknij**.
-5. W oknie dialogowym **Właściwości internetowe** przejdź do karty **prywatność** .
-6. W sekcji **Blokowanie wyskakiwania okien** wybierz pozycję **Ustawienia**. W otwartym oknie dialogowym Dodaj adres URL bramy oraz [https://login.microsoftonline.com](https://login.microsoftonline.com) [https://login.live.com](https://login.live.com) pozycję, a następnie wybierz pozycję **Zamknij**.
+1. W menu **Start** wyszukaj polecenie **Opcje internetowe** i wybierz je.
+2. W **oknie dialogowym** Właściwości internetowe przejdź do **karty Zabezpieczenia.**
+3. Wybierz **strefę Zaufane witryny,** a następnie wybierz **przycisk** Witryny.
+4. W **oknie dialogowym Zaufane** witryny dodaj adres URL bramy oraz pozycję , a [https://login.microsoftonline.com](https://login.microsoftonline.com) następnie wybierz pozycję [https://login.live.com](https://login.live.com) **Zamknij**.
+5. W **oknie dialogowym** Właściwości internetowe przejdź do **karty Prywatność.**
+6. W sekcji **Blokowanie wyskakujących okienek** wybierz pozycję **Ustawienia**. W oknie dialogowym, które zostanie otwarte, dodaj adres URL bramy oraz pozycję , a [https://login.microsoftonline.com](https://login.microsoftonline.com) następnie wybierz pozycję [https://login.live.com](https://login.live.com) **Zamknij**.

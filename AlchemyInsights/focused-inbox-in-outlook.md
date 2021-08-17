@@ -1,5 +1,5 @@
 ---
-title: 1800019 priorytetowa Skrzynka odbiorcza w programie Outlook
+title: 1800019 skrzynki odbiorczej z Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom:
 - "908"
 - "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: d6aa9482d1b424ab52b7f38ee4f731055d2d13ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 37a19bc27b04cdb5d1682f46087fb4286d8f0aeba13300a0dbf3ca549d9dd402
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744483"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117026"
 ---
-# <a name="focused-inbox-in-outlook"></a>Priorytetowa Skrzynka odbiorcza w programie Outlook
+# <a name="focused-inbox-in-outlook"></a>Focused Inbox in Outlook
 
-Priorytetowa Skrzynka odbiorcza oddziela skrzynkę odbiorczą na dwóch kartach — według priorytetu i innych. Najważniejsze wiadomości znajdują się na karcie priorytetowe, gdy pozostała część pozostała do łatwego dostępu — ale nie na karcie inne.
+Focused Inbox separates your inbox into two tabs — Focused and Other. Najważniejsze wiadomości znajdują się na karcie Focused, a pozostałe pozostaną łatwo dostępne — ale nie na drodze — na karcie Inne.
   
-[Program Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409)  |  [Outlook w sieci Web](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409)  |  [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409)  |  [Outlook 2016 dla komputerów Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409)  |  [Poczta dla systemu Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
+[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409)  |  [Outlook w sieci Web](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409)  |  [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409)  |  [Outlook 2016 dla komputerów Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409)  |  [Poczta dla Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
   
-Dowiedz się więcej:
+Dowiedz się więcej: 
   
-- [Wyświetlanie priorytetowej skrzynki odbiorczej w ramach akcji](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
+- [Wyświetlanie focused skrzynki odbiorczej w działaniu](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
 
-- [Konfigurowanie priorytetowej skrzynki odbiorczej dla wszystkich w organizacji za pomocą programu PowerShell](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
+- [Konfigurowanie focused inbox for everyone in your organization with PowerShell](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)

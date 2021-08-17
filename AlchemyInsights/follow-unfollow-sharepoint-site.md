@@ -1,5 +1,5 @@
 ---
-title: Obserwowanie lub anulowanie działania witryny programu SharePoint
+title: Obserwowanie lub co innego obserwowanie SharePoint witryny
 ms.author: pebaum
 author: v-miegge
 ms.date: 04/21/2020
@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 254f67b606d013e08dc80d320b1bc611f031cea0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 077a72c56e8adc4617efe2d98e11069684c2f4227e2590144017be30fb19548e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744441"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116990"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Obserwowanie lub anulowanie działania witryny programu SharePoint
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Obserwowanie lub co innego obserwowanie SharePoint witryny
 
-Jeśli w przypadku użytkowników występują problemy obserwowania lub obserwowania zasobów programu SharePoint, wykonaj następujące czynności:
+Jeśli użytkownicy mają problemy z obserwowanie lub cofanie następujących SharePoint zasobów, wykonaj następujące czynności:
 
-* Poproś użytkownika, aby wylogować się i zalogować się ponownie do programu SharePoint, i spróbuj wykonać te same czynności, aby obserwować zasób programu SharePoint/go obserwować.
-* Ustal, czy problem dotyczy określonej witryny, czy wszystkich witryn. Jeśli problem występuje w określonych witrynach, upewnij się, że funkcja "obserwowania zawartości" jest aktywna dla witryny, przechodząc do **ustawień witryny > Zarządzanie funkcjami witryny > poniższej zawartości**. Jeśli ta funkcja jest ustawiona na aktywna, spróbuj ponownie aktywować i uaktywnić tę funkcję dla witryny.
-* Poproś użytkownika o wypróbowanie innej przeglądarki internetowej, aby sprawdzić, czy problem jest specyficzny dla przeglądarki użytkownika.
-* Jeśli wszyscy użytkownicy i wszystkie witryny mają ten sam problem, sprawdź [Stan usług pulpitu nawigacyjnego kondycja](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , aby sprawdzić, czy Twoja organizacja ma wpływ na działanie.
+* Poproś użytkownika o wylogowanie się i zalogowanie się z powrotem do aplikacji SharePoint i wypróbowanie tych samych czynności w celu obserwowania/cofniania obserwowania SharePoint zasobu.
+* Określ, czy problem dotyczy konkretnej witryny, czy wszystkich witryn. Jeśli ten problem występuje w przypadku określonych witryn, upewnij się, że w witrynie jest aktywna funkcja "Following Content" (Następująca zawartość), przechodząc do witryny Ustawienia > Zarządzanie funkcjami witryny i **> Following Content (Następująca zawartość).** Jeśli ta funkcja jest ustawiona na Aktywna, spróbuj dezaktywować i ponownie aktywować tę funkcję dla witryny.
+* Poproś użytkownika o wypróbowanie innej przeglądarki internetowej w celu sprawdzić, czy problem nie jest specyficzny dla przeglądarki użytkownika.
+* Jeśli u wszystkich użytkowników i wszystkich witryn występuje [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ten sam problem, sprawdź na pulpicie nawigacyjnym kondycji usług, czy jest to wpływ na Twoją organizację.

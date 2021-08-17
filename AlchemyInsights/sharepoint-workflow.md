@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z przepływami pracy w programie SharePoint
+title: Rozwiązywanie problemów z przepływami pracy w SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -15,23 +15,23 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 93ce636c1cb4dd9f25b47861da22c30b6db6953c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 34d7029c90b4f2a71e7f621a0b20fe4de3365f0f6182cd5b125a8c1a6055222a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58304775"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894137"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>Rozwiązywanie problemów z przepływami pracy w programie SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>Rozwiązywanie problemów z przepływami pracy w SharePoint
 
 Więcej informacji można znaleźć w następujących artykułach:
 
 - [Rozwiązywanie problemów SharePoint sprawdzania poprawności przepływu pracy](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
 - [Debugowanie SharePoint przepływów pracy.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
-- [Zbieranie SharePoint rozwiązywania problemów z przepływem pracy 2013 za pomocą showScopeDebugInfo](https://docs.microsoft.com/sharepoint/troubleshoot/workflows/gather-workflow-data)
+- [Zbieranie SharePoint 2013 Workflow troubleshooting data with ShowScopeDebugInfo](https://docs.microsoft.com/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
 **Power Automate**
 
-Jeśli dopiero zaczynasz pracę z przepływami pracy, rozważ używanie aplikacji [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) zamiast klasycznych SharePoint przepływów pracy.
+Jeśli dopiero zaczynasz pracę z przepływami [](https://docs.microsoft.com/power-automate/modern-approvals) pracy, zamiast Power Automate klasycznych SharePoint przepływów pracy.
 
-Aby uzyskać więcej informacji, [zobacz wycofywanie SharePoint przepływów pracy.](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)
+Aby uzyskać więcej informacji, [SharePoint wycofywanie przepływów pracy.](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)
