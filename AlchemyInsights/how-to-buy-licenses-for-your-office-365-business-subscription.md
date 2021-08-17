@@ -1,5 +1,5 @@
 ---
-title: Jak kupić licencje dla subskrypcji Aplikacje Microsoft 365 dla firm subskrypcji
+title: Jak kupić licencje dla subskrypcji Aplikacje Microsoft 365 dla firm firmowej
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - commerce_licensing
 - "652"
 - "2000017"
-ms.openlocfilehash: 51c3e5ed3398b8d341bc2e84b8ae56bfd36a07f4de167042891a9ed606a94669
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: aa7eb7f5d3136e158c13ee2948979a4545cae5a5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892549"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313121"
 ---
-# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Jak kupić licencje dla subskrypcji Aplikacje Microsoft 365 dla firm subskrypcji
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Jak kupić licencje dla subskrypcji Aplikacje Microsoft 365 dla firm firmowej
 
 Podczas przypisywania licencji do użytkowników może okazać się konieczne zakupienie dodatkowych licencji.
 

@@ -14,16 +14,16 @@ ms.custom:
 - "1300023"
 - "3754"
 - "4531"
-ms.openlocfilehash: d0ef27e7c03eb8bcd9de74c58a5e0398d8892a6eb0ab50944b3c2201247fa0b8
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d4615d335b9aeef69148cd93ff9f44bec6d7d876
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889228"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314214"
 ---
 # <a name="active-directory-not-syncing"></a>Nie można zsynchronizować usługi Active Directory
 
-Jeśli otrzymujesz błędy synchronizacji, takie jak "nie ostatnia synchronizacja", lub zauważysz stan synchronizacji katalogów w portalu administracyjnym usługi Office "Ostatnia synchronizacja ponad 3 dni temu", może to oznaczać, że program AADConnect ma nieprawidłowe ustawienia lub niewystarczające uprawnienia do przeprowadzenia synchronizacji.  
+Jeśli otrzymujesz błędy synchronizacji, takie jak "ostatnia synchronizacja", lub zauważysz stan synchronizacji katalogów w portalu administracyjnym usługi Office "Ostatnia synchronizacja ponad 3 dni temu", może to oznaczać, że program AADConnect ma nieprawidłowe ustawienia lub niewystarczające uprawnienia do przeprowadzenia synchronizacji.  
 
 Ponowne zainstalowanie programu AADConnect przy użyciu ustawień ekspresowych może szybko rozwiązać ten problem:
 

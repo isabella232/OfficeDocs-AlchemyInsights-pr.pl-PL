@@ -13,14 +13,14 @@ ms.custom:
 - "990"
 - "8000059"
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
-ms.openlocfilehash: aff7b1f7d4f857c7480de08540e35e55840190cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f7b20d7d1bfac00a2a3148095284debb379218c4cd9c2387249df994fbb08b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758291"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084500"
 ---
 # <a name="spam-filter-not-working"></a>Filtr spamu nie działa
 
-Jeśli uważasz, że otrzymana wiadomość w Outlook.com to phishing lub fałszowanie, zaznacz wiadomość, a następnie wybierz pozycję wyłudzanie informacji o **wiadomościach-śmieciach** , \> **Phishing** aby oznaczyć je jako phishing. Aby dowiedzieć się więcej o nadużyciach, phishingu i podszywaniu, [Przeczytaj ten](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy)artykuł. Aby zablokować adresy e-mail, dodać adresy lub domeny do listy bezpiecznych nadawców lub zastosować inne opcje wiadomości-śmieci, wybierz pozycję **Opcje wiadomości-śmieci**.
+Jeśli uważasz, że wiadomość otrzymana w ciesie Outlook.com jest próbą wyłudzenia informacji lub spoofingu, zaznacz ją, a następnie wybierz pozycję Wyłudzanie informacji-śmieci w celu oznaczenia jej jako próby wyłudzenia  \>  informacji. Aby dowiedzieć się więcej o nadużyciu, wyłudzaniu informacji i [spoofingu, przeczytaj ten.](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) Aby zablokować adresy e-mail, dodać adresy lub domeny do listy Sejf nadawców lub zastosować inne opcje wiadomości-śmieci, wybierz pozycję **Opcje wiadomości-śmieci.**
   

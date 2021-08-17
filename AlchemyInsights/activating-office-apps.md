@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889264"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314250"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktywowanie Microsoft 365 aplikacji
 
-**Uwaga:** Jeśli korzystasz ze starszej wersji programu Windows (na przykład Windows 7), upewnij się, że domyślną obsługą jest TLS 1.2. Aby uzyskać więcej informacji, zobacz Aktualizowanie w celu włączenia [protokołów TLS 1.1 i TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)jako domyślnych protokołów bezpiecznego w winieHTTP w Windows.
+**Uwaga:** Jeśli używasz wcześniejszej wersji programu Windows (na przykład Windows 7 z dodatkiem SP1, Windows Server 2008 R2), włącz domyślnie TLS 1.2 przy użyciu łatwej [poprawki.](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) Aby uzyskać więcej informacji, zobacz Aktualizowanie w celu włączenia [protokołów TLS 1.1 i TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)jako domyślnych protokołów bezpiecznego w winieHTTP w programie Windows.
 
 Aby aktywować pakiet Office, zobacz:
 
@@ -29,7 +29,7 @@ Aby aktywować pakiet Office, zobacz:
 
 - [Aktywowanie Office na komputerze Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Uwaga:**  Upewnij się, że masz subskrypcję Office 365 lub Microsoft 365, która obejmuje Office klienckie usługi [Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)takie jak Microsoft 365 Business Standard, Aplikacje Microsoft 365 dla firm lub Aplikacje Microsoft 365 dla przedsiębiorstw. Ponadto upewnij się, że do konta użytkownika, które używasz do logowania się Office aplikacji, [jest przypisana licencja.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+**Uwaga:**  Upewnij się, że masz subskrypcję Office 365 lub Microsoft 365, która obejmuje aplikacje klienckie [Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)takie jak Microsoft 365 Business Standard, Aplikacje Microsoft 365 dla firm lub Aplikacje Microsoft 365 dla przedsiębiorstw. Ponadto upewnij się, że do konta użytkownika, które używasz do logowania się Office aplikacji, [jest przypisana licencja.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Aby rozwiązać problemy z aktywacją pakietu Office, zobacz:
 
@@ -38,9 +38,9 @@ Aby rozwiązać problemy z aktywacją pakietu Office, zobacz:
 
 - [Co należy zrobić, jeśli nie możesz zainstalować lub aktywować pakietu Office dla komputerów Mac?](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Porada** Na komputerach z systemem Windows możemy diagnozować i automatycznie rozwiązywać wiele typowych problemów z logowaniem do pakietu Office. Pobierz i uruchom  **[Asystenta odzyskiwania i pomocy technicznej dla usługi Office 365](https://aka.ms/SaRA-OfficeSignInScenario)**, aby skorzystać z naszego zautomatyzowanego narzędzia.
+**Porada:** na Windows komputerach możemy automatycznie zdiagnozować i automatycznie rozwiązać kilka typowych Office dotyczących logowania. Pobierz i uruchom  **[Asystenta odzyskiwania i pomocy technicznej dla usługi Office 365](https://aka.ms/SaRA-OfficeSignInScenario)**, aby skorzystać z naszego zautomatyzowanego narzędzia.
 
-Jeśli nie możesz zalogować się do aplikacji Microsoft 365, wykonaj poniższe czynności:
+Jeśli nie możesz zalogować się do Microsoft 365, wykonaj poniższe czynności:
 
 1. Otwórz aplikację pakietu Office i [wyloguj się](https://go.microsoft.com/fwlink/?linkid=2114082) z istniejących kont użytkowników.
 

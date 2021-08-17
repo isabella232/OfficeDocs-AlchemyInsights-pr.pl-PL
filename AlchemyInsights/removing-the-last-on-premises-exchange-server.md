@@ -1,5 +1,5 @@
 ---
-title: Usuwanie ostatniego lokalnego programu Exchange Server
+title: Usuwanie ostatniego lokalnego serwera Exchange serwera
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "692"
 - "3500010"
 ms.assetid: 2e0be4a5-ece8-461d-a80c-202c5ede5ecf
-ms.openlocfilehash: 77dcc8d5396807f581c96ed79321a24ffe929d66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4980f3089305ce589cc8b205fe073c0d1328cdf289d18a15669c081e0ab4aa5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741025"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110749"
 ---
-# <a name="removing-the-last-on-premises-exchange-server"></a>Usuwanie ostatniego lokalnego programu Exchange Server
+# <a name="removing-the-last-on-premises-exchange-server"></a>Usuwanie ostatniego lokalnego serwera Exchange serwera
 
-Przed usunięciem ostatniego serwera programu Exchange z organizacji lokalnej, należy się upewnić, że rozumiesz, jakie są implikacje tej czynności, aby ułatwić podjęcie decyzji, czy potrzebny jest ostatni serwer do innych celów. Aby uzyskać więcej informacji, zapoznaj się z informacjami o [tym, jak i kiedy zlikwidować lokalne serwery programu Exchange we wdrożeniu hybrydowym](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx).
+Przed usunięciem ostatniego Exchange w organizacji lokalnej należy się upewnić, że opis jego działania pomoże zdecydować, czy ostatni serwer ma być potrzebny do jakichkolwiek innych celów. Aby uzyskać więcej informacji, zobacz Jak i kiedy likwidować lokalne serwery [Exchange we wdrożeniu hybrydowym.](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx)
   

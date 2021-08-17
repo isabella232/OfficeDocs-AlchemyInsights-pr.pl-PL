@@ -1,5 +1,5 @@
 ---
-title: Program Outlook nie synchronizuje folderów
+title: Outlook synchronizowania folderów
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: cc4d109ae4b6b579284aa5b3876d17d38f0230fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ac814286496a946866fbd36268ec63b7904e8f15124e2909a134805fc615a7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771875"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111230"
 ---
-# <a name="outlook-not-synching-folders"></a>Program Outlook nie synchronizuje folderów
+# <a name="outlook-not-synching-folders"></a>Outlook synchronizowania folderów
 
-Jeśli program Outlook nie synchronizuje folderów zgodnie z oczekiwaniami, możesz spróbować rozwiązać ten problem.
+Jeśli Outlook nie synchronizuje folderów zgodnie z oczekiwaniami, możesz spróbować rozwiązać ten problem.
 
-1. Zmniejsz liczbę folderów w podstawowej lub udostępnionej skrzynce pocztowej. [Zobacz problemy z wydajnością programu Outlook, gdy w trybie buforowanym znajduje się zbyt wiele elementów lub folderów](https://support.microsoft.com/help/2768656).
+1. Zmniejsz liczbę folderów w podstawowej lub udostępnionej skrzynce pocztowej. Zobacz Outlook z wydajnością, jeśli jest zbyt wiele elementów lub folderów w folderze plików ost lub pst w trybie [buforowanej.](https://support.microsoft.com/help/2768656)
 2. Wyłącz buforowanie wszystkich folderów udostępnionych.
-3. Zmień konfigurację skrzynki pocztowej serwera pomocniczego na drugie konto programu Exchange w swoim profilu.
+3. Zmień konfigurację pomocniczej skrzynki Exchange pocztowej na drugie konto Exchange w profilu.
 
-Aby uzyskać więcej informacji, zobacz [problemy z wydajnością i synchronizacją podczas pracy z folderami w pomocniczej skrzynce pocztowej w programie Outlook](https://support.microsoft.com/help/3115602).
+Aby uzyskać więcej informacji, zobacz Problemy z wydajnością i synchronizacją podczas pracy z folderami w pomocniczej skrzynce pocztowej w [programie Outlook.](https://support.microsoft.com/help/3115602)

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889324"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314286"
 ---
 # <a name="activate-your-subscription"></a>Aktywowanie subskrypcji
 
@@ -25,7 +25,7 @@ ms.locfileid: "57889324"
 
 - Aby umożliwić użytkownikom uzyskiwanie dostępu do usługi, przypisz im licencję. Aby dowiedzieć się, jak to zrobić, [zobacz Przypisywanie licencji użytkownikom.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 - Jeśli masz już przypisaną licencję, możesz znaleźć aplikacje, które możesz pobrać, na stronie [Moje konto.](https://portal.office.com/account/#installs) Na tej stronie znajduje się lista aplikacji dostępnych do pobrania na podstawie przypisanych licencji.
-- Jeśli już pobrano aplikacje Office, może być konieczne zalogowanie się do tych aplikacji przy użyciu konta służbowego. Możesz to zrobić w dowolnej aplikacji Office (Word, Excel itp.), wybierając pozycję Plik **> Konto** (u dołu). W obszarze Informacje o użytkowniku wybierz **pozycję Przełącz konto**. Aby uzyskać więcej informacji, przeczytaj [Instalowanie aplikacji pakietu Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Jeśli aplikacja została już pobrana Office, może być konieczne zalogowanie się do tych aplikacji przy użyciu konta służbowego. Możesz to zrobić w dowolnej aplikacji Office (Word, Excel itp.), wybierając pozycję Plik **> Konto** (w dolnej części ekranu). W obszarze Informacje o użytkowniku wybierz **pozycję Przełącz konto**. Aby uzyskać więcej informacji, przeczytaj [Instalowanie aplikacji pakietu Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Ponowne aktywowanie subskrypcji**
 
