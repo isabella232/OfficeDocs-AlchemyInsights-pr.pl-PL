@@ -1,5 +1,5 @@
 ---
-title: Zmiany w zespołach
+title: Teams Shifts
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106508"
 ---
-# <a name="using-teams-shifts"></a>Korzystanie z aplikacji Team Shift
+# <a name="using-teams-shifts"></a>Używanie Teams Shifts
 
-Aby uzyskać informacje o zarządzaniu aplikacją zmiany, w tym o sposobie konfigurowania zmian, włączania zmian dla użytkowników i zarządzaniu aplikacją zmiany, zobacz:
+Aby uzyskać informacje na temat zarządzania aplikacją Shifts, w tym jak skonfigurować zmiany, włączyć aplikację Shifts dla użytkowników i zarządzać aplikacją Shifts, zobacz:
  
-- [Zarządzaj aplikacją zmiany w organizacji w aplikacji Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
-- [Włączanie lub wyłączanie zmian dla określonych użytkowników w organizacji](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
+- [Zarządzaj aplikacją Shifts dla swojej organizacji w Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
+- [Włącz lub wyłącz funkcję Shifts dla określonych użytkowników w organizacji.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)
 
-Aby dowiedzieć się więcej na temat zmian w aplikacji Teams, w tym do zarządzania harmonogramem zmian zobacz [zmiany w programie Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+Aby dowiedzieć się więcej o programie Shifts dla Teams, w tym o zarządzaniu harmonogramem zmian, zobacz Zmiany dla [Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)
 
-**Obowiązuje 30 czerwca 2020**r., pakiet Microsoft Staffhub został wycofany. Aby uzyskać więcej informacji, zobacz [pakiet Microsoft StaffHub został wycofany](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
+**30 czerwca 2020 r.** aplikacja Microsoft Staffhub została wycofana. Aby uzyskać więcej informacji, zobacz [Aplikacja Microsoft StaffHub została wycofana.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)
 

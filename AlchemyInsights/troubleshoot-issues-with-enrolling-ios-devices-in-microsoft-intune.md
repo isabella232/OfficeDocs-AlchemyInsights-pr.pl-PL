@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z zarejestrowaniem urządzeń z systemem iOS w usłudze Microsoft Intune
+title: Rozwiązywanie problemów z zarejestrowaniem urządzeń z systemem iOS w aplikacji Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -10,14 +10,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 14f7a897f0c7504db1b605485e170183c3a1afb2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0aaece95effa468af5c906a8bd07e5b00ffa3df37b4e2cb296d64108efec94e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823473"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047986"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Rozwiązywanie problemów z zarejestrowaniem urządzeń z systemem iOS w usłudze Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Rozwiązywanie problemów z zarejestrowaniem urządzeń z systemem iOS w aplikacji Microsoft Intune
 
 Zapoznaj się z poniższymi zasobami, aby rozwiązać problem już teraz. 
   
@@ -27,7 +27,7 @@ Niektóre typowe komunikaty o błędach i procedury rozwiązywania problemów:
     
 - **Ta usługa nie jest obsługiwana. Bez zasad rejestracji:** Usługa wypychanych powiadomień (APNS) firmy Apple musi zostać skonfigurowana lub odnowiona. Zapoznaj [się z tym dokumentem,](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) aby dowiedzieć się, jak to zrobić. 
     
-- **Typ licencji użytkownika Nieprawidłowy lub Nie rozpoznano nazwy użytkownika:** Użytkownikowi należy przypisać licencję usługi Intune lub EMS. Przejrzyj te dokumenty, aby przypisać licencję za pośrednictwem: [Centrum administracyjnego pakietu Office](https://docs.microsoft.com/intune/licenses-assign) lub portalu Azure [Portal.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
+- **Typ licencji użytkownika Nieprawidłowy lub Nie rozpoznano nazwy użytkownika:** Użytkownikowi należy przypisać licencję usługi Intune lub EMS. Przejrzyj te dokumenty, aby przypisać licencję za pośrednictwem witryny [Office Admin Center](https://docs.microsoft.com/intune/licenses-assign) lub Azure [Portal.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
     
 Dodatkowe zasoby pomocne w rozwiązaniu problemu:
   
@@ -35,6 +35,6 @@ Dodatkowe zasoby pomocne w rozwiązaniu problemu:
     
 2. Przejrzyj te dokumenty, aby uzyskać listę typowych błędów uniemożliwiających rejestrację i rozwiązanie dla każdego [z](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) nich: Przewodnik po rozwiązywaniu problemów i [Dokument rozwiązywania problemów.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
     
-3. [Dowiedz się, jak zarejestrować urządzenia z systemem iOS w usłudze Microsoft Intune.](https://docs.microsoft.com/intune/ios-enroll)
+3. [Dowiedz się, jak zarejestrować urządzenia z systemem iOS w aplikacji Microsoft Intune.](https://docs.microsoft.com/intune/ios-enroll)
     
 
