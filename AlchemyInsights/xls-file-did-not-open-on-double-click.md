@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4c17329db92eb08b7bec43fd7b0d0191e7bce2b8ae030c210b46baf6b76e9bbf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770605"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047158"
 ---
-# <a name="excel-file-doesnt-open"></a>Plik programu Excel nie otwiera się
+# <a name="excel-file-doesnt-open"></a>Excel nie można otworzyć pliku
 
 Wypróbuj jedną z tych sugestii:
 
-**Wybieranie programu Excel jako domyślnego**
+**Wybierz Excel jako domyślną**
 
-* Kliknij prawym przyciskiem myszy arkusz, wybierz polecenie **Otwórz za pomocą**, a następnie wybierz pozycję **Excel**
+* Kliknij arkusz prawym przyciskiem myszy, wybierz polecenie **Otwórz za pomocą**, a następnie wybierz polecenie **Excel**
 
 **Uruchamianie szybkiej naprawy**
 
 1. Przejdź do **Panelu sterowania, > a następnie do > Programy i funkcje.**
 
-2. Wybierz produkt pakietu Office, który chcesz naprawić, a następnie wybierz pozycję **Zmień**.
+2. Wybierz Office produktu, który chcesz naprawić, a następnie wybierz pozycję **Zmień**.
 
 3. Wybierz opcję **Szybka naprawa,** a następnie wybierz pozycję **Napraw**.
 
-**Odinstalowywanie wersji pakietu Office, których nie używasz**
+**Odinstalowywanie Office plików, których nie używasz**
 
-1. Przejdź do **Panelu sterowania > Pozycję Odinstaluj program, a** następnie wybierz wersję pakietu Office, którą chcesz usunąć.
+1. Przejdź do **Panelu sterowania > Odinstaluj program, a** następnie wybierz wersję Office chcesz usunąć.
 
 2. Kliknij pozycję **Odinstaluj**.
 
 3. Uruchom ponownie komputer.
 
-**Uruchom to narzędzie do rozwiązywania problemów, aby ustawić otwieranie rozszerzeń plików pakietu Office w psłudze Office**
+**Uruchom to narzędzie do rozwiązywania problemów, aby Office otwierać rozszerzenia plików w Office**
 
 1. Uruchom to narzędzie do rozwiązywania https://aka.ms/diag_officefile problemów: .
 

@@ -1,5 +1,5 @@
 ---
-title: Instalowanie aplikacji pakietu Microsoft Office na urządzeniu z systemem Android
+title: Instalowanie Microsoft Office na urządzeniu z systemem Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003905"
 - "6960"
-ms.openlocfilehash: d88916ec9b81d078de837827eab1af95022c4ce3
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 169f9ad8da8e196d28d47595e23fce9d54ad82388b1b8e173971663b3d83d3f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714811"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078056"
 ---
-# <a name="install-microsoft-office-apps-on-an-android-device"></a>Instalowanie aplikacji pakietu Microsoft Office na urządzeniu z systemem Android
+# <a name="install-microsoft-office-apps-on-an-android-device"></a>Instalowanie Microsoft Office na urządzeniu z systemem Android
 
-Na telefonie lub tablecie z systemem komputerze Chromebook lub Android możesz zainstalować aplikacje pakietu Microsoft Office jako osobne aplikacje lub jako pakiet.
+Na telefonie lub tablecie z systemem Chromebook lub Android możesz zainstalować Microsoft Office jako osobne aplikacje lub jako pakiet.
 
-- [Instalowanie aplikacji pakietu Office (pakietu) ze sklepu Google Play](https://go.microsoft.com/fwlink/?linkid=2137009)
-- [Instalowanie aplikacji pakietu Office (pakietu) ze sklepu Chrome Web Store](https://go.microsoft.com/fwlink/?linkid=2137212)
-- [Instalowanie programu Microsoft Word ze sklepu Google Play](https://go.microsoft.com/fwlink/?linkid=2136994)
-- [Instalowanie programu Microsoft Excel ze sklepu Google Play](https://go.microsoft.com/fwlink/?linkid=2137120)
-- [Instalowanie programu Microsoft PowerPoint ze sklepu Google Play](https://go.microsoft.com/fwlink/?linkid=2137121)
-- [Instalowanie programu Microsoft OneNote ze sklepu Google Play](https://go.microsoft.com/fwlink/?linkid=2137211)
+- [Zainstaluj aplikacja pakietu Office (pakiet) ze sklepu Google Play](https://go.microsoft.com/fwlink/?linkid=2137009)
+- [Zainstaluj aplikacja pakietu Office (pakiet) z Chrome Web Store](https://go.microsoft.com/fwlink/?linkid=2137212)
+- [Instalowanie Microsoft Word ze sklepu Google Play](https://go.microsoft.com/fwlink/?linkid=2136994)
+- [Instalowanie Microsoft Excel ze sklepu Google Play](https://go.microsoft.com/fwlink/?linkid=2137120)
+- [Instalowanie aplikacji Microsoft PowerPoint ze sklepu Google Play](https://go.microsoft.com/fwlink/?linkid=2137121)
+- [Instalowanie Microsoft OneNote ze sklepu Google Play](https://go.microsoft.com/fwlink/?linkid=2137211)
 
-Aby dowiedzieć się więcej, zobacz [Instalowanie i Konfigurowanie pakietu Office w systemie Android](https://go.microsoft.com/fwlink/?linkid=2135287).
+Aby dowiedzieć się więcej, [zobacz Instalowanie i konfigurowanie pakietu Office w systemie Android.](https://go.microsoft.com/fwlink/?linkid=2135287)

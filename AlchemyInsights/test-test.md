@@ -1,5 +1,5 @@
 ---
-title: Brakuje terminów w magazynie terminów usługi SharePoint Online
+title: Brak warunków w SharePoint Online Term Store
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,43 +11,42 @@ localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 06711c289365c0fcdf71cf9cccf3cfc53511495a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d99458d6f9b65e44ad5945c909b9a8861cf0b1f23463fcdfd5b8351b1c08d670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750461"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106436"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>Włączanie szyfrowania funkcji BitLocker za pomocą usługi Intune
+# <a name="enabling-bitlocker-encryption-with-intune"></a>Włączanie szyfrowania funkcji BitLocker w usłudze Intune
 
-Zasady usługi Intune Endpoint Protection mogą być używane do konfigurowania ustawień szyfrowania Boitlocker dla urządzeń z systemem Windows, zgodnie z opisem w następujących systemach: Windows10 (i nowszych) w celu ochrony urządzeń przy użyciu usługi Intune.
+Zasady Endpoint Protection Intune mogą być używane do konfigurowania ustawień szyfrowania BoitLocker dla urządzeń Windows w sposób opisany w : Ustawieniach systemu Windows10 (lub nowszych) w celu ochrony urządzeń za pomocą usługi Intune
 
-Należy pamiętać, że wiele nowszych urządzeń z systemem Windows 10 obsługuje automatyczne szyfrowanie funkcji BitLocker, które zostanie wyzwolone bez zastosowania zasad MDM. Może to mieć wpływ na zastosowanie zasad, jeśli nie skonfigurowano ustawień niedomyślnych. Zobacz często zadawane pytania, aby uzyskać więcej szczegółowych informacji.
-
-
-Często zadawane pytania   p: Jakie wersje systemu Windows obsługują szyfrowanie urządzeń przy użyciu zasad programu Endpoint Protection?
- O: ustawienia w zasadach programu Intune Endpoint Protection są implementowane przy użyciu dostawcy CSP funkcji BitLocker.Nie wszystkie wersje i kompilacje systemu Windows obsługują dostawcę CSP funkcji BitLocker. 
-      W tym momencie wersja systemu Windows: Enterprise; Obsługiwane są wykształcenie, telefony komórkowe, telefony komórkowe i profesjonalne (od kompilacji 1809).
+Należy pamiętać, że wiele nowych urządzeń z systemem Windows 10 obsługuje automatyczne szyfrowanie bitLocker, które jest wyzwalane bez stosowania zasad MDM. Może to mieć wpływ na stosowanie zasad, jeśli nie skonfigurowano ustawień domyślnych. Aby uzyskać więcej szczegółowych informacji, zobacz Często zadawane pytania.
 
 
-
-
-P: Jeśli urządzenie jest już zaszyfrowane za pomocą funkcji BitLocker przy użyciu domyślnych ustawień systemu operacyjnego dla metody szyfrowania i siły szyfrowania (XTS-AES-128), będą stosowane zasady z różnymi ustawieniami automatycznie wyzwalać ponowne szyfrowanie dysku przy użyciu nowych ustawień?
-
-O: Nie. Aby zastosować nowe ustawienia szyfru, należy najpierw odszyfrować dysk.
-
-Uwaga dotycząca urządzeń zarejestrowanych za pomocą autopilota automatyczne szyfrowanie, które może wystąpić w trakcie OOBE, nie zostanie wyzwolone, dopóki nie zostanie wykryta zasada usługi Intune, która zezwala na użycie ustawień opartych na zasadach w miejscu domyślnym systemu operacyjnego
+Często zadawane pytania: Które wersje aplikacji Windows obsługują szyfrowanie urządzeń przy użyciu Endpoint Protection zabezpieczeń?
+O: Ustawienia w usłudze Intune Endpoint Protection są zaimplementowane przy użyciu narzędzia CSP funkcji BitLocker.  Nie wszystkie wersje ani kompilacje aplikacji Windows obsługują usługę CSP funkcji BitLocker. Obecnie są Windows: Enterprise; Aplikacje Education, Mobile, Mobile Enterprise i Professional (od kompilacji 1809 dalej) są obsługiwane.
 
 
 
 
-P Jeśli urządzenie jest szyfrowane w wyniku zastosowania zasad usługi Intune, zostanie odszyfrowane po usunięciu tych zasad?
+P. Jeśli urządzenie jest już zaszyfrowane przy użyciu funkcji BitLocker przy użyciu domyślnych ustawień systemu operacyjnego dla metody szyfrowania i siły szyfrowania (XTS-AES-128), spowoduje to zastosowanie zasad z innymi ustawieniami automatycznie wyzwalać ponowne szyfrowanie dysku przy użyciu nowych ustawień?
 
-A: usunięcie zasad związanych z szyfrowaniem nie powoduje odszyfrowania dysków, które zostały skonfigurowane.
+Odp. Nie. Aby zastosować nowe ustawienia szyfrowania, dysk musi najpierw zostać odszyfrowany.
+
+Uwaga W przypadku urządzeń zarejestrowanych za pomocą rozwiązania Autopilot automatyczne szyfrowanie, które wystąpi podczas korzystania z urządzenia OOBE, nie zostanie wyzwolone do czasu oceny zasad usługi Intune, co pozwala na korzystanie z ustawień opartych na zasadach w miejscu wartości domyślnych systemu operacyjnego
 
 
 
 
-P: dlaczego zasady zgodności usługi Intune wskazują, że na moim urządzeniu nie włączono funkcji "BitLocker Enabled", ale jest to?
+P Jeśli urządzenie jest szyfrowane w wyniku zastosowania zasad usługi Intune, zostanie odszyfrowane, gdy te zasady zostaną usunięte?
 
-A: ustawienie "włączone funkcje BitLocker" w zasadach zgodności usługi Intune korzysta z klienta usługi zaświadczeń o kondycji urządzeń systemu Windows (DHA). Ten klient mierzy tylko stan urządzenia w czasie rozruchu. Jeśli więc urządzenie nie zostało uruchomione ponownie od momentu ukończenia szyfrowania funkcją BitLocker, usługa klienta DHA nie będzie raportować funkcji BitLocker jako aktywnej.
+O. Usunięcie zasad związanych z szyfrowaniem NIE powoduje odszyfrowywania skonfigurowanych dysków.
+
+
+
+
+P. Dlaczego zasady zgodności usługi Intune pokazują, że moje urządzenie nie ma włączonej funkcji BitLocker, ale tak jest?
+
+O: Ustawienie "Włączono funkcję BitLocker" w zasadach zgodności usługi Intune korzysta z klienta Windows Kondycja urządzeń (DHA). Ten klient mierzy stan urządzenia tylko podczas rozruchu. Jeśli więc urządzenie nie zostało ponownie rozruchu po zakończeniu szyfrowania funkcją bitLocker, usługa klienta DHA nie będzie zgłaszać funkcji bitLocker jako aktywna.
