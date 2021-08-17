@@ -1,5 +1,5 @@
 ---
-title: Unowocześnienie witryn programu SharePoint
+title: Unowocześnij swoje witryny SharePoint sieci Web
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 42b36e13af59c2323ab0db6107174f4b9d652e28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f0fdc6988ea693f6c0e012af719cdaca2f6fa13c888a5fb39e35387e1a820e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800582"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107846"
 ---
-# <a name="modernize-your-sharepoint-sites"></a>Unowocześnienie witryn programu SharePoint
+# <a name="modernize-your-sharepoint-sites"></a>Unowocześnij swoje witryny SharePoint sieci Web
 
-Aby zapoznać się z omówieniem krok po kroku unowocześnienie klasycznych witryn programu SharePoint w nowoczesnych wrażeniach, zobacz [unowocześnienie klasycznych witryn programu SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+Aby uzyskać szczegółowe omówienie procesu dostosowywania klasycznego witryny SharePoint do nowoczesnego obsługi, zobacz Unowocześnij swoje klasyczne witryny SharePoint [witryny.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
 
-* Aby zmaksymalizować korzystanie ze nowoczesnego interfejsu użytkownika dla stron witryny oraz stron list i bibliotek, zobacz [unowocześnienie interfejsu użytkownika](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
-* Aby dowiedzieć się więcej na temat odblokowywania list i bibliotek podczas korzystania z nowoczesnego interfejsu użytkownika, zobacz [Maksymalizowanie użycia nowoczesnych list i bibliotek](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-* Aby uzyskać więcej informacji na temat łączenia się z grupą programu Microsoft 365 i przeprowadzania połączenia grupowego, zobacz [nawiązywanie połączenia z grupą microsoft 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+* Aby zmaksymalizować wykorzystanie nowoczesnego interfejsu użytkownika dla stron witryny oraz stron list i bibliotek, zobacz [Unowocześnij interfejs użytkownika.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface)
+* Aby dowiedzieć się więcej na temat odblokowywania list i bibliotek podczas korzystania z nowoczesnego interfejsu użytkownika, zobacz Maksymaliz używanie nowoczesnych list [i bibliotek.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+* Aby uzyskać więcej informacji na temat nawiązywania połączenia z grupą Microsoft 365 i wykonywania połączenia [grupowego,](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)zobacz Połączenie się z Microsoft 365 grupy.
 
-**Ważne**: Jeśli uważasz, że Twoja strona powinna być już wyświetlana w widoku nowoczesnym i nie jest, przejdź do odpowiedniej strony, skopiuj adres URL i podaj adres URL w ramach swojego biletu pomocy technicznej.
+**Ważne:** Jeśli uważasz, że strona powinna być już wyświetlana w widoku nowoczesnym, a nie powinna, przejdź do tej strony, skopiuj jej adres URL i podaj adres URL w ramach szczegółów zgłoszenia do pomocy technicznej.

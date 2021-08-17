@@ -13,24 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 3e66fad970e52af7ab3b2c5a66001c44b50c2fe6
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403249"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883365"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft Secure Score
 
-Korzystając z programu Microsoft Secure Score, można zabezpieczyć swoje środowisko. Pojmij ją jako ocenę kredytową dla zabezpieczeń. Zawiera on informacje o czynnościach, które można podjąć, aby zwiększyć bezpieczeństwo organizacji.
+Korzystając z programu Microsoft Secure Score, można zabezpieczyć swoje środowisko. Pojmij ją jako ocenę kredytową dla zabezpieczeń. Informuje on o czynnościach, które można podjąć, aby zwiększyć bezpieczeństwo organizacji.
 
-1. Przejdź do [Centrum zabezpieczeń usługi Office 365 & zgodności.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Wybierz kartę Microsoft Secure Score lub przejdź do karty [Microsoft Secure Score](https://go.microsoft.com/fwlink/?linkid=2099589).
-    > [!TIP]
-    >  Na stronie Microsoft Secure Score Overview (Przegląd bezpiecznego wyniku) wybierz pozycję Improvement actions (Działania udoskonalania), aby uzyskać zalecenia dotyczące zabezpieczania organizacji. Możesz wybrać pozycję Filtruj lub Grupuj według w tabeli, aby szybko zidentyfikować akcje, które mogą być lepsze po ich ukończeniu w tej kolejności.
-1. Wybierz z listy akcję udoskonalania. Zostanie wyświetlone wysuwne okno z krótkim opisem akcji.
-1. Kliknij **pozycję Wyświetl ustawienia,** a następnie postępuj zgodnie ze wskazówkami w **następnej czynności.**
+1. W portalu Microsoft 365 Defender przejdź <https://security.microsoft.com> do bezpiecznego **wyniku.**
+
+   Aby przejść bezpośrednio do strony **Wyników bezpiecznego,** użyj <https://security.microsoft.com/securescore>
+
+2. Na karcie **Omówienie** w sekcjach **Akcje do przejrzenia** i **Najważniejsze** akcje udoskonalania zanotuj wszystkie zalecenia dotyczące zabezpieczania organizacji.
+
+3. Na **karcie Akcje udoskonalania** zwróć  uwagę na pozycje Akcji udoskonalania, dla których wartości **Stan** to Adres **do** lub Działanie  **wychodzące.** Za pomocą funkcji  **Filtruj** lub Grupuj według w tabeli można szybko zidentyfikować akcje, które mogą być lepsze po ich ukończeniu w tej kolejności.
+
+4. Wybierz z listy  **element** Do lub Element wychodzący na **karcie Akcje udoskonalania.** Zostanie otwarta nowa strona z kompletnym opisem **oraz** przyciskiem Zarządzaj, który umożliwia rozwiązanie problemu.
+
     > [!NOTE]
     > Masz punkty za skonfigurowanie zalecanych funkcji zabezpieczeń, ale pamiętaj, że niektóre akcje są oznaczone etykietą **[Nieskomendowane]**. Oznacza to, że nawet jeśli wdrożysz takie działanie ulepszeń, nie będziesz przyznać żadnych punktów za swój wynik. W przeciwnym razie aktualizacja wyniku może potrwać do *24* godzin.
 
-Aby uzyskać więcej informacji na temat wyników bezpiecznego rozwiązania Microsoft, zobacz [Microsoft Secure Score.](https://go.microsoft.com/fwlink/?linkid=2103077)
+Aby uzyskać więcej informacji na temat wyników bezpiecznego rozwiązania Microsoft, zobacz [Microsoft Secure Score.](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score)

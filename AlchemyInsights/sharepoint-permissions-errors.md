@@ -1,5 +1,5 @@
 ---
-title: Błędy uprawnień programu SharePoint
+title: SharePoint błędów uprawnień
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: 051d0d002394b4685b044f2ed15057f5f26b3024
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ab3e2accbb9c2e765dd77fc64b92305dce748cd5da3bf0c6c6dd8414737c709f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826605"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107657"
 ---
-# <a name="sharepoint-permissions-errors"></a>Błędy uprawnień programu SharePoint
+# <a name="sharepoint-permissions-errors"></a>SharePoint błędów uprawnień
 
 Istnieje wiele scenariuszy, które mogą wyświetlać monit o jeden z tych komunikatów. Uprawnienia użytkownika lub administratora są najczęściej niepoprawnie skonfigurowane lub w ogóle nieskonfigurowane. 
 
-Aby uzyskać więcej informacji, zobacz Błędy "Odmowa[dostępu", "Potrzebujesz](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)uprawnienia do uzyskiwania dostępu do tej witryny" lub "Użytkownik nie został znaleziony w katalogu" w usługach SharePoint Online i OneDrive dla Firm.
+Aby uzyskać więcej informacji, zobacz Błędy "Odmowa[dostępu", "Potrzebujesz](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)uprawnienia do uzyskiwania dostępu do tej witryny" lub "Użytkownik nie został znaleziony w katalogu" w usłudze SharePoint Online i OneDrive dla Firm.

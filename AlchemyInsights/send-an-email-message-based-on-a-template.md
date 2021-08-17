@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003070"
 - "5830"
-ms.openlocfilehash: 0f7ce9cb8054c6e0960aab334ad47123320a0cde
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 1aa60a3be051194e3816e909ba25a32e98463a2179e94844869cd97a564548a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680107"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052648"
 ---
 # <a name="send-an-email-message-based-on-a-template"></a>Wysyłanie wiadomości e-mail opartej na szablonie
 
-Aby użyć szablonu wiadomości e-mail w aplikacji klasycznej Outlook, wykonaj następujące czynności:
+Aby użyć szablonu wiadomości e-mail w aplikacji Outlook klasycznej, wykonaj następujące czynności:
 
-1. Wybierz pozycję **nowe elementy**  >  **więcej elementów**  >  **Wybierz pozycję formularz**.
-2. W oknie dialogowym **Wybieranie formularza** w polu **Szukaj w** kliknij pozycję **Szablony użytkownika w systemie plików**.
-3. Zostanie otwarty folder Szablony domyślne. Lokalizacja folderu (w systemie operacyjnym Windows 7 i nowszych) to **c:\users\username\appdata\roaming\microsoft\templates**. Jeśli szablon zostanie zapisany w innym folderze, kliknij przycisk **Przeglądaj**, a następnie wybierz szablon.
-4. Wybierz szablon, a następnie kliknij przycisk **Otwórz**.
-5. Dodaj do adresatów w polach **do**, **DW** i **UDW** lub wprowadź poprawki oraz wszelkie zmiany w temacie i treści wiadomości.
+1. Wybierz **pozycję Nowe elementy** Więcej elementów  >  **Wybierz**  >  **formularz**.
+2. W **oknie dialogowym Wybieranie** formularza w polu **Szukaj w** kliknij pozycję Szablony użytkownika w systemie **plików**.
+3. Zostanie otwarty domyślny folder szablonów. Lokalizacja folderu (w systemie Windows 7 i nowszych systemach operacyjnych) to **c:\users\nazwa_użytkownika\appdata\roaming\microsoft\templates.** Jeśli szablon jest zapisany w innym folderze, kliknij przycisk **Przeglądaj**, a następnie wybierz szablon.
+4. Wybierz szablon, a następnie kliknij pozycję **Otwórz**.
+5. W polach **Do,** **DW** lub **UDW** można wprowadzić wszelkie zmiany w temacie i w treści wiadomości.
     > [!NOTE]
-    > Wprowadzone zmiany nie są zapisywane w szablonie. Jeśli użyjesz polecenia **Zapisz** , zostanie utworzona wersja robocza wiadomości, ale nie zaktualizujesz szablonu. Aby zaktualizować szablon, wykonaj czynności opisane w artykule [Tworzenie szablonu wiadomości e-mail](https://support.microsoft.com/office/create-an-email-message-template-43ec7142-4dd0-4351-8727-bd0977b6b2d1)w celu zapisania nowego szablonu.
+    > Wprowadzone zmiany nie są zapisywane w szablonie. Użycie polecenia **Zapisz spowoduje** utworzenie wersji roboczej wiadomości, ale nie zaktualizuje szablonu. Aby zaktualizować szablon, wykonaj czynności dotyczące zapisywania nowego szablonu opisane w tece Tworzenie szablonu wiadomości [e-mail.](https://support.microsoft.com/office/create-an-email-message-template-43ec7142-4dd0-4351-8727-bd0977b6b2d1)
 6. Kliknij przycisk **Wyślij**.

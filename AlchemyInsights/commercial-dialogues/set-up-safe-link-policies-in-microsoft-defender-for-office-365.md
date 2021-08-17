@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070370"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882577"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Konfigurowanie zasad Sejf Link w programie Microsoft Defender dla Office 365
 
-Domyślne zasady dotyczące linków do Sejf w programie Microsoft Defender dla Office 365 są już dla Ciebie tworzone. Aby zmienić konfigurację:
+1. W portalu Microsoft 365 Defender przejdź do sekcji Zasady & e-mail & Zasady zagrożeń Sejf <https://security.microsoft.com/>  \>  \>  \> **linki** **do** zasad.
 
-1. Przejdź do centrum [Office 365 zabezpieczeń & zgodności.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Wybierz **pozycję Zasady zarządzania**  >  **zagrożeniami.** Na stronie **Zasady** wybierz pozycję [Microsoft Defender for Office 365 Sejf Links](https://go.microsoft.com/fwlink/?linkid=2101058).
-3. W sekcji **Zasady stosowane do całej organizacji** wybierz pozycję **Domyślne**, a następnie wybierz **ikonę** Edytuj.
-4. W sekcji **Blokuj następujące adresy URL** określ adresy URL, których nie chcesz odwiedzać. Aby dowiedzieć się więcej, zobacz "Blokowanie następujących adresów URL" w [celu Sejf url.](https://go.microsoft.com/fwlink/?linkid=2092123)
-5. W sekcji **Ustawienia zawartości z** wyjątkiem wiadomości e-mail zaznacz (lub wyczyść) opcje, których chcesz użyć. (Zalecane jest zaznaczenie wszystkich opcji).
-6. Wybierz **Zapisz**.
+   Aby przejść bezpośrednio do **strony Sejf,** <https://security.microsoft.com/safelinksv2> użyj .
+
+2. Na stronie **Sejf wybierz** dowolną z następujących czynności:
+   - Aby dodać nowe zasady, wybierz pozycję **+ Utwórz.** Zostanie uruchomienie kreatora, który pomoże Ci zdefiniować ustawienia zasad.
+   - Aby edytować istniejące zasady, wybierz je, klikając nazwę zasad. W wyświetlonym wysuwu szczegółów wybierz pozycję **Edytuj** w sekcji zawierającej ustawienia, które chcesz skonfigurować.
+   - Aby zablokować dostęp do adresów URL usługi Sejf Ochronę linków lub skonfigurować ustawienia dla usługi Sejf Linki w obsługiwanych aplikacjach pakietu Office 365, kliknij pozycję Ustawienia **globalne,** skonfiguruj ustawienia, a następnie kliknij **przycisk** Zapisz .
+
+3. Po przejrzeniu ustawień wybierz pozycję **Prześlij** (nowy) lub **Zapisz** (edytuj).
+
+Aby uzyskać więcej informacji, zapoznaj się z następującymi artykułami:
+
+- [Konfigurowanie zasad Sejf w programie Microsoft Defender dla Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [Konfigurowanie ustawień globalnych dla programu Sejf Links w programie Microsoft Defender dla Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)
