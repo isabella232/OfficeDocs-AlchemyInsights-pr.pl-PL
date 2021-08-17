@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f16279c447e656548e8ce853353766c5c65df156
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918477"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312769"
 ---
 # <a name="frequent-excel-crashes"></a>Częste Excel awarie?
 
-Częste awarie Excel mogą być spowodowane przez uszkodzony dodatek. Możesz wyłączyć dodatek Excel, korzystając z następujących instrukcji:
+Częste awarie w Excel mogą być spowodowane przez uszkodzony dodatek. Aby wyłączyć dodatek Excel, możesz to zrobić, korzystając z następujących instrukcji:
   
 1. Wybierz **pozycję** \> **Opcje** pliku , \> **Dodatki**.
 
@@ -28,12 +28,11 @@ Częste awarie Excel mogą być spowodowane przez uszkodzony dodatek. Możesz wy
 
 3. W Add-Ins Dostępne wyczyść pole wyboru obok dodatku, który chcesz wyłączyć, a następnie kliknij przycisk **OK.**
 
-> [!NOTE]
-> Jeśli Excel awarie podczas uruchamiania, uruchom go w trybie Sejf, naciskając i przytrzymując klawisz Ctrl podczas uruchamiania programu.
+**Uwaga:** jeśli Excel awarie podczas uruchamiania, uruchom go w trybie Sejf, naciskając i przytrzymując klawisz Ctrl podczas uruchamiania programu.
   
 Jeśli nadal występują problemy, skorzystaj z następujących artykułów:
   
-- [Podczas uruchamiania aplikacji w wersji 2016 lub 2013 Office pojawia się błąd "przestał działać"](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [Podczas uruchamiania aplikacji w wersji 2016 lub 2013 na komputerze jest wyświetlany Office "przestał działać"](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
 
 - [Jak rozwiązywać problemy z awariami i nie odpowiadać na nie Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 

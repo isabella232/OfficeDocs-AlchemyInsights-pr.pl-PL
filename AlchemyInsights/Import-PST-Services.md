@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 71d2eb88c6ef79952084ff74e63506f097562f7b181248cf9a83ddc56dbffb2a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891765"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312733"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Usługa importowania
 
@@ -31,7 +31,7 @@ Aby uzyskać dostęp do usługi importowania i rozpocząć proces importowania:
 
 1. Na stronie **Importowanie** wybierz pozycję **Nowe zadanie importu**. Wprowadź nazwę stanowiska i wybierz pozycję **Dalej**.
 
-1. Wybierz **Upload danych,** aby użyć opcji przekazywania sieciowego dla typu **zadania importu.** Aby uzyskać szczegółowe instrukcje, zobacz Importowanie plików PST organizacji za pomocą przekazywania [sieciowego w celu Microsoft 365.](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)
+1. Wybierz **Upload danych,** aby użyć opcji przekazywania sieciowego dla typu **zadania importu.** Aby uzyskać szczegółowe instrukcje, zobacz Importowanie plików PST organizacji za pomocą przekazywania [sieciowego w celu](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)Microsoft 365.
 
 Aby uzyskać dostęp **do strony Importowanie,** upewnij się, że masz odpowiednie uprawnienia. Aby uzyskać więcej informacji, zobacz Importowanie plików [PST za pomocą przekazywania sieciowego.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 

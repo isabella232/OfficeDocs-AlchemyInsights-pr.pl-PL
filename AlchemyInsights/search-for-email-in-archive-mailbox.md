@@ -1,5 +1,5 @@
 ---
-title: Wyszukiwanie wiadomości e-mail w archiwum Skrzynka pocztowa
+title: Wyszukiwanie wiadomości e-mail w archiwaowej skrzynce pocztowej
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,16 +13,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 2c1284472c147d29f5d09fb7e7541bdcec9e8520
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f88aa25642ba29dbf0673cafe4efb66678a873974cad844ae12fc35287915f33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727361"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109142"
 ---
-# <a name="search-for-email-in-the-archive-mailbox"></a>Wyszukiwanie wiadomości e-mail w archiwum Skrzynka pocztowa
+# <a name="search-for-email-in-the-archive-mailbox"></a>Wyszukiwanie wiadomości e-mail w archiwaowej skrzynce pocztowej
 
-Po włączeniu archiwum Skrzynka pocztowa dla systemu Microsoft 365 można korzystać z funkcji **wyszukiwania i eksportowania zbierania elektronicznych materiałów dowodowych** w celu odnajdowania zawartości w głównej i archiwalnej skrzynce pocztowej. Aby uzyskać informacje na temat używania **eksportowania wyszukiwania zbierania elektronicznych materiałów dowodowych** w celu znalezienia tej zawartości, wykonaj podane [tutaj](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)instrukcje.
+Gdy archiwalne skrzynki pocztowe są włączone  dla Microsoft 365, za pomocą funkcji wyszukiwania i eksportowania zbierania elektronicznych materiałów dowodowych możesz odnajdować zawartość zarówno w skrzynce pocztowej podstawowej, jak i w archiwum. Aby uzyskać informacje na temat **korzystania z funkcji eksportowania wyszukiwania zbierania** elektronicznych materiałów dowodowych w celu znalezienia tej zawartości, wykonaj czynności opisane [tutaj.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
   
-Możesz również zachować tę zawartość, dodając jej skrzynkę pocztową do zasad przechowywania. Spowoduje to umieszczenie zawartości zarówno w głównej, jak i archiwalnej skrzynce pocztowej w archiwum. Aby uzyskać więcej informacji na temat tworzenia zasad przechowywania w celu zachowywania poczty e-mail, zobacz instrukcje podane [tutaj](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+Możesz również zachować zawartość, dodając skrzynkę pocztową do zasad przechowywania. Spowoduje to umieścić zawartość w archiwum zarówno w skrzynce pocztowej podstawowej, jak i w archiwum. Aby uzyskać więcej informacji na temat tworzenia zasad przechowywania w celu zachowania poczty e-mail, zobacz czynności opisane [tutaj.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
   

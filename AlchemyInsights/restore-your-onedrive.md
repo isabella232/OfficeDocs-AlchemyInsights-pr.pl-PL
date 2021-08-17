@@ -1,5 +1,5 @@
 ---
-title: Przywracanie usługi OneDrive
+title: Przywracanie OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 741c227b5d39282d53d36cefebe9e86290167447
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ab60bc794d50c031e22a7c1497d529f0403dde9b5a45708a54495117c1939f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801302"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109358"
 ---
-# <a name="restore-your-onedrive"></a>Przywracanie usługi OneDrive
+# <a name="restore-your-onedrive"></a>Przywracanie OneDrive
 
-Jeśli wiele plików usługi OneDrive zostanie usuniętych, overwritted, uszkodzonych lub zainfekowanych przez złośliwe oprogramowanie, możesz przywrócić całą swoją usługę OneDrive do poprzedniego czasu w ciągu ostatnich 30 dni.
+Jeśli wiele Twoich OneDrive zostało usuniętych, nadpisanych, uszkodzonych lub zainfekowanych złośliwym oprogramowaniem, możesz przywrócić całe swoje OneDrive do poprzedniego czasu w ciągu ostatnich 30 dni.
   
-1. Przejdź do swojej usługi OneDrive w przeglądarce sieci Web.
+1. Przejdź do OneDrive w przeglądarce internetowej.
     
-2. Kliknij ikonę ustawienia w prawym górnym rogu, a następnie wybierz pozycję **Przywróć usługę OneDrive**.
+2. Kliknij ikonę Ustawienia w prawym górnym rogu, a następnie wybierz pozycję **Przywróć OneDrive**.
     
-3. Wybierz datę z listy lub wybierz **niestandardową datę i godzinę**.
+3. Wybierz datę z listy lub wybierz pozycję **Niestandardowa data i godzina.**
     
-4. Kliknij pozycję **Przywróć** , aby cofnąć wszystkie działania po wybranej dacie. 
+4. Kliknij **pozycję** Przywróć, aby cofnąć wszystkie działania po wybranej dacie. 
     
-[Więcej pomocy dotyczącej korzystania z przywracania plików](https://go.microsoft.com/fwlink/?linkid=872874)
+[Więcej pomocy na temat korzystania z przywracania plików](https://go.microsoft.com/fwlink/?linkid=872874)
   
 

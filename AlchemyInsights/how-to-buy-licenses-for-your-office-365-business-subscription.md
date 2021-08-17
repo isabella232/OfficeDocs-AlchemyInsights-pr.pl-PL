@@ -1,5 +1,5 @@
 ---
-title: Jak kupić licencje dla subskrypcji Aplikacje Microsoft 365 dla firm firmowej
+title: Jak kupić licencje dla subskrypcji Aplikacje Microsoft 365 dla firm subskrypcji
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - commerce_licensing
 - "652"
 - "2000017"
-ms.openlocfilehash: a7c749095478a227f7981b7057a92690d90b9195802bde3a8f784e25d1ac03a7
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 51c3e5ed3398b8d341bc2e84b8ae56bfd36a07f4de167042891a9ed606a94669
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499666"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892549"
 ---
-# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Jak kupić licencje dla subskrypcji Aplikacje Microsoft 365 dla firm firmowej
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Jak kupić licencje dla subskrypcji Aplikacje Microsoft 365 dla firm subskrypcji
 
 Podczas przypisywania licencji do użytkowników może okazać się konieczne zakupienie dodatkowych licencji.
 
@@ -32,4 +32,4 @@ Podczas przypisywania licencji do użytkowników może okazać się konieczne za
 3. W **okienku Kup licencje** w obszarze  Nowa liczba w polu Łączna liczba licencji wprowadź łączną liczbę licencji, które chcesz uzyskać dla tej subskrypcji.  Jeśli na przykład masz 100 licencji i chcesz dodać jeszcze 25, wprowadź 125.
 4. Wybierz **Zapisz**.
 
-Aby dowiedzieć się więcej, [zobacz Kupowanie lub usuwanie licencji.](/microsoft-365/commerce/licenses/buy-licenses)
+Aby dowiedzieć się więcej, [zobacz Kupowanie lub usuwanie licencji.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

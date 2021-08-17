@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 0927d1dac654fc0678709eb19b3d5732536196beae36d102d1a94bf7617b1b45
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311409"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892877"
 ---
 # <a name="view-all-quarantined-messages"></a>Wyświetlanie wszystkich wiadomości poddanych kwarantannie
 
-1. W portalu Microsoft 365 Defender pod adresem , przejdź do <https://security.microsoft.com> tematu Przeglądanie **& poczty e-mail.** \>  \> 
+1. W portalu Microsoft 365 Defender pod adresem , przejdź do poczty <https://security.microsoft.com> **e-mail &** \> **recenzji współpracy.** \> 
 
    Aby przejść bezpośrednio do strony **kwarantanny,** <https://security.microsoft.com/quarantine> użyj .
 

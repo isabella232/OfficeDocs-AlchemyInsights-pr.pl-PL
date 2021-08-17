@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502402"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893065"
 ---
 # <a name="billing-and-payment"></a>Rozliczenia i płatności
 
@@ -55,10 +55,10 @@ Jeśli dodano nową kartę, a na starej karcie kredytowej nadal jest nowe powiad
 
 7. Nowa metoda płatności jest już wybrana na liście rozwijanej. Wybierz pozycję **Zastąp**.
 
-Aby dowiedzieć się więcej, zobacz [Zarządzanie metodami płatności](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Aby dowiedzieć się więcej, zobacz [Zarządzanie metodami płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Częstotliwość rozliczeń**
 
 Rachunki są generowane co miesiąc lub co rok w zależności od częstotliwości rozliczeń wybranej przy finalizacji zakupu.  
 
-**Uwaga:** Zamówienia z rozliczeniem rocznym mogą otrzymać rachunek w połowie okresu, jeśli w nim wnoszono zmiany, takie jak dodawanie lub usuwanie licencji. [Zmień częstotliwość rozliczeń](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Uwaga:** Zamówienia z rozliczeniem rocznym mogą otrzymać rachunek w połowie okresu, jeśli w nim wnoszono zmiany, takie jak dodawanie lub usuwanie licencji. [Zmień częstotliwość rozliczeń](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
