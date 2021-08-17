@@ -13,27 +13,30 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e27c6433c65079af93f2a02a998b7179222336b0cae1149f4196f6fb6558ddac
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976875"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891305"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identyfikowanie działań reguł skrzynki odbiorczej w dziennikach inspekcji
 
-Zdarzenia reguł skrzynki odbiorczej (tworzenie, modyfikowanie i usuwanie reguł skrzynki odbiorczej) Microsoft 365 przy użyciu funkcji przeszukiwania dziennika inspekcji w Centrum & zabezpieczeń i zgodności.
+Zdarzenia reguł skrzynki odbiorczej (tworzenie, modyfikowanie i usuwanie reguł skrzynki odbiorczej) można Centrum zgodności platformy Microsoft 365 za pomocą przeszukiwania dziennika inspekcji.
 
-1. Zaloguj się do [centrum Microsoft 365 zgodności.](https://protection.office.com/)
+1. Wykonaj jedną z następujących czynności:
+   - Na stronie Centrum zgodności platformy Microsoft 365 <https://compliance.microsoft.com> przejdź do **tematu Inspekcja** \> **rozwiązań.** Aby przejść bezpośrednio do strony **Inspekcja,** użyj <https://compliance.microsoft.com/auditlogsearch> .
+   - W portalu Microsoft 365 Defender w <https://security.microsoft.com> witrynie przejdź do tematu **Inspekcja**. Aby przejść bezpośrednio do strony **Inspekcja,** użyj <https://security.microsoft.com/auditlogsearch> .
 
-2. Przejdź do **strony Przeszukiwanie**  >  **dziennika inspekcji wyszukiwania.**
+2. Na karcie **Wyszukiwanie** na stronie **Inspekcja** skonfiguruj następujące ustawienia:
+   - **Zakres dat i godzin:** Zaznacz zakres dat i godzin w polach **Rozpoczęcie** **i** Zakończenie.
+   - **Działania:** Wybierz co najmniej jedną z następujących wartości:
+     - **New-InboxRule Create inbox rule from Outlook Web App**
+     - **Set-InboxRule Modify rule from Outlook Web App**.
+     - **Aktualizowanie reguł skrzynki odbiorczej z Outlook klienta**
 
-3. Zaznacz zakres dat w **polach Data rozpoczęcia** **i Data zakończenia.**
+3. Po zakończeniu kliknij pozycję **Wyszukaj**. Działania zostaną wyświetlone na nowej **stronie Przeszukiwanie** inspekcji.
 
-4. W **Exchange skrzynki** pocztowej sprawdź, czy pole Działania ma ustawioną wartość Nowa skrzynka odbiorczaZamówienie  **Create/modify/enable/disable/inbox rule.**
+4. Wybierz działanie w wynikach, aby otworzyć wysuwne szczegóły. Informacje o ustawieniach reguły skrzynki odbiorczej są wyświetlane w polu **Parametry.**
 
-5. Kliknij **przycisk Wyszukaj**.
-
-W wynikach wybierz rekord inspekcji. W wysuwanych szczegółach kliknij pozycję **Więcej informacji**. Informacje o ustawieniach reguły skrzynki odbiorczej są wyświetlane w polu **Parametry.**
-
-Aby uzyskać więcej informacji, zobacz [Ustalanie, czy użytkownik utworzył regułę skrzynki odbiorczej.](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Aby uzyskać więcej informacji, zobacz [Ustalanie, czy użytkownik utworzył regułę skrzynki odbiorczej.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-created-an-inbox-rule)
