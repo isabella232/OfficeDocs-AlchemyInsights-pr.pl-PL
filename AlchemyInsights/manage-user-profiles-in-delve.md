@@ -1,5 +1,5 @@
 ---
-title: Zarządzanie profilami użytkowników w aplikacji Delve
+title: Zarządzanie profilami użytkowników w Delve
 ms.author: ponincev
 author: pebaum
 ms.date: 04/21/2020
@@ -9,27 +9,27 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 38f209e37ff8a5694ae59f7b7b85e1d439d88a3c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bcd7b20d847492d1f516878fd52dc2a6798b6b2afa90edea8eb4e460834a4eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811826"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042208"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Zarządzanie profilami użytkowników w aplikacji Delve
+# <a name="manage-user-profiles-in-delve"></a>Zarządzanie profilami użytkowników w Delve
 
-Aplikacja Office Delve umożliwia użytkownikom Zarządzanie profilem użytkownika. Użytkownicy mogą wykonywać następujące czynności:
+Office Delve umożliwia użytkownikom zarządzanie ich profilami. Użytkownicy mogą:
   
-- Wyświetlanie i aktualizowanie informacji
+- Wyświetlanie i aktualizowanie informacji o tych użytkownikach
     
-- Utrzymywanie prywatnych informacji
+- Zachowanie prywatne niektórych informacji
     
 - Zmienianie profilu lub obrazu okładki
     
-- Zmienianie formatu języka i godziny dla aplikacji Delve
+- Zmienianie formatu języka i czasu dla Delve
     
 > [!NOTE]
-> Jeśli użytkownik zaktualizował swój obraz profilu, a zmiana nie jest wyświetlana w programie SharePoint ani w usłudze OneDrive, poproś ją o otwarcie przeglądarki sieci Web, [Przejdź do Office.com](https://www.office.com), zaloguj się za pomocą konta służbowego, a następnie kliknij kafelek OneDrive lub SharePoint. Spowoduje to wyświetlenie obrazu profilu do zsynchronizowania. Użytkownik może potrzebować wykonać te czynności z prywatną wersją przeglądarki. 
+> Jeśli użytkownik zaktualizował swoje zdjęcie profilowe, a zmiana nie jest wyświetlana w programie SharePoint lub OneDrive, poproś go o otwarcie przeglądarki internetowej, przejdź do witryny [Office.com,](https://www.office.com)zaloguj się przy użyciu konta służbowego, a następnie kliknij kafelek OneDrive lub SharePoint. Spowoduje to monitowanie o zsynchronizowanie obrazu profilu. Użytkownik może spróbować wykonać te kroki przy użyciu wersji prywatnej swojej przeglądarki. 
   
 [Dowiedz się więcej o aktualizowaniu profilów w aplikacji Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   

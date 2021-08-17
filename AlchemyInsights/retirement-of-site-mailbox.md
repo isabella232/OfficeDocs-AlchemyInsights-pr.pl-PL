@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004319"
 - "7703"
-ms.openlocfilehash: 9077fe8bb6744d42195e4a46b8492c498159d5d6
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: daea50e36ee672b119b5a351e04b1aba18c31754a06b2e59c792e2c748cfcca6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49757329"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074664"
 ---
 # <a name="retirement-of-site-mailbox"></a>Wycofanie skrzynki pocztowej witryny
 
-Skrzynki pocztowe witryn są przestarzałe w programie [2017](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/deprecation-of-site-mailboxes/ba-p/93028) i tworzenie nowych skrzynek pocztowych witryn oraz dostęp użytkowników do skrzynek pocztowych witryny zostały zatrzymane wraz z kolejnymi powiadomieniami. Teraz rozpoczęto proces wycofywania skrzynek pocztowych witryny. Odwiedź [tę](https://aka.ms/SiteMailboxRetirement) stronę, aby uzyskać więcej szczegółów i działań, które należy wykonać.
+W [2017](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/deprecation-of-site-mailboxes/ba-p/93028) roku skrzynki pocztowe witryn zostały wycofane, a tworzenie nowych skrzynek pocztowych witryny i dostęp użytkowników do skrzynek pocztowych witryn został zatrzymany z kolejnymi ogłoszeniami. Teraz rozpoczął się proces wycofywania skrzynek pocztowych witryny. Odwiedź [tę stronę,](https://aka.ms/SiteMailboxRetirement) aby uzyskać więcej szczegółowych informacji i czynności do wykonanego.

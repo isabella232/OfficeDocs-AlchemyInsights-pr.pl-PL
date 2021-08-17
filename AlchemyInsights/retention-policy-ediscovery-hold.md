@@ -1,5 +1,5 @@
 ---
-title: 2609 — zatrzymanie lub-zbieranie elektronicznych materiałów dowodowych — wstrzymanie
+title: 2609-retention-or-ediscovery-hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2609"
 - "9000048"
-ms.openlocfilehash: dee208560e7576597e20aec897f42432d7973727
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3aa158f5f84d3de018f9949ed0123fafec5bbecd7d4c18a3cef8af7fe738d78c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727901"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074834"
 ---
-# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Nie można usunąć elementów w usłudze SharePoint Online ani w usłudze OneDrive dla firm
+# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Nie można usunąć elementów w u SharePoint Online lub OneDrive dla Firm
 
-Użytkownik lub jego użytkownicy mogą nie być w stanie usunąć elementów w usłudze SharePoint Online ani w usłudze OneDrive dla firm, ponieważ zasady przechowywania, etykieta przechowywania lub blokada zbierania elektronicznych materiałów dowodowych są stosowane do witryny programu OneDrive lub do określonego elementu. Obejmuje to nie można usunąć dokumentu, wersji dokumentu, folderu, biblioteki dokumentów, listy, aplikacji, witryny ani zbioru witryn. 
+Być może Ty lub Twoi użytkownicy nie możecie usuwać elementów w uwitrynie SharePoint Online lub programie OneDrive dla Firm, ponieważ do witryny usługi OneDrive lub określonego elementu jest stosowana etykieta przechowywania, etykieta przechowywania lub hold usługi SharePoint zbierania elektronicznych materiałów dowodowych. Oznacza to, że nie można usunąć dokumentu, wersji dokumentu, folderu, biblioteki dokumentów, listy, aplikacji, witryny lub zbioru witryn. 
 
-Aby usunąć elementy z jednego z tych scenariuszy, należy usunąć zasady przechowywania, etykietę przechowywania lub wstrzymanie przechowywania zbierania elektronicznych materiałów dowodowych (lub witrynę należy wykluczyć z zasad przechowywania). Musisz wyłączyć lub wykluczyć odpowiednie zawieszenie, które powoduje ten problem. Gdy zasady przechowywania lub wstrzymanie zostaną usunięte, może upłynąć do 24 godzin, aby zmiana została uwzględniona. 
+Aby usunąć elementy w jednym z tych scenariuszy, należy usunąć zasady przechowywania, etykietę przechowywania lub hold zbierania elektronicznych materiałów dowodowych (lub witrynę należy wykluczyć z zasad przechowywania). Musisz wyłączyć lub wykluczyć odpowiednie hold, które powoduje ten problem. Po usunięciu zasad przechowywania lub ich przechowywania może upłynieć do 24 godzin, aż zmiana zostanie w życie. 
 
-Aby uzyskać informacje na temat różnych funkcji przechowywania i wstrzymywania, które można zastosować do witryn programu SharePoint i kont usługi OneDrive, zobacz dowolny z poniższych tematów.
+Aby uzyskać informacje na temat różnych funkcji przechowywania i przechowywania, które można stosować do witryn SharePoint i kont OneDrive, zobacz jeden z poniższych tematów.
 
 - [Omówienie zasad przechowywania](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
 - [Omówienie etykiet przechowywania](https://docs.microsoft.com/microsoft-365/compliance/labels)
-- [Zarządzanie blokadami w zaawansowanej zbierania elektronicznych materiałów dowodowych](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
-- [przechowywane zbieranie elektronicznych materiałów dowodowych](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
-- [Zasady zamykania i usuwania starszych witryn](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
+- [Zarządzanie rekordami w Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
+- [Zbierania elektronicznych materiałów dowodowych](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- [Starsze zasady zamykania i usuwania witryny](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
