@@ -15,20 +15,20 @@ ms.custom:
 - "5200006"
 - "7996"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: a298f8e285b5fa84bcd5c3d21a00ca3a53aa4275a87d91452e6c41587fd20e7b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 44a6ca5d8ab4a27b844dadb6da8e0d8c6cf9657f1543883389eee6e7d743a930
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54102833"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891505"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Usuwanie witryny SharePoint, która należy do grupy Microsoft 365 grupy
+# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Usuwanie SharePoint, która należy do grupy Microsoft 365 grupy
 
 Usunięcie witryny połączonej z grupą spowoduje usunięcie grupy i wszystkich jej zasobów, w tym skrzynki Outlook pocztowej i kalendarza oraz wszystkich Teams kanałów.
   
 Ważne:
 
-- Usunięte witryny można odzyskać przez 93 dni. Usunięte grupy należy przywrócić w ciągu 30 dni. [Wyświetlanie i przywracanie usuniętych witryn](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) bezpośrednio w SharePoint administracyjnego. Aby [wyświetlić i przywrócić usunięte **grupy,**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups)wybierz pozycję **Zarządzaj grupami**, a następnie wybierz pozycję **Usunięte**.
-- Jeśli witryna jest częścią zasad przechowywania, jej usunięcie może nie być możliwe, dopóki witryna nie zostanie usunięta z Centrum administracyjnego usługi & zabezpieczeń i [zgodności.](https://protection.office.com/?rfr=AdminCenter#/retention) Aby uzyskać więcej informacji, zobacz [Omówienie zasad przechowywania.](/microsoft-365/compliance/retention-policies)
+- Usunięte witryny można odzyskać przez 93 dni. Usunięte grupy należy przywrócić w ciągu 30 dni. [Wyświetlanie i przywracanie usuniętych witryn](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) bezpośrednio z SharePoint administracyjnego. Aby [wyświetlić i przywrócić usunięte **grupy,**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups)wybierz pozycję **Zarządzaj grupami**, a następnie wybierz pozycję **Usunięte**.
+- Jeśli witryna jest częścią zasad przechowywania, jej usunięcie może nie być możliwe, dopóki witryna nie zostanie usunięta z Centrum administracyjnego centrum & zabezpieczeń i [zgodności.](https://protection.office.com/?rfr=AdminCenter#/retention) Aby uzyskać więcej informacji, zobacz [Omówienie zasad przechowywania.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
   
-Aby uzyskać więcej informacji, zobacz [Zarządzanie witrynami w nowym centrum SharePoint administracyjnego.](/sharepoint/manage-sites-in-new-admin-center)
+Aby uzyskać więcej informacji, zobacz [Zarządzanie witrynami w nowym centrum SharePoint administracyjnego.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)
