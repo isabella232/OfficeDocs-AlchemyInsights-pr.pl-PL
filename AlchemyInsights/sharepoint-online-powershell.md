@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 7b827f1c09ebf56e332b75b15ef659ff95328950030cb860da652555efe45f28
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 90820c218da2acbef8dd8a8733b70ce3703a565b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54022920"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58310185"
 ---
 # <a name="sharepoint-powershell-unable-to-connect"></a>Program SharePoint PowerShell nie może nawiązać połączenia
 
-Jeśli występują problemy podczas nawiązywania połączenia z modułem SharePoint PowerShell w trybie online, zobacz Błędy podczas nawiązywania połączenia z powłoką SharePoint [zarządzania online.](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)
+Jeśli występują problemy podczas nawiązywania połączenia z modułem SharePoint PowerShell w trybie online, zobacz Błędy podczas nawiązywania połączenia z powłoką SharePoint [zarządzania online.](https://docs.microsoft.com/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)

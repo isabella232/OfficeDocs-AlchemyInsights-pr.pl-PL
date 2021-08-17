@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5671d8ede9b195f63a5d96767c46b4757d3e887547d31b82c969c36dc974f753
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988269"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898866"
 ---
 # <a name="fix-anti-spam-policy"></a>Naprawianie zasad ochrony przed spamem
 
-Ten komunikat został dostosowany do niestandardowych zasad ochrony przed spamem w dzierżawie. Aby przejrzeć zasady, wykonaj następujące czynności:
+Jedna z zasad ochrony przed spamem wpłynęła na tę wiadomość. Aby przejrzeć zasady, wykonaj następujące czynności:
 
-1. Przejdź do Centrum [Office 365 zabezpieczeń &](https://go.microsoft.com/fwlink/p/?linkid=2077143), a następnie przejdź do strony Ochrona przed spamem przy zasadach zarządzania  >    >  [zagrożeniami.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Na karcie **Niestandardowe** wybierz pozycję Domyślne zasady **filtrowania spamu** lub inne utworzone przez Ciebie zasady niestandardowe, a następnie wybierz **pozycję Edytuj zasady.**
-3. Rozwiń opcję **Właściwości spamu** i przejrzyj **ustawienia Oznacz jako spam.**
+1. W portalu Microsoft 365 Defender pod adresem przejdź do sekcji Zasady & <https://security.microsoft.com/>  \>  \>  \> **e-mail**  & zasady zagrożeń dotyczące ochrony przed spamem w sekcji Zasady.
 
-Aby uzyskać więcej informacji na temat konfigurowania zasad filtrowania spamu, zobacz [Konfigurowanie ustawień niestandardowych zasad filtru spamu.](https://go.microsoft.com/fwlink/?linkid=2101054)
+   Aby przejść bezpośrednio do strony Zasady ochrony **przed spamem,** <https://security.microsoft.com/antispam> użyj .
+
+2. Na stronie Zasady ochrony przed **spamem** wybierz zasady, klikając nazwę zasad **(** Wpisz  Niestandardowa zasada ochrony przed spamem lub Nazwa to Zasady przychodzące ochrony przed **spamem** **(domyślnie)**).
+
+3. W wyświetlonym wysuwaniu  szczegółów kliknij pozycję Edytuj próg spamu i właściwości w sekcji Próg poczty e-mail & **właściwości spamu,** wybierz pozycję Edytuj akcje **i** przejrzyj ustawienia Oznacz jako **spam.**
+
+Aby uzyskać więcej informacji, [zobacz Konfigurowanie zasad ochrony przed spamem w u usługi EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

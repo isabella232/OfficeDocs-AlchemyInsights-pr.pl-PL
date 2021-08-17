@@ -16,29 +16,29 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 541a38088833f8e9f79450bc74486365a1b34de845728a7a621a8f21e67cd162
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: fc052672ecb4363204f3756080c7031fde44738ec9b9955aa7ffbe9b57d2603a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503590"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899030"
 ---
-# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Kupowanie subskrypcji w celu Microsoft 365 z bezpłatnej wersji próbnej
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Kupowanie subskrypcji dla Microsoft 365 z bezpłatnej wersji próbnej
 
-Po wypróbowaniu Microsoft 365 chcesz coś kupić. Dostępne są dwie opcje zakupu Microsoft 365 wersji próbnej:
+Po wypróbowaniu Microsoft 365 chcesz kupić. Dostępne są dwie opcje zakupu Microsoft 365 wersji próbnej:
   
  **Kupowanie tego samego planu, z którego korzystano w wersji próbnej**
   
 1. W centrum administracyjnym przejdź do strony **Rozliczenia** \> [z produktami.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **karcie Produkty** wybierz subskrypcję, którą chcesz kupić.
-3. Na stronie szczegóły subskrypcji w sekcji **Licencja** wybierz pozycję **Kup** subskrypcję płatną teraz , a następnie postępuj zgodnie z instrukcjami, aby ją wyewidencjonować.
+3. Na stronie szczegóły subskrypcji w sekcji **Licencja** wybierz pozycję Kup subskrypcję płatną **teraz**, a następnie postępuj zgodnie z instrukcjami, aby ją wyewidencjonować.
  
 **Kupowanie innej subskrypcji**
   
 1. W centrum administracyjnym przejdź do **strony** \> [Zakup usług rozliczeniowych.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 2. Znajdź subskrypcję, którą chcesz kupić, wybierz **pozycję Kup** i postępuj zgodnie z instrukcjami, aby doewidencjonać.
 
-Aby dowiedzieć się więcej, [zobacz Kupowanie subskrypcji z bezpłatnej wersji próbnej.](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)
+Aby dowiedzieć się więcej, [zobacz Kupowanie subskrypcji z bezpłatnej wersji próbnej.](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)
 
 **Rozwiązywanie problemów**
 

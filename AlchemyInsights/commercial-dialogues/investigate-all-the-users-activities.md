@@ -13,26 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 5375efe4998ee8720867b77a8c9ed60e3eda92e5b00fd3b6e93c0afab09fec2b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949397"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898806"
 ---
 # <a name="investigate-all-the-users-activities"></a>Badanie działań wszystkich użytkowników
 
 Poniżej opisano, jak to zrobić:
 
-1. Przejdź do [Centrum & zabezpieczeń i zgodności.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Wybierz **pozycję**  >  **[Przeszukiwanie dziennika inspekcji wyszukiwania](https://go.microsoft.com/fwlink/?linkid=2103759)**.
+1. Wykonaj jedną z następujących czynności:
+   - Na stronie Centrum zgodności platformy Microsoft 365 <https://compliance.microsoft.com> przejdź do **tematu Inspekcja** \> **rozwiązań.** Aby przejść bezpośrednio do strony **Inspekcja,** użyj <https://compliance.microsoft.com/auditlogsearch> .
+   - W portalu Microsoft 365 Defender w <https://security.microsoft.com> witrynie przejdź do tematu **Inspekcja**. Aby przejść bezpośrednio do strony **Inspekcja,** użyj <https://security.microsoft.com/auditlogsearch> .
+
     > [!NOTE]
     > Jeśli zauważysz, że musisz włączyć tę funkcję, możesz ją włączyć już teraz. Jeśli funkcja nie jest włączona, wyniki wyszukiwania nie będą mogły ściągać danych z poprzednich dat.
 
-1. Jeśli interesuje Cię określone działanie, wybierz je z **listy Działania.** Jeśli nie, domyślnie wszystkie działania zostaną zwrócone dla wybranego użytkownika.
-1. Określ zakres dat, a  następnie w polu Użytkownicy wybierz nazwę użytkownika, którego chcesz zbadać. Możesz wybrać więcej niż jednego użytkownika na raz.
-1. Kliknij **przycisk Wyszukaj**. Działania zostaną wyświetlone w obszarze **Wyniki**. Zobaczysz adres IP, nazwę użytkownika i działanie.
-1. Aby pobrać wyniki, wybierz pozycję **Eksportuj wyniki**.
-1. Aby przejrzeć szczegóły, zaznacz działanie, a następnie rozwiń **pozycję Więcej informacji.**
+2. Na karcie **Wyszukiwanie** na stronie **Inspekcja** skonfiguruj następujące ustawienia:
+   - **Zakres dat i godzin:** Zaznacz zakres dat i godzin w polach **Rozpoczęcie** **i** Zakończenie.
+   - **Działania:** Jeśli interesuje Cię określone działanie, wybierz je z listy. w przeciwnym razie wartość domyślna **Pokaż wyniki dla wszystkich działań** zwraca wszystkie działania.
+   - **Użytkownicy:** zaakceptuj pustą wartość domyślną, aby zwrócić wyniki wszystkim użytkownikom, lub wprowadź co najmniej jednego użytkownika.
 
-Aby dowiedzieć się więcej, zobacz [Przeszukiwanie dziennika inspekcji w celu rozwiązania typowych scenariuszy.](https://go.microsoft.com/fwlink/?linkid=2103944)
+3. Po zakończeniu kliknij pozycję **Wyszukaj**. Działania zostaną wyświetlone na nowej **stronie Przeszukiwanie** inspekcji. Zostanie wyświetlony adres **IP**, **nazwa** użytkownika i **działania.**
+
+4. Aby pobrać wyniki, wybierz pozycję **Eksportuj** \> **pobierz wszystkie wyniki.**
+
+5. Wybierz działanie w wynikach, aby otworzyć wysuwne szczegóły.
+
+Aby dowiedzieć się więcej, zobacz [Przeszukiwanie dziennika inspekcji w celu zbadania typowych problemów z obsługą.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
