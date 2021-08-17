@@ -1,5 +1,5 @@
 ---
-title: Automatyczne logowanie się do programu Microsoft Edge
+title: Automatyczne logowanie Microsoft Edge konta
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,21 +15,21 @@ ms.custom:
 - "6898"
 - "8333"
 - "9004625"
-ms.openlocfilehash: 6021991c125f5cb2a33ce8db8fe7717b528bf49b
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 4e069a1c75caabf3bef7387140edd5650cf966856b888b5c6b5618a603986d6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398739"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050704"
 ---
-# <a name="sign-in-to-microsoft-edge-automatically"></a>Automatyczne logowanie się do programu Microsoft Edge
+# <a name="sign-in-to-microsoft-edge-automatically"></a>Automatyczne logowanie Microsoft Edge konta
 
-Program Microsoft Edge używa domyślnego konta systemu operacyjnego do automatycznego logowania użytkownika zgodnie z konfiguracją urządzenia użytkownika. 
+Microsoft Edge konta domyślnego systemu operacyjnego są używane do automatycznego logowania użytkownika zgodnie z konfiguracją urządzenia użytkownika. 
 
 Poniżej opisano scenariusze dotyczące poszczególnych typów konfiguracji urządzenia i zależnego od niego procesu logowania użytkownika:
 
-- **To urządzenie jest hybrydowe/AAD-J:** Ta opcja jest dostępna w systemie Windows 10 oraz w odpowiednich wersjach serwera. Użytkownicy są automatycznie zalogowani przy użyciu kont usługi Azure Active Directory (AD).
-- **Urządzenie jest przyłączone do** domeny: Ta opcja jest dostępna w systemie Windows 10, na poziomie poprzednich wersji systemu Windows i w odpowiadających im wersjach serwera. Domyślnie użytkownicy z kontami domeny nie są zalogowani automatycznie. aby włączyć dla nich automatyczne logowanie się, użyj zasad **ConfigureOnPremisesAccountAutoSignIn.** Aby włączyć automatyczne logowanie dla użytkowników z kontami usługi Azure AD, rozważ dołączanie hybrydowe ich urządzeń.
-- Konto domyślne systemu operacyjnego to konto **Microsoft:** Ta opcja jest dostępna w systemie Windows 10 RS3 (wersja 1709, kompilacja 10.0.16299) i w nowszych wersjach. Scenariusz jest mało prawdopodobny na urządzeniach w przedsiębiorstwie. Jeśli jednak kontem domyślnym systemu operacyjnego jest konto Microsoft, program Microsoft Edge automatycznie zaloguje się użytkownika za pomocą konta Microsoft.
+- **Urządzenie jest hybrydowe/AAD-J:** Ta opcja jest dostępna w Windows 10 wersji Windows i odpowiednich wersjach serwera. Użytkownicy są automatycznie zalogowani przy użyciu kont Azure Active Directory (AD).
+- **Urządzenie jest przyłączone do** domeny: ta opcja jest dostępna Windows 10 serwerach, Windows i odpowiadających im wersjach serwera. Domyślnie użytkownicy z kontami domeny nie są zalogowani automatycznie. aby włączyć dla nich automatyczne logowanie się, użyj zasad **ConfigureOnPremisesAccountAutoSignIn.** Aby włączyć automatyczne logowanie dla użytkowników z kontami usługi Azure AD, rozważ dołączanie hybrydowe ich urządzeń.
+- Konto domyślne systemu operacyjnego to konto **Microsoft:** Ta opcja jest dostępna w systemie Windows 10 RS3 (wersja 1709, kompilacja 10.0.16299) i nowszych wersjach. Scenariusz jest mało prawdopodobny na urządzeniach w przedsiębiorstwie. Jeśli jednak kontem domyślnym systemu operacyjnego jest konto Microsoft, Microsoft Edge automatycznie zaloguje się do użytkownika za pomocą konta Microsoft.
  
  

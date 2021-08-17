@@ -1,5 +1,5 @@
 ---
-title: Nie Wymuszaj uaktualnienia. Jak wrócić do poprzedniej wersji pakietu Office?
+title: Nie wymusię uaktualnienia. Jak wrócić do poprzedniej Office wersji?
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,17 +14,17 @@ ms.custom:
 - "265"
 - "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: cc8084e08930f7ecea9676996419112106d42bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3ff997f7241ac5b266391f2b9f84b7edd691dc84ed641e77b091d33c5a3dbf5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079604"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Nie Wymuszaj uaktualnienia. Jak wrócić do poprzedniej wersji pakietu Office?
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Nie wymusię uaktualnienia. Jak wrócić do poprzedniej Office wersji?
 
-Podczas otwierania pliku pakietu Office może zostać otwarta wersja próbna aplikacji pakietu Office, a nie inna wersja. Dzieje się tak, jeśli korzystasz z wersji próbnej produktu Microsoft 365.
+Podczas otwierania Office pliku może zostać otwarta wersja próbna aplikacja pakietu Office, a nie inna wersja. Tak się stanie, jeśli masz wersję Microsoft 365 próbną.
   
-Po zainstalowaniu wersji próbnej programu Microsoft 365 wersja próbna aplikacji jest zainstalowana na 2016. Te wersje próbne są domyślne dla otwierania plików programów Word, Excel i PowerPoint. Jeśli na przykład masz zainstalowany program Excel 2013 i zainstalowano wersję próbną usługi Microsoft 365, skoroszyty będą otwierane w wersji próbnej programu Excel 2016.
+Po zainstalowaniu wersji Microsoft 365 próbnej są instalowane wersje próbne aplikacji w wersji 2016. Te wersje próbne stają się domyślnymi wersjami do otwierania plików programu Word, Excel i PowerPoint plików. Jeśli na przykład masz zainstalowany program Excel 2013 i zainstalowano również wersję próbną programu Microsoft 365, skoroszyty zostaną otwarte w wersji próbnej pakietu Excel 2016.
   
-Jeśli ten problem występuje, możesz [odinstalować](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) aplikacje usługi 2016 i używać starszych wersji już zainstalowanych aplikacji. Możesz też [odinstalować](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) starsze wersje aplikacji i uaktualnić je do nowszych wersji dołączonych do systemu Microsoft 365.
+Jeśli występuje ten problem, [](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) możesz odinstalować aplikacje w wersji 2016 i używać starszych wersji aplikacji, które już zostały zainstalowane. Możesz też [odinstalować](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) starsze wersje aplikacji i uaktualnić je do nowszej wersji dołączonej do pakietu Microsoft 365.
