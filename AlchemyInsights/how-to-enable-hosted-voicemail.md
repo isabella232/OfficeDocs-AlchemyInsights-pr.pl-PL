@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679170"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055564"
 ---
 # <a name="how-to-enable-hosted-voicemail"></a>Jak włączyć hostowaną pocztę głosową
 
-Aby włączyć pocztę głosową, **HostedVoicemail** musi być ustawiona na $true.
+Aby włączyć pocztę głosową, dla poczty **e-mail usługi HostedVoice** musi być $true.
 
-Właściwość **HostedVoicemail** użytkownika przy użyciu zdalnego programu POWERSHELL (RPS).
+Właściwość **HostedVoicemail** użytkownika przy użyciu zdalnej obsługi programu PowerShell (RESEARCHS).
 
-Aby uzyskać więcej informacji na temat łączenia się z usługą RPS, zobacz [Omówienie programu Microsoft Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) , aby uzyskać więcej informacji na temat łączenia się z RPS.
+Aby uzyskać więcej informacji na temat nawiązywania połączeń z tym programem, zobacz Microsoft Teams Omówienie programu [PowerShell,](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) aby uzyskać więcej informacji na temat nawiązywania połączeń z tym programem.
 
-1. Administrator zespołów powinien być zalogowany do zdalnego programu PowerShell dla aplikacji Teams.
-1. Z poziomu monitu programu PowerShell administrator Teams może uruchomić aplikację **Set-csuser user@contoso.com-HostedVoiceMail $true** , gdzie identyfikator URI SIP ma dany użytkownik.
+1. Administrator Teams powinien być zalogowany do zdalnej pracy w programie PowerShell dla Teams.
+1. W programie PowerShell zostanie wyświetlony monit Teams administrator może uruchomić polecenia **set-csuser user@contoso.com -HostedVoiceMail $true,** gdzie identyfikator uri SIP jest identyfikatorem uri użytkownika.
 
 > [!NOTE]
-> Replikowanie zmian zasad może potrwać do 24 godzin.
+> Replikowanie zmian w zasadach może potrwać do 24 godzin.

@@ -15,18 +15,18 @@ ms.custom:
 - commerce_licensing
 - "9002564"
 - "4969"
-ms.openlocfilehash: 9cde345ff84d6d4e78214a4707700e796b0cd23228b1e1af2ee315ffd88b4fc6
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: a5a6895c0adb3345309585d5c26b8bf4969a02a8b51cd7d537105f81c3d9ea4f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500386"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891048"
 ---
 # <a name="power-bi-license-management"></a>Zarządzanie licencjami usługi Power BI
 
 Power BI zarządzania licencjami można ukończyć w centrum administracyjne platformy Microsoft 365.
 
-- **Aby kupić Power BI:** Przejdź do tematu Zakup **usług** \> **[rozliczeniowych.](https://go.microsoft.com/fwlink/p/?linkid=868433)** Użyj pola wyszukiwania, aby wyszukać "Power BI", a następnie wybierz plan i liczbę użytkowników, których chcesz kupić. Aby uzyskać więcej informacji, zobacz [Kupowanie innej subskrypcji](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
-- **Aby przypisać Power BI:** Przejdź do **tematu Licencje**  >  **[rozliczeniowe.](https://go.microsoft.com/fwlink/p/?linkid=842264)** Aby uzyskać więcej informacji, zobacz [Przypisywanie licencji do użytkowników](/microsoft-365/admin/manage/assign-licenses-to-users).
-- **Aby dodać lub usunąć** licencje usługi Power BI: Przejdź do rozliczenia produktów , znajdź subskrypcję, którą chcesz zmienić, wybierz pozycję Więcej opcji (trzy kropki), a następnie wybierz pozycję Kup   >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** **licencje.**  Aby usunąć licencje, w górnej części okienka **Kupowanie** licencji wybierz pozycję **Usuń licencje**. Aby uzyskać więcej informacji, [zobacz Kupowanie lub usuwanie licencji](/microsoft-365/commerce/licenses/buy-licenses).\
+- **Aby kupić Power BI:** Przejdź do tematu Zakup **usług** \> **[rozliczeniowych.](https://go.microsoft.com/fwlink/p/?linkid=868433)** Użyj pola wyszukiwania, aby wyszukać "Power BI", a następnie wybierz plan i liczbę użytkowników, których chcesz kupić. Aby uzyskać więcej informacji, zobacz [Kupowanie innej subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- **Aby przypisać Power BI rozliczeniowych:** Przejdź do   >  **[tematu Licencje rozliczeniowe.](https://go.microsoft.com/fwlink/p/?linkid=842264)** Aby uzyskać więcej informacji, zobacz [Przypisywanie licencji do użytkowników](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- **Aby dodać lub** usunąć licencje usługi Power BI: Przejdź do rozliczenia produktów , znajdź subskrypcję, którą chcesz zmienić, wybierz pozycję Więcej opcji (trzy kropki), a następnie wybierz pozycję Kup  >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** **licencje.**  Aby usunąć licencje, w górnej części okienka **Kupowanie** licencji wybierz pozycję **Usuń licencje**. Aby uzyskać więcej informacji, [zobacz Kupowanie lub usuwanie licencji](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).\
 **OBEJRZYJ KLIP WIDEO,** w który pokazano, jak to zrobić: [Kupowanie nowych licencji](https://go.microsoft.com/fwlink/p/?linkid=2154857)
