@@ -1,5 +1,5 @@
 ---
-title: Blokowanie podpisów e-mail wykonanych przez użytkownika
+title: Blokowanie podpisów e-mail przez użytkowników
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: dab7eacb617c8f3a8bd63634e974166b6e448d75
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: ad743cea4b8735b35b90bd5bf3d0b5b933184ed82858e828a68beb2ca2f8270c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482307"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103562"
 ---
-# <a name="block-user-made-email-signatures"></a>Blokowanie podpisów e-mail wykonanych przez użytkownika
+# <a name="block-user-made-email-signatures"></a>Blokowanie podpisów e-mail przez użytkowników
 
-Poniższe rozwiązanie dotyczy tylko podpisów e-mail utworzonych w aplikacji Outlook w sieci Web. Podpisy można blokować tylko w aplikacji Outlook, jeśli masz aplikację lokalną Exchange Server.
+Poniższe rozwiązanie dotyczy tylko podpisów e-mail utworzonych w programie Outlook w sieci Web. Podpisy w aplikacji mobilnej można blokować tylko Outlook, jeśli masz aplikację lokalną Exchange Server.
 
-1. W centrum administracyjnym wybierz pozycję **Centra administracyjne programu**  >  **Exchange.**
-2. Kliknij **uprawnienia zasady** aplikacji Outlook Web  >  **App.**
+1. W centrum administracyjnym wybierz pozycję **Centra**  >  **administracyjne Exchange.**
+2. Kliknij **pozycję uprawnienia** Outlook Web App  >  **zasad.**
 3. Wybierz zasady, a następnie kliknij ikonę ołówka, aby je edytować.
-4. Kliknij **pozycję Więcej**  >  **opcji.**
-5. W **obszarze Środowisko użytkownika** wyczyść pole wyboru Podpis e-mail, a następnie kliknij przycisk **Zapisz.** 
+4. Kliknij **funkcje**  >  **Więcej opcji.**
+5. W **obszarze Środowisko użytkownika** wyczyść pole wyboru Podpis **e-mail,** a następnie kliknij przycisk **Zapisz**.
 
 **Ważne:** Jeśli przed wyczyszczeniem tego pola wyboru dodano podpis, użytkownik nadal będzie mógł go używać. Poproś ją o jej usunięcie.

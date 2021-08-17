@@ -1,5 +1,5 @@
 ---
-title: Konfigurowanie aplikacji pakietu Office po raz pierwszy na urządzeniu z systemem Android
+title: Konfigurowanie Office aplikacji po raz pierwszy na urządzeniu z systemem Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003965"
 - "7021"
-ms.openlocfilehash: 13adc48acc4dca8735115a7d4cbe57a76ea89df2
-ms.sourcegitcommit: 77d16f186ac95e85be2528c4756f0dac9368fe92
+ms.openlocfilehash: 0bf2156e5aedce40262c2b10ccaed0fbcd7c877c8709c6f2d68d20bdad7dd517
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722181"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073862"
 ---
-# <a name="set-up-office-apps-for-the-first-time-on-an-android-device"></a>Konfigurowanie aplikacji pakietu Office po raz pierwszy na urządzeniu z systemem Android
+# <a name="set-up-office-apps-for-the-first-time-on-an-android-device"></a>Konfigurowanie Office aplikacji po raz pierwszy na urządzeniu z systemem Android
 
-Na urządzeniu z systemem Android możesz zainstalować pakiet Office jako aplikację mobilną pakietu Office, która łączy programy Word, Excel i PowerPoint w jedną aplikację, lub możesz zainstalować oddzielnie aplikacje pakietu Office. W tym celu:
+Na urządzeniu z systemem Android możesz zainstalować aplikację Office jako aplikację mobilną Office, która łączy programy Word, Excel i PowerPoint w jedną aplikację, lub możesz zainstalować aplikacje pakietu Office pojedynczo. W tym celu:
 
-1. Otwórz aplikację pakietu Office, na przykład program Excel, zaloguj się za pomocą konta Microsoft, a następnie naciśnij pozycję **dalej**.
-2. Naciśnij pozycję **tak** lub **nie** , aby pomóc nam ulepszyć środowisko pakietu Office Mobile, a następnie naciśnij pozycję **Włącz powiadomienia** , aby włączyć alerty, lub **nie teraz** , aby zrezygnować.
+1. Otwórz aplikacja pakietu Office, na przykład Excel, zaloguj się przy użyciu konta Microsoft, a następnie naciśnij pozycję **Dalej**.
+2. Naciśnij **pozycję Tak** lub **Nie,** aby pomóc nam ulepszyć swoje środowisko Office urządzenia przenośnego, a następnie naciśnij pozycję Włącz powiadomienia, aby włączyć alerty, lub Nie teraz, aby zrezygnować.  
     > [!NOTE]
-    > Po zalogowaniu się konto zostanie automatycznie dodane do innych aplikacji pakietu Office zainstalowanych na urządzeniu z systemem Android.
-3. Dodatkowych Aby dodać kolejne konto lub usługę w chmurze, na przykład OneDrive dla firm lub Dropbox, naciśnij pozycję **Otwórz**  >  **Dodaj miejsce**. Jeśli korzystasz z programu OneNote, naciśnij pozycję **Ustawienia**  >  **kont**, a następnie wybierz usługę w chmurze, którą chcesz dodać.
-4. Wprowadź adres e-mail i hasło, których używasz do logowania się do tej usługi. To wszystko!
+    > Po zalogowaniu Twoje konto zostanie automatycznie dodane do innych aplikacji pakietu Office zainstalowanych na urządzeniu z systemem Android.
+3. (Opcjonalnie) Aby dodać inne konto lub usługę w chmurze, na przykład OneDrive dla firm lub Dropbox, naciśnij **pozycję Otwórz**  >  **dodaj miejsce**. Jeśli korzystasz z OneNote, naciśnij pozycję **Ustawienia** Accounts (Konta), a następnie wybierz usługę w chmurze,  >  którą chcesz dodać.
+4. Wprowadź adres e-mail i hasło, których używasz do logowania się do tej usługi. Możesz przejść dalej.
 
-Aby uzyskać instrukcje dotyczące pobierania pakietu Office dla urządzeń przenośnych lub poszczególnych aplikacji pakietu Office, zobacz [Instalowanie i Konfigurowanie pakietu Office w systemie Android](https://go.microsoft.com/fwlink/?linkid=2135287).
+Aby uzyskać instrukcje dotyczące pobierania aplikacji Office dla urządzeń przenośnych lub poszczególnych Office, zobacz Instalowanie i konfigurowanie aplikacji [Office na urządzeniu z systemem Android.](https://go.microsoft.com/fwlink/?linkid=2135287)

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: f905aedc95f5791c51bcff52a2a7a725c159732f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 119496a2a13b4b07bf954702eed95e29984358f03114ed42d44c26a422292836
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103922"
 ---
-# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Kolejki połączeń w aplikacjach Microsoft Teams i Skype dla firm 
+# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Kolejki połączeń w Microsoft Teams i Skype dla firm 
 
 Aby rozpocząć korzystanie z kolejek połączeń, skorzystaj z poniższych linków.
 
 - [Tworzenie kolejki połączeń w chmurze](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [Odbieranie automatycznej automatycznej attendant i dzwonienie w kolejce bezpośrednio z usługi Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+- [Odbieranie automatycznej attendant i dzwonienie w kolejce bezpośrednio z Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
