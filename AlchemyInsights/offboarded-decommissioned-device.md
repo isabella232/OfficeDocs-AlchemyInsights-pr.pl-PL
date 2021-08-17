@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 46ac46c583cd0ac956797737d8150277f0d79ba5
-ms.sourcegitcommit: c685f197dbf83a9dfd85e9acfdf14a4daf0e9a5a
+ms.openlocfilehash: 814301e9cd8197e62dcca68ab3bdde1618d210f73a744b53bb5af7b861eb02bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52564344"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076662"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>Problemy z usuwaniem wyeksłowanych lub likwidowanych urządzeń ze spisu urządzeń
 
@@ -30,7 +30,7 @@ Ze względów bezpieczeństwa urządzenie pozostaje w portalu jako rekord histor
  
 Jeśli nadal nie chcesz wyświetlać niektórych urządzeń w widoku Spis urządzeń, spróbuj użyć tagu urządzenia w celu odfiltrowanie zlikwidowanych urządzeń w widoku Spis urządzeń.
 
-Aby uzyskać więcej informacji, zobacz:
+Więcej informacji można znaleźć w następujących artykułach:
 
 [Urządzenia wye webboard z usługi Microsoft Defender for Endpoint](/microsoft-365/security/defender-endpoint/offboard-machines.md)
 

@@ -1,5 +1,5 @@
 ---
-title: Kod błędu 550 5.7.705 — odmowa dostępu, dzierżawa przekroczyła próg
+title: Kod błędu 550 5.7.705 odmowa dostępu, dzierżawa przekroczyła próg
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -13,17 +13,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: d3c1eddf22b61c14e8bb82de5f2e16e84786657c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f35aaccb0bc80ddcb46e37533ee36c35b8cf520421786a809b28cfa70e16391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784029"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044206"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 — odmowa dostępu, dzierżawa przekroczyła próg
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Odmowa dostępu, dzierżawa przekroczyła próg
 
-Ten komunikat jest wyświetlany, gdy Twoja organizacja wysłała zbyt dużo spamu lub poczta zbiorcza i umieścisz blok na wiadomościach wychodzących.
-Typowe przyczyny narażano lokalne serwery lub konta administratora, które zostały użyte do utworzenia łączników. Każdy warunek może umożliwić przekazanie spamu przez organizację.
+Ten komunikat występuje, gdy organizacja wysłała zbyt dużo spamu lub poczty masowej i blokujemy pocztę wychodzącą.
+Typowe przyczyny to naruszone serwery lokalne lub naruszone konta administratora użyte do utworzenia łączników. Oba warunki mogą zezwalać na wysyłanie spamu przez twoją organizację.
 
-Aby usunąć ten blok, należy zrozumieć i wyjaśnić przyczynę działania agenta pomocy technicznej, a także rozwiązać problem podstawowy.
-Kliknij pozycję **skontaktuj się z nami** poniżej, gdy wszystko będzie gotowe.
+Aby usunąć tę blokadę, musisz zrozumieć i wyjaśnić przyczynę przedstawicielowi pomocy technicznej, a także rozwiązać problem źródłowy.
+Gdy **wszystko będzie gotowe,** kliknij pozycję Skontaktuj się z nami poniżej.

@@ -1,5 +1,5 @@
 ---
-title: Usługa OneDrive jest zablokowana w trakcie przetwarzania zmian
+title: OneDrive się na przetwarzanie zmian
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,15 +13,15 @@ ms.assetid: ''
 ms.custom:
 - "9003089"
 - "5842"
-ms.openlocfilehash: 984d7975e14d4ecfc91b4602470e4341f63d3122
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 603afed979f9b15315fd41e1ab139936ec0bb7a21ad4bcb3a56279a104bc0267
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802643"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076067"
 ---
-# <a name="onedrive-is-stuck-on-processing-changes"></a>Usługa OneDrive jest zablokowana w trakcie przetwarzania zmian
+# <a name="onedrive-is-stuck-on-processing-changes"></a>OneDrive się na przetwarzanie zmian
 
-Jeśli w programie OneDrive są wyświetlane "przetwarzanie zmian" przez dłuższy czas, może to być spowodowane otwarciem pliku online, wypełnieniem wielu plików w kolejce lub bardzo dużym synchronizacją pliku. Zapoznaj  [się z informacją o tym, że usługa OneDrive jest zablokowana na "przetwarzanie zmian"](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) , a następnie więcej informacji.
+Jeśli OneDrive komunikat "Przetwarzanie zmian" przez dłuższy czas, może to być spowodowane tym, że masz otwarty plik online, wiele plików utknęło w kolejce lub bardzo duże synchronizowanie plików. Przeczytaj [OneDrive się na temat "Przetwarzanie zmian",](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) aby zapoznać się z sugerowanym krokiem i uzyskać więcej informacji.
 
-Jeśli potrzebujesz dodatkowej pomocy, możesz  [wysłać wiadomość e-mail z obsługą usługi OneDrive](https://go.microsoft.com/fwlink/p/?LinkId=528676).
+Jeśli potrzebujesz pomocy, możesz wysłać wiadomość [e-mail OneDrive pomocy technicznej.](https://go.microsoft.com/fwlink/p/?LinkId=528676)

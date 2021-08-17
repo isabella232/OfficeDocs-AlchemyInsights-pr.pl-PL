@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000136"
 - "5696"
-ms.openlocfilehash: 79eac285a9816a53369ef0fac5bd158f1234615d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5cef5125e13cfe351d5909332212906e642a8c9bb840835f909fa3a6cdd7a441
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811790"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043549"
 ---
 # <a name="handle-sharepoint-online-throttling-by-using-exponential-back-off"></a>Obsługa ograniczania usługi SharePoint Online przy użyciu wykładniczej funkcji wycofywania
 
-Gdy otrzymasz ograniczenie w usłudze SharePoint Online, wykładnicza technika powrotu będzie czekać stopniowo dłużej, zanim ponownie spróbuje wyczerować ograniczany kod.
+Po ograniczaniu w u SharePoint Online technika powrotu wykładniczego będzie oczekiwać stopniowo dłuższych okresów czasu, zanim ponownie spróbuje ponownie wyczerować kod, który został już ograniczany.
 
 - [Obsługa ograniczania usługi SharePoint Online przy użyciu wykładniczej funkcji wycofywania](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)

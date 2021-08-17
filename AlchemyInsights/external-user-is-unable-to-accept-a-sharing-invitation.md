@@ -12,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: dd5dd5550ecaa781afd10c14157b437f3a78f9af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 44980fd6f0667160082e57084e810ca8ebe7ae7875a5df873f7a367629924cc7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782913"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043630"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Użytkownik zewnętrzny nie może zaakceptować zaproszenia do udostępniania
 
-Jeśli użytkownik zewnętrzny nie może zaakceptować zaproszenia do udostępniania programu SharePoint lub usługi OneDrive, Skorzystaj z poniższych linków: 
+Jeśli użytkownik zewnętrzny nie może zaakceptować zaproszenia do SharePoint udostępniania OneDrive udostępniania, spróbuj użyć poniższych linków: 
 
-- [Błędy "odmowa dostępu", "wymagane jest uprawnienie do uzyskiwania dostępu do tej witryny" lub "nie znaleziono użytkownika w katalogu" w usługach SharePoint Online i OneDrive dla firm](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [Błąd "zasady Twojej organizacji nie zezwalają na udostępnianie danych użytkownikom" podczas udostępniania elementu lub witryny w usłudze SharePoint Online lub OneDrive dla firm](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Opcje udostępniania są wyszarzone podczas udostępniania z usługi SharePoint Online lub OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Komunikat o błędzie wyświetlany, gdy użytkownik zewnętrzny zaakceptuje zaproszenie usługi SharePoint Online przy użyciu innego konta](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
-- [OSE błędy udostępniania w programie SharePoint i usłudze OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [Błędy "Odmowa dostępu", "Potrzebujesz uprawnienia dostępu do tej witryny" lub "Użytkownik nie został znaleziony w katalogu" w usługach SharePoint Online i OneDrive dla Firm](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [Błąd "Zasady organizacji nie umożliwiają udostępniania tym użytkownikom" podczas udostępniania elementu lub witryny w witrynie usługi SharePoint Online lub OneDrive dla Firm](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Opcje udostępniania są wyszzarowane podczas udostępniania z usługi SharePoint Online lub OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Komunikat o błędzie, gdy użytkownik zewnętrzny zaakceptuje zaproszenie do usługi SharePoint Online przy użyciu innego konta](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Błędy udostępniania OSE w SharePoint i OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 

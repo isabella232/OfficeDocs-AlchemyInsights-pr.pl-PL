@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: eafe1ec9636cddc9d73a88beb7ae3ad9f6fad660
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9b5765ff3c59b1312bead41a45a53478a96260df0567f006ab93c3ccfaf4be64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817002"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044350"
 ---
 # <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid/sourceAnchor behavior
 
-Program Azure AD Connect (wersja 1.1.524.0 i po) teraz ułatwia użycie atrybutu msDS-ConsistencyGuid jako atrybutu sourceAnchor. Podczas korzystania z tej funkcji program Azure AD Connect automatycznie konfiguruje reguły synchronizacji do:
+Usługa Azure AD Połączenie (wersja 1.1.524.0 i nowsza) teraz ułatwia użycie atrybutu msDS-ConsistencyGuid jako atrybutu sourceAnchor. Podczas korzystania z tej funkcji usługa Azure AD Połączenie automatycznie konfiguruje reguły synchronizacji w celu:
   
 - Użyj atrybutu msDS-ConsistencyGuid jako atrybutu sourceAnchor dla obiektów User. Identyfikator OBJECTGUID jest używany w przypadku innych typów obiektów.
     
-- W przypadku dowolnego lokalnego obiektu użytkownika usługi AD, którego atrybut msDS-ConsistencyGuid nie jest wypełniony, program Azure AD Connect zapisuje wartość objectGUID z powrotem w atrybutu msDS-ConsistencyGuid w lokalnej usłudze Active Directory. Po wypełnieniu atrybutu msDS-ConsistencyGuid program Azure AD Connect eksportuje obiekt do usługi Azure AD.
+- W przypadku dowolnego lokalnego obiektu użytkownika usługi AD, którego atrybut msDS-ConsistencyGuid nie jest wypełniony, usługa Azure AD Połączenie zapisuje jego wartość objectGUID z powrotem w atrybutu msDS-ConsistencyGuid w lokalnej usłudze Active Directory. Po wypełnieniu atrybutu msDS-ConsistencyGuid usługa Azure AD Połączenie następnie wyeksportowała obiekt do usługi Azure AD.
     
- **Uwaga:** Po zaimportowaniu lokalnego obiektu usługi AD do programu Azure AD Connect (czyli zaimportowania do obszaru łącznika usługi AD i wyeksportowanego do obiektu Metaverse) nie można już zmienić jego wartości sourceAnchor. Aby określić wartość sourceAnchor dla danego lokalnego obiektu usługi AD, skonfiguruj jej atrybut msDS-ConsistencyGuid przed zaimportowaniu do programu Azure AD Connect. 
+ **Uwaga:** Po zaimportowaniu lokalnego obiektu usługi AD do usługi Azure AD Połączenie (czyli zaimportowaniu do obszaru łącznika usługi AD i prognozowane do obiektu Metaverse) nie można już zmienić jego wartości sourceAnchor. Aby określić wartość sourceAnchor dla danego lokalnego obiektu usługi AD, skonfiguruj jej atrybut msDS-ConsistencyGuid przed zaimportowaniu do usługi Azure AD Połączenie. 
   
-Aby uzyskać więcej informacji na temat sourceAnchor i ConsistencyGuid, zobacz następujące informacje: [Azure AD Connect: koncepcje projektowania](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+Aby uzyskać więcej informacji na temat sourceAnchor i ConsistencyGuid, zobacz następujące informacje: Usługa [Azure AD Połączenie: Koncepcje projektowania](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 
