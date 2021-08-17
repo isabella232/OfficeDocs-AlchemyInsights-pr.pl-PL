@@ -1,5 +1,5 @@
 ---
-title: Zarządzanie ustawieniami pobierania oprogramowania aplikacji platformy Microsoft 365
+title: Zarządzanie Microsoft 365 pobierania aplikacji
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "5733"
-ms.openlocfilehash: 7ca7e8a979acdb09765095f0ae6ab61ef9a43b3c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 479c4fbfb46479af01d9b9dbc4b7a994ab27bc5bd8a8b8751f3dc9d203a60313
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51803266"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054052"
 ---
-# <a name="manage-office-installation-options"></a>Zarządzanie opcjami instalacji pakietu Office
+# <a name="manage-office-installation-options"></a>Zarządzanie Office instalacji
 
-Jako administrator usługi Office 365, możesz kontrolować, które oprogramowanie pakietu Office użytkownicy mogą pobierać i instalować z usługi Office 365. Aby uzyskać więcej informacji, zobacz [Zarządzanie opcjami instalacji pakietu Office w centrum administracyjnym platformy Microsoft 365.](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365)
+Jako administrator Office 365, możesz kontrolować, które oprogramowanie Office użytkownicy mogą pobierać i instalować z Office 365. Aby uzyskać więcej informacji, zobacz [Zarządzanie Office instalacji pakietu Centrum administracyjne platformy Microsoft 365.](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365)

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: b32cb8956c66a61090531c137532a2e93819b10b1dee3aa94a429e4d94844451
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937687"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889264"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktywowanie Microsoft 365 aplikacji
 
@@ -29,7 +29,7 @@ Aby aktywować pakiet Office, zobacz:
 
 - [Aktywowanie Office na komputerze Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Uwaga:**  Upewnij się, że masz subskrypcję Office 365 lub Microsoft 365, która obejmuje aplikacje klienckie usługi [Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)takie jak Microsoft 365 Business Standard, Aplikacje Microsoft 365 dla firm lub Aplikacje Microsoft 365 dla przedsiębiorstw. Ponadto upewnij się, że do konta użytkownika, za pomocą których logowasz się do aplikacji Office ma [przypisaną licencję.](/microsoft-365/admin/manage/assign-licenses-to-users)
+**Uwaga:**  Upewnij się, że masz subskrypcję Office 365 lub Microsoft 365, która obejmuje Office klienckie usługi [Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)takie jak Microsoft 365 Business Standard, Aplikacje Microsoft 365 dla firm lub Aplikacje Microsoft 365 dla przedsiębiorstw. Ponadto upewnij się, że do konta użytkownika, które używasz do logowania się Office aplikacji, [jest przypisana licencja.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Aby rozwiązać problemy z aktywacją pakietu Office, zobacz:
 
@@ -40,7 +40,7 @@ Aby rozwiązać problemy z aktywacją pakietu Office, zobacz:
 
 **Porada** Na komputerach z systemem Windows możemy diagnozować i automatycznie rozwiązywać wiele typowych problemów z logowaniem do pakietu Office. Pobierz i uruchom  **[Asystenta odzyskiwania i pomocy technicznej dla usługi Office 365](https://aka.ms/SaRA-OfficeSignInScenario)**, aby skorzystać z naszego zautomatyzowanego narzędzia.
 
-Jeśli nie możesz zalogować się do Microsoft 365, wykonaj poniższe czynności:
+Jeśli nie możesz zalogować się do aplikacji Microsoft 365, wykonaj poniższe czynności:
 
 1. Otwórz aplikację pakietu Office i [wyloguj się](https://go.microsoft.com/fwlink/?linkid=2114082) z istniejących kont użytkowników.
 
@@ -48,6 +48,6 @@ Jeśli nie możesz zalogować się do Microsoft 365, wykonaj poniższe czynnośc
 
 3. Przejdź do menu Ustawienia **systemu Windows > Konta > Uzyskaj dostęp do miejsca pracy lub nauki** i odłącz stare i nieużywane konta.
 
-4. [Zresetuj stan aktywacji pakietu Office](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state), a następnie [zaloguj się do aplikacji pakietu Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) za pomocą nowego konta.
+4. [Zresetuj stan aktywacji pakietu Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state), a następnie [zaloguj się do aplikacji pakietu Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) za pomocą nowego konta.
 
 Aby uzyskać więcej informacji dotyczących rozwiązywania problemów, zobacz [Po otwarciu aplikacji usługi Office 365 jest wyświetlane powiadomienie o subskrypcji](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).

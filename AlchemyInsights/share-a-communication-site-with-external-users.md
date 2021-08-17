@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 3439379b27303bcf3fd43f35336c05876e3e526e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d91b7a6ec18764ca194e42b90741c01699fddf8d068826fbdba8a1daee5da4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739439"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108314"
 ---
 # <a name="share-a-communication-site-with-external-users"></a>Udostępnianie witryny do komunikacji użytkownikom zewnętrznym
 
-Aby włączyć udostępnianie zewnętrznego użytkownika dla witryn komunikacyjnych, wykonaj następujące czynności: 
+Aby włączyć udostępnianie użytkownikom zewnętrznym w witrynach do komunikacji, wykonaj następujące czynności: 
   
-1. Otwórz **nowoczesne centrum administracyjne** — Jeśli korzystasz z klasycznego centrum administracyjnego, **Wypróbuj je teraz** lub * * wypróbuj przycisk Podgląd * * od prawej strony. Spowoduje to przejście do nowoczesnego centrum administracyjnego. 
+1. Otwórz **nowoczesne centrum administracyjne** — jeśli znajdujesz się w klasycznym  centrum administracyjnym, zobaczysz przycisk Wypróbuj teraz lub ** Wypróbuj podgląd ** w prawym górnym rogu. Spowoduje to dostęp do nowoczesnego centrum administracyjnego. 
   
-2. Wybierz pozycję **aktywne witryny.**
+2. Wybierz **pozycję Aktywne witryny.**
   
-3. Wybierz witrynę z **szablonem witryny do komunikacji**. 
+3. Wybierz witrynę, która ma szablon **Witryna do komunikacji.** 
   
-4. Wybierz przycisk **udostępniania** z menu u. 
+4. Wybierz przycisk **Udostępnianie** w menu u góry. 
   
- **Uwaga:** Jeśli została wybrana więcej niż jedna witryna, przycisk **udostępniania** będzie wyświetlany jako wyłączony. Wybierz tylko jedną witrynę. 
+ **Uwaga:** Jeśli wybrano więcej niż jedną witrynę, **przycisk** Udostępnianie będzie wyłączony. Wybierz tylko jedną witrynę. 
   
 

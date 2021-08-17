@@ -1,5 +1,5 @@
 ---
-title: Tworzenie podpisu e-mail w programie Outlook dla systemu Windows
+title: Tworzenie podpisu e-mail w aplikacji Outlook dla Windows
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "8199"
-ms.openlocfilehash: 25cd019333191bc9615a7c53d332ddc50ceb8d3a
-ms.sourcegitcommit: f76114031755a597031bf2f80b03ba65c6f9dd84
+ms.openlocfilehash: 66b7db54629319c275dc72ed7cd0ca91324040f1c1e7e7080e69c62e31a03cc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50177675"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080468"
 ---
-# <a name="create-an-email-signature-in-outlook-for-windows"></a>Tworzenie podpisu e-mail w programie Outlook dla systemu Windows
+# <a name="create-an-email-signature-in-outlook-for-windows"></a>Tworzenie podpisu e-mail w aplikacji Outlook dla Windows
 
-W programie Outlook podpis wiadomości e-mail może zawierać tekst, obrazy, wizytówkę elektroniczną, logo, a nawet obraz podpisu odręcznego. Aby to zrobić:
+W Outlook e-mail podpis może zawierać tekst, obrazy, wizytówkę elektroniczną, logo, a nawet obraz podpisu odręcznego. W tym celu:
 
-1. W programie Outlook otwórz nową wiadomość e-mail.
-2. Na karcie **Wiadomość** wybierz pozycję   >  **Podpisy podpisu.**
-3. W **obszarze Wybierz podpis do edycji** wybierz pozycję **Nowy,** a następnie wpisz nazwę podpisu.
-4. W **obszarze Edytowanie podpisu** zredagotuj podpis.
+1. W Outlook-mail otwórz nową wiadomość e-mail.
+2. Na karcie **Wiadomość** wybierz pozycję   >  **Podpisy**.
+3. W **obszarze Wybierz podpis do edycji** wybierz pozycję **Nowy**, a następnie wpisz nazwę podpisu.
+4. W **obszarze Edytuj podpis** zredagotuj podpis.
