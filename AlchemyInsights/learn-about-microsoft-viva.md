@@ -1,5 +1,5 @@
 ---
-title: Dowiedz się więcej o aplikacji Microsoft Viva
+title: Informacje o Microsoft Viva
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8338"
-ms.openlocfilehash: b87a08b698de39f0b447c15845037abbc3c311c3
-ms.sourcegitcommit: 0f1e81498c68a5d1aba76a21fdae91a141b69f89
+ms.openlocfilehash: 3e540cc31841e8b47b34b56546e87a43eb7afd22c28a9244bc3016e9937b087c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427456"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087506"
 ---
-# <a name="learn-about-microsoft-viva"></a>Dowiedz się więcej o aplikacji Microsoft Viva
+# <a name="learn-about-microsoft-viva"></a>Informacje o Microsoft Viva
 
-Aplikacja Microsoft Viva zapewni każdemu pracownikowi nowy wiek cyfrowy. Aby dowiedzieć się więcej, zobacz:
+Microsoft Viva pozwoli to każdemu pracownikowi na nowy wiek cyfrowy. Aby dowiedzieć się więcej, zobacz:
 
-- [Wprowadzenie do aplikacji Microsoft Viva](https://www.microsoft.com/microsoft-viva/overview)
-- [Dowiedz się więcej o Viva Connections](https://aka.ms/VivaConnectionsBlog/)
-- [Dowiedz się więcej o aplikacji Viva Insights](https://aka.ms/VivaInsightsBlog)
-- [Dowiedz się więcej o Viva Learning](https://aka.ms/VivaLearningBlog)
+- [Wprowadzenie do Microsoft Viva](https://www.microsoft.com/microsoft-viva/overview)
+- [Dowiedz się więcej o viva Connections](https://aka.ms/VivaConnectionsBlog/)
+- [Dowiedz się więcej o Viva Szczegółowe informacje](https://aka.ms/VivaInsightsBlog)
+- [Dowiedz się więcej o Viva Edukacja](https://aka.ms/VivaLearningBlog)
 - [Dowiedz się więcej na tematy związane z vivą](https://aka.ms/viva/topics/blog)
 
-Aby uzyskać więcej informacji, zobacz [Microsoft Viva: Wzmacnianie](https://www.microsoft.com/microsoft-365/blog/2021/02/04/microsoft-viva-empowering-every-employee-for-the-new-digital-age/)pozycji każdego pracownika w dobie cyfrowej.
+Aby uzyskać więcej informacji, [zobacz Microsoft Viva: Wzmacnianie](https://www.microsoft.com/microsoft-365/blog/2021/02/04/microsoft-viva-empowering-every-employee-for-the-new-digital-age/)pozycji każdego pracownika na nowy wiek cyfrowy.

@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002453"
 - "4763"
-ms.openlocfilehash: a6ffa3a8bbed64194620ae82edf149be91efc42b0e34ed6a05f7ca03478a8697
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea911e83d9b4cb21ae72187a69f89e491b7131a87eafb37dbc53e31e0ab9ee10
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909692"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890408"
 ---
 # <a name="subscription-no-longer-active"></a>Subskrypcja nie jest już aktywna
 
@@ -32,4 +32,4 @@ Jeśli po [otwarciu](https://support.microsoft.com/office/a-subscription-notice-
 3. W **okienku Aktywuj ponownie tę** subskrypcję wybierz z listy rozwijanej metodę płatności lub wybierz **pozycję Dodaj metodę płatności**.
 4. Wybierz **Zapisz**.
 
-Aby dowiedzieć się więcej, zobacz [Ponowne aktywowanie subskrypcji](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Aby dowiedzieć się więcej, zobacz [Ponowne aktywowanie subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

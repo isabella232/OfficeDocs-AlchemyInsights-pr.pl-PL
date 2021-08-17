@@ -13,26 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 8d656d5660b7c6e6d32d32a06c3dbf49c45e4ca04c4422128f1c4ea62413afa1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ef4cbb0b778b22fba83d22d5056449c2281c5a2947ecb41ce8f808a4d1132426
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967343"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896025"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>Odczytywanie dzienników inspekcji usuniętych zdarzeń
 
 Poniżej opisano, jak to zrobić:
 
-1. Przejdź do centrum [Office 365 zabezpieczeń & zgodności.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Wybierz **pozycję**  >  [**Przeszukiwanie dziennika inspekcji wyszukiwania**](https://go.microsoft.com/fwlink/?linkid=2103759).
+1. Wykonaj jedną z następujących czynności:
+   - Na stronie Centrum zgodności platformy Microsoft 365 <https://compliance.microsoft.com> przejdź do **tematu Inspekcja** \> **rozwiązań.** Aby przejść bezpośrednio do strony **Inspekcja,** użyj <https://compliance.microsoft.com/auditlogsearch> .
+   - W portalu Microsoft 365 Defender w <https://security.microsoft.com> witrynie przejdź do tematu **Inspekcja**. Aby przejść bezpośrednio do strony **Inspekcja,** użyj <https://security.microsoft.com/auditlogsearch> .
+
     > [!NOTE]
     > Jeśli zauważysz, że musisz włączyć tę funkcję, możesz ją włączyć już teraz. Jeśli funkcja nie jest włączona, wyniki wyszukiwania nie będą mogły ściągać danych z poprzednich dat.
-1. Wybierz **pozycję Działania**, a następnie znajdź Exchange działania **skrzynki pocztowej.** Wybierz opcje **Usunięte wiadomości z** folderu Elementy usunięte i **Przeniesiono wiadomości do** folderu Elementy usunięte. Gdy to zrobisz, kliknij poza okienkiem, aby zminimalizować **okienko** Działania.
-1. Określ zakres dat, a  następnie w polu Użytkownicy wybierz nazwę użytkownika, którego chcesz zbadać. Możesz wybrać więcej niż jednego użytkownika na raz.
-1. Wybierz **pozycję Wyszukaj**. Działania zostaną wyświetlone w obszarze **Wyniki**.
-1. Aby wyświetlić szczegóły, wybierz działanie, a następnie wybierz **pozycję Więcej informacji.** W polu **Elementy** objęte problemem są wyświetlane dodatkowe informacje dotyczące usuniętego elementu, takie jak wiersz tematu i lokalizacja usuniętego elementu.
-    > [!NOTE]
-    > Za pomocą funkcji dziennika inspekcji nie można przywrócić elementów usuniętych. Aby przywrócić usunięte elementy, zobacz [Odzyskiwanie usuniętych elementów lub wiadomości e-mail w programie Outlook Web App.](https://go.microsoft.com/fwlink/?linkid=2103759)
 
-Aby dowiedzieć się więcej, zobacz [Przeszukiwanie dziennika Office 365 w celu rozwiązania typowych scenariuszy.](https://go.microsoft.com/fwlink/?linkid=2103944)
+2. Na karcie **Wyszukiwanie** na stronie **Inspekcja** skonfiguruj następujące ustawienia:
+   - **Zakres dat i godzin:** Zaznacz zakres dat i godzin w polach **Rozpoczęcie** **i** Zakończenie.
+   - **Działania:** Wprowadź **Exchange skrzynce pocztowej,** a następnie wybierz następujące wartości:
+     - **Usunięte wiadomości z folderu Elementy usunięte**
+     - **Przeniesiono wiadomości do folderu Elementy usunięte**
+
+       Gdy to zrobisz, kliknij poza okienkiem, aby zminimalizować **okienko** Działania.
+
+   - **Użytkownicy:** zaakceptuj pustą wartość domyślną, aby zwrócić wyniki wszystkim użytkownikom, lub wprowadź co najmniej jednego użytkownika.
+
+3. Po zakończeniu kliknij pozycję **Wyszukaj**. Działania zostaną wyświetlone na nowej **stronie Przeszukiwanie** inspekcji.
+
+4. Wybierz działanie w wynikach, aby otworzyć wysuwne szczegóły. W polu **Elementy** objęte problemem są wyświetlane dodatkowe informacje dotyczące usuniętego elementu, takie jak wiersz tematu i lokalizacja usuniętego elementu.
+
+   > [!NOTE]
+   > Za pomocą funkcji dziennika inspekcji nie można przywrócić elementów usuniętych. Aby przywrócić usunięte elementy, zobacz [Odzyskiwanie usuniętych wiadomości e-mail w aplikacji Outlook w sieci Web.](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11)
+
+Aby uzyskać więcej informacji, zobacz [Przeszukiwanie dziennika inspekcji w celu zbadania typowych problemów z obsługą.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

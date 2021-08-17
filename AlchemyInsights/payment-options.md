@@ -14,12 +14,12 @@ ms.custom:
 - commerce_billing
 - "1639"
 - "9000134"
-ms.openlocfilehash: 18a95f5d98961b9450718ee97b81d97ca14967d1b703b2b7f034d15e46f1a1bd
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: aedfec0491365ff23ec518768b160e7285702aeec418277a89e8079fb2ac6896
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500962"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895673"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Opcje płatności za subskrypcje usługi Microsoft 365 dla firm
   
@@ -27,16 +27,16 @@ Karta kredytowa, karta debetowa, konto bankowe (polecenie zapłaty) i faktura (p
   
 **Zapłać za pomocą karty kredytowej, karty debetowej lub konta bankowego**
   
-Możesz zapłacić za subskrypcję za pomocą karty kredytowej, karty debetowej lub konta bankowego. Jeśli wybierzesz jedną z tych metod płatności, będziemy kontynuować pobieranie opłat w ten sposób aż do wygaśnięcia lub anulowania subskrypcji. Możesz [zarządzać metodami płatności](/microsoft-365/commerce/billing-and-payments/manage-payment-methods), kiedy tylko potrzebujesz. Możesz także [otrzymywać kopie zestawień rozliczeniowych w wiadomości e-mail](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email).
+Możesz zapłacić za subskrypcję za pomocą karty kredytowej, karty debetowej lub konta bankowego. Jeśli wybierzesz jedną z tych metod płatności, będziemy kontynuować pobieranie opłat w ten sposób aż do wygaśnięcia lub anulowania subskrypcji. Możesz [zarządzać metodami płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods), kiedy tylko potrzebujesz. Możesz także [otrzymywać kopie zestawień rozliczeniowych w wiadomości e-mail](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email).
 
-Jeśli Twoja karta kredytowa została odrzucona lub ma zaległe saldo, a metoda płatności z zaległą kwotą była przez Ciebie osobiście dodana, możesz użyć opcji **Ureguluj saldo**, aby dokonać płatności. Metoda płatności, którą wybierzesz aby uregulować zaległą kwotę stanie się nową metodą płatności za wszystkie subskrypcje, do których opłacenia używano odrzuconej formy opłaty. Aby uzyskać więcej informacji, zobacz [Co zrobić, jeśli mam nieuregulowane saldo?](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+Jeśli Twoja karta kredytowa została odrzucona lub ma zaległe saldo, a metoda płatności z zaległą kwotą była przez Ciebie osobiście dodana, możesz użyć opcji **Ureguluj saldo**, aby dokonać płatności. Metoda płatności, którą wybierzesz aby uregulować zaległą kwotę stanie się nową metodą płatności za wszystkie subskrypcje, do których opłacenia używano odrzuconej formy opłaty. Aby uzyskać więcej informacji, zobacz [Co zrobić, jeśli mam nieuregulowane saldo?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
 
 **Płacenie za pomocą faktury (czek lub przelew elektroniczny)**
   
 Jeśli koszt subskrypcji przekracza określoną kwotę pieniężną (kwota ta zależy od lokalizacji usługi), masz możliwość zapłaty za pomocą faktury przy użyciu czeku lub elektronicznego przelewu środków. W przypadku większych płatności za pomocą faktury może być wymagane sprawdzenie zdolności kredytowej. Jeśli wymagane jest sprawdzenie zdolności kredytowej, otrzymasz odpowiednią informację podczas kupowania subskrypcji. Jeśli wyrazisz zgodę na kontakt, otrzymasz wiadomość e-mail zawierającą dodatkowe informacje na temat składania wniosku o sprawdzenie zdolności kredytowej. Zdolność kredytowa jest zazwyczaj sprawdzana w ciągu dwóch dni roboczych.
 
-Jeśli opłacasz subskrypcję za pomocą faktury, otrzymasz wiadomość e-mail z informacją, kiedy rozliczeniowe jest gotowe do wyświetlenia. Ta wiadomość e-mail nie zawiera kopii zestawienia rozliczeniowego. Jednak jeśli chcesz, możesz [otrzymywać kopie zestawień rozliczeniowych w wiadomości e-mail](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email). Zestawienie rozliczeniowe zawiera szczegółowe informacje o możliwościach realizowania płatności oraz gdzie należy je wysłać. Jeśli podczas kupowania subskrypcji wprowadzisz numer zamówienia zakupu, będzie on widoczny w zestawieniu rozliczeniowym. Aby uzyskać informacje na temat uzyskiwania dostępu do zestawień rozliczeniowych, zobacz [Wyświetlanie rachunku lub faktury](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
+Jeśli opłacasz subskrypcję za pomocą faktury, otrzymasz wiadomość e-mail z informacją, kiedy rozliczeniowe jest gotowe do wyświetlenia. Ta wiadomość e-mail nie zawiera kopii zestawienia rozliczeniowego. Jednak jeśli chcesz, możesz [otrzymywać kopie zestawień rozliczeniowych w wiadomości e-mail](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email). Zestawienie rozliczeniowe zawiera szczegółowe informacje o możliwościach realizowania płatności oraz gdzie należy je wysłać. Jeśli podczas kupowania subskrypcji wprowadzisz numer zamówienia zakupu, będzie on widoczny w zestawieniu rozliczeniowym. Aby uzyskać informacje na temat uzyskiwania dostępu do zestawień rozliczeniowych, zobacz [Wyświetlanie rachunku lub faktury](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
   
 **Informacje dodatkowe**
   
-[Jak zapłacić za subskrypcję usługi Microsoft 365 dla firm](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+[Jak zapłacić za subskrypcję usługi Microsoft 365 dla firm](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

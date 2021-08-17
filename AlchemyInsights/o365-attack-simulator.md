@@ -1,5 +1,5 @@
 ---
-title: 2681 Attack Podczas Microsoft 365
+title: 2681 Attack W Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: b173c6eb3bbbd1beba3b59878ae12bbe7684d0447a16fef746e5b97b82349e53
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54065294"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895801"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Attack Pochoć w Microsoft 365
 
-- Czy brakuje Ci ataku? Podczas ataków Do ataki jest wymagany program **Microsoft Defender Office 365 plan 2** lub Office 365 Enterprise **E5.** Ataki Dla **usług** Microsoft Defender for Office 365 Plan 1, E3 i E3 Office 365 Enterprise nie są uwzględnione w Aplikacje Microsoft 365 dla firm subskrypcji usługi.
+- Czy brakuje Ci ataku? Ataki dla systemu Wymaga programu **Microsoft Defender dla Office 365 Plan 2** lub **E5 Office 365 Enterprise E5.** Ataki Nie są **uwzględnione w** programie Microsoft Defender dla Office 365 Plan 1, Office 365 Enterprise E3 ani żadnych innych Aplikacje Microsoft 365 dla firm subskrypcji.
 
-- Konto służące do uruchamiania symulowanych ataków wymaga uprawnień administratora globalnego lub administratora zabezpieczeń oraz uwierzytelniania wieloskładnikowego (MFA). Aby uzyskać więcej informacji na temat wymagań dotyczących ataków, zobacz [ten temat.](/microsoft-365/security/office-365-security/attack-simulator)
+- Konto służące do rozpoczynania symulowanych ataków wymaga uprawnień administratora globalnego lub administratora zabezpieczeń oraz uwierzytelniania wieloskładnikowego (MFA). Aby uzyskać więcej informacji na temat wymagań dotyczących ataków, zobacz [ten temat.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
 
 - Ważne informacje na temat symulacyjnych **ataków na wymuszanie** haseł:
 
@@ -35,8 +35,8 @@ ms.locfileid: "54065294"
 
   - Domyślnie nie można podać niestandardowej wartości adresu URL serwera **logowania wyłudzania informacji.**
 
-  - Jeśli adresat użyje dodatku [Włącz](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) wiadomość raportu w celu zgłoszenia wiadomości jako próby wyłudzenia informacji, alerty dotyczące wiadomości mogą nie być odbierane (ponieważ jest to symulowany atak).
+  - Jeśli adresat użyje dodatku [Włącz](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) dla wiadomości raportu w celu zgłoszenia tej wiadomości jako próby wyłudzenia informacji, alerty dotyczące wiadomości mogą nie być odbierane (ponieważ jest to symulowany atak).
 
 - Raporty: Po zakończeniu symulowanego ataku możesz kliknąć pozycję **Szczegóły** ataków, aby wyświetlić raport.
 
-- Aby uzyskać szczegółowe instrukcje i nowe funkcje w programie Attack Podczas tego ataku, zobacz [Temat ataków w programie Microsoft 365.](/microsoft-365/security/office-365-security/attack-simulator)
+- Aby uzyskać szczegółowe instrukcje i nowe funkcje w programie Attack Podczas tego ataku, zobacz [Temat ataków w programie Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)

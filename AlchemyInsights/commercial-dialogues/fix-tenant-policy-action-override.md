@@ -12,20 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bc7ad8acd86c9d5b2f99ffdc6fe8a8b53e1fcb8b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748993"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896085"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Naprawianie zasad dzierżawy (zastępowanie akcji)
 
-Ta wiadomość została podysłana przez zasady ochrony przed spamem w dzierżawie. Aby przejrzeć zasady, wykonaj następujące czynności:
+Jedna z zasad ochrony przed spamem wpłynęła na tę wiadomość. Aby przejrzeć zasady, wykonaj następujące czynności:
 
-1. Przejdź do Centrum zabezpieczeń [usługi Office 365 &](https://go.microsoft.com/fwlink/p/?linkid=2077143) zgodności , a następnie przejdź do strony Ochrona przed spamem przy zasadach zarządzania  >    >  [zagrożeniami.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Sprawdź, czy  źródło zasad wskazuje następujące informacje: **Komunikat Add-Xheader/ModifySubject/Redirect/Delete/No action/ UDW**
+1. W portalu Microsoft 365 Defender pod adresem przejdź do sekcji Zasady & e-mail & zasady zagrożeń zapobiegające <https://security.microsoft.com/>  \>  \>  \> **spamowi.** 
 
-    Jeśli tak, na **karcie Niestandardowy** sprawdź ustawienia zasad, których dotyczyła wiadomość. Możliwe, że wiadomość  wpłynęła na ustawienia standardowe zastosowane do wszystkich klientów usługi Exchange Online Protection.
+   Aby przejść bezpośrednio do strony Zasady ochrony **przed spamem,** <https://security.microsoft.com/antispam> użyj .
 
-Aby uzyskać więcej informacji na temat konfigurowania zasad filtrowania spamu, zobacz [Konfigurowanie zasad filtru spamu.](https://go.microsoft.com/fwlink/?linkid=2101431)
+2. Na stronie Zasady ochrony przed **spamem** wybierz zasady, klikając nazwę zasad **(** Wpisz  Niestandardowa zasada ochrony przed **spamem** lub Nazwa to Zasady przychodzące ochrony przed spamem **(domyślna).**
+3. W wyświetlonym wysuwanych szczegółach wybierz **pozycję Edytuj akcje** w **sekcji** Akcje.
+4. W sekcji Akcje **wiadomości** przejrzyj werdykty dotyczące spamu,  spamu o dużej **pewności,** wyłudzania informacji i wysokiej **pewności,** aby sprawdzić, czy jest zaznaczona dowolna z następujących wartości:
+   - **Dodawanie nagłówka X-header**
+   - **Przed wierszem tematu tekstem**
+   - **Przekierowywanie wiadomości na adres e-mail**
+   - **Usuwanie wiadomości**
+   - **Brak akcji**
+
+   Możliwe, że ustawienia **standardowe** zastosowane do wszystkich Exchange Online Protection wpłynęły na wiadomość.
+
+Aby uzyskać więcej informacji, [zobacz Konfigurowanie zasad ochrony przed spamem w u usługi EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

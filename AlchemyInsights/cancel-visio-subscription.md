@@ -14,22 +14,22 @@ ms.custom:
 - commerce_subsriptions
 - "1400001"
 - "4721"
-ms.openlocfilehash: 6bbada43d53801d137e53afffca30d89cbb60e051c5c426711caaadb36cf39bd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 090cb87251755ac06f109faea194ba120bbe7650ddaac1b1d0cdea19a0f0a7a6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082664"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895637"
 ---
 # <a name="cancel-visio-subscription"></a>Anulowanie Visio subskrypcji
 
 Administratorzy mogą anulować subskrypcję Visio organizacji w centrum centrum administracyjne platformy Microsoft 365.
 
 1. Przejdź na  stronę \> [Rozliczenia Twoje](https://go.microsoft.com/fwlink/p/?linkid=842054) produkty.
-2. Na **karcie Produkty** znajdź Visio, którą chcesz anulować. Wybierz trzy kropki (więcej akcji), a następnie wybierz Anuluj **subskrypcję**.
+2. Na **karcie Produkty** znajdź subskrypcję Visio, którą chcesz anulować. Wybierz trzy kropki (więcej akcji), a następnie wybierz Anuluj **subskrypcję**.
 3. W **okienku Anulowanie** subskrypcji wybierz powód anulowania. Opcjonalnie możesz przekazać opinię.
 4. Wybierz **Zapisz**.
 
 **Zwrot kosztów:** Wszelkie proporcjonalnie do zwrotu środków zostaną ci zwrócone w następnym cyklu rozliczeniowym.
 
-Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Aby dowiedzieć się więcej, zobacz [Anulowanie subskrypcji.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

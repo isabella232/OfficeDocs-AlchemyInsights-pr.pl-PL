@@ -15,16 +15,16 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f540989ca78e7a367bc3a7dfdbb2acd9ce06e0b0db23d1b4f05835ae0061c113
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500026"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895501"
 ---
 # <a name="change-payment-method"></a>Zmienianie formy płatności
 
-Możesz zmienić metodę płatności z **centrum administracyjne platformy Microsoft 365**.
+Możesz zmienić metodę płatności z **centrum administracyjne platformy Microsoft 365.**
   
 1. W centrum administracyjnym przejdź do strony **Rachunki** > **Rachunki i płatności** > [Metody płatności](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 2. Zaznacz wiersz metody płatności, który chcesz zastąpić. W prawym okienku jest lista wszystkich profilów rozliczeń i poszczególnych subskrypcji, które korzystają z wybranej metody płatności.
@@ -36,6 +36,6 @@ Możesz zmienić metodę płatności z **centrum administracyjne platformy Micro
 6. W okienku **Dodaj metodę płatności** wprowadź informacje o koncie, a następnie wybierz pozycję **Zapisz**. Musisz użyć metody płatności z tego samego kraju, w którym jest dzierżawa.
 7. Nowa metoda płatności jest już wybrana na liście rozwijanej. Wybierz pozycję **Zastąp**.
 
-Aby dowiedzieć się, jak dodawać, aktualizować, zamieniać lub usuwać metody płatności, zobacz [Zarządzanie metodami płatności.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Aby dowiedzieć się, jak dodawać, aktualizować, zamieniać lub usuwać metody płatności, zobacz [Zarządzanie metodami płatności.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Aby dowiedzieć się, jak zmienić formę płatności, zobacz [Jak zapłacić za subskrypcję.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Aby dowiedzieć się, jak zmienić metody płatności, zobacz [Jak zapłacić za subskrypcję.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

@@ -1,5 +1,5 @@
 ---
-title: Informacje na temat mapowania między zasadami Starsza Microsoft Edge a zasadami programu Microsoft Edge
+title: Informacje na temat mapowania Starsza wersja Microsoft Edge i Microsoft Edge zasad
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "9003843"
 - "7095"
-ms.openlocfilehash: f9d65c043ee726fa110b09d38cdd4ee6b72c2d7b
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 6891f2d0ee2b1fe4893d5b6173737f8ba20e2d50ef68e51a764e5f9f1fc7f790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573595"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087398"
 ---
-# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Informacje na temat mapowania między zasadami Starsza Microsoft Edge a zasadami programu Microsoft Edge
+# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Informacje na temat mapowania Starsza wersja Microsoft Edge i Microsoft Edge zasad
 
-Zasady grupy starszej wersji programu Microsoft Edge (wersje 45 i wcześniejsze) oraz ustawienia zarządzania urządzeniami przenośnymi (MDM) są mapowane na odpowiednie zasady programu Microsoft Edge w wersji 80. Aby dowiedzieć się więcej, zobacz [mapowanie Microsoft Edge Starsza do mapowania zasad programu Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141665).
+Zasady grupy programu Starsza wersja Microsoft Edge (wersje 45 i wcześniejsze) i ustawienia zarządzania urządzeniami przenośnymi (MDM) są mapowanie na odpowiednie zasady programu Microsoft Edge 80. Aby dowiedzieć się więcej, [zobacz Starsza wersja Microsoft Edge Microsoft Edge mapowania zasad.](https://go.microsoft.com/fwlink/?linkid=2141665)

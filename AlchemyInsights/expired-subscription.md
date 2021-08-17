@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029742"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895897"
 ---
 # <a name="expired-subscription"></a>Wygasła subskrypcja
 
@@ -35,7 +35,7 @@ Wygląda na to, że masz co najmniej jedną wygasłą subskrypcję. Jeśli chces
 3. W **okienku Aktywuj ponownie tę** subskrypcję wybierz z listy rozwijanej metodę płatności lub wybierz **pozycję Dodaj metodę płatności**.
 4. Wybierz **Zapisz**.
 
-Aby dowiedzieć się więcej, zobacz [Ponowne aktywowanie subskrypcji](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Aby dowiedzieć się więcej, zobacz [Ponowne aktywowanie subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Dokonaj nowego zakupu**
   
@@ -44,4 +44,4 @@ Aby dowiedzieć się więcej, zobacz [Ponowne aktywowanie subskrypcji](/microsof
 3. Wprowadź liczbę potrzebnych licencji i wybierz, czy chcesz płacić co miesiąc, czy za cały rok. Określ, czy chcesz automatycznie przypisywać licencje do każdego użytkownika, który obecnie nie ma licencji. Następnie wybierz **pozycję Wyewidencjlij teraz**.
 4. Wykonaj pozostałe czynności, aby ukończyć wyewidencją.
 
-Aby dowiedzieć się więcej, zobacz [Kupowanie innej subskrypcji.](/microsoft-365/commerce/buy-another-subscription)
+Aby dowiedzieć się więcej, zobacz [Kupowanie innej subskrypcji.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)

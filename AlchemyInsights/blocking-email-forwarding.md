@@ -1,5 +1,5 @@
 ---
-title: 726 blokowanie przekierowywania poczty e-mail
+title: 726 Blokowanie przesyłania dalej wiadomości e-mail
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 610013c4f46e999f1a8715aea14dd557ed8b0e2a
-ms.sourcegitcommit: 88f24bb6ced16842de165af416e3f21feae13063
+ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48478328"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059642"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>Blokowanie i odblokowywanie przekierowywania poczty e-mail
+# <a name="blocking-or-unblocking-email-forwarding"></a>Blokowanie lub odblokowywanie przesyłania dalej wiadomości e-mail
 
-Aby włączyć lub wyłączyć przesyłanie dalej wiadomości e-mail dla konkretnej skrzynki pocztowej, zobacz [Konfigurowanie przekierowywania poczty e-mail](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+Aby włączyć lub wyłączyć przesyłanie dalej wiadomości e-mail dla określonej skrzynki pocztowej, zobacz [Konfigurowanie przesyłania dalej poczty e-mail.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-Po przeprowadzeniu kontroli nad przekazaniem zewnętrznym na poziomie dzierżawy jest używana zasada spamu. Możesz sprawdzić zasady filtrowania spamu wychodzącego z Centrum zabezpieczeń i [zgodności, korzystając](https://protection.office.com/antispam) z [polecenia Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+Na poziomie dzierżawy kontrola nad zewnętrznym przesyłaniem dalej jest wykonywana przy użyciu zasad spamu ruchu wychodzącego. Zasady filtrowania spamu ruchu wychodzącego możesz sprawdzić tutaj w [Centrum](https://protection.office.com/antispam) zabezpieczeń i zgodności lub przy użyciu polecenia [Get-HostedOutboundSpamFilterPolicy.](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy)
 
-Jeśli jest wyświetlany następujący błąd: **"550 5.7.520 odmowa dostępu, Twoja organizacja nie zezwala na przekazanie zewnętrzne"**, upewnij się, że zasady są skonfigurowane do włączania automatycznego przekazywania zewnętrznego.
+Jeśli jest wyświetlany następujący błąd: "Odmowa dostępu **550 5.7.520,** Twoja organizacja nie zezwala na przesyłanie dalej zewnętrzne", upewnij się, że zasady są skonfigurowane do włączania automatycznego przesyłania dalej zewnętrznego.
 
-**Uwaga:** Zaleca się pozostawienie zewnętrznego autoprzesyłania dalej na domyślnych zasadach filtrowania spamu i włączenie tej funkcji tylko dla użytkowników wymagających przekierowania zewnętrznego przez utworzenie dla tych użytkowników zasad niestandardowych. Aby dowiedzieć się więcej, zobacz [Konfigurowanie zewnętrznej obsługi przekierowywania wiadomości e-mail w pakiecie Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Uwaga:** Zalecane jest, aby w domyślnych zasadach filtrowania spamu ruchu wychodzącego wyłączyć Autoforward zewnętrzny i włączyć tę funkcję tylko dla użytkowników, którzy potrzebują przesyłania dalej zewnętrznego, przez utworzenie zasad niestandardowych dla tych użytkowników. Aby uzyskać więcej informacji, [zobacz Konfigurowanie zewnętrznego przesyłania dalej poczty e-mail w programie Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)
