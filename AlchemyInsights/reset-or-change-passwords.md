@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 416dfbf8607976cdf27736c057cecac652484b19848d6c9b9680e265394819b3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 859042d068da6410b6b46a90a14887949825567794361d262c190149530d708b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54086570"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898478"
 ---
 # <a name="reset-or-change-passwords"></a>Resetowanie lub zmienianie haseł
 
 Użytkownik może zmienić swoje hasło, wybierając swoje zdjęcie użytkownika lub inicjały > **Wyświetl konto.**
   
-Jeśli użytkownik nie pamięta swojego hasła, administrator może je zresetować, przechodząc do pozycji Użytkownicy aktywni użytkownicy, a następnie klikając pozycję  >  [](https://portal.office.com/adminportal/home#/users) **Zresetuj hasło.**
+Jeśli użytkownik nie pamięta swojego hasła, administrator może je zresetować, przechodząc do pozycji Użytkownicy aktywni użytkownicy, a następnie klikając pozycję  >  [](https://portal.office.com/adminportal/home#/users)Resetuj **hasło.**
   
-Aby dowiedzieć się więcej o hasłach i umożliwianiu użytkownikom resetowania ich haseł, zobacz [Resetowanie haseł.](/microsoft-365/admin/add-users/reset-passwords)
+Aby dowiedzieć się więcej o hasłach i umożliwianiu użytkownikom resetowania ich haseł, zobacz [Resetowanie haseł.](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)

@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9925c220897337cdc6956674448b31c818dfc42635459076ca29806f565b3050
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54009186"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891909"
 ---
 # <a name="subscription-expired"></a>Subskrypcja wygasła
 
@@ -35,7 +35,7 @@ Jeśli Twoja subskrypcja wygasła lub została wyłączona przez firmę Microsof
 3. W **okienku Aktywuj ponownie tę** subskrypcję wybierz z listy rozwijanej metodę płatności lub wybierz **pozycję Dodaj metodę płatności**.
 4. Wybierz **Zapisz**.
 
-Aby dowiedzieć się więcej, zobacz [Ponowne aktywowanie subskrypcji](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Aby dowiedzieć się więcej, zobacz [Ponowne aktywowanie subskrypcji](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Zarządzanie odnawianiem subskrypcji**
 
@@ -47,4 +47,4 @@ Aby zarządzać rozliczeniami w ujęciu miesięcznym lub rocznym, możesz włąc
 4. W **okienku Edytuj ustawienia rozliczeń cyklicznych** wybierz pozycję **Wł.,** **Włącz, ale odnów raz** lub **Wyłącz**.
 5. Wybierz **Zapisz**.
 
-Aby uzyskać więcej informacji, zobacz [Włączanie i wyłączanie rozliczania cyklicznego](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Aby uzyskać więcej informacji, zobacz [Włączanie i wyłączanie rozliczania cyklicznego](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

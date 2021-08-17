@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie typowych problemów z usługą Microsoft Defender dla usługi Office 365
+title: Rozwiązywanie typowych problemów z programem Microsoft Defender dla Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 05fa518ece7ea40fd7b4cea57115d9cd60370b01
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750740"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898254"
 ---
-# <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Rozwiązywanie typowych problemów z usługą Microsoft Defender dla usługi Office 365
+# <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Rozwiązywanie typowych problemów z programem Microsoft Defender dla Office 365
 
-Oto kilka rozwiązań typowych problemów z usługą Microsoft Defender dla usługi Office 365:
+Oto kilka rozwiązań typowych problemów z programem Microsoft Defender dla Office 365:
 
-- **Opóźnienie wiadomości:** W przypadku wystąpienia problemów z opóźnionym dostarczaniem wiadomości warto  skorzystać z opcji dostarczania dynamicznego w ramach zasad bezpiecznych załączników. Aby dowiedzieć się więcej, zobacz [Dynamiczne dostarczanie w zasadach bezpiecznych załączników.](https://go.microsoft.com/fwlink/?linkid=2094106)
-- **Zgłaszanie wyników fałszywie dodatnich lub ujemnych:** Zgłoś wiadomość do firmy Microsoft, używając tego linku: [Portal odpowiedzi usługi Microsoft Defender.](https://go.microsoft.com/fwlink/?linkid=2092835)
-- **Włączanie ochrony przed bezpiecznym linkiem:**
-    1. Zaloguj się do [Centrum zabezpieczeń usługi Office 365 & zgodności.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-    2. Przejdź do **strony Bezpieczne linki do**  >  **zasad** zarządzania  >  **zagrożeniami.**
-    3. W **obszarze Zasady stosowane do określonych adresatów** otwórz skonfigurowane zasady.
-    4. W **obszarze** Ustawienia wybierz **pozycję Zastosuj bezpieczne linki do wiadomości wysłanych w ramach organizacji**.
+- **Opóźnienie wiadomości:**
+
+  Opóźnienia w dostarczaniu wiadomości e-mail mogą być spowodowane Sejf załączników wiadomości. Aby uzyskać więcej informacji, [zobacz Sejf ustawienia zasad Załączniki.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
+
+- **Zgłaszanie wyników fałszywie dodatnich lub ujemnych:**
+
+  Aby uzyskać więcej informacji, zobacz [Zgłaszanie wiadomości i plików do firmy Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)
+
+- **Włączanie Sejf linku:**
+
+  1. W portalu Microsoft 365 Defender przejdź do sekcji Zasady & e-mail & Zasady zagrożeń Sejf <https://security.microsoft.com/>  \>  \>  \> **linki** **do** zasad.
+
+     Aby przejść bezpośrednio do **strony Sejf,** <https://security.microsoft.com/safelinksv2> użyj .
+
+  2. Na **stronie Sejf** wybierz zasady, klikając nazwę zasad.
+  3. W wyświetlonym wysuwanych szczegółach wykonaj jedną z następujących czynności:
+     - Aby dodać nowe zasady, wybierz pozycję **+ Utwórz.** Zostanie uruchomienie kreatora, który pomoże Ci zdefiniować ustawienia zasad.
+     - Aby edytować istniejące zasady, wybierz je, klikając nazwę zasad. W wyświetlonym wysuwu szczegółów wybierz pozycję **Edytuj** w sekcji **Ustawienia** ochrony.
+  4. Na **stronie Ustawienia ochrony** skonfiguruj następujące ustawienia:
+     - Włącz Wybierz **akcję dla nieznanych, potencjalnie złośliwych adresów URL w wiadomościach.**
+     - Wybierz **pozycję Zastosuj bezpieczne linki do wiadomości wysyłanych w organizacji.**
+
+  Aby uzyskać więcej informacji, [zobacz Konfigurowanie zasad Sejf Linków w programie Microsoft Defender dla systemu Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
