@@ -1,5 +1,5 @@
 ---
-title: Rozwiązywanie problemów z zawieszaniem się lub blokowaniem programu PowerPoint
+title: Rozwiązywanie PowerPoint zawiesza się lub zawiesza
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "5474"
-ms.openlocfilehash: 60e320ec204735fdf9ce4dc29c3e291695840215
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 04922be009d5ddc1eb5084f4f6e4cd56024fa987d2da6ddbf9115aecfa5fd9e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110402"
 ---
-# <a name="resolve-powerpoint-hangs-or-freezes"></a>Rozwiązywanie problemów z zawieszaniem się lub blokowaniem programu PowerPoint
+# <a name="resolve-powerpoint-hangs-or-freezes"></a>Rozwiązywanie PowerPoint zawiesza się lub zawiesza
 
-- Podczas uruchamiania aplikacji pakietu Office na komputerze jest wyświetlany komunikat "program przestał [działać".](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- Postępuj zgodnie z instrukcjami w tesłudze PowerPoint nie [odpowiada,](https://support.office.com/article/PowerPoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d) blokuje się lub zawiesza, aby uzyskać więcej informacji i rozwiązań dotyczących rozwiązywania problemów.
+- Podczas uruchamiania aplikacji na komputerze pojawia Office ["program przestał działać".](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
+- Postępuj zgodnie z instrukcjami PowerPoint, że nie odpowiada, blokuje się lub [zawiesza,](https://support.office.com/article/PowerPoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d) aby uzyskać więcej informacji na temat rozwiązywania problemów i rozwiązań.

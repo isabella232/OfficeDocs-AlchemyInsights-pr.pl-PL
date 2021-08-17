@@ -1,5 +1,5 @@
 ---
-title: Ogólne informacje o dodatkach programu Outlook
+title: Ogólne Outlook dotyczące dodatków
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003117"
 - "5902"
-ms.openlocfilehash: 308c53545a73b5c2ea9052e04a29773b586dc86b
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 790de41737c2915969a7a5a2300213559f08b2ae2f9c3e900b96e0e25fb9c06a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679963"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116954"
 ---
-# <a name="general-outlook-add-ins-information"></a>Ogólne informacje o dodatkach programu Outlook
+# <a name="general-outlook-add-ins-information"></a>Ogólne Outlook dotyczące dodatków
 
-Odwiedź tę witrynę internetową, aby zapoznać się z zasobami dotyczącymi [tworzenia dodatków programu Outlook](https://docs.microsoft.com/office/dev/add-ins/outlook/).
+Odwiedź tę witrynę internetową, aby uzyskać wszystkie zasoby dokumentacji dotyczące [Outlook dodatków.](https://docs.microsoft.com/office/dev/add-ins/outlook/)
 
-Aby uzyskać dodatkowe zasoby dotyczące zarządzania dodatkami, wdrażania i włączania dodatków, zobacz:
+Aby uzyskać dodatkowe zasoby dotyczące zarządzania, wdrażania i włączania dodatków, zobacz:
 
-- [Ustal, czy scentralizowane wdrażanie dodatków działa w Twojej organizacji](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins).
+- [Określ, czy](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins)scentralizowane wdrażanie dodatków działa w Twojej organizacji.
 - [Zarządzanie wdrażaniem dodatków w Centrum administracyjnym platformy Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins)
-- [Określanie administratorów i użytkowników, którzy mogą instalować Dodatki dla programu Outlook i zarządzać nimi](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
+- [Określ administratorów i użytkowników, którzy mogą instalować dodatki dla użytkowników i zarządzać nimi Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)

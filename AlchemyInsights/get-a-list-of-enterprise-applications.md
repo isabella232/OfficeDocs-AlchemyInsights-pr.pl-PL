@@ -1,5 +1,5 @@
 ---
-title: Uzyskiwanie listy aplikacji dla przedsiębiorstw
+title: Uzyskiwanie listy aplikacji Enterprise aplikacji
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "9837"
-ms.openlocfilehash: f5c1a77e415d4bbaa5718a6668af95934db7e5ae
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 99e4f7e676610103355736ce847930c6c5d2d7532c4756ac4551a8d9b3020176
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404925"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116738"
 ---
-# <a name="get-a-list-of-enterprise-applications"></a>Uzyskiwanie listy aplikacji dla przedsiębiorstw
+# <a name="get-a-list-of-enterprise-applications"></a>Uzyskiwanie listy aplikacji Enterprise aplikacji
 
 1. Aby uzyskać listę aplikacji **przedsiębiorstwa** (wszystkie aplikacje lub filtrowane według nazwy wyświetlanej, identyfikatora, identyfikatorów URI itp.) za pomocą polecenia programu PowerShell, zobacz [Get-AzureADApplication (AzureAD).](https://docs.microsoft.com/powershell/module/azuread/get-azureadapplication)
 2. Aby uzyskać listę obiektów głównych usługi (wszystkie obiekty lub obiekty filtrowane według identyfikatora) za pomocą polecenia programu PowerShell, zobacz [Get-AzureADServicePrincipal (AzureAD)](https://docs.microsoft.com/powershell/module/azuread/get-azureadserviceprincipal).
@@ -52,9 +52,9 @@ ms.locfileid: "51404925"
 
 7. **Musisz wyeksportować listę nieużywanych aplikacji platformy Azure** — Raport inspekcji
 
-    Usługa Azure AD może wyświetlać dzienniki aplikacji tylko przez 30 dni pod warunkiem, że masz licencję usługi Azure AD Premium.
+    Dzienniki aplikacji w usłudze Azure AD mogą być wyświetlane tylko przez 30 dni pod warunkiem Azure AD — wersja Premium licencji.
     Dostępne są dwie opcje przechowywania danych przez dłużej niż 30 dni. Za pomocą interfejsów [API raportowania](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-reporting-api) usługi Azure AD można programowo pobierać dane i przechowywać je w bazie danych. Możesz również zintegrować dzienniki inspekcji z systemem SIEM innej firmy.
 
     Możesz również pobrać listę aplikacji dla wszystkich aplikacji i aplikacji należących do usługi Azure Active Directory>rejestracja aplikacji>Pobierz>Wszystkie aplikacje/Aplikacje posiadane.
 
-    Aby uzyskać listę aplikacji za pomocą programu MS Graph, zobacz Aplikacje listy [— Microsoft Graph 1.0](https://docs.microsoft.com/graph/api/application-list) i typ zasobu aplikacji [— Microsoft Graph 1.0.](https://docs.microsoft.com/graph/api/resources/application)
+    Aby uzyskać listę aplikacji za pośrednictwem programu Microsoft Graph, zobacz Aplikacje listy — Microsoft Graph w wersji [1.0](https://docs.microsoft.com/graph/api/application-list) i typ zasobu aplikacji [— Microsoft Graph w wersji 1.0.](https://docs.microsoft.com/graph/api/resources/application)
