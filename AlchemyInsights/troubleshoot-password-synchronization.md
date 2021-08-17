@@ -14,31 +14,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 96f63f2ae8e5de246bce7fc15a9b2c3d604f2eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb782c0d1dc396ee7a9f016afb9629a2cdee93d52f5408b7a73e576e783ebc0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664936"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105767"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Rozwiązywanie problemów z synchronizacją haseł
 
-Aby rozwiązać problemy z synchronizacją haseł, zacznij korzystać z tego zadania rozwiązywania problemów z usługą AAD Connect w celu określenia, dlaczego hasła nie są synchronizowane. Aby rozpocząć, przejdź do obszaru [Zarządzanie synchronizacją bezpośrednią](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
+Aby rozwiązać problemy z synchronizacją haseł, zacznij od tego zadania rozwiązywania problemów Połączenie AAD w celu określenia, dlaczego synchronizacja haseł nie jest synchronizowana. Aby rozpocząć, przejdź do [zarządzania synchronizacją bezpośrednią.](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement)  
 
-1. Otwórz nową sesję programu Windows PowerShell na serwerze usługi Azure AD Connect, a następnie wybierz opcję **Uruchom jako administrator** .
+1. Otwórz nową sesję Windows PowerShell na serwerze usługi Azure AD Połączenie i wybierz opcję **Uruchom jako administrator.**
 
-2. Uruchom polecenie Set-ExecutionPolicy RemoteSigned lub Set-ExecutionPolicy bez ograniczeń.
+2. Uruchom Set-ExecutionPolicy Signed remoteSigned lub Set-ExecutionPolicy Unrestricted (Nieograniczone).
 
-3. Uruchom Kreatora usługi Azure AD Connect.
+3. Uruchom kreatora konfiguracji usługi Azure AD Połączenie usługi.
 
-4. Przejdź do strony zadania dodatkowe > **rozwiązywania problemów**  >  **Next**.
+4. Przejdź na stronę Dodatkowe zadania i > **Rozwiązywanie**  >  **problemów Dalej.**
 
-5. Wybierz pozycję **Uruchom** , aby otworzyć menu Rozwiązywanie problemów z programem PowerShell.
+5. Wybierz **pozycję Uruchom,** aby otworzyć menu rozwiązywania problemów programu PowerShell.
 
-6. Wybierz pozycję **Rozwiązywanie problemów z synchronizacją haseł**.
+6. Wybierz **pozycję Rozwiązywanie problemów z synchronizacją haseł.**
 
-    Przyczyną problemu jest zwykle niezsynchronizowane hasło dla określonego konta użytkownika.
+    Zazwyczaj problemem jest to, że hasło nie jest synchronizowane dla określonego konta użytkownika.
 
-    **Uwagi** Synchronizacja haseł kończy się niepowodzeniem, jeśli Ostatnia pomyślna synchronizacja hasła była niedawna.
+    **Notatki** Synchronizacja haseł kończy się niepowodzeniem, jeśli ostatnia pomyślna synchronizacja haseł została już jakiś czas temu.
 
-Aby uzyskać więcej pomocy dotyczącej rozwiązywania problemów z synchronizacją haseł, zobacz [Rozwiązywanie problemów z synchronizacją skrótu hasła za pomocą funkcji synchronizacji Azure](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
+Aby uzyskać więcej pomocy dotyczącej rozwiązywania problemów z synchronizacją haseł, zobacz Rozwiązywanie problemów z synchronizacją skrótów haseł z synchronizacją skrótów [Połączenie Azure AD.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)

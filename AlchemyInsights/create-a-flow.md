@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
-ms.openlocfilehash: 38c62c3554b00233e9520e107b2f8a1cc1956b7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d519d7e61b886b327292b5b63fe0398451e991b4a7bd84e81c9fac5cdb47fc0d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732869"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044386"
 ---
 # <a name="microsoft-flow"></a>Microsoft Flow
 
-Program Microsoft Flow pomaga zautomatyzować typowe zadania. Użyj go do skonfigurowania przepływów pracy dla list i bibliotek. Aby dowiedzieć się, jak dodać przepływ do listy lub biblioteki w usłudze SharePoint Online lub usłudze OneDrive, zobacz [Tworzenie przepływu](https://go.microsoft.com/fwlink/?linkid=869408).
+Microsoft Flow automatyzowanie typowych zadań. Za jego pomocą można skonfigurować przepływy pracy dla list i bibliotek. Aby dowiedzieć się, jak dodać przepływ do listy lub biblioteki w aplikacji SharePoint Online lub OneDrive, zobacz [Tworzenie przepływu.](https://go.microsoft.com/fwlink/?linkid=869408)
   
-[Klipy wideo o przepływie Microsoft](https://go.microsoft.com/fwlink/?linkid=864641)
+[Klipy wideo dotyczące Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864641)
   
-[Witryna Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864642)
+[Microsoft Flow sieci Web](https://go.microsoft.com/fwlink/?linkid=864642)
   
 
