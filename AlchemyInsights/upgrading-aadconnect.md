@@ -1,5 +1,5 @@
 ---
-title: 932 uaktualnianie AADConnect
+title: 932 Uaktualnianie programu AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,23 +13,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: 5c8ec5d9282c53c655e28f5d38fe36fc3ab005b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9582f1f56e6730e35520b5d79bc245cd74bea0bf4db39b379a7cd133bafc16ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806049"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104822"
 ---
-# <a name="upgrade-azure-ad-connect"></a>Uaktualnij usługę Azure AD Connect
+# <a name="upgrade-azure-ad-connect"></a>Uaktualnianie usługi Azure AD Połączenie
 
-Domyślnie automatyczne uaktualnienie jest włączone dla usługi Azure AD Connect, co zapewnia, że korzystasz z najnowszej wersji. Aby sprawdzić ustawienia uaktualnienia automatycznego, użyj polecenia cmdlet **Get-ADSyncAutoUpgrade** w programie Azure AD PowerShell. Polecenie cmdlet zwróci dowolną z następujących wartości:
+Domyślnie automatyczne uaktualnianie jest włączone dla usługi Azure AD Połączenie, co pomaga upewnić się, że używasz najnowszej wersji. Aby zweryfikować ustawienia automatycznego uaktualniania, użyj polecenia cmdlet **Get-ADSyncAutoUpgrade** w programie PowerShell usługi Azure AD. Polecenie cmdlet zwróci jedną z następujących wartości:
 
-- **Włączone**: automatyczne uaktualnianie jest włączone.
+- **Włączone:** Automatyczne uaktualnianie jest włączone.
 
-- **Wyłączone**: automatyczne uaktualnienie jest wyłączone.
+- **Wyłączone:** Automatyczne uaktualnianie jest wyłączone.
 
-- **Zawieszone**: system nie kwalifikuje się już do otrzymywania automatycznych uaktualnień. Tej wartości nie można skonfigurować; jest ona ustawiana przez system.
+- **Wstrzymane:** System nie jest już uprawniony do otrzymywania uaktualnień automatycznych. Tej wartości nie można skonfigurować; jest ustawiana przez system.
 
-Aby uzyskać więcej informacji, zobacz [automatyczne uaktualnianie](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
+Aby uzyskać więcej informacji, zobacz [Automatyczne uaktualnianie.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)
 
-Aby pobrać najnowszą wersję usługi Azure AD Connect, przejdź do [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .
+Aby pobrać najnowszą wersję narzędzia Azure AD Połączenie, przejdź do [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) strony .
