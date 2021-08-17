@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: df62d965e0dc2ddb656571af99b1e4c3cb52ea35
-ms.sourcegitcommit: 4b504650e11adb9894c37b6d8608b53f9d5fc13d
+ms.openlocfilehash: ff7a2ee4c97c579422c7679c461f6fb288a9235ff9056be1c56e80b1d6379723
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52676462"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887450"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>Wskaźniki nie działają przy użyciu przeglądarki Edge
 
-Po utworzeniu wskaźnika nie jest on ujmowany w edge (Smartscreen). Aby uzyskać więcej informacji, zobacz Tworzenie wskaźników adresów [IP oraz adresów URL/domen.](/microsoft-365/security/defender-endpoint/indicator-ip-domain)
+Po utworzeniu wskaźnika nie jest on ujmowany w edge (Smartscreen). Aby uzyskać więcej informacji, zobacz Tworzenie wskaźników adresów [IP oraz adresów URL/domen.](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain)
 
 ## <a name="step-1-ensure-the-following"></a>Krok 1. Upewnij się, że są
 
@@ -34,7 +34,7 @@ Po utworzeniu wskaźnika nie jest on ujmowany w edge (Smartscreen). Aby uzyskać
 
 ## <a name="step-2-troubleshoot-the-potential-issue"></a>Krok 2. Rozwiązywanie potencjalnego problemu
 
-- Upewnij się, że klient spełnia wymagania. Aby uzyskać szczegółowe informacje, [zobacz Tworzenie wskaźników adresów IP oraz adresów URL/domen.](/microsoft-365/security/defender-endpoint/indicator-ip-domain)
+- Upewnij się, że klient spełnia wymagania. Aby uzyskać szczegółowe informacje, [zobacz Tworzenie wskaźników adresów IP oraz adresów URL/domen.](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain)
 - Upewnij się, że używasz najnowszej wersji przeglądarki Edge. Aby dowiedzieć się, która wersja jest najnowsza, zobacz Dowiedz się, [Microsoft Edge masz.](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb)
 - Uruchom ponownie przeglądarkę Edge.
 - Przejdź do witryny, dla której masz wskaźnik konfiguracji. Jeśli witryna nie jest wyświetlana zgodnie z oczekiwaniami, przejdź do kroku 3. 

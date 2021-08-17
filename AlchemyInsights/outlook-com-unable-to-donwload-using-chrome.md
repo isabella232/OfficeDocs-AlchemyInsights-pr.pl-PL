@@ -1,5 +1,5 @@
 ---
-title: '8000085: Outlook.com: nie można pobrać plików w programie Chrome'
+title: '8000085: Outlook.com: Nie można pobierać plików w przeglądarce Chrome'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "8000085"
 - "1352"
 ms.assetid: ''
-ms.openlocfilehash: 1a4f5029322682dee3ab2799998b8c02dfd1a3da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08eb26cb64d1ea7d544bd1e1531afc4d57124ff17bd2afb471686d066098ce8a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666187"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053548"
 ---
-# <a name="cant-download-files-in-chrome"></a>Nie można pobrać plików w przeglądarce Chrome
+# <a name="cant-download-files-in-chrome"></a>Nie można pobierać plików w przeglądarce Chrome
 
-**Problem** Wiemy o problemie uniemożliwiającym niektórym klientom pobieranie plików podczas korzystania z przeglądarki Google Chrome. 
+**Problem** Wiemy o problemie, który uniemożliwia niektórym klientom pobieranie plików podczas korzystania z przeglądarki Google Chrome. 
 
-**Obejście problemu** Użyj przeglądarki [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) lub innej przeglądarki sieci Web.
-Dowiedz się więcej na temat [pobierania plików i Outlook.com załączników](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).
+**Obejście** Użyj [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) lub innej przeglądarki internetowej.
+Dowiedz się więcej na temat [pobierania plików i Outlook.com.](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy)
 
