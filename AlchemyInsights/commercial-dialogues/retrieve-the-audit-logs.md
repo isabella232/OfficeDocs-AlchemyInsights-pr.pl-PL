@@ -13,19 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 877f22a48e9ff1f4bac34cb0ea4f37407b4b109d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482109"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893601"
 ---
 # <a name="retrieve-the-audit-logs"></a>Pobieranie dzienników inspekcji
 
-Po otwarciu dziennika inspekcji po raz pierwszy będzie on pusty. Aby sprawdzić, co się tam znajduje, musisz wykonać wyszukiwanie. Oto jak wykonać ogólne wyszukiwanie dla wszystkich działań:
+Przy pierwszym otwarciu dziennika inspekcji będzie on pusty. Aby sprawdzić, co się tam znajduje, musisz wykonać wyszukiwanie. Oto jak wykonać ogólne wyszukiwanie dla wszystkich działań:
 
-1. Przejdź do strony przeszukiwania [dziennika](https://protection.office.com/#/unifiedauditlog) inspekcji (lub przejdź do pozycji Centra administracyjne centrum zabezpieczeń & Usługi wyszukiwania &  >    >  **przeszukiwania**  >  **dziennika inspekcji).**
-1. W polu **Działania** zaakceptuj ustawienie domyślne Pokaż **wyniki dla wszystkich działań.**
-1. Określ zakres dat i  w polu Użytkownicy zaakceptuj domyślną opcję zwracania wyników dla wszystkich użytkowników lub wybierz nazwę użytkownika, którego chcesz zbadać.
-1. Kliknij **przycisk Wyszukaj.** Działania zostaną wyświetlone w obszarze **Wyniki.**
-1. Aby wyświetlić szczegóły, kliknij działanie, a następnie wybierz pozycję **Więcej informacji.** Zostanie wyświetlonych więcej informacji, takich jak Klient, Użytkownik, który wykonał akcję, itp.
+1. Wykonaj jedną z następujących czynności:
+   - Na stronie Centrum zgodności platformy Microsoft 365 <https://compliance.microsoft.com> przejdź do **tematu Inspekcja** \> **rozwiązań.** Aby przejść bezpośrednio do strony **Inspekcja,** użyj <https://compliance.microsoft.com/auditlogsearch> .
+   - W portalu Microsoft 365 Defender w <https://security.microsoft.com> witrynie przejdź do tematu **Inspekcja**. Aby przejść bezpośrednio do strony **Inspekcja,** użyj <https://security.microsoft.com/auditlogsearch> .
+
+2. Na karcie **Wyszukiwanie** na stronie **Inspekcja** skonfiguruj następujące ustawienia:
+   - **Zakres dat i godzin:** Zaznacz zakres dat i godzin w polach **Rozpoczęcie** **i** Zakończenie.
+   - **Działania:** **zaznaczono opcję Sprawdź pokaż** wyniki dla wszystkich działań.
+   - **Użytkownicy:** zaakceptuj pustą wartość domyślną, aby zwrócić wyniki wszystkim użytkownikom, lub wprowadź co najmniej jednego użytkownika.
+
+3. Po zakończeniu kliknij pozycję **Wyszukaj**. Działania zostaną wyświetlone na nowej **stronie Przeszukiwanie** inspekcji.
+
+4. Wybierz działanie w wynikach, aby otworzyć wysuwne szczegóły. Zobaczysz więcej informacji, na przykład Klient, Użytkownik, który wykonał akcję itp.
+
+Aby dowiedzieć się więcej, zobacz [Przeszukiwanie dziennika inspekcji w celu zbadania typowych problemów z obsługą.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
