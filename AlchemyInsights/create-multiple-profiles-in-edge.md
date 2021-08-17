@@ -1,5 +1,5 @@
 ---
-title: Tworzenie wielu profilów w programie Microsoft Edge
+title: Tworzenie wielu profilów w Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,18 +14,18 @@ ms.custom:
 - "6976"
 - "9004596"
 - "8216"
-ms.openlocfilehash: 0c67e8e82199a40f820292fa7473d10a260c1367
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 6202e1aae10fd9a55c20748b7cd34588056fde45f1c4d5c429da651f7a9bb6a7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897021"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103418"
 ---
-# <a name="create-multiple-profiles-in-microsoft-edge"></a>Tworzenie wielu profilów w programie Microsoft Edge
+# <a name="create-multiple-profiles-in-microsoft-edge"></a>Tworzenie wielu profilów w Microsoft Edge
 
-Profile umożliwiają wielu użytkownikom działanie w środowisku udostępnionym przy zachowaniu dostępu do jego spersonalizowanych ustawień przeglądarki, zakładek i rozszerzeń. Aby dodać wiele profilów w programie Microsoft Edge, wykonaj następujące czynności:
+Profile umożliwiają wielu użytkownikom działanie w środowisku udostępnionym przy zachowaniu dostępu do jego spersonalizowanych ustawień przeglądarki, zakładek i rozszerzeń. Aby dodać wiele profilów w Microsoft Edge, wykonaj następujące czynności:
 
-1. Uruchom program Microsoft Edge.
+1. Rozpocznij Microsoft Edge.
     - Jeśli się nie zalogowano, wybierz ikonę profilu, a > **Zaloguj**. Spowoduje to automatyczne przejdę do strony **Zarządzanie ustawieniami** profilu.
     - Jeśli się zalogowano, wybierz ikonę profilu, aby > **ustawieniami profilu.**
 2. Wybierz **pozycję Profil > + Dodaj profil, > Dodaj**.
