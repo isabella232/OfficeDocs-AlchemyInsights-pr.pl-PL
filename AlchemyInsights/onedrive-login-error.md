@@ -1,5 +1,5 @@
 ---
-title: Błąd logowania do usługi OneDrive AADSTS50011
+title: OneDrive błędu logowania AADSTS50011
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003820"
 - "6840"
-ms.openlocfilehash: 1f906f82e99c322ed953800d54fba5a073eacd10
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 80aafa2aee7213e1b77d274509a7eb9741c20b525ed97f473093ac8c6514f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982485"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112922"
 ---
-# <a name="onedrive-login-error-aadsts50011"></a>Błąd logowania do usługi OneDrive AADSTS50011
+# <a name="onedrive-login-error-aadsts50011"></a>OneDrive błędu logowania AADSTS50011
 
-Jeśli zostanie wyświetlony komunikat o błędzie "AADSTS50011: adres URL odpowiedzi określony w żądaniu jest niezgodny z odpowiedzią" podczas logowania się do aplikacji OneDrive, sprawdź następujące elementy:
+Jeśli podczas logowania do aplikacji OneDrive zostanie wyświetlony komunikat o błędzie "AADSTS50011: Adres URL odpowiedzi określony w żądaniu nie jest zgodne z odpowiedzią", sprawdź, czy są one następujące:
 
-Wersja usługi OneDrive musi być równa lub większa niż wersja 20.052. XXXX. XX. Aby sprawdzić wersję, kliknij niebieską ikonę usługi OneDrive w obszarze powiadomień, wybierz pozycję **pomoc & ustawienia > ustawienia > informacje**.
+Twoja OneDrive musi być równa lub większa niż wersja 20.052.XXXX.XXXX. Aby sprawdzić wersję, kliknij niebieską ikonę OneDrive w obszar powiadomień pomoc, a następnie **& Ustawienia > Ustawienia > informacje**.
 
-Sieć może blokować ruch do **g.Live.com** i **oneclient.SFX.MS**. Jeśli ten ruch jest zablokowany, usługa OneDrive nie może go zaktualizować. Skontaktuj się z administratorem sieci, aby upewnić się, że masz dostęp do tych adresów URL. [Te punkty końcowe](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) powinny być dostępne dla klientów korzystających z planów Microsoft 365.
+Twoja sieć może blokować ruch do **g.live.com** i **oneclient.sfx.ms.** Jeśli ruch zostanie zablokowany, oznacza to OneDrive nie może zaktualizować się. We współpracy z administratorem sieci upewnij się, że masz dostęp do tych adresów URL. [Te punkty końcowe powinny](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) być osiągalne dla klientów korzystających z Microsoft 365 sieci web.
 
-Jeśli chcesz ręcznie uzyskać aktualną wersję usługi OneDrive, odwiedź stronę [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .
+Jeśli chcesz ręcznie uzyskać bieżącą wersję pakietu OneDrive, odwiedź stronę [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .

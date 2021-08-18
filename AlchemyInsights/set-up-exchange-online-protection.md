@@ -13,15 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085886"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897806"
 ---
 # <a name="set-up-exchange-online-protection"></a>Konfigurowanie Exchange Online Protection
 
-Microsoft Exchange Online EOP (Protection) to oparta na chmurze usługa filtrowania poczty e-mail, która zapewnia ochronę przed spamem i złośliwym oprogramowaniem, która zawiera funkcje chroniące organizację przed naruszeniami zasad wysyłania wiadomości.
+Microsoft Exchange Online Protection (EOP) to oparta na chmurze usługa filtrowania poczty e-mail, która zapewnia ochronę przed spamem, złośliwym oprogramowaniem i fałszerością, która zawiera funkcje chroniące organizację przed naruszeniami zasad obsługi wiadomości.
 
-Aby skonfigurować usługę EOP, skorzystaj z przewodnika konfiguracji usługi [Exchange Online Protection,](https://go.microsoft.com/fwlink/?linkid=2071067) wybierając spośród trzech scenariuszy wdrażania — lokalnych skrzynek pocztowych, hybrydowych (lokalnych i chmurowych) skrzynek pocztowych lub wszystkich skrzynek pocztowych w chmurze, które pasują do Twojej organizacji. Ten przewodnik zawiera informacje i zasoby dotyczące konfigurowania usługi EOP i przeglądania licencjonowania użytkowników, przypisywania uprawnień w centrum centrum administracyjne platformy Microsoft 365 oraz konfigurowania zasad organizacji chroniących przed złośliwym oprogramowaniem i spamem w Centrum & zabezpieczeń i zgodności.
+Skorzystaj z [Exchange Online Protection konfiguracji usługi](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) EOP, wybierając spośród trzech scenariuszy wdrażania najlepiej dopasowanych do Twojej organizacji:
+
+- Wszystkie lokalne skrzynki pocztowe.
+- Hybrydowe (miks skrzynek pocztowych lokalnych i chmurowych)
+- Wszystkie skrzynki pocztowe w chmurze, które pasują do Twojej organizacji.
+
+Ten przewodnik zawiera informacje i zasoby dotyczące konfigurowania usługi EOP i przeglądania licencjonowania użytkowników, przypisywania uprawnień w centrum centrum administracyjne platformy Microsoft 365 oraz konfigurowania zasad zabezpieczeń organizacji.

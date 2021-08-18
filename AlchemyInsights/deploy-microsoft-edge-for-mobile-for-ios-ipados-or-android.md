@@ -1,5 +1,5 @@
 ---
-title: Wdrażanie aplikacji Microsoft Edge dla urządzeń przenośnych dla systemu iOS/iPadOS lub Android
+title: Wdrażanie aplikacji Microsoft Edge dla urządzeń przenośnych z systemem iOS/iPadOS lub Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e576bf74ee9e4035ea765ccc0f5e9173fc08be71
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005460"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315630"
 ---
-# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Wdrażanie aplikacji Microsoft Edge dla urządzeń przenośnych dla systemu iOS/iPadOS lub Android
+# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Wdrażanie aplikacji Microsoft Edge dla urządzeń przenośnych z systemem iOS/iPadOS lub Android
 
 Scenariusz z przewodnikiem podsumowany poniżej pomoże Ci przypisać Microsoft Edge użytkownikom urządzeń z systemami iOS, iPadOS i Android. Po zakończeniu tych czynności zasady Microsoft Intune włączyć następujące funkcje programu Microsoft Edge dla firm:
 
@@ -28,8 +28,7 @@ Scenariusz z przewodnikiem podsumowany poniżej pomoże Ci przypisać Microsoft 
 - Integracja z Azure Active Directory proxy aplikacji
 - Zarządzane ulubione i skróty strony głównej
 
-> [!NOTE]
-> Jeśli zablokowano użytkownikom rejestrowanie urządzeń przenośnych, ten scenariusz z przewodnikiem nie będzie działać i użytkownicy będą musieli Microsoft Edge samodzielnie.
+**Uwaga:** Jeśli zablokowano użytkownikom rejestrowanie urządzeń przenośnych, ten scenariusz z przewodnikiem nie będzie działać i użytkownicy będą musieli Microsoft Edge samodzielnie.
 
 Aby wdrożyć aplikację Microsoft Edge dla urządzeń przenośnych z systemem iOS/iPadOS lub Android, zobacz:
 

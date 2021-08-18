@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e8501414498bf1937e98abaca32987e3276bb54e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53940829"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316150"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Zamiana klasycznej witryny głównej na nowoczesną witrynę
 
@@ -28,13 +28,13 @@ Jeśli Twoje środowisko zostało skonfigurować przed kwietniem 2019 r., możes
     - Użyj [funkcji Invoke-SPOSiteSwap,](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) aby zamienić lokalizację witryny z inną witryną podczas archiwizowania pierwotnej witryny. Dostępne zarówno dla witryny zespołu (nie połączonej z grupą), jak i dla witryny do komunikacji. 
 
 - Wkrótce zostaną wprowadzone dodatkowe funkcje, które umożliwią nadal korzystanie z zawartości witryny, ale przekonwertowanie istniejącej witryny na witrynę do komunikacji. 
->[!Important]
->Te funkcje będą stopniowo rozszerzane. Sprawdź aktualizacje w Centrum wiadomości. 
+
+**Ważne:** te funkcje będą stopniowo rozszerzane. Sprawdź aktualizacje w Centrum wiadomości. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Znane problemy dotyczące zamieniania witryn
 
 - W witrynie docelowej przez krótki czas może zostać zwrócony błąd "nie znaleziono" (HTTP 404).
 - Aby zaktualizować indeks wyszukiwania, należy ponownie zaktualizować zawartość. Nie trzeba ręcznie nic robić — zostanie to zrobione automatycznie.
-- Wszystko, co zależy od "statycznych" linków (takich jak synchronizacja plików i OneNote) będzie wymagało ręcznego poprawiania.
+- Wszystko, co zależy od "statycznych" linków (takich jak synchronizacja plików i pliki OneNote) trzeba będzie poprawić ręcznie.
 - Jeśli witryna źródłowa była witryną wiadomości organizacji, zaktualizuj adres URL. Uzyskaj listę wszystkich witryn wiadomości organizacji.
 - Project Być może trzeba sprawdzić poprawność witryn serwera, aby upewnić się, że są one nadal prawidłowo skojarzone.

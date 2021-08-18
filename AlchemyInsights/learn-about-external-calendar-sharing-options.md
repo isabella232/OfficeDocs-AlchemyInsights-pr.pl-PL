@@ -1,5 +1,5 @@
 ---
-title: 898 Dowiedz się więcej o opcjach udostępniania kalendarza zewnętrznego
+title: 898 Informacje o opcjach udostępniania kalendarza zewnętrznego
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,19 +12,19 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 1512892d0712c9a00b4a105d95a39ddbff55333b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fe9bdc4a341017529460dacd349f00aec8b5626142ef6b164fc61ae2581d5584
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676968"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087686"
 ---
-# <a name="exchange-online-collaboration-options"></a>Opcje współpracy w usłudze Exchange Online
+# <a name="exchange-online-collaboration-options"></a>Exchange Online opcji współpracy
 
-- Aby zapoznać się z **omówieniem udostępniania kalendarza zewnętrznego**, zobacz [udostępnianie w usłudze Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).
+- Aby uzyskać omówienie **udostępniania kalendarza zewnętrznego,** zobacz [Udostępnianie w programie Exchange Online.](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx)
 
-- Aby **udostępnić kalendarze w innej organizacji pakietu Office 365**, zobacz [relacje między organizacjami w usłudze Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).
+- Aby **udostępnić kalendarze innej organizacji Office 365,** zobacz Relacje między organizacjami w [programie Exchange Online.](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx)
 
-- Aby **kontrolować sposób udostępniania kalendarzy przez użytkowników osobom spoza organizacji**, zobacz [zasady udostępniania w usłudze Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).
+- Aby kontrolować sposób udostępniania kalendarzy **użytkownikom osobom spoza organizacji,** zobacz Zasady udostępniania w [Exchange Online.](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx)
 
-- Aby zobaczyć **ulepszenia** dotyczące udostępniania kalendarza, zobacz [udostępnianie kalendarza w programie Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).
+- Aby zobaczyć **ulepszenia wprowadzone** w udostępnianiu kalendarza, zobacz Udostępnianie kalendarza w aplikacji [Microsoft 365.](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4)
