@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 6eb59d16a1dab2de0e7a44faf9b34be6432342f9e20c94b6932e69e937751add
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 13865acb75b60a824c1dde9427c11471e980ea9e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892013"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324454"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>Problemy z usuwaniem wyeksłowanych lub likwidowanych urządzeń ze spisu urządzeń
 
@@ -26,7 +26,7 @@ Program Microsoft Defender for Endpoint obecnie nie pozwala na ręczne usuwanie 
 
 Ze względów bezpieczeństwa urządzenie pozostaje w portalu jako rekord historyczny przez maksymalnie 180 dni. Jednak dane urządzenia są czyszowane zgodnie ze skonfigurowanym okresem przechowywania.
 
-**Uwaga:** Urządzenie wyeksłowane lub  likwidowane jest automatycznie przełączane do stanu nieaktywnego po upływie siedmiu dni. Ponadto urządzenia, które nie są aktywne w ciągu ostatnich 30 dni, nie są odzwierciedlane w danych, które odzwierciedlają twoją organizację Zarządzanie zagrożeniami i lukami oceny ekspozycji lub bezpiecznego wyniku działania aplikacji Microsoft Secure Score dla urządzeń.
+**Uwaga:** Urządzenie wyeksłowane lub  likwidowane jest automatycznie przełączane do stanu nieaktywnego po upływie siedmiu dni. Ponadto urządzenia, które nie są aktywne w ciągu ostatnich 30 dni, nie są odzwierciedlane w danych, które odzwierciedlają twoją organizację Zarządzanie zagrożeniami i lukami wyników działania lub bezpiecznego wyniku działania aplikacji Microsoft Secure Score dla urządzeń.
  
 Jeśli nadal nie chcesz wyświetlać niektórych urządzeń w widoku Spis urządzeń, spróbuj dodać tag urządzenia, aby odfiltrować zlikwidowane urządzenie z widoku Spis urządzeń.
 

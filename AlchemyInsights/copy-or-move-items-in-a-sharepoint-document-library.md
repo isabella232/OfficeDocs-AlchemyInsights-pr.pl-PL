@@ -1,5 +1,5 @@
 ---
-title: Kopiowanie i przenoszenie elementów w SharePoint dokumentów
+title: Kopiowanie lub przenoszenie elementów w SharePoint dokumentów
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,33 +14,30 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: c5595b4ae8accec71bc964bb34e5314f611abd3f81abc2c8503e176389f62045
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c32ec198c6f00cd8cee2eed9ade62f7632eb5114
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54119150"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325695"
 ---
-# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopiowanie i przenoszenie elementów w SharePoint dokumentów
+# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopiowanie lub przenoszenie elementów w SharePoint dokumentów
 
 Możesz kopiować i przenosić pliki, foldery i linki do różnych lokalizacji w bibliotece dokumentów. Możesz również kopiować elementy między witrynami. 
   
 1. W przeglądarce przejdź do plików, folderów lub linków, które chcesz przenieść, a następnie kliknij pozycję Kopiuj **do** lub **Przenieś do**.
 
-    > [!NOTE]
-    > **Opcje Kopiuj** do **i** Przenieś do nie są dostępne w przypadku korzystania z klasycznego trybu SharePoint Online.
+    **Uwaga:** **opcje Kopiuj do** **i** Przenieś do nie są dostępne, jeśli korzystasz z klasycznego trybu SharePoint online.
   
-2. W **obszarze Wybierz miejsce** docelowe wybierz lokalizację, do której  chcesz skopiować lub przenieść elementy, albo kliknij pozycję Przeglądaj witryny, aby wyświetlić pełną listę witryn.
+2. W **obszarze Wybierz miejsce docelowe** wybierz lokalizację, do której  chcesz skopiować lub przenieść elementy, albo kliknij pozycję Przeglądaj witryny, aby wyświetlić pełną listę witryn.
 
-    > [!NOTE]
-    > Jeśli podczas kopiowania elementów nie widzisz innych witryn, kopiowanie w witrynach nie zostało skonfigurowane. Aby ją włączyć, przejdź do strony ustawień w centrum administracyjnym usługi SharePoint i kliknij przycisk **OK.**
+    **Uwaga:** Jeśli podczas kopiowania elementów nie widzisz innych witryn, kopiowanie w różnych witrynach nie zostało skonfigurowane. Aby ją włączyć, przejdź do strony ustawień w centrum administracyjnym usługi SharePoint i kliknij przycisk **OK.**
   
     Aby utworzyć nowy folder, wybierz lokalizację w hierarchii folderów, kliknij pozycję Nowy **folder**, wprowadź nazwę folderu i kliknij znacznik wyboru, aby zapisać nazwę.
 
 3. Kliknij **pozycję Kopiuj tutaj** lub Przenieś **tutaj**.
 
-    > [!NOTE]
-    > Możesz skopiować do 500 MB plików i folderów jednocześnie. > kopiowanie dokumentów z historią wersji jest kopiowana tylko najnowsza wersja. Podczas przenoszenia dokumentów ich historia również jest przenoszony.
+    **Uwaga:** Możesz skopiować do 500 MB plików i folderów jednocześnie. > Podczas kopiowania dokumentów z historią wersji jest kopiowana tylko najnowsza wersja. Podczas przenoszenia dokumentów ich historia również jest przenoszony.
   
  Gdy plik jest przenoszony, będzie on nadal wyświetlany w katalogu źródłowym do momentu jego pełnego przeniesienie do miejsca docelowego, a następnie zostanie usunięty. Plik pozostanie w Koszu witryn źródłowych po zakończeniu przenoszenia i podlega normalnemu harmonogramowi kosza, chyba że użytkownik odzyska go z Kosza.
 

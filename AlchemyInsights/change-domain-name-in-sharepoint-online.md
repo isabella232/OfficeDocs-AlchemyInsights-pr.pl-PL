@@ -1,5 +1,5 @@
 ---
-title: Zmienianie nazwy domeny w usłudze SharePoint Online
+title: Zmienianie nazwy domeny w u SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: c45ee866ea5972199ed2539d61013a4f55c493eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f33ee5530d15fb32f74e6c41149ae1abedfb60396287113c59c6b4dc3af24017
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733913"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119834"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a>Zmienianie nazwy domeny w usłudze SharePoint Online
+# <a name="change-domain-name-in-sharepoint-online"></a>Zmienianie nazwy domeny w u SharePoint Online
 
-Niestety nie można zmienić nazwy domeny usługi SharePoint Online w Twojej organizacji. Jeśli na przykład nazwa Twojej organizacji zmieni się z "contoso" na "dokawa czwarta", nie możesz zmienić contoso.sharepoint.com na fourthcoffee.sharepoint.com.
+Niestety, nie można zmienić nazwy domeny usługi SharePoint Online dla organizacji. Jeśli na przykład nazwa Twojej organizacji zmieni się z "Contoso" na "Fourth Coffee", nie możesz zmienić jej nazwy contoso.sharepoint.com na fourthcoffee.sharepoint.com.
   
-Aby użyć fourthcoffee.sharepoint.com nazwy domeny, należy zakupić nową subskrypcję i przenieść wszystkie wiadomości e-mail, pliki i inne dane, które mają zostać zachowane.
+Aby używać nazwy domeny fourthcoffee.sharepoint.com, należy zakupić nową subskrypcję i przenieść wszystkie wiadomości e-mail, pliki i wszelkie inne dane, które chcesz zachować, do nowej subskrypcji.
   
- **Uwaga**: aby na przykład zmienić nazwę witryny na https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 , postępuj zgodnie z instrukcjami podanymi w [tym artykule](https://docs.microsoft.com/sharepoint/change-site-address). 
+ **Uwaga:** Aby na przykład zmienić nazwę witryny z https://contoso.sharepoint.com/sites/sample1 na , wykonaj https://contoso.sharepoint.com/sites/sample2 instrukcje z tego [artykułu.](https://docs.microsoft.com/sharepoint/change-site-address) 
   
-Aby uzyskać informacje na temat przenoszenia elementów w bibliotekach dokumentów, zobacz [przenoszenie lub kopiowanie elementów z biblioteki dokumentów programu SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).
+Aby uzyskać informacje na temat przenoszenia elementów w bibliotekach dokumentów, zobacz Przenoszenie lub kopiowanie elementów z SharePoint [dokumentów.](https://go.microsoft.com/fwlink/?linkid=2025831)
   

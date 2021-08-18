@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f31352aa920720edb4d8091e01c8a8cddcb602fc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895501"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324046"
 ---
 # <a name="change-payment-method"></a>Zmienianie formy płatności
 
@@ -30,8 +30,7 @@ Możesz zmienić metodę płatności z **centrum administracyjne platformy Micro
 2. Zaznacz wiersz metody płatności, który chcesz zastąpić. W prawym okienku jest lista wszystkich profilów rozliczeń i poszczególnych subskrypcji, które korzystają z wybranej metody płatności.
 3. W okienku po prawej stronie wybierz pozycję **Zastąp metodę płatności dla wszystkich elementów**.
 4. Aby użyć istniejącej metody płatności, wybierz ją z listy rozwijanej, a następnie wybierz pozycję **Zastąp**.
-    > [!NOTE]
-    > Jeśli masz subskrypcje skojarzone z profilem rozliczeń, możesz płacić za nie tylko za pomocą karty kredytowej lub debetowej. Jeśli masz konta bankowe wymienione na stronie **Metody płatności**, nie są one dostępne do wybrania z listy rozwijanej.
+    **Uwaga:** Jeśli masz subskrypcje skojarzone z profilem rozliczeniowym, do płacenia za nie możesz użyć tylko karty kredytowej lub debetowej. Jeśli masz konta bankowe wymienione na stronie **Metody płatności**, nie są one dostępne do wybrania z listy rozwijanej.
 5. Aby dodać nową metodę płatności, wybierz pozycję **Dodaj metodę płatności**.
 6. W okienku **Dodaj metodę płatności** wprowadź informacje o koncie, a następnie wybierz pozycję **Zapisz**. Musisz użyć metody płatności z tego samego kraju, w którym jest dzierżawa.
 7. Nowa metoda płatności jest już wybrana na liście rozwijanej. Wybierz pozycję **Zastąp**.

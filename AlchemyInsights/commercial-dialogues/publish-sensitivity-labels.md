@@ -13,24 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: df5acfc38095f03eeeff379d51a72332dcf366e3786ab0ff7ffcd655cbafd1cf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b19b3cf229fd67f1df2b58b387b1f74818e35f48
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967379"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324779"
 ---
 # <a name="publish-sensitivity-labels"></a>Publikowanie etykiet wrażliwości
 
 Aby opublikować etykiety wrażliwości, wykonaj następujące czynności:
 
-1. Wybierz **Office 365 zabezpieczeń & centrum zgodności > klasyfikacji > etykietach wrażliwości.**
+1. Wybierz **Office 365 zabezpieczeń & zgodności > klasyfikacji > etykietach wrażliwości.**
 2. Na stronie **Etykiety wrażliwości** kliknij **kartę Zasady** etykiet.
 3. Kliknij **pozycję Publikuj etykiety**.
 4. Kliknij **pozycję Wybierz etykiety wrażliwości do opublikowania**. 
 5. Wybierz etykiety, które chcesz udostępnić w aplikacjach i usługach, a następnie kliknij przycisk **Dodaj**.
-> [!IMPORTANT]
-> Jeśli wybierzesz etykietę podrzędną, upewnij się, że zaznaczasz również etykietę nadrzędną.
+
+**Ważne:** Jeśli wybierzesz etykietę podrzędną, upewnij się, że zaznaczasz również etykietę nadrzędną.
+
 6. Przejrzyj zaznaczone etykiety. Aby wprowadzić zmiany, kliknij pozycję **Edytuj**; w przeciwnym razie kliknij przycisk **Dalej.**
 7. Postępuj zgodnie z monitami, aby skonfigurować ustawienia zasad.
 8. Powtórz te czynności, jeśli potrzebujesz różnych ustawień zasad dla różnych użytkowników lub lokalizacji. Chcesz na przykład dodać etykiety dla grupy użytkowników lub inną etykietę domyślną dla podzbioru użytkowników.

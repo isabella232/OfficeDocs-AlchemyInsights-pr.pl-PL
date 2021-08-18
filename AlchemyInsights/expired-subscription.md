@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3baece137a8be22808cc9af3e14207317dd261ed
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895897"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325305"
 ---
 # <a name="expired-subscription"></a>Wygasła subskrypcja
 
@@ -30,8 +30,7 @@ Wygląda na to, że masz co najmniej jedną wygasłą subskrypcję. Jeśli chces
   
 1. W centrum administracyjnym przejdź do strony **Rozliczenia** \> [z produktami.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **karcie Produkty** znajdź subskrypcję, którą chcesz aktywować ponownie. Wybierz trzy kropki (więcej akcji), a następnie wybierz pozycję **Aktywuj ponownie tę subskrypcję**.
-    > [!NOTE]
-    > Jeśli nie widzisz tematu **Aktywuj ponownie tę subskrypcję,** zadzwoń do pomocy technicznej.
+    **Uwaga:** Jeśli nie widzisz tematu **Aktywuj ponownie ten abonament,** zadzwoń do pomocy technicznej.
 3. W **okienku Aktywuj ponownie tę** subskrypcję wybierz z listy rozwijanej metodę płatności lub wybierz **pozycję Dodaj metodę płatności**.
 4. Wybierz **Zapisz**.
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 63304667cce67c48fd8bbeee52ff6d61d033ea38fd8d4c4d96c240847dab2cab
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 607e27c883f83b4b29347e764b8f2273cf0f117e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118214"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325397"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Włączanie zapisywania zwrotnego haseł w programie Azure AD Connect
 
@@ -42,5 +42,4 @@ Gdy zapisywanie zwrotne zostało już włączone w programie Azure AD Connect, s
 
 Aby uzyskać więcej informacji, zobacz: [Włączanie zapisywania zwrotnego dla samoobsługowego resetowania hasła w usłudze Azure Active Directory w środowisku lokalnym](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
 
-> [!NOTE]
->  Gdy administrator resetuje hasło użytkownika w portalu Azure, jeśli jest to użytkownik federacyjny lub skrót hasła został zsynchronizowany, hasło zostanie zapisane zwrotnie lokalnie. Ta funkcja wymaga licencji Azure Premium (P1 lub P2) i obecnie nie jest obsługiwana w portalu Office Admin.
+**Uwaga:** Gdy administrator resetuje hasło użytkownika w portalu Azure Portal, jeśli ten użytkownik jest zsynchronizowany federacyjnie lub zsynchronizował skróty haseł, hasło jest zapisywane z powrotem w środowisku lokalnym. Ta funkcja wymaga licencji Azure Premium (P1 lub P2) i obecnie nie jest obsługiwana w portalu Office Admin.

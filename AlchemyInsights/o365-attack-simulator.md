@@ -1,5 +1,5 @@
 ---
-title: 2681 Attack W Microsoft 365
+title: 2681 Attack Podczas Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f6e221cc82a1b707f6acc457cb78db743521d859
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895801"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325081"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Attack Pochoć w Microsoft 365
 
-- Czy brakuje Ci ataku? Ataki dla systemu Wymaga programu **Microsoft Defender dla Office 365 Plan 2** lub **E5 Office 365 Enterprise E5.** Ataki Nie są **uwzględnione w** programie Microsoft Defender dla Office 365 Plan 1, Office 365 Enterprise E3 ani żadnych innych Aplikacje Microsoft 365 dla firm subskrypcji.
+- Czy brakuje Ci ataku? Atak Podczas ataków Do programu **Microsoft Defender Office 365 plan 2** lub Office 365 Enterprise **E5.** Ataki Dla **usług** Microsoft Defender 1, E3 i E3 nie są uwzględnione w programie Microsoft Defender Office 365 plan 1, Office 365 Enterprise E3 ani żadnych Aplikacje Microsoft 365 dla firm subskrypcji.
 
 - Konto służące do rozpoczynania symulowanych ataków wymaga uprawnień administratora globalnego lub administratora zabezpieczeń oraz uwierzytelniania wieloskładnikowego (MFA). Aby uzyskać więcej informacji na temat wymagań dotyczących ataków, zobacz [ten temat.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
 

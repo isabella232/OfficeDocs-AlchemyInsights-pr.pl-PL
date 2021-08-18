@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d55dae30c875022b8c38c14ba72eafbc674efcae
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874549"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324535"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>Przesyłanie wiadomości e-mail za pomocą śledzenia wiadomości
 
-1. Przejdź do centrum Exchange administracyjnego w administracyjnym programu SharePoint w <https://admin.exchange.microsoft.com> \> **administracyjnym** przepływu poczty \> **e-mail Śledzenie wiadomości.**
+1. Przejdź do centrum administracyjnego programu Exchange(EAC) w administracyjnym przepływu poczty <https://admin.exchange.microsoft.com> \>  \> **e-mail Śledzenie wiadomości.**
 
    Aby przejść bezpośrednio do strony **Śledzenie wiadomości,** <https://admin.exchange.microsoft.com/#/messagetrace> użyj .
 
