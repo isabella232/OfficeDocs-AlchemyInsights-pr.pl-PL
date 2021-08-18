@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: e479501eb0bd751d364b39ec75b8c8b990702e84
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: ae4ddd365951190f58c551a4ca2874268ee64186c605be5b33860dcb864235da
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314538"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901974"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Przedpłacone Microsoft 365 odnawianie
 
@@ -29,7 +29,8 @@ ms.locfileid: "58314538"
 3. Na stronie szczegółów subskrypcji w sekcji Ustawienia subskrypcji **i płatności** wybierz pozycję **Przedłuż datę zakończenia**.
 4. Na stronie **odnawianie lub dodawanie licencji użytkowników** wybierz pozycję Użyj nowego i nieużywanego klucza produktu , **a** następnie wybierz pozycję **Dalej**.
 5. Wprowadź klucz produktu, a następnie wybierz pozycję **Dalej**.
-    **Uwaga:** Jeśli masz więcej niż jeden klucz produktu, możesz wybrać pozycję Dodaj **inny klucz produktu,** aby go wprowadzić.
+    > [!NOTE]
+    > Jeśli masz więcej niż jeden klucz produktu, możesz wybrać pozycję Dodaj **inny klucz produktu, aby** go wprowadzić.
 6. Przejrzyj szczegóły zamówienia, a następnie wybierz **pozycję Zrealizuj**.
 
 Aby dowiedzieć się więcej, zobacz [Dodawanie licencji lub rozszerzanie subskrypcji opłaconej przy użyciu klucza produktu.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

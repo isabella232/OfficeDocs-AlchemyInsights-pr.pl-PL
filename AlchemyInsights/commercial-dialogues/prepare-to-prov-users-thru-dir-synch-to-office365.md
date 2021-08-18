@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 4b3035444966e89d32c4375482a155ae85bff240
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a135d20c4f6c6c387c57a5b3007048e33fcc4cf3af0a6d12cad91b62d53463c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482325"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090975"
 ---
 # <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>Prepare to provision users through directory synchronization to Office 365
 
-Inicjowanie obsługi użytkowników z synchronizacją katalogów wymaga planowania i przygotowania, postępuj zgodnie z poniższymi wskazówkami:
+Inicjowanie obsługi użytkowników z synchronizacją katalogów wymaga planowania i przygotowania, należy postępować zgodnie z poniższymi wskazówkami:
 
 Niektóre czynności, które muszą być podejmowane podczas inicjowania obsługi użytkowników, to:
 1. **Oczyszczanie katalogów.**
 1. **Przygotowywanie atrybutów i obiektów katalogu.**
-1. **Przygotowywanie atrybutów upn.**
-1. **Opcjonalne dodawanie alternatywnych sufiksów upn do AD DS.**
-1. **Dopasuj lokalne upny z upnami usługi Office 365.**
+1. **Przygotowywanie atrybutów upn**.
+1. **Opcjonalne dodawanie alternatywnych sufiksów upn do listy AD DS.**
+1. **Dopasuj lokalne upN do Office 365 UPN.**
 1. **Narzędzia integracji katalogów.**
 
-Aby uzyskać szczegółowe opisy poszczególnych kroków przygotowywania, zobacz artykuł "Przygotowywanie do zapewnienia obsługi użytkowników za pomocą funkcji synchronizacji katalogów z usługą [Office 365".](https://aka.ms/office365assistantprovisionuserstooffice365)
+Aby uzyskać szczegółowe opisy poszczególnych kroków przygotowywania, zobacz Przygotowywanie do inicjowania obsługi użytkowników za pomocą funkcji synchronizacji katalogów [Office 365 artykule.](https://aka.ms/office365assistantprovisionuserstooffice365)

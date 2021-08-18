@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 56d689521d8438cedf797d8f7e524c542fbf3fedeb3a0caaf92b6b2cff1dd9bb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: dd8b801c1ec894392223f584cc359dea54fd8062
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895129"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318802"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Zgłaszanie podejrzanych wiadomości e-mail, adresów URL lub załączników
 
@@ -31,7 +31,6 @@ Rozumiem, że potrzebujesz pomocy w zbadaniu podejrzanej wiadomości e-mail lub 
 
 3. Zostanie wyświetlone wysuwne menu z opcją przesyłania wiadomości e-mail, adresu URL lub pliku.
 
-Aby uzyskać więcej informacji, zobacz Przesyłanie przez administratora w celu przesyłania podejrzeń o spam, wyłudzy, adresy URL [i pliki do firmy Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
+Aby uzyskać więcej informacji, zobacz Przesyłanie administratora w celu przesłania podejrzeń o [spam, wyłudzy,](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)adresy URL i pliki do firmy Microsoft.
 
-> [!NOTE]
-> Poinformuj użytkowników, że powinni zgłosić podejrzane wiadomości w skrzynce odbiorczej za pomocą dodatku Report Message (Wiadomość raportu) lub [dodatku Do wyłudzania informacji (Report Phishing).](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)
+**Uwaga:** Poinformuj użytkowników, że powinni zgłosić podejrzane wiadomości w skrzynce odbiorczej za pomocą dodatku Report Message (Wiadomość raportu) lub dodatku Do wyłudzania [informacji (Report Phishing).](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

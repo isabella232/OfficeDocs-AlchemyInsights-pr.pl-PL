@@ -15,16 +15,16 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3eb518dbdd71985fe06044925dd52bfbca98defc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896941"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318572"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Jak dokonać Microsoft 365 zakupu
 
-Subskrypcję usługi Microsoft 365 można kupić w centrum administracyjnym.
+Subskrypcję usługi Microsoft 365 możesz kupić w centrum administracyjnym.
   
 - Aby kupić plan, przejdź do **strony** \> **[Zakup usług rozliczeniowych.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
 - Aby kupić dodatkowe licencje,  przejdź do strony \> **[Rozliczenia produktów.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Wybierz subskrypcję, którą chcesz zmienić, a następnie wybierz **pozycję Kup licencje**.\

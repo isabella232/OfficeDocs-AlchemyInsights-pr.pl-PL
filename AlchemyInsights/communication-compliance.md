@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: fe834e12f35550cef669c5a60a2f3e460648dbd0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817506"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090746"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Zgodność komunikacji na microsoft 365
+# <a name="communication-compliance-in-microsoft-365"></a>Zgodność komunikacji w Microsoft 365
 
-Zgodność komunikacji to nowe rozwiązanie do zgodności platformy Microsoft 365, które ułatwia organizacjom spełnienie wymagań nadzorczych dotyczących zgodności z przepisami i zminimalizowanie zagrożeń związanych z komunikacją. Jest on oparty na funkcji nadzór i zawiera nowe ulepszenia, takie jak:
+Zgodność komunikacji to nowe rozwiązanie do Microsoft 365 zgodności, które ułatwia organizacjom spełnienie wymagań nadzorczych dotyczących zgodności z przepisami i zminimalizowanie zagrożeń związanych z komunikacją. Jest on oparty na funkcji nadzór i zawiera nowe ulepszenia, takie jak:
 
 - Inteligentne szablony z możliwością dostosowywania
 - Elastyczne przepływy pracy w celu rozwiązywania problemów
@@ -33,15 +33,15 @@ Aby skonfigurować zgodność komunikacji, zobacz [Konfigurowanie zgodności kom
 
 Aby zbadać, przejrzeć i rozwiązać problemy związane ze zgodnością komunikacji, zobacz [Badanie i rozwiązywanie problemów dotyczących alertów zgodności komunikacji.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)
 
-Aby uzyskać omówienie funkcji zgodności komunikacji, zobacz [Zgodność komunikacji na platformie Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
+Aby uzyskać omówienie funkcji zgodności komunikacji, zobacz Zgodność [komunikacji w programie Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
 
 Wymagania licencyjne: Użytkownicy monitorowany przez zasady komunikacji muszą mieć jedną z następujących zasad:
 
-- Licencja zgodności platformy Microsoft 365 E5
-- Licencja usługi Office 365 Enterprise E3 z dodatku Advanced Compliance
-- Subskrypcja usługi Office 365 Enterprise E5
+- Zgodność platformy Microsoft 365 E5 licencji
+- Office 365 Enterprise Licencja E3 z dodatku Advanced Compliance
+- Office 365 Enterprise Subskrypcja E5
 
-Jeśli nie masz żadnej z powyższych wersji i chcesz wypróbować zgodność z komunikacją, zarejestruj się w celu wypróbowania usługi **[Office 365 Enterprise E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
+Jeśli nie masz żadnej z powyższych wersji i chcesz wypróbować zgodność z komunikacją, zarejestruj się w celu wypróbowania Office 365 Enterprise **[E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
 > [!NOTE]
-> Pełne przetworzenie wiadomości e-mail przez zasady może potrwać do 24 godzin. Przetwarzanie komunikacji na platformach Microsoft Teams, Yammer i innych firm może potrwać do 48 godzin w pełni zgodnie z zasadami.
+> Pełne przetworzenie wiadomości e-mail przez zasady może potrwać do 24 godzin. Przetwarzanie komunikacji na Microsoft Teams, Yammer i platformach innych firm może potrwać do 48 godzin.

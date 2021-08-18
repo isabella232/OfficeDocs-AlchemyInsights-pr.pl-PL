@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: e586664b1c1e8435953fb8a98b2b5b6b15fe1cfa8d74b9622a257cb1751fc799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 538c79344fc9a10b3400a79c2d2aa1b0e6d99fe2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976983"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318390"
 ---
 # <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Jak zaktualizować ustawienia poczty e-mail Outlook komputera PC
 
@@ -29,10 +29,9 @@ ms.locfileid: "53976983"
 
 4. Jeśli występują problemy z wysyłaniem wiadomości e-mail lub otrzymujesz wiadomości dotyczące serwera poczty wychodzącej, upewnij się, że pole wyboru Serwer wychodzący **(SMTP) wymaga uwierzytelniania** jest zaznaczone.
 
-5. Jeśli musisz zaktualizować porty serwera poczty przychodzącej lub  wychodzącej albo ustawienia protokołu SSL, przejdź do karty Zaawansowane i wprowadzić zmiany.
+5. Jeśli chcesz zaktualizować porty serwera poczty przychodzącej lub  wychodzącej albo ustawienia protokołu SSL, przejdź do karty Zaawansowane i wprowadzić zmiany.
 
-> [!NOTE]
-> W przypadku klientów **usług AOL** i Verizon: Wybranie protokołu **SSL/TLS** z listy rozwijanej w obszarze Połączenia przychodzące i wychodzące **serwera szyfrowane** gwarantuje, że nadal będzie można wysyłać i odbierać wiadomości e-mail po 7 listopada 2017 r.
+    **Uwaga:** W przypadku klientów **usług AOL** i Verizon: Wybranie opcji **SSL/TLS** z listy rozwijanej w obszarze Połączenia przychodzące i wychodzące **serwera szyfrowane** gwarantuje, że nadal będzie można wysyłać i odbierać wiadomości e-mail po 7 listopada 2017 r.
 
 6. Po zakończeniu aktualizowania ustawień kliknij przycisk **OK,** kliknij przycisk **Dalej,** a następnie kliknij przycisk **Zakończ.**
 

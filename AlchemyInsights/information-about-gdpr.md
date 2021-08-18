@@ -12,16 +12,16 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 3f7cf748f309441372e7af7dbcaaa241b7cfcd3b365051a2630ca38fa4c1d11c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ab1d8283bcd537cf666dd60b3a23459d4d1dfa8aa5167e2d6fb2a9b779b4b3e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899446"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115514"
 ---
 # <a name="information-about-gdpr"></a>Informacje o RODO
 
-- [Uproszczone RODO: przewodnik dla Twojej małej firmy](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/gdpr-compliance)
+- [Uproszczone RODO: przewodnik dla Twojej małej firmy](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
 - Wprowadzenie z [Portalem zaufania usług.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
@@ -31,7 +31,7 @@ ms.locfileid: "57899446"
 
   - [Raporty inspekcji](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Informacje na **temat żądań osób, których** dane dotyczą (DSR, Data Subject Requests) — znajdziesz tu: odnajdowanie, uzyskiwanie dostępu, poprawianie, ograniczanie, usuwanie i [eksportowanie.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- Informacje na **temat żądań osób, których** dane dotyczą (DSR, Data Subject Requests) — znajdziesz tu: odnajdowanie, uzyskiwanie dostępu, poprawianie, ograniczanie, usuwanie i [eksportowanie.](/microsoft-365/compliance/gdpr-dsr-office365)
 
 - Tutaj znajdziesz **informacje o powiadomieniu o naruszeniu** [danych.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 
