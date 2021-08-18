@@ -1,5 +1,5 @@
 ---
-title: Jak kupić Office 365 Education planów
+title: Jak kupić plany Office 365 Education-
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -17,14 +17,14 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: e38733ee55b39424c65867ff23deb5282b5de114fc3e2a11a830be2dfba09eeb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 522d99d8ab131437c519321115fa2c47d3175530
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868500"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323122"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Jak kupić Office 365 Education planów
+# <a name="how-to-purchase-office-365-education-plans"></a>Jak kupić plany Office 365 Education-
 
 Potwierdzono Twoje uprawnienia do nabycia usługi Office 365 Education.  Aby dokonać zakupu:
 

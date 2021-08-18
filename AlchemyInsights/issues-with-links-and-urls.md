@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054808"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321917"
 ---
 # <a name="issues-with-links-and-urls"></a>Problemy z linkami i adresami URL
 
@@ -42,15 +42,13 @@ Aby dodać adres URL odpowiedzi, przejdź do karty **Uwierzytelnianie** na stron
     - platformy (iOS/Android/UWP),
     - informacji używanych do tworzenia aplikacji, np. identyfikatora pakietu w systemie iOS, nazwy pakietu i skrótu podpisu w systemie Android. Rejestracja aplikacji portalu Microsoft Azure Portal będzie pomocna. W celu uzyskania szczegółowych informacji zobacz [Konfigurowanie platformy i identyfikatory URI przekierowania](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Interfejsy API sieci Web i niektóre dyskretne sposoby uzyskiwania tokenów (IWA i nazwa użytkownika/hasło) nie wymagają identyfikatora URI przekierowania.
+**Uwaga:** Interfejsy API sieci Web i niektóre ciche sposoby uzyskiwania tokenów (IWA oraz nazwa użytkownika i hasło) nie wymagają URI przekierowania.
 
 **Wdrażam swoją aplikację internetową i gdy ją testuję, uzyuskuję komunikat o niezgodności adresu URL odpowiedzi**
 
 Dodaj identyfikatory URI przekierowania w przypadku wszystkich lokalizacji, w których jest wdrażana aplikacja internetowa. Aby uzyskać więcej informacji, zobacz [Rejestrowanie aplikacji Web App za pomocą portalu Microsoft Azure Portal](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Dodaj identyfikator URI przekierowania dla lokalizacji niezwłocznie po wdrożeniu aplikacji w tej lokalizacji.
+**Uwaga:** Dodaj URI przekierowania dla lokalizacji natychmiast po wdrożeniu aplikacji w tej lokalizacji.
 
 **Nie mogę zarejestrować wystarczającej liczby adresów URL odpowiedzi**
 

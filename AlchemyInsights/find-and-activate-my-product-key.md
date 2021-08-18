@@ -15,22 +15,20 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: c0b96e092a05a8db8e8b6a3cff5c072840b5e368314af00bb065e03149df6b60
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 8c0556d2e0d2427d856d226b976ced81a2ca1e65
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498874"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322075"
 ---
 # <a name="microsoft-open-license-program"></a>Microsoft Open License Program
 
-Jeśli zakupiono Microsoft 365 dla firm za pośrednictwem programu [microsoft Open License,](https://go.microsoft.com/fwlink/p/?LinkID=613298)oto jak znaleźć i aktywować klucz produktu.
+Jeśli zakupiono Microsoft 365 dla firm za pośrednictwem programu [licencji Microsoft Open License,](https://go.microsoft.com/fwlink/p/?LinkID=613298)oto jak znaleźć i aktywować klucz produktu.
 
 1. Po zakupie klucza od partnera usługi Microsoft 365 sprawdź, czy w Skrzynce odbiorczej nie ma wiadomości e-mail od firmy Microsoft zawierającej link aktywacji.
 
-    > [!NOTE]
-    > Ta wiadomość e-mail jest wysyłana do osoby wymienionej w umowie licencjonowania zbiorowego jako administrator online. Jeśli nie masz pewności, kto został wyznaczony jako administrator online, zapytaj swojego Microsoft 365 administratora.
+    **Uwaga:** Wiadomość e-mail jest wysyłana do osoby wymienionej jako administrator online w umowie licencjonowania zbiorowego. Jeśli nie masz pewności, kto został wyznaczony jako administrator online, zapytaj swojego Microsoft 365 administratora.
 1. Postępuj zgodnie z linkiem w wiadomości e-mail, aby zalogować się przy użyciu konta służbowego, zaakceptować umowę licencji Open i odnowić subskrypcję. Aby uzyskać szczegółowe instrukcje, pobierz przewodnik dotyczący plików PDF, Aktywuj usługi [online:](https://go.microsoft.com/fwlink/p/?LinkId=618100)Microsoft 365 subskrypcji .
 
-    > [!NOTE]
-    > Klienci korzystający z licencjonowania zbiorowego mogą również aktywować subskrypcje w centrum [Volume Licensing Service Center.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Aby dowiedzieć się, jak to zrobić, pobierz przewodnik w formacie PDF [Usługi Active Online z centrum Volume Licensing Service Center.](https://go.microsoft.com/fwlink/p/?LinkId=618096)
+    **Uwaga:** Klienci korzystający z licencjonowania zbiorowego mogą także aktywować subskrypcje w centrum [Volume Licensing Service Center.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Aby dowiedzieć się, jak to zrobić, pobierz przewodnik w formacie PDF [Usługi Active Online z centrum Volume Licensing Service Center.](https://go.microsoft.com/fwlink/p/?LinkId=618096)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a144b172787563b1aa57bdec790df1805a13f078
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896725"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323296"
 ---
 # <a name="create-user"></a>Tworzenie użytkownika
 
@@ -29,8 +29,8 @@ ms.locfileid: "57896725"
 
 **Nie mogę utworzyć nowego użytkownika w katalogu usługi Azure AD**
 
-1. Upewnij się, że masz uprawnienia do tworzenia nowego użytkownika standardowego. Nowego użytkownika standardowego może utworzyć tylko administrator globalny Azure Active Directory (AD, User administrator). Jeśli nie pełnisz jednej z tych ról, poproś administratora, aby dodał Cię do jednej z tych ról lub tworzył nowe konto użytkownika dla Ciebie.
-1. Upewnij się, że nazwa użytkownika znajduje się w domenie, która została zweryfikowana w usłudze Azure AD. Jeśli w usłudze Azure AD nie ma żadnych zweryfikowanych niestandardowych nazw domen, możesz użyć domeny początkowej usługi Azure AD, która kończy się na *.onmicrosoft.com.
+1. Upewnij się, że masz uprawnienia do tworzenia nowego użytkownika standardowego. Nowego użytkownika standardowego może utworzyć tylko administrator globalny lub Azure Active Directory użytkownika (AD). Jeśli nie pełnisz jednej z tych ról, poproś administratora, aby dodał Cię do jednej z tych ról lub tworzył nowe konto użytkownika dla Ciebie.
+1. Upewnij się, że nazwa użytkownika znajduje się w domenie, która została zweryfikowana w usłudze Azure AD. Jeśli w usłudze Azure AD nie ma żadnych zweryfikowanych domen niestandardowych, możesz użyć domeny początkowej usługi Azure AD, która kończy się na *.onmicrosoft.com.
 1. Upewnij się, że nazwa użytkownika znajduje się w domenie, która nie jest federowana z usługą Azure AD z lokalnej usługi AD. Użytkowników nie można dodawać w chmurze za pomocą nazw domen, które są federowane ze środowisk lokalnych.
 1. Upewnij się, że żaden inny użytkownik lub kontakt nie ma nazwy użytkownika, którą chcesz przypisać noweowi użytkownikowi. Nazwy użytkowników muszą być unikatowe w usłudze Azure AD.
 1. Zobacz [Role i administratorzy usługi Azure AD dla](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) usługi Azure AD.

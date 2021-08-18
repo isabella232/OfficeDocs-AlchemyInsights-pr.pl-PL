@@ -1,5 +1,5 @@
 ---
-title: Usuwanie witryny programu SharePoint
+title: Usuwanie witryny SharePoint sieci Web
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,43 +12,43 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 06406794f24821836cebb1bb5ade56f9ca7e49a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c8dff84e8b4a4a1a78db98736c23f8a0b0d235d9b09f15bd9ff770785badb4f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731213"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118538"
 ---
-# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Usuwanie witryn należących do grupy programu Microsoft 365
+# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Usuwanie witryn należących do Microsoft 365 grupy
 
-Po utworzeniu nowej witryny zespołu za pomocą programu SharePoint dla użytkowników domowych lub utworzeniu nowej witryny zespołu na podstawie nowego centrum administracyjnego programu SharePoint zostanie automatycznie utworzona odpowiednia grupa Microsoft 365. Witryny zespołu połączone z grupą Microsoft 365 są również tworzone podczas tworzenia grupy Microsoft 365 lub zespołu w aplikacji Microsoft Teams. Aby usunąć witrynę programu SharePoint należącą do grupy programu Microsoft 365, należy usunąć grupę Microsoft 365. 
+Gdy użytkownicy tworzą nową witrynę zespołu w witrynie SharePoint Home lub gdy tworzysz nową witrynę zespołu w nowym centrum administracyjnym programu SharePoint, automatycznie tworzona jest odpowiadająca jej Microsoft 365 zespołu. Microsoft 365 witryn zespołu połączonych z grupą są również tworzone podczas tworzenia grupy Microsoft 365 lub zespołu w Microsoft Teams. Aby usunąć witrynę SharePoint, która należy do grupy Microsoft 365, musisz usunąć samą grupę Microsoft 365 grupy. 
   
-1. Przejdź do [strony grupy w centrum administracyjnym usługi Microsoft 365](https://portal.office.com/adminportal/home#/groups).
+1. Przejdź do [strony Grupy w centrum administracyjne platformy Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
 2. Zaznacz pole wyboru obok grupy.
     
-3. Wybierz pozycję **Usuń**.
+3. Wybierz **pozycję Usuń**.
     
-Uwaga: Usunięcie grupy może powodować opóźnienie przed usunięciem witryny z programu SharePoint.
+UWAGA: Usunięcie grupy może się opóźnić, zanim witryna zostanie usunięta z SharePoint.
   
-**Usuwanie witryn komunikacyjnych lub witryn klasycznych:**
+**Usuwanie witryn do komunikacji lub witryn klasycznych:**
 
 1. Przejdź do witryny.
   
-2. Kliknij ikonę **Ustawienia** w prawym górnym rogu. 
+2. Kliknij **ikonę Ustawienia** w prawym górnym rogu. 
   
-3. Kliknij pozycję **Ustawienia witryny**. W obszarze **Informacje o witrynie** lub **Akcje witryny**kliknij pozycję **Usuń tę witrynę**, a następnie kliknij pozycję **Usuń**.
+3. Kliknij **pozycję Ustawienia witryny.** W **obszarze Informacje o witrynie** lub Akcje **witryny** kliknij pozycję **Usuń tę witrynę**, a następnie kliknij pozycję **Usuń**.
   
-**Usuwanie zbioru witryn programu SharePoint:**
+**Usuwanie SharePoint witryn:**
 
 Aby usunąć witrynę:
   
-1. W nowym centrum administracyjnym programu SharePoint na stronie witryny kliknij **pole wyboru** obok witryny, którą chcesz usunąć. 
+1. W nowym SharePoint administracyjnego na stronie Witryny kliknij  pole wyboru obok witryny, którą chcesz usunąć. 
     
-2. Na pasku narzędzi wstążki kliknij przycisk **Usuń.**
+2. Na pasku narzędzi wstążki kliknij pozycję **Usuń.**
     
-**Usunięto witrynę przypadkowo?**
+**Usunięto witrynę przez przypadek?**
 
-Zobacz [Przywracanie usuniętego zbioru witryn](https://go.microsoft.com/fwlink/?linkid=867660).
+Zobacz [Przywracanie usuniętego zbioru witryn.](https://go.microsoft.com/fwlink/?linkid=867660)
   
 
