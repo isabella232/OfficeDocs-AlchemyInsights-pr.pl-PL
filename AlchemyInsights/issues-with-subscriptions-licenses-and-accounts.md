@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004324"
 - "7732"
-ms.openlocfilehash: a2476d5c3bd804577cf37dce98050050a55eaa52
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.openlocfilehash: a54102577dcd2c9fc2c679615798aa646c4367886b6599cfc630f4a7f8484a2f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49885284"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087974"
 ---
 # <a name="issues-with-subscriptions-licenses-and-accounts"></a>Problemy z subskrypcjami, licencjami i kontami
 
-1. Wszyscy użytkownicy w bezpłatnej dzierżawie usługi Azure AD mogą używać uwierzytelniania wieloskładnikowego Azure przy użyciu [domyślnych ustawień zabezpieczeń](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).
-1. Opis [funkcji i licencji dotyczących uwierzytelniania wieloskładnikowego usługi Azure AD](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-licensing).
-1. Dowiedz się [, jak skojarzyć lub dodać subskrypcję Azure do dzierżawy usługi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory).
-1. Wykonaj poniższe czynności, aby [przenieść subskrypcję platformy Azure do innego katalogu usługi Azure AD](https://docs.microsoft.com/azure/role-based-access-control/transfer-subscription).
-1. Zobacz [przypisywanie lub usuwanie licencji w portalu usługi Azure Active Directory,](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) Aby uzyskać wskazówki dotyczące przypisywania i usuwania licencji użytkowników.
+1. Wszyscy użytkownicy w dzierżawie Azure AD — wersja Bezpłatna mogą korzystać z uwierzytelniania Azure Multi-Factor, korzystając z [domyślnych ustawień zabezpieczeń.](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
+1. Opis [funkcji i licencji usługi Azure AD Multi-Factor Authentication.](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-licensing)
+1. Dowiedz się, [jak skojarzyć lub dodać subskrypcję platformy Azure do Azure Active Directory dzierżawy](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)usługi .
+1. Wykonaj poniższe czynności, [aby przenieść subskrypcję platformy Azure do innego katalogu usługi Azure AD.](https://docs.microsoft.com/azure/role-based-access-control/transfer-subscription)
+1. Zobacz [Przypisywanie lub usuwanie licencji](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) w portalu Azure Active Directory, aby uzyskać wskazówki dotyczące przypisywania lub usuwania licencji użytkownikom.

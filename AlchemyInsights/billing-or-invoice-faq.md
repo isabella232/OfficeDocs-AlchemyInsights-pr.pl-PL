@@ -16,21 +16,21 @@ ms.custom:
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: d50f4c7a3ac7a8de8ab280c87f4b815479788bc04aef792dcc3e503bed5b2f03
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: a04d6c23caecc8766d91bd8aa17ca9df870de03c221b8bc162dfe4a98d961f48
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501682"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899586"
 ---
 # <a name="billing-or-invoice-faq"></a>Rozliczenia lub faktury — często zadawane pytania
 
-- Płatności rozliczeń mogą zostać **odrzucone** z kilku powodów, a także w przypadku wygaśnięcia karty kredytowej. Aby rozwiązać problem, zobacz [Aktualizuj szczegóły dotyczące formy płatności](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).
-- W przypadku **zaległych** rachunków należy skorzystać z funkcji **Rozlicz saldo**, aby ponownie przesłać płatność. Aby rozwiązać problem, zobacz [Co zrobić, jeśli mam nieuregulowane saldo?](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
-- Jesteś nadal obciążany kosztem za licencje, które nie są przypisane do użytkowników. Aby zapobiec niepotrzebnym opłatom usuń nieużywane licencje, żeby zredukować ich liczbę. Zobacz [Kup licencje w subskrypcji lub usuń je](/microsoft-365/commerce/licenses/buy-licenses).
-- Jeśli chcesz zmienić **częstotliwości rozliczeń** na miesięczne lub roczne, zobacz [Zmienianie częstotliwości rozliczeń](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
-- Jeśli potrzebujesz pomocy dotyczącej rachunku, zobacz [Opis faktury](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
-- Jeśli potrzebujesz pomocy dotyczącej **wyświetlania** rachunku, zobacz [Wyświetlanie rozliczenia lub faktury](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
-- Jeśli chcesz zmienić informacje dotyczące rozliczeń, zobacz [Zarządzanie profilem rozliczeniowym](/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) lub [Zmienianie adresu rozliczeniowego](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+- Płatności rozliczeń mogą zostać **odrzucone** z kilku powodów, a także w przypadku wygaśnięcia karty kredytowej. Aby rozwiązać problem, zobacz [Aktualizuj szczegóły dotyczące formy płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).
+- W przypadku **zaległych** rachunków należy skorzystać z funkcji **Rozlicz saldo**, aby ponownie przesłać płatność. Aby rozwiązać problem, zobacz [Co zrobić, jeśli mam nieuregulowane saldo?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+- Jesteś nadal obciążany kosztem za licencje, które nie są przypisane do użytkowników. Aby zapobiec niepotrzebnym opłatom usuń nieużywane licencje, żeby zredukować ich liczbę. Zobacz [Kup licencje w subskrypcji lub usuń je](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Jeśli chcesz zmienić **częstotliwości rozliczeń** na miesięczne lub roczne, zobacz [Zmienianie częstotliwości rozliczeń](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+- Jeśli potrzebujesz pomocy dotyczącej rachunku, zobacz [Opis faktury](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+- Jeśli potrzebujesz pomocy dotyczącej **wyświetlania** rachunku, zobacz [Wyświetlanie rozliczenia lub faktury](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
+- Jeśli chcesz zmienić informacje dotyczące rozliczeń, zobacz [Zarządzanie profilem rozliczeniowym](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) lub [Zmienianie adresu rozliczeniowego](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
 
-Aby uzyskać więcej informacji na temat faktury, zobacz [Opis faktury](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Aby uzyskać więcej informacji na temat faktury, zobacz [Opis faktury](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).

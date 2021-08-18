@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 40da85009f051005940429dcd2ac81ec9fa6dd64
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883365"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316986"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft Secure Score
 
 Korzystając z programu Microsoft Secure Score, można zabezpieczyć swoje środowisko. Pojmij ją jako ocenę kredytową dla zabezpieczeń. Informuje on o czynnościach, które można podjąć, aby zwiększyć bezpieczeństwo organizacji.
 
-1. W portalu Microsoft 365 Defender przejdź <https://security.microsoft.com> do bezpiecznego **wyniku.**
+1. W portalu Microsoft 365 Defender w <https://security.microsoft.com> miejscu przejdź do bezpiecznego **wyniku.**
 
    Aby przejść bezpośrednio do strony **Wyników bezpiecznego,** użyj <https://security.microsoft.com/securescore>
 
@@ -34,7 +34,6 @@ Korzystając z programu Microsoft Secure Score, można zabezpieczyć swoje środ
 
 4. Wybierz z listy  **element** Do lub Element wychodzący na **karcie Akcje udoskonalania.** Zostanie otwarta nowa strona z kompletnym opisem **oraz** przyciskiem Zarządzaj, który umożliwia rozwiązanie problemu.
 
-    > [!NOTE]
-    > Masz punkty za skonfigurowanie zalecanych funkcji zabezpieczeń, ale pamiętaj, że niektóre akcje są oznaczone etykietą **[Nieskomendowane]**. Oznacza to, że nawet jeśli wdrożysz takie działanie ulepszeń, nie będziesz przyznać żadnych punktów za swój wynik. W przeciwnym razie aktualizacja wyniku może potrwać do *24* godzin.
+    **Uwaga:** masz punkty za skonfigurowanie zalecanych funkcji zabezpieczeń, ale pamiętaj, że niektóre akcje są oznaczone etykietą **[Nieskomendowane]**. Oznacza to, że nawet jeśli wdrożysz takie działanie ulepszeń, nie będziesz przyznać żadnych punktów za swój wynik. W przeciwnym razie aktualizacja wyniku może potrwać do *24* godzin.
 
 Aby uzyskać więcej informacji na temat wyników bezpiecznego rozwiązania Microsoft, zobacz [Microsoft Secure Score.](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score)

@@ -1,5 +1,5 @@
 ---
-title: Nieprawidłowe nazwy plików w usłudze OneDrive
+title: Nieprawidłowe nazwy plików w OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
-ms.openlocfilehash: 90c2df4eb6fe97925a6d6eb6e7afd357e2349850
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2564d25d9385e629ead0fd5af7e178f9d73cfd766c672fa31abc493185786c76
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696235"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088118"
 ---
-# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Nieprawidłowe nazwy plików i folderów w usłudze OneDrive i programie SharePoint
+# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Nieprawidłowe nazwy plików i folderów w OneDrive i SharePoint
 
 Te znaki są niedozwolone w nazwach plików i folderów " \* : \< \> ? / \ | 
   
-Niektóre organizacje nie mają jeszcze włączonej obsługi funkcji # i%. Aby dowiedzieć się, jak zezwolić na te znaki w Twojej organizacji, zobacz [Włączanie obsługi # i%](https://go.microsoft.com/fwlink/?linkid=862611). 
+Niektóre organizacje nie mają jeszcze włączonej obsługi # i %. Aby dowiedzieć się, jak zezwolić na te znaki w organizacji, zobacz [Włączanie obsługi znaków # i %.](https://go.microsoft.com/fwlink/?linkid=862611) 
   
 [Więcej informacji o ograniczeniach dotyczących nazw plików i folderów](https://go.microsoft.com/fwlink/?linkid=866430)
   
