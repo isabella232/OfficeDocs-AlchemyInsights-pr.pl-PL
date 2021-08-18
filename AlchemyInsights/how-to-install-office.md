@@ -12,19 +12,18 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: a3f07573832fbaed622cd76686a59df06127023563cc3d2c3a7e710cbf45accd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 188063432bec2e1bdec07c11cbaf6731ab6046d9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54028950"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328958"
 ---
 # <a name="how-to-install-office"></a>Jak zainstalować pakiet Office
 
 Aby zainstalować aplikacje klienckie pakietu Office, upewnij się, że masz subskrypcję biznesową, taką jak Microsoft 365 Business Standard, Aplikacje Microsoft 365 dla firm lub Office 365 Education.
   
-> [!NOTE]
-> [Office dla Użytkowników Domowych i Małych Firm](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) jest produktem [Office dla użytkowników domowych](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=alchemy_clientdia) i nie jest częścią subskrypcji dla firm. Aby uzyskać szczegółowe instrukcje dotyczące instalowania programu Visio lub programu Project, zobacz: [Instalowanie programu Visio](https://support.microsoft.com/office/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=Alchemy_ClientDIA) lub [Instalowanie programu Project](https://support.microsoft.com/office/7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=Alchemy_ClientDIA).
+**Uwaga:** [Office dla Użytkowników](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) Domowych i Małych Firm Office [do](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=alchemy_clientdia) użytku domowego, a nie jako część subskrypcji dla firm. Aby uzyskać szczegółowe instrukcje dotyczące instalowania programu Visio lub programu Project, zobacz: [Instalowanie programu Visio](https://support.microsoft.com/office/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=Alchemy_ClientDIA) lub [Instalowanie programu Project](https://support.microsoft.com/office/7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=Alchemy_ClientDIA).
 
 Utwórz konta użytkownika i dodaj swoją domenę. Upewnij się, że użytkownik ma [przypisaną licencję](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 

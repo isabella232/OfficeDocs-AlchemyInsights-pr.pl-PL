@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898254"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330070"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Rozwiązywanie typowych problemów z programem Microsoft Defender dla Office 365
 
@@ -25,7 +25,7 @@ Oto kilka rozwiązań typowych problemów z programem Microsoft Defender dla Off
 
 - **Opóźnienie wiadomości:**
 
-  Opóźnienia w dostarczaniu wiadomości e-mail mogą być spowodowane Sejf załączników wiadomości. Aby uzyskać więcej informacji, [zobacz Sejf ustawienia zasad Załączniki.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
+  Opóźnienia w dostarczaniu poczty e-mail mogą być spowodowane przez Sejf załączników skanowanych wiadomości. Aby uzyskać więcej informacji, [zobacz Sejf ustawienia zasad Załączniki.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
 
 - **Zgłaszanie wyników fałszywie dodatnich lub ujemnych:**
 
@@ -33,11 +33,11 @@ Oto kilka rozwiązań typowych problemów z programem Microsoft Defender dla Off
 
 - **Włączanie Sejf linku:**
 
-  1. W portalu Microsoft 365 Defender przejdź do sekcji Zasady & e-mail & Zasady zagrożeń Sejf <https://security.microsoft.com/>  \>  \>  \> **linki** **do** zasad.
+  1. W portalu Microsoft 365 Defender pod adresem przejdź do sekcji Zasady & e-mail & zasady zagrożeń <https://security.microsoft.com/>  \> **Sejf** \>  \> **linki** **w sekcji** Zasady.
 
-     Aby przejść bezpośrednio do **strony Sejf,** <https://security.microsoft.com/safelinksv2> użyj .
+     Aby przejść bezpośrednio do **strony Sejf linków,** <https://security.microsoft.com/safelinksv2> użyj .
 
-  2. Na **stronie Sejf** wybierz zasady, klikając nazwę zasad.
+  2. Na **Sejf Wybierz** zasady, klikając nazwę zasad.
   3. W wyświetlonym wysuwanych szczegółach wykonaj jedną z następujących czynności:
      - Aby dodać nowe zasady, wybierz pozycję **+ Utwórz.** Zostanie uruchomienie kreatora, który pomoże Ci zdefiniować ustawienia zasad.
      - Aby edytować istniejące zasady, wybierz je, klikając nazwę zasad. W wyświetlonym wysuwu szczegółów wybierz pozycję **Edytuj** w sekcji **Ustawienia** ochrony.

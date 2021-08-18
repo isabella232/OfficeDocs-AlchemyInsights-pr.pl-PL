@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: eb62dfce9f9507dd8806d91343cd39fe76e65594473683c1393d524f6c2d8a27
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a057aaa2ddf8885b96c0fe0d5fa87d3a1b191af9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893921"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327856"
 ---
 # <a name="unable-to-activate-office"></a>Nie można aktywować pakietu Office
 
-**Uwaga:** Jeśli korzystasz ze starszej wersji programu Windows (na przykład Windows 7), upewnij się, że domyślną obsługą jest TLS 1.2. Aby uzyskać więcej informacji, zobacz Aktualizowanie w celu włączenia [protokołów TLS 1.1 i TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)jako domyślnych protokołów bezpiecznego w winieHTTP w Windows.
+**Uwaga:** Jeśli korzystasz ze starszej wersji programu Windows (na przykład Windows 7), upewnij się, że domyślną obsługą jest TLS 1.2. Aby uzyskać więcej informacji, zobacz Aktualizowanie w celu włączenia [protokołów TLS 1.1 i TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)jako domyślnych protokołów bezpiecznego w winieHTTP w programie Windows.
 
 - Sprawdź, czy stan Twojej subskrypcji wskazuje, że upłynęła jej ważność.
 - Upewnij się, że masz subskrypcję zezwalającą na licencje klienta, np. Office 365 Business lub Business Premium, oraz [upewnij się, że użytkownik ma przypisaną licencję](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).

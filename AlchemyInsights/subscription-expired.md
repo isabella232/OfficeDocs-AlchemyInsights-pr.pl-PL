@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b6232cfed6a26609dc7cec4cb020ed46f087410e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891909"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328346"
 ---
 # <a name="subscription-expired"></a>Subskrypcja wygasła
 
@@ -29,9 +29,8 @@ Jeśli Twoja subskrypcja wygasła lub została wyłączona przez firmę Microsof
 **Ponowne aktywowanie subskrypcji**
 
 1. W centrum administracyjnym przejdź do strony **Rozliczenia**  >  [z produktami.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Na **karcie Produkty** znajdź subskrypcję, którą chcesz aktywować ponownie, wybierz trzy kropki (więcej akcji), a następnie wybierz pozycję **Aktywuj ponownie tę subskrypcję.**
-    > [!NOTE]
-    > Jeśli nie widzisz tematu **Aktywuj ponownie tę subskrypcję,** skontaktuj się z pomocą techniczną.
+2. Na **karcie Produkty** znajdź subskrypcję, którą chcesz aktywować ponownie, wybierz trzy kropki (więcej akcji), a następnie wybierz pozycję Aktywuj **ponownie tę subskrypcję**.\
+    **Uwaga:** Jeśli nie widzisz tematu **Aktywuj ponownie tę** subskrypcję, skontaktuj się z pomocą techniczną.
 3. W **okienku Aktywuj ponownie tę** subskrypcję wybierz z listy rozwijanej metodę płatności lub wybierz **pozycję Dodaj metodę płatności**.
 4. Wybierz **Zapisz**.
 
