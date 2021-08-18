@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 0ac5cbebaa350a004e5e85de928d2eb23bcd3086ba304c3c3afdfa9c13e42188
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5736bace6ef36dd5d0ac4f5ad874a9546b23b6e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051604"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320607"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Udostępnianie plików w OneDrive osobom spoza organizacji
 
@@ -31,8 +31,7 @@ ms.locfileid: "54051604"
     
   - **Określone osoby** mają dostęp tylko określonym przez Ciebie osobom, chociaż inne osoby mogą już mieć do nich dostęp. Jeśli zaproszenie do udostępniania zostanie przekazane dalej, będą mogły skorzystać z niego tylko te osoby, które już mają dostęp do tego elementu. 
     
-    > [!NOTE]
-    > Jeśli jedna z tych opcji nie jest dostępna lub chcesz, aby domyślnie był wyświetlany inny typ linku, możesz zmienić ustawienia  dla całej organizacji, przechodząc do centrum administracyjnego programu OneDrive i klikając pozycję Udostępnianie w okienku po lewej stronie. [Dowiedz się więcej](https://go.microsoft.com/fwlink/?linkid=871961)
+    **Uwaga:** Jeśli jedna z tych opcji nie jest dostępna lub chcesz, aby domyślnie był wyświetlany inny typ linku, możesz zmienić ustawienia  dla całej organizacji, przechodząc do centrum administracyjnego programu OneDrive i klikając pozycję Udostępnianie w okienku po lewej stronie. [Dowiedz się więcej](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. Domyślnie opcja **Zezwalaj na edytowanie** jest włączona. Jeśli chcesz, aby pliki można było tylko wyświetlać, wyczyść to pole wyboru. 
     

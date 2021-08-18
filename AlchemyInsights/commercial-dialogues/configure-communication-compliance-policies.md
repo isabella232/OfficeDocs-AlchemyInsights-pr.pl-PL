@@ -12,22 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 931e32353641e7d03a6f077206ac65a4c4c75b52a423b53817aa67db863bb20c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 59747b9bc2fb7b8f573a2757ad0acf791a485dd1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53968135"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321249"
 ---
 # <a name="configure-communication-compliance-policies"></a>Konfigurowanie zasad zgodności komunikacji
 
-W związku z wydaniem w lutym 2020 r. zasad zgodności komunikacji w Microsoft 365 zgodności, nadzór w Office 365 został wycofany. Zasady nadzorne nie będą już dostępne do tworzenia, a zasady zostaną ostatecznie usunięte po dłuższym okresie dostępu tylko do odczytu.
+W związku z wydaniem w lutym 2020 r. zgodności komunikacyjnej w Microsoft 365 zgodności, nadzór w Office 365 jest wy wycofany. Zasady nadzorne nie będą już dostępne do tworzenia, a zasady zostaną ostatecznie usunięte po dłuższym okresie dostępu tylko do odczytu.
 
-> [!IMPORTANT]
-> Jeśli korzystasz z nadzorów, miej na uwagę, że:
->
-> 1. Począwszy od 15 czerwca 2020 r., dzierżawcy nie będą mieć możliwości tworzenia nowych zasad pod nadzorem.
-> 2. Od 31 sierpnia 2020 r. istniejące zasady przestają przechwytywać nowe wiadomości.
-> 3. Począwszy od 26 października 2020 r., istniejące zasady zostaną usunięte.
+**Ważne:** Jeśli korzystasz z nadzorów, miej na uwagę, że:
 
-Aktywnie zachęcamy klientów, którzy obecnie eksplorują lub korzystają z nadzorów w p programie Office 365, do korzystania z nowego rozwiązania do zapewnienia zgodności komunikacyjnej w programie [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2128593) w celu przestrzegania kontroli komunikacji lub wymogów prawnych za pomocą znacznie bogatszego zestawu funkcji inteligentnych.
+- Począwszy od 15 czerwca 2020 r., dzierżawcy nie będą mieć możliwości tworzenia nowych zasad pod nadzorem.
+- Od 31 sierpnia 2020 r. istniejące zasady przestają przechwytywać nowe wiadomości.
+- Począwszy od 26 października 2020 r., istniejące zasady zostaną usunięte.
+
+Aktywnie zachęcamy klientów, którzy obecnie eksplorują lub korzystają z nadzorcy w Office 365, do korzystania z nowego rozwiązania do zachowania zgodności z przepisami komunikacji w programie [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2128593) w celu przestrzegania kontroli komunikacji lub wymogów prawnych z znacznie bardziej rozbudowaym zestawem funkcji inteligentnych.

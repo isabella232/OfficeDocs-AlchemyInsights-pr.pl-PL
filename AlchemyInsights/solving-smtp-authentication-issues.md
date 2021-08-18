@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: d16389ca577970deaf743255f75dc86134e79dcab2fff8c33987532fc7ee1105
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 14f1454ad687b4d76cf419583b442685fa19b5a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890444"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321763"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>Włączanie uwierzytelniania SMTP i rozwiązywania problemów
 
@@ -26,14 +26,14 @@ Jeśli chcesz włączyć uwierzytelnianie SMTP dla skrzynki pocztowej lub jest w
 1. Wyłącz domyślne [ustawienia zabezpieczeń platformy Azure,](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) przełączanie opcji Włącz **domyślne ustawienia zabezpieczeń** na **Nie.**
 
     a. Zaloguj się do portalu Azure jako administrator zabezpieczeń, administrator dostępu warunkowego lub administrator globalny.<BR/>
-    b. Przejdź do Azure Active Directory > **Właściwości.**<BR/>
+    b. Przejdź do Azure Active Directory > **właściwości.**<BR/>
     c. Wybierz **pozycję Zarządzaj ustawieniami domyślnymi zabezpieczeń.**<BR/>
     d. Ustaw **wartość Włącz domyślne ustawienia zabezpieczeń** na **Nie**.<BR/>
     e. Wybierz **Zapisz**.
 
 2. [Włącz przesyłanie smtp klienta](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) dla licencjonowanej skrzynki pocztowej.
 
-    a. W centrum administracyjne platformy Microsoft 365 przejdź do **strony Aktywni użytkownicy** i wybierz użytkownika.<BR/>
+    a. Z centrum administracyjne platformy Microsoft 365 przejdź do strony **Aktywni użytkownicy** i wybierz użytkownika.<BR/>
     b. Przejdź do karty Poczta, a następnie w obszarze **Aplikacje poczty e-mail** wybierz **pozycję Zarządzaj aplikacjami poczty e-mail**.<BR/>
     d. Upewnij **się, że jest zaznaczona** opcja Uwierzytelniony SMTP (włączona).<BR/>
     e. Wybierz **pozycję Zapisz zmiany.**<BR/>
