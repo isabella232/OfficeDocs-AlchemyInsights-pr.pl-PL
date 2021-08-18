@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922253"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331051"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Usuwanie danych i czyszczenie urządzeń w usłudze Intune
 
@@ -32,8 +32,7 @@ Zdalne akcje Wycofywanie urządzenia i Czyszczenie urządzenia mogą być używa
 4. Wybierz pozycję **Tak**, aby potwierdzić. Do czasu ukończenia czyszczenia status akcji urządzenia wyświetla się jako *Wycofywanie w toku*.
     Po zakończeniu akcji nie zobaczysz urządzenia przenośnego na liście urządzenia zarządzanego. 
 
-> [!NOTE]
-> Dane firmowe nie mogą zostać usunięte z urządzeń POŁĄCZONYCH z Microsoft Azure AD. 
+**Uwaga:** Danych firmowych nie można usunąć z urządzeń PRZYŁĄCZNYCH DO USŁUGI Azure AD. 
 
 Aby uzyskać szczegółowe informacje na temat skutków akcji wycofywania i czyszczenia, w tym to, co zostało zachowane, a co usunięte, zobacz następującą dokumentację:
 

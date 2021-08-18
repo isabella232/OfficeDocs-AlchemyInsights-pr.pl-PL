@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963797"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339042"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Jak dodawać administratorów i zarządzać nimi — zalecane czynności
 
@@ -43,7 +43,7 @@ Administrator usługi lub administrator współzawłasny mogą samodzielnie wyko
 
 1. Zaloguj się do [portalu Azure Portal](https://ms.portal.azure.com/#home) jako administrator usługi.
 2. Otwórz [subskrypcje](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) i wybierz subskrypcję. (Współ adminstratorów można przypisywać tylko w zakresie subskrypcji).
-3. Przejdź do pozycji Administratorzy wersji klasycznej programu **Access (IAM),** aby otworzyć okienko Dodaj współ administratora (jeśli opcja Dodaj  >    >    >   współtworz  administratora jest wyłączona, oznacza to, że nie masz uprawnień).
+3. Przejdź do pozycji Administratorzy wersji klasycznej programu **Access (IAM),** aby otworzyć okienko Dodaj współ administratora (jeśli opcja Dodaj  >    >    >   współtworz administratora  jest wyłączona, oznacza to, że nie masz uprawnień).
 4. Wybierz użytkownika, którego chcesz dodać, a następnie kliknij pozycję **Dodaj**.
 
 **Dowiedz się więcej:**
@@ -58,7 +58,7 @@ Administrator usługi lub administrator współzawłasny mogą samodzielnie wyko
 Możesz dodawać nowych użytkowników lub usuwać istniejących użytkowników z organizacji usługi Azure Active Directory (Azure AD):
 
 1. Aby dodać nowego użytkownika, zaloguj się w portalu [Azure Portal](https://ms.portal.azure.com/#home) jako administrator użytkownika w organizacji.
-2. Wybierz **Azure Active Directory** wybierz pozycję **Użytkownicy,** a następnie kliknij **pozycję Nowy użytkownik**.
+2. Wybierz **Azure Active Directory**, wybierz pozycję **Użytkownicy,** a następnie kliknij pozycję **Nowy użytkownik**.
 3. Na **stronie Użytkownik** wypełnij wymagane informacje. Kliknij **przycisk Utwórz**. Użytkownik zostanie utworzony i dodany do Twojej dzierżawy usługi Azure AD.
 
 **Dowiedz się więcej:**
@@ -75,7 +75,7 @@ Możesz dodawać nowych użytkowników lub usuwać istniejących użytkowników 
 - [Samouczek: udzielanie dostępu użytkownikowi za pomocą RBAC i Portalu Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Rozwiązywanie problemów z RBAC na platformie Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Organizowanie zasobów za pomocą grup zarządzania azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Jak poprosić o kopię faktury za usługę Azure pocztą e-mail](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Jak poprosić o kopię faktury za usługę Azure za pośrednictwem poczty e-mail](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Jak dodać, zaktualizować lub usunąć kartę kredytową lub debetową z platformy Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Zarządzaj subskrypcją (aktywuj ponownie/anuluj/przełącz)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

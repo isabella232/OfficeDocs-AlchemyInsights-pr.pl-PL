@@ -16,24 +16,24 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: c145a5366ef173dbf82521e91d5cf032a26e2e7fa09d8e0061ec03887a2a3124
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 398f4409429f33c0e1a9e7481766d014db0f092c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897426"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332491"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Zmienianie adresu rozliczeniowego lub powiadomień rozliczeniowych e-mail
 
 **Zmienianie adresu Bill-To adresowego**
 
-1. W centrum administracyjnym przejdź do strony Rozliczenia **> [metody](https://go.microsoft.com/fwlink/p/?linkid=2018806)** płatności.
+1. W centrum administracyjnym przejdź do strony Rozliczenia **> [metodach](https://go.microsoft.com/fwlink/p/?linkid=2018806)** płatności.
 
 2. Wybierz kartę kredytową lub konto bankowe, które chcesz zmienić.
 
 3. Na stronie **Szczegóły metody płatności** kliknij pozycję **Edytuj**.
 
-4. Zaktualizuj adres rozliczeniowy, a następnie kliknij **pozycję Zapisz > Gotowe**.
+4. Zaktualizuj swój adres rozliczeniowy, a następnie kliknij **pozycję Zapisz > Gotowe**.
 
 **Zmienianie alternatywnego adresu e-mail, na który są wysyłane powiadomienia o rozliczeniach** 
 

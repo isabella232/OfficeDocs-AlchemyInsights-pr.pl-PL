@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088874"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333169"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Wprowadzenie do wydarzeń na żywo w aplikacji Teams
 
@@ -25,9 +25,11 @@ Wydarzenia na żywo w aplikacji Microsoft Teams to rozszerzenie spotkań w aplik
 
 Aby utworzyć wydarzenie na żywo, potrzebne są następujące elementy:
 
-- Najpierw upewnij się, że Teams wydarzenia na żywo są dostępne w [Twoim kraju i regionie](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); Wydarzenia na żywo nie są jeszcze obsługiwane w niektórych krajach.  Jeśli przypisano licencje i ustawiono zasady, ale nadal nie możesz utworzyć wydarzenia na żywo usługi Teams, prawdopodobnie mieszkasz w kraju lub regionie, w którym wydarzenia na żywo nie są jeszcze dostępne.
+- Najpierw upewnij się, że Teams wydarzenia na żywo są [dostępne w Twoim kraju i regionie](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); Wydarzenia na żywo nie są jeszcze obsługiwane w niektórych krajach.  Jeśli przypisano licencje i ustawiono zasady, ale nadal nie możesz utworzyć wydarzenia na żywo programu Teams, prawdopodobnie mieszkasz w kraju lub regionie, w którym wydarzenia na żywo nie są jeszcze dostępne.
 
-- Licencja usługi [Office 365 Enterprise E1, E3 lub E5 bądź Office 365 A3 lub A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Uwaga**: ze względu na obserwowany w ostatnim czasie wzrost użycia usługi Teams pełne skonfigurowanie użytkownika po przypisaniu mu licencji usługi Teams może potrwać około 24 godzin. Do tego czasu użytkownik może nie mieć dostępu do niektórych funkcji aplikacji Teams, takich jak połączenia i konferencje głosowe, i nie będzie można przypisać mu zasad usługi Teams.
+- Licencja usługi [Office 365 Enterprise E1, E3 lub E5 bądź Office 365 A3 lub A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
+
+    **Uwaga**: ze względu na obserwowany w ostatnim czasie wzrost użycia usługi Teams pełne skonfigurowanie użytkownika po przypisaniu mu licencji usługi Teams może potrwać około 24 godzin. Do tego czasu użytkownik może nie mieć dostępu do niektórych funkcji aplikacji Teams, takich jak połączenia i konferencje głosowe, i nie będzie można przypisać mu zasad usługi Teams.
 
 - Uprawnienie do [tworzenia wydarzeń na żywo w centrum administracyjnym usługi Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 
