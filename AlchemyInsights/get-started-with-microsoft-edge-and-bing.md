@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8227"
-ms.openlocfilehash: 9130a20f36ae7631f6f72b55cdc5b341aaf51225
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 5c885492bc48017846195e13ee0b3626f5fbf1faa6602580b487141a6d21df9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036048"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116414"
 ---
 # <a name="get-started-with-microsoft-edge--bing"></a>Wprowadzenie do programu Microsoft Edge + Bing
 
-Do rozpoczęcia pracy z programem Microsoft Edge + Bing nie jest potrzebna dodatkowa konfiguracja. Aby znaleźć informacje związane z pracą, po prostu wprowadź zapytanie na pasku adresu przeglądarki Microsoft Edge.
+Do rozpoczęcia pracy z programem Microsoft Edge + Bing nie jest potrzebna dodatkowa Bing. Aby znaleźć informacje związane z pracą, wystarczy wprowadzić zapytanie na pasku adresu Microsoft Edge.
 
-Aby dowiedzieć się więcej, [zobacz Więcej informacji za pomocą programu Microsoft Edge + Bing.](https://go.microsoft.com/fwlink/?linkid=2152963)
+Aby dowiedzieć się więcej, [zobacz Więcej Microsoft Edge + Bing.](https://go.microsoft.com/fwlink/?linkid=2152963)

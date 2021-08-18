@@ -1,5 +1,5 @@
 ---
-title: Aktualizowanie adresu faktur i faktur skojarzonych z twoją instrukcjami mca — zalecane czynności
+title: Aktualizowanie adresu sprzedanych produktów i rozliczenia skojarzonego z Twoim kontom MCA — zalecane czynności
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001518"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320040"
 ---
-# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Aktualizowanie adresu faktur i faktur skojarzonych z twoją instrukcjami mca — zalecane czynności
+# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Aktualizowanie adresu sprzedanych produktów i rozliczenia skojarzonego z Twoim kontom MCA — zalecane czynności
 
 Adres nabywcy i fakturę można zaktualizować w umowie klienta firmy Microsoft (MCA). 
 
-> [!NOTE]
-> Tylko administrator użytkownika może wprowadzać zmiany w Azure Active Directory informacji o profilu użytkownika. Jeśli nie masz przypisanej roli administratora użytkownika, skontaktuj się z administratorem użytkownika. Aby uzyskać więcej informacji na temat zmieniania profilu użytkownika, zobacz Dodawanie lub aktualizowanie informacji o profilu użytkownika przy użyciu [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+**Uwaga:** Tylko administrator użytkownika może wprowadzać zmiany w Azure Active Directory informacji o profilu użytkownika. Jeśli nie masz przypisanej roli administratora użytkownika, skontaktuj się z administratorem użytkownika. Aby uzyskać więcej informacji na temat zmieniania profilu użytkownika, zobacz Dodawanie lub aktualizowanie informacji o profilu użytkownika przy użyciu [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
 **Adres sprzedany —** adres sprzedawany to adres i informacje kontaktowe organizacji lub osoby odpowiedzialnej za konto rozliczeniowe. Jest on wyświetlany na wszystkich fakturach wygenerowanych dla konta rozliczeniowego.
 
@@ -33,7 +32,7 @@ Adres nabywcy i fakturę można zaktualizować w umowie klienta firmy Microsoft 
 
 **Aby zaktualizować adres sprzedawanego konta rozliczeniowego MCA:**
 
-1. Zaloguj się do portalu Azure przy użyciu adresu e-mail, który ma rolę właściciela lub współautora na koncie rozliczeniowym dla usługi MCA.
+1. Zaloguj się do portalu Azure przy użyciu adresu e-mail, który ma rolę właściciela lub współautora na koncie rozliczeniowym dla konta MCA.
 1. Wyszukaj temat **Rozliczenia zarządzania kosztami.**  +  
 1. Kliknij **pozycję Properties** Update  >  **sold-to**.
 1. Wprowadź nowy adres i kliknij przycisk **Zapisz**.

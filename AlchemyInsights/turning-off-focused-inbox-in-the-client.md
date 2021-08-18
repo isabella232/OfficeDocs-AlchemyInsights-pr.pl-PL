@@ -1,5 +1,5 @@
 ---
-title: 911 wyłączanie priorytetowej skrzynki odbiorczej na kliencie
+title: 911 Wyłączanie focused skrzynki odbiorczej w kliencie
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "911"
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 7d9d065c3b95f5fe75eca5df844fbe7a9f3e6de9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df283ec7aab493dcca684426606b54fdb08a2fa94d2e17845cefc028ed4407c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795218"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092492"
 ---
-# <a name="turn-off-focused-inbox-in-email-clients"></a>Wyłączanie priorytetowej skrzynki odbiorczej w klientach poczty e-mail
+# <a name="turn-off-focused-inbox-in-email-clients"></a>Wyłączanie focused skrzynki odbiorczej w klientach poczty e-mail
 
-Aby wyłączyć priorytetową skrzynkę odbiorczą w programie Outlook 2016, Outlook w sieci Web, Outlook.com/Hotmail.com, Outlook 2016 dla komputerów Mac lub poczta dla systemu Windows 10, zobacz Wyłączanie [priorytetowej skrzynki odbiorczej](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).
+Aby wyłączyć focused skrzynki odbiorczej w Outlook 2016, Outlook w sieci Web, Outlook.com/Hotmail.com, Outlook 2016 dla komputerów Mac lub Poczta dla systemu Windows 10, zobacz Wyłączanie focused [skrzynki odbiorczej.](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx)
 
-Aby wyłączyć priorytetową skrzynkę odbiorczą dla wszystkich użytkowników w organizacji, zobacz [Konfigurowanie priorytetowej skrzynki odbiorczej dla wszystkich osób w organizacji](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox).
+Aby wyłączyć focused skrzynkę odbiorczą dla wszystkich osób w organizacji, zobacz Konfigurowanie focused [skrzynki odbiorczej dla wszystkich osób w organizacji.](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox)

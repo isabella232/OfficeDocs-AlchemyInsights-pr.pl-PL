@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 0459341dc4727655af37acd9ab6fcb927243f959bf7e9cb69787e3813658342d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 39b1a6cfccf85ee03a804045b043e25dbdb2d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087218"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319902"
 ---
 # <a name="your-payment-was-declined"></a>Twoja płatność została odrzucona
 
@@ -35,8 +35,7 @@ Firma Microsoft wielokrotnie spróbuje obciążyć Twoją kartę w ciągu 3–4 
 
 4. Aby użyć istniejącej metody płatności, wybierz ją z listy rozwijanej, a następnie wybierz pozycję **Zastąp**.
 
-    > [!NOTE]
-    > Jeśli masz subskrypcje skojarzone z profilem rozliczeń, możesz płacić za nie tylko za pomocą karty kredytowej lub debetowej. Jeśli masz konta bankowe wymienione na stronie **Metody płatności**, nie są one dostępne do wybrania z listy rozwijanej.
+    **Uwaga:** Jeśli masz subskrypcje skojarzone z profilem rozliczeniowym, do płacenia za nie możesz użyć tylko karty kredytowej lub debetowej. Jeśli masz konta bankowe wymienione na stronie **Metody płatności**, nie są one dostępne do wybrania z listy rozwijanej.
 
 5. Aby dodać nową metodę płatności, wybierz pozycję **Dodaj metodę płatności**.
 
