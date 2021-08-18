@@ -1,5 +1,5 @@
 ---
-title: 761 nawiązywanie połączenia z programem Exchange Online PowerShell po włączeniu uwierzytelniania MFA
+title: 761 Łączenie się z programem Exchange Online PowerShell po włączeniu uwierzytelniania wieloskładnikowego
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 5622b6faef8f1fb5d39d884410feda5af07ff466
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d60e36e779327f18de760bfd487f9056034cdf016b4282180648906277f6d2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748110"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090278"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Nawiązywanie połączenia z programem Exchange Online PowerShell po włączeniu uwierzytelniania MFA
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Połączenie do Exchange Online PowerShell, gdy jest włączone uwierzytelniania MFA
 
-Jeśli na koncie jest włączone uwierzytelnianie wieloskładnikowe (MFA), musisz wykonać te instrukcje, aby połączyć się z programem Exchange Online PowerShell: [Użyj programu Exchange Online PowerShell z nowoczesnem uwierzytelnianiem przy użyciu modułu v2](https://aka.ms/exops-docs). Wyszukaj na tej stronie instrukcje uwierzytelniania MFA/wieloskładnikowe.
+Jeśli dla Twojego konta włączono uwierzytelnianie wieloskładnikowe, musisz wykonać poniższe instrukcje, aby nawiązać połączenie z programem Exchange Online PowerShell: Używanie programu Exchange Online PowerShell z nowoczesnym uwierzytelnianiem przy użyciu modułu [V2.](https://aka.ms/exops-docs) Na tej stronie wyszukaj instrukcje uwierzytelniania WIELOSKŁADNIKOWEGO/uwierzytelniania wieloskładnikowego.

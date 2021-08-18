@@ -11,17 +11,16 @@ ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms-custom:
 - "1846"
 - "9000253"
-ms.openlocfilehash: 2ce3d5467d8582aa3a3216b0efbc73ead5570248c4da57e175e0d4decc326f1c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 341a77e9a6738cd96a8b4587e52e633be0176010
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051100"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318098"
 ---
 # <a name="sharepoint-publishing-infrastructure"></a>SharePoint Infrastruktura publikowania
 
-> [!IMPORTANT]
-> Nowoczesne witryny komunikacji nie obsługują klasycznych funkcji publikowania, takich jak infrastruktura publikowania SharePoint server. Podczas próby aktywowania funkcji dla nowoczesnej witryny do komunikacji jest wyświetlany komunikat o błędzie. Nowoczesne witryny do komunikacji domyślnie zapewniają nowszą alternatywę.
+**Ważne:** Nowoczesne witryny komunikacyjne nie obsługują klasycznych funkcji publikowania, takich jak infrastruktura publikowania SharePoint server. Podczas próby aktywowania funkcji dla nowoczesnej witryny do komunikacji jest wyświetlany komunikat o błędzie. Nowoczesne witryny do komunikacji domyślnie zapewniają nowszą alternatywę.
 
 W przypadku witryn SharePoint zawiera klasyczny zestaw funkcji umożliwiających tworzenie i publikowanie rozbudowanych stron sieci Web w intranecie. Aktywuj SharePoint publikowania na poziomie zbioru witryn, aby je włączyć.
 

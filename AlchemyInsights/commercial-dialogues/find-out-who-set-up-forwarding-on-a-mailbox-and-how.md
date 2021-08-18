@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 7746e44a0ee5a4442051900985aab339b09652f08e412b02a02429c93cc7c107
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d6be4331967ed9ae362f5da85856b03cfa40b319
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895189"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317818"
 ---
 # <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Dowiedz się, kto s skonfigurować przesyłanie dalej w skrzynce pocztowej i jak to zrobić
 
@@ -26,10 +26,9 @@ Jeśli dla skrzynki pocztowej ustawiono przesyłanie dalej zewnętrzne, działan
 
 1. Wykonaj jedną z następujących czynności:
    - Na stronie Centrum zgodności platformy Microsoft 365 <https://compliance.microsoft.com> przejdź do **tematu Inspekcja** \> **rozwiązań.** Aby przejść bezpośrednio do strony **Inspekcja,** użyj <https://compliance.microsoft.com/auditlogsearch> .
-   - W portalu Microsoft 365 Defender w <https://security.microsoft.com> witrynie przejdź do tematu **Inspekcja**. Aby przejść bezpośrednio do strony **Inspekcja,** użyj <https://security.microsoft.com/auditlogsearch> .
+   - W portalu Microsoft 365 Defender w <https://security.microsoft.com> witrynie przejdź do tematu **Inspekcja.** Aby przejść bezpośrednio do strony **Inspekcja,** użyj <https://security.microsoft.com/auditlogsearch> .
 
-   > [!NOTE]
-   > Jeśli zobaczysz powiadomienie, że musisz włączyć inspekcję, możesz włączyć ją teraz. Jeśli ta funkcja nie jest włączona, wyniki wyszukiwania nie będą mogły ściągać danych z poprzednich dat.
+   **Uwaga:** Jeśli zobaczysz powiadomienie, że musisz włączyć inspekcję, przejdź dalej i włącz ją teraz. Jeśli ta funkcja nie jest włączona, wyniki wyszukiwania nie będą mogły ściągać danych z poprzednich dat.
 
 2. Na stronie **Inspekcja** sprawdź, czy jest **zaznaczona** karta Wyszukiwanie, a następnie skonfiguruj następujące ustawienia:
    - Zaznacz zakres dat i godzin w **polach Rozpoczęcie** **i** Koniec.

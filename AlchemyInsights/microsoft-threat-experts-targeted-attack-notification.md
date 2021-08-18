@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 3e3ce845bdae94c5d0fb54d34448bfc91a7540dcd33f9820c030406f19108f97
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: afc210b65353d2487884070aadb3455a3b510fa7f2ef2800bef31cb77a5f1751
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012138"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901478"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft Threat Experts — powiadomienie o atakach kierowanej
 
-Powiadomienie o ataki kierowanej jest jedną z dwóch możliwości Microsoft Threat Experts ataku. Jest to usługa proaktywnego chowania przed zagrożeniami, która zapewnia specjalne informacje i analizy, które pomagają zapewnić szybkie i precyzyjne identyfikowanie najważniejszych zagrożeń oraz reagowanie na nie.
+Powiadomienie o atakach kierowanej jest jednym z dwóch Microsoft Threat Experts ataku. Jest to usługa proaktywnego chowania przed zagrożeniami, która zapewnia specjalne informacje i analizy, które pomagają zapewnić szybkie i precyzyjne identyfikowanie najważniejszych zagrożeń oraz reagowanie na nie.
 
-Jeśli jesteś klientem programu Microsoft Defender dla punktu końcowego, musisz złożyć wniosek o Microsoft Threat Experts — powiadomienia o atakach ukierunkowanych, aby uzyskać specjalne szczegółowe informacje i analizy pomocne w zidentyfikowaniu najważniejszych zagrożeń, dzięki czemu możesz szybko na nie odpowiedzieć.
+Jeśli jesteś klientem programu Microsoft Defender dla punktu końcowego, musisz zastosować dla usługi Microsoft Threat Experts — powiadomienia o atakach kierowanego, aby uzyskać specjalne szczegółowe informacje i analizy, które ułatwiają identyfikowanie najważniejszych zagrożeń w celu szybkiego reagowania na nie.
 
-Aby zarejestrować się do Microsoft Threat Experts — korzyści z powiadomień ukierunkowanych ataków, przejdź do Ustawienia Ogólne funkcje zaawansowane Microsoft Threat Experts — powiadomienia o atakach  >    >    >   kierowanego, które mają zastosowanie. Gdy zostaną zaakceptowane, otrzymasz zalety powiadomień o atakach ukierunkowanych.
+Aby zarejestrować się do Microsoft Threat Experts — korzyści z powiadomień dotyczących ukierunkowanych ataków, przejdź do Ustawienia Zaawansowane funkcje ogólne Microsoft Threat Experts — powiadomienia o atakach  >    >    >   kierowanego, które mają zastosowanie. Po zaakceptowaniu otrzymasz zalety powiadomień o atakach ukierunkowanych.
 
 Możesz otrzymywać powiadomienia o atakach ukierunkowanych od Microsoft Threat Experts za pośrednictwem następujących średnich:
 
@@ -38,4 +38,4 @@ Możesz otrzymywać powiadomienia o atakach ukierunkowanych od Microsoft Threat 
 
 Aby otrzymywać powiadomienia o atakach ukierunkowanych za pośrednictwem poczty e-mail, utwórz regułę powiadomień e-mail. 
 
-Aby [uzyskać szczegółowe informacje, zobacz Konfigurowanie Microsoft Threat Experts zarządzanie możliwościami](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) sieci.
+Zobacz [Konfigurowanie i zarządzanie Microsoft Threat Experts, aby uzyskać](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) szczegółowe informacje.

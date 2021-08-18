@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 336e1906526c07d8db51f61a867fef9ff87c871c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967163"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317752"
 ---
-# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Rozwiązywanie problemu z wyświetlaniem wiadomości chronionych w programie Outlook
+# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Rozwiązywanie problemu z wyświetlaniem chronionej wiadomości w programie Outlook
 
 Jeśli adresat ma problemy z otwarciem zaszyfrowanej wiadomości, upewnij się, że adresat klika link w wiadomości, aby poprosić o kod dostępu w postaci kodu dostępu.
 
@@ -28,8 +28,7 @@ Aby otwierać zaszyfrowane wiadomości, użytkownicy muszą wykonać następują
 
 1. W zależności od używanego klienta poczty e-mail kliknij pozycję **Przeczytaj wiadomość** lub podobny monit. Użytkownicy są przekierowywani do strony, na której mogą się zalogować i otrzymać kod jednorazowy.
 
-> [!NOTE]
-> Użytkownicy usługi Gmail będą proszeni o zalogowanie się przy użyciu usługi Gmail. Wiadomość zostanie otwarta na nowej karcie po kliknięciu przycisku **Zezwalaj.**
+    **Uwaga:** Użytkownicy usługi Gmail będą proszeni o zalogowanie się w usłudze Gmail. Wiadomość zostanie otwarta w nowej karcie po kliknięciu przycisku **Zezwalaj**.
 
 2. Sprawdź, czy w wiadomości e-mail nie ma kodu jednorazowego, a następnie wprowadź ten kod w oknie przeglądarki.
 

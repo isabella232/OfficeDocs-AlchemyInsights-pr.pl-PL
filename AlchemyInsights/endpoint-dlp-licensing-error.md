@@ -1,5 +1,5 @@
 ---
-title: Błąd licencjonowania DLP punktu końcowego
+title: Błąd licencjonowania usługi DLP punktu końcowego
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: d17c51177898d62c7c477460c8c26b4753bae65f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564864"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090160"
 ---
-# <a name="endpoint-dlp-licensing-error"></a>Błąd licencjonowania DLP punktu końcowego
+# <a name="endpoint-dlp-licensing-error"></a>Błąd licencjonowania usługi DLP punktu końcowego
 
-Jeśli podczas próby skonfigurowania funkcji DLP punktu końcowego zostanie wyświetlony następujący komunikat o błędzie:
+Jeśli podczas próby skonfigurowania ochrony przed wartością DLP punktu końcowego występuje następujący błąd:
 
 `Your organization is missing the licenses required to manage these devices`.
 
-Upewnij się, że masz jednej z następujących subskrypcji lub dodatków:
+Upewnij się, że masz jedną z następujących subskrypcji lub dodatków:
 
 - Microsoft 365 E5
 - Microsoft 365 A5 (EDU)
-- Zgodność z programem Microsoft 365 E5
-- Zgodność z programem Microsoft 365 A5
-- Microsoft 365 E5 Information Protection i zarządzanie
-- Microsoft 365 A5 Information Protection and ładu
+- Microsoft 365 E5 zgodności
+- Microsoft 365 A5 zgodności
+- Microsoft 365 E5 i zarządzanie informacjami
+- Microsoft 365 A5 i zarządzanie informacjami
 
 > [!NOTE]
-> Nie będzie to działać w przypadku kombinacji licencji, takich jak: win E5 + O365 E5 + EMS E5. Aby skonfigurować tę funkcję, musisz mieć czystą M365 E5.
+> Nie będzie to działać w przypadku kombinacji licencji, takiej jak: Win E5 + O365 E5 + EMS E5. Aby skonfigurować tę funkcję, musisz mieć licencję wyłącznie M365 E5.
 
-Aby uzyskać więcej informacji dotyczących licencjonowania DLP punktu końcowego, zobacz [Licencjonowanie DLP punktu końcowego.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
+Aby uzyskać więcej informacji na temat licencjonowania ochrony przed dlp punktami końcowymi, zobacz [Licencjonowanie ochrony przed dlp punktami końcowymi.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
