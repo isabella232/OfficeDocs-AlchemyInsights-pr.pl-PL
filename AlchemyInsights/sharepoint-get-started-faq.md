@@ -1,5 +1,5 @@
 ---
-title: Typowe problemy i rozwiązania dotyczące usługi SharePoint Online
+title: SharePoint Typowe problemy i rozwiązania w trybie online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 15237313dd8a14f7b4f6b16a8e55cc82b44de2a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0e43dc115578746c91faf66423b2145b3dbb093ee9d6148a3fe28cc42f2d396
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720323"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085814"
 ---
-# <a name="sharepoint-online-common-issues-and-resolutions"></a>Typowe problemy i rozwiązania dotyczące usługi SharePoint Online
+# <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Typowe problemy i rozwiązania w trybie online
 
-Poniżej przedstawiono kilka często zaproszonych tematów dotyczących problemów z usługą SharePoint Online:
+Oto niektóre często zadawane tematy dotyczące problemów z SharePoint online:
 
-- **Wprowadzenie**: Skorzystaj z [książki wyszukiwania programu SharePoint](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) , aby utworzyć atrakcyjną, wydajną sieć intranet, która łączy obszar roboczy. Zobacz [przykłady](https://lookbook.microsoft.com/) i uzyskaj [wskazówki dotyczące projektowania](https://spdesign.azurewebsites.net/). Zobacz [wprowadzenie do usługi SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) , aby uzyskać ogólne wprowadzenie do usługi SharePoint Online.
+- **Wprowadzenie:** korzystaj z [SharePoint Look Book,](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) aby utworzyć piękne i zaawansowane intranety łączące się z miejscem pracy. Zobacz [przykłady](https://lookbook.microsoft.com/) i uzyskaj [wskazówki dotyczące projektowania.](https://spdesign.azurewebsites.net/) Zobacz [Wprowadzenie do usługi SharePoint Online,](https://docs.microsoft.com/sharepoint/introduction) aby uzyskać ogólne wprowadzenie do aplikacji SharePoint Online.
 
-- **Uprawnienia**: [Tworzenie strategii](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) dotyczącej uprawnień i [Opis poziomów uprawnień](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+- **Uprawnienia:** [tworzenie strategii dotyczącej uprawnień i](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) opis poziomów [uprawnień.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
 
-- **Udostępnianie**: [udostępnianie innym osobom](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) w organizacji lub [innym osobom spoza organizacji](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+- **Udostępnianie:** [Udostępnianie innym osobom](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) w organizacji lub osobom [spoza organizacji.](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- **Praca z plikami dokumentów**: Dowiedz się więcej na temat [przekazywania](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)plików, [pobierania](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)plików, [edytowania](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)plików i bieżących [ograniczeń dotyczących plików](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- **Praca z plikami dokumentów:** Dowiedz się więcej o [przekazywaniu](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb) [plików,](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)pobieraniu plików, [edycjach plików](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)i bieżących [ograniczeniach plików](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- **Miejsce do magazynowania**: Dowiedz się, jak zarządzać użytkownikami miejsca do magazynowania w usłudze OneDrive, na przykład </a> [zarządzać miejscem do magazynowania witryn](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) w ramach subskrypcji i jak [zrozumieć wszystkie limity](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
+- **Storage:** Dowiedz się, jak zarządzać przestrzenią dyskową OneDrive użytkowników, na przykład zarządzać magazynem witryny dla subskrypcji </a> i zrozumieć wszystkie [limity.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) [](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)
 
-- **Zmiana nazwy dzierżawy**: zobacz [Zmienianie nazwy domeny programu SharePoint](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) , aby uzyskać więcej informacji.
+- **Zmiana nazwy dzierżawy:** zobacz [Zmienianie SharePoint domeny,](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) aby uzyskać więcej informacji.
 
-- **Unowocześnienie programu SharePoint**: Zapoznaj [się z przewodnikiem dotyczącym nowoczesnego środowiska programu SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) i [unowocześnienie klasycznych witryn programu SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) , aby rozpocząć przenoszenie.
+- **Unowocześnij SharePoint:** Zapoznaj się z przewodnikiem po nowoczesnym trybie obsługi w programie [SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) i Unowocześnij swoje klasyczne witryny [SharePoint,](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) aby rozpocząć przenoszenie.
 
-**Uwaga:** Aby uzyskać dokładniejszą odpowiedź na temat problemu z programem SharePoint, należy krótko sformułować pytanie i uwzględnić wszystkie wyświetlane przez Ciebie błędy lub funkcje, których używasz.
+**Uwaga:** Aby uzyskać bardziej konkretną odpowiedź na SharePoint problem, skup się na krótko na pytaniu i uwzględnij wszystkie widzisz błędy lub funkcje, których używasz.

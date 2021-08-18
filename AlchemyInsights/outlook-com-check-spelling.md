@@ -1,5 +1,5 @@
 ---
-title: Sprawdzanie pisowni w Outlook.com
+title: Sprawdzanie pisowni w oknie Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,13 +14,13 @@ ms.custom:
 - "213"
 - "8000007"
 ms.assetid: 7f2a5cfc-c555-4325-927e-7f3c7c884200
-ms.openlocfilehash: 375e6836a6d13fd0489babba1778020dcdfc66e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2296ed37442e9c438dd5fcaad3d0aeccf2a56333c6576e20f97889be0478858
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752729"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112166"
 ---
 # <a name="use-your-browser-to-check-spelling"></a>Sprawdzanie pisowni za pomocą przeglądarki
 
-Chociaż Outlook.com nie ma funkcji sprawdzania pisowni, wiele przeglądarek sieci Web automatycznie sprawdza pisownię, w tym przeglądarkę Microsoft Edge, Internet Explorer 10 i nowsze wersje oraz bieżące wersje przeglądarki Firefox, Chrome i Safari. Sprawdź opcje przeglądarki internetowej, aby dowiedzieć się więcej o sprawdzaniu pisowni.
+Mimo że witryna Outlook.com nie ma funkcji sprawdzania pisowni, wiele przeglądarek internetowych automatycznie sprawdza pisownię, w tym Microsoft Edge, Internet Explorer 10 i nowsze oraz bieżące wersje przeglądarek Firefox, Chrome i Safari. Zapoznaj się z opcjami przeglądarki internetowej, aby dowiedzieć się więcej na temat sprawdzania pisowni.

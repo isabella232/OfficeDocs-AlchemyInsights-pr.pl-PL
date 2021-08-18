@@ -1,5 +1,5 @@
 ---
-title: Zmienianie hasła w programie Outlook.com
+title: Zmienianie hasła w jęz. Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "201"
 - "8000002"
 ms.assetid: 4dfaeb2a-2cef-444d-9415-c68a50df1a49
-ms.openlocfilehash: f69fcd8330bbb86cbda67156e69abb6450ea160d
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 909d97011d581641589cbc8245aeb9afa462734d53e208dda84657cd306d6fb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452310"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112202"
 ---
 # <a name="change-your-password"></a>Zmienianie hasła
 
 Hasło Outlook.com jest takie samo jak hasło do konta Microsoft.
   
-Aby zmienić hasło, przejdź do obszaru [zabezpieczenia konta Microsoft](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) i wybierz pozycję **zabezpieczenia hasłem**.
+Aby zmienić hasło, przejdź do opcji [Zabezpieczenia konta Microsoft i](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) wybierz pozycję Zabezpieczenia **hasła.**
   
-Jeśli nie pamiętasz swojego hasła, przejdź do strony [odzyskiwania konta](https://go.microsoft.com/fwlink/p/?linkid=841909) .
+Jeśli nie pamiętasz hasła, przejdź do strony [Odzyskaj konto.](https://go.microsoft.com/fwlink/p/?linkid=841909)
   
-Aby dowiedzieć się więcej, zobacz [Zmienianie hasła w Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy).
+Aby dowiedzieć się więcej, zobacz Zmienianie hasła w [adresie Outlook.com.](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy)
