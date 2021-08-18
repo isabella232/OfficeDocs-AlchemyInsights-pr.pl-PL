@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge — Konfigurowanie ustawień prywatności
+title: Microsoft Edge ustawień prywatności
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "6892"
-ms.openlocfilehash: dcd1d91dcde1f585caf0e1e3af30946513a0f26c
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: 24721325aefd4a8c0dbeb7864ce6da637c4df932694d4b6fff80cab5bb5b4319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678855"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114182"
 ---
-# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge — Konfigurowanie ustawień prywatności
+# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge ustawień prywatności
 
-Domyślnie, jeśli program Microsoft Edge jest wdrożony na platformach innych niż Windows, dane diagnostyczne i informacje o witrynie nie są wysyłane do firmy Microsoft. Jeśli jednak program Microsoft Edge jest wdrożony w systemie Windows 10, dane diagnostyczne i informacje o witrynie są wysyłane zgodnie z [ustawieniami danych diagnostycznych użytkowników systemu Windows](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization).
+Domyślnie, jeśli Microsoft Edge na platformach Windows, dane diagnostyczne i informacje o witrynie nie są wysyłane do firmy Microsoft. Jednak jeśli Microsoft Edge na urządzeniach Windows 10, dane diagnostyczne i informacje o witrynie są wysyłane zgodnie z ustawieniami usługi Windows [danych diagnostycznych.](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)
 
-Aby skonfigurować sposób, w jaki program Microsoft Edge obsługuje zbieranie danych dla organizacji, użyj następujących zasad grupy:
-- [MetricsReportingEnabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): Ta zasada umożliwia raportowanie danych dotyczących użycia i niezwiązanych z awariami.
-- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): Ta zasada wysyła informacje o witrynie, które są używane do ulepszania usług firmy Microsoft.
+Aby skonfigurować sposób Microsoft Edge zbierania danych w organizacji, należy użyć następujących zasad grupy:
+- [MetricsReportingEnabled:](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled)Te zasady umożliwiają raportowanie użycia i danych związanych z awariami.
+- [SendSiteInfoToImproveServices:](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices)Te zasady wysyłają informacje o witrynie używane do ulepszania usługi firmy Microsoft.
 
-Aby dowiedzieć się więcej, zobacz [Konfigurowanie ustawień zasad](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings).
+Aby dowiedzieć się więcej, zobacz [Konfigurowanie ustawień zasad.](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings)

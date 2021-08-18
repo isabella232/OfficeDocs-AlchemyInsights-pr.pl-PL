@@ -1,5 +1,5 @@
 ---
-title: 123 uzyskiwanie błędu wyłączania konta w programie OWA?
+title: 123 Pojawia się komunikat o błędzie wyłączenia konta w aplikacji OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,13 +14,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 4e2f7a0d370c32dc6e38d65e04d54d473ba4db20
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73879d883bd942d1b4bd59bf4ebf290d358349fbeb026b3234934319014d21af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706569"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089342"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Czy w aplikacji Outlook w sieci Web Wystąpił błąd dotyczący konta wyłączonego?
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Jest wyświetlany komunikat o błędzie wyłączenia konta w programie Outlook w sieci Web?
 
-Jeśli podczas **Your account has been disabled** `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` próby otwarcia aplikacji Outlook w sieci Web (dawniej nazywanej aplikacją Outlook Web App) jest wyświetlany błąd, Twoje konto zostało wyłączone, administrator organizacji mógł wyłączyć dostęp do aplikacji Outlook w sieci Web. Administrator może rozwiązać ten problem, wykonując czynności opisane w temacie [Włączanie lub wyłączanie aplikacji Outlook Web App w celu obsługi skrzynki pocztowej](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
+Jeśli zostanie wyświetlany  komunikat o błędzie Podczas próby otwarcia aplikacji Outlook w sieci Web (dawniej Outlook Web App) Twoje konto zostało wyłączone, twój administrator organizacji mógł wyłączyć Ci dostęp do `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` Outlook w sieci Web. Administrator może naprawić ten błąd, korzystając z procedury opisanej w temacie Włączanie lub wyłączanie Outlook Web App [pocztowej.](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx)

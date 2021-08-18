@@ -1,5 +1,5 @@
 ---
-title: Wdrażanie usługi Microsoft Defender dla punktu końcowego
+title: Wdrażanie programu Microsoft Defender dla punktu końcowego
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004195"
 - "7377"
-ms.openlocfilehash: 2501046d49d8b290668bef8ea04881e8379b43ee
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+ms.openlocfilehash: f1de44682dbdc4bdfc799e0a3ac618e4c5b76bf0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679842"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317568"
 ---
-# <a name="deploy-microsoft-defender-for-endpoint"></a>Wdrażanie usługi Microsoft Defender dla punktu końcowego
+# <a name="deploy-microsoft-defender-for-endpoint"></a>Wdrażanie programu Microsoft Defender dla punktu końcowego
 
-[Pakiet Microsoft Defender dla punktów końcowych](https://go.microsoft.com/fwlink/?linkid=2146241) zawiera instrukcje, które ułatwią użytkownikowi sieci firmowej zapobieganie, wykrywanie, badanie i reagowanie na zagrożenia zaawansowane. Dokonaj świadomej oceny usterki organizacji i zdecyduj, które pakiety wdrażania i metody konfiguracji są optymalne.
+Doradca [programu Microsoft Defender for Endpoint](https://go.microsoft.com/fwlink/?linkid=2146241) udostępnia instrukcje, które pomogą Twojej sieci przedsiębiorstwa zapobiegać zaawansowanym zagrożeniam, wykrywać i badać je oraz odpowiadać na nie. Dokonaj przeszłej oceny luki w zabezpieczeniach Twojej organizacji i zdecyduj, która metoda wdrażania i pakiet wdrożeniowy są najlepsze.
 
-> [!NOTE]
-> Dla usługi Defender for Endpoint wymagana jest licencja zbiorcza firmy Microsoft.
+**Uwaga:** Program Defender dla punktu końcowego wymaga licencji licencjonowania volume firmy Microsoft.

@@ -1,5 +1,5 @@
 ---
-title: 127 podczas uzyskiwania dostępu do poczty e-mail Wystąpił błąd TenantAccessBlockedException?
+title: 127 Podczas uzyskiwania dostępu do poczty e-mail jest wyświetlany błąd TenantAccessBlockedException?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706641"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089450"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Podczas uzyskiwania dostępu do poczty e-mail Wystąpił błąd TenantAccessBlockedException?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Podczas uzyskiwania dostępu do poczty e-mail jest wyświetlany błąd TenantAccessBlockedException?
 
-Istnieje kilka różnych powodów, dla których może zostać wyświetlony ten błąd. Przykład:
+Istnieje kilka różnych przyczyn wystąpienia tego błędu. Przykład:
 
-- Sprawdź, czy Twój abonament jest prawidłowy na stronie **rozliczenia** \> **[produktów](https://portal.office.com/adminportal/home#/subscriptions)** w centrum administracyjnym usługi Microsoft 365.
+- Sprawdź, czy Twoja subskrypcja jest prawidłowa na **stronie** \> **[Rozliczenia Twoje produkty](https://portal.office.com/adminportal/home#/subscriptions)** w centrum administracyjne platformy Microsoft 365.
 
-- W centrum administracyjnym usługi Microsoft 365 Sprawdź, czy masz zaległe powiadomienia na stronie **rozliczenia** \> **[rachunków & płatności](https://portal.office.com/adminportal/home#/billoverview)** .
+- Sprawdź, czy na stronie  Rozliczenia i & na stronie rozliczenia \> **[](https://portal.office.com/adminportal/home#/billoverview)** w centrum administracyjne platformy Microsoft 365.
 
-- Jeśli rozliczenia i subskrypcje Twojego konta zostały ostatnio zaktualizowane, może upłynąć trochę czasu na propagowanie zmian. Spróbuj ponownie za kilka minut, a jeśli problem będzie nadal występował, skontaktuj się z nami.
+- Jeśli niedawno zaktualizowano rozliczenia i subskrypcje Dla Twojego konta, może mi trochę potrwać, aby zmiany zostały rozpropagować. Spróbuj ponownie za kilka minut, a jeśli problem będzie nadal występował, skontaktuj się z nami.

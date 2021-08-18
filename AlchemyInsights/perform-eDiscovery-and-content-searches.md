@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 678f61d88879e5ecf7ccb23414d79cba66dc3c218ab0caed3d2957d863e0596b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54086822"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317486"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Jak przeprowadzać wyszukiwania zawartości i wyszukiwania zbierania elektronicznych materiałów dowodowych
 
@@ -31,13 +31,12 @@ ms.locfileid: "54086822"
 4. Wprowadź wymagane warunki wyszukiwania, w tym słowa kluczowe i lokalizacje zawartości.
 5. Wybierz **pozycję & uruchom,** aby nazwać wyszukiwanie, rozpocznij je, a następnie wyświetl podgląd wyników.
 
-> [!NOTE]
-> W **Microsoft 365 rozwiązania centrum** zgodności rozwiń pozycję zbierania elektronicznych materiałów dowodowych i wybierz odpowiednie narzędzie  >  zbierania elektronicznych materiałów dowodowych. 
+**Uwaga:** w **Microsoft 365 rozwiązania Centrum** zgodności rozwiń pozycję zbierania elektronicznych materiałów dowodowych i wybierz odpowiednie narzędzie  >  zbierania elektronicznych materiałów dowodowych. 
 
-Aby uzyskać szczegółowe instrukcje dotyczące przeszukiwania zawartości, eksportowania wyników i [](/microsoft-365/compliance/content-search) tworzenia spraw zbierania elektronicznych materiałów dowodowych w celu przechowywania danych, zobacz Sprawy przeszukiwania zawartości i [zbierania elektronicznych materiałów dowodowych.](/microsoft-365/compliance/ediscovery-cases)
+Aby uzyskać szczegółowe instrukcje dotyczące przeszukiwania zawartości, eksportowania wyników i [](https://docs.microsoft.com/microsoft-365/compliance/content-search) tworzenia spraw zbierania elektronicznych materiałów dowodowych w celu przechowywania danych, zobacz Sprawy przeszukiwania zawartości i [zbierania elektronicznych materiałów dowodowych.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
 **Więcej informacji:**
 
-- Aby uzyskać więcej informacji na temat narzędzi zbierania elektronicznych materiałów dowodowych w programie Microsoft 365, zobacz [Zbierania elektronicznych materiałów dowodowych.](/microsoft-365/compliance/ediscovery)
-- Dowiedz się więcej o uprawnieniach, wymaganiach i limitach wymaganych do wyszukiwania zbierania elektronicznych materiałów dowodowych z poziomu uprawnień wymaganych do przeszukiwania zbierania elektronicznych materiałów dowodowych [oraz](/microsoft-365/compliance/assign-ediscovery-permissions) wymagań [i limitów.](/microsoft-365/compliance/limits-for-content-search)
-- Jeśli chcesz rozwiązać problemy zbierania [](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) elektronicznych materiałów dowodowych, zobacz Rozwiązywanie typowych problemów i badanie częściowo zindeksowanych [elementów.](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)
+- Aby uzyskać więcej informacji na temat narzędzi zbierania elektronicznych materiałów dowodowych w programie Microsoft 365, zobacz [Zbierania elektronicznych materiałów dowodowych.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
+- Dowiedz się więcej o uprawnieniach, wymaganiach i limitach wymaganych do wyszukiwania zbierania elektronicznych materiałów dowodowych z poziomu uprawnień wymaganych do przeszukiwania zbierania elektronicznych materiałów dowodowych [oraz](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) wymagań [i limitów.](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)
+- Jeśli chcesz rozwiązać problemy zbierania [](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) elektronicznych materiałów dowodowych, zobacz Rozwiązywanie typowych problemów i badanie częściowo zindeksowanych [elementów.](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)

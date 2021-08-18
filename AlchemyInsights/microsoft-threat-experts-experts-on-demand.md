@@ -1,5 +1,5 @@
 ---
-title: Eksperci ds. zagrożeń firmy Microsoft — eksperci na żądanie
+title: Microsoft Threat Experts — Eksperci na żądanie
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8321"
-ms.openlocfilehash: 583b1099ad4ea07f780a3b122f381dd0ac2e864d
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 63ba0615d118d2ac32ffe5acc289838ef9dfb62d3576c5cfecf361e182060acd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50841787"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113930"
 ---
-# <a name="microsoft-threat-experts---experts-on-demand"></a>Eksperci ds. zagrożeń firmy Microsoft — eksperci na żądanie
+# <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoft Threat Experts — Eksperci na żądanie
 
-Eksperci na żądanie to druga funkcja ekspertów ds. zagrożeń firmy Microsoft. W tym miejscu możesz skontaktować się z nami w razie konieczności konsultowania się w sprawie odpowiednich kwestii dotyczących wykrywania i adwerserów.
+Eksperci na żądanie to druga funkcja Microsoft Threat Experts funkcji. W tym miejscu możesz skontaktować się z nami w razie konieczności konsultowania się w sprawie odpowiednich kwestii dotyczących wykrywania i adwerserów.
 
 Jeśli jesteś już klientem usługi Defender for Endpoint, możesz skontaktować się z przedstawicielem firmy Microsoft w celu zasubskrybowania usługi Microsoft Threat Experts — Experts on Demand.
 
@@ -32,4 +32,4 @@ Opcja **Skonsultuj** się z ekspertem ds. zagrożeń jest dostępna w następuj�
 - Menu akcji strony Alerty
 - Menu Akcje strony pliku
 
-Aby uzyskać więcej informacji, zobacz Konfigurowanie funkcji ekspertów do spraw zagrożeń [firmy Microsoft i zarządzanie nimi.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)
+Aby uzyskać więcej informacji, zobacz [Konfigurowanie funkcji Microsoft Threat Experts zarządzanie nimi.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)
