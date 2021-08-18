@@ -14,16 +14,16 @@ ms.assetid: ''
 ms.custom:
 - "9007094"
 - "12473"
-ms.openlocfilehash: f9ceffa17f23b964d55ac19113c029a512aacd86c9f61ea7abd8db1a7c81381f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 45cc48056975c21ef54df7404bd8bbf6b5ff465e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896381"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326021"
 ---
 # <a name="sharepoint-global-navigation"></a>SharePoint nawigacji globalnej
 
-Nawigację globalną można włączać i dostosowywać na SharePoint aplikacji. Dostosuj logo, tytuł i źródło nawigacji globalnej w zależności od potrzeb użytkowników i organizacji. Jeśli wyłączysz nawigację globalną, ikona strony głównej będzie wiązać się z SharePoint startowej.
+Nawigację globalną można włączać i dostosowywać na SharePoint aplikacji. Dostosuj logo, tytuł i źródło nawigacji globalnej w zależności od potrzeb użytkowników i organizacji. Jeśli wyłączysz nawigację globalną, ikona główna będzie wiązać się z SharePoint startowej.
 
 - [Wprowadzenie do dostosowywania karty nawigacji globalnej](https://docs.microsoft.com/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#get-started-customizing-the-global-navigation-tab)
 - [Określanie globalnego źródła nawigacji](https://docs.microsoft.com/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#determine-the-global-navigation-source-depending-on-your-home-sites-configuration)

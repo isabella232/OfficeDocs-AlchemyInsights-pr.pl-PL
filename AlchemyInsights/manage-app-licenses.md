@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "1500008"
 - "2443"
-ms.openlocfilehash: ac05aa634f3c96cd90c657254c16503805ab21c8bac0e97b94d2e3021a4a62c4
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7695d0f4bbea4f81146135b800fd2525decb625f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501970"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326189"
 ---
 # <a name="manage-app-licenses"></a>Zarządzanie licencjami aplikacji
 
@@ -38,4 +38,4 @@ ms.locfileid: "54501970"
 
 1. Przejdź na stronę  >  **[Rozliczenia Twoje](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkty.
 2. Na karcie **Produkty** w sekcji **Aplikacje** znajdź i wybierz aplikację, którą chcesz zarządzać.
-3. W **Ustawienia & akcji wybierz** link Zarządzaj w portalu **wydawcy**.
+3. W **Ustawienia & akcji programu** Publisher wybierz link Zarządzaj w portalu **wydawcy**.

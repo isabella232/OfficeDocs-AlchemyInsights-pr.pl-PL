@@ -16,23 +16,22 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 9fc510bd8ab65e4e8670f16b530751bd35254da4d8c7c0feab3cfbf1d0e24303
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7b3f7dfaf9afffb689a3676910e1160276939397
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500998"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327261"
 ---
 # <a name="trying-to-find-a-trial"></a>Próbujesz znaleźć wersję próbną?
 
-Jeśli chcesz wypróbować nową usługę, listę subskrypcji dostępnych w wersji próbnej możesz znaleźć w centrum administracyjne platformy Microsoft 365.
+Jeśli chcesz wypróbować nową usługę, możesz znaleźć listę subskrypcji dostępnych w wersji próbnej w centrum administracyjne platformy Microsoft 365.
   
 1. W centrum administracyjnym przejdź do **strony** \> [Zakup usług rozliczeniowych.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
 2. Wybierz subskrypcję, która spełnia Twoje potrzeby, a następnie wybierz pozycję  **Uzyskaj bezpłatną wersję próbną**.
 
-    > [!NOTE]
-    > Nie wszystkie subskrypcje są dostępne w wersji próbnej. Jeśli nie widzisz przycisku Uzyskaj bezpłatną wersję próbną, gdy najedzesz kursorem myszy na subskrypcję, oznacza to, że wersja próbna nie jest dostępna. 
+    **Uwaga:** Nie wszystkie subskrypcje są dostępne w wersji próbnej. Jeśli nie widzisz przycisku Uzyskaj bezpłatną wersję próbną, gdy najedzesz kursorem myszy na subskrypcję, oznacza to, że wersja próbna nie jest dostępna. 
   
 3. Może pojawić się monit o wprowadzenie karty kredytowej lub innej metody płatności w celu zapewnienia dodatkowej weryfikacji ze względów bezpieczeństwa. Za tę bezpłatną wersję próbną nie zostanie naliczona opłata. Twoje informacje o płatności zostaną przez nas podane, ale nie zostaną one przez nas wykorzystać do żadnego zakupu bez Twojej zgody.
 

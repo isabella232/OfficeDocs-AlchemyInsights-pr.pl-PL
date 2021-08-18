@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 5dddd01139d40f4ce97e0e8a18c1a98ac9dbd8aefd01ca7f27c9b30eb532701a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: edc41ecc9db1b3d163d1b44a669dd72fcdfef3ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090963"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326735"
 ---
 # <a name="turn-off-or-delete-alert-policies"></a>Wyłączanie lub usuwanie zasad alertów
 
 Poniżej opisano, jak to zrobić:
 
-1. Przejdź do centrum [Office 365 zabezpieczeń & zgodności.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Wybierz pozycję  >  [Alerty Zasady alertów.](https://go.microsoft.com/fwlink/?linkid=2103208)
-1. Jeśli są to zasady niestandardowe, wybierz je z listy, a następnie wybierz pozycję **Usuń zasady**. Możesz włączyć, wyłączyć lub usunąć wiele zasad niestandardowych jednocześnie, wybierając więcej niż jedną z listy.
+1. Wykonaj jedną z następujących czynności:
+   - Na stronie Centrum zgodności platformy Microsoft 365 przejdź do artykułu <https://compliance.microsoft.com> Zasady  \> **Alerty w** **sekcji Alert.** Aby przejść bezpośrednio do strony zasad **alertu,** <https://compliance.microsoft.com/alertpolicies> użyj .
+   - W portalu Microsoft 365 Defender przejdź do <https://security.microsoft.com> **tematu Zasady i & Zasady** \> **alertów.** Aby przejść bezpośrednio do strony zasad **alertu,** <https://security.microsoft.com/alertpolicies> użyj .
+2. Jeśli są to zasady niestandardowe, wybierz je z listy, a następnie wybierz pozycję **Usuń zasady**. Możesz włączyć, wyłączyć lub usunąć wiele zasad niestandardowych jednocześnie, wybierając więcej niż jedną z listy.
 
-> [!NOTE]
-> Jeśli są to zasady systemowe, nie możesz ich usunąć, ale możesz je włączyć lub wyłączyć, a następnie utworzyć nowe zasady dopasowane do Twoich potrzeb.
+**Uwaga:** Jeśli są to zasady systemowe, nie możesz ich usunąć, ale możesz je włączyć lub wyłączyć, a następnie utworzyć nowe zasady dopasowane do Twoich potrzeb.

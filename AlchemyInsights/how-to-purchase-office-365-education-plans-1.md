@@ -1,5 +1,5 @@
 ---
-title: Jak kupić Office 365 Education planów
+title: Jak kupić plany Office 365 Education-
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -16,14 +16,14 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: 62ab2fc121658b106eee4807edae6f291269cab3e4c844565acc3dbce949b3c0
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 450734781a0db054082535aff9b6af8417aeb24b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499918"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326307"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Jak kupić Office 365 Education planów
+# <a name="how-to-purchase-office-365-education-plans"></a>Jak kupić plany Office 365 Education-
 
 Po przejrzeniu Twojego zgłoszenia ustaliliśmy, że ta organizacja nie może zostać zakwalifikowana do instytucji akademickiej uprawnionej do korzystania z produktów firmy Microsoft. Twoje bieżące oferty dla instytucji akademickich w wersji próbnej wygasną na końcu okresu próbnego.
   

@@ -1,5 +1,5 @@
 ---
-title: Teams Outlook dodatku (Udostępnij w programie Teams, Spotkaj się z, Teams spotkanie, Dołącz Teams spotkania)
+title: Teams Outlook dodatek (Udostępnij w programie Teams, Spotkaj się z, Teams spotkania, Dołącz Teams spotkania)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,22 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 5af0a042e1ffb686899c9e777fc7ff2a14ad7ecfb8f0d42f529a7ddc449978e6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1216eb60a4a2f0d4d8f67c8284f15539e3ab3ca5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901226"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325909"
 ---
-# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook dodatku (Udostępnij Teams, Spotkaj się teraz, Teams spotkania, Dołącz Teams spotkania)
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook dodatek (Udostępnij w programie Teams , Spotkaj się teraz, Nowy Teams spotkania, Dołącz Teams spotkania)
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Aby rozwiązać problem z Teams Outlook dodatku
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Aby rozwiązać problem z brakującym Teams Outlook dodatku
 
-1. Uruchom narzędzie diagnostyczne "Brakuje dodatku zespołu w Outlook", co pozwala sprawdzić, czy użytkownik ma prawidłowe zasady, aby włączyć Teams Outlook dodatku. Aby uzyskać dostęp do tej diagnostyki, wpisz **Diag: Teams** brak dodatku w Outlook polu wyszukiwania.
+1. Uruchom narzędzie diagnostyczne "Brakuje dodatku zespołu w Outlook", co pozwala sprawdzić, czy użytkownik ma prawidłowe zasady, aby włączyć Teams Outlook dodatku. Aby uzyskać dostęp do tej diagnostyki, wpisz **Diag: Teams brak** dodatku w Outlook polu wyszukiwania.
 
-1. Jeśli diagnostyka usługi nie wskazuje żadnych problemów, diagnozowanie i rozwiązywanie problemów klienta na odpowiednich komputerach użytkowników przez pobranie i uruchomienie scenariusza dodatku [Microsoft Asystent odzyskiwania i pomocy technicznej](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook.**
+1. Jeśli diagnostyka usługi nie wskazuje żadnych problemów, diagnozuj i poprawiaj wszelkie problemy klienta na tych komputerach użytkowników, pobierając i uruchamiając scenariusz dodatku [Microsoft Asystent odzyskiwania i pomocy technicznej](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook.**
 
-Aby ręcznie rozwiązać problem z brakującym Teams Outlook, przejrzyj listę potencjalnych czynników, które mogą powodować Teams że dodatek nie jest wyświetlany na liście. Aby uzyskać więcej informacji, Teams dodatku Spotkania [w programie Outlook, Windows nie jest pokazywany.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
+Aby ręcznie rozwiązać problem z brakującym Teams Outlook, przejrzyj listę potencjalnych czynników, które mogą spowodować, że Teams nie będzie widoczny na liście. Aby uzyskać więcej informacji, [zobacz Teams Spotkania w programie Outlook, Windows nie jest pokazywany.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
 
 ## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Aby rozwiązać problemy z Teams spotkania w imieniu innej osoby (pełnomocnik)
 
