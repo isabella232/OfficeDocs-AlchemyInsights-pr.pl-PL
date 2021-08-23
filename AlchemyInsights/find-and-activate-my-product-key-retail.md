@@ -3,8 +3,7 @@ title: Detaliczna karta pre-paid
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
-ms.reviewer: commerce_purchase
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,18 +14,18 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: f9c84853d30ca327cd12f06d2b802286b7ce1beb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 56bd131a3bbbd42bd6cd4ccf53f18d63ea2408b2
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58320999"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451932"
 ---
 # <a name="retail-prepaid-card"></a>Detaliczna karta pre-paid
 
 Jeśli zakupiono Microsoft 365 Business Standard w sklepie detalicznym, należy wykonać poniższe czynności, aby przedłużyć datę wygaśnięcia lub dodać licencję do istniejącej subskrypcji.
 
-**Uwaga:** Aby przedłużyć datę wygaśnięcia przy użyciu klucza produktu lub dodać licencję do istniejącej subskrypcji usługi Microsoft 365 Business Standard, potrzebny jest nowy i nieużywany klucz dla tej samej Microsoft 365 subskrypcji. Wprowadzenie oryginalnego Microsoft 365 produktu nie będzie działać, ponieważ nie można ponownie użyć wykorzystanego już klucza.
+**Uwaga:** Aby użyć klucza produktu do przedłużenia daty wygaśnięcia lub dodania licencji do istniejącej subskrypcji usługi Microsoft 365 Business Standard, potrzebny jest nowy i nieużywany klucz dla tej samej Microsoft 365 subskrypcji. Wprowadzenie oryginalnego Microsoft 365 produktu nie będzie działać, ponieważ nie można ponownie użyć wykorzystanego już klucza.
 
 1. W centrum administracyjnym przejdź do strony **Rozliczenia**  >  **[z produktami.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Znajdź subskrypcję, do której chcesz przedłużyć okres subskrypcji lub do której chcesz dodać licencję. Wybierz [datę zakończenia przedłużenia](https://go.microsoft.com/fwlink/p/?linkid=842054) lub dodaj więcej [licencji.](https://go.microsoft.com/fwlink/p/?linkid=842054)
