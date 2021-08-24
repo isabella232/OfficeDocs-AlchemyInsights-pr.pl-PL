@@ -1,6 +1,6 @@
 ---
-title: Etykiety usługi Azure Information Protection (AIP)
-ms.author: pebuam
+title: Etykiety Azure Information Protection (AIP)
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/19/2021
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "10974"
 - "9004597"
-ms.openlocfilehash: 2fb63d941935710ebc20f74bed70479c5627130e
-ms.sourcegitcommit: 1597d973e16aebda24421f18b911ea4c7197dfc3
-ms.translationtype: MT
+ms.openlocfilehash: 4b7f4c0fa86d78842edc757459ec008fca17daf7
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "52125240"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451752"
 ---
-# <a name="azure-information-protection-aip-labels"></a>Etykiety usługi Azure Information Protection (AIP)
+# <a name="azure-information-protection-aip-labels"></a>Etykiety Azure Information Protection (AIP)
 
-Zarządzanie etykietami usługi Azure Information Protection (AIP) w portalu Azure Portal i kliencie usługi AIP jest przestarzałe od 31 marca 2021 r. Aby uzyskać więcej informacji, zobacz Oznaczanie, klasyfikacja [i ochrona usługi Azure Information Protection (AIP).](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)
+Zarządzanie etykietami usługi Azure Information Protection (AIP) w portalu Azure Portal i kliencie usługi AIP jest uznane za przestarzałe od 31 marca 2021 r. Aby uzyskać więcej informacji, zobacz [Etykietowanie, klasyfikacja i ochrona usługi Azure Information Protection (AIP).](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)
 
-Do tworzenia etykiet i zarządzania nimi używaj funkcji ujednoliconego Microsoft 365 etykiet. 
+Do tworzenia etykiet i zarządzania nimi używaj funkcji ujednoliconego etykietowania Microsoft 365. 
 
 Aby uzyskać szczegółowe informacje, zobacz:
 
-[Zarządzanie etykietami wrażliwości w Office aplikacjach](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+[Zarządzanie etykietami poufności w aplikacjach Office](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 
-[Informacje o etykietach wrażliwości](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+[Dowiedz się więcej o etykietach poufności](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-Aby uzyskać listę znanych problemów dotyczących funkcji AIP, zobacz [Znane problemy — usługa Azure Information Protection.](https://docs.microsoft.com/azure/information-protection/known-issues)
+Aby uzyskać listę znanych problemów dotyczących funkcji AIP, zobacz [Znane problemy — Azure Information Protection.](https://docs.microsoft.com/azure/information-protection/known-issues)

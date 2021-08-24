@@ -1,26 +1,29 @@
 ---
 title: Nie można kupić oferty EDU
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/8/2020
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "5989"
 - "1500009"
-ms.openlocfilehash: e3a8db9273fb3146bd798c36c0fa7c0b1a6e7187
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
-ms.translationtype: MT
+ms.date: 07/8/2020
+ms.openlocfilehash: 7871da6a81d74ea9a7305d7e02bf1a655f60ce15
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088445"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451860"
 ---
 # <a name="unable-to-purchase-edu-offer"></a>Nie można kupić oferty EDU
 
-Aby ustalić, czy Twoja organizacja kwalifikuje się do uzyskania cen akademickich, musisz [zakończyć nasz proces weryfikacji i wejść do domeny.](https://portal.office.com/Adminportal/Home#/Domains/SOWizard) Usługi Office 365 A1 dla wykładowców i usługi Office 365 A1 dla studentów są dostępne do użycia podczas oczekiwania na sprawdzenie uprawnień do organizacji.
+Aby określić, czy Twoja organizacja kwalifikuje się do cen akademickich, musisz [ukończyć proces weryfikacji i wprowadzić swoją domenę.](https://admin.microsoft.com/Adminportal#/Domains/SOWizard) Usługa Office 365 A1 dla nauczycieli lub wykładowców i wersja próbna usługi Office 365 A1 dla uczniów lub studentów są dostępne do użycia podczas oczekiwania na zweryfikowanie uprawnień organizacji.
 
-Aby kupić usługę Microsoft 365 w celach komercyjnych, zobacz [dostępne oferty](https://go.microsoft.com/fwlink/p/?linkid=868433).
+Aby kupić komercyjną wersję usługi Office 365, zobacz [dostępne oferty](https://go.microsoft.com/fwlink/p/?linkid=868433).
