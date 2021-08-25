@@ -14,23 +14,19 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: aca0371dad9ba43fa21b0df8e50f1b8ee536528af90d6bda401995c6e5796be4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4938b889461f85ad32eae125151c2cc94879cd8b
+ms.sourcegitcommit: 02562a6796d58991c7238ec81053c23633b3f823
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54056500"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58522364"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Błąd nie można odnaleźć skrzynki pocztowej w Outlook w sieci Web?
 
-Jeśli korzystasz z programu Outlook w sieci Web i  nie można odnaleźć skrzynki pocztowej z powodu błędu, oznacza to, że konta użytego do nawiązania połączenia z programem Outlook w sieci Web nie ma licencji usługi Exchange Online, więc z kontem nie jest skojarzona żadna skrzynka pocztowa. Administrator może przypisać licencję do Twojego konta, korzystając z następujących kroków:
+Jeśli zostanie wyświetlany komunikat o błędzie aplikacji Outlook Web App (OWA): "Nie można odnaleźć skrzynki pocztowej *użytkownika.",* oznacza to, że zalogowany użytkownik nie ma licencji programu Exchange Onlince ani sp, żadne skrzynka pocztowa programu Exchange Online nie jest skojarzona z tym kontem użytkownika. 
 
-1. Otwórz [centrum administracyjne platformy Microsoft 365](https://portal.office.com/adminportal/home#/homepage) i przejdź **do** sekcji Aktywni użytkownicy w sekcji Użytkownicy, a następnie wybierz użytkownika, dla którym jest wyświetlany komunikat o błędzie. 
+Administrator organizacji może przypisać użytkownikowi licencję programu Exchange za pośrednictwem centrum administracyjne platformy Microsoft 365 następujących czynności:
 
-2. Na otwartej stronie użytkownika przejdź  do sekcji Licencje i  aplikacje, wybierz odpowiednią wartość Lokalizacja i przypisz licencję zawierającą usługę Exchange Online (rozwiń tę licencję, aby wyświetlić jej szczegóły). Po zakończeniu kliknij pozycję **Zapisz zmiany**.
-
-W niektórych przypadkach, jeśli licencja jest już przypisana do konta użytkownika, usunięcie i ponowne przypisanie licencji pomaga rozwiązać ten problem i uzyskać jego poprawnie aprowizowane w systemie: 
-
-- Sprawdź, czy Twoja subskrypcja usługi M365 Exchange Online (i inne, jeśli masz subskrypcje) jest aktualna i nie wygasła niedawno.
-
-Gdy już upewnisz się, że Twoja subskrypcja nie wygasła, a do konta użytkownika przypisano ważną licencję, może upłynąć do 24 godzin, aby uzyskać inicjowanie obsługi administracyjnej, dlatego może być konieczne zaczekanie na rozwiązanie problemu. Aby uzyskać więcej informacji, zobacz [Przypisywanie licencji i zarządzanie nimi.](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses)
+1. Przejdź do [opcji Aktywni](https://portal.office.com/adminportal/home#/users)użytkownicy , wybierz użytkownika, a następnie wybierz **pozycję Edytuj licencje na**  >  **produkty**. 
+1. Ustaw wymaganą lokalizację.
+1. Przypisywanie licencji, która ma Exchange Online usługi.
