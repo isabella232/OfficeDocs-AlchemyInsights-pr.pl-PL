@@ -3,7 +3,6 @@ title: Zarządzanie licencjami aplikacji
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "1500008"
 - "2443"
-ms.openlocfilehash: 7695d0f4bbea4f81146135b800fd2525decb625f
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/05/2021
+ms.openlocfilehash: 5a698efab669df54a81e618ffb782349d8f62fd3
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58326189"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836763"
 ---
 # <a name="manage-app-licenses"></a>Zarządzanie licencjami aplikacji
 
@@ -38,4 +38,4 @@ ms.locfileid: "58326189"
 
 1. Przejdź na stronę  >  **[Rozliczenia Twoje](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkty.
 2. Na karcie **Produkty** w sekcji **Aplikacje** znajdź i wybierz aplikację, którą chcesz zarządzać.
-3. W **Ustawienia & akcji programu** Publisher wybierz link Zarządzaj w portalu **wydawcy**.
+3. W **Ustawienia & akcji wybierz** link Zarządzaj w portalu **wydawcy**.

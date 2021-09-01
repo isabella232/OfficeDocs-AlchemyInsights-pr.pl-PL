@@ -3,7 +3,6 @@ title: Płatność — często zadawane pytania
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -14,19 +13,20 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/10/2021
+ms.openlocfilehash: d14fcc47898e068e505e30a18195ce812e0f3a3c
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895717"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841911"
 ---
 # <a name="payment-faq"></a>Płatność — często zadawane pytania
 
 Zarządzaj płatnościami w **centrum administracyjne platformy Microsoft 365**.
 
 - Przejdź do **karty Rozliczenia > [Produkty,](https://go.microsoft.com/fwlink/p/?linkid=842054)** aby przypisać lub zmienić metody płatności za subskrypcję.
-- Przejdź do **> [Formy płatności,](https://go.microsoft.com/fwlink/p/?linkid=2018806)** aby dodać, zaktualizować, zamienić lub usunąć metody płatności.
+- Przejdź do **> [Informacje o metodach płatności,](https://go.microsoft.com/fwlink/p/?linkid=2018806)** aby dodać, zaktualizować, zamienić lub usunąć metody płatności.
 
 - **Metody płatności** — jeśli płacisz za pomocą karty kredytowej lub konta bankowego, płatność skojarzona z subskrypcją jest naliczana w ciągu kilku dni po utworzeniu rachunku. Jeśli płatność się nie powiedzie, zaktualizuj metodę płatności. Aby uzyskać więcej informacji, zobacz [Zarządzanie formami płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 

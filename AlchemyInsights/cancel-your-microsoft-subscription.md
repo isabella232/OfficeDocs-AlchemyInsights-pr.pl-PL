@@ -14,16 +14,17 @@ ms.custom:
 - commerce_subscriptions
 - "9001727"
 - "3824"
-ms.openlocfilehash: 2d4e344d56dee84634f37624b5b3dfc1e8d5a098
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/05/2021
+ms.openlocfilehash: 2e750434055aac382cede286b1d610aab29582ff
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58331423"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836871"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Anulowanie subskrypcji firmy Microsoft
 
-Administratorzy mogą anulować subskrypcję dla swojej organizacji w centrum centrum administracyjne platformy Microsoft 365.
+Administratorzy mogą anulować subskrypcję dla swojej organizacji w centrum administracyjne platformy Microsoft 365.
 
 1. Przejdź na  stronę \> [Rozliczenia Twoje](https://go.microsoft.com/fwlink/p/?linkid=842054) produkty.
 2. Na **karcie Produkty** znajdź subskrypcję, którą chcesz anulować. Wybierz trzy kropki (więcej akcji), a następnie wybierz Anuluj **subskrypcję**.
