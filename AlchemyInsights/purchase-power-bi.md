@@ -3,7 +3,6 @@ title: Kup Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,19 +14,20 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: fc5e731ee05722c7cd707239af5ad4c07a6d85b9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 19603dfe2f8a141dd2aa0e7dffebfb4d5e3e4149
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58323648"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844936"
 ---
 # <a name="purchase-power-bi"></a>Kup Power BI
 
 Power BI można kupić w **centrum administracyjne platformy Microsoft 365.**
 
-1. Przejdź do strony **> [zakup usług.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
-2. Użyj pola Wyszukaj, aby wyszukać tekst "Power BI".
+1. Przejdź do strony **Rozliczenia > [zakup usług.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+2. Użyj pola Wyszukiwania, aby wyszukać tekst "Power BI".
 3. Wybierz plan Power BI, który chcesz kupić, wybierz pozycję **Szczegóły**, a następnie wybierz pozycję **Kup**.
 4. Wprowadź liczbę potrzebnych licencji i wybierz, czy chcesz płacić co miesiąc, czy za cały rok. Określ, czy chcesz automatycznie przypisywać licencje do każdego użytkownika, który obecnie nie ma licencji. Następnie wybierz **pozycję Wyewidencjlij teraz**.
 5. Przejrzyj informacje o cenach i wybierz pozycję **Dalej**.
