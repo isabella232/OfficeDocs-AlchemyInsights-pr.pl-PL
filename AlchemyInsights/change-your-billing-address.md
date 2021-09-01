@@ -3,7 +3,6 @@ title: Zmienianie adresu rozliczeniowego
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -17,12 +16,13 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b480073813239b4bba02bb29b5fbf9a2ff681472
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: f5320762aa8327dc7aa94cf46226b70462c9d9ec
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330418"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843316"
 ---
 # <a name="change-your-billing-address"></a>Zmienianie adresu rozliczeniowego
 
@@ -33,13 +33,13 @@ Rachunek lub faktura zawiera trzy adresy.
 1. W centrum administracyjnym przejdź do pozycji **Rozliczenia > [metodach płatności.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 2. Wybierz kartę kredytową lub konto bankowe, które chcesz zmienić.
 3. Na stronie **Szczegóły metody płatności** kliknij pozycję **Edytuj**.
-4. Zaktualizuj swój adres rozliczeniowy, a następnie kliknij **pozycję Zapisz > Gotowe**.
+4. Zaktualizuj adres rozliczeniowy, a następnie kliknij **pozycję Zapisz > Gotowe**.
 
 Aby uzyskać więcej informacji na temat zmian adresu i powiadomień, zobacz Zmienianie adresu rozliczeniowego dla usługi [Microsoft 365 dla firm.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
 
 **Zmienianie informacji o koncie rozliczeniowym**
 
-1. W centrum administracyjnym przejdź do pozycji **Rozliczenia > [Konta rozliczeniowe.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**
+1. W centrum administracyjnym przejdź do pozycji Rozliczenia **> [konta rozliczeniowe.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**
 2. Wybierz **pozycję Edytuj informacje o koncie rozliczeniowym**.
 3. Zaktualizuj informacje o koncie rozliczeniowym, a następnie kliknij **pozycję Zapisz > Gotowe**.
 

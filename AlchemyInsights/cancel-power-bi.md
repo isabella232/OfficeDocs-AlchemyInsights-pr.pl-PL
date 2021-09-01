@@ -15,18 +15,19 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 29d543859717e52bd625395429a49b785b35d3ff
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318960"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843424"
 ---
 # <a name="cancel-power-bi"></a>Anuluj Power BI
 
 Power BI anulować w centrum administracyjne platformy Microsoft 365.
 
-1. W centrum administracyjnym przejdź do strony Rozliczenia **> [Twoje](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkty.
+1. W centrum administracyjnym przejdź do strony Rozliczenia **> [Produkty.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Na **karcie Produkty** znajdź subskrypcję, którą chcesz anulować. Wybierz trzy kropki (więcej akcji), a następnie wybierz Anuluj **subskrypcję**.
 3. W **okienku Anulowanie** subskrypcji wybierz powód anulowania. Opcjonalnie możesz przekazać opinię.
 4. Wybierz **Zapisz**.
