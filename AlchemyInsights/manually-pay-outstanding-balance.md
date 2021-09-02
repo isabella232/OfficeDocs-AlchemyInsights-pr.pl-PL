@@ -1,8 +1,9 @@
 ---
-title: Ręczne opłacanie zaległych należności
+title: Ręczne spłacanie zaległego salda
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,26 +11,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001506"
 - "9147"
 - "1500012"
 - "9689"
 - "1500018"
 - "9690"
-ms.openlocfilehash: c2b9f6142772f4afa9146b79fb9797acba611cff
-ms.sourcegitcommit: 1e00da0b3665f54e377cbe28809b2d1e1db4bd4b
-ms.translationtype: MT
+ms.date: 08/10/2021
+ms.openlocfilehash: 65621eae4c201a07983853f589caa5169a85660f
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51492296"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836691"
 ---
-# <a name="manually-pay-an-outstanding-balance"></a>Ręczne opłacanie zaległych należności
+# <a name="manually-pay-an-outstanding-balance"></a>Ręczne spłacanie zaległego salda
 
-Ostatnie zmiany przepisów bankowych dotyczących automatycznych transakcji cyklicznych mogą być przyczyną odrzucenia płatności przez bank. Wykonaj poniższe czynności, aby ręcznie zapłacić saldo.
+Ostatnie zmiany przepisów bankowych dotyczące automatycznych transakcji cyklicznych mogły spowodować odrzucenie płatności przez bank. Wykonaj poniższe kroki, aby ręcznie spłacić saldo.
 
-1. W centrum administracyjnym przejdź do **strony** Rozliczenia &  >  [i](https://go.microsoft.com/fwlink/p/?linkid=2018806) płatności, a następnie wybierz **kartę Metody** płatności.
-2. Komunikat ostrzegawczy informuje, która metoda płatności została odrzucona. Wybierz link **Rozlicz saldo.**
-3. W prawym okienku wybierz swoją bieżącą metodę płatności, wybierz inną metodę płatności lub dodaj nową metodę płatności, a następnie wybierz pozycję **Rozlicz saldo**.
-4. Jeśli bank tego wymaga, zostanie wyświetlony monit o podanie dodatkowych szczegółów zabezpieczeń i uwierzytelniania.
+1. W centrum administracyjnym przejdź do strony **Rozliczenia** > [Rachunki i płatności](https://go.microsoft.com/fwlink/p/?linkid=2018806), a następnie wybierz kartę **Formy płatności**.
+2. Komunikat ostrzegawczy z informacją o tym, która forma płatności została odrzucona. Wybierz link **Rozliczenie salda**.
+3. W okienku po prawej stronie wybierz bieżącą formę płatności lub inną formę płatności albo dodaj nową formę płatności, a następnie wybierz pozycję **Rozliczenie salda**.
+4. Jeśli bank tego wymaga, zostanie wyświetlony monit o podanie dodatkowych informacji dotyczących zabezpieczeń i uwierzytelniania.
 
-Aby dowiedzieć się więcej, zobacz [Zarządzanie metodami płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) i [Płacenie za subskrypcję.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Aby dowiedzieć się więcej, zobacz [Zarządzanie formami płatności](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) i [Płacenie za subskrypcję](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
