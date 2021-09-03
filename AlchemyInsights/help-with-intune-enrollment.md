@@ -11,13 +11,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002973"
+- "6700002"
 - "5687"
-ms.openlocfilehash: 57a7973d8d7a8daede01b86f8bf2261a5aa33328fa3fa4ac3b2e0a8967ee964b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+- "5762"
+ms.openlocfilehash: f2a393b5fb820cfdbd04191cdd1fcda00e7c2b96
+ms.sourcegitcommit: 1761960d03b3df7783b744ee539a7e6dbabae90c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54116270"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58884027"
 ---
 # <a name="help-with-intune-enrollment"></a>Pomoc w rejestracji w usłudze Intune
 
@@ -28,10 +30,10 @@ ms.locfileid: "54116270"
 
 - [Konfigurowanie rejestracji urządzeń z systemem Android za pomocą usługi Intune](https://docs.microsoft.com/intune/android-enroll)
 
-- [Konfigurowanie rejestrowania Windows urządzenia w usłudze Intune](https://docs.microsoft.com/intune/windows-enroll)
+- [Konfigurowanie rejestrowania Windows za pomocą usługi Intune](https://docs.microsoft.com/intune/windows-enroll)
 
 **Rozwiązywanie problemów z rejestracją urządzenia**
 
-1. Użyj Portalu rozwiązywania problemów Intune, aby zdiagnozować i rozwiązać typowe błędy rejestracji. Przejrzyj [ten dokument,](https://docs.microsoft.com/intune/help-desk-operators) aby uzyskać więcej informacji.
+1. Użyj Portalu rozwiązywania problemów Intune, aby zdiagnozować i rozwiązać typowe błędy rejestracji. Przejrzyj [ten dokument,](https://docs.microsoft.com/intune/help-desk-operators) aby uzyskać więcej szczegółów.
 
 2. Przejrzyj te dokumenty, aby uzyskać listę typowych błędów uniemożliwiających rejestrację i rozwiązanie dla każdego [z](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) nich: Przewodnik po rozwiązywaniu problemów i [Dokument rozwiązywania problemów.](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)
