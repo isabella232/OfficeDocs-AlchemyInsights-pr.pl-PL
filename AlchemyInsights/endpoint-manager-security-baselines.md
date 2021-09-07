@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978171"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923564"
 ---
 # <a name="endpoint-manager---security-baselines"></a>Endpoint Manager — Plany bazowe zabezpieczeń
 
@@ -37,6 +37,8 @@ Wszystkie plany bazowe są okresowo aktualizowane i wydawane w wersjach przyrost
 Aby uzyskać wskazówki dotyczące najskuteczniejszego zmieniania wersji wdrożonego planu bazowego, zobacz [Zarządzanie profilami planu bazowego zabezpieczeń w usłudze Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
 Po wdrożeniu planu bazowego zabezpieczeń możesz monitorować stan wdrożenia i przeglądać ustawienia na poszczególnych urządzeniach.
+
+Ponieważ plan bazowy zabezpieczeń zawiera wiele ustawień, należy przejrzeć zmiany konfiguracji i przeprowadzić testy, aby upewnić się, że wszystkie ustawienia są odpowiednie dla Twoich urządzeń i potrzeb biznesowych.
 
 **Uwaga:** Zanim dane raportowania dla planów bazowych będą widoczne, od momentu wdrożenia wstępnego na urządzeniu może upłynąć do 24 godzin, a w przypadku kolejnych aktualizacji do 6 godzin. 
 
