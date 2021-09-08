@@ -1,5 +1,5 @@
 ---
-title: Aktywowanie Office 365 na Windows 365
+title: Aktywowanie aplikacji usługi Office 365 na komputerach z platformą Windows 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "13738"
 - "9008599"
-ms.openlocfilehash: ecbd34d10ca079cfd4a7c3cd0511e9101b946511
-ms.sourcegitcommit: faeffebb79a18b9256b3c518840842879e22c00e
-ms.translationtype: MT
+ms.openlocfilehash: 9582264ce6ef8ab6e5a1e1c2a09baba7f1f03f50
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58792809"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923528"
 ---
-# <a name="activating-office-365-applications-on-windows-365-pcs"></a>Aktywowanie Office 365 na Windows 365
+# <a name="activating-office-365-applications-on-windows-365-pcs"></a>Aktywowanie aplikacji usługi Office 365 na komputerach z platformą Windows 365
 
-Windows 365 komputerów PC zawierają zainstalowane kopie aplikacji Office 365, które są aktywowane podczas otwierania dowolnej aplikacji Office po raz pierwszy.
+**Uwaga**: Ten problem NIE dotyczy użytkowników z licencjami platformy Windows 365 Enterprise.
 
-W trakcie procesu aktywacji licencjonowany użytkownik usługi Windows 365 Business może napotkać następujący błąd:
+Obrazy komputerów z platformą Windows 365 obejmują zainstalowane kopie aplikacji usługi Office 365, które są aktywowane podczas otwierania dowolnej aplikacji pakietu Office po raz pierwszy.
 
-"Problem z kontem
+Podczas procesu aktywacji licencjonowany użytkownik platformy Windows 365 Business może napotkać następujący błąd:
 
-Produktów znalezionych na koncie nie można użyć do aktywowania pakietu Office w scenariuszach z komputerem współużytkowanych Kod błędu 0x80004005"
+„Problem z kontem
 
-Aby rozwiązać ten problem, poproś użytkownika, u którego występuje problem, o wykonania następujących czynności: 
+Produktów znalezionych na koncie nie można użyć do aktywowania pakietu Office w scenariuszach z komputerem współużytkowanym Kod błędu 0x80004005”
 
-1. Odinstaluj Office aplikacji z komputera w chmurze.
-1. Przejdź do Office.com i wybierz opcję Zainstaluj pakiet Office.
+Aby rozwiązać ten problem, poproś użytkownika, którego on dotyczy, o wykonanie następujących czynności: 
 
-    Office aktywacja powinna zostać ukończona pomyślnie.
+1. Odinstaluj istniejące aplikacje pakietu Office z komputera w chmurze.
+1. Przejdź do witryny Office.com i wybierz opcję Instalowania pakietu Office.
+
+    Aktywacja pakietu Office powinna wówczas zakończyć się pomyślnie.
