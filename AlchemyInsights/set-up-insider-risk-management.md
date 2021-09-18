@@ -12,27 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 2e5f66b813d275bf6c799d54dd13f55a08a909d78aa24fac56f54caf8a0f4f58
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c4003faac9294725283786fd865217fdc7fcdcef
+ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060866"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59446665"
 ---
 # <a name="set-up-insider-risk-management"></a>Konfigurowanie zarządzania ryzykiem wewnętrznym
 
-Aby uzyskać dostęp do zarządzania ryzykiem wewnętrznym i korzystać z niego, Twoja organizacja **musi** mieć jedną z następujących subskrypcji:
+Aby uzyskać dostęp do zarządzania ryzykiem wewnętrznym i korzystać z niego, Twoja organizacja musi mieć jedną z następujących subskrypcji:
 
-- subskrypcję planu usługi **Microsoft 365 E5**.
+- Microsoft 365 Subskrypcja G5 (płatna lub próbna)
+- Microsoft 365 G3 + dodatek zgodności Microsoft 365 G5
+- Microsoft 365 G3 + dodatek Microsoft 365 zarządzanie ryzykiem w ramach niejawnego programu testów G5
+- Office 365 E3 + Enterprise Mobility and Security E3 + Zgodność platformy Microsoft 365 E5 pakietu
 
-- subskrypcję planu usługi **Microsoft 365 E3** z dodatkiem zgodności Microsoft E5.
+Jeśli nie masz jeszcze planu usługi Microsoft 365 E5 i chcesz wypróbować zarządzanie ryzykiem w ramach niejawnego programu testów, możesz dodać program Microsoft 365 do istniejącej subskrypcji lub utworzyć konto w celu wypróbowania usługi Microsoft 365 Enterprise E5.
 
-Jeśli nie masz jeszcze istniejącego planu usługi **Microsoft 365 E5** i chcesz wypróbować zarządzanie ryzykiem wewnętrznym, możesz dodać usługę Microsoft 365 do istniejącej subskrypcji lub utworzyć konto w wersji próbnej planu usługi Microsoft 365 Enterprise E5.
+**Wskazówki:**
 
-> [PORADY]
-- > Używanie szablonu "Wycieki danych": upewnij się, że masz skonfigurowaną co najmniej jedną zasadę DLP.
-- > Administrator nie widzi alertów: upewnij się, że użytkownik został przypisany do jednej z następujących grup:
-    - >**Analitycy zarządzania ryzykiem wewnętrznym**
-    - >**Badacze zarządzania ryzykiem wewnętrznym**
+- Używając szablonu Data Leaks, upewnij się, że skonfigurowano co najmniej jedną politykę ochrony przed utratą danych (DLP). Istnieje jednak nowa opcja wyzwalacza, która nie wymaga konfigurowania zasad DLP.
 
-Aby uzyskać więcej informacji o tym, jak zasady ryzyka wewnętrznego pomogą Ci w zarządzaniu ryzykiem w organizacji, zobacz [Zarządzanie ryzykiem wewnętrznym w usłudze Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2123907).
+- Administratorzy globalni domyślnie nie mają dostępu do portalu zarządzania ryzykiem w niejawnym programie testów. Musi mieć przypisaną jedną z ról w zarządzaniu ryzykiem w niejawnym programie testów.
+
+- Jeśli administrator nie widzi alertów, upewnij się, że użytkownik jest przypisany do jednej z następujących grup:
+
+    Analitycy zarządzania ryzykiem wewnętrznym
+
+    Badacze zarządzania ryzykiem wewnętrznym
+
+Aby uzyskać więcej informacji o tym, w jaki sposób grupy ds. ryzyka niejawnego programu testów mogą ułatwić Zarządzanie ryzykiem w organizacji, zobacz Informacje na temat zarządzania ryzykiem w niejawnym [programie testów w programie Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management)
