@@ -12,13 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3545"
-ms.openlocfilehash: 6a4995ef309a9434c458fe3578a0048d1c67989781e09ee2018fda867c0b69f5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 24723b66d907947e35e5f0287305b6d25d65511e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54115010"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475191"
 ---
 # <a name="limit-sharing-in-microsoft-365"></a>Ograniczanie udostępniania w Microsoft 365
 
-Chociaż nie można całkowicie wyłączyć udostępniania wewnętrznego ani usunąć przycisku Udostępnij z witryn, istnieje wiele sposobów ograniczenia udostępniania w programie Microsoft 365 w celu zaspokojenia potrzeb organizacji. Aby uzyskać więcej informacji, [zobacz Ograniczanie udostępniania w programie Microsoft 365.](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing)
+Mimo że nie można całkowicie wyłączyć udostępniania wewnętrznego ani usunąć przycisku Udostępnij z witryn, możesz ograniczyć udostępnianie w programie Microsoft 365 na wiele sposobów, aby spełnić potrzeby swojej organizacji. 
+
+Więcej informacji można znaleźć w następujących artykułach:
+
+- [Ogranicz udostępnianie w programie Microsoft 365.](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing)
+- [Zatrzymywanie OneDrive lub SharePoint plików lub folderów](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Jak usunąć użytkowników z SharePoint](https://docs.microsoft.com/sharepoint/remove-users)

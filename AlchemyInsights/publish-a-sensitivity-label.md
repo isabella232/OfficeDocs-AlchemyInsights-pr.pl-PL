@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 1fe426683a8c39d07e59bb4121131ecacf1832075f626b26982ec0ede3c24698
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b9025092c154f2734f74dc547de877e70caac2e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062882"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475227"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Jak opublikować etykietę wrażliwości
 
-1. Przejdź do centrum Microsoft 365 zgodności i > **etykiet ochrony**  >  **informacji.**
+1. Przejdź do centrum zgodności Microsoft 365 i > **Etykiety ochrony**  >  **informacji.**
 
 1. Wybierz **pozycję + Publikuj etykietę,** aby uruchomić kreatora Nowa etykieta wrażliwości.
 
@@ -39,3 +39,5 @@ ms.locfileid: "54062882"
 1. Jeśli utworzysz więcej niż jedną zasady etykiet, które mogą powodować konflikty w przypadku użytkownika lub lokalizacji, przejrzyj kolejność zasad i w razie potrzeby przenieś je w górę lub w dół. Aby zmienić kolejność zasad etykiet, wybierz trzy kropki (więcej akcji), a następnie wybierz **pozycję** Przenieś w górę lub **Przenieś w dół**.
 
 Ukończenie pracy kreatora spowoduje automatyczne opublikowanie zasad etykiet.
+
+Aby uzyskać więcej informacji, [zobacz Tworzenie i konfigurowanie etykiet wrażliwości oraz ich zasad.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
