@@ -1,5 +1,5 @@
 ---
-title: Migrowanie z usługi Microsoft Stream (wersja klasyczna) do nowej usługi Microsoft Stream
+title: Migrowanie Microsoft Stream (wersja klasyczna) do nowej usługi Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6449"
-ms.openlocfilehash: d1196b0a9737da577833c90a7b5202fde264973c8fe9b196ec55d595315d2a20
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a88d4beab4d3749d622f200f7b4117e7ed4a80f9
+ms.sourcegitcommit: cce7932374d1b8ad5806a28bff2b4bac4702852d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54097388"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59482678"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream to usługa wideo klasy korporacyjnej, która pozwala użytkownikom należącym do organizacji bezpiecznie przekazywać, wyświetlać i udostępniać klipy wideo. Możesz udostępnić nagrania zajęć, spotkań, prezentacji, sesji szkoleniowych lub inne klipy wideo, które ułatwiają współpracę Twojego zespołu.  
+Nowa wizja usługi Microsoft Stream umożliwia użytkownikom tworzenie, udostępnianie i odkrywanie wideo oraz zarządzanie nimi tak samo, jak każdy inny plik. Więcej informacji można znaleźć w następujących artykułach:
 
-- [Nowa usługa Microsoft Stream](https://docs.microsoft.com/stream/new-stream)
-- [Microsoft Stream (wersja klasyczna)](https://docs.microsoft.com/stream/overview)
-- [Migrowanie z usługi Microsoft Stream (wersja klasyczna) do nowej usługi Microsoft Stream](https://docs.microsoft.com/stream/classic-migration)
+- [Stream (wbudowana SharePoint), nowa wersja usługi Microsoft Stream](https://docs.microsoft.com/stream/streamnew/new-stream)
+- [Omówienie migrowania z aplikacji Microsoft Stream (wersja klasyczna) do streamu (wbudowane w SharePoint)](https://docs.microsoft.com/stream/streamnew/stream-classic-to-new-migration-overview)
