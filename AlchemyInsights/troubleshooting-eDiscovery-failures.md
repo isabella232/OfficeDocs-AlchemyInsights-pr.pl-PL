@@ -14,27 +14,28 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b60cfc298ee05375523e3660f407ab03e630c861
+ms.sourcegitcommit: e9e282be4997b0ee95f1ff4491e0943f8fc52444
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105578"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59481815"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Rozwiązywanie problemów z wyszukiwaniem zawartości
 
-Czy podczas eksportowania wyników wyszukiwania występują problemy z wyszukiwaniem zawartości lub występują błędy?
+Czy występują problemy z wyszukiwaniem zawartości lub błędy podczas eksportowania wyników wyszukiwania?
+Na przykład po uruchomieniu wyszukiwania są odbierane następujące informacje?
 
-Na przykład podczas uruchamiania wyszukiwania są odbierane następujące wiadomości?
-
-- Błędy CS008 lub CS012
+- Błędy CS007, CS008 lub CS012
 
 - Błędy zajęty/limit czasu serwera
 
 - Wystąpił błąd aplikacji
 
-A jeśli wyszukiwanie lub eksportowanie wyników z dużej liczby skrzynek pocztowych (ponad 100 000 skrzynek pocztowych) powoduje uzyskanie błędów eksportu?
+A może w przypadku wyszukiwania lub eksportowania wyników z dużej liczby (ponad 100 000) skrzynek pocztowych są również publikowane błędy eksportowania?
 
-W przypadku tych typów błędów ponów próbę wyszukiwania lokalizacji zawartości, które nie powiodły się. Aby  [uzyskać więcej informacji,](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) zobacz ten artykuł.
+W przypadku tych błędów ponów próbę wyszukiwania lokalizacji zawartości, których wyszukiwanie zakończyło się niepowodzeniem, lub zaktualizuj wyszukiwanie, zmniejszając złożoność zapytania wyszukiwania. Na przykład wyszukiwanie przy podstawie symboli wieloznaczych może zwrócić zbyt wiele wyników, aby system mógł zostać przetworzyć, co powoduje błąd CS007.   
 
-W przypadku eksportowania więcej niż 100 000 skrzynek pocztowych w celu pobrania wyników eksportowania należy użyć następującego programu PowerShell: Eksportowanie wyników z ponad  [100 000](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)skrzynek pocztowych.
+Aby uzyskać więcej informacji, zobacz [Ponowne](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) wyszukiwanie zawartości w celu rozwiązania problemu z lokalizacją zawartości lub Badanie, rozwiązywanie i rozwiązywanie typowych problemów [zbierania elektronicznych materiałów dowodowych.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues)
+
+Jeśli eksportujesz więcej niż 100 000 skrzynek pocztowych, musisz pobrać wyniki eksportowania. Aby uzyskać szczegółowe informacje, zobacz [Eksportowanie wyników wyszukiwania zawartości.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
