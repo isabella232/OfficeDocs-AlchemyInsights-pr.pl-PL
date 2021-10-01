@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 782d79d7a67515ff02f9cef61176b9bea9017f1ad490090e748a10005c3c8bf3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54092317"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60077224"
 ---
 # <a name="uk-domain-transfers"></a>Transfery domeny .uk
 
-Skontaktuj się z pomocą techniczną firmy Microsoft i poproś o zmianę **tagu usługi IPS,** aby dopasować rejestratora, który będzie zarządzał Twoją domeną w przyszłości. Po zmianie tagu domena zostanie natychmiast przekierowyna do nowego rejestratora. Następnie musisz współpracować z nowym rejestratorem, aby ukończyć transfer, prawdopodobnie naliczając opłaty za transfer i dodając przetransferowana domenę do swojego konta u nowego rejestratora.
+Transfery domen w Wielkiej Brytanii wymagają tagu IPS nowego rejestratora. Tag IPS można wprowadzić w Kreatorze transferu domen w portalu administracyjnym firmy Microsoft:
 
-Aby uzyskać więcej informacji na temat przenoszenia domen, [zobacz Przenoszenie domeny z firmy Microsoft do innego hosta.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)
+- Przejdź do **Ustawienia**  >  **Domeny,** kliknij dwukrotnie domenę i wybierz pozycję **Przenieś** domenę, aby uruchomić kreatora przenoszenia.
 
-Przygotuj się do podania tagu IPS nowego rejestratora, który można znaleźć w https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
+Po zmianie tagu domena zostanie natychmiast przekierowyna do nowego rejestratora. Następnie musisz współpracować z nowym rejestratorem, aby dokończyć transfer, prawdopodobnie naliczając opłaty za transfer i dodając przetransferowana domenę do swojego konta u nowego rejestratora.
+
+Aby uzyskać więcej informacji na temat przenoszenia domen, [zobacz Przenoszenie domeny z firmy Microsoft do innego hosta.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)
