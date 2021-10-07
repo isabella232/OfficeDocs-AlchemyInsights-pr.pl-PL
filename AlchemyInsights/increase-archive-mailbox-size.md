@@ -8,28 +8,31 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 305
+ms.custom:
+- "305"
+- "7494"
+- "3100006"
 ms.assetid: ''
-ms.openlocfilehash: f9cc968aba32645fd4433616618d096231ce4899e9e93335e802af5c05524a79
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d74a1baa02a74c8efd3be75ed711a2e994b9b552
+ms.sourcegitcommit: 68b50235d10ebb92b594ac3224c55cf0e8452ac9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53926399"
+ms.lasthandoff: 10/07/2021
+ms.locfileid: "60226102"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Zwiększanie rozmiaru archiwazyjnych skrzynek pocztowych
 
+Microsoft 365 rozmiaru archiwalnych skrzynek pocztowych na podstawie licencji przypisanej do konta użytkownika. Użytkownik otrzyma wiadomość e-mail z powiadomieniem, gdy archiwalne skrzynki pocztowe osiągną 90% dozwolonego rozmiaru.
 
-Jeśli chcesz, abyśmy uruchamiali automatyczne testy ustawień wymienionych poniżej, wybierz przycisk wstecz < — u góry tej strony, a następnie wprowadź adres e-mail użytkownika, który potrzebuje zwiększonego rozmiaru archiwałowej skrzynki pocztowej.
-
-Microsoft 365 [rozmiaru](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) archiwalnych skrzynek pocztowych na podstawie licencji przypisanej do konta użytkownika. Gdy archiwalne skrzynki pocztowe osiągną 90% dozwolonego rozmiaru, użytkownik otrzymuje powiadomienie e-mail. Gdy archiwalne skrzynki pocztowe osiągną limit rozmiaru, użytkownik nie może przenieść więcej elementów do archiwaowej skrzynki pocztowej. Microsoft 365 rozmiar archiwazyjnych skrzynek pocztowych nie zostanie zwiększany po osiągnięciu limitu rozmiaru. Zamiast tego użytkownicy mogą podjąć następujące działania w celu wolnego miejsca w archiwaowej skrzynce pocztowej:
+Gdy archiwalne skrzynki pocztowe osiągną limit rozmiaru, użytkownik nie może przenieść więcej elementów do archiwaowej skrzynki pocztowej. Microsoft 365 rozmiar archiwazyjnych skrzynek pocztowych nie zostanie zwiększany po osiągnięciu limitu rozmiaru. Zamiast tego użytkownicy mogą podjąć następujące działania w celu wolnego miejsca w archiwaowej skrzynce pocztowej:
 
 - Wyeksportuj elementy do pliku pst przy użyciu Outlook.
-
 - Usuwanie elementów z archiwaowej skrzynki pocztowej.
 
-Microsoft 365 **nieograniczoną archiwizację** dla Office 365 Enterprise E3 i E5. Administrator musi włączyć tę funkcję, zanim archiwalne skrzynki pocztowe osiągną maksymalny rozmiar. Gdy jest włączona nieograniczona archiwizacja, dodanie wolnego miejsca do archiwalnej skrzynki pocztowej może potrwać do 30 dni. Dlatego zalecamy, aby administratorzy sprawdzili ilość wolnego miejsca w archiwaowej skrzynce pocztowej, co pozwoli użytkownikowi nadal korzystać z archiwaowej skrzynki pocztowej podczas jej rozszerzania. Aby uzyskać więcej informacji, zobacz [Omówienie nieograniczonej](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving) archiwizacji w programie Microsoft 365 i Włączanie nieograniczonej archiwizacji w [Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving)
+Jednak Microsoft 365 automatyczne rozszerzanie archiwizacji dla Office 365 Enterprise E3 i E5. Musi to być włączone, zanim archiwalne skrzynki pocztowe osiągną maksymalny rozmiar. Gdy jest włączone automatyczne rozszerzanie archiwum, dodanie wolnego miejsca do archiwaowej skrzynki pocztowej może potrwać do 30 dni.
 
-Aby uzyskać więcej informacji na temat uzyskiwania dostępu do archiwaowej skrzynki pocztowej z programu Outlook, zobacz wymagania Outlook dotyczące uzyskiwania dostępu do elementów w archiwum rozszerzonym [automatycznie.](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive) Aby skonfigurować zasady przechowywania, które automatycznie przesuną elementy do archiwaowej skrzynki pocztowej, zobacz Konfigurowanie zasad archiwizacji i usuwania dla skrzynek pocztowych w [Microsoft 365 organizacji.](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+Aby uzyskać więcej informacji, zobacz [Omówienie automatycznego](https://docs.microsoft.com/microsoft-365/compliance/autoexpanding-archiving) rozwijania archiwizacji i Włączanie automatycznego rozwijania archiwizacji — Pomoc [dla administratorów.](https://docs.microsoft.com/microsoft-365/compliance/enable-autoexpanding-archiving)
 
-**Uwaga:** Automatyczne rozwijanie archiwów nie jest obsługiwane w przypadku podstawowych skrzynek pocztowych w programie Exchange 2010.
+Aby uzyskać informacje na temat uzyskiwania dostępu do archiwum za Outlook, zobacz wymagania Outlook dotyczące uzyskiwania dostępu do elementów w archiwum rozszerzonym [automatycznie.](https://docs.microsoft.com/microsoft-365/compliance/autoexpanding-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive)
+
+Aby uzyskać informacje na temat konfigurowania zasad przechowywania, które automatycznie przesuną elementy do archiwaowej skrzynki pocztowej, zobacz Konfigurowanie zasad archiwizacji i usuwania dla skrzynek pocztowych Microsoft 365 [organizacji.](https://docs.microsoft.com//microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
